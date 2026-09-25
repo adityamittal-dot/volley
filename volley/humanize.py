@@ -7,6 +7,8 @@ fixer model once.
 """
 import re
 
+from .config import profile
+
 BANNED = [
     r"\bdelve", r"\bleverag", r"\butiliz", r"\bseamless", r"\brobust\b", r"\bcutting[- ]edge", r"\binnovative",
     r"\bpassionate", r"\bsynerg", r"\bthrilled", r"\bexcited to\b", r"\bjourney\b", r"\blandscape\b", r"\brealm\b",
@@ -56,8 +58,30 @@ def scan(subject, body, max_words=110, max_links=1):
         issues.append("stacked lists of three")
     if body.count("?") > 2:
         issues.append("too many questions")
-    if len(subject.split()) > 8:
-        issues.append(f"subject too long ({len(subject.split())} words)")
-    if re.search(r"\b(opportunity|application|urgent|re:)\b", subject, re.I):
-        issues.append("spammy subject word")
+    issues += subject_issues(subject)
+    return issues
+
+
+def subject_tail(p=None):
+    i = (p or profile())["identity"]
+    return f" – {i['name']}, {i['grad_year']} CS Graduate"
+
+
+def subject_issues(subject, p=None):
+    """First-touch subjects have one professional shape: '<Role> – <Name>, <year> CS Graduate',
+    e.g. 'Full Stack Development Internship – Aditya Mittal, 2027 CS Graduate'."""
+    tail = subject_tail(p)
+    if not subject.endswith(tail):
+        return [f"subject must be '<Role>{tail}'"]
+    role = subject[:-len(tail)]
+    issues = []
+    if not 2 <= len(role.split()) <= 6 or len(role) > 45:
+        issues.append(f"subject role '{role}' must be 2-6 words, max 45 characters")
+    if not re.search(r"\b(Intern|Internship|Engineer|Developer|Role|Position)s?$", role):
+        issues.append(f"subject role '{role}' must end in Internship/Intern/Engineer/Developer/Role/Position")
+    if re.search(r"[+?!:@#()\[\]]|https?:|\b(opportunity|application|urgent|re)\b", role, re.I):
+        issues.append(f"subject role '{role}' has a symbol or spammy word")
+    small = {"and", "of", "in", "for", "the", "to", "&", "/", "-", "–"}
+    if any(w[0].islower() and w not in small for w in role.split()):
+        issues.append(f"subject role '{role}' must be in Title Case")
     return issues

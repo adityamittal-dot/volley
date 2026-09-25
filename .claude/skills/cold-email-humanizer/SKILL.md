@@ -17,8 +17,12 @@ himself in five minutes because he actually looked at their company.
   Tie it to what they do in a few words, don't explain the connection at length.
 - **Ask:** say plainly he's a 2027 grad looking for an internship or entry-level role, then end with **one**
   low-effort question they can answer in a line ("Is anyone on the team taking on an intern this year?").
-- **Subject:** 3-6 words, specific to them, lowercase is fine: `question about <thing>`,
-  `<their thing> + a 2027 grad`. Never "opportunity", "application", "internship request", "RE:", emojis.
+- **Subject:** always `<Role> – Aditya Mittal, 2027 CS Graduate` (`volley check` enforces it). `<Role>` is
+  the role you're asking for, cleaned up in Title Case, 2-6 words, ending in Internship, Intern, Engineer,
+  Developer, Role or Position: use the posting's title when it's a clean role name ("Full Stack Development
+  Internship", "Backend Engineer Intern"), otherwise the closest plain one ("Software Engineering
+  Internship"). Never the feed's noise ("Engineering (YC Summer 2016)", a URL, "See posting"), never a
+  hook, pun, question, "+", emoji, "Opportunity", "Application" or "RE:". The body carries the specifics.
 - No sign-off, no signature, no mention of resume/GitHub/LinkedIn (the signature adds them).
 
 ## Voice (the humanizer; `volley check` rejects violations)
@@ -38,7 +42,7 @@ himself in five minutes because he actually looked at their company.
 
 ## Example
 ```
-Subject: your tree-sitter indexer
+Subject: Software Engineering Internship – Aditya Mittal, 2027 CS Graduate
 
 Hi Maya,
 

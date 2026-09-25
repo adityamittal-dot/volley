@@ -15,16 +15,13 @@
       "Python",
       "SQL",
       "HTML5",
-      "CSS3/SCSS",
-      "C",
-      "C++"
+      "CSS3/SCSS"
     ],
     "Frontend (JavaScript frameworks)": [
       "React.js",
       "Next.js",
-      "shadCN",
       "Tailwind CSS",
-      "EJS"
+      "shadCN"
     ],
     "Backend & Frameworks": [
       "Node.js",
@@ -32,35 +29,25 @@
       "Django",
       "Django REST Framework",
       "JWT",
-      "OAuth 2.0",
-      "Temporal"
+      "OAuth 2.0"
     ],
     "Databases": [
       "MongoDB",
       "PostgreSQL"
     ],
-    "Cloud & Infrastructure": [
-      "AWS (S3, STS, EC2, Lambda, RDS, IAM, CloudWatch, EKS, ECS, CloudFront, SQS, SNS, DynamoDB, API Gateway, VPC, ELB, CloudFormation, CDK, Secrets Manager, Parameter Store)",
-      "Kubernetes",
-      "Docker",
-      "Vercel"
-    ],
-    "Testing & Quality Assurance": [
-      "Playwright (E2E Testing)",
-      "Sentry",
-      "Visual Regression Testing",
-      "Test Automation Architecture"
-    ],
-    "DevOps & Tooling": [
+    "Cloud & DevOps": [
+      "AWS (S3, EC2)",
       "Docker",
       "Docker Compose",
-      "Terraform",
+      "Vercel",
       "Git",
       "GitHub",
-      "npm Workspaces",
-      "Postman",
-      "Linux/Bash",
-      "CI/CD"
+      "CI/CD",
+      "Linux/Bash"
+    ],
+    "Testing & Tooling": [
+      "Playwright (E2E Testing)",
+      "Postman"
     ]
   },
   "experience": [

@@ -4,17 +4,25 @@ You are adapting the candidate's master resume (`config/resume.json`) for one sp
 reorder, re-emphasize and rephrase true material; you never write fiction. A false claim can cost him an offer.
 
 1. Never invent a skill, technology, employer, title, date, or metric that isn't in `config/resume.json` or
-   `config/profile.yaml`. `volley check` rejects new numbers, changed jobs/dates/identity/education, and
-   unknown projects.
+   `config/profile.yaml`. `volley check` rejects new numbers, changed jobs/dates/identity/education, unknown
+   projects, and dropping a skill the posting or the resume itself uses.
 2. Never attach a technology to a claim that doesn't name it (an "OAuth race condition via DB-level row
    locking" stays that; it never becomes "PostgreSQL row locking").
 3. Never change a number. You may change which bullet leads, not what it claims.
 4. Mirror the JD's exact wording where his real experience matches it: this is the point of tailoring.
    Each of your declared `gap_terms` must end up verbatim in the resume (skills line or a bullet).
-5. Technical Skills keeps every item from the master (reorder categories freely). The only additions
-   allowed are the declared `gap_terms`, and only when they are learnable add-on tools/services the JD
-   names (a cloud service, database, library, protocol). Never add a primary programming language or
-   framework he hasn't used.
+5. Technical Skills is a focused list for this job, not everything he knows. A 40-item list at an intern
+   level reads as padding and makes a recruiter doubt all of it. So:
+   - Cut what this company would find irrelevant given the posting and what they build (e.g. Temporal,
+     Terraform or a long AWS service list for a frontend role; EJS or Visual Regression Testing for a
+     backend role). Empty categories disappear; rename or merge categories to fit the role.
+   - Shorten a parenthesised list to the relevant part: `AWS (S3, EC2, Lambda)` from the master's AWS list.
+   - Keep everything the posting names, everything the resume's own bullets and stacks use (e.g. AWS
+     for the S3 bullet, Django for the projects), and the core languages/frameworks. At least 15 items.
+   - Order by relevance: the posting's stack first, in every category.
+   - The only additions allowed are the declared `gap_terms`, and only when they are learnable add-on
+     tools/services the JD names (a cloud service, database, library, protocol). Never add a primary
+     programming language or framework he hasn't used.
 6. Keep both jobs (same company, role and dates, verbatim) and both projects (MedVault, Canopy, with
    their `live` URLs unchanged). Keep education and extracurricular.
 7. `headline` is the short role title under the name (master: `Full Stack Engineer | AI Integration`). You

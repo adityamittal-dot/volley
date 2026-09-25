@@ -22,6 +22,7 @@ MASTER = ROOT / "config" / "resume.json"
 RESUME_ASK = re.compile(r"\b(resume|résumé|cv)\b", re.I)
 MIN_POSTING_CHARS = 600
 MIN_FIT = 8
+MIN_SKILLS = 15   # a tailored skills section is trimmed to what the job needs, never gutted
 
 
 def master():
@@ -63,7 +64,18 @@ def _numbers(text):
     return set(re.findall(r"\d+(?:\.\d+)?\+?", text))
 
 
-def verify(tailored, gap_terms, profile_text):
+def _base(skill):
+    """'AWS (S3, EC2)' -> 'AWS'"""
+    return re.sub(r"\s*\(.*\)$", "", skill).strip()
+
+
+def _subs(skill):
+    """'AWS (S3, EC2)' -> {'S3', 'EC2'}"""
+    m = re.search(r"\((.*)\)$", skill)
+    return {x.strip() for x in m.group(1).split(",")} if m else set()
+
+
+def verify(tailored, gap_terms, profile_text, posting=""):
     """Return a list of truthfulness problems (empty = OK)."""
     m = master()
     problems = []
@@ -78,15 +90,30 @@ def verify(tailored, gap_terms, profile_text):
     texp = {(e.get("company"), e.get("role"), e.get("dates")) for e in tailored.get("experience", [])}
     if texp != mexp:
         problems.append("experience entries must keep the same companies, roles and dates")
-    # Skills: every master skill kept; new ones only from the declared JD gap terms.
-    mskills = {s for items in m["skills"].values() for s in items}
-    tskills = {s for items in tailored.get("skills", {}).values() for s in items}
-    if missing := mskills - tskills:
-        problems.append(f"dropped master skills: {sorted(missing)[:5]}")
+    # Skills: a focused subset of the master (a long list reads as padding), plus the declared gap terms.
     allowed_new = {t.lower() for t in gap_terms}
-    for s in tskills - mskills:
-        if s.lower() not in allowed_new and not mentions(mt, s):
+    mskills = {_base(s): _subs(s) for items in m["skills"].values() for s in items}
+    tlist = [s for items in tailored.get("skills", {}).values() for s in items]
+    for s in tlist:
+        base, subs = _base(s), _subs(s)
+        if base in mskills:
+            if extra := subs - mskills[base] - allowed_new:
+                problems.append(f"{s}: {sorted(extra)} not in the master's {base} list")
+        elif s.lower() not in allowed_new and not mentions(mt, s):
             problems.append(f"new skill not in master or declared gap terms: {s}")
+    if len(tlist) < MIN_SKILLS:
+        problems.append(f"only {len(tlist)} skills left; keep at least {MIN_SKILLS}")
+    kept = {_base(s) for s in tlist}
+    shown = json.dumps([tailored.get("headline")] + [x for sec in ("experience", "projects")
+                        for item in tailored.get(sec, []) for x in [item.get("stack", "")] + item.get("bullets", [])])
+    for base, subs in mskills.items():
+        if base in kept:
+            continue
+        names = [base] + sorted(subs)
+        if posting and any(mentions(posting, n) for n in names):
+            problems.append(f"dropped {base}, but the posting asks for it")
+        elif mentions(shown, base):
+            problems.append(f"dropped {base}, but the resume's own bullets/stacks use it")
     # No new numbers anywhere in bullets.
     known = _numbers(json.dumps(m) + profile_text)
     headline = tailored.get("headline") or ""
@@ -174,7 +201,7 @@ def body(r):
     L += [r"\resumeSubHeadingListEnd", ""]
 
     L += [r"\section{TECHNICAL SKILLS}", r"\small{"]
-    L += [rf"\textbf{{{tex(cat)}:}} {tex(', '.join(xs))} \\" for cat, xs in r["skills"].items()]
+    L += [rf"\textbf{{{tex(cat)}:}} {tex(', '.join(xs))} \\" for cat, xs in r["skills"].items() if xs]
     L += ["}", ""]
 
     if r.get("extracurricular"):

@@ -234,7 +234,8 @@ def check(day=None):
             if not rpath.exists():
                 problems.append(f"{r['company']}: tailored resume {rpath.relative_to(ROOT)} missing")
             else:
-                for pr in tailor.verify(json.loads(rpath.read_text()), terms, profile_text):
+                for pr in tailor.verify(json.loads(rpath.read_text()), terms, profile_text,
+                                        leads[lid].get("description") or ""):
                     problems.append(f"{r['company']} resume: {pr}")
     for lid in emails:
         if lid not in short:
@@ -320,7 +321,8 @@ def test_send(to, case):
         terms = t.get("gap_terms") or []
         if bad := tailor.gap_terms_ok(terms, lead):
             problems.append(f"gap_terms must appear in the posting and NOT in the master resume: {bad}")
-        problems += tailor.verify(json.loads((case / "resume.json").read_text()), terms, json.dumps(p))
+        problems += tailor.verify(json.loads((case / "resume.json").read_text()), terms, json.dumps(p),
+                                  lead.get("description") or "")
         if not problems:
             pdf = case / "resume.pdf"
             if (pages := tailor.render(case / "resume.json", pdf)) != 1:

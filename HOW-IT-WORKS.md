@@ -154,8 +154,8 @@ so it's used only when it clearly helps.
 
 **Gate 3, truth checks (`tailor.verify`):** the declared gap terms must appear in the JD and not in the
 master resume; the tailored resume must keep identity, education, both jobs (company, role, dates)
-and projects (live URLs) exactly; keep every master skill; add new skills only from the declared gap
-terms; introduce no new numbers anywhere. It must also render to exactly one page, otherwise the
+and projects (live URLs) exactly; trim skills to what the job needs (at least 15, never one the posting
+or the resume's own bullets use); add new skills only from the declared gap terms; introduce no new numbers anywhere. It must also render to exactly one page, otherwise the
 master link is sent instead.
 
 Tailored resumes are **attached** (they go to people screening against a JD, where an attachment is
@@ -167,7 +167,7 @@ Based on studies of thousands of student cold emails (under 100 words: ~12% repl
 personalized: +142%; 42% of replies come from follow-ups).
 
 ```
-Subject: your tree-sitter indexer
+Subject: Software Engineering Internship – Aditya Mittal, 2027 CS Graduate
 
 Hi Maya,
 
@@ -186,7 +186,7 @@ Resume: https://...
 ```
 
 Rules (enforced by `volley/humanize.py`): 60-90 words, one specific observation, one project with one
-link, one easy question, 3-6 word specific subject, plain text, no attachment unless tailored, no
+link, one easy question, a professional subject in one fixed shape (`<Role> – Aditya Mittal, 2027 CS Graduate`), plain text, no attachment unless tailored, no
 AI-tell vocabulary or clichés, no "not just X but Y", no triads, no exclamation marks, ≤ 1 em dash.
 
 ## 7. Follow-ups, replies, bounces
