@@ -128,3 +128,5 @@ def export(leads):
         "",
     ]
     (ROOT / "TRACKER.md").write_text("\n".join(lines))
+    from . import dashboard
+    dashboard.write(leads)
