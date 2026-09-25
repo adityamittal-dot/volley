@@ -137,7 +137,7 @@ the Claude API from Actions instead (Haiku analyst, Sonnet writer, Haiku fixer) 
 
 ## 5. Resume tailoring
 
-Default: **no tailoring**. Everyone gets the master resume link. Tailoring costs credits and adds risk,
+Default: **no tailoring**. Everyone gets the master resume PDF attached. Tailoring costs credits and adds risk,
 so it's used only when it clearly helps.
 
 **Gate 1, code (`tailor.eligibility`), all required:**
@@ -158,7 +158,7 @@ and projects (live URLs) exactly; trim skills to what the job needs (at least 15
 or the resume's own bullets use); add new skills only from the declared gap terms; introduce no new numbers anywhere. It must also render to exactly one page, otherwise the
 master link is sent instead.
 
-Tailored resumes are **attached** (they go to people screening against a JD, where an attachment is
+Tailored resumes are **attached** in place of the master PDF (they go to people screening against a JD, where an attachment is
 expected); the rules for writing them are in `prompts/tailor.md`. Expect 0-3 per day.
 
 ## 6. The email itself
@@ -186,7 +186,7 @@ Resume: https://...
 ```
 
 Rules (enforced by `volley/humanize.py`): 60-90 words, one specific observation, one project with one
-link, one easy question, a professional subject in one fixed shape (`<Role> – Aditya Mittal`), plain text, no attachment unless tailored, no
+link, one easy question, a professional subject in one fixed shape (`<Role> – Aditya Mittal`), plain text, the resume PDF attached (tailored or master), no
 AI-tell vocabulary or clichés, no "not just X but Y", no triads, no exclamation marks, ≤ 1 em dash.
 
 ## 7. Follow-ups, replies, bounces

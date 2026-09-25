@@ -285,6 +285,10 @@ def ingest(day=None):
         lead["status"] = "queued"
     store.save(leads)
     log(f"ingest: {sum(1 for l in leads.values() if l['status'] == 'queued')} queued")
+    try:   # keep the attached master PDF in step with config/resume.json
+        tailor.render(tailor.MASTER, tailor.MASTER_PDF)
+    except RuntimeError as ex:
+        log(f"master resume render failed ({ex}); attaching the last committed PDF")
     deliver()
 
 

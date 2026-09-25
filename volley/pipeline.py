@@ -8,7 +8,7 @@ from datetime import timedelta
 
 import anthropic
 
-from . import brain, llm, mailer, research, sources, store
+from . import brain, llm, mailer, research, sources, store, tailor
 from .config import profile, settings
 
 # Config/credential errors: stop the run instead of burning through leads.
@@ -225,8 +225,8 @@ def deliver(leads, s, p, mode, box, all_regions=False):
     for lead in queue[:max(cap, 0)]:
         e = lead["email"]
         pdf = store.ROOT / e["resume_pdf"] if e.get("resume_pdf") else None
-        if pdf and not pdf.exists():
-            pdf = None
+        if not (pdf and pdf.exists()):
+            pdf = tailor.MASTER_PDF if tailor.MASTER_PDF.exists() else None   # master resume, same template
         body_sig = brain.signature(p, attached=bool(pdf)) if pdf else sig
         msg = mailer.build(p["identity"]["name"], lead["contact"]["email"], e["subject"],
                            f"{e['body']}\n\n{body_sig}", attachment=pdf)
