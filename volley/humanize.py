@@ -64,12 +64,12 @@ def scan(subject, body, max_words=110, max_links=1):
 
 def subject_tail(p=None):
     i = (p or profile())["identity"]
-    return f" – {i['name']}, {i['grad_year']} CS Graduate"
+    return f" – {i['name']}"
 
 
 def subject_issues(subject, p=None):
-    """First-touch subjects have one professional shape: '<Role> – <Name>, <year> CS Graduate',
-    e.g. 'Full Stack Development Internship – Aditya Mittal, 2027 CS Graduate'."""
+    """First-touch subjects have one professional shape: '<Role> – <Name>',
+    e.g. 'Full Stack Development Internship – Aditya Mittal'."""
     tail = subject_tail(p)
     if not subject.endswith(tail):
         return [f"subject must be '<Role>{tail}'"]

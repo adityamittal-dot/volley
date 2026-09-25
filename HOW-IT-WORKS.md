@@ -167,7 +167,7 @@ Based on studies of thousands of student cold emails (under 100 words: ~12% repl
 personalized: +142%; 42% of replies come from follow-ups).
 
 ```
-Subject: Software Engineering Internship – Aditya Mittal, 2027 CS Graduate
+Subject: Software Engineering Internship – Aditya Mittal
 
 Hi Maya,
 
@@ -186,7 +186,7 @@ Resume: https://...
 ```
 
 Rules (enforced by `volley/humanize.py`): 60-90 words, one specific observation, one project with one
-link, one easy question, a professional subject in one fixed shape (`<Role> – Aditya Mittal, 2027 CS Graduate`), plain text, no attachment unless tailored, no
+link, one easy question, a professional subject in one fixed shape (`<Role> – Aditya Mittal`), plain text, no attachment unless tailored, no
 AI-tell vocabulary or clichés, no "not just X but Y", no triads, no exclamation marks, ≤ 1 em dash.
 
 ## 7. Follow-ups, replies, bounces
