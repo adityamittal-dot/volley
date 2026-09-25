@@ -1,5 +1,6 @@
 """The daily run: sync mailbox -> follow-ups -> discover -> research/write -> deliver -> export."""
 import math
+import os
 import random
 import re
 import time
@@ -313,6 +314,9 @@ def run(dry_run=False, all_regions=False, no_discover=False):
     today = store.iso()[:10]
     backlog = sum(1 for l in leads.values() if l["status"] == "queued")
     slots = s["daily_new"] - store.delivered_on(leads, today) - backlog
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        log("ANTHROPIC_API_KEY not set: skipping research/writing")
+        slots = 0
     try:
         n = process(leads, s, p, slots)
         log(f"process: {n} emails queued (backlog now {backlog + n})")
