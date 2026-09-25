@@ -1,0 +1,295 @@
+"""The Claude-routine engine: Actions prepares a batch, the routine thinks, Actions delivers.
+
+  prepare  (Actions, 02:00 UTC)  sync Gmail, follow-ups, discover, crawl the top leads,
+                                 write work/<date>/batch-N.json
+  routine  (claude.ai/code)      OUTREACH.md: Haiku sub-agents analyze each batch file,
+                                 the main session writes emails (+ tailored resumes), runs `check`,
+                                 pushes branch claude/outreach-<date>
+  ingest   (Actions, on push)    validate again, render resumes, queue emails, deliver this window
+"""
+import json
+import math
+import re
+import shutil
+from types import SimpleNamespace
+
+from . import brain, humanize, mailer, pipeline, research, store, tailor
+from .config import ROOT, profile, settings
+
+WORK = ROOT / "work"
+CHUNK = 10
+SITE_CHARS = 4000
+DESC_CHARS = 2500
+ANALYSIS_KEYS = {"id": str, "relevant": bool, "summary": str, "stack": list, "hook": str, "angle": str,
+                 "angle_reason": str, "fit": int, "region": str, "people": list, "contact_email": str,
+                 "contact_name": str, "contact_role": str}
+REGIONS = {"india", "asia", "europe", "africa", "middle_east", "us", "americas", "other"}
+log = pipeline.log
+
+
+def today():
+    return store.iso()[:10]
+
+
+def _mailbox():
+    try:
+        return mailer.Mailbox()
+    except Exception as e:
+        log(f"gmail unavailable ({e}); skipping sync/follow-ups/delivery")
+        return None
+
+
+# ---------- prepare (Actions) ----------
+
+def prepare():
+    s, p = settings(), profile()
+    leads = store.load()
+    box = _mailbox()
+    if box:
+        pipeline.sync(leads, box)
+        pipeline.followups(leads, s, p, s["mode"], box)
+        box.close()
+    store.save(leads)
+    pipeline.discover(leads, s, p)
+
+    # Leads from a batch the routine never finished go back into the pool.
+    for l in leads.values():
+        if l["status"] == "researching" and l.get("batch") != today():
+            l["status"] = "new"
+
+    backlog = sum(1 for l in leads.values() if l["status"] == "queued")
+    slots = s["daily_new"] - store.delivered_on(leads, today()) - backlog
+    batch = research_batch(leads, s, slots) if today() <= s["credits_until"] else []
+    write_batch(batch)
+    for old in sorted(WORK.glob("20*"))[:-14]:
+        shutil.rmtree(old)
+    store.save(leads)
+    store.export(leads)
+    log(f"prepare: {len(batch)} leads in today's batch for {slots} open slots")
+
+
+def research_batch(leads, s, slots):
+    if slots <= 0:
+        return []
+    want = math.ceil(slots * s["research_factor"])
+    pool = sorted((l for l in leads.values() if l["status"] == "new"), key=lambda l: l["score"], reverse=True)
+    batch = []
+    for lead in pool:
+        if len(batch) >= want:
+            break
+        log(f"research: {lead['company']} (score {lead['score']})")
+        research.research(lead)
+        # No address anywhere almost never ends in an email (tested: 0 of 3), so don't spend credits on it.
+        if not lead["candidates"]:
+            lead["status"] = "no_contact"
+            lead.pop("site", None)
+            continue
+        # Stored so the routine's sandbox and Actions resolve the same contact without DNS.
+        lead["domain_mx"] = bool(lead.get("domain")) and research.has_mx(lead["domain"])
+        lead["status"], lead["batch"] = "researching", today()
+        batch.append(lead)
+    return batch
+
+
+def write_batch(batch):
+    day = WORK / today()
+    day.mkdir(parents=True, exist_ok=True)
+    for f in day.glob("batch-*.json"):
+        f.unlink()
+    for n in range(0, len(batch), CHUNK):
+        chunk = []
+        for l in batch[n:n + CHUNK]:
+            chunk.append({
+                "id": l["id"], "company": l["company"], "website": l.get("website", ""),
+                "title": l.get("title", ""), "location": l.get("location", ""), "source": l["source"],
+                "posted_at": l.get("posted_at"), "posting": (l.get("description") or "")[:DESC_CHARS],
+                "site_text": (l.pop("site", "") or "")[:SITE_CHARS],
+                "email_candidates": [{"email": e, **v} for e, v in l.get("candidates", {}).items()],
+            })
+        (day / f"batch-{n // CHUNK + 1}.json").write_text(json.dumps({"leads": chunk}, indent=1, ensure_ascii=False))
+
+
+# ---------- helpers the routine runs ----------
+
+def brief():
+    """What the routine sees first: is there work today, and where."""
+    day = WORK / today()
+    files = sorted(day.glob("batch-*.json")) if day.exists() else []
+    if not files:
+        print(f"NO BATCH for {today()} — nothing to do today. Stop here without pushing.")
+        return
+    n = sum(len(json.loads(f.read_text())["leads"]) for f in files)
+    s, leads = settings(), store.load()
+    backlog = sum(1 for l in leads.values() if l["status"] == "queued")
+    slots = s["daily_new"] - store.delivered_on(leads, today()) - backlog
+    print(f"date: {today()}\nleads: {n} in {len(files)} files\nemails to write: up to {slots}")
+    for f in files:
+        print(f"  {f.relative_to(ROOT)}  ->  write {f.with_name(f.name.replace('batch', 'analysis')).relative_to(ROOT)}")
+
+
+def _load(day, pattern):
+    out = {}
+    for f in sorted((WORK / day).glob(pattern)):
+        for item in json.loads(f.read_text()).get("leads", []):
+            out[item["id"]] = item
+    return out
+
+
+def check_analysis(day):
+    batch, analysis = _load(day, "batch-*.json"), _load(day, "analysis-*.json")
+    problems = []
+    for lid, b in batch.items():
+        a = analysis.get(lid)
+        if not a:
+            problems.append(f"{b['company']}: no analysis")
+            continue
+        for key, typ in ANALYSIS_KEYS.items():
+            if not isinstance(a.get(key), typ) or (typ is int and isinstance(a.get(key), bool)):
+                problems.append(f"{b['company']}: `{key}` missing or not {typ.__name__}")
+        if a.get("region") not in REGIONS:
+            problems.append(f"{b['company']}: region must be one of {sorted(REGIONS)}")
+        if a.get("relevant") and a.get("angle") not in {pr["id"] for pr in profile()["projects"]}:
+            problems.append(f"{b['company']}: unknown angle {a.get('angle')}")
+        cands = {c["email"] for c in b["email_candidates"]}
+        if a.get("contact_email") and a["contact_email"].lower() not in cands:
+            problems.append(f"{b['company']}: contact_email {a['contact_email']} is not in email_candidates "
+                            "(leave it empty; people[] is used for a pattern guess)")
+    return problems
+
+
+def shortlist(day=None, show=True):
+    """Leads worth an email today, best first, with the contact resolved and tailoring eligibility."""
+    day = day or today()
+    s = settings()
+    leads = store.load()
+    batch, analysis = _load(day, "batch-*.json"), _load(day, "analysis-*.json")
+    used = {(l.get("contact") or {}).get("email") for l in leads.values() if l["status"] != "researching"}
+    rows = []
+    for lid, a in analysis.items():
+        lead = leads.get(lid)
+        if not lead or lid not in batch or not a.get("relevant") or a.get("fit", 0) < s["min_fit"]:
+            continue
+        contact = pipeline.pick_contact(lead, _AnalysisView(a), s)
+        if not contact or contact["email"] in used:
+            continue
+        used.add(contact["email"])
+        ok, why = tailor.eligibility(lead, a, contact)
+        rows.append({"id": lid, "company": lead["company"], "fit": a["fit"], "angle": a["angle"],
+                     "contact": contact, "tailor_eligible": ok, "tailor_note": why})
+    rank = pipeline.CONFIDENCE_RANK
+    rows.sort(key=lambda r: (r["fit"], rank.get(r["contact"]["confidence"], 0)), reverse=True)
+    backlog = sum(1 for l in leads.values() if l["status"] == "queued")
+    rows = rows[:max(0, s["daily_new"] - store.delivered_on(leads, day) - backlog)]
+    if show:
+        for r in rows:
+            a, c = analysis[r["id"]], r["contact"]
+            print(f"\n## {r['id']} | {r['company']} | fit {r['fit']} | angle {r['angle']}\n"
+                  f"to: {c.get('name') or '?'} <{c['email']}> ({c.get('role') or '?'}; {c['confidence']})\n"
+                  f"role posted: {batch[r['id']]['title']}\nwhat they do: {a['summary']}\n"
+                  f"stack: {', '.join(a['stack']) or '?'}\nhook: {a['hook']}\nwhy this angle: {a['angle_reason']}\n"
+                  f"tailor: {'ELIGIBLE' if r['tailor_eligible'] else 'no'} ({r['tailor_note']})")
+    return rows
+
+
+def _AnalysisView(a):
+    """pick_contact() expects the API engine's Analysis object; adapt the routine's dicts."""
+    people = [SimpleNamespace(name=p["name"], role=p.get("role") or "") for p in a.get("people", []) if p.get("name")]
+    return SimpleNamespace(contact_email=a.get("contact_email", ""), contact_name=a.get("contact_name", ""),
+                           contact_role=a.get("contact_role", ""), people=people)
+
+
+def check(day=None):
+    """Everything must pass before the routine pushes. Returns problems (empty = pass)."""
+    day = day or today()
+    problems = check_analysis(day)
+    path = WORK / day / "emails.json"
+    if not path.exists():
+        return problems + ["work/<date>/emails.json missing"]
+    emails = {e["id"]: e for e in json.loads(path.read_text()).get("emails", [])}
+    short = {r["id"]: r for r in shortlist(day, show=False)}
+    links = {pr["link"] for pr in profile()["projects"]}
+    leads = store.load()
+    profile_text = json.dumps(profile())
+    for lid, r in short.items():
+        e = emails.get(lid)
+        if not e:
+            problems.append(f"{r['company']}: shortlisted but no email written")
+            continue
+        for issue in humanize.scan(e.get("subject", ""), e.get("body", "")):
+            problems.append(f"{r['company']}: {issue}")
+        body_links = set(re.findall(r"https?://[^\s)]+", e.get("body", "")))
+        if body_links - links:
+            problems.append(f"{r['company']}: body links must be one of the project links")
+        t = e.get("tailor") or {}
+        if t.get("decision"):
+            if not r["tailor_eligible"]:
+                problems.append(f"{r['company']}: tailoring not allowed ({r['tailor_note']})")
+            terms = t.get("gap_terms") or []
+            if len(terms) < 3:
+                problems.append(f"{r['company']}: tailoring needs >= 3 gap_terms")
+            if bad := tailor.gap_terms_ok(terms, leads[lid]):
+                problems.append(f"{r['company']}: gap_terms must appear in the posting and NOT in the master "
+                                f"resume: {bad}")
+            rpath = WORK / day / "resumes" / f"{lid}.json"
+            if not rpath.exists():
+                problems.append(f"{r['company']}: tailored resume {rpath.relative_to(ROOT)} missing")
+            else:
+                for pr in tailor.verify(json.loads(rpath.read_text()), terms, profile_text):
+                    problems.append(f"{r['company']} resume: {pr}")
+    for lid in emails:
+        if lid not in short:
+            problems.append(f"{lid}: email written for a lead that isn't on the shortlist")
+    return problems
+
+
+# ---------- ingest (Actions, after the routine pushes) ----------
+
+def ingest(day=None):
+    day = day or today()
+    problems = check(day)
+    if problems:
+        log("check failed, not ingesting:\n  " + "\n  ".join(problems))
+        raise SystemExit(1)
+    s = settings()
+    leads = store.load()
+    batch, analysis = _load(day, "batch-*.json"), _load(day, "analysis-*.json")
+    short = {r["id"]: r for r in shortlist(day, show=False)}
+    emails = {e["id"]: e for e in json.loads((WORK / day / "emails.json").read_text())["emails"]}
+    for lid in batch:
+        lead, a = leads.get(lid), analysis.get(lid, {})
+        if not lead or lead["status"] != "researching":
+            continue
+        lead["research"] = {k: a.get(k) for k in ("summary", "stack", "hook", "angle", "angle_reason",
+                                                  "fit", "region", "people")}
+        if lid not in short:
+            relevant = a.get("relevant") and (a.get("fit") or 0) >= s["min_fit"]
+            lead["status"] = "no_contact" if relevant else "low_fit"
+            continue
+        e = emails[lid]
+        lead["contact"] = short[lid]["contact"]
+        lead["email"] = {"subject": e["subject"].strip(), "body": e["body"].strip(), "lint": []}
+        t = e.get("tailor") or {}
+        if t.get("decision"):
+            pdf = WORK / day / "resumes" / f"{lid}.pdf"
+            pages = tailor.render(WORK / day / "resumes" / f"{lid}.json", pdf)
+            if pages == 1:
+                lead["email"]["resume_pdf"] = str(pdf.relative_to(ROOT))
+                lead["email"]["tailor_reason"] = t.get("reason", "")
+            else:
+                log(f"{lead['company']}: tailored resume overflowed one page, sending the master link instead")
+        lead["status"] = "queued"
+    store.save(leads)
+    log(f"ingest: {sum(1 for l in leads.values() if l['status'] == 'queued')} queued")
+    deliver()
+
+
+def deliver(all_regions=False):
+    s, p = settings(), profile()
+    leads = store.load()
+    box = _mailbox()
+    if box:
+        pipeline.sync(leads, box)
+        pipeline.deliver(leads, s, p, s["mode"], box, all_regions)
+        box.close()
+    store.save(leads)
+    store.export(leads)

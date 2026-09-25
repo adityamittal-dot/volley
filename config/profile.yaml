@@ -18,7 +18,7 @@ ask: internship or entry-level role (2027 grad, available now for internships, f
 
 experience:
   - org: Basepair
-    role: Software Engineer Intern
+    role: Software Development Engineer in Test (SDET) Intern
     dates: Jun 2026 – Aug 2026
     facts:
       - Fixed a production OAuth race condition with DB-level row locking.

@@ -1,19 +1,22 @@
 name: volley
+# 02:00 UTC  prepare: sync Gmail, follow-ups, discover, crawl -> work/<date>/ for the Claude routine
+# 08:00/14:00 UTC  deliver: queued emails for the Europe / US send windows
+# (India/Asia emails go out right after the routine pushes, see ingest.yml)
 
 on:
   schedule:
-    # Mon-Fri, once per send window (UTC): India/Asia, Europe, US.
-    - cron: "0 3 * * 1-5"
+    - cron: "0 2 * * 1-5"
     - cron: "0 8 * * 1-5"
     - cron: "0 14 * * 1-5"
   workflow_dispatch:
     inputs:
-      dry_run:
-        description: "Write emails but don't touch Gmail (see data/preview.md in the run artifact)"
-        type: boolean
-        default: false
+      command:
+        description: "What to run"
+        type: choice
+        options: [prepare, deliver, run]
+        default: prepare
       all_regions:
-        description: "Ignore send windows and deliver everything queued"
+        description: "deliver: ignore send windows"
         type: boolean
         default: false
 
@@ -30,40 +33,43 @@ jobs:
     timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
-
       - run: pip install -r requirements.txt
 
       - name: Run
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          SEND_AS: ${{ secrets.SEND_AS }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VOLLEY_MODE: ${{ vars.VOLLEY_MODE }}
           VOLLEY_DAILY_NEW: ${{ vars.VOLLEY_DAILY_NEW }}
+          VOLLEY_ENGINE: ${{ vars.VOLLEY_ENGINE }}
         run: |
+          engine=$(python -c "from volley.config import settings; print(settings()['engine'])")
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            cmd="${{ inputs.command }}"
+          elif [ "${{ github.event.schedule }}" = "0 2 * * 1-5" ]; then
+            cmd=prepare
+          else
+            cmd=deliver
+          fi
+          # API engine: the 02:00 run does everything itself.
+          if [ "$cmd" = prepare ] && [ "$engine" = api ]; then cmd=run; fi
           args=""
-          if [ "${{ inputs.dry_run }}" = "true" ]; then args="$args --dry-run"; fi
-          if [ "${{ inputs.all_regions }}" = "true" ]; then args="$args --all-regions"; fi
-          python -m volley run $args
+          if [ "${{ inputs.all_regions }}" = "true" ]; then args="--all-regions"; fi
+          echo "volley $cmd $args"
+          python -m volley $cmd $args
 
-      - name: Upload preview
-        if: ${{ inputs.dry_run }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: preview
-          path: data/preview.md
-
-      - name: Commit tracker
+      - name: Commit
         if: always()
         run: |
           git config user.name "volley"
           git config user.email "volley@users.noreply.github.com"
-          git add -A data TRACKER.md 2>/dev/null || git add -A data
-          git diff --cached --quiet || git commit -m "tracker: $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
+          git add -A data work TRACKER.md 2>/dev/null || git add -A data work
+          git diff --cached --quiet || git commit -qm "volley: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done

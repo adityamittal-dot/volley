@@ -95,11 +95,14 @@ def write(lead, s):
     return email, issues
 
 
-def signature(p=None):
+def signature(p=None, attached=False):
     p = p or profile()
     i = p["identity"]
     lines = [i["name"], f"{i['school'].split(',')[0]} '{str(i['grad_year'])[2:]}, {i['location']}"]
-    lines.append(f"Resume: {i['resume_url']}" if i.get("resume_url") else f"GitHub: {i['github']}")
+    if attached:
+        lines.append(f"Resume attached · GitHub: {i['github']}")
+    else:
+        lines.append(f"Resume: {i['resume_url']}" if i.get("resume_url") else f"GitHub: {i['github']}")
     return "\n".join(lines)
 
 

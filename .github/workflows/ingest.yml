@@ -1,0 +1,65 @@
+name: ingest
+# The Claude routine pushes claude/outreach-<date> with work/<date>/{analysis-*,emails}.json.
+# Merge it, validate, render tailored resumes, queue the emails, deliver the current window.
+
+on:
+  push:
+    branches: ["claude/**"]
+    paths: ["work/**"]
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Batch date (YYYY-MM-DD), default today"
+        required: false
+
+concurrency:
+  group: volley
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Merge the routine's branch into main
+        run: |
+          git config user.name "volley"
+          git config user.email "volley@users.noreply.github.com"
+          BR="${GITHUB_REF#refs/heads/}"
+          git checkout -q -B main origin/main
+          if [ "$BR" != "main" ]; then git merge -q --no-edit "origin/$BR" -m "merge $BR"; fi
+          echo "BR=$BR" >> "$GITHUB_ENV"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: pip install -r requirements.txt && npm install --silent && npx playwright install --with-deps chromium
+
+      - name: Ingest and deliver
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          SEND_AS: ${{ secrets.SEND_AS }}
+          VOLLEY_MODE: ${{ vars.VOLLEY_MODE }}
+          VOLLEY_DAILY_NEW: ${{ vars.VOLLEY_DAILY_NEW }}
+        run: |
+          D="${{ inputs.date }}"
+          if [ -z "$D" ]; then D=$(echo "$BR" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' || date -u +%F); fi
+          python -m volley ingest "$D"
+
+      - name: Commit
+        if: always()
+        run: |
+          git add -A data work TRACKER.md 2>/dev/null || git add -A data work
+          git diff --cached --quiet || git commit -qm "volley: ingest $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
+          if [ "$BR" != "main" ]; then git push -q origin --delete "$BR" || true; fi

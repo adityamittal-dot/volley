@@ -1,60 +1,68 @@
 # volley
 
-Finds startups that are hiring, works out who to email and what to say, and sends 15-20 short, researched cold emails a day asking for an internship or entry-level role. Follow-ups, reply tracking and a progress tracker included. Runs free on GitHub Actions; the only cost is a few cents a day of Claude API.
+Finds startups that are hiring, works out who to email and what to say, and sends ~20 short, researched cold emails a day asking for an internship or entry-level role. Follow-ups, reply tracking, a progress tracker, and resume tailoring when (and only when) it pays off.
 
 **Progress:** [TRACKER.md](TRACKER.md) (summary) · [data/tracker.csv](data/tracker.csv) (every lead, sortable on GitHub)
 
 ## How a day works
 
 ```
- sources (9 free feeds)  ->  score & dedupe  ->  crawl site + GitHub  ->  Haiku: analyst  ->  Sonnet: writer  ->  humanizer check  ->  Gmail
-      HN, YC, Unstop,        no LLM, cheap       emails, team pages,     who to email, fit,    60-90 word       regex scan, Haiku     drafts or send,
-      Simplify, RemoteOK...   filters             commit authors          hook, which project   first email       fixes if flagged      follow-ups, replies
+02:00 UTC  GitHub Actions: prepare                (free)
+           sync Gmail -> follow-ups -> 9 job feeds -> score & dedupe -> crawl sites + GitHub for contacts
+           -> work/<date>/batch-N.json
+
+08:30 IST  Claude routine: OUTREACH.md             (Claude credits)
+           Haiku sub-agents analyze each batch file (fit, who to email, the hook, which project)
+           main session writes the emails with the cold-email-humanizer skill, tailors a resume only
+           when the gates pass, runs `volley check`, pushes claude/outreach-<date>
+
+on push    GitHub Actions: ingest                 (free)
+           re-check, render tailored resumes (ATS-safe, one page), queue, deliver India/Asia now
+
+08:00/14:00 UTC  GitHub Actions: deliver          (free)
+           Europe / US send windows, so emails land ~9-11am local
 ```
 
-1. **Sync:** checks Gmail for drafts you sent, replies (from the contact or anyone at their domain), and bounces.
-2. **Follow-ups:** day 4 (adds your second project and GitHub/portfolio) and day 10 (a polite "who should I talk to?"). Same thread, templated, no API cost. Threads close 7 days after the last one.
-3. **Discover:** pulls fresh postings from HN Who is Hiring, YC hiring companies, Unstop (India), Simplify internships + new grad, RemoteOK, Remotive, Arbeitnow, Jobicy, Himalayas. Drops senior/non-engineering/US-only roles, scores the rest on entry-level signals, stack overlap, recency, India/remote, and whether an email is right there in the post.
-4. **Research:** for the top leads only, finds the company domain if the posting lacks one (Clearbit autocomplete), reads the homepage and about/team/careers/contact pages (Jina Reader for JS sites), collects every email on them, and pulls commit-author emails from the company's GitHub org. Every address is MX-checked.
-5. **Analyst (Claude Haiku 4.5):** decides if it's worth it, picks the best person (posting address > founder/CTO > engineer at a small startup > careers@), finds one specific true observation to open with, picks which of your projects fits, scores fit 1-10, and guesses the recipient's region.
-6. **Writer (Claude Sonnet 5):** writes the email following [prompts/writer.md](prompts/writer.md), which encodes what cold-email studies show works (under 100 words, one specific observation, one project, one link, one low-effort question, no attachment).
-7. **Humanizer:** [volley/humanize.py](volley/humanize.py) scans for AI tells (vocabulary, clichés, "not just X but Y", triads, em-dash glue, length, links). If anything is flagged, Haiku fixes just those lines.
-8. **Deliver:** emails wait for their region's send window (03:00 UTC India/Asia, 08:00 Europe, 14:00 US) so they land around 9-11am local, Mon-Fri, capped at `daily_new` per day.
+- **Sources:** HN Who is Hiring, YC hiring companies, Unstop (India), Simplify internships + new grad, RemoteOK, Remotive, Arbeitnow, Jobicy, Himalayas. Senior, non-engineering and US-only roles are dropped; the rest are scored on entry-level signals, stack overlap, recency, India/remote, and whether an email is in the post.
+- **Contacts:** the posting's own address > founder/CTO > engineers at small startups (from GitHub commits) > careers@. Every domain is MX-checked; support@/privacy@/sales@ etc. are never used. Founder addresses may be pattern-guessed (flagged `guessed`).
+- **Emails:** under 90 words, one specific observation, one project + link, one easy question, no attachment. `volley/humanize.py` rejects AI tells before anything is pushed.
+- **Follow-ups:** day 4 (second project + GitHub) and day 10 (who should I talk to?), same thread, templated, free. Replies from anyone at the company stop the sequence.
+- **Resume tailoring** (`volley/tailor.py`, `prompts/tailor.md`): only for a detailed JD, fit ≥ 8, a recipient who screens resumes (posting address / recruiter / JD asks for a CV), and ≥ 3 exact JD terms the master resume lacks. `check` then verifies the tailored resume against `config/resume.json`: same jobs, dates, education and identity, every master skill kept, no new numbers, new skills only from the declared JD terms. Tailored resumes are attached; everyone else gets the master resume link.
 
 ## Setup
 
-Secrets (repo → Settings → Secrets and variables → Actions):
+1. **Gmail:** 2-Step Verification on, then Google Account → Security → App passwords → create one. Repo → Settings → Secrets and variables → Actions:
+   - `GMAIL_ADDRESS`: the Gmail account that sends
+   - `GMAIL_APP_PASSWORD`: the app password
+   - `SEND_AS` (optional): a different From address you've added in that Gmail under Settings → Accounts → "Send mail as"
+2. **Profile:** set `resume_url` (public link to your resume PDF) and `portfolio` in `config/profile.yaml`.
+3. **Claude GitHub App:** https://github.com/apps/claude → Configure → give it access to `volley`.
+4. **Routine:** https://claude.ai/code/routines → New routine
+   - Name `volley daily outreach`, repository `adityamittal-dot/volley`, environment Default, no connectors
+   - Model **Sonnet** (writing is its job; the reading is delegated to Haiku sub-agents)
+   - Schedule: weekdays 08:30 (IST)
+   - Prompt: `Follow OUTREACH.md exactly and push today's outreach.`
+5. **Mode:** variable `VOLLEY_MODE` = `draft` (emails land in Gmail Drafts, you press send). Switch to `send` once you trust them.
 
-| Name | Kind | What |
-|---|---|---|
-| `ANTHROPIC_API_KEY` | secret | from console.anthropic.com → API keys |
-| `GMAIL_ADDRESS` | secret | your Gmail address |
-| `GMAIL_APP_PASSWORD` | secret | Google Account → Security → 2-Step Verification → App passwords |
-| `VOLLEY_MODE` | variable | `draft` (emails land in Gmail Drafts) or `send` |
-| `VOLLEY_DAILY_NEW` | variable | optional, overrides `daily_new` |
+Test once by hand: Actions → volley → Run workflow → `prepare`, then press **Run now** on the routine, then watch Actions → ingest.
 
-Fill `identity.resume_url` and `identity.portfolio` in [config/profile.yaml](config/profile.yaml). Everything the writer may say about you comes from that file.
-
-Run it: Actions → volley → Run workflow (tick **dry_run** the first time to get a preview artifact without touching Gmail).
-
-Local:
+## Commands
 
 ```bash
 python -m venv .venv && .venv/bin/pip install -r requirements.txt
-cp .env.example .env   # fill it, then: set -a; . ./.env; set +a
-.venv/bin/python -m volley discover          # see what's out there, no API cost
-.venv/bin/python -m volley run --dry-run     # write emails into data/preview.md
-.venv/bin/python -m volley run               # the real thing
-.venv/bin/python -m volley status
+.venv/bin/python -m volley discover        # what's out there (no cost)
+.venv/bin/python -m volley status          # counts, replies
 .venv/bin/python -m volley mark acme interview "call Tue 4pm"
 ```
 
-## Cost
+## Volume and cost
 
-Per day at 18 emails: ~29 Haiku analyses + 18 Sonnet emails + a few Haiku fixes ≈ $0.20-0.35. `daily_budget_usd` (default $0.60) is a hard stop, and every call is logged in `data/usage.json`. $25 lasts roughly 3 months.
+20 new emails per weekday. Sep 28 - Nov 10 is 32 weekdays: ~640 first emails plus ~1,000 follow-ups. The routine reads ~40 leads/day with Haiku and writes ~20 emails with Sonnet, roughly $0.40-0.60 of credits a day. Everything else runs free on Actions. After `credits_until` (2026-11-10) no new batches are prepared; follow-ups and reply tracking keep running.
+
+Fallback: set `engine: api` in `config/settings.yaml` plus an `ANTHROPIC_API_KEY` secret and the 02:00 run does the whole thing through the Claude API instead (Haiku analyst, Sonnet writer, hard daily budget cap).
 
 ## Tuning
 
-`config/settings.yaml`: `mode`, `daily_new`, `min_fit`, `followup_days`, send windows, models, sources on/off.
-`config/profile.yaml`: projects (the "angles"), target roles, exclusions.
-Check the "reply rate by angle" table in TRACKER.md after ~100 sends and adjust the projects or the writer prompt.
+`config/settings.yaml`: `mode`, `daily_new`, `min_fit`, `followup_days`, send windows, sources on/off.
+`config/profile.yaml`: projects (the angles), target roles, exclusions. `config/resume.json`: master resume.
+TRACKER.md shows reply rate by angle; after ~100 sends, adjust the projects or the humanizer skill.

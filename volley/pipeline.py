@@ -124,7 +124,8 @@ def pick_contact(lead, analysis, s):
         kind = "posting" if v["where"] == "job posting" else "commit" if "GitHub" in v["where"] else v["kind"]
         return {"email": chosen, "name": analysis.contact_name or v.get("name", ""),
                 "role": analysis.contact_role, "confidence": kind, "found_on": v["where"]}
-    if s["allow_guessed_emails"] and lead.get("domain") and research.has_mx(lead["domain"]):
+    mx = lead["domain_mx"] if "domain_mx" in lead else bool(lead.get("domain")) and research.has_mx(lead["domain"])
+    if s["allow_guessed_emails"] and lead.get("domain") and mx:
         ranked = sorted(analysis.people, key=lambda x: 0 if re.search(r"founder|ceo|cto", x.role, re.I)
                         else 1 if re.search(r"engineer|tech|recruit|talent|hiring", x.role, re.I) else 2)
         for person in ranked[:1]:
@@ -223,7 +224,12 @@ def deliver(leads, s, p, mode, box, all_regions=False):
     sig = brain.signature(p)
     for lead in queue[:max(cap, 0)]:
         e = lead["email"]
-        msg = mailer.build(p["identity"]["name"], lead["contact"]["email"], e["subject"], f"{e['body']}\n\n{sig}")
+        pdf = store.ROOT / e["resume_pdf"] if e.get("resume_pdf") else None
+        if pdf and not pdf.exists():
+            pdf = None
+        body_sig = brain.signature(p, attached=bool(pdf)) if pdf else sig
+        msg = mailer.build(p["identity"]["name"], lead["contact"]["email"], e["subject"],
+                           f"{e['body']}\n\n{body_sig}", attachment=pdf)
         try:
             if mode == "send":
                 e["message_id"] = mailer.send(msg)

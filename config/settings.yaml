@@ -5,11 +5,11 @@
 # send  = volley sends them itself.
 mode: draft
 
-daily_new: 18          # new first-touch emails per day (15-20 is the sweet spot for a personal Gmail)
+daily_new: 20          # new first-touch emails per day (15-20 is the sweet spot for a personal Gmail)
 send_days: [0, 1, 2, 3, 4]   # Mon-Fri (0 = Monday)
 followup_days: [4, 10] # follow-up #1 and #2, days after the first email
 min_fit: 6             # analyst fit score (1-10) below this is skipped
-research_factor: 1.6   # research this many leads per open slot (some drop for no contact / low fit)
+research_factor: 2.0   # analyze this many leads per open slot (about half drop as irrelevant / low fit)
 lead_max_age_days: 30  # ignore postings older than this
 allow_guessed_emails: true   # founder@ pattern guesses (MX-checked) when nothing better exists
 
@@ -20,7 +20,14 @@ windows:
   8: [europe, africa, middle_east]
   14: [us, americas]
 
-# Model routing: cheap model for reading/extracting/fixing, strong model for
+# Who does the thinking.
+#   routine = a daily Claude Code routine (claude.ai/code/routines) follows OUTREACH.md,
+#             paid from Claude credits. GitHub Actions does everything else for free.
+#   api     = GitHub Actions calls the Claude API directly (needs ANTHROPIC_API_KEY).
+engine: routine
+credits_until: "2026-11-10"   # last day the routine is expected to run
+
+# API-engine model routing: cheap model for reading/extracting/fixing, strong model for
 # the one thing people actually read.
 models:
   analyst: claude-haiku-4-5     # read site + posting, pick contact, score fit, find the hook

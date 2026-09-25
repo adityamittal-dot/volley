@@ -15,16 +15,17 @@ FREEMAIL = {"gmail.com", "yahoo.com", "outlook.com", "hotmail.com", "proton.me",
 
 
 def creds():
+    """GMAIL_ADDRESS logs in; SEND_AS (optional) is a "Send mail as" alias configured in that Gmail."""
     addr, pw = os.environ.get("GMAIL_ADDRESS"), os.environ.get("GMAIL_APP_PASSWORD")
     if not addr or not pw:
         raise RuntimeError("GMAIL_ADDRESS and GMAIL_APP_PASSWORD must be set")
     return addr, pw.replace(" ", "")
 
 
-def build(sender_name, to, subject, body, reply_to_id=None):
+def build(sender_name, to, subject, body, reply_to_id=None, attachment=None):
     addr, _ = creds()
     msg = EmailMessage()
-    msg["From"] = f"{sender_name} <{addr}>"
+    msg["From"] = f"{sender_name} <{os.environ.get('SEND_AS') or addr}>"
     msg["To"] = to
     msg["Subject"] = subject
     msg["Date"] = formatdate(localtime=True)
@@ -33,6 +34,10 @@ def build(sender_name, to, subject, body, reply_to_id=None):
         msg["In-Reply-To"] = reply_to_id
         msg["References"] = reply_to_id
     msg.set_content(body)
+    if attachment:
+        with open(attachment, "rb") as f:
+            msg.add_attachment(f.read(), maintype="application", subtype="pdf",
+                               filename=f"{sender_name.replace(' ', '_')}_Resume.pdf")
     return msg
 
 
@@ -89,7 +94,7 @@ class Mailbox:
         """True if the contact, or anyone else at their company domain, wrote to us since."""
         domain = to.split("@")[1]
         query = f"from:{to} after:{since}" if domain in FREEMAIL else f"from:@{domain} after:{since}"
-        return bool(self._search(query + " -in:sent"))
+        return bool(self._search(query + " -in:sent -category:promotions -from:noreply -from:no-reply -from:newsletter"))
 
     def bounced(self, to, since):
         return bool(self._search(f'from:mailer-daemon after:{since} "{to}"'))
