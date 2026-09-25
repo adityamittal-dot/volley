@@ -1,0 +1,289 @@
+{
+ "leads": [
+  {
+   "id": "e92733a3fe",
+   "company": "Twilio",
+   "website": "https://twilio.com",
+   "title": "Software Engineer Intern ",
+   "location": "India",
+   "source": "unstop",
+   "posted_at": "2026-09-21T06:41:47Z",
+   "posting": "Twilio is hiring for the role of Software Engineer Intern! Responsibility of the Intern: Be a Software Engineer, not just an \"intern\". Ship many different projects during the 6 months. Learn from passionate engineers at Twilio who solve problems in distributed computing, real-time DSP (audio processing), virtualization performance, distributed messaging, buses and more. You will be given responsibility for core features and services that ship to our users. You will be expected to embrace these challenges, learn fast and deliver great results. You will bring a willingness to learn and grow and we will reciprocate with ample opportunity to do just that, in a friendly, fun and exciting startup environment! Learn to develop beautiful and profitable applications. Demonstrate consistent improvement in your coding skills, issue-tracking and source control systems, and agile development mentality. Participate in code reviews, bug tracking and project management with the rest of the Twilio Team. Requirements To be working towards a Bachelors or Masters in Computer Science or related degree. To have a keen interest in software development with several side projects and perhaps are a part of the open source community. To have a hungry entrepreneurial and \"can do\" spirit, as evidenced by successful interest in learning new technologies. To have explored writing code in any of the following languages: Python/Java/Javascript/PHP/C or C++. Having knowledge of unit and integration testing methodologies, and the ability to write, debug and deploy testing frameworks. Experience in data processing, analytics, business intelligence, and reporting. Experience with technologies such as Hadoop, spark, python, scala etc.",
+   "site_text": "[https://www.twilio.com/en-us]\nConversational AI and APIs for SMS, Email, Voice | Twilio English English French German Japanese Portuguese Spanish Support Help Center Support Plans Partner Solutions Login Log in to Twilio Console Conversations, Communications and Authentication Or log in to access: Twilio Segment Customer Data Platform Twilio SendGrid Email and Marketing Campaigns Data is collected based on search terms. Privacy Policy Contact sales Start for free Data is collected based on search terms. Privacy Policy Contact sales Start for free The platform for conversations in the AI era The Twilio platform empowers humans and AI agents to work together, coordinate across channels, and pick up every customer conversation where the last one left off. Start for free Explore what's possible Free trial No credit card required Flexible pricing The infrastructure behind every magical customer moment Intelligent self-service The Twilio platform turns every interaction — including first contact — into a personalized experience. AI agents draw from internal knowledge and real-time data so every conversation feels like a natural dialogue. Products Voice Conversation Orchestrator Conversation Relay Conversation Intelligence Conversation Memory Contextual hand-off AI agents know when to bring in a human based on complexity or customer intent. Conversations are transferred with full context, so customers never have to repeat themselves. Products Voice Conversation Orchestrator Conversation Intelligence Conversation Memory Cross-channel continuity Customers can easily switch between channels like chat, text, voice, and email without interruption. Products Voice RCS Conversation Intelligence Conversation Memory Conversation Orchestrator Persistent memory Twilio unifies customer data into a living memory, offering insight into a person's preferences, interests, and sentiment. This way, you can anticipate customer needs in the moment without them having to ask. Products Conversation Memory Conversation Intelligence Conversation Orchestrator Segment Engage RCS Remember every customer, reach them on any channel The Twilio platform connects channels, customer data, and AI orchestration to ensure every interaction, whether it's between humans or AI agents, feels continuous, contextual, and personal. Discover the Twilio Platform Building blocks for every conversation Your toolkit is expanding. Discover a new generation of building blocks designed to orchestrate context-rich conversations across channels, for humans and AI agents. View all products Conversations New Build continuous conversations with persistent memory, intelligence, and orchestration for humans and AI. Start conversations Messaging Send, receive, and manage SMS, RCS, WhatsApp, MMS, and more on our globally reliable platform. Send messages Email Deliver email at incredible scale with the trusted Twilio SendGrid Email API. Send emails Voice Build voice experiences that strengthen customer connections while unlocking ROI with data and AI. Make calls User authentication Fight fraud and keep customer accounts secure with verification and identity lookup tools. Verify users Customer data Unify clean, consented customer data from any source for real-time insights on every customer. Connect data Build. Without limits. Sign up for a free Twilio account and grab one of our official server-side SDKs to get started. Send your first text message, phone call, or email in minutes. View docs # Download the helper library from https://www.twilio.com/docs/python/install import os from twilio.rest import Client # Find your Account SID and Auth Token at twilio.com/console # and set the environment variables. See http://twil.io/secure account_sid = os.environ['TWILIO_ACCOUNT_SID'] auth_token = os.environ['TWILIO_AUTH_TOKEN'] client = Client(account_sid, auth_token) message = client.messages.create( body='Hi there', from_='+15017122661', to='+15558675310' ) print(message.sid) // Install the C# / .NE",
+   "email_candidates": [
+    {
+     "email": "contact@twilio.com",
+     "where": "https://www.twilio.com/en-us",
+     "kind": "generic"
+    }
+   ]
+  },
+  {
+   "id": "f249a54c3f",
+   "company": "Greenzie",
+   "website": "https://greenzie.com",
+   "title": "Robotics Software Engineer (Early Career + Experienced)",
+   "location": "Atlanta, GA",
+   "source": "hn_hiring",
+   "posted_at": "2026-09-02T02:07:20Z",
+   "posting": "Greenzie | Robotics Software Engineer (Early Career + Experienced) | Atlanta, GA | ONSITE/HYBRID | Full-time | https://greenzie.applytojob.com/apply Greenzie builds the autonomy software that runs on commercial mowers. We don't sell the iron — Wright, Mean Green, Bobcat, and Greenworks Commercial do, with our stack on them. Mission is to free humans from repetitive outdoor labor. The software is on hundreds of machines in the field today. We're hiring roboticists who want production robots doing real outdoor work, not lab demos. C++, Python, ROS/ROS2. You will own (or learn) a subsystem, debug messy field data, and ship to machines that mow for a living. - Robotics Software Engineer | Early Career (0–3 yrs): https://greenzie.applytojob.com/apply/zaDr7OyOmj/Robotics-So... - Robotics Software Engineer | Experienced (3–6 yrs): https://greenzie.applytojob.com/apply/UdRcDlWSzs/Robotics-So... Also open in Atlanta: Technical Service Coordinator. Apply on those pages and mention HN. Questions: cbq@greenzie.com",
+   "site_text": "[https://www.greenzie.com/]\nSoftware for Commercial Robotic Lawn Mowers | Greenzie Powering Commercial Autonomy™ Self-driving technology that improves the safety, productivity, and profitability of your landscaping fleet. SEE HOW MUCH YOU CAN SAVE POWERED BY GREENZIE ® Every Greenzie-equipped mower includes: Rugged and Reliable Sensors Field tested for safe obstacle avoidance, smooth driving, and perfect stripes. Production-Grade Software It just works (almost as hard as your crew does). Plus, it gets smarter through automatic updates. Functional Safety Systems Get the job done faster while following the latest (and upcoming) safety standards. Seamless Integration Easily switch between manual and autonomous modes to add an efficient, productive robotic worker to your crews. Robotic Ready ® Partners Building Greenzie-Equipped Mowers POWERED BY GREENZIE TM POWERED BY GREENZIE TM Rugged and Reliable Sensors Field tested for safe obstacle avoidance, smooth driving, and perfect stripes. Production-Grade Software It just works (almost as hard as your crew does). Plus, it gets smarter through automatic updates. Functional Safety Systems Get the job done faster while following the latest (and upcoming) safety standards. Seamless Integration Easily switch between manual and autonomous modes to add an efficient, productive robotic worker to your crews. Robotic Ready™ Partners Building Greenzie-Equipped Mowers Why add automation to your crew? Increase Productivity Leveraging Greenzie-equipped mowers allows crew members to complete other tasks simultaneously, multiplying team output without hiring additional labor. Enhance Worker Safety We take job site and worker safety seriously. Our software is designed in accordance with ANSI/RIA R15.08-1-2020 safety requirements for industrial robots. Boost Uptime & Profitability More jobs equal more profits. Do more work in less time when you add Greenzie-equipped, Robotic Ready™ mowers to your fleet. Operate More Efficiently Cut out the middle—literally. Mow the perimeter once, and then let software finish the job while you complete other tasks. See How Much You can Save Find out how much you can save using our free planning tool. ‍ Signup now to gain access, or watch us use the planning tool to mow a site and see the savings . SIGNUP FOR THE SITE PLANNING TOOL Operate More Efficiently INCREASE OUTPUT, NOT COSTS Having a Greenzie-equipped robotic lawn mower is like adding a robotic worker to your crew. This means more grass mowed—and more green in your pocket. FIND A DEALER NEAR YOU We don’t sell mowers, but your favorite outdoor power equipment dealers do. Shop for Greenzie-equipped commercial robotic lawn mowers at locations nationwide. FIND A DEALER USA (470) 460-6116 hello@greenzie.com 1371 Southland Circle NW Atlanta, GA 30318 How It Works SAFETY COMPANY RESOURCES UNIVERSITY CONTACT FIND A DEALER Marketing © 2026 Greenzie ®. All rights reserved. Terms & Conditions Privacy Policy\n\n[https://www.greenzie.com/about]\nLearn More About Us | Greenzie GET TO KNOW GREENZIE From our crew to yours: Here’s how our skilled team of roboticists, software engineers, and landscaping professionals are making jobs easier, faster, and safer for top commercial landscapers across the nation. OUR STORY Back in 2018, Greenzie co-founder Charles Brian Quinn (aka CBQ) found himself in a closet-sized room, calling every landscaper he could. CBQ wasn’t looking for landscaping services, however—he was researching the opportunity to bring technology to an industry facing serious labor shortages, increasing costs, and dangerous, repetitive work. Today, Greenzie is the leading software company developing fully autonomous commercial lawnmowers and industrial equipment. Whether seeking an advanced operator assist or fully autonomous system, Greenzie’s products and services help promote greater safety, productivity, and profitability for landscaping crews. We partner with top OEMs to manufacture Greenzie-equipped, Robotic Ready ",
+   "email_candidates": [
+    {
+     "email": "cbq@greenzie.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "hello@greenzie.com",
+     "where": "https://www.greenzie.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "eren.yildirir@greenzie.com",
+     "where": "GitHub commits (Greenzie)",
+     "kind": "personal",
+     "name": "Eren Yildirir",
+     "commits": 5
+    },
+    {
+     "email": "kristian@greenzie.com",
+     "where": "GitHub commits (Greenzie)",
+     "kind": "personal",
+     "name": "kakaday22",
+     "commits": 1
+    },
+    {
+     "email": "david@greenzie.com",
+     "where": "GitHub commits (Greenzie)",
+     "kind": "personal",
+     "name": "David Jensen",
+     "commits": 7
+    },
+    {
+     "email": "spwizzard2@gmail.com",
+     "where": "GitHub commits (Greenzie)",
+     "kind": "personal",
+     "name": "Steven Leonis",
+     "commits": 5
+    },
+    {
+     "email": "rushikharade07@gmail.com",
+     "where": "GitHub commits (Greenzie)",
+     "kind": "personal",
+     "name": "Rushikesh Kharade",
+     "commits": 4
+    }
+   ]
+  },
+  {
+   "id": "0aa3bc8b19",
+   "company": "Newtwen",
+   "website": "https://newtwen.com",
+   "title": "Backend & Cloud Platform Engineer",
+   "location": "REMOTE (EU)",
+   "source": "hn_hiring",
+   "posted_at": "2026-09-01T20:20:25Z",
+   "posting": "Newtwen | Backend & Cloud Platform Engineer | REMOTE (EU) | Full-time | €70k–€90k+ Newtwen is building a cloud platform that brings complex physics and data-driven intelligence directly onto microcontrollers, generating ultra-fast runtime firmware that executes in just a few microseconds. We're looking for a Senior Backend & Cloud Platform Engineer to help architect and build our first production-grade cloud backend from the ground up. You'll own backend services and computational pipelines spanning 3D geometry processing, mesh generation, model order reduction, calibration and neural network training. A core part of the platform is dedicated to data-driven modeling, with a specialized neural-model library designed to make physical models adaptive in real time. You might be a good fit if you have: strong production backend/cloud experience, Python (FastAPI or similar), relational databases, Docker, cloud infrastructure (GCP preferred), CI/CD and IaC — and enjoy making architecture decisions rather than just implementing tickets. Location: REMOTE (EU), with the option to work hybrid in Italy Compensation: €70k–€90k+, depending on experience Apply: career@newtwen.com — mention Hacker News and include your LinkedIn/CV and, if available, GitHub or project links.",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "career@newtwen.com",
+     "where": "job posting",
+     "kind": "hiring"
+    }
+   ]
+  },
+  {
+   "id": "20d42dd286",
+   "company": "Qumulo",
+   "website": "https://qumulo.com",
+   "title": "Software Development Engineer Intern",
+   "location": "Seattle, WA",
+   "source": "simplify",
+   "posted_at": "2026-09-23T22:21:37Z",
+   "posting": "Software. Terms: Winter 2027, Spring 2027, Summer 2027. Sponsorship: Other. Degrees: Bachelor's",
+   "site_text": "[https://qumulo.com/]\nQumulo | Data Simplified Anywhere at Exabyte Scale Contact Pro Services Get help with your data project. Customer Success See why our NPS scores are the best in the business. Contact Us Reach out to our team. Contact Support Contact Customer Support Try Qumulo Try Qumulo Any Data. Any Location. Total Control. Any Data. Any Location. Total Control. Unleash the full power of your data. Built for the most demanding enterprise workloads, Qumulo delivers a unified global file system across data centers, edge, and cloud. Move faster, scale further, and work without limits. Try Qumulo Try Qumulo EVENT Building an Open AI Data Platform with Qumulo and Databricks PRESS RELEASE Qumulo Announces NeuralSearch and ISV Partnership with Databricks Trusted by over 1,100 enterprise companies globally Scale without limits. Innovate without compromise Elastic capacity and performance Unlimited capacity for your largest data sets, and unlimited performance for your most demanding workloads. Instant access. Zero delays. One globally visible namespace available in real-time to users and workloads anywhere. Predictable cost control Optimize TCO by scaling capacity and performance up or down as your workloads change. Unified control across all data Control your entire data estate from a single platform. No migration. No consolidation. Just instant visibility and governance wherever your data lives. True global collaboration Enable teams worldwide to work on the same massive datasets simultaneously, eliminating data copy costs and sync delays. Centralized data governance Monitor, manage, and secure all your file data with consistent policies enforced everywhere your data resides. Explore the platform Explore the platform Fueling the future of Enterprise AI The Qumulo Data Platform transforms enterprise data into a foundation for AI Reasoning: unifying files, objects, and every workload across edge, core, and cloud to deliver complete data freedom and control. From large-scale AI in the cloud to real-time video analytics, medical imaging, genomics, and autonomous driving pipelines, Qumulo is the enterprise-grade platform built to power the world’s most demanding workloads – for users, machines, devices, and AI. Learn more Learn more The Qumulo Data Platform One file system. Every environment. Infinite scale. Qumulo gives architects a single, multi-protocol platform that spans on-premises, edge, and cloud infrastructure without replication overhead, vendor lock-in, or performance trade-offs. Consolidate your storage stack, eliminate data silos, and deliver consistent high-throughput access to every application and workload, all managed from a single global namespace. View Solution Brief View Solution Brief Stop managing storage. Start leveraging data. Stop managing storage. Start leveraging data. Build a data strategy that moves as fast as your business. See how organizations use Qumulo across real-world, high-impact use cases. AI & Accelerated Computing AI & Accelerated Computing Backup Backup High Performance Workloads High Performance Workloads Ransomware Protection Ransomware Protection Video Surveillance Video Surveillance Virtual Desktop Virtual Desktop User Directories User Directories AI & Accelerated Computing AI & Accelerated Computing Backup Backup High Performance Workloads High Performance Workloads Ransomware Protection Ransomware Protection Video Surveillance Video Surveillance Virtual Desktop Virtual Desktop User Directories User Directories Real teams. Real results with Qumulo. 500+ rendering systems kept online with zero downtime “Qumulo’s support is the best I’ve experienced in the industry. Their team is responsive, collaborative, and genuinely invested in helping us keep our workflows running smoothly — even when we throw unconventional challenges their way.” Tim Miller Blur Studio CEO Read More Read More 250TB+ today & growing rapidly - Large volumes of unstructured data requiring immediate analysis - Expandin",
+   "email_candidates": [
+    {
+     "email": "info@qumulo.com",
+     "where": "https://qumulo.com/contact",
+     "kind": "generic"
+    },
+    {
+     "email": "azure@qumulo.com",
+     "where": "https://qumulo.com/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "aws@qumulo.com",
+     "where": "https://qumulo.com/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "federal@qumulo.com",
+     "where": "https://qumulo.com/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "pr@qumulo.com",
+     "where": "https://qumulo.com/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "peopleteam@qumulo.com",
+     "where": "https://qumulo.com/contact",
+     "kind": "personal"
+    }
+   ]
+  },
+  {
+   "id": "457d956bf0",
+   "company": "ZipRecruiter",
+   "website": "https://ziprecruiter.com",
+   "title": "Software Engineer Intern",
+   "location": "Santa Monica, CA",
+   "source": "simplify",
+   "posted_at": "2026-09-23T22:43:27Z",
+   "posting": "Software. Terms: Summer 2026. Sponsorship: Other. Degrees: Bachelor's",
+   "site_text": "[https://www.ziprecruiter.com/]\nJob Search: Millions of US Jobs (HIRING NOW) Near You - ZipRecruiter Job Search: Millions of US Jobs (HIRING NOW) Near You - 2026 Post a Job Be Seen First Tell the employer why you're interested and jump to the top of the candidate list. Continue with Email By clicking \"Continue\" , I agree to the ZipRecruiter Global Terms of Use Agreement and acknowledge I have read the Privacy Policy and agree to receive email job alerts. By clicking \"Continue\" , I agree to the ZipRecruiter Global Terms of Use Agreement and acknowledge I have read the Privacy Policy and agree to receive email job alerts. Nearly 2x more likely to talk to the employer Nearly 2x more likely to have an interview * ZipRecruiter Internal Data from 09-29-2025 to 11-17-2025 ZipRecruiter is rated 5 stars out of 5 Rated #1 job site in the U.S. * Based on G2 satisfaction ratings as of November 19, 2024 Applying is easy. Hearing back isn’t. At ZipRecruiter, we’ve tackled that problem head-on. Now, with Be Seen First, you can jump to the top of the candidate list - nearly doubling your chances of talking to the employer. Be Seen First - how it works 1 Look for the purple badge These jobs let you add a short note to your application. 2 Show you're interested After you apply, tell the employer why you're interested. 3 Jump to the top Your application will stand out and be seen first. Make your application impossible to miss Testimonials Colin D. Cyber Security Analyst “ Competition-wise, it's meaningful because I'm standing out from the crowd. ” Julia H. Operations Leader “ It allowed me to present skills I can't really speak to in my resume to set myself apart. ” Andre J. Customer Service “ Being able to stand out made a pretty big difference when it came to getting a position. ” Ready to be seen first? Get Started Get Started",
+   "email_candidates": [
+    {
+     "email": "accessibility@ziprecruiter.com",
+     "where": "https://www.ziprecruiter.com/",
+     "kind": "personal"
+    }
+   ]
+  },
+  {
+   "id": "46ae117ffa",
+   "company": "Controlshift",
+   "website": "https://controlshift.co.nz",
+   "title": "Full Stack Developer Internship",
+   "location": "Ranchi",
+   "source": "unstop",
+   "posted_at": "2026-09-16T13:22:11Z",
+   "posting": "About the Company Controlshift is seeking an enthusiastic Full Stack Developer Intern to join its technology team. This opportunity is designed for freshers who want practical exposure to building modern web applications while learning in a collaborative and execution-focused environment. Responsibilities Develop and enhance responsive web application features using Next.js and Node.js. Work with the team to understand requirements, implement solutions, and troubleshoot issues across the frontend and backend. Write readable, maintainable code and participate in testing, debugging, code reviews, and documentation. Collaborate with mentors and other team members to deliver assigned tasks within agreed timelines. Requirements Fresher candidates with a foundational understanding of web development are welcome to apply. Required knowledge of Next.js and Node.js. Good understanding of JavaScript, APIs, frontend-backend integration, and database concepts is preferred. Strong learning ability, problem-solving skills, communication, and willingness to work from the Ranchi office. This is a paid, full-time, in-office internship for a duration of 2 months, offering a monthly stipend of ₹5,000.",
+   "site_text": "[https://controlshift.co.nz/]\nControl Shift | WordPress Development, Hosting & Support NZ Skip to content Support Request Get in Touch New Zealand's WordPress Specialists Your WordPress partner you can rely on, long after launch. We build beautiful, functional websites for agencies and businesses, then keep them fast, secure, and always up-to-date with fully managed hosting and care from right here in New Zealand. Start a Project → What We Do ★★★★★ 5-star rated on Google NZ Based in Auckland, NZ Trusted by businesses across New Zealand How we can help Whether you’re starting fresh, need reliable hosting, or want a WordPress team behind your agency, we’ve got you covered. 01 Build your website We develop custom WordPress sites from approved designs, pixel-perfect, fast, and built for real results. From brochure sites for local businesses to builds for organisations and not-for-profits. Responsive, SEO-ready and easy to manage. Web development → 02 Host it properly Fully managed WordPress hosting with Cloudflare security, SSL, daily backups, and uptime monitoring included as standard. We handle all WordPress core, theme and plugin updates so your site stays secure, fast and performing at its best. Managed hosting → 03 Keep it running Need content changes, new pages, bug fixes or design tweaks? Our on-going care plans give you a dedicated bank of development hours each month. Choose from Lite, Moderate or Heavy depending on how much your site needs to keep evolving. Care plans → Need help beyond the website? We work alongside trusted designers, marketers, content writers, and photographers across Auckland. Ask us and we’ll connect you with the right people. Explore Partner Services → The Control Shift Difference A personal approach to professional websites. We’re not a big agency with layers of account managers. When you work with us, you’re talking directly to the people building and maintaining your site. That means faster responses, clearer communication and someone who genuinely understands your business. About us → People You Can Count On Every client gets our full attention, not a rotating door of project managers. WordPress, and Only WordPress We don't spread ourselves thin across platforms. WordPress is what we do, and we do it really well. Built to Last, Not Just to Launch We build sites with long-term performance in mind, and we're still here to support them years down the track. Honest, Upfront Communication No jargon, no run-around. We'll tell you what we think, give you clear timelines and keep things simple. About us → Our process From first conversation to launch day. 01 Discovery We learn about your business, goals and audience to make sure we’re building the right thing. 02 Design A custom design tailored to your brand, built with user experience and conversions in mind. 03 Development We build your site on WordPress, optimised for speed, security and easy content management. 04 Launch and Beyond We launch your site, set up managed hosting and continue looking after it for the long haul. Years Running 0 + Projects Delivered 0 + Google Reviews 5 ★ WordPress 0 % Since 2018 Building, hosting, and caring for WordPress websites since 2018. Control Shift was founded on a simple idea: businesses deserve a WordPress partner that sticks around after launch. We’ve been proving that point ever since. Our story → Have a project in mind? New builds, migrations, rescues, ongoing care. Whatever the project, you’re in specialist hands. Start a conversation For Agencies Your behind-the-scenes WordPress team. You bring the design and we’ll bring the WordPress expertise and stick around long after launch. You keep the relationship and the credit, we keep the site running properly. No minimums, no retainers, no contracts to wrestle with. Just a reliable build partner you can hand projects to, knowing they’ll come back done properly. White-label or collaborative, whatever works for you. Design Agencies Marketing Agencies Advertising ",
+   "email_candidates": [
+    {
+     "email": "hello@controlshift.co.nz",
+     "where": "https://controlshift.co.nz/",
+     "kind": "generic"
+    }
+   ]
+  },
+  {
+   "id": "811e6f4ed0",
+   "company": "SerpApi",
+   "website": "https://serpapi.com",
+   "title": "https://serpapi.com",
+   "location": "Based in Austin, TX but remote-first structure",
+   "source": "hn_hiring",
+   "posted_at": "2026-09-02T04:15:02Z",
+   "posting": "SerpApi | https://serpapi.com | Junior to Senior Fullstack Engineer multiple positions | Customer Success Engineer | Hiring Coordinator | Python/Ruby/PHP/Js/Rust/Cotlin/C#/Crystal/Nim/Elixir Developer Advocate positions | Based in Austin, TX but remote-first structure | Full-time | ONSITE or FULLY REMOTE | $150K - 180K a year 1099 for US or local avg + 20% for outside the US SerpApi is the leading API to scrape and parse search engine results. We provide 100+ APIs to Google, Google Maps, Google Images, Bing, Baidu, and more. Our current stack is Ruby, Rails, MongoDB, and React.JS. We are looking for more Junior and Senior FullStack Engineers. We have an awesome work environment: We are a remote first company (before Covid!). We do continuous integration, continuous deployments, code reviews, code pairings, profit sharing, and most of communication is async via GitHub. We value super strongly transparency, do open books, have a public roadmap, and contribute to the EFF. Apply at: https://serpapi.com/careers",
+   "site_text": "[https://serpapi.com/]\nSerpApi: Google Search API APIs Integrations Features Pricing Use cases Team Careers FAQ Contact us Sign In Register Google Search API Scrape Google and other search engines from our fast, easy, and complete API. Play with more parameters and search engines Easy Integration Advanced Features Leverage our infrastructure (IPs across the globe, full browser cluster, and CAPTCHA solving technology), and exploit our structured SERP data in the way you want. Real Time and Real Results Each API request runs immediately – no waiting for results. In addition, each API request runs in a full browser, and we'll even solve all CAPTCHAs, completely mimicking what a human would do. This guarantees that you get what users truly see. Accurate Locations Get Google results from anywhere in the world with our \"location\" parameter. SerpApi uses Google’s geolocated, encrypted params and routes your request through the proxy server nearest to your desired location to ensure accuracy. Get locations at our locations endpoint . JSON and Markdown Output Regular organic results are available as well as Maps, Local, Stories, Shopping, Direct Answer, and Knowledge Graph. Lots of structured data is available for each result, including links, addresses, tweets, prices, thumbnails, ratings, reviews, rich snippets, and more. U.S. Legal Shield Our U.S. Legal Shield covers the scraping and parsing of search engine data, as long as your use of the data or service is not illegal. Such illegal use includes, by way of example and not limitation, copyright infringement, DMCA violations, other intellectual property infringement, privacy violations, fraud, harassment, cybercrime, terrorism, child exploitation, denial-of-service attacks, or war crimes. In short, we assume liability for the lawful collection of public search data, but not for how that data is ultimately used. Included with the Production Plan and above, with up to $2 million in coverage. Simple Pricing Month-to-month contract. Cancel anytime. Starter $ 25 / month Get Started 1,000 searches per month 200 throughput per hour U.S. Legal Shield Developer $ 75 / month Get Started 5,000 searches per month 1,000 throughput per hour U.S. Legal Shield Most popular Production $ 150 / month Get Started 15,000 searches per month 3,000 throughput per hour U.S. Legal Shield Big Data $ 275 / month Get Started 30,000 searches per month 6,000 throughput per hour U.S. Legal Shield Flexible options for every stage Start for free, upgrade as you grow, or contact our team about an enterprise plan tailored to your volume, performance, and compliance needs. View all plans Free $ 0 / month Get Started 250 searches per month 50 throughput per hour U.S. Legal Shield ZeroTrace Mode Priority support Enterprise Contact sales for pricing contact@serpapi.com Contact us Custom searches per month Custom throughput per hour U.S. Legal Shield ZeroTrace Mode Priority support Enterprise-grade security & support Engineered for total data privacy, industry-leading compliance, and guaranteed global reliability. ZeroTrace Mode With ZeroTrace Mode enabled, we don't store your search parameters, files, or data. Once a search completes, it's as if it never happened. Security & Compliance We're SOC 2 Type II, SOC 3, and ISO 27001 certified - Independently audited controls for security, availability, and confidentiality. Premium support Get help from a global team of experts, ready to guide you through any issue. Backed by uptime SLAs of up to 99.97%. They trust us You are in good company. Join them. FAQ How are searches counted? Only successful searches are counted towards your monthly searches. Cached, errored, and failed searches are not. The number of results returned per response will not affect the number of credits used - responses with 100 results or empty result sets will both cost 1 search credit. What's your guaranteed throughput? The hourly throughput limit for plans with under 1 million searches per month is 20% ",
+   "email_candidates": [
+    {
+     "email": "contact@serpapi.com",
+     "where": "https://serpapi.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "adarsh@serpapi.com",
+     "where": "GitHub commits (serpapi)",
+     "kind": "personal",
+     "name": "Adarsh Divakaran",
+     "commits": 35
+    },
+    {
+     "email": "audrey@serpapi.com",
+     "where": "GitHub commits (serpapi)",
+     "kind": "personal",
+     "name": "Audrey Kendrick",
+     "commits": 14
+    },
+    {
+     "email": "victor@serpapi.com",
+     "where": "GitHub commits (serpapi)",
+     "kind": "personal",
+     "name": "Victor Benarbia",
+     "commits": 22
+    }
+   ]
+  },
+  {
+   "id": "813d550aa7",
+   "company": "Senzing (entity resolution SDK)",
+   "website": "https://senzing.com",
+   "title": "Platform Engineer",
+   "location": "Remote (USA)",
+   "source": "hn_hiring",
+   "posted_at": "2026-09-02T16:59:23Z",
+   "posting": "Senzing (entity resolution SDK) | Platform Engineer | Remote (USA) | Full-time Senzing builds enterprise entity-resolution SDK technology — an embeddable library that runs entirely inside customer infrastructure with zero data exfiltration. We're hiring a platform engineer to own the AWS infrastructure behind Placekey (our location-data subsidiary), a production API service running at scale. Day one, this is a cloud/platform role: you'd own the operational health of Placekey's stack, close out post-migration hardening, and have real input on where the infrastructure goes next. Over time the role grows to include internal IT and systems work (Active Directory, endpoint/laptop provisioning, Tailscale, security) — so we're looking for someone who's happy owning things end to end, not only the glamorous layer. Stack: EKS Fargate, Aurora PostgreSQL, S3, Lambda, Cloudflare, API gateway (Kong/AWS), Terraform, Grafana/CloudWatch/Datadog. Apps are Scala and Rust. Looking for: 5+ years platform/cloud infra, production Kubernetes (EKS ideal), managed Postgres (backup/recovery/tuning), IaC, solid networking, strong Python/Bash. You don't need to be an expert on the IT/systems side today — but you should want to grow into it. Remote anywhere in the USA. Competitive salary, full health/dental/vision, 401(k) match, flexible PTO. To apply: email enghiring@senzing.com with your resume and a short note — tell us about a challenging production system you've owned end to end, including an incident where your monitoring missed something and what you changed afterward.",
+   "site_text": "[https://senzing.com/]\nThe Entity Resolution Experts - Gain Data Intelligence Skip to main content Close Search search Menu Entity resolution for your systems and agents Know who’s who before it matters. Resolve identities. Reveal relationships. Reduce risk. Every fraud loss, poor customer experience, and AI hallucination starts the same way: you don’t truly know who you’re dealing with. Senzing fixes that in real time, at any scale. Get a Demo Start Building → TRUSTED BY ENTERPRISES AND GOVERNMENTS WORLDWIDE Where in your systems can you see everything you know about a person? Most organizations can’t answer that question. This lack of identity intelligence means identity data is fragmented across CRM, transactions, fraud detection, compliance systems, dozens of sources, each with a partial view. How fraud slips through What if your fraud system sees multiple customers. The same person opened three accounts last month. Synthetic identities, related bad actors, and duplicate accounts hide in the spaces between systems. Each one is a clean signal in isolation. The pattern only shows up when the identities are resolved. How opportunities get missed What if your CRM says she’s a new prospect and your transaction system says she’s been a customer for six years? Fragmented identity means incomplete customer profiles, unnecessary onboarding friction, and support teams working without context. Cross-sell and upsell opportunities disappear into the gaps between systems. And when executives pull dashboards built on that same fragmented data, the decisions that follow are only as good as the picture they never had. How decisions misfire What if your AI agent has a 96% accuracy rate and the 4% it gets wrong is the 4% that matters? The hard cases, duplicates, related parties, name variations, synthetic identities, are exactly the cases where AI systems make confident, costly mistakes. Better models don’t fix this. Better identity resolution does. Senzing® Entity Resolution Closes the Gap. It resolves fragmented records into complete entitites and reveals the relationships between them, giving your fraud agents, compliance teams, and AI systems the identity intelligence they need to make sound decisions. What it is, how it works The layer your stack is missing, and the engine that delivers it. Identity intelligence isn’t a feature inside your data warehouse. It isn’t a module bolted onto your MDM. It isn’t a SaaS platform you migrate to. It’s a separate layer your stack doesn’t have yet, and one your AI systems increasingly can’t work without. The What Identity Intelligence A continuously maintained, resolved understanding of who is who and who is related to whom across every data source, in real time. The foundational layer between your raw data and the systems that act on it. The How The Senzing engine The engine that resolves identities and reveals relationships in real time. Boots in under one second. No training, no fine-tuning, no data science team. Scales from tens to billions of records and runs entirely inside your infrastructure. The shift underway Agentic AI runs on identity AI agents reason, retrieve, and act faster than any human team — but speed only multiplies bad data. One wrong identity becomes a confidently wrong decision. Senzing resolves who’s who across every source in real time, and hands each agent the same explainable answer — so they act on the truth, not a guess. See how agentic resolution works → AI Agents Decision Agent standby Compliance Agent standby Risk Agent standby Senzing Identity Layer Live resolution Autonomous · real-time · always-on Data Sources CRM Customer Records D&B Firmographics Watchlist Sanctions / PEP ERP Transactions Nine Architectural Advantages Built for the systems that come next. Architectural differences that make Senzing the only viable foundation for fraud detection, compliance workflows, customer intelligence, and the agentic AI systems that will soon power them. Instant by Design Boo",
+   "email_candidates": [
+    {
+     "email": "enghiring@senzing.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "brianmacy@gmail.com",
+     "where": "GitHub commits (senzing)",
+     "kind": "personal",
+     "name": "Brian Macy",
+     "commits": 28
+    },
+    {
+     "email": "brian@senzing.com",
+     "where": "GitHub commits (senzing)",
+     "kind": "personal",
+     "name": "Brian Macy",
+     "commits": 18
+    }
+   ]
+  },
+  {
+   "id": "814fa434c9",
+   "company": "HeyCharge",
+   "website": "https://heycharge.com/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Germany, Europe, Remote, Partly Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 17. Low-cost, high-scale EV charging platform for apartments (and more). EV charging infrastructure today is expensive, difficult to install, and doesn't integrate well with existing products, services, and businesses. HeyCharge solves all of these problems with ultra-low-cost, plug-and-play EV chargers that don't require internet connections and integrate with third-party products via our SDK and APIs. Our customers are energy utilities, property operators, mobility service providers, and more. Climate, Industrials, Energy, Germany, Europe, Remote, Partly Remote",
+   "site_text": "[https://www.heycharge.com/]\nSmart EV Charging — Without Internet | HeyCharge Skip to content By Role CPOs Building Owners Fleet Operators Utilities Electricians Parking Operators By Application Underground Parking Single Family Homes Company Car at Home In-Car Integration Retail Retrofit Any Charger Vacation Homes & Rentals Hotels & Hospitality Products Hardware HeyCharge Wallbox CONNECT MagicBox CONNECT Bridge CONNECT Edge Gateway SecureCharge Module Software Charge Point Management System HeyCharge App SDK/API Company About News Guides Core Principles Contact Careers Technology Developers User Sign-in Language 🇮🇩 ID 🇩🇪 DE 🇺🇸 EN 🇪🇸 ES 🇫🇷 FR 🇮🇹 IT 🇳🇱 NL 🇵🇱 PL 🇵🇹 PT 🇮🇳 HI 🇰🇷 KO Get in touch Featured EV Charging That Doesn't Touch Your Network: The Cybersecurity Case for Offline-First Architecture EV Charging Without Internet 40–70% lower cost 100% reliable offline Offline EV charging via Bluetooth. 100% reliable, 40–70% lower cost. Get in touch Explore the Technology Democratizing EV Charging for Every Apartment Resident Apartment Resident Commercial Building Shopping Mall Rural Community Single Family Home Hotel Retail Store Vacation Home Parking Operator Fleet Operator Company Car Driver 700 + Chargers deployed 135 + Sites live 2,000 + Spaces prewired 1.5 GWh Energy delivered Trusted by real estate leaders Platform partners Backed by Why HeyCharge Built different. Works better. 40–70% Lower Total Cost No SIM cards. No network infrastructure. No connectivity fees. Eliminate the hidden costs that destroy CPO margins. \"Developing affordable and scalable EV charging for residential buildings has always been at the core of HeyCharge's mission.\" Robert Lasowski, Founder and CBDO — On the Vonovia partnership 100% Reliable Works in underground garages where WiFi and cellular fail. Bluetooth EV charging access works everywhere, every time. Case Study Perchtinger Straße, Munich 56,000+ kWh delivered 2+ years fully offline 18 chargers 60+ active users Retrofit Ready Works with existing OCPP chargers. No need to replace your hardware. Technology Partner Turnkey Hardware Hang it, wire it, charge — the HW18 wallbox ships ready to install, with SecureCharge built in. 22 kW, 3-phase, Eichrecht-certified, available Europe-wide from HUMAX. Technology Partner Expandable Start offline, add smart energy management and demand response via gateway. Offline Roaming A HeyCharge exclusive: accept EMP charging cards even on fully offline chargers. Company car drivers pay with their Shell, DKV, or EnBW card — no internet at the charger, no RFID reader needed. The app handles card authentication locally via Bluetooth and settles through Hubject when connectivity returns. All the reliability and cost savings of offline, with full roaming payment support. 5,000+ roaming sessions Roaming Partners Our Approach Different user groups, different products, one mission. We empower businesses to deliver seamless EV charging to the people who need it most. Apartments Apartment Residents Enabling property managers and housing companies to offer hassle-free charging to tenants in multi-apartment buildings. For building owners Turnkey CPO in Germany Hospitality Vacation Rentals Helping hotels and vacation rentals provide convenient charging as a premium amenity for their guests. Fleet Company Car Drivers Employees charge company vehicles at home with precise, auditable session tracking — no matter what wallbox they have. How It Works Offline-first. By design. Our patented Bluetooth EV charging technology enables secure authentication and billing without any internet connection — in underground garages, apartment buildings, and beyond. 1 Bluetooth Connect User opens the app and connects directly to the charger via Bluetooth. No cellular or WiFi needed. 2 Local Authentication Patented cryptographic protocols verify the user directly at the charger. Instant access, always. 3 Syncs when Online Session data syncs to the cloud whenever connectivity becomes available. Nothi",
+   "email_candidates": [
+    {
+     "email": "hello@heycharge.com",
+     "where": "https://www.heycharge.com/",
+     "kind": "generic"
+    }
+   ]
+  },
+  {
+   "id": "8384d15046",
+   "company": "AiMi",
+   "website": "https://aimi.technology",
+   "title": "Full Stack AI Engineer",
+   "location": "Remote(Everywhere)",
+   "source": "hn_hiring",
+   "posted_at": "2026-09-03T16:29:17Z",
+   "posting": "AiMi | Full Stack AI Engineer | Remote(Everywhere) | Full-time AiMi builds agentic AI infrastructure for capital markets: autonomous agents that ingest venue and vendor notifications, assess impact across client infrastructure, and drive change management workflows in real time, replacing what used to be manual, static processes for exchanges and their ops teams. live production platform, not a pilot. you'd work across the full stack: React/TypeScript frontend, Node.js backend, AWS Lambda. concretely: shipping features in the agent pipeline, building MCP-based connectors and skills that extend what our agents can reach, running evals on agent accuracy and reliability, building observability and alerting for agent latency/error rates/failed workflows, and making long-running LLM, agent, and SSE calls actually resilient (timeouts, retries, circuit breakers, fail-fast, recovery). also a fair amount of diagnosing dependency/version conflicts in a Node.js/npm monorepo, which is its own skill. looking for 2-3+ years hands-on experience, solid Node.js and REST API background, real hands-on work with LLMs or agent frameworks (Mastra, LangChain, LlamaIndex, Claude, OpenAI or similar), comfortable with AWS (Lambda, Bedrock, DynamoDB, S3, Cognito, API Gateway, CloudWatch), MongoDB/DynamoDB, and genuinely tests what you ship (unit, integration, e2e). familiarity with spec-driven development (Claude Code, Cursor, CodeRabbit or similar) is a real plus since that's how we work day to day. bonus points for capital markets/trading infra background, LLM observability tooling like Langfuse, SSE streaming experience, or PostHog. you'd be working on great things here: real architectural decisions at an early-stage company, visible impact from week one, and room to grow into a senior or lead role as we grow. apply: https://join.com/companies/aimitechnology/16658631-agentic-a... , or reach out directly at vishnu.swaroop@aimi.technology",
+   "site_text": "[https://aimi.technology/]\nActionable Intelligence for Trading and Market Data Operations Actionable Intelligence for Trading & Market Data Operations Accelerate your critical trading and data operations with intelligent, adaptive agent-driven automation Learn More PLATFORM Transform market complexity into automated clarity Knowledge A unified operating model for capital markets infrastructure, combining embedded market ecosystem intelligence with firm-specific context to create a connected source of operational intelligence. Insights An agentic intelligence layer for capital markets operations, combining persistent monitoring with autonomous workflows to surface, assess, and act on what matters. Actions An autonomous execution layer for capital markets infrastructure, orchestrating the actions required to assess, communicate, and implement change across technology and operations. Agentic AI for Capital Markets Infrastructure Automating access to financial markets for faster delivery, lower costs, and reduced risk. GET STARTED SOLUTIONS Automate Complex Market Workflows with AI Precision Across operations, engineering, risk, and infrastructure teams, AiMi enables smarter, safer, and faster decision making. Change Intelligence Incident Intelligence Service Catalogue From Notice to Action, in Minutes AiMi's agents cut through hundreds of daily exchange and vendor updates so your team doesn't have to Turn product, pricing, and technical notices into clear, actionable changes in minutes — not hours Automatically analyse impact across your application landscape, data subscriptions, and infrastructure footprint to surface what matters to your firm Generate targeted technical actions ready for downstream implementation — no manual translation required Integrate seamlessly with your existing workflow tools, including Jira See how it works Detect, Track, Respond Instantly Continuously monitor exchange and vendor channels to flag outages, service degradations, and delivery delays the moment they are reported Cut through the noise — filter background maintenance and irrelevant alerts to surface only genuine operational risk Automatically classify each incident by severity, environment, and impacted venues, services, and protocols Maintain a complete incident lifecycle from first alert to final resolution, with a full auditable timeline of every state change and update See how it works Your Complete Map of Market Infrastructure AiMi’s Service Catalogue connects every venue, platform, and data service in one intelligent framework Giving teams instant visibility into dependencies, relationships, and change impact across your trading ecosystem Leverage the out-of-the-box experience that AiMi’s platform can deliver See how it works WHAT WE DO At AiMi , we're transforming the management of critical trading and market data infrastructure with AI-driven automation . By replacing manual, static processes with dynamic, data-driven agentic workflows we empower businesses to operate with greater efficiency, agility and control. Our agentic AI solutions reduce operational risk, improve efficiency , and accelerate decision-makin g, enabling firms to unlock new opportunities, optimise resources, and scale with confidence in an increasingly complex and ever-changing landscape. KNOWLEDGE. INSIGHTS. ACTION Powering Intelligent Market Operations AiMi is transforming the way financial institutions manage trading and market data infrastructure. By leveraging agentic AI workflows, we're eliminating manual inefficiencies and providing data-driven decision-making that integrates seamlessly with existing processes. Service Catalogue A curated directory of trading venues, data providers, platforms, and interfaces codify market access services Data Collection Automated ingestion pipelines source and aggregate the latest technical specifications, notices, and policy documents Intelligent Analysis Agents review data and generate contextual insights, providing action",
+   "email_candidates": [
+    {
+     "email": "vishnu.swaroop@aimi.technology",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "hello@aimi.technology",
+     "where": "https://aimi.technology/",
+     "kind": "generic"
+    }
+   ]
+  }
+ ]
+}
