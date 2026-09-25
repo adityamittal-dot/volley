@@ -89,9 +89,19 @@
   "id": "02f412090a",
   "location": "Boston, MA",
   "posted_at": "2026-09-12T17:36:17Z",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "hook": "",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": ""
+  },
   "score": 9.5,
   "source": "simplify",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Machine Learning Engineer Intern",
   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003",
   "website": "https://klaviyo.com"
@@ -338,9 +348,24 @@
   "id": "08e50d3bbe",
   "location": "India, South Asia",
   "posted_at": null,
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "hook": "",
+   "people": [
+    {
+     "name": "Karam Lakshman",
+     "role": "CEO, Co-founder"
+    }
+   ],
+   "region": "asia",
+   "stack": [],
+   "summary": "Builds decentralized wifi networks for emerging markets using Free Space Optics, with crypto token-based economic model."
+  },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2017)",
   "url": "https://www.ycombinator.com/companies/wifi-dabba-inc",
   "website": "https://dabba.com"
@@ -372,9 +397,25 @@
    }
   },
   "company": "InfoHawk",
+  "contact": {
+   "confidence": "posting",
+   "email": "james@infohawk.com",
+   "found_on": "job posting",
+   "name": "James",
+   "role": "Founder/Engineer"
+  },
   "description": "InfoHawk | Software Engineer | London, UK or NYC | REMOTE (UK or US), occasional onsite | Full-time | https://www.infohawk.com Fraud reaches people through ads, cloned brand sites, counterfeit shops and AI-generated video, and it moves faster than any manual review. InfoHawk detects it while it is still running, correlates it across platforms and formats, and surfaces it early enough for our customers to act. We are a small team of engineers plus security, privacy and fraud specialists. Pre-seed, $2.25M led by Moonshots Capital: https://www.infohawk.com/news/2026-06-08-pre-seed-funding-an... You’d own how data gets in: scrapers and collectors that survive source changes, official APIs where they exist, undocumented endpoints where they don’t. Sources break constantly. Can you figure out how to use AI to spot the change and adapt automatically? Stack: TypeScript, Node, SvelteKit, Postgres, Playwright, heavy AI-assisted development. We’re looking for ~3-5 years building scraping or integration systems in production, but if you’re a great engineer who doesn’t tick every box we’d still like to hear from you. UK-based for London, US-based for NYC; we cannot sponsor visas. Two of our three founders are engineers, one in each city, and you’ll work with them directly. james@infohawk.com",
   "domain": "infohawk.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi James,\n\nScrapers that adapt automatically when a source changes, and still return a verdict in 300ms, is a nice bit of engineering underneath the fraud detection.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic call graph and marks unresolved calls external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship. Any engineering roles open at InfoHawk right now?",
+   "delivered_at": "2026-09-25T18:39:43Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:39:43Z",
+   "subject": "Software Engineer – Aditya Mittal"
+  },
   "emails": [
    "james@infohawk.com"
   ],
@@ -383,9 +424,31 @@
   "id": "09466a9b95",
   "location": "London, UK or NYC",
   "posted_at": "2026-09-01T17:13:16Z",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Aditya's Canopy project includes deterministic code analysis and adaptation; InfoHawk's need to build scrapers that survive source changes and use AI to spot patterns mirrors the programmatic analysis and resilience patterns.",
+   "fit": 6,
+   "hook": "InfoHawk uses AI to detect AI-generated fraud and automatically adapt scrapers when sources change; they're pre-seed funded ($2.25M) with founders in both London and NYC, founded by engineers.",
+   "people": [
+    {
+     "name": "James",
+     "role": "Founder/Engineer"
+    }
+   ],
+   "region": "europe",
+   "stack": [
+    "TypeScript",
+    "Node.js",
+    "SvelteKit",
+    "Postgres",
+    "Playwright",
+    "AI-assisted development"
+   ],
+   "summary": "InfoHawk detects online fraud (counterfeit sites, phishing, AI-generated content) in real-time across platforms, scoring assets and returning verdicts in 300ms."
+  },
   "score": 8.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineer",
   "url": "https://news.ycombinator.com/item?id=49524880",
   "website": "https://infohawk.com"
@@ -444,9 +507,27 @@
   "id": "0aa3bc8b19",
   "location": "REMOTE (EU)",
   "posted_at": "2026-09-01T20:20:25Z",
+  "research": {
+   "angle": "",
+   "angle_reason": "Role requires 5+ years platform/cloud infrastructure experience; candidate is entry-level 2027 graduate.",
+   "fit": 1,
+   "hook": "cloud platform for physics simulations and model order reduction bringing complex simulations to edge devices",
+   "people": [],
+   "region": "europe",
+   "stack": [
+    "Python",
+    "FastAPI",
+    "relational databases",
+    "Docker",
+    "GCP",
+    "CI/CD",
+    "neural networks"
+   ],
+   "summary": "Newtwen builds a cloud platform for physics simulations and data-driven intelligence on microcontrollers, generating ultra-fast runtime firmware."
+  },
   "score": 9,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Backend & Cloud Platform Engineer",
   "url": "https://news.ycombinator.com/item?id=49527588",
   "website": "https://newtwen.com"
@@ -680,9 +761,25 @@
    }
   },
   "company": "CyberAtlas",
+  "contact": {
+   "confidence": "posting",
+   "email": "atlas@cyberatlas.ai",
+   "found_on": "job posting",
+   "name": "",
+   "role": ""
+  },
   "description": "CyberAtlas | https://cyberatlas.ai | Software Engineer | REMOTE Worldwide | Full-time CyberAtlas maps the internet to help security teams, enterprises, and governments discover and understand their exposed digital infrastructure. We’re hiring a Software Engineer to build internet-scale systems processing billions of domains and websites. You’ll work on backend services, data pipelines, search, fingerprinting, vulnerability detection, malware detection, and performance optimization. Looking for strong Python (Flask/FastAPI) and/or Go experience, large-scale data systems, OpenSearch/Elasticsearch, Redis/LMDB, MongoDB/Postgres, Docker, and production systems. How to apply: Email atlas@cyberatlas.ai with your CV and, as a simple anti-bot check, include: 1. The query you ran on Finder ( https://cyberatlas.ai/finder ) 2. The first-page results returned by that query 3. Please include “HN Software Engineer” in the subject.",
   "domain": "cyberatlas.ai",
   "domain_mx": true,
+  "email": {
+   "body": "Hi CyberAtlas team,\n\nIndexing 2.5 billion domains and 99.6 million IPs into something an AI agent can query through your Subdomain Finder API is a serious data problem.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic cross-file call graph, marking unresolved calls external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship. Any engineering roles open right now?",
+   "delivered_at": "2026-09-25T18:34:04Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:34:04Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "atlas@cyberatlas.ai"
   ],
@@ -691,9 +788,29 @@
   "id": "172a4329b5",
   "location": "REMOTE Worldwide",
   "posted_at": "2026-09-01T15:52:53Z",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Aditya's Canopy project builds multi-language static analysis and deterministic call graphs for code intelligence; CyberAtlas similarly needs sophisticated technology fingerprinting and vulnerability detection across systems.",
+   "fit": 7,
+   "hook": "Your backend platform processes 2.5 billion indexed domains and 99.6M scanned IPs with a Subdomain Finder API designed for AI agents.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Python",
+    "Flask",
+    "FastAPI",
+    "Go",
+    "Elasticsearch",
+    "Redis",
+    "MongoDB",
+    "PostgreSQL",
+    "Docker"
+   ],
+   "summary": "CyberAtlas maps internet-scale infrastructure to help security teams discover exposed digital assets, detect vulnerabilities, and understand attack surfaces across domains and services."
+  },
   "score": 13,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "https://cyberatlas.ai",
   "url": "https://news.ycombinator.com/item?id=49523704",
   "website": "https://cyberatlas.ai"
@@ -858,9 +975,24 @@
   "id": "20d42dd286",
   "location": "Seattle, WA",
   "posted_at": "2026-09-23T22:21:37Z",
+  "research": {
+   "angle": "",
+   "angle_reason": "Company is large enterprise (1000+ employees) with no demonstrated direct-contact culture.",
+   "fit": 2,
+   "hook": "intern position explicitly offering Winter 2027, Spring 2027, Summer 2027 terms with exabyte-scale data challenges",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "file systems",
+    "distributed storage",
+    "AI workloads",
+    "cloud"
+   ],
+   "summary": "Qumulo builds a unified global file system platform for managing exabyte-scale data across data centers, edge, and cloud with enterprise-grade control."
+  },
   "score": 9.0,
   "source": "simplify",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Development Engineer Intern",
   "url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true",
   "website": "https://qumulo.com"
@@ -985,9 +1117,19 @@
   "id": "27e3b74572",
   "location": "United States of America, America / Canada, Remote, Fully Remote",
   "posted_at": null,
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "hook": "",
+   "people": [],
+   "region": "americas",
+   "stack": [],
+   "summary": "Women Who Code is a nonprofit organization with 320,000 members across 147 countries that empowers women to excel in technology through free events, training, community, and leadership programs."
+  },
   "score": 11.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2016)",
   "url": "https://www.ycombinator.com/companies/women-who-code",
   "website": "https://www.womenwhocode.com/"
@@ -1178,9 +1320,19 @@
   "id": "2d54f221b4",
   "location": "India, South Asia",
   "posted_at": null,
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Paasa's platform handles sensitive per-user financial and tax data, similar to MedVault's Django backend with JWT auth and per-user query isolation.",
+   "fit": 7,
+   "hook": "Site highlights SIPC insurance, SEBI RIA registration, and a blog post comparing UCITS vs US ETFs for RSU holders — compliance-heavy cross-border investing.",
+   "people": [],
+   "region": "india",
+   "stack": [],
+   "summary": "Paasa is a YC-backed fintech (team of 9) that lets wealthy Indians invest in global equities and automates cross-border tax filing."
+  },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "no_contact",
   "title": "Engineering (YC Summer 2024)",
   "url": "https://www.ycombinator.com/companies/paasa",
   "website": "https://paasa.com"
@@ -1296,9 +1448,25 @@
    }
   },
   "company": "Stripe",
+  "contact": {
+   "confidence": "commit",
+   "email": "rishikej@stripe.com",
+   "found_on": "GitHub commits (stripe)",
+   "name": "rishikej-stripe",
+   "role": ""
+  },
   "description": "Stripe is hiring for the role of Software Engineer Intern Responsibilities of the Intern : Operate as a real member of the team you join; engage in team discussions, decisions, and the technical design process. Write software that will be used in production, and has meaningful impact to Stripe’s business and users. Give and receive technical feedback through code reviews or design discussions Collaborate with other engineers and cross-functional stakeholders to proactively seek and incorporate feedback. Learn quickly by asking great questions, working with your intern manager and teammates effectively, communicating the status of your work clearly, and building with the latest AI tooling. Requirements : A strong fundamental understanding of computer science through pursuit of a Bachelor’s or Master’s degree in computer science, math, or a related discipline. Experience and familiarity with programming, either through side projects or classwork. We work mostly in Ruby, Java, Javascript, Go, and Scala. We believe new programming languages can be learned if the fundamentals and general knowledge are present. Experience from previous internships or other multi-person projects, including open source contributions, that demonstrate evaluating and receiving feedback from mentors, peers, and stakeholders. Ability to learn unfamiliar systems and form an understanding of those systems, through independent research and working with a mentor or subject matter experts. Ability to leverage AI tools to accelerate development while applying rigorous critical thinking and professional judgement to review, refine, and validate all outputs.",
   "domain": "stripe.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Stripe team,\n\nProcessing $1.9T a year across 160 countries means every edge case in your infrastructure shows up eventually.\n\nI spent my last internship at Basepair fixing exactly that kind of thing: a production OAuth race condition with row-level locking, and multi-instance file failures with S3 fallbacks: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship. Is the engineering intern program still taking applications?",
+   "delivered_at": "2026-09-25T18:28:57Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:28:57Z",
+   "subject": "Software Engineer Intern – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [
@@ -1308,9 +1476,47 @@
   "id": "2fcb5a43a4",
   "location": "Bangalore",
   "posted_at": "2026-09-21T06:41:50Z",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Like his Basepair internship where Aditya fixed production bugs and learned infrastructure patterns, Stripe's internship program emphasizes writing production code and learning from experienced engineers.",
+   "fit": 9,
+   "hook": "Stripe is hiring software engineer interns to write production code with real impact on the infrastructure powering $1.9T in annual payment volume across 160 countries.",
+   "people": [
+    {
+     "name": "rishikej-stripe",
+     "role": ""
+    },
+    {
+     "name": "Vishnu Samavedula",
+     "role": ""
+    },
+    {
+     "name": "Ben Sandler",
+     "role": ""
+    },
+    {
+     "name": "Steve Kaliski",
+     "role": ""
+    },
+    {
+     "name": "Silas Boyd-Wickizer",
+     "role": ""
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "Ruby",
+    "Java",
+    "JavaScript",
+    "Go",
+    "Scala",
+    "Python"
+   ],
+   "summary": "Stripe provides financial infrastructure for payments and commerce, enabling businesses to accept payments, offer financial services, and implement custom revenue models globally."
+  },
   "score": 10.5,
   "source": "unstop",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineer Intern",
   "url": "https://unstop.com/internships/software-engineer-intern-stripe-1760315",
   "website": "https://stripe.com"
@@ -1365,9 +1571,19 @@
   "id": "315cd67dbe",
   "location": "Chicago, IL",
   "posted_at": "2026-09-10T22:24:15Z",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "hook": "",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": ""
+  },
   "score": 8.5,
   "source": "simplify",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Data Engineer Intern - PMO",
   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242180007",
   "website": "https://genevatrading.com"
@@ -1501,18 +1717,52 @@
    }
   },
   "company": "Vidyalai",
+  "contact": {
+   "confidence": "hiring",
+   "email": "careers@vidyalai.com",
+   "found_on": "https://www.vidyalai.com/contact-us",
+   "name": "",
+   "role": "Hiring"
+  },
   "description": "Position Overview: As a Full Stack Developer Intern at Vidyalai, you will play a pivotal role in shaping the future of education technology. You will be responsible for designing, developing, and maintaining our online learning platform, ensuring it remains robust, efficient, and user-friendly. This position offers an exciting internship opportunity to work with a product based company to create innovative solutions that empower students and educators worldwide. Responsibilities: Write clean, maintainable, and modular code using JavaScript frameworks, including Node.js, Express.js, Web Sockets, and MongoDB on the backend, and React.js on the front end. Take conceptual ideas and transform them into production-ready solutions by designing, architecting, building, testing, and deploying applications. Develop highly available and scalable REST API endpoints to meet the needs of our users. Skills Required: Proficiency in front-end technologies like React.js, Next.js, Redux, etc. Proficiency in backend-end technologies like Express.js, Nest.js, Socket.io, MongoDB, etc. Writing clean and maintainable code, with an eye for systems thinking. Who Can Apply: Who have hands on experience in at-least a few of the aforementioned technologies. Has a passion for software development - To be demonstrated through side projects or past internships/work.",
   "domain": "vidyalai.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Vidyalai team,\n\nKeeping REST APIs reliable while tutors and students hit them live across time zones is a real distributed-systems problem, not just a CRUD one.\n\nAt my last internship I fixed a production OAuth race condition with row-level locking and multi-instance file failures with S3 fallbacks: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship. Is the full stack intern role still open?",
+   "delivered_at": "2026-09-25T18:30:13Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:30:13Z",
+   "subject": "Full Stack Development Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
   "id": "35d1948e0b",
   "location": "Cochin",
   "posted_at": "2026-09-14T07:12:08Z",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Vidyalai needs reliable, scalable REST APIs for a production SaaS product, the same kind of production-reliability work as my Basepair internship.",
+   "fit": 9,
+   "hook": "Posting asks the intern to build 'highly available and scalable REST API endpoints' for their live tutoring platform, on Node/Express/MongoDB with a React front end.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Node.js",
+    "Express.js",
+    "WebSockets",
+    "MongoDB",
+    "React.js",
+    "Next.js",
+    "Redux"
+   ],
+   "summary": "Vidyalai runs a live one-to-one online tutoring platform for IGCSE, IB, CBSE and other curricula, connecting students worldwide with tutors."
+  },
   "score": 10,
   "source": "unstop",
-  "status": "researching",
+  "status": "sent",
   "title": "Full Stack Development Internship",
   "url": "https://unstop.com/internships/full-stack-development-internship-vidyalai-1755480",
   "website": "https://vidyalai.com"
@@ -1571,9 +1821,19 @@
   "id": "36908a7bab",
   "location": "Remote (async)",
   "posted_at": "2026-09-01T18:08:48Z",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "hook": "",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": ""
+  },
   "score": 8.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Founding AI Engineer — Agentic Systems",
   "url": "https://news.ycombinator.com/item?id=49525603",
   "website": "https://astoria.ai"
@@ -1816,9 +2076,25 @@
   "id": "4035ab9840",
   "location": "United States of America, America / Canada, Remote, Fully Remote",
   "posted_at": null,
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Safepay's payments orchestration and backend API work mirrors Aditya's Django REST backend experience with user isolation, authentication, and multi-provider integration from his MedVault project.",
+   "fit": 5,
+   "hook": "Safepay provides a single integrated platform for payments, analytics, and routing with support for local Pakistani payment rails plus international options; they abstract multiple payment providers behind one API.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Node.js",
+    "Payments API",
+    "Multi-currency",
+    "Subscriptions",
+    "Payment Orchestration"
+   ],
+   "summary": "Safepay provides integrated payments solutions for businesses, offering local and international payment options, subscriptions, BNPL, and unified payment routing across multiple gateways."
+  },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2020)",
   "url": "https://www.ycombinator.com/companies/safepay",
   "website": "https://getsafepay.pk/"
@@ -1943,9 +2219,21 @@
   "id": "457d956bf0",
   "location": "Santa Monica, CA",
   "posted_at": "2026-09-23T22:43:27Z",
+  "research": {
+   "angle": "",
+   "angle_reason": "ZipRecruiter is a job board, not an engineering company. Additionally, the posted term (Summer 2026) has already passed.",
+   "fit": 1,
+   "hook": "",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "web technologies"
+   ],
+   "summary": "ZipRecruiter is a job search platform connecting millions of US jobs to candidates with application matching and visibility tools."
+  },
   "score": 9.0,
   "source": "simplify",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineer Intern",
   "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455",
   "website": "https://ziprecruiter.com"
@@ -2029,18 +2317,51 @@
    }
   },
   "company": "Controlshift",
+  "contact": {
+   "confidence": "generic",
+   "email": "hello@controlshift.co.nz",
+   "found_on": "https://controlshift.co.nz/",
+   "name": "",
+   "role": ""
+  },
   "description": "About the Company Controlshift is seeking an enthusiastic Full Stack Developer Intern to join its technology team. This opportunity is designed for freshers who want practical exposure to building modern web applications while learning in a collaborative and execution-focused environment. Responsibilities Develop and enhance responsive web application features using Next.js and Node.js. Work with the team to understand requirements, implement solutions, and troubleshoot issues across the frontend and backend. Write readable, maintainable code and participate in testing, debugging, code reviews, and documentation. Collaborate with mentors and other team members to deliver assigned tasks within agreed timelines. Requirements Fresher candidates with a foundational understanding of web development are welcome to apply. Required knowledge of Next.js and Node.js. Good understanding of JavaScript, APIs, frontend-backend integration, and database concepts is preferred. Strong learning ability, problem-solving skills, communication, and willingness to work from the Ranchi office. This is a paid, full-time, in-office internship for a duration of 2 months, offering a monthly stipend of ₹5,000.",
   "domain": "controlshift.co.nz",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Controlshift team,\n\nA paid internship that's explicitly open to freshers with just foundational web dev knowledge is rare to see spelled out that plainly.\n\nI built MedVault, a Django REST backend with JWT auth and per-user data isolation, paired with a Gemini pipeline that returns a fixed JSON schema instead of free text: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship. Is the full stack internship still open?",
+   "delivered_at": "2026-09-25T18:41:17Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:41:17Z",
+   "subject": "Full Stack Developer Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
   "id": "46ae117ffa",
   "location": "Ranchi",
   "posted_at": "2026-09-16T13:22:11Z",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault demonstrates backend architecture with APIs and full production integration; Controlshift's full-stack focus aligns with candidate's portfolio and Basepair production experience.",
+   "fit": 6,
+   "hook": "paid full-time internship in Ranchi, India for 2 months starting now; explicitly welcomes freshers with foundational web development knowledge",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Next.js",
+    "Node.js",
+    "JavaScript",
+    "APIs",
+    "databases",
+    "frontend-backend integration"
+   ],
+   "summary": "Controlshift is a web development agency specializing in Next.js and Node.js full-stack applications, plus WordPress development and managed hosting services."
+  },
   "score": 9,
   "source": "unstop",
-  "status": "researching",
+  "status": "sent",
   "title": "Full Stack Developer Internship",
   "url": "https://unstop.com/internships/full-stack-developer-internship-controlshift-1756884",
   "website": "https://controlshift.co.nz"
@@ -2360,9 +2681,25 @@
    }
   },
   "company": "Canonical",
+  "contact": {
+   "confidence": "commit",
+   "email": "patricia.reinoso@canonical.com",
+   "found_on": "GitHub commits (canonical)",
+   "name": "Patricia Reinoso",
+   "role": ""
+  },
   "description": "Level: Entry-Level, Junior. Help global companies embrace the latest private cloud infrastructure, Linux and cloud native operations, and open source applications. Our team applies expert insights to real-world customer problems, enabling the enterprise adoption of Linux Ubuntu, OpenStack, Kubernetes and a wide range of associated technology. This role has very diverse responsibilities. The team members are Linux and cloud solutions architects for our customers, designing private and public cloud solutions fitting their workload needs. They are the cloud consultants who work hands-on with the technologies by deploying, testing and handing over the solution to our support or managed services team at the end of a project. They are also software engineers who use Python to develop Kubernetes operators and Linux open source infrastructure-as-code. The people who love this role are developers who like to solve customer problems through architecture, presentations and training. Location: This role will be home based. What your day will look like Work across the entire Linux stack, from kernel, networking, storage, to applications Work in Python to design and deliver open source code Architect cloud infrastructure solutions like OpenStack, Kubernetes, Ceph, Hadoop and Spark either On-Premises or in Public Cloud (AWS, Azure, Google Cloud) Coach and develop your colleagues where you have insights Grow a healthy, collaborative engineering culture in line with the company values Work from the comfort of your home Global travel up to 25% of time for internal and external events What we are looking for in you University degree in Computer Science or related software engineering expertise You have sound knowledge of cloud computing concepts & technologies, such as Kubernetes, OpenStack, AWS, GCP, Azure, Ceph, etc. You have practical knowledge of Linux and networking You have Intermediate to Advanced level of Python programming skills You are a dynamic person who loves to jump in new projects and interact with people You have a demonstrated drive for continual learning Excellent communication and presentation skills (English) You have great organisational skills and follow-up reliably on commitments (Optional) You speak a second language What you’ll learn OpenStack and Kubernetes infrastructure Linux Ubuntu and networking knowledge Wide range of open source applications and skills Work directly with customers in a range of different businesses Real-life and hands-on exposure to a wide range of emerging technologies and tools What we offer you We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven quarterly bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004! Personal learning and development budget of USD 2,000 per year Annual compensation review Recognition rewards 40 days annual leave per annum, including public holidays and our All Company holiday periods Maternity and paternity leave Employee Assistance Programme Opportunity to travel to new locations to meet colleagues from your team and others Priority Pass for travel and travel upgrades for long haul company events About Canonical Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to ",
   "domain": "canonical.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Patricia,\n\nWriting Python infrastructure-as-code and Kubernetes operators that enterprise customers actually run in production is the kind of reliability work I want to keep doing.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and multi-instance file failures with S3 fallbacks, then cleaned up 100+ security defects across the codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the Cloud Field Engineer role open to new grads?",
+   "delivered_at": "2026-09-25T18:36:07Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:36:07Z",
+   "subject": "Cloud Field Engineer – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [
@@ -2371,9 +2708,39 @@
   "id": "58fe73ac67",
   "location": "APAC",
   "posted_at": "2026-09-10T04:25:32Z",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Aditya's Basepair internship involved fixing complex infrastructure bugs, AWS S3 failures, and production reliability issues; Canonical similarly needs engineers comfortable debugging distributed systems across cloud environments.",
+   "fit": 7,
+   "hook": "Entry-level field engineer role involves developing Python infrastructure-as-code and Kubernetes operators to deploy private and public cloud solutions for enterprise customers.",
+   "people": [
+    {
+     "name": "Barry Price",
+     "role": ""
+    },
+    {
+     "name": "Patricia Reinoso",
+     "role": ""
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "Python",
+    "Linux",
+    "Kubernetes",
+    "OpenStack",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Ceph",
+    "Hadoop",
+    "Spark"
+   ],
+   "summary": "Canonical delivers Ubuntu Linux and open source infrastructure solutions including OpenStack, Kubernetes, and Ceph, helping enterprises adopt cloud-native technologies and private/public cloud infrastructure."
+  },
   "score": 11.0,
   "source": "jobicy",
-  "status": "researching",
+  "status": "sent",
   "title": "Cloud Field Engineer",
   "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
   "website": "https://canonical.com"
@@ -2755,9 +3122,25 @@
    }
   },
   "company": "Windmill",
+  "contact": {
+   "confidence": "commit",
+   "email": "ruben@windmill.dev",
+   "found_on": "GitHub commits (windmill-labs)",
+   "name": "Ruben Fiszel",
+   "role": ""
+  },
   "description": "Team size: 7. Open-source platform to turn scripts into internal apps & workflows Windmill is an open-source developer platform that turns scripts into workflows, internal tools, and full-stack apps. Write scripts in Python, TypeScript, Go, Bash, Rust, SQL - Windmill auto-generates UIs from their parameters, handles dependencies, credentials, permissions, and scheduling so you focus on business logic, not infra. Open-source alternative to Airflow, Temporal, Retool and n8n. Chain scripts into flows with branching, parallelism, retries. Build dashboards with the app builder. Trigger via cron, webhook, or UI. All-in-one runtime, editor, secret manager, and OAuth platform - enterprise-ready out of the box. Stack: Rust / TypeScript + Svelte / PostgreSQL. Self-hostable, easy to deploy, built for performance and DX. Developer Tools, SaaS, B2B, Workflow Automation, Open Source, B2B, Infrastructure, France, Europe, Remote, Partly Remote",
   "domain": "windmill.dev",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Ruben,\n\nTurning scripts into full workflows for 4,000+ organizations on a 7-person team, and open-sourcing the whole thing, is a lot to pull off.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic call graph and marks unresolved calls external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or junior role. Any room on the team for that?",
+   "delivered_at": "2026-09-25T18:29:22Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:29:22Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [
@@ -2767,9 +3150,40 @@
   "id": "67cb4498fc",
   "location": "France, Europe, Remote, Partly Remote",
   "posted_at": null,
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Aditya's Canopy project is open-source developer tooling for code analysis and architecture visualization; Windmill similarly seeks engineers passionate about building open-source developer platforms with real traction.",
+   "fit": 9,
+   "hook": "Windmill is a 7-person YC startup building an open-source code-first orchestration platform with Rust/TypeScript, trusted by 4,000+ organizations including 300+ enterprise customers.",
+   "people": [
+    {
+     "name": "Ruben Fiszel",
+     "role": ""
+    },
+    {
+     "name": "Guilhem",
+     "role": ""
+    },
+    {
+     "name": "guillaume",
+     "role": ""
+    }
+   ],
+   "region": "europe",
+   "stack": [
+    "Rust",
+    "TypeScript",
+    "Svelte",
+    "PostgreSQL",
+    "Python",
+    "Go",
+    "Bash"
+   ],
+   "summary": "Windmill is an open-source developer platform that turns scripts into workflows, internal tools, and full-stack apps using Python, TypeScript, Go, Bash, Rust, and SQL."
+  },
   "score": 10.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2022)",
   "url": "https://www.ycombinator.com/companies/windmill",
   "website": "https://windmill.dev"
@@ -3000,9 +3414,29 @@
   "id": "706e507521",
   "location": "Bangalore, Hyderabad, Vadodara",
   "posted_at": "2026-09-23T12:25:44Z",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 2,
+   "hook": "",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Java",
+    "Python",
+    "C#",
+    "JavaScript",
+    "Selenium",
+    "Cypress",
+    "Git",
+    "Jenkins",
+    "GitHub Actions"
+   ],
+   "summary": "Automation Anywhere builds robotic process automation (RPA) and agentic automation platforms that help enterprises automate business processes."
+  },
   "score": 13.0,
   "source": "unstop",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering Internship",
   "url": "https://unstop.com/internships/software-engineering-internship-automation-anywhere-1760667",
   "website": "https://automationanywhere.com"
@@ -3541,9 +3975,28 @@
   "id": "811e6f4ed0",
   "location": "Based in Austin, TX but remote-first structure",
   "posted_at": "2026-09-02T04:15:02Z",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy demonstrates sophisticated deterministic caching, cross-file call resolution, and 143 automated tests; SerpApi's parsing infrastructure at scale requires similar backend rigor and testing practices.",
+   "fit": 7,
+   "hook": "remote-first since before COVID; has junior fullstack roles open; does continuous deployment and profit sharing with strong testing/code review culture",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Python",
+    "Ruby",
+    "JavaScript",
+    "React",
+    "MongoDB",
+    "Rails",
+    "testing",
+    "APIs"
+   ],
+   "summary": "SerpApi provides 100+ APIs for scraping and parsing search engine results from Google, Bing, Baidu, and other engines with global infrastructure and structured SERP data."
+  },
   "score": 9.0,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "no_contact",
   "title": "https://serpapi.com",
   "url": "https://news.ycombinator.com/item?id=49531646",
   "website": "https://serpapi.com"
@@ -3582,9 +4035,27 @@
   "id": "813d550aa7",
   "location": "Remote (USA)",
   "posted_at": "2026-09-02T16:59:23Z",
+  "research": {
+   "angle": "",
+   "angle_reason": "Role requires 5+ years platform/cloud infrastructure experience; candidate is entry-level 2027 graduate.",
+   "fit": 1,
+   "hook": "entity resolution layer for AI agents and fraud detection with architectural decisions in a growing company",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Kubernetes",
+    "EKS",
+    "PostgreSQL",
+    "Terraform",
+    "Scala",
+    "Rust",
+    "AWS"
+   ],
+   "summary": "Senzing builds enterprise entity-resolution SDK technology for identifying and relating entities across systems with zero data exfiltration, serving fraud, compliance, and AI systems."
+  },
   "score": 9,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Platform Engineer",
   "url": "https://news.ycombinator.com/item?id=49539168",
   "website": "https://senzing.com"
@@ -3607,9 +4078,30 @@
   "id": "814fa434c9",
   "location": "Germany, Europe, Remote, Partly Remote",
   "posted_at": null,
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Basepair internship involved production reliability and systems integration; HeyCharge's offline-first infrastructure requires similar production hardening and reliability work.",
+   "fit": 5,
+   "hook": "patented offline-first Bluetooth EV charging technology; works in underground garages where cellular/WiFi fail; 700+ chargers deployed, 1.5 GWh delivered",
+   "people": [
+    {
+     "name": "Robert Lasowski",
+     "role": "Founder and CBDO"
+    }
+   ],
+   "region": "europe",
+   "stack": [
+    "Bluetooth",
+    "embedded systems",
+    "APIs",
+    "SDK",
+    "hardware-software integration"
+   ],
+   "summary": "HeyCharge builds ultra-low-cost, plug-and-play EV charging infrastructure for apartments and buildings with offline Bluetooth technology that works without internet or cellular."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/heycharge",
   "website": "https://heycharge.com/"
@@ -3652,9 +4144,19 @@
   "id": "819d148d0f",
   "location": "INTERNS , HYBRID/REMOTE, Zurich, Switzerland",
   "posted_at": "2026-09-01T20:48:37Z",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "hook": "",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "ChainSecurity is a blockchain security auditing firm that reviews DeFi protocols, smart contracts, and cryptocurrency projects to identify vulnerabilities."
+  },
   "score": 10.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Blockchain Security Engineer",
   "url": "https://news.ycombinator.com/item?id=49528002",
   "website": "https://chainsecurity.com"
@@ -3731,9 +4233,29 @@
   "id": "8384d15046",
   "location": "Remote(Everywhere)",
   "posted_at": "2026-09-03T16:29:17Z",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault demonstrates LLM integration with safety rules and robust output handling; AiMi's agentic AI work requires similar LLM reliability and error handling considerations.",
+   "fit": 3,
+   "hook": "full-stack AI infrastructure with MCP-based connectors and agent reliability work; uses Claude Code and spec-driven development daily",
+   "people": [],
+   "region": "other",
+   "stack": [
+    "React",
+    "TypeScript",
+    "Node.js",
+    "AWS Lambda",
+    "DynamoDB",
+    "MongoDB",
+    "Claude API",
+    "OpenAI",
+    "LLM agents"
+   ],
+   "summary": "AiMi builds agentic AI infrastructure for capital markets, with autonomous agents that monitor market notifications and drive real-time change management workflows."
+  },
   "score": 9,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Full Stack AI Engineer",
   "url": "https://news.ycombinator.com/item?id=49552714",
   "website": "https://aimi.technology"
@@ -4020,9 +4542,28 @@
   "id": "91ba2c3f3d",
   "location": "Bangalore",
   "posted_at": "2026-09-23T07:14:39Z",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Aditya shipped production React components with client-side validation at Spelll Production and built interactive interfaces in MedVault; CloudSEK needs similar full-featured React UIs for enterprise security platform.",
+   "fit": 6,
+   "hook": "Your frontend internship involves building complex interactive React components for a cybersecurity platform trusted by 1,000+ customers including Fortune 500 companies and government agencies.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "JavaScript",
+    "ReactJS",
+    "HTML5",
+    "CSS",
+    "Webpack",
+    "Babel",
+    "SASS",
+    "Bootstrap"
+   ],
+   "summary": "CloudSEK builds predictive cybersecurity and attack surface monitoring platforms using AI agents to discover exposures, trace attack paths, and help organizations defend against threats before they occur."
+  },
   "score": 11.0,
   "source": "unstop",
-  "status": "researching",
+  "status": "no_contact",
   "title": "SDE Intern - Frontend",
   "url": "https://unstop.com/internships/sde-intern-frontend-cloudsek-1760419",
   "website": "https://cloudsek.com"
@@ -4480,9 +5021,25 @@
    }
   },
   "company": "yeet",
+  "contact": {
+   "confidence": "posting",
+   "email": "work@yeet.cx",
+   "found_on": "job posting",
+   "name": "",
+   "role": ""
+  },
   "description": "yeet | Chicago, IL / Remote | Full-Time Building a dynamic runtime on top of the Linux BPF sub-system. Looking for extremely talented / passionate Rust developers / Backend Engineers with a deep interest in Linux internals, Distributed Systems, Dev Tools, Great Developer Experiences and Systems programming. Experience working with distributed systems AND / OR writing highly-concurrent, performant multi-threaded Rust is a must. Feel free to tell us all about your favorite GNU core utilities / Linux system calls / kernel sub-systems at: work [at] yeet.cx You can visit us at https://yeet.cx/ For more jobs check out https://yeet.cx/careers",
   "domain": "yeet.cx",
   "domain_mx": true,
+  "email": {
+   "body": "Hi yeet team,\n\nA kernel-level L7 firewall deciding in under 200ns, faster than a syscall, is the kind of low-level reliability work I like reading about.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and multi-instance file failures with S3 fallbacks, then resolved 100+ security defects across the codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship. Taking on any interns right now?",
+   "delivered_at": "2026-09-25T18:34:54Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:34:54Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "work@yeet.cx"
   ],
@@ -4493,9 +5050,37 @@
   "id": "9c3ace76a0",
   "location": "",
   "posted_at": "2026-09-01T15:17:29Z",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Aditya's experience fixing production distributed-systems bugs and infrastructure reliability aligns with yeet's focus on building reliable, observable backend infrastructure.",
+   "fit": 7,
+   "hook": "Released L7 firewall in kernel with decision latency <200ns (faster than a single syscall) and policy-as-code deployment via git push.",
+   "people": [
+    {
+     "name": "Julian Goldstein",
+     "role": "Engineer"
+    },
+    {
+     "name": "Jacob Pradels",
+     "role": "Engineer"
+    },
+    {
+     "name": "Necco Ceresani",
+     "role": "Engineer"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "Rust",
+    "Linux",
+    "eBPF",
+    "gRPC"
+   ],
+   "summary": "Builds an AI infrastructure operating platform with kernel-level observability and policy enforcement using Linux BPF."
+  },
   "score": 10.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "See posting",
   "url": "https://news.ycombinator.com/item?id=49523123",
   "website": "https://yeet.cx"
@@ -4605,9 +5190,25 @@
    }
   },
   "company": "LaunchDarkly",
+  "contact": {
+   "confidence": "posting",
+   "email": "careers@launchdarkly.com",
+   "found_on": "job posting",
+   "name": "",
+   "role": "Hiring"
+  },
   "description": "Level: Any. About the Job: LaunchDarkly is looking for a Backend Engineer to help build and expand Vega, our AI-powered platform that surfaces insights and automates actions across LaunchDarkly products. This is a greenfield opportunity: you'll help evolve Vega from an Observability-focused assistant into a cross-product platform that serves Feature Management customers and powers a new, usage-based SKU. You'll build the APIs, services, and agent infrastructure that make Vega and the whole Observability platform broadly valuable—enabling capabilities like AI-driven dashboard creation, flag cleanup automation, and safe, sandboxed agent execution. You'll work primarily in Go services and data pipelines at significant scale, and collaborate closely with product, design, and other engineering teams to shape how AI capabilities land across LaunchDarkly. Additionally, you'll work on other Enterprise-grade capabilities for the Observability platform to help drive customer activation and success. Responsibilities: Design, build, and ship backend features across the Vega platform (APIs, Go services, agent infrastructure, and data pipelines) Own features end-to-end: from prototype and API design through production rollout and iteration Operate high-throughput data systems and keep them reliable, performant, and cost-efficient at scale Collaborate cross-functionally with product managers, designers, and engineers across Observability and Feature Management Participate in architecture discussions and technical design reviews, contributing to sound trade-off decisions Write well-tested, maintainable code and promote best practices for quality, observability, and reliability Mentor teammates and contribute to a collaborative, high-trust engineering culture Participate in on-call rotations and take ownership of production reliability for your features What You'll Work On Expand Vega beyond Observability into Feature Management, including the flag cleanup agent as a cross-product c",
   "domain": "launchdarkly.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi LaunchDarkly team,\n\nVega moving from an observability assistant to safe, sandboxed agent execution across products is a real platform problem, not just a feature.\n\nI built Canopy, which parses a codebase across 10 languages into a deterministic call graph behind one analyzer interface, with an optional AI layer kept fully separate from the core analysis: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Any backend openings on the Observability team?",
+   "delivered_at": "2026-09-25T18:39:02Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:39:02Z",
+   "subject": "Backend Engineer – Aditya Mittal"
+  },
   "emails": [
    "hr@launchdarkly.com",
    "careers@launchdarkly.com"
@@ -4619,9 +5220,26 @@
   "id": "9e62bd5577",
   "location": "USA",
   "posted_at": "2026-09-23T15:19:30Z",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Vega is agent infrastructure and developer tooling built on top of a codebase-analysis platform, the same dev-tools/backend space as Canopy's call-graph analysis.",
+   "fit": 6,
+   "hook": "Posting says Vega is evolving from an Observability assistant into a cross-product platform with 'safe, sandboxed agent execution' and a new usage-based SKU.",
+   "people": [
+    {
+     "name": "Tom Totenberg",
+     "role": "Engineer (GitHub committer, launchdarkly-labs)"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "Go"
+   ],
+   "summary": "LaunchDarkly is a feature-management platform building Vega, an AI-powered agent platform that surfaces insights and automates actions across its Observability and Feature Management products."
+  },
   "score": 9.5,
   "source": "jobicy",
-  "status": "researching",
+  "status": "sent",
   "title": "Backend Engineer, Observability",
   "url": "https://jobicy.com/jobs/153974-backend-engineer-observability",
   "website": "https://launchdarkly.com"
@@ -4676,9 +5294,22 @@
   "id": "a07115ac4b",
   "location": "Bangalore",
   "posted_at": "2026-09-14T09:13:40Z",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Bright Money's backend intern role building Django/Python components for a lending platform closely mirrors my Basepair internship fixing production bugs and security issues in a Django codebase.",
+   "fit": 9,
+   "hook": "Posting says interns build 'Smart Algorithms and Sub Systems for Lending and Financial Communications' on the Smart Banking Platform, in Django/Python.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Django",
+    "Python"
+   ],
+   "summary": "Bright Money is a fintech building a 'Smart Banking Platform' with AI-driven lending, debt payoff, and personal finance tools."
+  },
   "score": 9.5,
   "source": "unstop",
-  "status": "researching",
+  "status": "no_contact",
   "title": "SDE Intern - Backend",
   "url": "https://unstop.com/internships/sde-intern-backend-bright-money-1755401",
   "website": "https://brightmoney.co"
@@ -4701,9 +5332,19 @@
   "id": "a0f483567a",
   "location": "Richland, WA, United States",
   "posted_at": "2026-09-17T01:06:47Z",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "hook": "",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": ""
+  },
   "score": 9.0,
   "source": "simplify",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Early Career Software Engineer",
   "url": "https://careers.pnnl.gov/jobs/12171?icims=1",
   "website": "https://careers.pnnl.gov"
@@ -4721,18 +5362,55 @@
    }
   },
   "company": "Xero",
+  "contact": {
+   "confidence": "hiring",
+   "email": "careers@xero.com",
+   "found_on": "https://www.xero.com/us/about/contact/",
+   "name": "",
+   "role": ""
+  },
   "description": "Software. Sponsorship: Other",
   "domain": "xero.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Xero team,\n\nGetting an AI agent like JAX to give real-time cash flow answers over WhatsApp means the backend has to reason over financial data reliably.\n\nMedVault does something similar: a Gemini prompting pipeline with a fixed JSON output schema and a fallback parser for malformed model output, on top of a Django backend with per-user data isolation: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the Associate Engineer - Back End role open to new grads?",
+   "delivered_at": "2026-09-25T18:40:31Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:40:31Z",
+   "subject": "Associate Backend Engineer – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
   "id": "a1a74a97d7",
   "location": "Calgary, AB, Canada",
   "posted_at": "2026-09-24T06:15:16Z",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Xero uses AI agents for financial automation; Aditya's experience with Gemini prompting pipelines and LLM integration aligns with their AI product expansion.",
+   "fit": 6,
+   "hook": "Recently launched JAX, an AI superagent that automates financial tasks and provides real-time cash flow insights directly through WhatsApp and email.",
+   "people": [
+    {
+     "name": "CEO",
+     "role": "ceo@xero.com"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "Payments",
+    "Cloud"
+   ],
+   "summary": "Xero is cloud-based accounting software for small businesses, offering invoicing, payments, cash flow management, and AI-powered financial insights."
+  },
   "score": 9.0,
   "source": "simplify",
-  "status": "researching",
+  "status": "sent",
   "title": "Associate Engineer - Back End",
   "url": "https://jobs.ashbyhq.com/xero/8f7f41b3-85db-4029-ab1a-70c88c5dc987/application?embed=true",
   "website": "https://xero.com"
@@ -4978,18 +5656,51 @@
    }
   },
   "company": "Merkle Science Pvt Ltd",
+  "contact": {
+   "confidence": "generic",
+   "email": "contact@merklescience.com",
+   "found_on": "https://www.merklescience.com/",
+   "name": "",
+   "role": ""
+  },
   "description": "Merkle Science is hiring for the role of Software Engineer(Intern)- Backend! Responsibilities of the Intern : Design, build, and maintain backend services and REST APIs using Python(Django/FastAPI) Write efficient queries and manage data models in PostgreSQL Work with Redis for caching, queues, and improving service performance Collaborate with frontend and QA engineers to ship end-to-end features Write clean, tested, well-documented code and participate in code reviews Debug and optimize existing services for performance and scale Work with large datasets related to blockchain transactions (exposure to tools like ClickHouse is a plus) Requirements : Strong fundamentals in Python and object-oriented programming Understanding of Django/FastAPI or any Python web framework Working knowledge of relational databases (PostgreSQL preferred) — schema design, indexing, query optimization Basic understanding of caching concepts and tools like Redis Understanding of REST API design principles Strong problem-solving and DSA fundamentals (arrays, trees, graphs, hashing) Familiarity with Git and collaborative version control workflows",
   "domain": "merklescience.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Merkle Science team,\n\nKeeping a Django/FastAPI backend correct when it's feeding AML/KYC decisions off onchain data leaves no room for quiet bugs.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and led a cleanup resolving 100+ security and reliability defects across a Python/Django codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship. Is the backend intern role still open?",
+   "delivered_at": "2026-09-25T18:32:13Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:32:13Z",
+   "subject": "Backend Engineer Intern – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
   "id": "a9e03cfc32",
   "location": "Bangalore",
   "posted_at": "2026-09-25T11:32:40Z",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Aditya fixed production OAuth race conditions and Django security issues at Basepair; Merkle Science similarly needs reliable, secure Django/Python backend for compliance-critical financial features.",
+   "fit": 8,
+   "hook": "Your backend internship involves ClickHouse for real-time performance on blockchain transactions at scale, plus Django/FastAPI architecture for compliance-critical systems.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Python",
+    "Django",
+    "FastAPI",
+    "PostgreSQL",
+    "Redis",
+    "ClickHouse"
+   ],
+   "summary": "Merkle Science builds blockchain analytics and compliance platform that helps institutions detect fraud and comply with AML/KYC regulations using onchain transaction data."
+  },
   "score": 14,
   "source": "unstop",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineer(Intern)- Backend",
   "url": "https://unstop.com/internships/software-engineerintern-backend-merkle-science-pvt-ltd-1761265",
   "website": "https://merklescience.com"
@@ -5063,9 +5774,25 @@
    }
   },
   "company": "Formance",
+  "contact": {
+   "confidence": "commit",
+   "email": "maxence@formance.com",
+   "found_on": "GitHub commits (formancehq)",
+   "name": "Maxence Maireaux",
+   "role": "Engineer"
+  },
   "description": "Team size: 33. Open Source Infrastructure for the Financial Internet Formance Platform is building open-source infrastructure for the next wave of financial services. It enables fintech engineers to build and operate complex flow of funds, weaving together multiple payment rails with internal ledger accounts. github.com/formancehq/stack Developer Tools, Fintech, Payments, B2B, Open Source, B2B, France, Europe, Remote, Partly Remote",
   "domain": "formance.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Maxence,\n\nA ledger that prevents balance drift by construction instead of catching it after the fact is a nice way to solve a problem most fintechs just patch around.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and resolved 100+ security and reliability defects across a Django/React codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship. Any engineering roles open on your end?",
+   "delivered_at": "2026-09-25T18:37:07Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:37:07Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [
@@ -5074,9 +5801,38 @@
   "id": "ab390de3c7",
   "location": "France, Europe, Remote, Partly Remote",
   "posted_at": null,
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Aditya fixed production reliability and security bugs in distributed systems at Basepair; Formance's need for robust, auditable financial infrastructure matches that production-hardening expertise.",
+   "fit": 7,
+   "hook": "Formance's core innovation is atomic double-entry ledger that prevents balance drift by construction, with built-in reconciliation and support for multiple payment providers (Stripe, Adyen, Wise) through a single API.",
+   "people": [
+    {
+     "name": "Maxence Maireaux",
+     "role": "Engineer"
+    },
+    {
+     "name": "Alessandro Scandone",
+     "role": "Engineer"
+    },
+    {
+     "name": "Alix Bott",
+     "role": "Engineer"
+    }
+   ],
+   "region": "europe",
+   "stack": [
+    "Numscript",
+    "Backend",
+    "Payments",
+    "Ledger",
+    "Open Source"
+   ],
+   "summary": "Formance builds open-source infrastructure for financial services, providing a programmable ledger for money movement and payment orchestration across multiple rails."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/formance",
   "website": "https://formance.com"
@@ -5412,9 +6168,25 @@
    }
   },
   "company": "Helpstir",
+  "contact": {
+   "confidence": "posting",
+   "email": "connect@helpstir.in",
+   "found_on": "job posting",
+   "name": "",
+   "role": ""
+  },
   "description": "Helpstir is hiring for Full Stack Engineer: About the Company: Helpstir is India's first AI-powered, location-based philanthropy-tech platform. It connects people who need help with verified NGOs, CSR funders and HNI funders. People who use the platform are called HELPSTiRs. Responsibilities: Build responsive React and TypeScript frontends that work with REST APIs and WebSockets. Write async APIs in Python using FastAPI, with clear separation between application layers. Move reports, emails, webhooks and scheduled cron work into background queues using Celery or Python-RQ on Redis. Design PostgreSQL schemas, manage Alembic migrations and tune slow queries. Package applications with Docker and Docker Compose for local and staging environments. Configure Nginx for reverse proxying, SSL and static files. Use PM2 to run Node services where needed. Requirements: You should also be comfortable with PostgreSQL, SQLAlchemy or SQLModel, Alembic migrations, Redis, Celery or Python-RQ, Docker and Docker Compose. You should be comfortable working on an Ubuntu or Debian Linux server. Git experience and the ability to write tests with Pytest or Jest are required. Experience with Next.js or Vite, asyncpg, connection pooling, PgBouncer, index tuning, EXPLAIN ANALYZE, task retries, idempotency, dead-letter queues, rate limiting, Flower, multi-stage Dockerfiles, Nginx WebSocket upgrade headers, gzip, PM2, log rotation, Playwright, GitHub Actions CI/CD, RBAC or CORS is useful. This is an in-office role based in Delhi. For queries, contact connect@helpstir.in.",
   "domain": "helpstir.in",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Helpstir team,\n\nMatching people who need help with verified NGOs and CSR funders means the backend has to keep every party's data separate and trustworthy.\n\nI built MedVault, a Django REST backend with per-user data isolation at the queryset level and a Gemini pipeline that returns a fixed JSON schema instead of free text: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Still hiring for the full stack engineer position?",
+   "delivered_at": "2026-09-25T18:31:05Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:31:05Z",
+   "subject": "Full Stack Engineer – Aditya Mittal"
+  },
   "emails": [
    "connect@helpstir.in"
   ],
@@ -5423,9 +6195,32 @@
   "id": "b5d2c4eca8",
   "location": "Delhi",
   "posted_at": "2026-09-16T09:00:34Z",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Helpstir's AI-powered platform with a Python API backend and per-user data (donors, NGOs) mirrors MedVault's AI-backed Django REST backend with per-user isolation.",
+   "fit": 8,
+   "hook": "Posting describes Helpstir as an AI-powered, location-based philanthropy-tech platform connecting people needing help with verified NGOs, CSR funders, and HNI funders.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "React",
+    "TypeScript",
+    "FastAPI",
+    "Python",
+    "Celery",
+    "Redis",
+    "PostgreSQL",
+    "SQLAlchemy",
+    "Alembic",
+    "Docker",
+    "Nginx",
+    "PM2"
+   ],
+   "summary": "Helpstir is described as India's first AI-powered, location-based philanthropy-tech platform, connecting people who need help with verified NGOs and CSR/HNI funders."
+  },
   "score": 10,
   "source": "unstop",
-  "status": "researching",
+  "status": "sent",
   "title": "Full Stack Engineer",
   "url": "https://unstop.com/jobs/full-stack-engineer-helpstir-1756683",
   "website": "https://helpstir.in"
@@ -5743,9 +6538,25 @@
    }
   },
   "company": "GovStar",
+  "contact": {
+   "confidence": "posting",
+   "email": "nicholas.hanson@govstar.us",
+   "found_on": "job posting",
+   "name": "Nicholas Hanson",
+   "role": "Hiring Manager"
+  },
   "description": "GovStar | https://www.govstar.us | Remote (U.S. — Eastern/Central Time) | AI, Full Stack, Frontend, SRE & Cloud Automation | U.S. Citizens GovStar is hiring 5 engineers to help build secure, production-grade AI and advanced analytics capabilities supporting U.S. national security missions. • AI Engineer — AI/ML engineering; Python, LLMs, RAG, embeddings/vector retrieval, orchestration, evaluation, guardrails, Azure AI/OpenAI. • Full Stack AI Developer — Python + React/TypeScript; secure APIs, AI-enabled applications, enterprise data integrations, Azure, CI/CD. • Frontend Engineer — React + TypeScript; accessible, responsive interfaces for enterprise AI applications and secure backend/AI integrations. • SRE Platform Engineer — Azure, Terraform, observability, CI/CD, containers/Kubernetes, incident response, platform reliability, and DevSecOps. • Cloud Automation Engineer — Azure + Terraform; infrastructure automation, CI/CD, Docker/Kubernetes, GitHub Enterprise, deployment, and operational automation. Required for all roles: U.S. citizenship • Currently residing in the U.S. • Eastern or Central Time Zone • Ability to obtain and maintain a government clearance. Compensation will vary based on role, experience, and qualifications. We’re happy to discuss compensation expectations early in the process so neither side wastes time. GovStar benefits include medical, dental, and vision coverage; 401(k) matching; paid time off; and an employee shares program. To apply, email your resume and GitHub profile to nicholas.hanson@govstar.us Please mention “Hacker News” in the subject line.",
   "domain": "govstar.us",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Nicholas,\n\nYour AI Engineer opening asking for hands-on LLM and RAG work is close to what I've been building.\n\nMedVault runs a Gemini prompting pipeline with a fixed JSON output schema and safety rules that block diagnosis or prescription hallucinations, plus a fallback parser for malformed model output: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is that AI Engineer opening still open to new grads?",
+   "delivered_at": "2026-09-25T18:31:30Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:31:30Z",
+   "subject": "AI Engineer Internship – Aditya Mittal"
+  },
   "emails": [
    "nicholas.hanson@govstar.us"
   ],
@@ -5754,9 +6565,33 @@
   "id": "c337192241",
   "location": "Remote (U.S. — Eastern/Central Time)",
   "posted_at": "2026-09-01T17:18:28Z",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "GovStar's AI Engineer role requires hands-on LLM APIs and RAG systems; Aditya's MedVault project demonstrates Gemini prompting pipelines, safety rules, and JSON schema validation at production scale.",
+   "fit": 8,
+   "hook": "Posting explicitly seeks AI Engineer role with Python, LLMs, RAG, and embeddings—Aditya's LLM pipeline and Gemini integration work directly matches their stated needs.",
+   "people": [
+    {
+     "name": "Nicholas Hanson",
+     "role": "Hiring Manager"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "Python",
+    "React",
+    "TypeScript",
+    "Azure",
+    "Terraform",
+    "Docker",
+    "Kubernetes",
+    "OpenAI"
+   ],
+   "summary": "GovStar builds secure, production-grade AI and advanced analytics capabilities supporting U.S. national security missions, hiring across AI, Full Stack, Frontend, SRE, and Cloud Automation."
+  },
   "score": 9,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "https://www.govstar.us",
   "url": "https://news.ycombinator.com/item?id=49524943",
   "website": "https://govstar.us"
@@ -5806,18 +6641,44 @@
    }
   },
   "company": "Crustdata",
+  "contact": {
+   "confidence": "generic",
+   "email": "info@crustdata.com",
+   "found_on": "https://crustdata.com/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 30. Real-time B2B data via simple APIs Crustdata provides live company and people data via APIs and full dataset delivery. We make hard to get data easy to use at scale. Customers use us to build their AI agent platforms and applications over our trusted data. We power builders of: -AI SDRs -AI sales platofmrs -AI recruiting platforms -AI investment/due diligence platforms -Internal sales or marketing platforms We serve use cases like: automatic pipeline building, pipeline prioritization, champion watching, company and people triggers for sales and marketing automation, investment deal sourcing We have developed technology that allows us to pipe in live data from over a dozen different data sources and deliver this data instantly to our customers. Our goal is index all the important data on the web and deliver it to customers in an easy-to-use way. B2B, Sales, Remote, Partly Remote",
   "domain": "crustdata.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Crustdata team,\n\nPiping live data from a dozen sources into one clean API, so an agent can query it without knowing where it came from, is a hard indexing problem.\n\nI built Canopy for a similar reason: it turns a repo across 10 languages into one deterministic call graph behind a single analyzer interface: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship. Any engineering roles open right now?",
+   "delivered_at": "2026-09-25T18:37:54Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:37:54Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
   "id": "c77f0d1f20",
   "location": "Remote, Partly Remote",
   "posted_at": null,
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Crustdata turns raw web/company data into a queryable API, the same kind of structured-data-behind-one-interface problem as Canopy's cross-file call-graph API.",
+   "fit": 7,
+   "hook": "Site says they 'pipe in live data from over a dozen different data sources' and aim to 'index all the important data on the web' via API or MCP.",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": "Crustdata (YC F24, team of 30) provides real-time B2B company and people data via APIs, powering AI sales, recruiting, and investment platforms."
+  },
   "score": 9.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Fall 2024)",
   "url": "https://www.ycombinator.com/companies/crustdata",
   "website": "https://crustdata.com"
@@ -6001,18 +6862,50 @@
    }
   },
   "company": "Ooak Data",
+  "contact": {
+   "confidence": "generic",
+   "email": "contact@ooakdata.com",
+   "found_on": "https://ooakdata.com/careers",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 5. We turn company data into training data Ooak Data turns internal company data into a training ground where AI agents can be tested on real work. Artificial Intelligence, Reinforcement Learning, B2B, United States of America, America / Canada, Remote, Partly Remote",
   "domain": "ooakdata.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Ooak Data team,\n\nTurning real company data into multi-step, multi-tool tasks that expose a frontier model's weak spots is a much harder data problem than it sounds.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic cross-file call graph instead of guessing at unresolved calls: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship. Any room on the engineering side?",
+   "delivered_at": "2026-09-25T18:38:39Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:38:39Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
   "id": "cd4a5e9c04",
   "location": "United States of America, America / Canada, Remote, Partly Remote",
   "posted_at": null,
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Aditya's Canopy project performs deterministic code analysis with call-graph resolution; Ooak's infrastructure for evaluating agent performance on real-world tasks mirrors the systems-thinking approach needed for their data pipeline.",
+   "fit": 7,
+   "hook": "YC Summer 2026 company building RL environments calibrated to frontier models; they source real enterprise data and generate multi-step, multi-tool tasks designed to expose model weaknesses.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "AI",
+    "Reinforcement Learning",
+    "Data Infrastructure",
+    "Anonymization",
+    "ML"
+   ],
+   "summary": "Ooak Data is an applied AI research lab that turns real company data into reinforcement learning environments where AI agents can be trained and evaluated on realistic workflows."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2026)",
   "url": "https://www.ycombinator.com/companies/ooak-data",
   "website": "https://ooakdata.com/"
@@ -6282,18 +7175,44 @@
    }
   },
   "company": "xPay",
+  "contact": {
+   "confidence": "generic",
+   "email": "hello@xpaycheckout.com",
+   "found_on": "https://www.xpaycheckout.com/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 3. International Billing Ops, Sales Tax and Payments for SaaS businesses We're building a commerce solution for SaaS companies globally that have overseas customers. We especially help them with streamlining billing operations like invoicing and reconciliation, managing foreign sales tax and accepting payments. We abstract out the complexities of compliance, remittance and integration for these merchants by running all that machinery in the background. Fintech, Payments, India, South Asia, Remote, Partly Remote",
   "domain": "xpaycheckout.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi xPay team,\n\nAbstracting away compliance and remittance so SaaS merchants don't have to touch it themselves means the backend has to handle sensitive billing data carefully.\n\nMedVault does something similar on the data side: a Django REST backend with per-user isolation at the queryset level and JWT auth with refresh-token rotation: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship. Any room for that on a 3-person team?",
+   "delivered_at": "2026-09-25T18:33:13Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:33:13Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
   "id": "d9ddc5b611",
   "location": "India, South Asia, Remote, Partly Remote",
   "posted_at": null,
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "xPay handles sensitive billing and tax-compliance data for SaaS merchants, the same kind of security- and privacy-sensitive backend work as MedVault's per-user-isolated Django API.",
+   "fit": 8,
+   "hook": "Site and posting describe xPay abstracting away 'compliance, remittance and integration' so SaaS merchants don't have to handle international billing ops themselves.",
+   "people": [],
+   "region": "india",
+   "stack": [],
+   "summary": "xPay (YC W24, team of 3) is a commerce/billing platform for SaaS companies with overseas customers, handling invoicing, foreign sales tax, and payments."
+  },
   "score": 9.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/xpay",
   "website": "https://www.xpaycheckout.com/"
@@ -6338,9 +7257,29 @@
   "id": "da4bc50d21",
   "location": "Austin, TX",
   "posted_at": "2026-09-24T01:38:04Z",
+  "research": {
+   "angle": "",
+   "angle_reason": "While Graphcore works in AI, their posted Systems Engineering Intern role is hardware/firmware-focused; Aditya's background is application software and backend systems, not hardware systems.",
+   "fit": 3,
+   "hook": "Recently published research on fitting 11B VLMs on mobile phones, demonstrating their focus on efficient AI compute; hiring systems engineering interns for Winter 2026.",
+   "people": [
+    {
+     "name": "Marcus McElroy",
+     "role": "General Manager"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "Hardware",
+    "Systems",
+    "ML",
+    "AI Compute"
+   ],
+   "summary": "Graphcore is an AI hardware accelerator company owned by SoftBank, designing next-generation compute for machine learning with offices globally."
+  },
   "score": 9.0,
   "source": "simplify",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Systems Engineering Intern",
   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841978002",
   "website": "https://graphcore.ai"
@@ -6547,9 +7486,27 @@
   "id": "e139925c5a",
   "location": "Singapore",
   "posted_at": "2026-09-23T00:00:04Z",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Aditya's MedVault project demonstrates full-stack capability with Django REST API, JWT auth with refresh-token rotation, and per-user data isolation; BJAK needs identical patterns for insurance customer workflows.",
+   "fit": 6,
+   "hook": "Your full-stack role involves building customer workflows for onboarding, payments, rewards, KYC, and support automation in a fast-moving fintech.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "React",
+    "Next.js",
+    "JavaScript",
+    "TypeScript",
+    "APIs",
+    "databases",
+    "authentication"
+   ],
+   "summary": "BJAK is an online insurance marketplace helping customers in Southeast Asia compare, purchase, and manage car, motorcycle, travel, and life insurance with instant quotes and fast processing."
+  },
   "score": 12,
   "source": "remoteok",
-  "status": "researching",
+  "status": "no_contact",
   "title": "Full Stack Engineer",
   "url": "https://unstop.com/jobs/full-stack-engineer-bjak-1758129",
   "website": "https://bjak.my"
@@ -6706,9 +7663,24 @@
   "id": "e92733a3fe",
   "location": "India",
   "posted_at": "2026-09-21T06:41:47Z",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Basepair internship involved production distributed-systems bug fixes and reliability work, relevant to Twilio's infrastructure challenges.",
+   "fit": 2,
+   "hook": "posting explicitly mentions distributed computing, real-time DSP, virtualization performance - specialized infrastructure challenges",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Python",
+    "JavaScript",
+    "distributed computing",
+    "real-time audio processing"
+   ],
+   "summary": "Twilio is a platform for conversations in the AI era, providing APIs for SMS, email, voice, messaging, and authentication across channels."
+  },
   "score": 9.5,
   "source": "unstop",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineer Intern ",
   "url": "https://unstop.com/internships/software-engineer-intern-twilio-1758595",
   "website": "https://twilio.com"
@@ -7036,9 +8008,25 @@
    }
   },
   "company": "Greenzie",
+  "contact": {
+   "confidence": "posting",
+   "email": "cbq@greenzie.com",
+   "found_on": "job posting",
+   "name": "Charles Brian Quinn",
+   "role": "Co-founder"
+  },
   "description": "Greenzie | Robotics Software Engineer (Early Career + Experienced) | Atlanta, GA | ONSITE/HYBRID | Full-time | https://greenzie.applytojob.com/apply Greenzie builds the autonomy software that runs on commercial mowers. We don't sell the iron — Wright, Mean Green, Bobcat, and Greenworks Commercial do, with our stack on them. Mission is to free humans from repetitive outdoor labor. The software is on hundreds of machines in the field today. We're hiring roboticists who want production robots doing real outdoor work, not lab demos. C++, Python, ROS/ROS2. You will own (or learn) a subsystem, debug messy field data, and ship to machines that mow for a living. - Robotics Software Engineer | Early Career (0–3 yrs): https://greenzie.applytojob.com/apply/zaDr7OyOmj/Robotics-So... - Robotics Software Engineer | Experienced (3–6 yrs): https://greenzie.applytojob.com/apply/UdRcDlWSzs/Robotics-So... Also open in Atlanta: Technical Service Coordinator. Apply on those pages and mention HN. Questions: cbq@greenzie.com",
   "domain": "greenzie.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Charles,\n\nShipping updates to hundreds of mowers already out in the field, working off messy real-world sensor data, is a different kind of hard than shipping to a data center.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and multi-instance file-access failures with S3 fallbacks, on an already-deployed system: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Any openings for that on the robotics software team?",
+   "delivered_at": "2026-09-25T18:35:34Z",
+   "lint": [],
+   "mode": "send",
+   "recovered": true,
+   "sent_at": "2026-09-25T18:35:34Z",
+   "subject": "Robotics Software Engineer – Aditya Mittal"
+  },
   "emails": [
    "cbq@greenzie.com"
   ],
@@ -7049,9 +8037,30 @@
   "id": "f249a54c3f",
   "location": "Atlanta, GA",
   "posted_at": "2026-09-02T02:07:20Z",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Basepair internship fixed production bugs and reliability issues in distributed systems; Greenzie explicitly emphasizes field debugging and production-grade software.",
+   "fit": 7,
+   "hook": "hundreds of machines already in field; core work is debugging messy field data and shipping production updates to real deployed systems",
+   "people": [
+    {
+     "name": "Charles Brian Quinn",
+     "role": "Co-founder"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "C++",
+    "Python",
+    "ROS",
+    "ROS2",
+    "robotics"
+   ],
+   "summary": "Greenzie builds autonomy software for commercial robotic lawn mowers, enabling landscaping companies to automate outdoor work with production-grade software and field-tested sensors."
+  },
   "score": 9.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Robotics Software Engineer (Early Career + Experienced)",
   "url": "https://news.ycombinator.com/item?id=49530909",
   "website": "https://greenzie.com"

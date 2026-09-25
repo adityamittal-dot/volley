@@ -70,6 +70,7 @@ jobs:
         run: |
           git config user.name "volley"
           git config user.email "volley@users.noreply.github.com"
-          git add -A data work resume TRACKER.md 2>/dev/null || git add -A data work
+          git add -A   # every output (data, work, TRACKER.md, rendered resumes); a stray file must never block the push
           git diff --cached --quiet || git commit -qm "volley: $(date -u +%Y-%m-%dT%H:%MZ)"
-          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
+          pushed=""; for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && { pushed=1; break; }; sleep 5; done
+          [ -n "$pushed" ] || { echo "::error::could not push the pipeline state"; exit 1; }

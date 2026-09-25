@@ -1,0 +1,184 @@
+{
+ "emails": [
+  {
+   "id": "2fcb5a43a4",
+   "subject": "Software Engineer Intern – Aditya Mittal",
+   "body": "Hi Stripe team,\n\nProcessing $1.9T a year across 160 countries means every edge case in your infrastructure shows up eventually.\n\nI spent my last internship at Basepair fixing exactly that kind of thing: a production OAuth race condition with row-level locking, and multi-instance file failures with S3 fallbacks: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship. Is the engineering intern program still taking applications?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "67cb4498fc",
+   "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Ruben,\n\nTurning scripts into full workflows for 4,000+ organizations on a 7-person team, and open-sourcing the whole thing, is a lot to pull off.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic call graph and marks unresolved calls external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or junior role. Any room on the team for that?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "35d1948e0b",
+   "subject": "Full Stack Development Internship – Aditya Mittal",
+   "body": "Hi Vidyalai team,\n\nKeeping REST APIs reliable while tutors and students hit them live across time zones is a real distributed-systems problem, not just a CRUD one.\n\nAt my last internship I fixed a production OAuth race condition with row-level locking and multi-instance file failures with S3 fallbacks: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship. Is the full stack intern role still open?",
+   "tailor": {
+    "decision": false,
+    "reason": "posting names WebSockets, Redux, Nest.js, Socket.io as required skills, none of which the candidate has genuine experience with per profile/resume, so no legitimate gap_terms",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "b5d2c4eca8",
+   "subject": "Full Stack Engineer – Aditya Mittal",
+   "body": "Hi Helpstir team,\n\nMatching people who need help with verified NGOs and CSR funders means the backend has to keep every party's data separate and trustworthy.\n\nI built MedVault, a Django REST backend with per-user data isolation at the queryset level and a Gemini pipeline that returns a fixed JSON schema instead of free text: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Still hiring for the full stack engineer position?",
+   "tailor": {
+    "decision": false,
+    "reason": "posting names FastAPI, Celery, Redis, SQLAlchemy, Alembic, Nginx, PM2, none of which the candidate has genuine experience with per profile/resume, so no legitimate gap_terms",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "c337192241",
+   "subject": "AI Engineer Internship – Aditya Mittal",
+   "body": "Hi Nicholas,\n\nYour AI Engineer opening asking for hands-on LLM and RAG work is close to what I've been building.\n\nMedVault runs a Gemini prompting pipeline with a fixed JSON output schema and safety rules that block diagnosis or prescription hallucinations, plus a fallback parser for malformed model output: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is that AI Engineer opening still open to new grads?",
+   "tailor": {
+    "decision": false,
+    "reason": "posting names RAG, embeddings, Azure and OpenAI, but the candidate's real LLM work is Gemini-based prompting/JSON-schema work, not RAG/embeddings/Azure/OpenAI, so claiming those terms would misrepresent his experience",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "a9e03cfc32",
+   "subject": "Backend Engineer Intern – Aditya Mittal",
+   "body": "Hi Merkle Science team,\n\nKeeping a Django/FastAPI backend correct when it's feeding AML/KYC decisions off onchain data leaves no room for quiet bugs.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and led a cleanup resolving 100+ security and reliability defects across a Python/Django codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship. Is the backend intern role still open?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "d9ddc5b611",
+   "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi xPay team,\n\nAbstracting away compliance and remittance so SaaS merchants don't have to touch it themselves means the backend has to handle sensitive billing data carefully.\n\nMedVault does something similar on the data side: a Django REST backend with per-user isolation at the queryset level and JWT auth with refresh-token rotation: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship. Any room for that on a 3-person team?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "172a4329b5",
+   "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi CyberAtlas team,\n\nIndexing 2.5 billion domains and 99.6 million IPs into something an AI agent can query through your Subdomain Finder API is a serious data problem.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic cross-file call graph, marking unresolved calls external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship. Any engineering roles open right now?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "9c3ace76a0",
+   "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi yeet team,\n\nA kernel-level L7 firewall deciding in under 200ns, faster than a syscall, is the kind of low-level reliability work I like reading about.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and multi-instance file failures with S3 fallbacks, then resolved 100+ security defects across the codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship. Taking on any interns right now?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "f249a54c3f",
+   "subject": "Robotics Software Engineer – Aditya Mittal",
+   "body": "Hi Charles,\n\nShipping updates to hundreds of mowers already out in the field, working off messy real-world sensor data, is a different kind of hard than shipping to a data center.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and multi-instance file-access failures with S3 fallbacks, on an already-deployed system: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Any openings for that on the robotics software team?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "58fe73ac67",
+   "subject": "Cloud Field Engineer – Aditya Mittal",
+   "body": "Hi Patricia,\n\nWriting Python infrastructure-as-code and Kubernetes operators that enterprise customers actually run in production is the kind of reliability work I want to keep doing.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and multi-instance file failures with S3 fallbacks, then cleaned up 100+ security defects across the codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the Cloud Field Engineer role open to new grads?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "ab390de3c7",
+   "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Maxence,\n\nA ledger that prevents balance drift by construction instead of catching it after the fact is a nice way to solve a problem most fintechs just patch around.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and resolved 100+ security and reliability defects across a Django/React codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship. Any engineering roles open on your end?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "c77f0d1f20",
+   "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Crustdata team,\n\nPiping live data from a dozen sources into one clean API, so an agent can query it without knowing where it came from, is a hard indexing problem.\n\nI built Canopy for a similar reason: it turns a repo across 10 languages into one deterministic call graph behind a single analyzer interface: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship. Any engineering roles open right now?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "cd4a5e9c04",
+   "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Ooak Data team,\n\nTurning real company data into multi-step, multi-tool tasks that expose a frontier model's weak spots is a much harder data problem than it sounds.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic cross-file call graph instead of guessing at unresolved calls: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship. Any room on the engineering side?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "9e62bd5577",
+   "subject": "Backend Engineer – Aditya Mittal",
+   "body": "Hi LaunchDarkly team,\n\nVega moving from an observability assistant to safe, sandboxed agent execution across products is a real platform problem, not just a feature.\n\nI built Canopy, which parses a codebase across 10 languages into a deterministic call graph behind one analyzer interface, with an optional AI layer kept fully separate from the core analysis: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Any backend openings on the Observability team?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "09466a9b95",
+   "subject": "Software Engineer – Aditya Mittal",
+   "body": "Hi James,\n\nScrapers that adapt automatically when a source changes, and still return a verdict in 300ms, is a nice bit of engineering underneath the fraud detection.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic call graph and marks unresolved calls external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship. Any engineering roles open at InfoHawk right now?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "a1a74a97d7",
+   "subject": "Associate Backend Engineer – Aditya Mittal",
+   "body": "Hi Xero team,\n\nGetting an AI agent like JAX to give real-time cash flow answers over WhatsApp means the backend has to reason over financial data reliably.\n\nMedVault does something similar: a Gemini prompting pipeline with a fixed JSON output schema and a fallback parser for malformed model output, on top of a Django backend with per-user data isolation: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the Associate Engineer - Back End role open to new grads?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  },
+  {
+   "id": "46ae117ffa",
+   "subject": "Full Stack Developer Internship – Aditya Mittal",
+   "body": "Hi Controlshift team,\n\nA paid internship that's explicitly open to freshers with just foundational web dev knowledge is rare to see spelled out that plainly.\n\nI built MedVault, a Django REST backend with JWT auth and per-user data isolation, paired with a Gemini pipeline that returns a fixed JSON schema instead of free text: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship. Is the full stack internship still open?",
+   "tailor": {
+    "decision": false,
+    "reason": "",
+    "gap_terms": []
+   }
+  }
+ ]
+}

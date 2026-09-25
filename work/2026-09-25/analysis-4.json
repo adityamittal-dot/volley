@@ -1,0 +1,232 @@
+{
+ "leads": [
+  {
+   "id": "a0f483567a",
+   "relevant": false,
+   "summary": "",
+   "stack": [],
+   "hook": "",
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "region": "us",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "a1a74a97d7",
+   "relevant": true,
+   "summary": "Xero is cloud-based accounting software for small businesses, offering invoicing, payments, cash flow management, and AI-powered financial insights.",
+   "stack": [
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "Payments",
+    "Cloud"
+   ],
+   "hook": "Recently launched JAX, an AI superagent that automates financial tasks and provides real-time cash flow insights directly through WhatsApp and email.",
+   "angle": "medvault",
+   "angle_reason": "Xero uses AI agents for financial automation; Aditya's experience with Gemini prompting pipelines and LLM integration aligns with their AI product expansion.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {
+     "name": "CEO",
+     "role": "ceo@xero.com"
+    }
+   ],
+   "contact_email": "careers@xero.com",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "ab390de3c7",
+   "relevant": true,
+   "summary": "Formance builds open-source infrastructure for financial services, providing a programmable ledger for money movement and payment orchestration across multiple rails.",
+   "stack": [
+    "Numscript",
+    "Backend",
+    "Payments",
+    "Ledger",
+    "Open Source"
+   ],
+   "hook": "Formance's core innovation is atomic double-entry ledger that prevents balance drift by construction, with built-in reconciliation and support for multiple payment providers (Stripe, Adyen, Wise) through a single API.",
+   "angle": "basepair",
+   "angle_reason": "Aditya fixed production reliability and security bugs in distributed systems at Basepair; Formance's need for robust, auditable financial infrastructure matches that production-hardening expertise.",
+   "fit": 7,
+   "region": "europe",
+   "people": [
+    {
+     "name": "Maxence Maireaux",
+     "role": "Engineer"
+    },
+    {
+     "name": "Alessandro Scandone",
+     "role": "Engineer"
+    },
+    {
+     "name": "Alix Bott",
+     "role": "Engineer"
+    }
+   ],
+   "contact_email": "maxence@formance.com",
+   "contact_name": "Maxence Maireaux",
+   "contact_role": "Engineer"
+  },
+  {
+   "id": "c337192241",
+   "relevant": true,
+   "summary": "GovStar builds secure, production-grade AI and advanced analytics capabilities supporting U.S. national security missions, hiring across AI, Full Stack, Frontend, SRE, and Cloud Automation.",
+   "stack": [
+    "Python",
+    "React",
+    "TypeScript",
+    "Azure",
+    "Terraform",
+    "Docker",
+    "Kubernetes",
+    "OpenAI"
+   ],
+   "hook": "Posting explicitly seeks AI Engineer role with Python, LLMs, RAG, and embeddings—Aditya's LLM pipeline and Gemini integration work directly matches their stated needs.",
+   "angle": "medvault",
+   "angle_reason": "GovStar's AI Engineer role requires hands-on LLM APIs and RAG systems; Aditya's MedVault project demonstrates Gemini prompting pipelines, safety rules, and JSON schema validation at production scale.",
+   "fit": 8,
+   "region": "us",
+   "people": [
+    {
+     "name": "Nicholas Hanson",
+     "role": "Hiring Manager"
+    }
+   ],
+   "contact_email": "nicholas.hanson@govstar.us",
+   "contact_name": "Nicholas Hanson",
+   "contact_role": "Hiring Manager"
+  },
+  {
+   "id": "cd4a5e9c04",
+   "relevant": true,
+   "summary": "Ooak Data is an applied AI research lab that turns real company data into reinforcement learning environments where AI agents can be trained and evaluated on realistic workflows.",
+   "stack": [
+    "AI",
+    "Reinforcement Learning",
+    "Data Infrastructure",
+    "Anonymization",
+    "ML"
+   ],
+   "hook": "YC Summer 2026 company building RL environments calibrated to frontier models; they source real enterprise data and generate multi-step, multi-tool tasks designed to expose model weaknesses.",
+   "angle": "canopy",
+   "angle_reason": "Aditya's Canopy project performs deterministic code analysis with call-graph resolution; Ooak's infrastructure for evaluating agent performance on real-world tasks mirrors the systems-thinking approach needed for their data pipeline.",
+   "fit": 7,
+   "region": "us",
+   "people": [],
+   "contact_email": "contact@ooakdata.com",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "da4bc50d21",
+   "relevant": false,
+   "summary": "Graphcore is an AI hardware accelerator company owned by SoftBank, designing next-generation compute for machine learning with offices globally.",
+   "stack": [
+    "Hardware",
+    "Systems",
+    "ML",
+    "AI Compute"
+   ],
+   "hook": "Recently published research on fitting 11B VLMs on mobile phones, demonstrating their focus on efficient AI compute; hiring systems engineering interns for Winter 2026.",
+   "angle": "",
+   "angle_reason": "While Graphcore works in AI, their posted Systems Engineering Intern role is hardware/firmware-focused; Aditya's background is application software and backend systems, not hardware systems.",
+   "fit": 3,
+   "region": "us",
+   "people": [
+    {
+     "name": "Marcus McElroy",
+     "role": "General Manager"
+    }
+   ],
+   "contact_email": "careers@graphcore.ai",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "09466a9b95",
+   "relevant": true,
+   "summary": "InfoHawk detects online fraud (counterfeit sites, phishing, AI-generated content) in real-time across platforms, scoring assets and returning verdicts in 300ms.",
+   "stack": [
+    "TypeScript",
+    "Node.js",
+    "SvelteKit",
+    "Postgres",
+    "Playwright",
+    "AI-assisted development"
+   ],
+   "hook": "InfoHawk uses AI to detect AI-generated fraud and automatically adapt scrapers when sources change; they're pre-seed funded ($2.25M) with founders in both London and NYC, founded by engineers.",
+   "angle": "canopy",
+   "angle_reason": "Aditya's Canopy project includes deterministic code analysis and adaptation; InfoHawk's need to build scrapers that survive source changes and use AI to spot patterns mirrors the programmatic analysis and resilience patterns.",
+   "fit": 6,
+   "region": "europe",
+   "people": [
+    {
+     "name": "James",
+     "role": "Founder/Engineer"
+    }
+   ],
+   "contact_email": "james@infohawk.com",
+   "contact_name": "James",
+   "contact_role": "Founder/Engineer"
+  },
+  {
+   "id": "315cd67dbe",
+   "relevant": false,
+   "summary": "",
+   "stack": [],
+   "hook": "",
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "region": "us",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "36908a7bab",
+   "relevant": false,
+   "summary": "",
+   "stack": [],
+   "hook": "",
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "region": "us",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "4035ab9840",
+   "relevant": true,
+   "summary": "Safepay provides integrated payments solutions for businesses, offering local and international payment options, subscriptions, BNPL, and unified payment routing across multiple gateways.",
+   "stack": [
+    "Node.js",
+    "Payments API",
+    "Multi-currency",
+    "Subscriptions",
+    "Payment Orchestration"
+   ],
+   "hook": "Safepay provides a single integrated platform for payments, analytics, and routing with support for local Pakistani payment rails plus international options; they abstract multiple payment providers behind one API.",
+   "angle": "medvault",
+   "angle_reason": "Safepay's payments orchestration and backend API work mirrors Aditya's Django REST backend experience with user isolation, authentication, and multi-provider integration from his MedVault project.",
+   "fit": 5,
+   "region": "asia",
+   "people": [],
+   "contact_email": "hiring@getsafepay.com",
+   "contact_name": "",
+   "contact_role": ""
+  }
+ ]
+}

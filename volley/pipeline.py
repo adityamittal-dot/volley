@@ -255,6 +255,8 @@ def sync(leads, box):
             continue
         since = (store.parse_iso(e["delivered_at"]) - timedelta(days=1)).strftime("%Y/%m/%d")
         try:
+            if lead["status"] != "drafted" and not e.get("message_id"):   # state recovered without it
+                e["message_id"] = box.sent_to(c["email"], since)
             if lead["status"] == "drafted":
                 mid = box.sent_to(c["email"], since)
                 if not mid:

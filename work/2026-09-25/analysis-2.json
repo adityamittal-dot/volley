@@ -1,0 +1,208 @@
+{
+ "leads": [
+  {
+   "id": "9c3ace76a0",
+   "relevant": true,
+   "summary": "Builds an AI infrastructure operating platform with kernel-level observability and policy enforcement using Linux BPF.",
+   "stack": [
+    "Rust",
+    "Linux",
+    "eBPF",
+    "gRPC"
+   ],
+   "hook": "Released L7 firewall in kernel with decision latency <200ns (faster than a single syscall) and policy-as-code deployment via git push.",
+   "angle": "basepair",
+   "angle_reason": "Aditya's experience fixing production distributed-systems bugs and infrastructure reliability aligns with yeet's focus on building reliable, observable backend infrastructure.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {
+     "name": "Julian Goldstein",
+     "role": "Engineer"
+    },
+    {
+     "name": "Jacob Pradels",
+     "role": "Engineer"
+    },
+    {
+     "name": "Necco Ceresani",
+     "role": "Engineer"
+    }
+   ],
+   "contact_email": "work@yeet.cx",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "08e50d3bbe",
+   "relevant": false,
+   "summary": "Builds decentralized wifi networks for emerging markets using Free Space Optics, with crypto token-based economic model.",
+   "stack": [],
+   "hook": "",
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "region": "asia",
+   "people": [
+    {
+     "name": "Karam Lakshman",
+     "role": "CEO, Co-founder"
+    }
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "2d54f221b4",
+   "relevant": true,
+   "summary": "Paasa is a YC-backed fintech (team of 9) that lets wealthy Indians invest in global equities and automates cross-border tax filing.",
+   "stack": [],
+   "hook": "Site highlights SIPC insurance, SEBI RIA registration, and a blog post comparing UCITS vs US ETFs for RSU holders — compliance-heavy cross-border investing.",
+   "angle": "medvault",
+   "angle_reason": "Paasa's platform handles sensitive per-user financial and tax data, similar to MedVault's Django backend with JWT auth and per-user query isolation.",
+   "fit": 7,
+   "region": "india",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "35d1948e0b",
+   "relevant": true,
+   "summary": "Vidyalai runs a live one-to-one online tutoring platform for IGCSE, IB, CBSE and other curricula, connecting students worldwide with tutors.",
+   "stack": [
+    "Node.js",
+    "Express.js",
+    "WebSockets",
+    "MongoDB",
+    "React.js",
+    "Next.js",
+    "Redux"
+   ],
+   "hook": "Posting asks the intern to build 'highly available and scalable REST API endpoints' for their live tutoring platform, on Node/Express/MongoDB with a React front end.",
+   "angle": "basepair",
+   "angle_reason": "Vidyalai needs reliable, scalable REST APIs for a production SaaS product, the same kind of production-reliability work as my Basepair internship.",
+   "fit": 9,
+   "region": "india",
+   "people": [],
+   "contact_email": "careers@vidyalai.com",
+   "contact_name": "",
+   "contact_role": "Hiring"
+  },
+  {
+   "id": "b5d2c4eca8",
+   "relevant": true,
+   "summary": "Helpstir is described as India's first AI-powered, location-based philanthropy-tech platform, connecting people who need help with verified NGOs and CSR/HNI funders.",
+   "stack": [
+    "React",
+    "TypeScript",
+    "FastAPI",
+    "Python",
+    "Celery",
+    "Redis",
+    "PostgreSQL",
+    "SQLAlchemy",
+    "Alembic",
+    "Docker",
+    "Nginx",
+    "PM2"
+   ],
+   "hook": "Posting describes Helpstir as an AI-powered, location-based philanthropy-tech platform connecting people needing help with verified NGOs, CSR funders, and HNI funders.",
+   "angle": "medvault",
+   "angle_reason": "Helpstir's AI-powered platform with a Python API backend and per-user data (donors, NGOs) mirrors MedVault's AI-backed Django REST backend with per-user isolation.",
+   "fit": 8,
+   "region": "india",
+   "people": [],
+   "contact_email": "connect@helpstir.in",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "02f412090a",
+   "relevant": false,
+   "summary": "",
+   "stack": [],
+   "hook": "",
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "region": "us",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "9e62bd5577",
+   "relevant": true,
+   "summary": "LaunchDarkly is a feature-management platform building Vega, an AI-powered agent platform that surfaces insights and automates actions across its Observability and Feature Management products.",
+   "stack": [
+    "Go"
+   ],
+   "hook": "Posting says Vega is evolving from an Observability assistant into a cross-product platform with 'safe, sandboxed agent execution' and a new usage-based SKU.",
+   "angle": "canopy",
+   "angle_reason": "Vega is agent infrastructure and developer tooling built on top of a codebase-analysis platform, the same dev-tools/backend space as Canopy's call-graph analysis.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {
+     "name": "Tom Totenberg",
+     "role": "Engineer (GitHub committer, launchdarkly-labs)"
+    }
+   ],
+   "contact_email": "careers@launchdarkly.com",
+   "contact_name": "",
+   "contact_role": "Hiring"
+  },
+  {
+   "id": "a07115ac4b",
+   "relevant": true,
+   "summary": "Bright Money is a fintech building a 'Smart Banking Platform' with AI-driven lending, debt payoff, and personal finance tools.",
+   "stack": [
+    "Django",
+    "Python"
+   ],
+   "hook": "Posting says interns build 'Smart Algorithms and Sub Systems for Lending and Financial Communications' on the Smart Banking Platform, in Django/Python.",
+   "angle": "basepair",
+   "angle_reason": "Bright Money's backend intern role building Django/Python components for a lending platform closely mirrors my Basepair internship fixing production bugs and security issues in a Django codebase.",
+   "fit": 9,
+   "region": "india",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "c77f0d1f20",
+   "relevant": true,
+   "summary": "Crustdata (YC F24, team of 30) provides real-time B2B company and people data via APIs, powering AI sales, recruiting, and investment platforms.",
+   "stack": [],
+   "hook": "Site says they 'pipe in live data from over a dozen different data sources' and aim to 'index all the important data on the web' via API or MCP.",
+   "angle": "canopy",
+   "angle_reason": "Crustdata turns raw web/company data into a queryable API, the same kind of structured-data-behind-one-interface problem as Canopy's cross-file call-graph API.",
+   "fit": 7,
+   "region": "us",
+   "people": [],
+   "contact_email": "info@crustdata.com",
+   "contact_name": "",
+   "contact_role": ""
+  },
+  {
+   "id": "d9ddc5b611",
+   "relevant": true,
+   "summary": "xPay (YC W24, team of 3) is a commerce/billing platform for SaaS companies with overseas customers, handling invoicing, foreign sales tax, and payments.",
+   "stack": [],
+   "hook": "Site and posting describe xPay abstracting away 'compliance, remittance and integration' so SaaS merchants don't have to handle international billing ops themselves.",
+   "angle": "medvault",
+   "angle_reason": "xPay handles sensitive billing and tax-compliance data for SaaS merchants, the same kind of security- and privacy-sensitive backend work as MedVault's per-user-isolated Django API.",
+   "fit": 8,
+   "region": "india",
+   "people": [],
+   "contact_email": "hello@xpaycheckout.com",
+   "contact_name": "",
+   "contact_role": ""
+  }
+ ]
+}
