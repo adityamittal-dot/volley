@@ -4,3 +4,4 @@ __pycache__/
 .env
 data/preview.md
 node_modules/
+test/*/resume.pdf

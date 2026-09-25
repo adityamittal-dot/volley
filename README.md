@@ -17,7 +17,7 @@ Finds startups that are hiring, works out who to email and what to say, and send
            when the gates pass, runs `volley check`, pushes claude/outreach-<date>
 
 on push    GitHub Actions: ingest                 (free)
-           re-check, render tailored resumes (ATS-safe, one page), queue, deliver India/Asia now
+           re-check, render tailored resumes (your Overleaf template, pdfLaTeX, one page), queue, deliver India/Asia now
 
 08:00/14:00 UTC  GitHub Actions: deliver          (free)
            Europe / US send windows, so emails land ~9-11am local
@@ -64,5 +64,7 @@ Fallback: set `engine: api` in `config/settings.yaml` plus an `ANTHROPIC_API_KEY
 ## Tuning
 
 `config/settings.yaml`: `mode`, `daily_new`, `min_fit`, `followup_days`, send windows, sources on/off.
-`config/profile.yaml`: projects (the angles), target roles, exclusions. `config/resume.json`: master resume.
+`config/profile.yaml`: projects (the angles), target roles, exclusions. `config/resume.json`: master resume content; `resume/template.tex`: its layout (your Overleaf file). Change the look in the template, the words in the JSON.
+
+Test the whole path on one case without touching any lead: Actions → test-email → Run workflow (sends `test/vidyalai` to an address you choose), or locally `python -m volley test-send you@example.com test/vidyalai` with the Gmail env vars and `pdflatex` installed.
 TRACKER.md shows reply rate by angle; after ~100 sends, adjust the projects or the humanizer skill.

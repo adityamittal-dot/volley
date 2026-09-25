@@ -1,0 +1,1 @@
+titlesec enumitem marvosym fontawesome5 babel-english pgf xcolor preprint hyperref

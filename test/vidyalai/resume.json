@@ -1,0 +1,121 @@
+{
+  "identity": {
+    "name": "Aditya Mittal",
+    "location": "Noida, Uttar Pradesh, India",
+    "phone": "+91-7836850977",
+    "email": "adityamittal529@gmail.com",
+    "github": "https://github.com/adityamittal-dot",
+    "linkedin": "https://www.linkedin.com/in/aditya-mittal-084b91291/"
+  },
+  "headline": "Full Stack Engineer | AI Integration",
+  "skills": {
+    "Languages": [
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "Python",
+      "SQL",
+      "HTML5",
+      "CSS3/SCSS",
+      "C",
+      "C++"
+    ],
+    "Frontend (JavaScript frameworks)": [
+      "React.js",
+      "Next.js",
+      "shadCN",
+      "Tailwind CSS",
+      "EJS"
+    ],
+    "Backend & Frameworks": [
+      "Node.js",
+      "Express.js",
+      "Django",
+      "Django REST Framework",
+      "JWT",
+      "OAuth 2.0",
+      "Temporal"
+    ],
+    "Databases": [
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "Cloud & Infrastructure": [
+      "AWS (S3, STS, EC2, Lambda, RDS, IAM, CloudWatch, EKS, ECS, CloudFront, SQS, SNS, DynamoDB, API Gateway, VPC, ELB, CloudFormation, CDK, Secrets Manager, Parameter Store)",
+      "Kubernetes",
+      "Docker",
+      "Vercel"
+    ],
+    "Testing & Quality Assurance": [
+      "Playwright (E2E Testing)",
+      "Sentry",
+      "Visual Regression Testing",
+      "Test Automation Architecture"
+    ],
+    "DevOps & Tooling": [
+      "Docker",
+      "Docker Compose",
+      "Terraform",
+      "Git",
+      "GitHub",
+      "npm Workspaces",
+      "Postman",
+      "Linux/Bash",
+      "CI/CD"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Basepair",
+      "role": "Software Development Engineer in Test (SDET) Intern",
+      "location": "Remote",
+      "dates": "June 2026 – August 2026",
+      "bullets": [
+        "Led a full-stack **SonarQube remediation** initiative across Python/Django and React codebases, resolving 100+ BLOCKER/HIGH security and reliability defects (SQL injection, ReDoS, insecure crypto, unhandled exceptions) and authoring organizational **Standards.md** coding guidelines for **maintainable code**.",
+        "Diagnosed and resolved critical production distributed-systems defects, including an **OAuth race condition** via DB-level row locking and multi-instance file-access failures via **AWS S3** on-demand fallbacks."
+      ]
+    },
+    {
+      "company": "Spelll Production",
+      "role": "Frontend Engineering Intern",
+      "location": "Remote",
+      "dates": "June 2024 – July 2024",
+      "bullets": [
+        "Owned the end-to-end frontend lifecycle from prototyping to production deployment, translating UI/UX mockups into pixel-perfect, mobile-first components and integrating client-side form validation to improve engagement and lead conversion."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "MedVault",
+      "stack": "Django, DRF, React, PostgreSQL, JWT, Gemini API",
+      "dates": "Feb 2026 – Aug 2026",
+      "live": "https://medvault-xor.vercel.app",
+      "bullets": [
+        "Designed the **REST API** backend in **Django REST Framework** with a custom email-based User model, **JWT authentication with refresh-token rotation**, and per-user data isolation enforced at the queryset level; isolated all Gemini calls behind a single mockable client so a **47-test backend suite** runs with zero API key configured.",
+        "Engineered a structured **Google Gemini API prompting pipeline** with a hard-coded JSON output schema and explicit safety constraints preventing diagnosis/prescription hallucinations, capping input at 50,000 characters and adding a tolerant **JSON-from-prose fallback parser** for malformed model output."
+      ]
+    },
+    {
+      "name": "Canopy",
+      "stack": "Django, PostgreSQL, tree-sitter, Gemini API, Plotly Dash",
+      "dates": "Aug 2026 – Sep 2026",
+      "live": "https://canopy-v7hb.onrender.com",
+      "bullets": [
+        "Designed a **multi-language static-analysis engine** unifying Python's ast module and **tree-sitter** behind one generic analyzer interface, supporting 10 languages with deterministic **cross-file call-graph resolution**.",
+        "Architected an optional AI chat feature fully isolated from the deterministic analysis pipeline — grounded only in already-computed call-graph results, keeping the core parsing product **100% LLM-free** with zero hallucination risk — backed by a **commit-hash-keyed PostgreSQL cache** and least-privilege, **zero-scope GitHub OAuth**."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Jaypee University of Information Technology",
+      "degree": "B.Tech – Computer Science and Engineering (Minor: ECE)",
+      "location": "Solan, Himachal Pradesh",
+      "dates": "2023 – 2027"
+    }
+  ],
+  "extracurricular": [
+    "**Technical Sciences and Movies Photography Club (TMP)**, Member (2023–2025) — organized tech events, coding contests, workshops; mentored peers.",
+    "**Omega LEO Club**, Member (2024–2025) — led community service initiatives."
+  ]
+}

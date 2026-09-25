@@ -107,7 +107,7 @@ Nothing is pushed until this prints `CHECK PASSED`:
 
 ### 3.7 Ingest and deliver (`volley ingest`, `volley deliver`)
 Actions merges the routine's branch, runs the same check again, renders tailored resumes to PDF
-(`resume/render.mjs`, one page, ATS-safe, selectable text), marks emails `queued`, and sends the ones
+(`resume/template.tex`, your Overleaf template compiled with pdfLaTeX; one page, nothing past the margin), marks emails `queued`, and sends the ones
 whose region window is open. The signature is appended automatically:
 
 ```
@@ -245,7 +245,8 @@ new ──prepare──> researching ──routine/ingest──> queued ──de
 | `volley/mailer.py` | Gmail SMTP send, IMAP drafts, sent/reply/bounce detection |
 | `volley/brain.py`, `volley/llm.py` | API engine: Claude calls, model routing, budget cap |
 | `volley/store.py` | leads.json, tracker.csv, TRACKER.md |
-| `resume/` | Playwright resume renderer + fonts |
+| `resume/template.tex` | your Overleaf resume template; `volley/tailor.py` fills the body from `config/resume.json` |
+| `test/<case>/` | hand-written test cases for `volley test-send` / the manual `test-email` workflow |
 | `.github/workflows/volley.yml` | prepare (02:00) and deliver (08:00, 14:00), plus manual runs |
 | `.github/workflows/ingest.yml` | runs when the routine pushes |
 

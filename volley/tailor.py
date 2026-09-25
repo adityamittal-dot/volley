@@ -10,8 +10,11 @@ eligibility() is the hard gate (code, not judgment). verify() checks a
 tailored resume stays truthful against the master before it's ever sent.
 """
 import json
+import pathlib
 import re
+import shutil
 import subprocess
+import tempfile
 
 from .config import ROOT
 
@@ -86,7 +89,14 @@ def verify(tailored, gap_terms, profile_text):
             problems.append(f"new skill not in master or declared gap terms: {s}")
     # No new numbers anywhere in bullets.
     known = _numbers(json.dumps(m) + profile_text)
-    lines = [tailored.get("summary") or ""] + [b for section in ("experience", "projects")
+    headline = tailored.get("headline") or ""
+    if len(headline) > 50 or headline.count(" | ") > 1:
+        problems.append("headline must be a short role title like the master's (one ' | ', max 50 chars)")
+    tt = json.dumps(tailored, ensure_ascii=False)
+    for t in gap_terms:
+        if not mentions(tt, t):
+            problems.append(f"declared gap term not used in the resume: {t}")
+    lines = [headline] + [b for section in ("experience", "projects")
                                                 for item in tailored.get(section, []) for b in item.get("bullets", [])]
     for line in lines:
         if new := _numbers(line) - known:
@@ -97,13 +107,98 @@ def verify(tailored, gap_terms, profile_text):
             problems.append(f"unknown project {p.get('name')}")
         elif p.get("live") and p["live"] != mprojects[p["name"]].get("live"):
             problems.append(f"{p['name']} live URL changed")
+        elif len(p.get("stack", "")) > len(mprojects[p["name"]]["stack"]) + 4:
+            problems.append(f"{p['name']} stack is longer than the master's (the title line won't fit)")
+        for tool in (p.get("stack") or "").split(", "):
+            if tool and not mentions(mt, tool):
+                problems.append(f"{p.get('name')} stack names a tool not in the master resume: {tool}")
     return problems
 
 
+# ---------- rendering: the Overleaf template, compiled with pdfLaTeX ----------
+
+TEMPLATE = ROOT / "resume" / "template.tex"
+TEX_SPECIAL = {"\\": r"\textbackslash{}", "&": r"\&", "%": r"\%", "$": r"\$", "#": r"\#", "_": r"\_",
+               "{": r"\{", "}": r"\}", "~": r"\textasciitilde{}", "^": r"\textasciicircum{}"}
+
+
+def tex(text):
+    """Escape plain text for LaTeX; **bold** becomes \\textbf{bold}, as in the Overleaf source."""
+    out = "".join(TEX_SPECIAL.get(c, c) for c in text)
+    return re.sub(r"\*\*(.+?)\*\*", r"\\textbf{\1}", out)
+
+
+def body(r):
+    """The document body, in the same commands and spacing as the Overleaf resume."""
+    i = r["identity"]
+    L = [r"\begin{center}",
+         rf"    {{\Huge \scshape {tex(i['name'])}}} \\ \vspace{{4pt}}"]
+    if r.get("headline"):
+        L.append(rf"    {{\large \scshape {' $|$ '.join(tex(h) for h in r['headline'].split(' | '))}}} \\ \vspace{{2pt}}")
+    L += [rf"    {tex(i['location'])} \\ \vspace{{2pt}}",
+          r"    \small",
+          rf"    {tex(i['phone'])} ~ $|$ ~",
+          rf"    \href{{mailto:{i['email']}}}{{\underline{{{tex(i['email'])}}}}} ~ $|$ ~",
+          rf"    \href{{{i['github']}}}{{\underline{{GitHub}}}} ~ $|$ ~",
+          rf"    \href{{{i['linkedin']}}}{{\underline{{LinkedIn}}}}",
+          r"\end{center}", ""]
+
+    L += [r"\section{EDUCATION}", r"\resumeSubHeadingListStart"]
+    for ed in r["education"]:
+        L += [r"  \resumeSubheading",
+              f"    {{{tex(ed['school'])}}}", f"    {{{tex(ed['dates'])}}}",
+              f"    {{{tex(ed['degree'])}}}", f"    {{{tex(ed['location'])}}}"]
+    L += [r"\resumeSubHeadingListEnd", ""]
+
+    def items(bullets):
+        return ([r"  \resumeItemListStart"] + [rf"    \resumeItem{{{tex(b)}}}" for b in bullets]
+                + [r"  \resumeItemListEnd"])
+
+    L += [r"\section{EXPERIENCE}", r"\resumeSubHeadingListStart"]
+    for n, e in enumerate(r["experience"]):
+        L += [r"  \resumeSubheading",
+              f"    {{{tex(e['company'])}}}", f"    {{{tex(e['dates'])}}}",
+              f"    {{{tex(e['role'])}}}", f"    {{{tex(e['location'])}}}"] + items(e["bullets"])
+        if n < len(r["experience"]) - 1:
+            L.append(r"  \vspace{2pt}")
+    L += [r"\resumeSubHeadingListEnd", ""]
+
+    L += [r"\section{PROJECTS}", r"\resumeSubHeadingListStart"]
+    for n, p in enumerate(r["projects"]):
+        title = rf"\textbf{{\large {tex(p['name'])}}} $|$ \large{{{tex(p['stack'])}}}"
+        if p.get("live"):
+            title += rf" $|$ \href{{{p['live']}}}{{\underline{{Live Demo}}}}"
+        L += [r"  \resumeProjectHeading", f"    {{{title}}}", f"    {{{tex(p['dates'])}}}"] + items(p["bullets"])
+        if n < len(r["projects"]) - 1:
+            L.append(r"  \vspace{-10pt}")
+    L += [r"\resumeSubHeadingListEnd", ""]
+
+    L += [r"\section{TECHNICAL SKILLS}", r"\small{"]
+    L += [rf"\textbf{{{tex(cat)}:}} {tex(', '.join(xs))} \\" for cat, xs in r["skills"].items()]
+    L += ["}", ""]
+
+    if r.get("extracurricular"):
+        L += [r"\section{EXTRACURRICULAR}", r"\small{", " \\\\\n".join(tex(x) for x in r["extracurricular"]), "}"]
+    return "\n".join(L)
+
+
 def render(json_path, pdf_path):
-    """Render with the Node/Playwright renderer; returns page count or raises."""
-    r = subprocess.run(["node", str(ROOT / "resume" / "render.mjs"), str(json_path), str(pdf_path)],
-                       capture_output=True, text=True, cwd=ROOT)
-    if r.returncode not in (0, 2):
-        raise RuntimeError(r.stderr.strip() or r.stdout.strip())
-    return 1 if r.returncode == 0 else 2
+    """Compile a resume JSON into the Overleaf template; returns the page count or raises."""
+    pdf_path = pathlib.Path(pdf_path)
+    src = TEMPLATE.read_text().replace("%%BODY%%", body(json.loads(pathlib.Path(json_path).read_text())))
+    with tempfile.TemporaryDirectory() as tmp:
+        (pathlib.Path(tmp) / "resume.tex").write_text(src)
+        run = subprocess.run(["pdflatex", "-interaction=nonstopmode", "-halt-on-error", "resume.tex"],
+                             capture_output=True, text=True, cwd=tmp)
+        log = (pathlib.Path(tmp) / "resume.log").read_text(errors="ignore") if run.returncode == 0 else run.stdout
+        pages = re.search(r"Output written on resume\.pdf \((\d+) page", log)
+        if run.returncode != 0 or not pages:
+            err = [l for l in log.splitlines() if l.startswith("!")]
+            raise RuntimeError("pdflatex failed: " + ("; ".join(err[:3]) or log[-500:]))
+        # Table rows (titles, dates) don't wrap: anything past the margin is text running off the page.
+        wide = [float(w) for w in re.findall(r"Overfull \\hbox \(([\d.]+)pt too wide", log)]
+        if max(wide, default=0) > 1:
+            raise RuntimeError(f"a line runs {max(wide):.0f}pt past the margin (shorten a title/stack/date)")
+        pdf_path.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy(pathlib.Path(tmp) / "resume.pdf", pdf_path)
+    return int(pages.group(1))

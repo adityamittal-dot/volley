@@ -7,7 +7,7 @@
     "github": "https://github.com/adityamittal-dot",
     "linkedin": "https://www.linkedin.com/in/aditya-mittal-084b91291/"
   },
-  "summary": "Software engineer building production AI-integrated systems — LLM prompting pipelines with safety constraints, RESTful APIs, and static-analysis tooling in Django, Python, and React.",
+  "headline": "Full Stack Engineer | AI Integration",
   "skills": {
     "Languages": [
       "Python",
@@ -70,8 +70,8 @@
       "location": "Remote",
       "dates": "June 2026 – August 2026",
       "bullets": [
-        "Diagnosed and resolved critical production distributed-systems defects, including an OAuth race condition via DB-level row locking and multi-instance file-access failures via AWS S3 on-demand fallbacks.",
-        "Led a full-stack SonarQube remediation initiative across Python/Django and React codebases, resolving 100+ BLOCKER/HIGH security and reliability defects (SQL injection, ReDoS, insecure crypto, unhandled exceptions) and authoring organizational Standards.md guidelines."
+        "Diagnosed and resolved critical production distributed-systems defects, including an **OAuth race condition** via DB-level row locking and multi-instance file-access failures via **AWS S3** on-demand fallbacks.",
+        "Led a full-stack **SonarQube remediation** initiative across Python/Django and React codebases, resolving 100+ BLOCKER/HIGH security and reliability defects (SQL injection, ReDoS, insecure crypto, unhandled exceptions) and authoring organizational **Standards.md** guidelines."
       ]
     },
     {
@@ -87,22 +87,22 @@
   "projects": [
     {
       "name": "MedVault",
-      "stack": "Django, Django REST Framework, PostgreSQL, Google Gemini API, React, TypeScript, JWT, Docker",
-      "dates": "Feb 2026 – August 2026",
+      "stack": "Django, DRF, PostgreSQL, Gemini API, React, JWT",
+      "dates": "Feb 2026 – Aug 2026",
       "live": "https://medvault-xor.vercel.app",
       "bullets": [
-        "Engineered a structured Google Gemini API prompting pipeline with a hard-coded JSON output schema and explicit safety constraints preventing diagnosis/prescription hallucinations, capping input at 50,000 characters and adding a tolerant JSON-from-prose fallback parser for malformed model output.",
-        "Designed a Django REST Framework backend with a custom email-based User model, JWT authentication with refresh-token rotation, and per-user data isolation enforced at the queryset level; isolated all Gemini calls behind a single mockable client so a 47-test backend suite runs with zero API key configured."
+        "Engineered a structured **Google Gemini API prompting pipeline** with a hard-coded JSON output schema and explicit safety constraints preventing diagnosis/prescription hallucinations, capping input at 50,000 characters and adding a tolerant **JSON-from-prose fallback parser** for malformed model output.",
+        "Designed a **Django REST Framework** backend with a custom email-based User model, **JWT authentication with refresh-token rotation**, and per-user data isolation enforced at the queryset level; isolated all Gemini calls behind a single mockable client so a **47-test backend suite** runs with zero API key configured."
       ]
     },
     {
       "name": "Canopy",
-      "stack": "Django, PostgreSQL, tree-sitter, Python ast, Google Gemini API, Plotly Dash, Docker",
-      "dates": "August 2026 – September 2026",
+      "stack": "Django, PostgreSQL, tree-sitter, Gemini API, Plotly Dash",
+      "dates": "Aug 2026 – Sep 2026",
       "live": "https://canopy-v7hb.onrender.com",
       "bullets": [
-        "Designed a multi-language static-analysis engine unifying Python's ast module and tree-sitter behind one generic analyzer interface, supporting 10 languages with deterministic cross-file call-graph resolution.",
-        "Architected an optional AI chat feature fully isolated from the deterministic analysis pipeline — grounded only in already-computed call-graph results, keeping the core parsing product 100% LLM-free with zero hallucination risk — backed by a commit-hash-keyed PostgreSQL cache and least-privilege, zero-scope GitHub OAuth."
+        "Designed a **multi-language static-analysis engine** unifying Python's ast module and **tree-sitter** behind one generic analyzer interface, supporting 10 languages with deterministic **cross-file call-graph resolution**.",
+        "Architected an optional AI chat feature fully isolated from the deterministic analysis pipeline — grounded only in already-computed call-graph results, keeping the core parsing product **100% LLM-free** with zero hallucination risk — backed by a **commit-hash-keyed PostgreSQL cache** and least-privilege, **zero-scope GitHub OAuth**."
       ]
     }
   ],
@@ -115,7 +115,7 @@
     }
   ],
   "extracurricular": [
-    "Technical Sciences and Movies Photography Club (TMP), Member (2023–2025) — organized tech events, coding contests, workshops; mentored peers.",
-    "Omega LEO Club, Member (2024–2025) — led community service initiatives."
+    "**Technical Sciences and Movies Photography Club (TMP)**, Member (2023–2025) — organized tech events, coding contests, workshops; mentored peers.",
+    "**Omega LEO Club**, Member (2024–2025) — led community service initiatives."
   ]
 }

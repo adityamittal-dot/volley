@@ -1,0 +1,50 @@
+name: test-email
+# Manual only: run one test case (test/<name>/) through the real checks, render and message build,
+# and send it to an address of your choice instead of the company. Touches no lead data.
+
+on:
+  workflow_dispatch:
+    inputs:
+      to:
+        description: "Send the test to"
+        required: true
+      case:
+        description: "Test case folder"
+        default: test/vidyalai
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: pdfLaTeX (same engine as Overleaf)
+        uses: actions/cache@v4
+        with:
+          path: ~/.TinyTeX
+          key: tinytex-${{ hashFiles('resume/latex-packages.txt') }}
+      - run: |
+          [ -x ~/.TinyTeX/bin/x86_64-linux/pdflatex ] || { curl -sL https://yihui.org/tinytex/install-bin-unix.sh | sh && ~/.TinyTeX/bin/x86_64-linux/tlmgr install $(cat resume/latex-packages.txt); }
+          echo "$HOME/.TinyTeX/bin/x86_64-linux" >> "$GITHUB_PATH"
+      - name: Send
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          SEND_AS: ${{ secrets.SEND_AS }}
+          TO: ${{ inputs.to }}
+          CASE: ${{ inputs.case }}
+        run: python -m volley test-send "$TO" "$CASE"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: resume
+          path: ${{ inputs.case }}/resume.pdf
+          if-no-files-found: ignore

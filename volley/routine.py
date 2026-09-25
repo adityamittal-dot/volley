@@ -271,12 +271,16 @@ def ingest(day=None):
         t = e.get("tailor") or {}
         if t.get("decision"):
             pdf = WORK / day / "resumes" / f"{lid}.pdf"
-            pages = tailor.render(WORK / day / "resumes" / f"{lid}.json", pdf)
+            try:
+                pages = tailor.render(WORK / day / "resumes" / f"{lid}.json", pdf)
+            except RuntimeError as ex:
+                pages = f"failed ({ex})"
             if pages == 1:
                 lead["email"]["resume_pdf"] = str(pdf.relative_to(ROOT))
                 lead["email"]["tailor_reason"] = t.get("reason", "")
             else:
-                log(f"{lead['company']}: tailored resume overflowed one page, sending the master link instead")
+                log(f"{lead['company']}: tailored resume render {pages if isinstance(pages, str) else 'overflowed one page'}, "
+                    f"sending the master link instead")
         lead["status"] = "queued"
     store.save(leads)
     log(f"ingest: {sum(1 for l in leads.values() if l['status'] == 'queued')} queued")
@@ -293,3 +297,40 @@ def deliver(all_regions=False):
         box.close()
     store.save(leads)
     store.export(leads)
+
+
+# ---------- test-send (manual, Actions) ----------
+
+def test_send(to, case):
+    """Run one hand-written case through the real checks, render and message build, and send it to `to`
+    instead of the company. `case` holds email.json ({id, fit, angle, contact_email, subject, body, tailor}) and, when
+    tailoring, resume.json."""
+    case = ROOT / case
+    e = json.loads((case / "email.json").read_text())
+    s, p = settings(), profile()
+    lead = store.load()[e["id"]]
+    a = {"fit": e["fit"], "angle": e["angle"], "contact_email": e["contact_email"], "people": []}
+    contact = pipeline.pick_contact(lead, _AnalysisView(a), s)
+    problems = [str(i) for i in humanize.scan(e["subject"], e["body"])]
+    pdf = None
+    t = e.get("tailor") or {}
+    if t.get("decision"):
+        ok, why = tailor.eligibility(lead, a, contact)
+        problems += [] if ok else [f"tailoring not allowed ({why})"]
+        terms = t.get("gap_terms") or []
+        if bad := tailor.gap_terms_ok(terms, lead):
+            problems.append(f"gap_terms must appear in the posting and NOT in the master resume: {bad}")
+        problems += tailor.verify(json.loads((case / "resume.json").read_text()), terms, json.dumps(p))
+        if not problems:
+            pdf = case / "resume.pdf"
+            if (pages := tailor.render(case / "resume.json", pdf)) != 1:
+                problems.append(f"tailored resume is {pages} pages")
+    if problems:
+        raise SystemExit("test case fails the checks:\n  " + "\n  ".join(problems))
+    sig = brain.signature(p, attached=bool(pdf))
+    msg = mailer.build(p["identity"]["name"], to,
+                       f"[volley test -> {lead['company']} <{contact['email']}>] {e['subject']}",
+                       f"{e['body']}\n\n{sig}", attachment=pdf)
+    mailer.send(msg)
+    log(f"test sent to {to}: {lead['company']} ({contact['email']}, {contact['confidence']}), "
+        f"{'tailored resume attached' if pdf else 'master resume link'}")

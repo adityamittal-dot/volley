@@ -7,6 +7,7 @@ Routine engine (default):
   python -m volley check               routine: must pass before pushing (lint + truth checks)
   python -m volley ingest [date]       Actions: validate, render resumes, queue, deliver this window
   python -m volley deliver             Actions: sync + deliver queued emails for this window
+  python -m volley test-send <to> <case>   run one test case end to end, send it to <to>
 
 API engine (needs ANTHROPIC_API_KEY):
   python -m volley run                 daily run (sync, follow-ups, discover, write, deliver)
@@ -34,6 +35,9 @@ def main():
     i.add_argument("date", nargs="?")
     d = sub.add_parser("deliver")
     d.add_argument("--all-regions", action="store_true")
+    t = sub.add_parser("test-send")
+    t.add_argument("to")
+    t.add_argument("case", help="folder with email.json (+ resume.json), e.g. test/vidyalai")
     sub.add_parser("discover")
     sub.add_parser("status")
     m = sub.add_parser("mark")
@@ -57,6 +61,8 @@ def main():
         routine.ingest(args.date)
     elif args.cmd == "deliver":
         routine.deliver(args.all_regions)
+    elif args.cmd == "test-send":
+        routine.test_send(args.to, args.case)
     elif args.cmd == "run":
         pipeline.run(dry_run=args.dry_run, all_regions=args.all_regions, no_discover=args.no_discover)
     elif args.cmd == "discover":
