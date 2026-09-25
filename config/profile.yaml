@@ -1,0 +1,85 @@
+# Who you are and what you can prove. The writer is only allowed to use facts
+# from this file — edit here when a project changes, never in the prompts.
+
+identity:
+  name: Aditya Mittal
+  first_name: Aditya
+  email: adityamittal529@gmail.com
+  school: B.Tech CSE, Jaypee University of Information Technology
+  grad_year: 2027
+  location: Noida, India
+  github: https://github.com/adityamittal-dot
+  linkedin: https://www.linkedin.com/in/aditya-mittal-084b91291/
+  portfolio: ""        # e.g. https://aditya.dev — shown in follow-up #1 when set
+  resume_url: ""       # public link to your resume PDF (Google Drive "anyone with link", or a hosted file)
+
+# One line the writer can use to say what you're looking for.
+ask: internship or entry-level role (2027 grad, available now for internships, full-time from mid-2027)
+
+experience:
+  - org: Basepair
+    role: Software Engineer Intern
+    dates: Jun 2026 – Aug 2026
+    facts:
+      - Fixed a production OAuth race condition with DB-level row locking.
+      - Fixed multi-instance file-access failures with AWS S3 on-demand fallbacks.
+      - Led a SonarQube cleanup across Python/Django and React codebases, resolving 100+ BLOCKER/HIGH security and reliability defects (SQL injection, ReDoS, insecure crypto).
+  - org: Spelll Production
+    role: Frontend Engineering Intern
+    dates: Jun 2024 – Jul 2024
+    facts:
+      - Owned the frontend from prototype to production, mobile-first components and client-side validation.
+
+# The "angles". The analyst picks the one that best matches each company and
+# the writer builds the email around it. `link` is the single link in the body.
+projects:
+  - id: canopy
+    name: Canopy
+    link: https://canopy-v7hb.onrender.com
+    repo: https://github.com/adityamittal-dot/Canopy
+    one_liner: paste a GitHub repo, get an interactive map of its architecture down to every function
+    good_for: [dev tools, code intelligence, static analysis, security tooling, CI, platform, backend, parsing, graphs]
+    facts:
+      - Multi-language static analysis (Python ast + tree-sitter) behind one analyzer interface, 10 languages.
+      - Deterministic cross-file call-graph resolution that marks unresolved calls external instead of guessing.
+      - Commit-hash-keyed PostgreSQL cache checked with git ls-remote before cloning.
+      - Optional AI chat grounded only in computed call-graph results; core product is LLM-free.
+      - Zero-scope GitHub OAuth, 143 automated tests.
+  - id: medvault
+    name: MedVault
+    link: https://medvault-xor.vercel.app
+    repo: https://github.com/adityamittal-dot/XOR
+    one_liner: upload a lab report PDF, get a plain-language AI explanation you can ask questions about
+    good_for: [ai, llm, health tech, fintech, backend, django, api, auth, security, data privacy]
+    facts:
+      - Gemini prompting pipeline with a fixed JSON output schema and safety rules that forbid diagnosis or prescription.
+      - Tolerant JSON-from-prose fallback parser for malformed model output.
+      - Django REST backend, email-based user model, JWT with refresh-token rotation, per-user isolation at the queryset level.
+      - All LLM calls behind one mockable client, 47-test suite runs with no API key.
+  - id: basepair
+    name: my Basepair internship
+    link: https://github.com/adityamittal-dot
+    repo: https://github.com/adityamittal-dot
+    one_liner: fixed production distributed-systems bugs and 100+ security defects in a Django/React codebase
+    good_for: [saas, b2b, fintech, bio, infrastructure, reliability, security, django, python, aws]
+    facts:
+      - OAuth race condition fixed with DB-level row locking.
+      - Multi-instance file-access failures fixed with S3 on-demand fallbacks.
+      - 100+ BLOCKER/HIGH SonarQube issues resolved across Python/Django and React.
+
+skills: [Python, TypeScript, JavaScript, SQL, C++, Django, DRF, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, Terraform, Playwright, LLM APIs]
+
+# Discovery filters (plain substring match on the job title, lowercase).
+target:
+  roles: [software engineer, software developer, sde, backend, full stack, fullstack, full-stack,
+          frontend, web developer, python, django, react, node, ai engineer, ml engineer, llm,
+          applied ai, platform engineer, infrastructure, devops, cloud engineer, founding engineer,
+          product engineer, member of technical staff, forward deployed, solutions engineer, engineer]
+  entry_signals: [intern, internship, new grad, graduate, junior, entry level, entry-level,
+                  associate, fresher, trainee, early career, "2027 grad", "class of 2027", "summer 2027"]
+  exclude: [senior, "sr.", "sr ", staff, principal, architect, director, "vp ", head of, manager,
+            lead, " ii", " iii", "sde 2", "sde-2", "sde2", " 2)", mid-level, mid level, intermediate,
+            ios, android, sales, marketing, recruiter, account executive, customer success,
+            product manager, designer, marketer, sdet, qa, quality, tester, test engineer]
+  stack_keywords: [python, django, react, typescript, node, postgres, aws, llm, ai, backend,
+                   api, docker, kubernetes, next.js, fastapi, full stack, gemini, openai, claude]

@@ -1,0 +1,41 @@
+# How volley runs. Anything here can be overridden with an env var of the same
+# name in caps prefixed VOLLEY_ (e.g. VOLLEY_MODE=send).
+
+# draft = emails land in your Gmail Drafts, you hit send.
+# send  = volley sends them itself.
+mode: draft
+
+daily_new: 18          # new first-touch emails per day (15-20 is the sweet spot for a personal Gmail)
+send_days: [0, 1, 2, 3, 4]   # Mon-Fri (0 = Monday)
+followup_days: [4, 10] # follow-up #1 and #2, days after the first email
+min_fit: 6             # analyst fit score (1-10) below this is skipped
+research_factor: 1.6   # research this many leads per open slot (some drop for no contact / low fit)
+lead_max_age_days: 30  # ignore postings older than this
+allow_guessed_emails: true   # founder@ pattern guesses (MX-checked) when nothing better exists
+
+# Send windows (UTC hour -> recipient regions). Emails wait in the queue until
+# their region's window so they land around 9-11am local time.
+windows:
+  3: [india, asia, other]
+  8: [europe, africa, middle_east]
+  14: [us, americas]
+
+# Model routing: cheap model for reading/extracting/fixing, strong model for
+# the one thing people actually read.
+models:
+  analyst: claude-haiku-4-5     # read site + posting, pick contact, score fit, find the hook
+  writer: claude-sonnet-5       # write the first email
+  fixer: claude-haiku-4-5       # humanizer fix-up when the linter flags a draft
+
+daily_budget_usd: 0.60   # hard stop for API spend per day
+
+sources:
+  hn_hiring: true
+  yc_hiring: true
+  remoteok: true
+  remotive: true
+  arbeitnow: true
+  jobicy: true
+  himalayas: true
+  unstop: true         # India internships / jobs (public API)
+  simplify: true
