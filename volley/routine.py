@@ -68,9 +68,22 @@ def prepare():
     log(f"prepare: {len(batch)} leads in today's batch for {slots} open slots")
 
 
+def _name(company):
+    return re.sub(r"[^a-z0-9]", "", re.sub(r"\b(inc|llc|ltd|pvt|gmbh|corp|co)\b\.?", "", company.lower()))
+
+
+def _emailed_names(leads):
+    """The same company can reach the pool twice under different domains (its site vs a job board's)."""
+    return {_name(l["company"]) for l in leads.values() if (l.get("email") or {}).get("delivered_at")}
+
+
 def research_batch(leads, s, slots):
     if slots <= 0:
         return []
+    emailed = _emailed_names(leads)
+    for l in leads.values():
+        if l["status"] == "new" and _name(l["company"]) in emailed:
+            l["status"], l["note"] = "skipped", "already emailed under another listing"
     want = math.ceil(slots * s["research_factor"])
     pool = sorted((l for l in leads.values() if l["status"] == "new"), key=lambda l: l["score"], reverse=True)
     batch = []
@@ -164,10 +177,13 @@ def shortlist(day=None, show=True):
     leads = store.load()
     batch, analysis = _load(day, "batch-*.json"), _load(day, "analysis-*.json")
     used = {(l.get("contact") or {}).get("email") for l in leads.values() if l["status"] != "researching"}
+    emailed = _emailed_names(leads)
     rows = []
     for lid, a in analysis.items():
         lead = leads.get(lid)
         if not lead or lid not in batch or not a.get("relevant") or a.get("fit", 0) < s["min_fit"]:
+            continue
+        if _name(lead["company"]) in emailed:
             continue
         contact = pipeline.pick_contact(lead, _AnalysisView(a), s)
         if not contact or contact["email"] in used:
