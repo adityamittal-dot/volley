@@ -64,7 +64,7 @@ def build(leads):
     return {
         "generated_at": store.iso(), "mode": s["mode"], "daily_new": s["daily_new"], "credits_until": s["credits_until"],
         "followup_days": s["followup_days"],
-        "counts": {st: counts[st] for st in store.STATUSES if counts[st]} | {"researching": counts["researching"]},
+        "counts": {st: counts[st] for st in store.STATUSES if counts[st]},
         "funnel": [
             {"stage": "Discovered", "n": len(leads)},
             {"stage": "Researched", "n": sum(1 for l in leads.values() if l["status"] != "new")},

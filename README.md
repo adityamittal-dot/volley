@@ -7,11 +7,11 @@ Finds startups that are hiring, works out who to email and what to say, and send
 ## How a day works
 
 ```
-02:00 UTC  GitHub Actions: prepare                (free)
+00:17 UTC  GitHub Actions: prepare (+01:47 backup)  (free)
            sync Gmail -> follow-ups -> 9 job feeds -> score & dedupe -> crawl sites + GitHub for contacts
            -> work/<date>/batch-N.json
 
-08:30 IST  Claude routine: OUTREACH.md             (Claude credits)
+10:00 IST  Claude routine: OUTREACH.md             (Claude credits; 15:00 IST fallback fire)
            Haiku sub-agents analyze each batch file (fit, who to email, the hook, which project)
            main session writes the emails with the cold-email-humanizer skill, tailors a resume only
            when the gates pass, runs `volley check`, pushes claude/outreach-<date>
@@ -19,7 +19,7 @@ Finds startups that are hiring, works out who to email and what to say, and send
 on push    GitHub Actions: ingest                 (free)
            re-check, render tailored resumes (your Overleaf template, pdfLaTeX, one page), queue, deliver India/Asia now
 
-08:00/14:00 UTC  GitHub Actions: deliver          (free)
+08:23/14:23 UTC  GitHub Actions: deliver          (free)
            Europe / US send windows, so emails land ~9-11am local
 ```
 
@@ -40,7 +40,7 @@ on push    GitHub Actions: ingest                 (free)
 4. **Routine:** https://claude.ai/code/routines → New routine
    - Name `volley daily outreach`, repository `adityamittal-dot/volley`, environment Default, no connectors
    - Model **Sonnet** (writing is its job; the reading is delegated to Haiku sub-agents)
-   - Schedule: weekdays 08:30 (IST)
+   - Schedule: cron `30 4,9 * * 1-5` (UTC: weekdays 10:00 IST, plus a 15:00 IST fallback that exits at once if the day is done)
    - Prompt: `Follow OUTREACH.md exactly and push today's outreach.`
 5. **Mode:** variable `VOLLEY_MODE` = `draft` (emails land in Gmail Drafts, you press send). Switch to `send` once you trust them.
 
@@ -59,7 +59,7 @@ python -m venv .venv && .venv/bin/pip install -r requirements.txt
 
 20 new emails per weekday. Sep 28 - Nov 10 is 32 weekdays: ~640 first emails plus ~1,000 follow-ups. The routine reads ~40 leads/day with Haiku and writes ~20 emails with Sonnet, roughly $0.40-0.60 of credits a day. Everything else runs free on Actions. After `credits_until` (2026-11-10) no new batches are prepared; follow-ups and reply tracking keep running.
 
-Fallback: set `engine: api` in `config/settings.yaml` plus an `ANTHROPIC_API_KEY` secret and the 02:00 run does the whole thing through the Claude API instead (Haiku analyst, Sonnet writer, hard daily budget cap).
+Fallback: set `engine: api` in `config/settings.yaml` plus an `ANTHROPIC_API_KEY` secret and the prepare run does the whole thing through the Claude API instead (Haiku analyst, Sonnet writer, hard daily budget cap).
 
 ## Tuning
 

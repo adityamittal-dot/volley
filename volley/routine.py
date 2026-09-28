@@ -1,6 +1,6 @@
 """The Claude-routine engine: Actions prepares a batch, the routine thinks, Actions delivers.
 
-  prepare  (Actions, 02:00 UTC)  sync Gmail, follow-ups, discover, crawl the top leads,
+  prepare  (Actions, 00:17 UTC)  sync Gmail, follow-ups, discover, crawl the top leads,
                                  write work/<date>/batch-N.json
   routine  (claude.ai/code)      OUTREACH.md: Haiku sub-agents analyze each batch file,
                                  the main session writes emails (+ tailored resumes), runs `check`,
@@ -46,10 +46,14 @@ def prepare():
     leads = store.load()
     box = _mailbox()
     if box:
-        pipeline.sync(leads, box)
-        pipeline.followups(leads, s, p, s["mode"], box)
+        pipeline.followups(leads, s, p, s["mode"], box, unsynced=pipeline.sync(leads, box))
         box.close()
     store.save(leads)
+    # prepare runs twice (a backup cron covers a dropped or late Actions run); the batch is built once a day.
+    if sorted((WORK / today()).glob("batch-*.json")):
+        store.export(leads)
+        log(f"prepare: today's batch already exists, only synced and sent follow-ups")
+        return
     pipeline.discover(leads, s, p)
 
     # Leads from a batch the routine never finished go back into the pool.
@@ -130,6 +134,9 @@ def brief():
     files = sorted(day.glob("batch-*.json")) if day.exists() else []
     if not files:
         print(f"NO BATCH for {today()} — nothing to do today. Stop here without pushing.")
+        return
+    if (day / "emails.json").exists():
+        print(f"ALREADY DONE for {today()} — today's emails were written and ingested. Stop here without pushing.")
         return
     n = sum(len(json.loads(f.read_text())["leads"]) for f in files)
     s, leads = settings(), store.load()

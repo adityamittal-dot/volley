@@ -18,7 +18,7 @@ LEADS = DATA / "leads.json"
 USAGE = DATA / "usage.json"
 
 # Lifecycle, in order. Anything after "queued" means an email exists.
-STATUSES = ["new", "skipped", "no_contact", "low_fit", "queued", "drafted", "sent",
+STATUSES = ["new", "skipped", "no_contact", "low_fit", "researching", "queued", "drafted", "sent",
             "followup_1", "followup_2", "replied", "bounced", "interview", "closed"]
 ACTIVE = {"drafted", "sent", "followup_1", "followup_2"}
 

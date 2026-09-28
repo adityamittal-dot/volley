@@ -203,11 +203,10 @@ def process(leads, s, p, slots):
 # ---------- delivery ----------
 
 def current_regions(s):
+    """Regions whose send window has opened today (2h early allowed). A late cron or a late routine then
+    sends an email a little late instead of leaving it queued for a window that already passed."""
     hour = store.now().hour
-    for h, regions in s["windows"].items():
-        if abs(int(h) - hour) <= 2:  # Actions cron can start late
-            return set(regions)
-    return None  # outside every window (manual run): all regions
+    return {r for h, regions in s["windows"].items() if hour >= int(h) - 2 for r in regions}
 
 
 def deliver(leads, s, p, mode, box, all_regions=False):
@@ -219,6 +218,10 @@ def deliver(leads, s, p, mode, box, all_regions=False):
     regions = None if all_regions else current_regions(s)
     queue = [l for l in leads.values() if l["status"] == "queued"
              and (regions is None or l["research"]["region"] in regions)]
+    if regions is not None:
+        waiting = sum(1 for l in leads.values() if l["status"] == "queued") - len(queue)
+        if waiting:
+            log(f"deliver: {waiting} queued emails wait for a later send window")
     queue.sort(key=lambda l: (l["research"]["fit"], CONFIDENCE_RANK.get(l["contact"]["confidence"], 0), l["score"]),
                reverse=True)
     sig = brain.signature(p)
@@ -235,7 +238,6 @@ def deliver(leads, s, p, mode, box, all_regions=False):
                 e["message_id"] = mailer.send(msg)
                 lead["status"] = "sent"
                 e["sent_at"] = store.iso()
-                time.sleep(random.uniform(20, 60))
             else:
                 e["message_id"] = box.draft(msg)
                 lead["status"] = "drafted"
@@ -244,11 +246,15 @@ def deliver(leads, s, p, mode, box, all_regions=False):
             continue
         e["delivered_at"] = store.iso()
         e["mode"] = mode
+        store.save(leads)   # a run killed mid-loop must not send this one again
         log(f"{lead['status']}: {lead['company']} <{lead['contact']['email']}> — {e['subject']}")
+        if mode == "send":
+            time.sleep(random.uniform(20, 60))
 
 
 def sync(leads, box):
-    """Pick up drafts the user sent, replies, and bounces."""
+    """Pick up drafts the user sent, replies, and bounces. Returns ids whose check failed."""
+    failed = set()
     for lead in leads.values():
         e, c = lead.get("email") or {}, lead.get("contact") or {}
         if lead["status"] not in store.ACTIVE or not c.get("email"):
@@ -270,10 +276,12 @@ def sync(leads, box):
                 lead["status"], lead["replied_at"] = "replied", store.iso()
                 log(f"sync: {lead['company']} REPLIED")
         except Exception as ex:
+            failed.add(lead["id"])
             log(f"sync failed for {lead['company']}: {ex}")
+    return failed
 
 
-def followups(leads, s, p, mode, box):
+def followups(leads, s, p, mode, box, unsynced=()):
     if store.now().weekday() not in s["send_days"]:
         return
     d1, d2 = s["followup_days"]
@@ -281,6 +289,9 @@ def followups(leads, s, p, mode, box):
     for lead in leads.values():
         e = lead.get("email") or {}
         if lead["status"] not in ("sent", "followup_1") or not e.get("sent_at"):
+            continue
+        if lead["id"] in unsynced:   # couldn't check for a reply or bounce: never follow up blind
+            log(f"follow-up held for {lead['company']}: mailbox sync failed")
             continue
         age = (store.now() - store.parse_iso(e["sent_at"])).days
         n = 1 if lead["status"] == "sent" else 2
@@ -297,7 +308,10 @@ def followups(leads, s, p, mode, box):
             continue
         lead.setdefault("followups", []).append({"n": n, "at": store.iso(), "message_id": mid, "mode": mode})
         lead["status"] = f"followup_{n}"
+        store.save(leads)   # a run killed mid-loop must not send this one again
         log(f"follow-up #{n}: {lead['company']}")
+        if mode == "send":
+            time.sleep(random.uniform(5, 15))
     # Close out threads that went quiet after the last follow-up.
     for lead in leads.values():
         fu = lead.get("followups") or []
@@ -313,8 +327,7 @@ def run(dry_run=False, all_regions=False, no_discover=False):
     box = None
     if not dry_run:
         box = mailer.Mailbox()
-        sync(leads, box)
-        followups(leads, s, p, mode, box)
+        followups(leads, s, p, mode, box, unsynced=sync(leads, box))
         store.save(leads)
     if not no_discover:
         discover(leads, s, p)

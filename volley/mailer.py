@@ -76,7 +76,9 @@ class Mailbox:
 
     def _search(self, query):
         self.imap.select(f'"{self.folders.get(chr(92) + "All", "[Gmail]/All Mail")}"', readonly=True)
-        typ, data = self.imap.search(None, "X-GM-RAW", f'"{query}"')
+        # X-GM-RAW takes one IMAP quoted string: a raw `"` inside it ends the string early (BAD command).
+        quoted = query.replace("\\", "\\\\").replace('"', '\\"')
+        typ, data = self.imap.search(None, "X-GM-RAW", f'"{quoted}"')
         return data[0].split() if typ == "OK" and data and data[0] else []
 
     def _header(self, num, name):
@@ -94,8 +96,9 @@ class Mailbox:
         """True if the contact, or anyone else at their company domain, wrote to us since."""
         domain = to.split("@")[1]
         query = f"from:{to} after:{since}" if domain in FREEMAIL else f"from:@{domain} after:{since}"
-        return bool(self._search(query + " -in:sent -category:promotions -from:noreply -from:no-reply -from:newsletter"))
+        return bool(self._search(query + " -in:sent -category:promotions -category:social -category:forums"
+                                         " -from:noreply -from:no-reply -from:notifications -from:newsletter"))
 
     def bounced(self, to, since):
-        return bool(self._search(f'from:mailer-daemon after:{since} "{to}"'))
+        return bool(self._search(f'{{from:mailer-daemon from:postmaster}} after:{since} "{to}"'))
 

@@ -1,13 +1,16 @@
 name: volley
-# 02:00 UTC  prepare: sync Gmail, follow-ups, discover, crawl -> work/<date>/ for the Claude routine
-# 08:00/14:00 UTC  deliver: queued emails for the Europe / US send windows
+# 00:17 UTC  prepare: sync Gmail, follow-ups, discover, crawl -> work/<date>/ for the Claude routine
+# 01:47 UTC  prepare again as a backup (Actions crons are often late or dropped); builds no second batch
+# 08:23/14:23 UTC  deliver: queued emails for the Europe / US send windows
+# Off-the-hour minutes on purpose: GitHub delays and drops :00 schedules the most.
 # (India/Asia emails go out right after the routine pushes, see ingest.yml)
 
 on:
   schedule:
-    - cron: "0 2 * * 1-5"
-    - cron: "0 8 * * 1-5"
-    - cron: "0 14 * * 1-5"
+    - cron: "17 0 * * 1-5"
+    - cron: "47 1 * * 1-5"
+    - cron: "23 8 * * 1-5"
+    - cron: "23 14 * * 1-5"
   workflow_dispatch:
     inputs:
       command:
@@ -53,12 +56,12 @@ jobs:
           engine=$(python -c "from volley.config import settings; print(settings()['engine'])")
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             cmd="${{ inputs.command }}"
-          elif [ "${{ github.event.schedule }}" = "0 2 * * 1-5" ]; then
+          elif [ "${{ github.event.schedule }}" = "17 0 * * 1-5" ] || [ "${{ github.event.schedule }}" = "47 1 * * 1-5" ]; then
             cmd=prepare
           else
             cmd=deliver
           fi
-          # API engine: the 02:00 run does everything itself.
+          # API engine: the prepare run does everything itself.
           if [ "$cmd" = prepare ] && [ "$engine" = api ]; then cmd=run; fi
           args=""
           if [ "${{ inputs.all_regions }}" = "true" ]; then args="--all-regions"; fi

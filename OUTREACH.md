@@ -12,7 +12,8 @@ reading, you do the writing, no exploring the codebase, no web browsing unless a
 pip install -q -r requirements.txt
 python -m volley brief
 ```
-If it prints `NO BATCH`, stop now. Do not push anything.
+If it prints `NO BATCH` or `ALREADY DONE`, stop now. Do not push anything. (The routine fires twice a day;
+the second fire is a fallback for a late batch and normally ends here.)
 
 ## 1. Analysis: delegate to Haiku sub-agents
 For each `work/<date>/batch-N.json`, launch one sub-agent **with model `haiku`**, all in parallel, with this

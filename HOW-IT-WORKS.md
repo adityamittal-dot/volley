@@ -35,14 +35,22 @@ All times are weekdays. IST = UTC + 5:30.
 
 | UTC | IST | What runs | Where | Cost |
 |---|---|---|---|---|
-| 02:00 | 07:30 | **prepare**: sync Gmail, send due follow-ups, fetch 9 job feeds, score, crawl the best ~40 leads, write `work/<date>/batch-N.json` | GitHub Actions (`volley.yml`) | free |
-| ~03:00 | 08:30 | **routine**: follows `OUTREACH.md`: Haiku sub-agents analyze, Sonnet writes emails, `volley check`, push `claude/outreach-<date>` | Claude Code routine (claude.ai) | Claude credits |
+| 00:17 | 05:47 | **prepare**: sync Gmail, send due follow-ups, fetch 9 job feeds, score, crawl the best ~40 leads, write `work/<date>/batch-N.json` | GitHub Actions (`volley.yml`) | free |
+| 01:47 | 07:17 | **prepare (backup)**: syncs and sends due follow-ups; builds the batch only if the first run never did | GitHub Actions (`volley.yml`) | free |
+| 04:30 | 10:00 | **routine**: follows `OUTREACH.md`: Haiku sub-agents analyze, Sonnet writes emails, `volley check`, push `claude/outreach-<date>` | Claude Code routine (claude.ai) | Claude credits |
 | on push | | **ingest**: merge, re-check, render tailored resumes, queue emails, deliver India/Asia/other | GitHub Actions (`ingest.yml`) | free |
-| 08:00 | 13:30 | **deliver**: Europe/Africa/Middle East window | GitHub Actions (`volley.yml`) | free |
-| 14:00 | 19:30 | **deliver**: US/Americas window | GitHub Actions (`volley.yml`) | free |
+| 08:23 | 13:53 | **deliver**: Europe/Africa/Middle East window | GitHub Actions (`volley.yml`) | free |
+| 09:30 | 15:00 | **routine (fallback)**: stops at once (`ALREADY DONE`) unless the batch was late, then does the day's work | Claude Code routine | a few cents when idle |
+| 14:23 | 19:53 | **deliver**: US/Americas window | GitHub Actions (`volley.yml`) | free |
 
 Emails wait in the queue (`status: queued`) until their region's window so they arrive around
-9-11am local time, which is when cold emails get read.
+9-11am local time, which is when cold emails get read. A window counts as open from 2 hours before
+its hour until the end of the UTC day, so an email whose window already passed (a late cron, a
+late routine) goes out on the next deliver run instead of waiting forever.
+
+GitHub Actions schedules are best effort: runs at the top of the hour are often delayed by hours or
+dropped. That is why every cron here is off the hour, `prepare` has a backup, and the routine has a
+fallback fire.
 
 ## 3. Step by step
 
@@ -247,7 +255,7 @@ new ──prepare──> researching ──routine/ingest──> queued ──de
 | `volley/store.py` | leads.json, tracker.csv, TRACKER.md |
 | `resume/template.tex` | your Overleaf resume template; `volley/tailor.py` fills the body from `config/resume.json` |
 | `test/<case>/` | hand-written test cases for `volley test-send` / the manual `test-email` workflow |
-| `.github/workflows/volley.yml` | prepare (02:00) and deliver (08:00, 14:00), plus manual runs |
+| `.github/workflows/volley.yml` | prepare (00:17, backup 01:47) and deliver (08:23, 14:23), plus manual runs |
 | `.github/workflows/ingest.yml` | runs when the routine pushes |
 
 ## 11. Setup
@@ -263,7 +271,7 @@ new ──prepare──> researching ──routine/ingest──> queued ──de
 5. **Claude GitHub App:** https://github.com/apps/claude → Configure → add the `volley` repository.
 6. **Routine:** https://claude.ai/code/routines → New routine:
    name `volley daily outreach` · repository `adityamittal-dot/volley` · environment Default ·
-   no connectors · model **Sonnet** · schedule weekdays 08:30 · prompt:
+   no connectors · model **Sonnet** · schedule cron `30 4,9 * * 1-5` (UTC: 10:00 IST, plus a 15:00 IST fallback) · prompt:
    `Follow OUTREACH.md exactly and push today's outreach.`
 7. **First test:** Actions → volley → Run workflow → command `prepare`; when it's green, press
    **Run now** on the routine; then watch Actions → ingest, and check your Gmail Drafts.
