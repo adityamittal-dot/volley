@@ -22,7 +22,7 @@ SITE_CHARS = 4000
 DESC_CHARS = 2500
 ANALYSIS_KEYS = {"id": str, "relevant": bool, "summary": str, "stack": list, "hook": str, "angle": str,
                  "angle_reason": str, "fit": int, "region": str, "people": list, "contact_email": str,
-                 "contact_name": str, "contact_role": str}
+                 "contact_name": str, "contact_role": str, "red_flags": list}
 REGIONS = {"india", "asia", "europe", "africa", "middle_east", "us", "americas", "other"}
 log = pipeline.log
 
@@ -89,20 +89,24 @@ def research_batch(leads, s, slots):
         if l["status"] == "new" and _name(l["company"]) in emailed:
             l["status"], l["note"] = "skipped", "already emailed under another listing"
     want = math.ceil(slots * s["research_factor"])
-    pool = sorted((l for l in leads.values() if l["status"] == "new"), key=lambda l: l["score"], reverse=True)
+    pool = sorted((l for l in leads.values() if l["status"] == "new"),
+                  key=lambda l: (l.get("priority", 0), l["score"]), reverse=True)
     batch = []
     for lead in pool:
         if len(batch) >= want:
             break
         log(f"research: {lead['company']} (score {lead['score']})")
         research.research(lead)
-        # No address anywhere almost never ends in an email (tested: 0 of 3), so don't spend credits on it.
-        if not lead["candidates"]:
+        # Stored so the routine's sandbox and Actions resolve the same contact without DNS.
+        lead["domain_mx"] = bool(lead.get("domain")) and research.has_mx(lead["domain"])
+        # No address anywhere almost never ends in an email (tested: 0 of 3), so don't spend credits on it —
+        # unless it's a priority NCR lead with a real site and a working mailserver: the analyst can still
+        # name a founder on the site for a pattern guess.
+        keep_blind = lead.get("priority", 0) >= 1 and lead.get("site") and lead["domain_mx"]
+        if not lead["candidates"] and not keep_blind:
             lead["status"] = "no_contact"
             lead.pop("site", None)
             continue
-        # Stored so the routine's sandbox and Actions resolve the same contact without DNS.
-        lead["domain_mx"] = bool(lead.get("domain")) and research.has_mx(lead["domain"])
         lead["status"], lead["batch"] = "researching", today()
         batch.append(lead)
     return batch
@@ -122,6 +126,7 @@ def write_batch(batch):
                 "posted_at": l.get("posted_at"), "posting": (l.get("description") or "")[:DESC_CHARS],
                 "site_text": (l.pop("site", "") or "")[:SITE_CHARS],
                 "email_candidates": [{"email": e, **v} for e, v in l.get("candidates", {}).items()],
+                "pay": l.get("pay"), "priority": l.get("priority", 0), "priority_note": l.get("priority_note", ""),
             })
         (day / f"batch-{n // CHUNK + 1}.json").write_text(json.dumps({"leads": chunk}, indent=1, ensure_ascii=False))
 
@@ -190,6 +195,8 @@ def shortlist(day=None, show=True):
         lead = leads.get(lid)
         if not lead or lid not in batch or not a.get("relevant") or a.get("fit", 0) < s["min_fit"]:
             continue
+        if a.get("red_flags"):
+            continue
         if _name(lead["company"]) in emailed:
             continue
         contact = pipeline.pick_contact(lead, _AnalysisView(a), s)
@@ -198,15 +205,20 @@ def shortlist(day=None, show=True):
         used.add(contact["email"])
         ok, why = tailor.eligibility(lead, a, contact)
         rows.append({"id": lid, "company": lead["company"], "fit": a["fit"], "angle": a["angle"],
-                     "contact": contact, "tailor_eligible": ok, "tailor_note": why})
+                     "contact": contact, "tailor_eligible": ok, "tailor_note": why,
+                     "priority": lead.get("priority", 0), "priority_note": lead.get("priority_note", ""),
+                     "pay": lead.get("pay")})
     rank = pipeline.CONFIDENCE_RANK
-    rows.sort(key=lambda r: (r["fit"], rank.get(r["contact"]["confidence"], 0)), reverse=True)
+    rows.sort(key=lambda r: (r["priority"], r["fit"], rank.get(r["contact"]["confidence"], 0)), reverse=True)
     backlog = sum(1 for l in leads.values() if l["status"] == "queued")
     rows = rows[:max(0, s["daily_new"] - store.delivered_on(leads, day) - backlog)]
     if show:
         for r in rows:
             a, c = analysis[r["id"]], r["contact"]
-            print(f"\n## {r['id']} | {r['company']} | fit {r['fit']} | angle {r['angle']}\n"
+            pay = f"{r['pay']['max'] / 100000:g} LPA" if r["pay"] and r["pay"]["period"] == "year" \
+                else f"₹{r['pay']['max']:,}/mo" if r["pay"] else "?"
+            print(f"\n## {r['id']} | {r['company']} | fit {r['fit']} | angle {r['angle']} | "
+                  f"priority {r['priority']} ({r['priority_note'] or '-'}) | pay {pay}\n"
                   f"to: {c.get('name') or '?'} <{c['email']}> ({c.get('role') or '?'}; {c['confidence']})\n"
                   f"role posted: {batch[r['id']]['title']}\nwhat they do: {a['summary']}\n"
                   f"stack: {', '.join(a['stack']) or '?'}\nhook: {a['hook']}\nwhy this angle: {a['angle_reason']}\n"

@@ -1,6 +1,8 @@
 # volley
 
-Finds startups that are hiring, works out who to email and what to say, and sends ~20 short, researched cold emails a day asking for an internship or entry-level role. Follow-ups, reply tracking, a progress tracker, and resume tailoring when (and only when) it pays off.
+Finds startups that are hiring, works out who to email and what to say, and sends ~30 short, researched cold emails a day asking for an internship or entry-level role. Follow-ups, reply tracking, a progress tracker, and resume tailoring when (and only when) it pays off.
+
+**NCR priority:** the candidate is based in Noida, so Delhi NCR (Gurgaon/Gurugram, Noida, Delhi) leads that pay well are pushed to the front — `config/settings.yaml`'s `priority` block sets the pay floor/target (₹8/10 LPA, ₹25k/40k stipend). This includes niche startups that never post an opening: GitHub orgs based in NCR that are still actively shipping, and NCR startups that just closed a funding round.
 
 **Progress:** [TRACKER.md](TRACKER.md) (summary) · [data/tracker.csv](data/tracker.csv) (every lead, sortable on GitHub)
 
@@ -8,7 +10,7 @@ Finds startups that are hiring, works out who to email and what to say, and send
 
 ```
 00:17 UTC  GitHub Actions: prepare (+01:47 backup)  (free)
-           sync Gmail -> follow-ups -> 9 job feeds -> score & dedupe -> crawl sites + GitHub for contacts
+           sync Gmail -> follow-ups -> 12 job feeds -> score & dedupe -> crawl sites + GitHub for contacts
            -> work/<date>/batch-N.json
 
 10:00 IST  Claude routine: OUTREACH.md             (Claude credits; 15:00 IST fallback fire)
@@ -23,7 +25,7 @@ on push    GitHub Actions: ingest                 (free)
            Europe / US send windows, so emails land ~9-11am local
 ```
 
-- **Sources:** HN Who is Hiring, YC hiring companies, Unstop (India), Simplify internships + new grad, RemoteOK, Remotive, Arbeitnow, Jobicy, Himalayas. Senior, non-engineering and US-only roles are dropped; the rest are scored on entry-level signals, stack overlap, recency, India/remote, and whether an email is in the post.
+- **Sources:** HN Who is Hiring, YC hiring companies (including NCR-based YC startups with no open listing), Unstop (India), Internshala (India, NCR + pay floor), GitHub orgs (NCR startups that never post a job, kept if they're still shipping and link a real site), Entrackr/Inc42 funding news (NCR startups that just raised), Simplify internships + new grad, RemoteOK, Remotive, Arbeitnow, Jobicy, Himalayas. Senior, non-engineering and US-only roles are dropped; the rest are scored on entry-level signals, stack overlap, recency, NCR/India/remote, and whether an email is in the post.
 - **Contacts:** the posting's own address > founder/CTO > engineers at small startups (from GitHub commits) > careers@. Every domain is MX-checked; support@/privacy@/sales@ etc. are never used. Founder addresses may be pattern-guessed (flagged `guessed`).
 - **Emails:** under 90 words, one specific observation, one project + link, one easy question, the resume PDF attached. `volley/humanize.py` rejects AI tells before anything is pushed.
 - **Follow-ups:** day 4 (second project + GitHub) and day 10 (who should I talk to?), same thread, templated, free. Replies from anyone at the company stop the sequence.
@@ -57,7 +59,7 @@ python -m venv .venv && .venv/bin/pip install -r requirements.txt
 
 ## Volume and cost
 
-20 new emails per weekday. Sep 28 - Nov 10 is 32 weekdays: ~640 first emails plus ~1,000 follow-ups. The routine reads ~40 leads/day with Haiku and writes ~20 emails with Sonnet, roughly $0.40-0.60 of credits a day. Everything else runs free on Actions. After `credits_until` (2026-11-10) no new batches are prepared; follow-ups and reply tracking keep running.
+25 new emails per weekday. Sep 29 - Nov 10 is 31 weekdays: ~775 first emails plus follow-ups. The routine reads ~50 leads/day with Haiku and writes ~25 emails with Sonnet, roughly $0.50-0.75 of credits a day. Everything else runs free on Actions. After `credits_until` (2026-11-10) no new batches are prepared; follow-ups and reply tracking keep running.
 
 Fallback: set `engine: api` in `config/settings.yaml` plus an `ANTHROPIC_API_KEY` secret and the prepare run does the whole thing through the Claude API instead (Haiku analyst, Sonnet writer, hard daily budget cap).
 

@@ -6,6 +6,7 @@ ones, isolating failures per source so one broken API doesn't kill the rest.
 """
 
 import html
+import os
 import re
 import time
 from datetime import datetime, timezone
@@ -100,13 +101,48 @@ def extract_emails(text):
     return out
 
 
-def _lead(company, title, raw_description, url, website, location, posted_at, source, extra_email_text=""):
+# ------------------------------------------------------------------ pay ----
+
+_LPA_RE = re.compile(r"(?:₹|rs\.?|inr)?\s*(\d{1,2}(?:\.\d+)?)\s*(?:(?:-|–|to)\s*(\d{1,2}(?:\.\d+)?)\s*)?"
+                     r"(?:lpa|lakhs? per annum|lakhs?\s*(?:/|per)\s*(?:year|annum)|l\s*/\s*(?:yr|year|annum))", re.I)
+_RUPEE_RE = re.compile(r"₹\s*([\d,]{4,})(?:\s*(?:-|–|to)\s*₹?\s*([\d,]{4,}))?\s*(?:/|per)\s*(year|annum|month)", re.I)
+
+
+def pay(period, lo, hi=None):
+    """{"period": "year"|"month", "min": INR, "max": INR}, or None when nothing usable was stated."""
+    lo, hi = int(lo or 0), int(hi or lo or 0)
+    if hi <= 0:
+        return None
+    return {"period": period, "min": lo or hi, "max": max(lo, hi)}
+
+
+def parse_pay(text):
+    """Stated Indian pay in free text: '₹ 10,00,000 - 12,00,000 /year', '₹ 40,000 /month', '8-12 LPA'."""
+    if not text:
+        return None
+    m = _RUPEE_RE.search(text)
+    if m:
+        n = lambda s: int(s.replace(",", "")) if s else 0
+        period = "month" if m.group(3).lower() == "month" else "year"
+        return pay(period, n(m.group(1)), n(m.group(2)))
+    m = _LPA_RE.search(text)
+    if m:
+        lo = float(m.group(1)); hi = float(m.group(2) or lo)
+        if 1 <= lo <= hi <= 99:
+            return pay("year", lo * 100000, hi * 100000)
+    return None
+
+
+def _lead(company, title, raw_description, url, website, location, posted_at, source, extra_email_text="",
+          pay=None, yc=False):
     """Build a lead dict. raw_description is scanned for emails BEFORE
     html-stripping (so mailto: links inside <a href> survive), then
     stripped/truncated for the description field.
     """
     emails = extract_emails((raw_description or "") + " " + (extra_email_text or ""))
     return {
+        "pay": pay or parse_pay(strip_html(raw_description)),
+        "yc": yc,
         "company": company or "",
         "title": title or "",
         "description": _desc(raw_description),
@@ -217,9 +253,20 @@ def fetch_hn_hiring():
 
 # ------------------------------------------------------------------ YC ----
 
+_NCR_RE = re.compile(r"gurgaon|gurugram|noida|delhi", re.I)
+
+
 def fetch_yc_hiring():
     r = _get("https://yc-oss.github.io/api/companies/hiring.json")
     companies = r.json()
+    # YC startups with an office in Delhi NCR are worth a cold email even without an open listing.
+    try:
+        hiring = {c.get("id") for c in companies}
+        companies += [c for c in _get("https://yc-oss.github.io/api/companies/all.json").json()
+                      if c.get("id") not in hiring and c.get("status") == "Active"
+                      and _NCR_RE.search(c.get("all_locations") or "")]
+    except (requests.RequestException, ValueError):
+        pass
 
     leads = []
     for c in companies:
@@ -243,10 +290,10 @@ def fetch_yc_hiring():
 
         url = c.get("url") or c.get("website") or ""
         website = c.get("website") or ""
-        regions = c.get("regions") or []
-        location = ", ".join(regions)
+        location = c.get("all_locations") or ", ".join(c.get("regions") or [])
 
-        leads.append(_lead(c.get("name", ""), title, description, url, website, location, None, "yc_hiring"))
+        leads.append(_lead(c.get("name", ""), title, description, url, website, location, None, "yc_hiring",
+                           yc=True))
     return leads
 
 
@@ -379,8 +426,26 @@ def fetch_himalayas():
 _UNSTOP_OPPORTUNITIES = ("internships", "jobs")
 _UNSTOP_TERMS = (
     "software engineer", "backend", "full stack", "python", "react",
-    "ai engineer", "sde", "node",
+    "ai engineer", "sde", "node", "software developer", "fresher", "graduate engineer",
 )
+
+
+def _unstop_pay(jd):
+    if not jd or jd.get("not_disclosed") or not jd.get("show_salary"):
+        return None
+    period = "month" if jd.get("pay_in") == "monthly" else "year"
+    return pay(period, jd.get("min_salary"), jd.get("max_salary"))
+
+
+def _unstop_experienced_only(it):
+    """Jobs whose eligibility lists only 2+ years of experience and no fresher batch."""
+    try:
+        import json
+        el = json.loads((it.get("regnRequirements") or {}).get("eligibility") or "{}")
+    except ValueError:
+        return False
+    years = [int(m) for x in el.get("experience") or [] for m in re.findall(r"^(\d+)", str(x))]
+    return bool(years) and min(years) >= 2 and not el.get("fresherPassoutYearsSelected")
 
 
 def fetch_unstop():
@@ -407,6 +472,8 @@ def fetch_unstop():
                 seen_ids.add(oid)
 
                 job_detail = it.get("jobDetail") or {}
+                if opportunity == "jobs" and _unstop_experienced_only(it):
+                    continue
                 paid_unpaid = job_detail.get("paid_unpaid")
                 if paid_unpaid == "unpaid":
                     continue
@@ -422,12 +489,223 @@ def fetch_unstop():
                 location = ", ".join(cities) if cities else "India"
                 posted_at = normalize_date(it.get("approved_date") or it.get("updated_at"))
 
+                title = it.get("title", "")
+                if opportunity == "internships" and "intern" not in title.lower():
+                    title += " (Internship)"
                 leads.append(_lead(
-                    company, it.get("title", ""), it.get("details", ""),
-                    post_url, "", location, posted_at, "unstop",
+                    company, title, it.get("details", ""),
+                    post_url, "", location, posted_at, "unstop", pay=_unstop_pay(job_detail),
                 ))
             time.sleep(0.3)
 
+    return leads
+
+
+# ----------------------------------------------------------- internshala --
+# India's largest internship/fresher board. Listing cards carry the stated salary or stipend; only cards
+# that clear the pay floor get their detail page fetched (full JD + the company's own website).
+
+_INTERNSHALA_CITIES = ("delhi", "gurgaon", "noida")
+_INTERNSHALA_PAGES = [f"https://internshala.com/{kind}/{cat}-{noun}-in-{city}/"
+                      for city in _INTERNSHALA_CITIES
+                      for kind, noun in (("fresher-jobs", "jobs"), ("internships", "internship"))
+                      for cat in ("computer-science", "software-development", "web-development")]
+_INTERNSHALA_FLOOR = {"year": 800000, "month": 25000}   # overridden by settings.priority via fetch_all
+_AGO_RE = re.compile(r"(\d+|a|few)\s*(hour|day|week|month)s?\s*ago|just now|today", re.I)
+
+
+def _internshala_posted(text):
+    m = _AGO_RE.search(text or "")
+    if not m:
+        return None
+    if not m.group(1):
+        return normalize_date(int(time.time()))
+    n = 1 if m.group(1).lower() in ("a", "few") else int(m.group(1))
+    unit = {"hour": 3600, "day": 86400, "week": 7 * 86400, "month": 30 * 86400}[m.group(2).lower()]
+    return normalize_date(int(time.time() - n * unit))
+
+
+def fetch_internshala():
+    from bs4 import BeautifulSoup
+    cards, seen = [], set()
+    for url in _INTERNSHALA_PAGES:
+        try:
+            soup = BeautifulSoup(_get(url).text, "html.parser")
+        except requests.RequestException:
+            continue
+        for c in soup.select(".individual_internship[data-href]"):
+            href = c["data-href"]
+            if href in seen:
+                continue
+            seen.add(href)
+            text = lambda sel: (c.select_one(sel).get_text(" ", strip=True) if c.select_one(sel) else "")
+            money = text(".row-1-item .mobile") or text(".stipend")
+            p = parse_pay(money + (" /month" if "internship" in url and "/" not in money else ""))
+            if not p or p["max"] < _INTERNSHALA_FLOOR[p["period"]]:
+                continue
+            cards.append({"href": href, "title": text(".job-internship-name"), "company": text(".company-name"),
+                          "location": text(".locations"), "pay": p, "internship": "/internship/" in href,
+                          "posted": _internshala_posted(text(".status-info") or text(".status-inactive"))})
+        time.sleep(0.5)
+
+    leads = []
+    for card in cards:
+        detail_url = "https://internshala.com" + card["href"]
+        desc, website = "", ""
+        try:
+            soup = BeautifulSoup(_get(detail_url).text, "html.parser")
+            d = soup.select_one(".internship_details")
+            desc = d.get_text(" ", strip=True) if d else ""
+            a = soup.select_one(".website_link a")
+            website = a["href"] if a and a.get("href", "").startswith("http") else ""
+        except requests.RequestException:
+            pass
+        title = card["title"] + (" Internship" if card["internship"] and "intern" not in card["title"].lower() else "")
+        leads.append(_lead(card["company"], title, desc, detail_url, website, card["location"], card["posted"],
+                           "internshala", pay=card["pay"]))
+        time.sleep(0.5)
+    return leads
+
+
+# ------------------------------------------------------------ github_orgs --
+# Niche NCR startups that never post an opening: found by org location on GitHub, kept only if they
+# still ship (a repo pushed in the last 180 days) and link a real company site.
+
+_GH_CITIES = ("gurgaon", "gurugram", "noida", "delhi", "new delhi")
+_GH_ORG_CAP = 100
+_GH_PUSH_CUTOFF_SECONDS = 180 * 86400
+_NOT_A_SITE_HOSTS = (
+    "github.com", "github.io", "linkedin.com", "twitter.com", "x.com", "facebook.com", "instagram.com",
+    "medium.com", "notion.site", "linktr.ee", "angel.co", "wellfound.com", "indeed.com", "glassdoor.com",
+    "naukri.com", "crunchbase.com", "bit.ly", "t.me", "youtube.com",
+)
+
+
+def _gh_headers():
+    h = {"Accept": "application/vnd.github+json"}
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        h["Authorization"] = f"Bearer {token}"
+    return h
+
+
+def _gh_is_real_site(url):
+    if not url:
+        return False
+    host = urlparse(url if "//" in url else f"https://{url}").netloc.lower()
+    return bool(host) and not any(j in host for j in _NOT_A_SITE_HOSTS)
+
+
+def fetch_github_orgs():
+    headers = _gh_headers()
+    logins, seen = [], set()
+    for city in _GH_CITIES:
+        if len(logins) >= _GH_ORG_CAP:
+            break
+        try:
+            r = _get(f"https://api.github.com/search/users?q=type:org+location:{quote(city)}+repos:%3E2&per_page=50",
+                     headers=headers)
+        except requests.RequestException:
+            continue
+        for item in r.json().get("items", []):
+            login = item.get("login")
+            if login and login not in seen:
+                seen.add(login)
+                logins.append(login)
+
+    leads = []
+    cutoff = time.time() - _GH_PUSH_CUTOFF_SECONDS
+    for login in logins[:_GH_ORG_CAP]:
+        try:
+            org = _get(f"https://api.github.com/orgs/{login}", headers=headers).json()
+            website = org.get("blog") or ""
+            if not _gh_is_real_site(website):
+                continue
+            repos = _get(f"https://api.github.com/orgs/{login}/repos?sort=pushed&per_page=5",
+                         headers=headers).json()
+        except requests.RequestException:
+            continue
+        if not repos:
+            continue
+        pushed_at = normalize_date(repos[0].get("pushed_at"))
+        try:
+            pushed_secs = datetime.fromisoformat(pushed_at.replace("Z", "+00:00")).timestamp() if pushed_at else 0
+        except ValueError:
+            pushed_secs = 0
+        if pushed_secs < cutoff:
+            continue
+
+        langs = sorted({r.get("language") for r in repos if r.get("language")})
+        topics = sorted({t for r in repos for t in (r.get("topics") or [])})
+        parts = [org.get("description") or ""]
+        if langs:
+            parts.append("Languages: " + ", ".join(langs))
+        if topics:
+            parts.append("Topics: " + ", ".join(topics))
+        description = ". ".join(p for p in parts if p)
+        website_url = website if website.startswith("http") else f"https://{website}"
+        leads.append(_lead(
+            org.get("name") or login, "Software Engineering (no public opening)", description,
+            f"https://github.com/{login}", website_url, org.get("location") or "", None, "github_orgs",
+            extra_email_text=org.get("email") or "", yc=False,
+        ))
+    return leads
+
+
+# ------------------------------------------------------------- funding_news --
+# Freshly-funded NCR startups: worth a cold email before they're flooded with applicants, even though
+# they haven't posted an opening yet.
+
+_FUNDING_FEEDS = ("https://entrackr.com/feed", "https://inc42.com/feed/")
+_FUNDING_PATTERN = re.compile(r"raises|secures|bags|funding", re.I)
+_FUNDING_SPLIT = re.compile(r"\s+(raises|secures|bags)\b", re.I)
+_FUNDING_DESCRIPTOR = re.compile(
+    r"^(gurgaon|gurugram|noida|new delhi|delhi)(?:-based|['’]s)?\s*"
+    r"(?:fintech|startup|edtech|healthtech|saas|foodtech|agritech|d2c|ai)?\s*", re.I)
+_FUNDING_CUTOFF_SECONDS = 90 * 86400
+
+
+def _funding_company(title):
+    m = _FUNDING_SPLIT.search(title)
+    name = title[:m.start()] if m else title.split(" funding")[0]
+    return _FUNDING_DESCRIPTOR.sub("", name).strip(" :-’'")
+
+
+def fetch_funding_news():
+    import xml.etree.ElementTree as ET
+    from email.utils import parsedate_to_datetime
+
+    leads = []
+    cutoff = time.time() - _FUNDING_CUTOFF_SECONDS
+    for feed_url in _FUNDING_FEEDS:
+        try:
+            root = ET.fromstring(_get(feed_url).content)
+        except (requests.RequestException, ET.ParseError):
+            continue
+        for item in root.findall(".//item"):
+            title = (item.findtext("title") or "").strip()
+            if not title or not _FUNDING_PATTERN.search(title):
+                continue
+            desc = strip_html(item.findtext("description") or "")
+            if not _NCR_RE.search(title + " " + desc):
+                continue
+            try:
+                dt = parsedate_to_datetime(item.findtext("pubDate") or "")
+            except (TypeError, ValueError):
+                dt = None
+            if not dt:
+                continue
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            if dt.timestamp() < cutoff:
+                continue
+            company = _funding_company(title)
+            if not company:
+                continue
+            posted_at = dt.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+            link = item.findtext("link") or ""
+            leads.append(_lead(company, "Software Engineering (recently funded)", desc, link, "", "",
+                               posted_at, "funding_news"))
     return leads
 
 
@@ -521,11 +799,16 @@ _SOURCES = {
     "jobicy": fetch_jobicy,
     "himalayas": fetch_himalayas,
     "unstop": fetch_unstop,
+    "internshala": fetch_internshala,
+    "github_orgs": fetch_github_orgs,
+    "funding_news": fetch_funding_news,
     "simplify": fetch_simplify,
 }
 
 
-def fetch_all(enabled: dict, log=print) -> list:
+def fetch_all(enabled: dict, log=print, priority=None) -> list:
+    if priority:
+        _INTERNSHALA_FLOOR.update(year=priority["min_lpa"] * 100000, month=priority["min_stipend"])
     all_leads = []
     for key, fn in _SOURCES.items():
         if not enabled.get(key):

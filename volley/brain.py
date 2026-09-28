@@ -28,6 +28,7 @@ class Analysis(BaseModel):
     contact_email: str
     contact_name: str
     contact_role: str
+    red_flags: list[str]
 
 
 class Email(BaseModel):

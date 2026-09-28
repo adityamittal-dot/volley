@@ -22,8 +22,8 @@ prompt (fill in N and the date):
 > Read `prompts/analyst.md` (your instructions), `config/profile.yaml` (the candidate), and
 > `work/<date>/batch-N.json`. For every lead in the batch file write one analysis object with exactly these
 > keys: id, relevant (bool), summary, stack (list), hook, angle, angle_reason, fit (int 1-10), region,
-> people (list of {name, role}), contact_email, contact_name, contact_role. contact_email must be copied
-> exactly from that lead's email_candidates or be "". Save `{"leads": [...]}` to
+> people (list of {name, role}), contact_email, contact_name, contact_role, red_flags (list, empty if none).
+> contact_email must be copied exactly from that lead's email_candidates or be "". Save `{"leads": [...]}` to
 > `work/<date>/analysis-N.json`. Do not browse the web. Reply only "done N".
 
 When all are done, run `python -m volley check` once. Fix any **analysis** problems it lists yourself
@@ -34,12 +34,19 @@ When all are done, run `python -m volley check` once. Fix any **analysis** probl
 python -m volley shortlist
 ```
 This is the final list for today: each lead with its resolved contact, the hook, the chosen project
-(angle), and whether resume tailoring is ELIGIBLE. Write an email for every lead on it, nothing else.
+(angle), priority tier and note (e.g. `priority 2 (Noida · 12 LPA)`), stated pay, and whether resume
+tailoring is ELIGIBLE. Write an email for every lead on it, nothing else. Leads are already ordered
+priority first — Delhi NCR leads that pay well come before everything else.
 
 ## 3. Write the emails yourself
 Load the `cold-email-humanizer` skill (`.claude/skills/cold-email-humanizer/SKILL.md`) and follow it for
 every email. Use `config/profile.yaml` for facts about the candidate (never invent anything) and the
 project link for the chosen angle as the one link in the body.
+
+For a Delhi NCR lead (priority >= 1), add one short line that the candidate is based in Noida and can work
+from their office — don't force it if the email already reads naturally without it. For a lead with no
+listed opening (source note says "no public opening" or "recently funded"), never claim there's a posting;
+instead ask whether they take engineering interns or juniors.
 
 Save `work/<date>/emails.json`:
 ```json

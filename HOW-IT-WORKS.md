@@ -27,7 +27,7 @@ how to run and tune it, and what to do when something breaks.
 
 Get interviews for internships and entry-level engineering roles (2027 grad) by emailing the people who
 actually hire at startups (founders, CTOs, engineering leads, recruiters) with a short, specific,
-human email, 20 new companies per weekday, and following up automatically.
+human email, 25 new companies per weekday, and following up automatically.
 
 ## 2. The daily timeline
 
@@ -60,8 +60,11 @@ Pulls every source, no keys needed:
 | Source | What it gives |
 |---|---|
 | HN "Who is hiring?" (monthly) | startup postings, often with a founder's email right in the text |
-| YC companies hiring (yc-oss) | ~1,400 YC startups with website and team size |
+| YC companies hiring (yc-oss) | ~1,400 YC startups with website and team size, plus any *Active* YC startup with an NCR office even if it isn't listed as hiring |
 | Unstop | Indian internships and fresher jobs |
+| Internshala | Indian internships/fresher jobs, filtered to NCR cities and the pay floor before the detail page is even fetched |
+| GitHub orgs | niche NCR startups that never post an opening — found by org location, kept only if a repo shipped in the last 180 days and the org links a real site |
+| Entrackr / Inc42 funding news | NCR startups that just closed a round — worth a cold email before they're flooded with applicants |
 | Simplify (Summer 2027 internships, New Grad) | US-heavy internship/new-grad list, last 30 days only |
 | RemoteOK, Remotive, Arbeitnow, Jobicy, Himalayas | remote and EU postings |
 
@@ -69,16 +72,23 @@ Reddit and Lever block automated access, so they're not used.
 
 Each posting is scored without any LLM (`pipeline.heuristic`):
 - dropped: senior/staff/lead/manager/II titles, non-engineering (sales, design, QA/SDET...), 3+ years
-  required without an entry-level signal, postings older than 30 days;
+  required without an entry-level signal, postings older than 30 days, stated pay below the NCR floor;
 - points for: entry-level words (intern, new grad, junior, fresher...) +4, engineering role +2, your
   stack keywords (up to +3), freshness (+3 today, +2 ≤3 days, +1 ≤7), an email in the post +3,
-  India +2 or remote +1, YC team ≤ 50 +1; US-only/clearance −3.
+  a Delhi NCR city +5 (else India +2, remote +1), YC team ≤ 50 +1, YC +2, stated pay at/above target +6
+  (else +3 if it clears the floor); US-only/clearance −3.
+
+**NCR priority:** the candidate is based in Noida, so `config/settings.yaml`'s `priority` block (NCR cities,
+pay floor/target in LPA and monthly stipend) sets a `priority` tier on every lead — 2 for an NCR lead
+with stated pay at or above target, 1 for an NCR lead that clears the pay floor (or has no stated pay but
+a good-company signal: YC, a shipping GitHub org, or fresh funding), 0 otherwise. The tier sorts ahead of
+fit everywhere a lead queue is ordered (the batch, the shortlist, delivery).
 
 Companies are deduplicated by domain (or name), so a company is never emailed twice. Only the best
 400 unworked leads are kept; the rest are rediscovered tomorrow if still posted.
 
 ### 3.2 Research (`volley/research.py`)
-For the top `20 × 2 = 40` leads (leads with no email address anywhere are dropped here, before any credits are spent):
+For the top `30 × 2 = 60` leads (leads with no email address anywhere are dropped here, before any credits are spent — unless it's a priority NCR lead with a crawlable site and a working mailserver, kept for a founder pattern-guess):
 1. Find the company domain if the posting has none (Clearbit's free name → domain lookup, exact name match only).
 2. Crawl the homepage plus up to 5 about/team/careers/contact/blog pages (Jina Reader for JavaScript sites).
 3. Collect every email: `mailto:` links, visible text, obfuscated `name [at] company [dot] com`.
@@ -95,12 +105,15 @@ One Haiku sub-agent per batch file decides for each company:
 - `fit` 1-10 and the recipient's `region`;
 - `people` named on the site and the best `contact_email` from the candidates, in this order:
   address the posting says to email > founder/CTO/eng lead > engineer's company email at a startup < 50 people > careers@/jobs@/founders@ > hello@ (tiny startups only).
+- `red_flags`: any fee/deposit/bond ask, a staffing agency hiring "for a client", discriminatory wording,
+  unpaid/commission-only, no real product, or stated fresher pay below ₹8 LPA. A company with any flag is
+  never emailed, whatever else looks good.
 
 ### 3.4 Shortlist (`volley shortlist`, code)
-Keeps leads with `relevant` and fit ≥ 6, resolves the contact (if no address was found, a founder's
-address is guessed from the company's email pattern, e.g. `first@domain`, marked `guessed`), removes
-anyone already emailed, ranks by fit and contact quality, and cuts to today's open slots. It also
-marks each lead tailoring-**ELIGIBLE** or not (see section 5).
+Keeps leads with `relevant`, fit ≥ 6, and no `red_flags`, resolves the contact (if no address was found, a
+founder's address is guessed from the company's email pattern, e.g. `first@domain`, marked `guessed`),
+removes anyone already emailed, ranks by priority tier first, then fit and contact quality, and cuts to
+today's open slots. It also marks each lead tailoring-**ELIGIBLE** or not (see section 5).
 
 ### 3.5 Write (the routine's main session, Sonnet, `.claude/skills/cold-email-humanizer`)
 One email per shortlisted lead into `work/<date>/emails.json`. See section 6 for the rules.
@@ -125,18 +138,18 @@ Resume: <resume_url>            (or "Resume attached · GitHub: ..." when a tail
 ```
 
 In `draft` mode emails go to your Gmail Drafts; the next sync notices when you've sent them.
-In `send` mode volley sends them itself, 20-60 seconds apart.
+In `send` mode volley sends them itself, 10-30 seconds apart (so 30 sends fit the send window).
 
 ## 4. Who does what: models and cost
 
 | Task | Who | Why |
 |---|---|---|
 | Fetch feeds, score, dedupe, crawl sites, find emails, MX checks | GitHub Actions (Python, no LLM) | free; deterministic work needs no model |
-| Read ~40 companies, pick contact, hook, angle, fit | **Haiku** sub-agents | reading and extraction is what cheap models are good at |
-| Write ~20 emails, decide/tailor resumes | **Sonnet** (routine main session) | the one thing people actually read |
+| Read ~60 companies, pick contact, hook, angle, fit, red flags | **Haiku** sub-agents | reading and extraction is what cheap models are good at |
+| Write ~25 emails, decide/tailor resumes | **Sonnet** (routine main session) | the one thing people actually read |
 | Humanizer scan, truth checks, rendering, sending, follow-ups, reply tracking | code | free and exact |
 
-Rough credit use: $0.40-0.60 per weekday → ~$15-19 for 32 weekdays, inside the $20 you have. Watch real
+Rough credit use: $0.60-0.90 per weekday → ~$20-29 for 32 weekdays. Watch real
 usage at claude.ai; if it runs hot, lower `daily_new` or `research_factor`.
 
 The optional **API engine** (`engine: api` + `ANTHROPIC_API_KEY`) runs the same analysis/writing through
@@ -293,7 +306,7 @@ new ──prepare──> researching ──routine/ingest──> queued ──de
 | Key | Default | Meaning |
 |---|---|---|
 | `mode` | draft | `draft` = Gmail Drafts, `send` = send automatically |
-| `daily_new` | 20 | new first emails per day |
+| `daily_new` | 25 | new first emails per day |
 | `send_days` | Mon-Fri | days that send (0 = Monday) |
 | `followup_days` | [4, 10] | follow-up schedule |
 | `min_fit` | 6 | analyst fit below this is skipped |
@@ -305,6 +318,7 @@ new ──prepare──> researching ──routine/ingest──> queued ──de
 | `credits_until` | 2026-11-10 | no new batches after this date |
 | `models`, `daily_budget_usd` | | API engine only |
 | `sources` | all on | toggle each feed |
+| `priority` | cities, pay floor/target | Delhi NCR cities and INR pay floor/target (LPA, monthly stipend) that drive the priority tier |
 
 ## 14. Safety rails
 
@@ -330,7 +344,7 @@ new ──prepare──> researching ──routine/ingest──> queued ──de
 ## 16. Volume plan until 10 Nov 2026
 
 - 32 weekdays from Mon 28 Sep to Tue 10 Nov.
-- 20 first emails/day → **~640 companies** contacted.
+- 30 first emails/day → **~960 companies** contacted.
 - Follow-ups (free): ~600 day-4 + ~480 day-10 minus replies/bounces → **~1,000 more emails**.
 - Total ≈ **1,650 emails**, with Claude credits used only for the ~640 first emails (+ analysis).
 - After 10 Nov no new batches are prepared; follow-ups and reply tracking keep running until the

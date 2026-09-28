@@ -40,9 +40,27 @@ def lead_domain(raw):
     return ""
 
 
-def heuristic(raw, p, max_age):
-    """Cheap pre-LLM priority. None means drop."""
-    t = p["target"]
+_GOOD_SIGNAL_SOURCES = ("github_orgs", "funding_news")
+
+
+def _priority_note(ncr_city, pay, raw):
+    parts = []
+    if ncr_city:
+        parts.append(ncr_city.title())
+    if pay:
+        parts.append(f"{pay['max'] / 100000:g} LPA" if pay["period"] == "year" else f"₹{pay['max']:,}/mo")
+    if raw.get("yc"):
+        parts.append("YC")
+    if raw["source"] == "github_orgs":
+        parts.append("active GitHub org, no posting")
+    if raw["source"] == "funding_news":
+        parts.append("recently funded")
+    return " · ".join(parts)
+
+
+def heuristic(raw, p, s, max_age):
+    """Cheap pre-LLM priority. None means drop. Also sets raw['priority']/raw['priority_note']."""
+    t, pr = p["target"], s["priority"]
     title = (raw.get("title") or "").lower()
     desc = (raw.get("description") or "").lower()
     head = title + " " + desc[:400]
@@ -50,11 +68,20 @@ def heuristic(raw, p, max_age):
         return None
     entry = any(x in head for x in t["entry_signals"])
     role = any(x in (head if raw["source"] in ("hn_hiring", "yc_hiring") else title) for x in t["roles"])
+    role = role or raw["source"] in _GOOD_SIGNAL_SOURCES   # these have no title to match: they always count
     if not (entry or role):
         return None
     years = [int(m.group(1)) for m in EXPERIENCE.finditer(desc)]
     if years and min(years) >= 3 and not entry:
         return None
+
+    pay, target = raw.get("pay"), None
+    if pay:
+        floor = pr["min_stipend"] if pay["period"] == "month" else pr["min_lpa"] * 100000
+        target = pr["target_stipend"] if pay["period"] == "month" else pr["target_lpa"] * 100000
+        if pay["max"] < floor:
+            return None
+
     score = (4 if entry else 0) + (2 if role else 0)
     score += min(3, 0.5 * sum(1 for k in t["stack_keywords"] if k in head + desc[:2000]))
     posted = store.parse_iso(raw.get("posted_at"))
@@ -68,7 +95,10 @@ def heuristic(raw, p, max_age):
     if raw.get("emails"):
         score += 3
     loc = (raw.get("location") or "").lower() + " " + desc[:600]
-    if "india" in loc or "bangalore" in loc or "bengaluru" in loc or "noida" in loc or "gurgaon" in loc:
+    ncr_city = next((c for c in pr["cities"] if c in loc), None)
+    if ncr_city:
+        score += 5
+    elif "india" in loc or "bangalore" in loc or "bengaluru" in loc:
         score += 2
     elif re.search(r"\b(remote|anywhere|worldwide|global)\b", loc):
         score += 1
@@ -77,17 +107,34 @@ def heuristic(raw, p, max_age):
     m = re.search(r"team size: (\d+)", desc)
     if m and int(m.group(1)) <= 50:
         score += 1
+    if raw.get("yc"):
+        score += 2
+    if pay:
+        score += 6 if pay["max"] >= target else 3
+
+    good_signal = raw.get("yc") or raw["source"] in _GOOD_SIGNAL_SOURCES or \
+                  (raw["source"] in ("unstop", "internshala") and pay is not None)
+    if not ncr_city:
+        tier = 0
+    elif pay and pay["max"] >= target:
+        tier = 2
+    elif pay or good_signal:
+        tier = 1
+    else:
+        tier = 0
+    raw["priority"] = tier
+    raw["priority_note"] = _priority_note(ncr_city, pay, raw)
     return round(score, 1)
 
 
 def discover(leads, s, p):
-    raw_leads = sources.fetch_all(s["sources"], log=log)
+    raw_leads = sources.fetch_all(s["sources"], log=log, priority=s["priority"])
     added = 0
     for raw in raw_leads:
         raw["company"] = (raw.get("company") or "").strip()
         if not raw["company"] or raw["company"].lower() == "unknown":
             continue
-        score = heuristic(raw, p, s["lead_max_age_days"])
+        score = heuristic(raw, p, s, s["lead_max_age_days"])
         if score is None:
             continue
         domain = lead_domain(raw)
@@ -97,14 +144,17 @@ def discover(leads, s, p):
             # Same company again: keep the richer posting if we haven't worked it yet.
             if existing["status"] == "new" and score > existing.get("score", 0):
                 existing.update(title=raw["title"], url=raw["url"], description=raw["description"],
-                                emails=sorted(set(existing.get("emails", [])) | set(raw["emails"])), score=score)
+                                emails=sorted(set(existing.get("emails", [])) | set(raw["emails"])), score=score,
+                                pay=raw.get("pay"), yc=raw.get("yc", False),
+                                priority=raw["priority"], priority_note=raw["priority_note"])
             continue
         leads[key] = {
             "id": key, "company": raw["company"], "title": raw["title"], "url": raw["url"],
             "website": raw["website"] or (f"https://{domain}" if domain else ""), "domain": domain,
             "location": raw["location"], "description": raw["description"][:2000], "emails": raw["emails"],
             "source": raw["source"], "posted_at": raw["posted_at"], "found_at": store.iso(),
-            "score": score, "status": "new",
+            "score": score, "status": "new", "pay": raw.get("pay"), "yc": raw.get("yc", False),
+            "priority": raw["priority"], "priority_note": raw["priority_note"],
         }
         added += 1
     # Unworked leads are cheap to rediscover; keep only the best ones so leads.json stays small.
@@ -176,6 +226,10 @@ def process(leads, s, p, slots):
             lead["status"] = "low_fit"
             log(f"  low fit ({a.fit})")
             continue
+        if a.red_flags:
+            lead["status"] = "low_fit"
+            log(f"  red flags: {', '.join(a.red_flags)}")
+            continue
         contact = pick_contact(lead, a, s)
         if not contact or contact["email"] in emailed:
             lead["status"] = "no_contact"
@@ -222,7 +276,8 @@ def deliver(leads, s, p, mode, box, all_regions=False):
         waiting = sum(1 for l in leads.values() if l["status"] == "queued") - len(queue)
         if waiting:
             log(f"deliver: {waiting} queued emails wait for a later send window")
-    queue.sort(key=lambda l: (l["research"]["fit"], CONFIDENCE_RANK.get(l["contact"]["confidence"], 0), l["score"]),
+    queue.sort(key=lambda l: (l.get("priority", 0), l["research"]["fit"],
+                              CONFIDENCE_RANK.get(l["contact"]["confidence"], 0), l["score"]),
                reverse=True)
     sig = brain.signature(p)
     for lead in queue[:max(cap, 0)]:
@@ -249,7 +304,7 @@ def deliver(leads, s, p, mode, box, all_regions=False):
         store.save(leads)   # a run killed mid-loop must not send this one again
         log(f"{lead['status']}: {lead['company']} <{lead['contact']['email']}> — {e['subject']}")
         if mode == "send":
-            time.sleep(random.uniform(20, 60))
+            time.sleep(random.uniform(10, 30))
 
 
 def sync(leads, box):
@@ -272,7 +327,7 @@ def sync(leads, box):
             if box.bounced(c["email"], since):
                 lead["status"] = "bounced"
                 log(f"sync: {lead['company']} bounced")
-            elif box.replied(c["email"], since):
+            elif box.replied(c["email"], max(since, lead.get("ignore_replies_before", ""))):   # e.g. an auto-ack
                 lead["status"], lead["replied_at"] = "replied", store.iso()
                 log(f"sync: {lead['company']} REPLIED")
         except Exception as ex:

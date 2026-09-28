@@ -20,6 +20,7 @@ def _card(l):
         "id": l["id"], "company": l["company"], "title": l.get("title", ""), "location": l.get("location", ""),
         "source": l.get("source", ""), "url": l.get("url", ""), "website": l.get("website", ""),
         "status": l["status"], "score": l.get("score"), "posted_at": l.get("posted_at"), "found_at": l.get("found_at"),
+        "pay": l.get("pay"), "priority": l.get("priority", 0), "priority_note": l.get("priority_note", ""),
         "batch": l.get("batch"), "posting": (l.get("description") or "")[:600],
         "contact": {k: c.get(k, "") for k in ("name", "email", "role", "confidence")} if c else None,
         "research": {k: r.get(k) for k in ("summary", "stack", "hook", "angle", "fit", "region")} if r else None,

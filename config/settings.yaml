@@ -5,7 +5,7 @@
 # send  = volley sends them itself.
 mode: draft
 
-daily_new: 20          # new first-touch emails per day (15-20 is the sweet spot for a personal Gmail)
+daily_new: 25          # new first-touch emails per day (raise to 30 once Gmail deliverability holds up)
 send_days: [0, 1, 2, 3, 4]   # Mon-Fri (0 = Monday)
 followup_days: [4, 10] # follow-up #1 and #2, days after the first email
 min_fit: 6             # analyst fit score (1-10) below this is skipped
@@ -36,6 +36,15 @@ models:
 
 daily_budget_usd: 0.60   # hard stop for API spend per day
 
+# Delhi NCR leads (startups included, even ones with no listed opening) get pushed to the front of
+# the pool. Pay is INR; stipend is per month, lpa figures are per year.
+priority:
+  cities: [gurgaon, gurugram, noida, greater noida, delhi, new delhi]
+  min_lpa: 8
+  target_lpa: 10
+  min_stipend: 25000
+  target_stipend: 40000
+
 sources:
   hn_hiring: true
   yc_hiring: true
@@ -45,4 +54,7 @@ sources:
   jobicy: true
   himalayas: true
   unstop: true         # India internships / jobs (public API)
+  internshala: true    # India internships / fresher jobs, filtered to NCR + pay floor
+  github_orgs: true    # niche NCR startups with no posted opening, found by GitHub org location
+  funding_news: true   # recently-funded NCR startups (Entrackr, Inc42)
   simplify: true
