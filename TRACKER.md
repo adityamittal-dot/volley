@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-09-28T16:38:01Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-09-28T17:57:41Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 18 · **Sent:** 18 · **Replies:** 0 (0%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 18 · **Sent:** 18 · **Replies:** 1 (6%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,7 +10,10 @@ _Updated 2026-09-28T16:38:01Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 1 |
 | no_contact | 250 |
 | low_fit | 17 |
-| sent | 18 |
+| researching | 40 |
+| sent | 16 |
+| replied | 1 |
+| bounced | 1 |
 
 ## Reply rate by angle
 
@@ -18,21 +21,21 @@ _Updated 2026-09-28T16:38:01Z UTC. Full table: [data/tracker.csv](data/tracker.c
 |---|---|---|
 | basepair | 7 | 0 |
 | canopy | 6 | 0 |
-| medvault | 5 | 0 |
+| medvault | 5 | 1 |
 
 ## Replies
 
-_None yet._
+- **Xero** —  <careers@xero.com> replied 2026-09-28
 
 ## Latest 25 emails
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
 | 2026-09-25 | Controlshift | hello@controlshift.co.nz | medvault | sent |
-| 2026-09-25 | Xero | careers@xero.com | medvault | sent |
+| 2026-09-25 | Xero | careers@xero.com | medvault | replied |
 | 2026-09-25 | InfoHawk | james@infohawk.com | canopy | sent |
 | 2026-09-25 | LaunchDarkly | careers@launchdarkly.com | canopy | sent |
-| 2026-09-25 | Ooak Data | contact@ooakdata.com | canopy | sent |
+| 2026-09-25 | Ooak Data | contact@ooakdata.com | canopy | bounced |
 | 2026-09-25 | Crustdata | info@crustdata.com | canopy | sent |
 | 2026-09-25 | Formance | maxence@formance.com | basepair | sent |
 | 2026-09-25 | Canonical | patricia.reinoso@canonical.com | basepair | sent |

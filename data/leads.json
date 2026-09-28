@@ -7506,6 +7506,7 @@
   "id": "a1a74a97d7",
   "location": "Calgary, AB, Canada",
   "posted_at": "2026-09-24T06:15:16Z",
+  "replied_at": "2026-09-28T17:57:37Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "Xero uses AI agents for financial automation; Aditya's experience with Gemini prompting pipelines and LLM integration aligns with their AI product expansion.",
@@ -7529,7 +7530,7 @@
   },
   "score": 9.0,
   "source": "simplify",
-  "status": "sent",
+  "status": "replied",
   "title": "Associate Engineer - Back End",
   "url": "https://jobs.ashbyhq.com/xero/8f7f41b3-85db-4029-ab1a-70c88c5dc987/application?embed=true",
   "website": "https://xero.com"
@@ -9752,7 +9753,7 @@
   },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "bounced",
   "title": "Engineering (YC Summer 2026)",
   "url": "https://www.ycombinator.com/companies/ooak-data",
   "website": "https://ooakdata.com/"
