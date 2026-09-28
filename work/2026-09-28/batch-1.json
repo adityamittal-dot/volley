@@ -1,0 +1,268 @@
+{
+ "leads": [
+  {
+   "id": "e32b9abbd0",
+   "company": "Shipzy Technologies Private Limited",
+   "website": "https://shipzy.in",
+   "title": "Founding Full-Stack Product Engineer",
+   "location": "Noida",
+   "source": "unstop",
+   "posted_at": "2026-09-28T04:10:49Z",
+   "posting": "Shipzy Technologies Private Limited is hiring for Founding Full-Stack Product Engineer About the Company Shipzy Technologies Private Limited is building logistics infrastructure for on-demand and last-mile delivery. The company operates across delivery operations, rider networks, fleet infrastructure and technology, with a focus on converting operational complexity into scalable products and systems. Responsibilities Work closely with the founders and operations teams to turn ambiguous business needs into reliable products. Build and improve the web platform, responsive user experiences and internal operations dashboard. Develop rider databases, onboarding workflows, order management, tracking, payout and billing systems. Create MIS and operational dashboards, automate repetitive processes and integrate third-party APIs. Contribute to the future roadmap, including rider applications, client dashboards, allocation systems, logistics APIs and notification workflows. Own the complete product lifecycle from problem discovery and architecture through deployment, debugging and iteration. Requirements 2–5 years of professional software development experience, with strong full-stack engineering fundamentals. Practical experience with frontend and backend development, databases, APIs, Git and cloud platforms. Exposure to technologies such as React or Next.js, Node.js or Python, PostgreSQL or SQL, REST APIs, AWS, GCP, Vercel, Supabase or mobile frameworks is valuable. Ability to make pragmatic technology decisions, build independently and avoid unnecessary over-engineering. Strong ownership, debugging ability and comfort working in an early-stage, fast-moving environment. Experience in logistics, mobility, SaaS, marketplaces, fleet management or other operational businesses is a plus. This is a high-ownership 0-to-1 opportunity for a builder who wants to shape technology strategy and directly influence how a logistics business operates and scales.",
+   "site_text": "[https://shipzy.in/]\nShipzy-Ship anywhere in India & to 180+ countries Ship anywhere in India & to 180 + countries PICKED, PACKED & DELIVERED *Packing service is available only in limited locations. Please check with our team. SINGLE PARCELS TO BULK FREIGHT *We do not ship parcels under 20 kgs DOMESTIC & INTERNATIONAL SHIPPING *Ship in India & ship outside India Get Shipping cost on Whatsapp Who we are Our customer's support has helped us achieve these numbers over the years 15,000+ Customers 19,000+ Successful Moves 180+ Cities Covered 45,000+ Shipments Domestic Services Home Courier Pickup Airport Courier Hotel Courier PG / Student Courier International Services Ship from the world to India Ship from India to the World Send medicines from India, Globally Send Documents from India Why ShipzyCart Transparent Pricing Fast and reliable shipping services across the country for businesses of all sizes. Benefit from our extensive local network and efficient delivery. Domestic Shipping International Shipping Starts from ₹75 /KG Starts from Rs. 450/KG Get full rates on WhatsApp EXPRESS MODE Fastest shipping mode for International & Domestic locations. SURFACE MODE Cheapest shipping mode for domestic locations. ECONOMY MODE Cheapest shipping mode for certain International locations. NEXT DAY Next day delivery for domestic shipments in certain locations. Shipping Speed Options Fast and reliable shipping services across the country for businesses of all sizes. Benefit from our extensive local network and efficient delivery. PICKUP FROM HOME No Weight Limits Want to ship more than 100 kgs? No problem! HIGHER WEIGHT, LESS COST Tiered Pricing Higher Weight, Lesser Rate Per kg. HUMAN SUPPORT No Hidden Fees All payment details are shared clearly. ShipzyCart International Shipping Services Seamless, reliable, and affordable international shipping – from your doorstep to destinations worldwide. Ship from the world to India Ship from India to the World Door-to-Door Convenience No need to visit courier offices – we pick up from your home, hostel, hotel, or office and deliver across borders hassle-free. Real-Time Tracking Stay informed at every step with live updates and notifications until your package safely arrives. Secure & Cost-Effective Shipping Enjoy competitive international rates with complete peace of mind – your luggage, parcels, and boxes are always in safe hands. Why we use Whatsapp From Order Booking to Delivery Get a personalized experience Chat directly with our team on WhatsApp for quick, human assistance tailored to your shipment’s unique needs. No App Downloads. No IVR. No Chatbot Skip complicated apps and robotic menus. Experience instant, human-powered logistics help through a simple WhatsApp conversation. From query to delivery in one place Book, track, and manage shipments effortlessly on WhatsApp — your entire logistics journey simplified in one chat. P Profile name Profile name P Profile name Profile name P Profile name Profile name Real conversations with Real Customers See what our customers are saying about Shipzycart.. ShipzyCart for Businesses The All in One Shipping Solution for B2Bs ShipzyCart gives your business one platform, all modes – Road, Air, Sea, and Rail. From urgent parcels to bulk cargo, we deliver faster, cheaper, and smarter across borders. Ship Via Domestic Shipping Business-grade distribution across India with reliable delivery, real-time tracking, and strict SLA adherence. International Freight End-to-end global freight forwarding with customs compliance, visibility, and optimized trade lane solutions. International Import Simplified import handling with documentation, clearance, and last-mile delivery for seamless business operations. Event Logistics Time-critical logistics for corporate events, exhibitions, and conferences with expert on-ground coordination. Trusted by 500+ Brands Speak to our Team member today! Frequently Asked Q's Why was Shipzycart started? ShipzyCart was started to provide a c",
+   "email_candidates": [
+    {
+     "email": "hello@shipzy.in",
+     "where": "https://shipzy.in/",
+     "kind": "generic"
+    },
+    {
+     "email": "kishen@shipzy.in",
+     "where": "https://shipzy.in/contact-us/",
+     "kind": "personal"
+    }
+   ]
+  },
+  {
+   "id": "5b2fb32768",
+   "company": "Supabase",
+   "website": "https://supabase.com",
+   "title": "Database Support Engineer (AMER)",
+   "location": "UK",
+   "source": "jobicy",
+   "posted_at": "2026-09-17T06:50:34Z",
+   "posting": "Level: Entry-Level, Junior. About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for an experienced Database Support Engineer to join our Support Team and help developers unblock complex issues, build more reliably, and get the most out of the Supabase platform. You’ll work closely with customers and engineering, helping us improve product quality and developer experience based on real-world usage. This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions. What You’ll Be Responsible For In this role, you’ll: Investigate and resolve advanced customer issues across Postgres, Auth, RLS, Storage, Realtime, Edge Functions, and client libraries. Provide consultative, proactive advice to optimize workloads, avoid common pitfalls, and offer tailored advice to our most advanced users. Reproduce bugs , isolate root causes, propose workarounds, and escalate to engineering with solid reproduction steps. Ask smart, targeted questions that turn incomplete reports into actionable cases. Communicate clearly and empathetically with users of all levels—especially during high-impact or time-sensitive situations. Spot patterns across tickets and recommend improvements to documentation, tooling, and the product itself. Mentor junior team members and help raise the overall bar for support quality. You Might Be a Good Fit If Experience: You have 7+ years in technical support, databases, backend engineering, SRE, or a similar field. Postgres Expertise: You know PostgreSQL deeply—autovacuum behavior, WAL growth, long-running transactions, table bloat, and other internals. Performance: You’re strong in high-performance SQL and query optimization. Troubleshooting: You’re comfortable troubleshooting complex setups, including multi-tenant schema patterns. Distributed Systems: You can debug edge functions and understand distributed system behavior when failures get tricky. Data Integrity: You’ve handled data migration issues (pg_dump/restore, schema drift, failed migrations) and know how to recover safely. Cloud Infrastructure: You have hands-on experience with cloud hosting providers like AWS. Technical Environment: You’re comfortable in terminal and",
+   "site_text": "[https://supabase.com/]\nSupabase | The Postgres Development Platform Skip to content Build in a weekend Scale to millions Start your project with a Postgres database. Add Authentication, Data APIs, Edge Functions, Realtime Data, Storage, and Vector embeddings. Start your project Request a demo Postgres Database Every project is a full Postgres database , the world's most trusted relational database. 100% portable Built-in Auth with RLS Easy to extend Authentication Add user sign ups and logins , securing your data with Row Level Security. Edge Functions Easily write custom code without deploying or scaling servers. $ supabase functions deploy Storage Store, organize, and serve large files, from videos to images. Realtime Build multiplayer experiences with real-time data synchronization. Vector Integrate your favorite ML-models to store, index and search vector embeddings . OpenAI Hugging Face Data APIs Instant ready-to-use REST APIs . Use one or all. Best of breed products. Integrated as a platform. Trusted by fast-growing companies worldwide Stay productive and manage your app without leaving the dashboard Table Editor SQL Editor RLS Policies Use Supabase with React import { createClient } from ' @supabase/supabase-js ' const supabase = createClient ( process.env. SUPABASE_URL , process.env. SUPABASE_ANON_KEY ) export default function App () { const [ todos , setTodos ] = useState ([]) useEffect (() => { supabase. from ( ' todos ' ). select ( ' * ' ) . then (({ data }) => setTodos (data)) }, []) return < TodoList items = {todos} /> } import { createClient } from ' @supabase/supabase-js ' const supabase = createClient ( process . env . SUPABASE_URL , process . env . SUPABASE_ANON_KEY ) export default function App () { const [ todos , setTodos ] = useState ([]) useEffect ( () => { supabase . from ( ' todos ' ) . select ( ' * ' ) . then ( ({ data }) => setTodos (data)) }, []) return < TodoList items = { todos } /> } Read docs for React Kickstart your next project with production ready templates View all examples Stripe Subscriptions Starter The all-in-one subscription starter kit for high-performance SaaS applications, powered by Stripe, Supabase, and Vercel. Next.js Starter A Next.js App Router template configured with cookie-based auth using Supabase, TypeScript and Tailwind CSS. AI Chatbot An open-source AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Supabase. LangChain + Next.js Starter Starter template and example use-cases for LangChain projects in Next.js, including chat, agents, and retrieval. Flutter User Management Get started with Supabase and Flutter by building a user management app with auth, file storage, and database. Expo React Native Starter An extended version of create-t3-turbo implementing authentication on both the web and mobile applications. How industry leaders are building with Supabase More customer stories Lovable Powering millions of AI-generated apps with a complete Supabase backend. Lovable is about unlocking creativity for anyone. Only 1% of the population knows how to code. Lovable has unlocked that ability for the other 99%. Bryan Byrne, Product Manager, Lovable Read the story → Lovable Powering millions of AI-generated apps with a complete Supabase backend. Lovable is about unlocking creativity for anyone. Only 1% of the population knows how to code. Lovable has unlocked that ability for the other 99%. Bryan Byrne, Product Manager, Lovable Read the story → eXp Realty Empowering 2,000+ employees to build production software with AI. The thing that makes everything possible, all of our rapid development now and AI-generated or assisted development, is Supabase. That's the giant whose shoulders we can stand on. Seth Siegler, Chief Innovation Officer, eXp Realty Read the story → Phoenix Energy Migrated critical infrastructure from MongoDB with zero downtime. We needed a system that could handle serious performance and security requirements — without slowing down our deve",
+   "email_candidates": [
+    {
+     "email": "saxonafletcher@gmail.com",
+     "where": "GitHub commits (supabase)",
+     "kind": "personal",
+     "name": "Saxon Fletcher",
+     "commits": 4
+    },
+    {
+     "email": "lionnet.ant@gmail.com",
+     "where": "GitHub commits (supabase)",
+     "kind": "personal",
+     "name": "Anthony Lio",
+     "commits": 3
+    },
+    {
+     "email": "hi@jgoux.dev",
+     "where": "GitHub commits (supabase)",
+     "kind": "generic",
+     "name": "Julien Goux",
+     "commits": 16
+    }
+   ]
+  },
+  {
+   "id": "5952510bc1",
+   "company": "Getpress Gmbh",
+   "website": "https://get-press.de",
+   "title": "Backend Engineer - Agentic AI (m/w/d)",
+   "location": "Berlin (Remote)",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-28T05:09:53Z",
+   "posting": "Overview getpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-Branche Der Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte. Gleichzeitig wird der milliardenschwere PR-Markt im Zeitalter von AI-Visibility gerade immer wichtiger. getpress, eine der am schnellsten wachsenden PR-Agenturen Deutschlands (>40 Leute, Kund*innen wie Trivago, Komoot, Fonio AI oder AutoScout24), hat sich entschieden, diesen Wandel zu führen statt abzuwarten. Wir bauen die PR Company der Zukunft: keine reine Service-Company mehr, sondern eine Service-as-a-Software-Company. Unser AI-Team besteht nun seit 4 Monaten, aktuell ein Developer, eine Produktmanagerin und unsere Head of AI. Die Grundarchitektur steht, erste Teile unserer PR-Plattform und des Multi-Agent-Systems laufen produktiv. Jetzt fehlst du – die Person, die als Backend Engineer das technische Fundament zusammen mit unserem zweiten Developer ownt und gemeinsam neu definiert, wie die PR der Zukunft funktioniert. Deine Rolle PR-Plattform: Fullstack-Entwicklung der Plattform, die das Operating System der PR-Agentur 2027 wird. Nah an den Nutzer*innen, in schnellen Entwicklungszyklen, und wo deine Entscheidungen den Kurs setzen. KI-Agenten: Aufbau eines Agenten-Systems, das die PR-Wertschöpfungskette End-to-End neu definiert. Du baust die Agenten, mit denen unsere Berater*innen täglich arbeiten, inkl. Self-Learning-Loops und Multi-Agent-Orchestrierung. Systemarchitektur: Mitgestalten der Systemarchitektur, inkl. Workflows, Datenmodell, Schnittstellen, Compliance und Tech Stack (bisher vorwiegend PostgreSQL, Next.js, LangGraph, Docker) Datenmanagement: Weiterentwicklung der Datenbank-Architektur inkl. relationaler Daten- und Vektor-Datenbanken Wer du bist Must haves: > 3 Jahre Erfahrung in der Softwareentwicklung Tech Stack: TypeScript, Python, PostgreSQL, Docker, Git, LangGraph, Github Erfahrung in der Entwicklung von Backend-Syste",
+   "site_text": "[https://get-press.de/]\ngetpress | Der neue Weg für PR Upcoming Webinar Print, TikTok, Newsletter – wie der stern entscheidet, wo eine Story landet Im stern kann dieselbe Geschichte als Titelstory, als Video auf TikTok oder als Meldung im Newsletter landen. Am 01.10. um 11:00 Uhr gibt Laura-Lena Förster, stellvertretende Chefredakteurin beim stern, Einblick, wie Themen und Kanäle dort zusammenfinden und worauf es aus Redaktionssicht ankommt. Jetzt anmelden und Fragen fürs Live-Q&A einreichen. Kostenlos anmelden services Cases Results Karriere About Wissen Jetzt anfragen Jetzt anfragen Jetzt anfragen Klick and OHHH DE EN We give Europe’s most ambitious companies the attention they deserve. Die PR Company der Zukunft. Benefits We build Reputation Wer regelmäßig in den richtigen Medien auftaucht, wird zur ersten Adresse seiner Branche. Das kann kein Wettbewerber über Nacht kopieren – und keine KI in zwei Wochen nachbauen. Trust Earned Media schafft, was keine Ad kann: Glaubwürdigkeit. Ein Beitrag im Leitmedium überzeugt Kund*innen, Partner und Entscheider*innen – weil er verdient ist, nicht gekauft. Awareness Besetzt euer Thema, bevor es der Wettbewerb tut. Wir bringen euch dorthin, wo eure Zielgruppe liest, hört und sieht – vom Fachmedium bis zum Leitmedium. Thought Leadership Eure Führungskräfte werden zu den Personen, die die Branche zitiert, auf die Bühne einlädt und um Rat fragt – durch Interviews, Gastbeiträge und Keynotes. AI Visibility Wenn jemand Claude, ChatGPT oder Gemini fragt, wer in eurer Branche führend ist – taucht ihr auf? Wir sorgen dafür, dass KI-Tools euch kennen, korrekt beschreiben und empfehlen. Services AI Visibility Projekt PR LinkedIn Content Creation International PR Awards Speaker Opps Personal Branding Interviewtraining Strategie & Positionierung Pressearbeit Alle Services entdecken About Maximilian Ziche, Anne-Marie Struck & Sebastian Manthey Co-Founder & CEO, Co-CEO, Co-Founder Die Welt erlebt ihre größte Transformation. KI verändert alles, Europa ringt um seine Souveränität. Wirtschaft ist Psychologie. Aufschwung beginnt mit unseren Geschichten. Doch wir reden uns klein. Deshalb erzählen wir Europas Erfolgsgeschichten. In seinen wichtigsten Medien. Dafür bauen wir die PR-Company der Zukunft. Autonom, wo es skaliert. Menschlich, wo es zählt. Die besten Geschichten kommen erst noch. Brand promises getpress delivers. Wir liefern 100% Ergebnisse – as promised. Klassische PR Agenturen mögen keine Ziele. Wir schon. Deshalb rechnen wir nicht nach Stunden ab, sondern setzen gemeinsam mit euch klare KPIs, an denen wir uns messen lassen. doesn’t bullshit. Wir denken und bauen PR unternehmerisch - effizient und fokussiert auf euren Need. Von uns gibt es weder eine 40-seitige PR Strategie noch ein Presseevent, wenn es nicht zielführend ist. Stattdessen: Sparring auf Augenhöhe und volle Transparenz. sets the bar. Wir sind überzeugt, dass Spezialisierung die beste Qualität bringt. Deshalb haben wir in den letzten Jahren alle PR-Prozesse aufs Wesentliche reduziert und optimiert. Wir bauen strategisch die besten PR-Geschichten – für euch und für Journalist*innen. In a nutshell 0 + Scale-ups, Mittelständler und Corporates betreut 0 + PR Expert*innen europaweit 0 % output-driven 0 Kund*innen NPS 0 Märkte Opinions »Mit getpress haben wir einen PR-Partner auf Augenhöhe gefunden, der unsere Unternehmensziele versteht. So haben wir es geschafft, unsere Comeback-Geschichte in den deutschen Leitmedien strategisch zu platzieren – mit nachhaltiger Wirkung statt kurzfristigen PR-Aktionen. Und das ist erst der Anfang unserer gemeinsamen Erfolgsgeschichte.« Johannes Thomas CEO trivago »Ich arbeite seit 12 Jahren mit den getpress Gründern zusammen. Ich kenne niemanden, der PR schlauer denkt und besser performt als getpress.« Mario Kohle Gründer des Solar-Unicorns Enpal »Mit getpress haben wir unsere Kommunikationsstrategie auf ein neues Level gehoben: Wir platzieren unsere Themen proaktiv und erreichen die relevanten Medien – ",
+   "email_candidates": [
+    {
+     "email": "hello@get-press.de",
+     "where": "https://get-press.de/",
+     "kind": "generic"
+    }
+   ]
+  },
+  {
+   "id": "57512aa49c",
+   "company": "Sticker Mule",
+   "website": "https://stickermule.com",
+   "title": "AI agent engineer",
+   "location": "",
+   "source": "remoteok",
+   "posted_at": "2026-09-16T12:44:27Z",
+   "posting": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on AI capabilities to help them perform. Requirements Experience building agents that run on their own and do meaningful work Strong with Grok, Claude, OpenAI, and open source Comfortable in Go, TypeScript, GraphQL, Postgres, GCP Writes clearly in English Compensation Salary: $150,000â$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote Please mention the word **HUMOUR** and tag RNTIuMTU5LjIyNi4yNDI= when applying to show you read the job post completely (#RNTIuMTU5LjIyNi4yNDI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human. Tags: ai, golang, javascript, typescript",
+   "site_text": "[https://www.stickermule.com/]\nSticker Mule | Custom printing that kicks ass Skip to main content Buy and sell custom products Free worldwide shipping. Fast turnaround. 24/7 support. Shop now Make money Stickers Labels Magnets Buttons Packaging Apparel Acrylics Free shipping, free online proofs, fast turnaround. Sticker Mule is the easiest way to buy custom stickers & decals, labels, and other printing online. Order in 60 seconds and we'll turn your designs and illustrations into custom stickers, magnets, buttons, labels and packaging in days. We offer free online proofs, free worldwide shipping and super fast turnaround. Sell, publish, and get paid with PRO Everything you need to run your business for just $9/mo. Upgrade to Pro\n\n[https://www.stickermule.com/about]\nAbout | Sticker Mule Skip to main content About Sticker Mule How a late night conversation in Amsterdam, NY turned into the world's most innovative printing company that created thousands of jobs and became a globally beloved brand. Our story Shortly before Christmas in 2009, a 72-year old Tom Cummings bought his first computer and asked his friend Anthony Constantino for help using it to bet on horse racing. Tom is a skilled thoroughbred handicapper and heard he could get better horse statistics online. Instead of talking about horse racing, Constantino shared his vision with Tom for bringing manufacturing onto the Internet. Tom asked, \"what do people even do on the Internet?\" and Constantino responded by showing him a few web sites. The septuagenarian said \"that's interesting,\" closed his first laptop, went home, and surprised Constantino when he visited his office the following morning with a notepad of plans for the two of them to start an Internet manufacturing company together. \"What do people even do on the Internet?\" Tom Cummings, co-founder, 2009 3 months later, Sticker Mule was born. Neither Tom nor Anthony had plans to sell stickers, all they wanted to do was build a modern manufacturing company that had a close connection with customers to align the success of the business with the performance of the factory floor. Of course, the two had never done anything on the Internet before so they did what anyone would do when trying to learn how to do something new. They looked up experts, found one that had a phone number and made a phone call. \"We want your help to build an Internet company,\" the two informed Software CEO, Sean Schofield, who accepted the call and was well respected for being the creator of a prestigious open-source ecommerce platform called Spree . Schofield asked what they wanted to sell, but they hadn't decided on a product yet nor did they have a budget in mind. The confused Spree CEO tried to end the call but Anthony interjected, \"well we have $100,000 to build a site\" which provoked an invitation to get started. Constantino designed his concept for an online ordering process for a manufacturing company but still hadn't decided on a product when he first met his new software development team that accepted the $100,000 project. \"We can get started immediately if you pick a product,\" Schofield insisted at their meeting. Constantino went home, talked to his brother Nicholas who also joined to help the project, and the two settled on stickers after combining various iterations of animal plus product. Print Bear, Button Frog, Magnet Duck, Gorilla Bags, were abandoned options. The trio grabbed another friend and pitched the idea to a local designer, Dave Traver , to design the web site. Dave responded, \"I never designed a web site but always wanted to try.\" Days later, Dave had the initial design for Sticker Mule which looks much the same as it does today. Good design is long lasting they say. Within 3 months Sticker Mule launched and, to his credit, Spree's CEO, Sean Schofield, only charged $50,000 of the offered $100,000 budget. Not only that, but Schofield let Constantino hire part of his team to continue growing Sticker Mule and, with that, ",
+   "email_candidates": [
+    {
+     "email": "u003emgmt@stickermule.com",
+     "where": "https://www.stickermule.com/about",
+     "kind": "personal"
+    }
+   ]
+  },
+  {
+   "id": "67a5eac47c",
+   "company": "Healthesystems",
+   "website": "https://healthesystems.com",
+   "title": "Artificial Intelligence Engineer Intern",
+   "location": "Remote in USA",
+   "source": "simplify",
+   "posted_at": "2026-09-18T22:37:17Z",
+   "posting": "AI/ML/Data. Terms: Winter 2026. Sponsorship: Other. Degrees: Bachelor's",
+   "site_text": "[https://healthesystems.com/]\nHealthesystems Search Find a Pharmacy Vertice Login Menu About Us About Us Our Brand What We Do Our People Contact Us Careers FAQ Workers' Comp Solutions Workers' Comp Solutions Pharmacy Ancillary Clinical Services Claims Technology Claims Technology Request Demo Data Analytics Content Hub Content Hub RxInformer Magazine Industry Insights Survey Report Workers' Comprehensive Newsletter Healthe Perspectives Blog Regulatory Recap Newsletter Medmonitor White Papers Infographics Patient Resources Patient Resources FAQ for Patients Patient Central Educational Series Pharmacy Search Helpful Information What's Happening What's Happening Events Social Hub Customer Center Customer Center Ask a Pharmacist Claims Resources Claims Resources Mail Order close Info banner A significant part of the Healthesystems vision is to create a more integrated experience for our customers Info banner A significant part of the Healthesystems vision is to create a more integrated experience for our customers Transforming the workers’ compensation pharmacy and ancillary benefits management experience Powered by state-of-the-art technology Supported by human-centered service Informed by industry expertise Inspired by a commitment to care blog 4 Ways PBMs Can Improve the Workers’ Comp Experience PBMs can reduce burden for payers, provide intuitive claims tools, deliver effective customer support, and engage injured workers. Read More rxinformer Concerning Counsel: A Look at Litigation in Workers’ Comp Understanding the characteristics and trends of litigation claims, as well as tips to reduce them. Read More INDUSTRY SURVEY 2025 Industry Survey Report This seventh annual survey report highlights the top challenges and priorities of 500 industry professionals. Read More Featured Videos Jeanette Connelly, PharmD, a clinical pharmacist at Healthesystems, discusses safety and cost concerns associated with physician dispensing practices in workers' compensation. Physician Dispensing Concerns with Jeanette Connelly, PharmD Tate Rice, Healthesystems Product Manager (Clinical) discusses clinical and cost concerns associated with Thermal Compression therapy. Thermal Compression Therapy with Tate Rice, PT, DPT, MBA Tate Rice, Healthesystems Product Manager (Clinical) discusses clinical and cost concerns associated with Pulsed Electromagnetic Fields (PEMF) therapy. Pulsed Electromagnetic Fields (PEMF) Therapy with Tate Rice, PT, DPT, MBA Tate Rice, Healthesystems Product Manager (Clinical), discusses clinical and cost concerns associated with Interferential Current (IFC) therapy. Interferential Current (IFC) Therapy with Tate Rice, PT, DPT, MBA Tate Rice, Healthesystems Product Manager (Clinical) discusses clinical and cost concerns associated with H-Wave therapy. H-Wave Therapy with Tate Rice, PT, DPT, MBA Britten Featherston, PharmD discusses how comorbidities and biologic changes impact a growing patient population. Drug Concerns in Older Patients Kim Blount, BS Pharm addresses how these non-FDA-approved products may not be effective – or safe. Private-Label Topicals Jeanette Connelly, PharmD explains how receiving medications directly from a doctor can bypass key pharmacy safeguards. Physician Dispensing Tate Rice, PT, DPT, describes how physical medicine is an important component of recovery from a work-related injury. Importance of Physical Medicine Tate Rice, PT, DPT, explains the difference between physical and occupational therapies. Physical vs Occupational Therapy Tate Rice, PT, DPT, explains why range of motion is an important physical therapy measure. Range of Motion Amanda Waltemath, PharmD, MPH clarifies some of the many risks tied to these popular pain medications. Opioids & Pain Management Personalize my experience Make selections below to see articles and information related to your role and interests. Medmonitor Novel Drug Approvals Supported by Fewer Studies A study from PLOS One examined trends in drug approvals befor",
+   "email_candidates": [
+    {
+     "email": "druginformation@healthesystems.com",
+     "where": "https://healthesystems.com/contact-us/",
+     "kind": "personal"
+    },
+    {
+     "email": "info@healthesystems.com",
+     "where": "https://healthesystems.com/contact-us/",
+     "kind": "generic"
+    },
+    {
+     "email": "careers@healthesystems.com",
+     "where": "https://healthesystems.com/contact-us/",
+     "kind": "hiring"
+    },
+    {
+     "email": "communications@healthesystems.com",
+     "where": "https://healthesystems.com/contact-us/",
+     "kind": "personal"
+    },
+    {
+     "email": "jknight@healthesystems.com",
+     "where": "https://healthesystems.com/contact-us/",
+     "kind": "personal"
+    },
+    {
+     "email": "jbleile@healthesystems.com",
+     "where": "https://healthesystems.com/contact-us/",
+     "kind": "personal"
+    }
+   ]
+  },
+  {
+   "id": "6a1df5dfa1",
+   "company": "Lugg",
+   "website": "http://lugg.com",
+   "title": "Engineering (YC Summer 2015)",
+   "location": "United States of America, America / Canada, Remote, Fully Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 50. Move anything, anytime, anywhere Lugg is building the best way for you to get anything moved. With the push of a button, you are connected to movers and a truck. They make it dead simple to get your new furniture home, your craigslist purchases delivered to you, and moving all of your stuff into your new apartment. They are located in San Francisco and well-funded by some of the greatest investors in the world, like A-Capital, Sequoia Capital, SV Angel, and Y Combinator. They are a small team with incredibly hard problems to solve. They are hiring and would love to hear from you! hello@Lugg.com Download Lugg and let them be your friend with a truck! http://lugg.com Logistics, Consumer, Home and Personal, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://lugg.com/]\nLugg: On-Demand Moving & Furniture Delivery On-demand movers Sign in Book now Book On-demand movers arriving within an hour Get movers and a truck same-day, on your schedule. See an instant price estimate in 60-seconds. 4.9 /5 949.7K Reviews 4.9 /5 45K Ratings 4.6 /5 1.3K Reviews 4.8 /5 4.4K Reviews 4.9 /5 3.9K Reviews BBB Accredited Fast, reliable moving service Moves on your schedule Book on-demand movers that arrive today, in under 60 minutes. Schedule up to 60 days out for the time that works best for you. Select day Today 13 14 15 16 Within 30 minutes 10:00 - 11:00 11:00 - 12:00 Track your movers in real time Get live tracking and ETA updates. Schedule up to 5 stops for pickup and dropoff along the way. En-route to stop 4 Truck & muscle with every move Choose a vehicle for any size job. Your movers arrive with dollies, moving blankets, straps, wraps, and more, all at no extra charge. Lugg Lite Lugg Pickup Lugg Van Lugg XL Lugg Box Lugg Box+ Your move is fully backed by our Damage Protection Guarantee Our industry-leading 99.4% damage-free rate means your items and move is safe with us . Top-rated movers nationwide Our professional 5-star movers, are background checked, and ready to help. C Fast ⚡️ C Reliable 💪 C Friendly 😁 C Efficient ⏱ B J Victor & Eugene C Helpful 🤝 A truck and movers for any occasion Move your home Move apartments Get furniture delivered Get a truck & movers Marketplace pickup Pick up store orders Haul away junk Move a large item Get help moving on-site Move in/out of storage Move your office Move to/from college Get appliances delivered Get a mattress delivered Pick up a used item Drop off donations Move a TV Move gym equipment Move plants Get a bike delivered Move your home Move apartments Get furniture delivered Get a truck & movers Marketplace pickup Pick up store orders Haul away junk Move a large item Get help moving on-site Move in/out of storage Move your office Move to/from college Get appliances delivered Get a mattress delivered Pick up a used item Drop off donations Move a TV Move gym equipment Move plants Get a bike delivered H E G J Customers love Lugg for on-demand moves With an average 4.9-star rating across nearly 1 million verified customer reviews , Lugg is the trusted choice for on-demand moves . See all reviews Baltimore, MD Where has Lugg been all my life?! Finally, “on-demand” moving help that doesn’t charge unreasonable rates! I am so happy I found the App and my “Luggs” couldn’t have been friendlier or more helpful. Recommending this to everyone. - Victoria Total Price $129 Newington, CT I reached out to Lugg after another on-demand service could not follow through. My request was assigned to William & Alex under an hour, and they were great. Alex communicated with me during the entire process, and were at my home in no time. Getting my couch in definitely required some work 😮‍💨, but they were great sports about it. Great service from start to finish. Would definitely use LUGG again. Thank you 😊 - Dara Total Price $175 Cobble Hill, NY They were wonderful! I’ve used other on-demand moving services and the movers were not as professional as these two. Exceeded my expectations, and so friendly! Plus they were so fast to arrive. - Hannah Grace Total Price $111 Westlake Village, CA They were awesome and can’t thank them enough. What I needed moved was just beyond what I could handle. Booked “on-demand “ service which worked out perfectly timing wise. This is such a great service, and definitely recommend. I’m already spreading the word! Thank you Edgar & Mars!!! - Kim Total Price $94 San Francisco, CA Benjamin was great! First time using Lugg and it was a great experience. Can't believe he arrived in 10 mins, talk about on-demand. - Nellie Total Price $55 Oakland, CA Awesome team! My last Lugg experience was anything but 5 star, so I hesitant with using the app again. However, when I was in a pinch and needed on-demand movers, Lugg saved the day. Both of these gu",
+   "email_candidates": [
+    {
+     "email": "hello@lugg.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ]
+  },
+  {
+   "id": "7e39451c84",
+   "company": "Apero Health",
+   "website": "https://www.aperohealth.com",
+   "title": "Engineering (YC Summer 2019)",
+   "location": "United States of America, America / Canada, Remote, Partly Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 24. Modern medical billing We help healthcare companies run their practices. Eligibility, BI, claims, patient payments? Shoot us an email at founders@aperohealth.com Apero is a Y-Combinator-backed startup based in San Francisco bringing transparency and ease to medical billing. As one of the top startups from the Summer 2019 Y Combinator batch, we have raised from well-known investors including the creator of Gmail Paul Buchheit and the founders of Doctor on Demand, Gusto and Reddit, and serve startups that have raised over $1B in Venture Capital. The founding team are Stanford CS and Berkeley grads and include the CTO of Doctor on Demand having helped raised $240m and process millions of video calls. We are also hiring for engineers and product-minded operations people interested in giving price transparency to patients and providers. We serve practices nationwide, and integrate with leading EHRs as well. Health Tech, Finance, Digital Health, Enterprise Software, Healthcare, Healthcare IT, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.aperohealth.com/]\nApero | Software Powering Your Medical Practice Learn More Learn More Healthcare software for innovators Apero combines everything needed to operate and scale your practice: Scheduling , Visit Notes , RCM , Patient Billing , Prescriptions , and Financial Reporting . See Apero Trusted by practices of all sizes: from startups to public companies A complete, modular , system Feature Legacy EHR's Other RCM Vendors Apero Months Weeks Implementation Time Custom domain tooltip info Start submitting claims and taking notes in < 1 Day Embeddable patient cost estimation and real time eligibility with support for all service types This is the pages tooltip Custom validation rules to limit rejections and denials This is the monthly visits tooltip. Naturally :) This is the collection items tooltip. Scheduling, clinical note-taking, and video visit support This is the collection items tooltip. E-prescriptions including controlled substances for all specialties Complete end-to-end insurance billing with support for employer contracts This is the form submissions tooltip. Patient billing with support for custom branding This is the Form file upload tooltip. Bank deposit reconciliation This is the CDN tooltip. Easy to use API, Webhooks, and CSV Import This is the CDN bandwidth tooltip. Customizable worklists and tasking This is the API tooltip. Custom and pre-built reporting across the entire back office This is the Site Serach tooltip. A technology-driven solution to scaling your practice Payer Enrollment Apero has performed thousands of enrollments with payers in all 50 states. The timeline for enrollment varies from payer to payer, with an overall average for ERA enrollment of 12 days across the full payer mix. Automated workflows With API and UI driven bulk actions, automatic claim status updates, and a robust tasks system, Apero makes it easy to track and understand each visit, payment, and patient. Prescriptions Regardless of your specialty, with Apero, your practice can prescribe medications to a patient's preferred pharmacy. Apero also supports viewing a patient's complete medication history and estimating a patient's medication cost. Apero additionally supports provider SSO and prescription auditing. Spend your time delivering care, not dealing with insurance. Reduce your billing time by as much as 80%, all while increasing your growth, through Apero’s API’s and advanced claims software. Spend more time with patients View eligibility updates and payer contracting Automate patient and insurance collections No hassle security that works. Founded by former National Security Agency and industry veterans, Apero was built to withstand hackers and ransomware attacks. Apero is fully encrypted, HIPAA compliant, and SOC I and SOC II Type 2 certified, and includes advanced security features such as IP geo-fencing, and advanced audit logging. Build what you want, use Apero for the rest. ‍ Insurance Billing Eligibility Advanced Reporting Patient Messaging Accounting Advanced Security Scheduling Clinical Notes Apero's fully-featured API connects healthcare and finance. Apero HQ 201 Spear Street, FL 6 San Francisco, CA 94105 Terms Jobs FAQ Status Page Privacy Policy See Apero\n\n[https://www.aperohealth.com/contact]\nApero | Contact Form Learn More Learn more Most practices can begin submitting claims within 24 hours of sign-up. Learn more about our billing platform and to see if Apero would be a good fit. Thank you! Your contact info has been received. We will be in contact with you in 1-2 business days. Oops! Something went wrong while submitting the form. © Apero Health, Inc. All Rights Reserved Terms Jobs FAQ Status Page Privacy Policy See Apero",
+   "email_candidates": [
+    {
+     "email": "founders@aperohealth.com",
+     "where": "job posting",
+     "kind": "hiring"
+    },
+    {
+     "email": "info@aperohealth.com",
+     "where": "https://www.aperohealth.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "stacybrown@gmail.com",
+     "where": "https://www.aperohealth.com/contact",
+     "kind": "personal"
+    }
+   ]
+  },
+  {
+   "id": "94893b33e8",
+   "company": "Lead SWE",
+   "website": "https://civtiq.com",
+   "title": "See posting",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-09-01T16:00:17Z",
+   "posting": "Lead SWE | ON SITE TORONTO MUST BE ON SITE. REMOTE WILL BE IGNORED | $130,000 – $210,000 CAD | FOUNDER-LEVEL EQUITY | Founder with 3x successful exits| We are building enterprise-grade, white-label reporting infrastructure for municipal governments across North America. Full technical decisions Multi-tenant cloud architecture supporting Canadian data residency requirements Compliance framework buildout: SOC 2, PIPEDA, MFIPPA, security standards relevant to Canadian municipal procurement Technical hiring as team grows 5+ years in cloud infrastructure or backend engineering with direct exposure to multi-tenant architecture, data residency, and uptime SLA commitments Shipped production systems where a bug has legal or compliance consequences Hands-on with SOC 2, ISO 27001, HIPAA, PIPEDA, or equivalent regulated environments Can review and challenge AI-generated code and architectural decisions. Not threatened by AI tooling, not blindly trusting it Can represent the technical platform for government IT evaluators Comfortable inheriting existing TypeScript / Node.js / PostgreSQL codebase Located in Toronto or willing to relocate ben [at] civtiq [dot] com",
+   "site_text": "[https://www.civtiq.com/]\nCivTiq | Coming soon Civ Tiq Coming soon to super power a city near you. contact@civtiq.com",
+   "email_candidates": [
+    {
+     "email": "ben@civtiq.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "contact@civtiq.com",
+     "where": "https://www.civtiq.com/",
+     "kind": "generic"
+    }
+   ]
+  },
+  {
+   "id": "c9683830b7",
+   "company": "Channel3",
+   "website": "https://trychannel3.com",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "United States of America, America / Canada",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Database of every product on the internet Channel3 is building a database of every product on the internet. Google and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities. We don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy. As AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive. Alex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together. Artificial Intelligence, E-commerce, B2B, Retail, United States of America, America / Canada",
+   "site_text": "[https://trychannel3.com/]\nChannel3 | Where agents find products Log in Menu Sign up Where agents find products We're building the world's highest quality product graph, so AI agents can reliably search, recommend, and purchase products. For Developers Build any agentic shopping experience One API for 100M+ products â search, recommend, and earn on sales. Developers Get an API key For Brands Sell on net-new AI platforms AI shopping wonât live in one destination. Channel3 powers the largest network of new AI shopping applications. Brands Join 5,000+ brands For Enterprises Launch shopping without building the infrastructure Everything you need to add AI shopping to your product: a conversational agent, search, commissions, and (soon) checkout. Enterprises Talk to us Our brand partners The shift Shopping is moving into AI Discovery is happening inside AI apps and agents. Channel3 provides the infrastructure to make it happen. 58% of consumers have used AI to shop Stripe 4,700% YoY increase in AI-driven retail traffic Adobe $3-5T projected agentic commerce revenue by 2030 McKinsey Want to talk it through? Ask ChatGPT , Gemini , Copilot or Claude Opens a new tab with a starter prompt. What can I help you find?\n\n[https://trychannel3.com/about-us]\nAbout Us - Channel3 Log in Menu Sign up About Channel3 Our vision Building the infrastructure that makes AI shopping possible. For the last thirty years, shopping has been built around a simple assumption: a person is sitting in front of a screen, typing into a search bar, opening tabs, comparing products, reading reviews, and eventually deciding what to buy. Every retailer, marketplace, and brand has optimized for that behavior because that's how the internet worked. It won't work like that for much longer. Increasingly, shopping begins with a conversation. Soon, it will end there too. People will tell AI what they need, and it will search, compare, and shop on their behalf. The internet contains billions of products, but almost none of them are described in a way machines can reliably understand. Catalogs are fragmented, specifications are inconsistent, prices change constantly, and the same product can appear differently across every retailer that sells it. Channel3 solves this problem. We bring together catalogs from thousands of brands, structure them into a common language, enrich what's missing, and keep them continuously up to date. Today that includes more than 100 million products from over 25,000 brands. It's the foundation that lets anyone build shopping experiences where AI can answer with confidence. We're laser-focused on three goals 01 Build the authoritative source of product data on the web 02 Let anyone build agentic shopping experiences 03 Help brands win sales from this new channel Co-founders Alex & George Backed by\n\n[https://trychannel3.com/blog]\nBlog - Channel3 Log in Menu Sign up We Taught folk to Shop in 10 Minutes How the AI that lives in your texts became the friend with good taste â powered by Channel3. Built on Channel3 By Channel3 Â· Aug 6, 2026 Newsletter Get new posts in your inbox Field notes from the rapidly changing world of AI commerce Built on Channel3 View All We Taught folk to Shop in 10 Minutes How the AI that lives in your texts became the friend with good taste â powered by Channel3. Aug 6, 2026 Â· By Channel3 Developer Guides View All Channel3 vs Shopify Catalog A single-platform storefront catalog vs. a cross-retailer product data API for AI shopping agents Sep 15, 2026 Â· By Channel3 Channel3 vs Tavily General Web Search vs. a Purpose-Built Product Data Layer Sep 9, 2026 Â· By Channel3 Channel3 vs Keenable Web-Scale Search Infrastructure vs. a Purpose-Built Product Data Layer Sep 9, 2026 Â· By Channel3 Channel3 vs Tinyfish Web Automation vs. a Purpose-Built Product Data Layer Sep 9, 2026 Â· By Channel3 Product Updates View All How to Search Products by Color with the Channel3 API (Color Filters, Now in Beta) Add one or more hex colors to",
+   "email_candidates": [
+    {
+     "email": "evan@trychannel3.com",
+     "where": "GitHub commits (channel3-ai)",
+     "kind": "personal",
+     "name": "evanfen-c3",
+     "commits": 62
+    },
+    {
+     "email": "george@trychannel3.com",
+     "where": "GitHub commits (channel3-ai)",
+     "kind": "personal",
+     "name": "George Lawrence",
+     "commits": 9
+    },
+    {
+     "email": "shrivi@trychannel3.com",
+     "where": "GitHub commits (channel3-ai)",
+     "kind": "personal",
+     "name": "shrivi-maker",
+     "commits": 2
+    },
+    {
+     "email": "alex@trychannel3.com",
+     "where": "GitHub commits (channel3-ai)",
+     "kind": "personal",
+     "name": "Alexander Schiff",
+     "commits": 5
+    }
+   ]
+  },
+  {
+   "id": "d572b6ecd6",
+   "company": "Forge",
+   "website": "https://www.forgehq.com/",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "United States of America, America / Canada",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. AI native freight forwarder and customs broker Forge manages international logistics for business around the world. We’re an AI native freight forwarder, customs broker, and tariff expert. We’re growing rapidly and support small mom and pop business to the Fortune 1000s, including companies like Allegiant Airlines, Malbon Golf, and R.E.M. beauty. Forge has raised capital from world class investors including Google, Y-Combinator, and Gradient Ventures. B2B, Logistics, Supply Chain, AI, B2B, Supply Chain and Logistics, United States of America, America / Canada",
+   "site_text": "[https://forgehq.com/]\nForge â Customs Brokerage, Tariff Refunds & Duty Drawback Login Talk to an Expert Global trade, handled. Freight forwarding, customs brokerage, and duty drawback - powered by experts and AI Talk to an Expert Trusted by Our services We lead with expertise, and AI amplifies our team. By using our own technology, our team moves faster with less work on your end. Freight forwarding All your ocean, air, and trucking freight to and from anywhere, end to end. Forge Â· Freight CNNGB Ningbo â USLGB Long Beach On water Booked Departed On water Arrived Delivered Mode Ocean Â· FCL Container MSKU 774120â3 Departed Sep 28 ETA Oct 14 Customs brokerage Licensed brokers and AI file to clear every entry ahead of schedule. Forge Â· Clearance Entry NRRâ4482100â7 Released Filed CBP review Released Importer Art Vandelay HS code 847130.00.40 Customs value $128,400 Est. duty $4,210 IEEPA tariff refunds Get back what you're owed. Forge Â· Refunds $ 284,500 recovered and tracked to your account NRRâ4410288â3 List 3 Â· 25% â 0% +$96,300 NRRâ4388742â1 List 4A Â· 7.5% â 0% +$71,940 NRRâ4351106â6 List 3 Â· 25% â 0% +$58,220 12 entries filed Avg. 60 days to refund Duty drawback Get a 99% refund on all your import duties. NRRâ0091442â0 Industrial pumps +$41,800 Approved NRRâ0088731â0 LED assemblies +$27,450 Filed Â· CBP NRRâ0084118â5 Bicycle frames +$19,200 Approved Recovered YTD $412k â 22% vs. last year An extension of your team Leverage our team and our technology to run your supply chain like a pro 24/7 Support Reach out anytime to your dedicated support team over email, phone, Slack, or wherever your team already operates. Visibility platform Get a clear view of all your shipments, compliance documents, and billing in one location. Global trade, rebuilt from the ground up. Talk to an Expert hello@forgehq.com Â© 2026 Forge. All rights reserved. Terms & Conditions Privacy Policy",
+   "email_candidates": [
+    {
+     "email": "hello@forgehq.com",
+     "where": "https://forgehq.com/",
+     "kind": "generic"
+    }
+   ]
+  }
+ ]
+}

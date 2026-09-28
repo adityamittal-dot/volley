@@ -1,13 +1,14 @@
 # Tracker
 
-_Updated 2026-09-25T18:43:51Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-09-28T08:02:16Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
 **Emailed:** 18 · **Sent:** 18 · **Replies:** 0 (0%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
-| new | 234 |
-| no_contact | 131 |
+| new | 240 |
+| skipped | 1 |
+| no_contact | 250 |
 | low_fit | 17 |
 | sent | 18 |
 
