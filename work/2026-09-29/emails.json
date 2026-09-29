@@ -1,0 +1,73 @@
+{"emails": [
+  {"id": "6366416b1c", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Kaagaz team,\n\nA team of 11 shipping to 35M+ users on Kaagaz means people probably end up reading code outside their usual area pretty often.\n\nI built Canopy for that: paste a repo, get a call graph across 10 languages, with anything it can't resolve marked external instead of guessed: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "5a596f3ec3", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi SureBright team,\n\nPricing warranty plans with an LLM across 60+ categories and unlimited SKUs means a wrong output shows up as real money, not just a bad answer.\n\nThat's the kind of bug I spent a summer on at Basepair, fixed an OAuth race condition with row-level locking and cleared 100+ BLOCKER/HIGH security defects a SonarQube audit flagged across a Django/React codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad in Noida, can work from your Delhi office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "f9fc84afe7", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi VeriSmart team,\n\nSaw you're showing LAaaS and DigiPass at Global Fintech Fest this year. Consent management and KYC infra is a space where a small backend bug turns into a compliance problem fast.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and cleared 100+ security defects a SonarQube audit flagged across Django and React: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad based in Noida, close enough to work from your Gurgaon office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "d562e710d9", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Devnagri team,\n\nCompliance-aware multilingual processing for banking and government clients is a place where a model's failure mode matters as much as its accuracy, and we're both in Noida so I've been keeping an eye on what you're building.\n\nI built MedVault around that idea: a Gemini pipeline with a fixed JSON schema, safety rules against diagnosis, and a fallback parser for when the model doesn't return clean JSON: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "a09e85fa8d", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Anurag,\n\nPrescription fulfillment plus telemedicine means Clinikally has to keep patient data isolated per dermatologist and per patient, not just per account, which is a specific kind of backend problem.\n\nMedVault handles that at the queryset level: JWT auth with refresh-token rotation and per-user isolation baked into every query, on a Django REST backend: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "3045e801e8", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi ZiffyHomes team,\n\nRebuilding as AI-first with WhatsApp-driven onboarding and auto-generated agreements means a lot of new surface area to keep reliable across property owners and tenants at once.\n\nAt Basepair I fixed multi-instance file-access failures with S3 on-demand fallbacks and cleared 100+ security and reliability defects across a Django/React codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "166e57f5aa", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Farmako team,\n\nBuilding a health assistant wired into ABHA records for 15,000+ monthly orders means the model has to know what it shouldn't say, not just what it should.\n\nMedVault is built around that constraint: a Gemini pipeline with a fixed JSON schema and safety rules that block diagnosis or prescription outright, with a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "8118471ede", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Hiration team,\n\nRunning 10M+ AI sessions for job seekers means your LLM output has to come back in a shape your product can actually render, every time.\n\nMedVault solves that with a fixed JSON schema for every Gemini call and a fallback parser for when the model doesn't cooperate, behind a mockable client so the 47-test suite runs with no API key: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Delhi office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "8ec9d44612", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi winkJS team,\n\nRanking #3 on OpenSSF with close to 100% test coverage on an NLP toolkit is a bar most projects don't even try to clear, and we're both in Noida.\n\nI built Canopy with a similar discipline: 143 automated tests, deterministic call-graph resolution across 10 languages, and unresolved calls marked external instead of guessed: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "325ff8b883", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Decentro team,\n\nProcessing 240M+ API transactions across 90+ currencies means a race condition or a bad fallback shows up as real money moved wrong, not a failed test.\n\nThat's the class of bug I fixed at Basepair: an OAuth race condition closed with row-level locking, S3 fallbacks for multi-instance file failures, and 100+ security defects cleared in a Django/React codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad in Noida, can work from your Delhi office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "61af24bc96", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi FieldAssist team,\n\nRunning AI-led insights across 8.9M outlets in 32+ countries means reliability at that scale is the actual product, not a side concern.\n\nAt Basepair I spent a summer on exactly that: fixed an OAuth race condition with row-level locking, S3 fallbacks for multi-instance file failures, and cleared 100+ security defects across Django and React: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad in Noida, can work from your Gurgaon office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "0da30edae9", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Josh Talks team,\n\nBuilding voice systems off a dataset spanning 10 regional languages means your pipeline has to handle a lot of messy, non-English model output.\n\nMedVault deals with a version of that: a Gemini pipeline behind a fixed JSON schema, plus a tolerant fallback parser for when the model doesn't return clean JSON: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "b0b502a217", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi TO THE NEW team,\n\nA second Noida facility this year caught my eye since I'm based here too, and quality engineering across that many client codebases means a lot of production bugs to chase.\n\nAt Basepair I chased exactly that kind of bug: an OAuth race condition fixed with row-level locking and 100+ security and reliability defects cleared across Django and React: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "3b2b306482", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Digivate Labs team,\n\nRunning generative AI inside ISHAN for real-time transaction monitoring means the model's output has to be structured enough for the rest of the pipeline to trust it.\n\nMedVault is built around that same constraint: a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output, behind a mockable client: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Gurgaon office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "0b6f3632aa", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Vinayak,\n\n730 stars on your NestJS boilerplate says the team cares about structure other people can actually read, which is rarer than it sounds in agency work.\n\nI built Canopy around the same idea: paste a repo and get a call graph across 10 languages, with anything it can't resolve marked external instead of guessed, backed by 143 tests: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad in Noida, can work from your Gurgaon office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "a916fa2aa3", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Vaibhav,\n\n\"Care, craft, and ownership\" is a line agencies write a lot and mean a lot less often, so I looked at what ColoredCow actually ships before writing this.\n\nI built Canopy with that same care for structure: multi-language call-graph resolution that marks anything it can't trace as external instead of guessing, backed by 143 tests: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "4bb8a23c6e", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Prateek,\n\nStanding up banking and credit history for expats before they land in the US means the auth and data-isolation layer has to be right from day one, not patched later.\n\nMedVault's backend reflects that: JWT auth with refresh-token rotation and per-user isolation enforced at the queryset level on a Django REST API: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Delhi office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "4168e847de", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi GroMo team,\n\nPaying out commission to 1.2M agents across 100+ financial products means a backend bug turns into someone not getting paid correctly, fast.\n\nAt Basepair I fixed exactly that category of bug: an OAuth race condition closed with row-level locking and 100+ security defects cleared across a Django/React codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}}
+]}
