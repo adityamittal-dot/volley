@@ -41,6 +41,12 @@ def lead_domain(raw):
 
 
 _GOOD_SIGNAL_SOURCES = ("github_orgs", "funding_news")
+# How often a source's leads end in a sent email (25-29 Sep, researched leads -> sent): github_orgs 9/20,
+# hn_hiring 5/13, yc_hiring 12/64, unstop 5/59, arbeitnow 0/11, simplify 1/167. Simplify and Arbeitnow
+# list large companies behind ATS forms with no reachable person, so they only fill what's left.
+SOURCE_YIELD = {"github_orgs": 2, "hn_hiring": 1, "funding_news": 2, "unstop": -1, "arbeitnow": -3, "simplify": -4}
+INDIA = re.compile(r"\b(india|bangalore|bengaluru|hyderabad|pune|mumbai|chennai|kolkata|ahmedabad|jaipur|"
+                   r"chandigarh|indore|kochi)\b")
 
 
 def _priority_note(ncr_city, pay, raw):
@@ -98,9 +104,9 @@ def heuristic(raw, p, s, max_age):
     ncr_city = next((c for c in pr["cities"] if c in loc), None)
     if ncr_city:
         score += 5
-    elif "india" in loc or "bangalore" in loc or "bengaluru" in loc:
+    elif INDIA.search(loc):
         score += 2
-    elif re.search(r"\b(remote|anywhere|worldwide|global)\b", loc):
+    elif re.search(r"\b(remote|anywhere|worldwide|global|work from home)\b", loc):
         score += 1
     if US_ONLY.search(loc + desc):
         score -= 3
@@ -109,6 +115,9 @@ def heuristic(raw, p, s, max_age):
         score += 1
     if raw.get("yc"):
         score += 2
+    score += SOURCE_YIELD.get(raw["source"], 0)
+    if raw.get("website") and not research.is_job_board(raw["website"]):
+        score += 1   # a company site to crawl is where contacts come from
     if pay:
         score += 6 if pay["max"] >= target else 3
 
@@ -128,7 +137,8 @@ def heuristic(raw, p, s, max_age):
 
 
 def discover(leads, s, p):
-    raw_leads = sources.fetch_all(s["sources"], log=log, priority=s["priority"])
+    raw_leads = sources.fetch_all(s["sources"], log=log, priority=s["priority"],
+                                  known_urls={l.get("url") for l in leads.values()})
     added = 0
     for raw in raw_leads:
         raw["company"] = (raw.get("company") or "").strip()
@@ -157,8 +167,16 @@ def discover(leads, s, p):
             "priority": raw["priority"], "priority_note": raw["priority_note"],
         }
         added += 1
+    # Rescore the whole pool: freshness decays, and scoring rules change. Leads that no longer qualify go.
+    for l in [l for l in leads.values() if l["status"] == "new"]:
+        rescored = heuristic(l, p, s, s["lead_max_age_days"])
+        if rescored is None:
+            del leads[l["id"]]
+        else:
+            l["score"] = rescored
     # Unworked leads are cheap to rediscover; keep only the best ones so leads.json stays small.
-    fresh = sorted((l for l in leads.values() if l["status"] == "new"), key=lambda l: l["score"], reverse=True)
+    fresh = sorted((l for l in leads.values() if l["status"] == "new"),
+                   key=lambda l: (l.get("priority", 0), l["score"]), reverse=True)
     for l in fresh[KEEP_NEW:]:
         del leads[l["id"]]
     log(f"discover: {len(raw_leads)} postings, {added} new leads, {min(len(fresh), KEEP_NEW)} kept in the pool")

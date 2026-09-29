@@ -56,5 +56,5 @@ sources:
   unstop: true         # India internships / jobs (public API)
   internshala: true    # India internships / fresher jobs, filtered to NCR + pay floor
   github_orgs: true    # niche NCR startups with no posted opening, found by GitHub org location
-  funding_news: true   # recently-funded NCR startups (Entrackr, Inc42)
+  funding_news: true   # recently-funded Indian startups (Entrackr, Inc42, ET, YourStory); NCR ones get priority
   simplify: true

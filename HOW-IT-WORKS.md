@@ -62,9 +62,9 @@ Pulls every source, no keys needed:
 | HN "Who is hiring?" (monthly) | startup postings, often with a founder's email right in the text |
 | YC companies hiring (yc-oss) | ~1,400 YC startups with website and team size, plus any *Active* YC startup with an NCR office even if it isn't listed as hiring |
 | Unstop | Indian internships and fresher jobs |
-| Internshala | Indian internships/fresher jobs, filtered to NCR cities and the pay floor before the detail page is even fetched |
-| GitHub orgs | niche NCR startups that never post an opening — found by org location, kept only if a repo shipped in the last 180 days and the org links a real site |
-| Entrackr / Inc42 funding news | NCR startups that just closed a round — worth a cold email before they're flooded with applicants |
+| Internshala | Indian internships/fresher jobs in every NCR city (Delhi, Gurgaon, Noida, Greater Noida, Ghaziabad, Faridabad) across 7 engineering categories, plus remote internships; filtered to the pay floor before the detail page is even fetched |
+| GitHub orgs | niche startups that never post an opening — found by org location (all of NCR first, then Bangalore, Hyderabad, Pune, Mumbai, Chennai), a different page of results each day, orgs already in `leads.json` skipped; kept only if a repo shipped in the last year, the org links a real site, and it isn't a university, student club or community |
+| Funding news (Entrackr, Inc42, ET, YourStory) | Indian startups that closed a round in the last 45 days — worth a cold email before they're flooded with applicants. The city is read from the article text, so NCR ones get the priority tier |
 | Simplify (Summer 2027 internships, New Grad) | US-heavy internship/new-grad list, last 30 days only |
 | RemoteOK, Remotive, Arbeitnow, Jobicy, Himalayas | remote and EU postings |
 
@@ -76,7 +76,11 @@ Each posting is scored without any LLM (`pipeline.heuristic`):
 - points for: entry-level words (intern, new grad, junior, fresher...) +4, engineering role +2, your
   stack keywords (up to +3), freshness (+3 today, +2 ≤3 days, +1 ≤7), an email in the post +3,
   a Delhi NCR city +5 (else India +2, remote +1), YC team ≤ 50 +1, YC +2, stated pay at/above target +6
-  (else +3 if it clears the floor); US-only/clearance −3.
+  (else +3 if it clears the floor), a real company site +1; US-only/clearance −3;
+- source yield (`pipeline.SOURCE_YIELD`, from how often each source's leads became a sent email): GitHub orgs
+  and funding news +2, HN +1, Unstop −1, Arbeitnow −3, Simplify −4.
+
+The whole unworked pool is rescored every morning, so freshness decays and rule changes apply to old leads too.
 
 **NCR priority:** the candidate is based in Noida, so `config/settings.yaml`'s `priority` block (NCR cities,
 pay floor/target in LPA and monthly stipend) sets a `priority` tier on every lead — 2 for an NCR lead
@@ -85,7 +89,7 @@ a good-company signal: YC, a shipping GitHub org, or fresh funding), 0 otherwise
 fit everywhere a lead queue is ordered (the batch, the shortlist, delivery).
 
 Companies are deduplicated by domain (or name), so a company is never emailed twice. Only the best
-400 unworked leads are kept; the rest are rediscovered tomorrow if still posted.
+400 unworked leads (priority tier first, then score) are kept; the rest are rediscovered tomorrow if still posted.
 
 ### 3.2 Research (`volley/research.py`)
 For the top `30 × 2 = 60` leads (leads with no email address anywhere are dropped here, before any credits are spent — unless it's a priority NCR lead with a crawlable site and a working mailserver, kept for a founder pattern-guess):

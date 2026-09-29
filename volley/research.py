@@ -31,7 +31,10 @@ HIRING_LOCAL = {"careers", "career", "jobs", "hiring", "recruiting", "recruitmen
 JOB_BOARD_HOSTS = ("greenhouse.io", "lever.co", "ashbyhq.com", "workable.com", "wellfound.com", "linkedin.com",
                    "ycombinator.com", "news.ycombinator.com", "remoteok.com", "remotive.com", "himalayas.app",
                    "jobicy.com", "arbeitnow.com", "unstop.com", "simplify.jobs", "github.com", "notion.site",
-                   "google.com", "forms.gle", "typeform.com", "breezy.hr", "smartrecruiters.com", "bamboohr.com")
+                   "google.com", "forms.gle", "typeform.com", "breezy.hr", "smartrecruiters.com", "bamboohr.com",
+                   "internshala.com",
+                   # funding_news links the article, never the company's own site
+                   "entrackr.com", "inc42.com", "indiatimes.com", "yourstory.com")
 # Mailboxes that never lead to a hiring conversation; dropped before the analyst sees them.
 BLOCKED_LOCAL = {"support", "help", "privacy", "legal", "security", "billing", "abuse", "noreply", "no-reply",
                  "press", "media", "sales", "ir", "investors", "compliance", "grievance", "dpo", "accounts",

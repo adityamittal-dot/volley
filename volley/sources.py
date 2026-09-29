@@ -505,11 +505,22 @@ def fetch_unstop():
 # India's largest internship/fresher board. Listing cards carry the stated salary or stipend; only cards
 # that clear the pay floor get their detail page fetched (full JD + the company's own website).
 
-_INTERNSHALA_CITIES = ("delhi", "gurgaon", "noida")
-_INTERNSHALA_PAGES = [f"https://internshala.com/{kind}/{cat}-{noun}-in-{city}/"
-                      for city in _INTERNSHALA_CITIES
-                      for kind, noun in (("fresher-jobs", "jobs"), ("internships", "internship"))
-                      for cat in ("computer-science", "software-development", "web-development")]
+_INTERNSHALA_CITIES = ("delhi", "gurgaon", "noida", "greater-noida", "ghaziabad", "faridabad")
+_INTERNSHALA_CATS = ("computer-science", "software-development", "web-development", "python-django",
+                     "full-stack-development", "backend-development", "machine-learning")
+_INTERNSHALA_PAGES = (
+    [f"https://internshala.com/{kind}/{cat}-{noun}-in-{city}/"
+     for city in _INTERNSHALA_CITIES
+     for kind, noun in (("fresher-jobs", "jobs"), ("internships", "internship"))
+     for cat in _INTERNSHALA_CATS]
+    # the biggest lists run past one page of 50
+    + [f"https://internshala.com/{kind}/computer-science-{noun}-in-{city}/page-2/"
+       for city in ("delhi", "gurgaon", "noida")
+       for kind, noun in (("fresher-jobs", "jobs"), ("internships", "internship"))]
+    # remote internships from anywhere in India, same pay floor
+    + [f"https://internshala.com/internships/work-from-home-{cat}-internships/"
+       for cat in ("computer-science", "software-development", "web-development")]
+)
 _INTERNSHALA_FLOOR = {"year": 800000, "month": 25000}   # overridden by settings.priority via fetch_all
 _AGO_RE = re.compile(r"(\d+|a|few)\s*(hour|day|week|month)s?\s*ago|just now|today", re.I)
 
@@ -568,12 +579,22 @@ def fetch_internshala():
 
 
 # ------------------------------------------------------------ github_orgs --
-# Niche NCR startups that never post an opening: found by org location on GitHub, kept only if they
-# still ship (a repo pushed in the last 180 days) and link a real company site.
+# Niche startups that never post an opening: found by org location on GitHub, kept only if they still
+# ship (a repo pushed in the last year) and link a real company site. The best-converting source, so it
+# searches all of Delhi NCR first, then India's other tech hubs, and pages through a different slice of
+# the results each day (the first page alone returns the same orgs every morning).
 
-_GH_CITIES = ("gurgaon", "gurugram", "noida", "delhi", "new delhi")
-_GH_ORG_CAP = 100
-_GH_PUSH_CUTOFF_SECONDS = 180 * 86400
+_GH_NCR = ("noida", "gurgaon", "gurugram", "delhi", "ghaziabad", "faridabad")
+_GH_HUBS = ("bangalore", "bengaluru", "hyderabad", "pune", "mumbai", "chennai")
+_GH_PAGES = 5            # rotate through the first 5 pages (250 orgs) of each location's results
+_GH_ORG_CAP = 160        # org detail lookups per run (2 API calls each; Actions' token allows 1000/hour)
+_GH_PUSH_CUTOFF_SECONDS = 365 * 86400
+_KNOWN_URLS = set()      # lead URLs already in leads.json (set by fetch_all): skipped before any lookup
+# Student clubs, universities, communities and public bodies also register orgs by city: never employers here.
+_GH_NOT_A_COMPANY = re.compile(
+    r"\b(iit|iiit|nit|nsut|dtu|igdtuw|jiit|amity|university|univ|college|institute|school|students?|"
+    r"society|chapter|community|communities|meetup|gdsc|dsc|mlsa|acm|ieee|hackathon|hacktoberfest|conference|"
+    r"py[a-z]*delhi|foss|department|dept|govt|government|ministry|army|police|ngo|foundation)\b", re.I)
 _NOT_A_SITE_HOSTS = (
     "github.com", "github.io", "linkedin.com", "twitter.com", "x.com", "facebook.com", "instagram.com",
     "medium.com", "notion.site", "linktr.ee", "angel.co", "wellfound.com", "indeed.com", "glassdoor.com",
@@ -596,22 +617,30 @@ def _gh_is_real_site(url):
     return bool(host) and not any(j in host for j in _NOT_A_SITE_HOSTS)
 
 
+def _gh_search(city, page, headers):
+    url = (f"https://api.github.com/search/users?q=type:org+location:{quote(city)}+repos:%3E2"
+           f"&per_page=50&page={page}")
+    try:
+        items = _get(url, headers=headers).json().get("items", [])
+    except (requests.RequestException, ValueError):
+        return []
+    finally:
+        time.sleep(2.1)   # search API: 30 requests/minute with a token
+    return [i["login"] for i in items if i.get("login")]
+
+
 def fetch_github_orgs():
     headers = _gh_headers()
-    logins, seen = [], set()
-    for city in _GH_CITIES:
-        if len(logins) >= _GH_ORG_CAP:
-            break
-        try:
-            r = _get(f"https://api.github.com/search/users?q=type:org+location:{quote(city)}+repos:%3E2&per_page=50",
-                     headers=headers)
-        except requests.RequestException:
-            continue
-        for item in r.json().get("items", []):
-            login = item.get("login")
-            if login and login not in seen:
-                seen.add(login)
-                logins.append(login)
+    day = datetime.now(timezone.utc).timetuple().tm_yday
+    ncr, hubs, seen = [], [], set()
+    for cities, out in ((_GH_NCR, ncr), (_GH_HUBS, hubs)):
+        for city in cities:
+            for page in sorted({1, 1 + day % _GH_PAGES}):
+                for login in _gh_search(city, page, headers):
+                    if login not in seen and f"https://github.com/{login}" not in _KNOWN_URLS:
+                        seen.add(login)
+                        out.append(login)
+    logins = ncr + hubs   # NCR first: the cap cuts from the other hubs
 
     leads = []
     cutoff = time.time() - _GH_PUSH_CUTOFF_SECONDS
@@ -620,6 +649,8 @@ def fetch_github_orgs():
             org = _get(f"https://api.github.com/orgs/{login}", headers=headers).json()
             website = org.get("blog") or ""
             if not _gh_is_real_site(website):
+                continue
+            if _GH_NOT_A_COMPANY.search(f"{login} {org.get('name') or ''} {org.get('description') or ''} {website}"):
                 continue
             repos = _get(f"https://api.github.com/orgs/{login}/repos?sort=pushed&per_page=5",
                          headers=headers).json()
@@ -653,29 +684,77 @@ def fetch_github_orgs():
 
 
 # ------------------------------------------------------------- funding_news --
-# Freshly-funded NCR startups: worth a cold email before they're flooded with applicants, even though
-# they haven't posted an opening yet.
+# Freshly-funded Indian startups: worth a cold email before they're flooded with applicants, even though
+# they haven't posted an opening yet. Every Indian round counts; the NCR ones get the priority tier
+# (the location is read from the article text, since headlines rarely name the city).
 
-_FUNDING_FEEDS = ("https://entrackr.com/feed", "https://inc42.com/feed/")
-_FUNDING_PATTERN = re.compile(r"raises|secures|bags|funding", re.I)
-_FUNDING_SPLIT = re.compile(r"\s+(raises|secures|bags)\b", re.I)
+_FUNDING_FEEDS = (
+    "https://entrackr.com/rss",                                               # full article text
+    "https://inc42.com/feed/",
+    "https://inc42.com/tag/funding/feed/",
+    "https://economictimes.indiatimes.com/tech/funding/rssfeeds/78570540.cms",
+    "https://yourstory.com/feed",
+)
+_FUNDING_PATTERN = re.compile(r"\b(raises|raised|secures|bags|nets|picks up|funding|seed round|pre-seed|series [a-e])\b", re.I)
+# Not a startup round: IPOs, rights issues, acquisitions, VC funds closing, round-ups, "to raise" plans.
+_FUNDING_SKIP = re.compile(r"\b(ipo|drhp|rights issue|acqui|stake|fund (i|ii|iii|iv|v)\b|first close|corpus|"
+                           r"this week|funding and acquisitions|weekly|report|to raise|in talks|mutual fund|debt fund|new funds?\b|enters)", re.I)
+_FUNDING_SPLIT = re.compile(r"\s+(raises|raised|secures|bags|nets|picks up)\b", re.I)
+_FUNDING_ROUND_IN = re.compile(r"\b(?:round|funding|investment)\s+in\s+(.+)$", re.I)
 _FUNDING_DESCRIPTOR = re.compile(
-    r"^(gurgaon|gurugram|noida|new delhi|delhi)(?:-based|['’]s)?\s*"
-    r"(?:fintech|startup|edtech|healthtech|saas|foodtech|agritech|d2c|ai)?\s*", re.I)
-_FUNDING_CUTOFF_SECONDS = 90 * 86400
+    r"^(?:exclusive:\s*)?(?:(?:gurgaon|gurugram|noida|new delhi|delhi|bengaluru|bangalore|mumbai|pune|hyderabad|"
+    r"chennai)(?:-based|['’]s)?\s*)?(?:[\w&/-]+\s+){0,4}?(?:company|startup|platform|brand|firm|maker|provider|"
+    r"marketplace|app|player|fintech|edtech|healthtech|saas|foodtech|agritech|d2c|deeptech|spacetech)\s+", re.I)
+_FUNDING_CUTOFF_SECONDS = 45 * 86400
+_FUNDING_CITY_RE = re.compile(r"\b(gurgaon|gurugram|noida|greater noida|new delhi|delhi|ghaziabad|faridabad|"
+                              r"bengaluru|bangalore|mumbai|pune|hyderabad|chennai|kolkata|ahmedabad|jaipur|chandigarh)\b", re.I)
+_NEWS_HOSTS = ("entrackr.com", "inc42.com", "indiatimes.com", "yourstory.com", "twitter.com", "x.com",
+               "linkedin.com", "facebook.com", "instagram.com", "youtube.com", "t.me", "whatsapp.com",
+               "google.com", "apple.com", "wp.com", "wordpress.com", "gravatar.com", "feedburner.com")
+_CONTENT_NS = "{http://purl.org/rss/1.0/modules/content/}encoded"
 
 
 def _funding_company(title):
-    m = _FUNDING_SPLIT.search(title)
-    name = title[:m.start()] if m else title.split(" funding")[0]
-    return _FUNDING_DESCRIPTOR.sub("", name).strip(" :-’'")
+    m = _FUNDING_ROUND_IN.search(title)
+    if m:   # "Elevation Capital leads $6.7 Mn seed round in Dextr AI"
+        name = m.group(1)
+    else:
+        m = _FUNDING_SPLIT.search(title)
+        if not m:
+            return ""
+        name = title[:m.start()]
+    name = re.sub(r"^(?:exclusive|funding|breaking)\s*:\s*", "", name.strip(), flags=re.I)
+    name = re.sub(r"^.*?\b\w+['’]s\s+", "", name)   # "Cred alumni’s Sol", "Noida's Acme"
+    while (shorter := _FUNDING_DESCRIPTOR.sub("", name, count=1)) != name:   # "D2C streetwear brand X"
+        name = shorter
+    name = name.strip(" :-’'")
+    return name if 0 < len(name.split()) <= 5 and "," not in name else ""
+
+
+def _funding_city(text):
+    """The first Indian city named near a company, NCR spellings normalized to a priority city."""
+    m = _FUNDING_CITY_RE.search(text)
+    return m.group(1).title() if m else ""
+
+
+def _funding_site(raw_html, company):
+    """The company's own website if the article links it: an outbound link whose host shares a word
+    with the company name."""
+    words = [w for w in re.findall(r"[a-z0-9]+", company.lower()) if len(w) >= 3]
+    for href in re.findall(r'href="(https?://[^"]+)"', raw_html or ""):
+        host = urlparse(href).netloc.lower().removeprefix("www.")
+        if not host or any(host == h or host.endswith("." + h) for h in _NEWS_HOSTS):
+            continue
+        if any(w in host.replace("-", "") for w in words):
+            return f"https://{host}"
+    return ""
 
 
 def fetch_funding_news():
     import xml.etree.ElementTree as ET
     from email.utils import parsedate_to_datetime
 
-    leads = []
+    leads, seen = [], set()
     cutoff = time.time() - _FUNDING_CUTOFF_SECONDS
     for feed_url in _FUNDING_FEEDS:
         try:
@@ -683,28 +762,37 @@ def fetch_funding_news():
         except (requests.RequestException, ET.ParseError):
             continue
         for item in root.findall(".//item"):
-            title = (item.findtext("title") or "").strip()
-            if not title or not _FUNDING_PATTERN.search(title):
-                continue
-            desc = strip_html(item.findtext("description") or "")
-            if not _NCR_RE.search(title + " " + desc):
+            title = strip_html(item.findtext("title") or "")
+            if not title or not _FUNDING_PATTERN.search(title) or _FUNDING_SKIP.search(title):
                 continue
             try:
                 dt = parsedate_to_datetime(item.findtext("pubDate") or "")
             except (TypeError, ValueError):
-                dt = None
-            if not dt:
                 continue
             if dt.tzinfo is None:
                 dt = dt.replace(tzinfo=timezone.utc)
             if dt.timestamp() < cutoff:
                 continue
             company = _funding_company(title)
-            if not company:
+            if not company or company.lower() in seen:
                 continue
+            seen.add(company.lower())
+            link = (item.findtext("link") or "").strip()
+            raw = (item.findtext(_CONTENT_NS) or "") + " " + (item.findtext("description") or "")
+            text = strip_html(raw)
+            if len(text) < 1200 and link:   # a teaser only: read the article for the city and the site
+                try:
+                    raw = _get(link).text
+                    text = strip_html(raw)
+                    time.sleep(0.3)
+                except requests.RequestException:
+                    pass
+            city = _funding_city(text[:6000])
+            # Reporters' and publishers' addresses are not the company's: keep emails out of the lead.
+            desc = _EMAIL_RE.sub("", f"{title}. {text[:3000]}")
             posted_at = dt.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
-            link = item.findtext("link") or ""
-            leads.append(_lead(company, "Software Engineering (recently funded)", desc, link, "", "",
+            leads.append(_lead(company, "Software Engineering (recently funded)", desc, link,
+                               _funding_site(raw, company), f"{city}, India" if city else "India",
                                posted_at, "funding_news"))
     return leads
 
@@ -806,7 +894,9 @@ _SOURCES = {
 }
 
 
-def fetch_all(enabled: dict, log=print, priority=None) -> list:
+def fetch_all(enabled: dict, log=print, priority=None, known_urls=()) -> list:
+    _KNOWN_URLS.clear()
+    _KNOWN_URLS.update(known_urls)
     if priority:
         _INTERNSHALA_FLOOR.update(year=priority["min_lpa"] * 100000, month=priority["min_stipend"])
     all_leads = []
