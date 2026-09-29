@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-09-29T10:18:19Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-09-29T14:54:17Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 35 · **Sent:** 35 · **Replies:** 0 (0%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 36 · **Sent:** 36 · **Replies:** 1 (3%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,26 +10,27 @@ _Updated 2026-09-29T10:18:19Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 1 |
 | no_contact | 262 |
 | low_fit | 47 |
-| queued | 1 |
-| sent | 34 |
-| bounced | 1 |
+| sent | 33 |
+| replied | 1 |
+| bounced | 2 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
 | basepair | 14 | 0 |
-| medvault | 11 | 0 |
-| canopy | 10 | 0 |
+| medvault | 12 | 0 |
+| canopy | 10 | 1 |
 
 ## Replies
 
-_None yet._
+- **InfoHawk** — James <james@infohawk.com> replied 2026-09-29
 
 ## Latest 25 emails
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-09-29 | Swadesh | prateek@swadesh.co | medvault | sent |
 | 2026-09-29 | GroMo | contact@gromo.in | basepair | sent |
 | 2026-09-29 | ColoredCow | vaibhav@coloredcow.com | canopy | sent |
 | 2026-09-29 | Squareboat | vinayaksarawagi25@gmail.com | canopy | sent |
@@ -45,13 +46,12 @@ _None yet._
 | 2026-09-29 | Clinikally | anuragmishra@clinikally.com | medvault | sent |
 | 2026-09-29 | Devnagri AI Pvt Ltd | namaste@devnagri.com | medvault | sent |
 | 2026-09-29 | Verismart.AI | hello@verismart.ai | basepair | sent |
-| 2026-09-29 | SureBright | hello@surebright.com | basepair | sent |
+| 2026-09-29 | SureBright | hello@surebright.com | basepair | bounced |
 | 2026-09-29 | Kaagaz | work@kaagaz.app | canopy | sent |
 | 2026-09-25 | Controlshift | hello@controlshift.co.nz | medvault | sent |
 | 2026-09-25 | Xero | careers@xero.com | medvault | sent |
-| 2026-09-25 | InfoHawk | james@infohawk.com | canopy | sent |
+| 2026-09-25 | InfoHawk | james@infohawk.com | canopy | replied |
 | 2026-09-25 | LaunchDarkly | careers@launchdarkly.com | canopy | sent |
 | 2026-09-25 | Ooak Data | contact@ooakdata.com | canopy | bounced |
 | 2026-09-25 | Crustdata | info@crustdata.com | canopy | sent |
 | 2026-09-25 | Formance | maxence@formance.com | basepair | sent |
-| 2026-09-25 | Canonical | patricia.reinoso@canonical.com | basepair | sent |
