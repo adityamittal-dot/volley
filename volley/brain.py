@@ -81,7 +81,8 @@ def write(lead, s):
         f"Opener (research note): {r['hook']}\n"
         f"Project to feature: {project['name']} — {project['one_liner']}\n"
         f"Why it's relevant: {r['angle_reason']}\n"
-        f"The one link to include: {project['link']}\n"
+        + (f"The one link to include: {project['link']}\n" if project.get("link")
+           else "No link in the body for this one (the signature has GitHub and the portfolio).\n")
     )
     system = prompt("writer.md").replace("{candidate}", candidate_brief(p))
     email = llm.structured("writer", s["models"]["writer"], system, user, Email,
@@ -102,8 +103,12 @@ def signature(p=None, attached=False):
     lines = [i["name"], f"{i['school'].split(',')[0]} '{str(i['grad_year'])[2:]}, {i['location']}"]
     if attached:
         lines.append(f"Resume attached · GitHub: {i['github']}")
+    elif i.get("resume_url"):
+        lines.append(f"Resume: {i['resume_url']} · GitHub: {i['github']}")
     else:
-        lines.append(f"Resume: {i['resume_url']}" if i.get("resume_url") else f"GitHub: {i['github']}")
+        lines.append(f"GitHub: {i['github']}")
+    if i.get("portfolio"):
+        lines.append(f"Portfolio: {i['portfolio']}")
     return "\n".join(lines)
 
 
@@ -117,11 +122,10 @@ def followup(lead, n, p=None):
         others = [pr for pr in p["projects"] if pr["id"] != (lead.get("research") or {}).get("angle")
                   and pr["id"] != "basepair"]
         extra = others[0] if others else None
-        more = p["identity"].get("portfolio") or p["identity"]["github"]
-        line = (f"In case it's useful, I also built {extra['name']}: {extra['one_liner']} ({extra['link']}). "
+        line = (f" In case it's useful, I also built {extra['name']}: {extra['one_liner']} ({extra['link']})."
                 if extra else "")
-        return (f"{hi}\n\nBumping this in case it got buried. {line}"
-                f"More of my work is at {more}.\n\nEven a quick \"not right now\" helps.")
+        return (f"{hi}\n\nBumping this in case it got buried.{line}"
+                f"\n\nEven a quick \"not right now\" helps.")
     return (f"{hi}\n\nLast note from me. If the timing's off, no worries at all. Is there someone else at "
             f"{lead['company']} I should talk to about engineering internships or junior roles, "
             f"or should I check back in a few months?")

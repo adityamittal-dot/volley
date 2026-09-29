@@ -10,7 +10,7 @@ identity:
   location: Noida, India
   github: https://github.com/adityamittal-dot
   linkedin: https://www.linkedin.com/in/aditya-mittal-084b91291/
-  portfolio: ""        # e.g. https://aditya.dev — shown in follow-up #1 when set
+  portfolio: https://aditya-mittal.adityamittal529.workers.dev/   # last line of every signature
   resume_url: https://drive.google.com/file/d/1uqpBeZcbJG4HRsmyIqOmOZpRt33Dgwbu/view?usp=sharing   # master resume PDF (Google Drive, anyone with the link)
 
 # One line the writer can use to say what you're looking for.
@@ -31,7 +31,8 @@ experience:
       - Owned the frontend from prototype to production, mobile-first components and client-side validation.
 
 # The "angles". The analyst picks the one that best matches each company and
-# the writer builds the email around it. `link` is the single link in the body.
+# the writer builds the email around it. `link` is the single link in the body; an empty link means
+# the email has no link (the signature already carries GitHub and the portfolio).
 projects:
   - id: canopy
     name: Canopy
@@ -58,7 +59,7 @@ projects:
       - All LLM calls behind one mockable client, 47-test suite runs with no API key.
   - id: basepair
     name: my Basepair internship
-    link: https://github.com/adityamittal-dot
+    link: ""
     repo: https://github.com/adityamittal-dot
     one_liner: fixed production distributed-systems bugs and 100+ security defects in a Django/React codebase
     good_for: [saas, b2b, fintech, bio, infrastructure, reliability, security, django, python, aws]

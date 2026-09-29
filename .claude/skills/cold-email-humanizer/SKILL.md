@@ -13,7 +13,8 @@ himself in five minutes because he actually looked at their company.
 - **Greeting:** `Hi <first name>,` if the shortlist gives a name, else `Hi <Company> team,`.
 - **Opener:** the hook from the shortlist, in his own words. One specific, true observation about their
   product, a technical choice, a launch, or a line in the posting. No compliment, no "I came across".
-- **Proof:** one sentence on the chosen project with one concrete detail and its link (the only link).
+- **Proof:** one sentence on the chosen project with one concrete detail and its link (the only link). The Basepair
+  internship has no link: no link in those emails, never the GitHub profile instead.
   Tie it to what they do in a few words, don't explain the connection at length.
 - **Ask:** say plainly he's a 2027 grad looking for an internship or entry-level role, then end with **one**
   low-effort question they can answer in a line ("Is anyone on the team taking on an intern this year?").
@@ -23,7 +24,7 @@ himself in five minutes because he actually looked at their company.
   Internship", "Backend Engineer Intern"), otherwise the closest plain one ("Software Engineering
   Internship"). Never the feed's noise ("Engineering (YC Summer 2016)", a URL, "See posting"), never a
   hook, pun, question, "+", emoji, "Opportunity", "Application" or "RE:". The body carries the specifics.
-- No sign-off, no signature, no mention of resume/GitHub/LinkedIn (the signature adds them).
+- No sign-off, no signature, no mention or link of resume/GitHub/portfolio/LinkedIn (the signature adds them).
 
 ## Voice (the humanizer; `volley check` rejects violations)
 - Plain, direct, a little informal. Contractions are fine. Vary sentence length naturally.

@@ -242,7 +242,7 @@ def check(day=None):
         return problems + ["work/<date>/emails.json missing"]
     emails = {e["id"]: e for e in json.loads(path.read_text()).get("emails", [])}
     short = {r["id"]: r for r in shortlist(day, show=False)}
-    links = {pr["link"] for pr in profile()["projects"]}
+    links = {pr["link"] for pr in profile()["projects"] if pr.get("link")}
     leads = store.load()
     profile_text = json.dumps(profile())
     for lid, r in short.items():
@@ -368,10 +368,12 @@ def test_send(to, case):
                 problems.append(f"tailored resume is {pages} pages")
     if problems:
         raise SystemExit("test case fails the checks:\n  " + "\n  ".join(problems))
+    if not pdf and tailor.MASTER_PDF.exists():   # same as delivery: the master PDF when not tailored
+        pdf = tailor.MASTER_PDF
     sig = brain.signature(p, attached=bool(pdf))
     msg = mailer.build(p["identity"]["name"], to,
                        f"[volley test -> {lead['company']} <{contact['email']}>] {e['subject']}",
                        f"{e['body']}\n\n{sig}", attachment=pdf)
     mailer.send(msg)
     log(f"test sent to {to}: {lead['company']} ({contact['email']}, {contact['confidence']}), "
-        f"{'tailored resume attached' if pdf else 'master resume link'}")
+        f"{'resume attached' if pdf else 'master resume link'}")

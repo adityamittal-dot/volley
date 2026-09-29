@@ -1,0 +1,13 @@
+{
+ "id": "a9e03cfc32",
+ "fit": 8,
+ "angle": "basepair",
+ "contact_email": "contact@merklescience.com",
+ "subject": "Backend Engineer Intern – Aditya Mittal",
+ "body": "Hi Merkle Science team,\n\nKeeping a Django/FastAPI backend correct when it's feeding AML/KYC decisions off onchain data leaves no room for quiet bugs.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and led a cleanup resolving 100+ security and reliability defects across a Python/Django codebase.\n\nI'm a 2027 CS grad looking for an internship. Is the backend intern role still open?",
+ "tailor": {
+  "decision": false,
+  "reason": "",
+  "gap_terms": []
+ }
+}

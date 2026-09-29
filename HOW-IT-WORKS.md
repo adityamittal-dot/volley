@@ -134,7 +134,8 @@ whose region window is open. The signature is appended automatically:
 ```
 Aditya Mittal
 B.Tech CSE '27, Noida, India
-Resume: <resume_url>            (or "Resume attached · GitHub: ..." when a tailored PDF is attached)
+Resume attached · GitHub: <github>   (follow-ups: "Resume: <resume_url> · GitHub: <github>")
+Portfolio: <portfolio>
 ```
 
 In `draft` mode emails go to your Gmail Drafts; the next sync notices when you've sent them.
@@ -203,7 +204,8 @@ intern this year?
 
 Aditya Mittal
 B.Tech CSE '27, Noida, India
-Resume: https://...
+Resume attached · GitHub: https://github.com/adityamittal-dot
+Portfolio: https://aditya-mittal.adityamittal529.workers.dev/
 ```
 
 Rules (enforced by `volley/humanize.py`): 60-90 words, one specific observation, one project with one
@@ -212,7 +214,7 @@ AI-tell vocabulary or clichés, no "not just X but Y", no triads, no exclamation
 
 ## 7. Follow-ups, replies, bounces
 
-- **Day 4:** "Bumping this in case it got buried" + your *other* flagship project + GitHub/portfolio.
+- **Day 4:** "Bumping this in case it got buried" + your *other* flagship project (GitHub and portfolio are in the signature).
 - **Day 10:** "Last note from me... is there someone else I should talk to, or should I check back later?"
 - Both are sent as replies in the same Gmail thread, templated (no credits), only on send days.
 - **Reply detection:** any email from the contact, or from anyone at their company domain (newsletters
