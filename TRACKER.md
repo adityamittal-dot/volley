@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-09-29T14:54:17Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-09-29T19:28:28Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 36 · **Sent:** 36 · **Replies:** 1 (3%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 36 · **Sent:** 36 · **Replies:** 2 (6%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,8 +10,8 @@ _Updated 2026-09-29T14:54:17Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 1 |
 | no_contact | 262 |
 | low_fit | 47 |
-| sent | 33 |
-| replied | 1 |
+| sent | 32 |
+| replied | 2 |
 | bounced | 2 |
 
 ## Reply rate by angle
@@ -20,11 +20,12 @@ _Updated 2026-09-29T14:54:17Z UTC. Full table: [data/tracker.csv](data/tracker.c
 |---|---|---|
 | basepair | 14 | 0 |
 | medvault | 12 | 0 |
-| canopy | 10 | 1 |
+| canopy | 10 | 2 |
 
 ## Replies
 
 - **InfoHawk** — James <james@infohawk.com> replied 2026-09-29
+- **winkjs** —  <contactus@graype.in> replied 2026-09-29
 
 ## Latest 25 emails
 
@@ -39,7 +40,7 @@ _Updated 2026-09-29T14:54:17Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-09-29 | FieldAssist | info@fieldassist.in | basepair | sent |
 | 2026-09-29 | Josh Talks Pvt. Ltd. | developers@joshtalks.com | medvault | sent |
 | 2026-09-29 | Decentro | hello@decentro.tech | basepair | sent |
-| 2026-09-29 | winkjs | contactus@graype.in | canopy | sent |
+| 2026-09-29 | winkjs | contactus@graype.in | canopy | replied |
 | 2026-09-29 | Hiration | team@hiration.com | medvault | sent |
 | 2026-09-29 | Farmako Healthcare | hello@farmako.ai | medvault | sent |
 | 2026-09-29 | ZiffyHomes | careers@ziffyhomes.com | basepair | sent |

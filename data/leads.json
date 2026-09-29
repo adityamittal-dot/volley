@@ -9489,6 +9489,7 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Noida · active GitHub org, no posting",
+  "replied_at": "2026-09-29T19:28:19Z",
   "research": {
    "angle": "canopy",
    "angle_reason": "Canopy's rigorous multi-language parser architecture (Python ast + tree-sitter, 143 tests) aligns perfectly with winkJS's security and test-coverage ethos.",
@@ -9506,7 +9507,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/winkjs",
   "website": "https://winkjs.org/",
