@@ -35,7 +35,7 @@ All times are weekdays. IST = UTC + 5:30.
 
 | UTC | IST | What runs | Where | Cost |
 |---|---|---|---|---|
-| 00:17 | 05:47 | **prepare**: sync Gmail, send due follow-ups, fetch 9 job feeds, score, crawl the best ~40 leads, write `work/<date>/batch-N.json` | GitHub Actions (`volley.yml`) | free |
+| 00:17 | 05:47 | **prepare**: sync Gmail, send due follow-ups, fetch 12 lead sources, score, crawl the best ~50-75 leads, write `work/<date>/batch-N.json` | GitHub Actions (`volley.yml`) | free |
 | 01:47 | 07:17 | **prepare (backup)**: syncs and sends due follow-ups; builds the batch only if the first run never did | GitHub Actions (`volley.yml`) | free |
 | 04:30 | 10:00 | **routine**: follows `OUTREACH.md`: Haiku sub-agents analyze, Sonnet writes emails, `volley check`, push `claude/outreach-<date>` | Claude Code routine (claude.ai) | Claude credits |
 | on push | | **ingest**: merge, re-check, render tailored resumes, queue emails, deliver India/Asia/other | GitHub Actions (`ingest.yml`) | free |
@@ -143,7 +143,7 @@ Portfolio: <portfolio>
 ```
 
 In `draft` mode emails go to your Gmail Drafts; the next sync notices when you've sent them.
-In `send` mode volley sends them itself, 10-30 seconds apart (so 30 sends fit the send window).
+In `send` mode volley sends them itself, 10-30 seconds apart (so 25 sends fit the send window).
 
 ## 4. Who does what: models and cost
 
@@ -154,7 +154,7 @@ In `send` mode volley sends them itself, 10-30 seconds apart (so 30 sends fit th
 | Write ~25 emails, decide/tailor resumes | **Sonnet** (routine main session) | the one thing people actually read |
 | Humanizer scan, truth checks, rendering, sending, follow-ups, reply tracking | code | free and exact |
 
-Rough credit use: $0.60-0.90 per weekday → ~$20-29 for 32 weekdays. Watch real
+Rough credit use: $0.50-0.75 per weekday → ~$16-23 for 31 weekdays. Watch real
 usage at claude.ai; if it runs hot, lower `daily_new` or `research_factor`.
 
 The optional **API engine** (`engine: api` + `ANTHROPIC_API_KEY`) runs the same analysis/writing through
@@ -263,7 +263,7 @@ new ──prepare──> researching ──routine/ingest──> queued ──de
 | `config/profile.yaml` | you: links, projects (angles), facts the writer may use, target roles, exclusions |
 | `config/resume.json` | master resume (source of truth for tailoring) |
 | `config/settings.yaml` | mode, volume, windows, sources, models |
-| `volley/sources.py` | the 9 feeds |
+| `volley/sources.py` | the 12 lead sources |
 | `volley/research.py` | domain lookup, site crawl, email discovery, GitHub commits, MX checks, pattern guess |
 | `volley/pipeline.py` | scoring, discovery, contact choice, delivery, sync, follow-ups, API-engine run |
 | `volley/routine.py` | prepare / brief / shortlist / check / ingest / deliver for the routine engine |
@@ -349,9 +349,9 @@ new ──prepare──> researching ──routine/ingest──> queued ──de
 
 ## 16. Volume plan until 10 Nov 2026
 
-- 32 weekdays from Mon 28 Sep to Tue 10 Nov.
-- 30 first emails/day → **~960 companies** contacted.
-- Follow-ups (free): ~600 day-4 + ~480 day-10 minus replies/bounces → **~1,000 more emails**.
-- Total ≈ **1,650 emails**, with Claude credits used only for the ~640 first emails (+ analysis).
+- 31 weekdays from Tue 29 Sep to Tue 10 Nov.
+- 25 first emails/day → **~775 companies** contacted (if every day fills; 17-18 a day so far).
+- Follow-ups (free): a day-4 and a day-10 follow-up to everyone who hasn't replied or bounced → **~1,300 more emails** at most.
+- Claude credits pay only for the first emails (+ analysis); follow-ups are templated.
 - After 10 Nov no new batches are prepared; follow-ups and reply tracking keep running until the
   last threads close.
