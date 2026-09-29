@@ -160,9 +160,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Your distributed trading infrastructure needs the same infrastructure reliability and security hardening I delivered at Basepair.",
+   "fit": 3,
+   "hook": "You're bringing HFT technology to Indian retail traders for the first time - founder is a former options market-maker and HFT technologist from the US.",
+   "people": [
+    {
+     "name": "Raghav Malik",
+     "role": "Founder"
+    }
+   ],
+   "region": "india",
+   "stack": [],
+   "summary": "AlgoTest is an algorithmic options trading platform for Indian retail traders, bringing high-frequency trading technology similar to top hedge funds to the Indian market."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2022)",
   "url": "https://www.ycombinator.com/companies/algotest",
   "website": "https://algotest.in",
@@ -896,9 +911,25 @@
    }
   },
   "company": "Squareboat",
+  "contact": {
+   "confidence": "commit",
+   "email": "vinayaksarawagi25@gmail.com",
+   "found_on": "GitHub commits (squareboat)",
+   "name": "Vinayak Sarawagi",
+   "role": "Engineer"
+  },
   "description": "Design Driven Success.. Languages: PHP, TypeScript. Topics: nest-queue, nestjs, nestjs-backend, nestjs-boilerplate, nestjs-cli, nestjs-console, nestjs-queue, nestjs-sqs, nestjs-starter-template, nestjs-template",
   "domain": "squareboat.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Vinayak,\n\n730 stars on your NestJS boilerplate says the team cares about structure other people can actually read, which is rarer than it sounds in agency work.\n\nI built Canopy around the same idea: paste a repo and get a call graph across 10 languages, with anything it can't resolve marked external instead of guessed, backed by 143 tests: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad in Noida, can work from your Gurgaon office. Do you take on engineering interns or juniors?",
+   "delivered_at": "2026-09-29T10:01:24Z",
+   "lint": [],
+   "message_id": "<179067608180.2127.1002807211209725595@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T10:01:24Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "hi@squareboat.com"
   ],
@@ -912,9 +943,41 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurgaon · active GitHub org, no posting",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy's multi-language static analysis architecture and deterministic call-graph resolution aligns with Squareboat's backend/architecture focus.",
+   "fit": 6,
+   "hook": "730 GitHub stars on NestJS Boilerplate, active open-source contributor—team clearly values clean, reusable code and might mentor junior engineers on real projects.",
+   "people": [
+    {
+     "name": "Vinayak Sarawagi",
+     "role": "Engineer (60 commits)"
+    },
+    {
+     "name": "Ankush Tyagi",
+     "role": "Engineer (8 commits)"
+    },
+    {
+     "name": "Piyush Chhabra",
+     "role": "Engineer"
+    },
+    {
+     "name": "Aryan Khanijo",
+     "role": "Engineer"
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "TypeScript",
+    "PHP",
+    "NestJS",
+    "Node.js"
+   ],
+   "summary": "Squareboat is a web development agency building custom software and open-source tools, with expertise in NestJS, Laravel, and backend systems for startups and enterprises."
+  },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/squareboat",
   "website": "https://squareboat.com/open-source",
@@ -1049,9 +1112,25 @@
    }
   },
   "company": "Josh Talks Pvt. Ltd.",
+  "contact": {
+   "confidence": "posting",
+   "email": "developers@joshtalks.com",
+   "found_on": "job posting",
+   "name": "",
+   "role": ""
+  },
   "description": "Josh Talks is on a Mission To Raise The Aspirations of Young India.. Languages: Python",
   "domain": "joshtalks.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Josh Talks team,\n\nBuilding voice systems off a dataset spanning 10 regional languages means your pipeline has to handle a lot of messy, non-English model output.\n\nMedVault deals with a version of that: a Gemini pipeline behind a fixed JSON schema, plus a tolerant fallback parser for when the model doesn't return clean JSON: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office. Do you take on engineering interns or juniors?",
+   "delivered_at": "2026-09-29T09:59:47Z",
+   "lint": [],
+   "message_id": "<179067598582.2127.13952932869598091105@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T09:59:47Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "developers@joshtalks.com"
   ],
@@ -1063,9 +1142,22 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault's LLM integration and API management experience translates to Josh Talks' voice AI and large-scale dataset work.",
+   "fit": 6,
+   "hook": "Josh Talks AI dataset powers cutting-edge voice systems globally—production-grade ML work on Indian speech diversity.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Python",
+    "AI"
+   ],
+   "summary": "Josh Talks is an EdTech platform providing career guidance, skill development, and inspirational content in 10 regional languages to young Indians, with 4B+ lifetime views."
+  },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/JoshTalks",
   "website": "https://www.joshtalks.com",
@@ -1378,9 +1470,21 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurgaon · active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Both use LLM for interactive learning, but website/email mismatch suggests data integrity issue.",
+   "fit": 2,
+   "hook": "Email domain mismatch: posting mentions speakX but candidate emails are from ivypods.com",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Dart"
+   ],
+   "summary": "SpeakX is an AI-powered English conversation practice app for learners across India."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/yellowclass",
   "website": "https://speakx.ai",
@@ -1415,9 +1519,25 @@
    }
   },
   "company": "Farmako Healthcare",
+  "contact": {
+   "confidence": "generic",
+   "email": "hello@farmako.ai",
+   "found_on": "https://farmako.ai/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 40. India's fastest medicine delivery in just 30 minutes We are India's fastest medicine delivery service. We deliver medicines in just 30 minutes. We have built highly optimized pharmacy stores and a set of internal tools designed to process prescriptions quickly. We also provide easy-to-integrate APIs and SDK for anyone to start a virtual pharmacy without needing a license, pharmacy, or delivery fleet. Any doctor, teleconsultation app, or EMR provider can start delivering medicines to their patients on WhatsApp or App using our service in the background. We have more than 80 B2B partners, including India's top teleconsultation apps, EMR providers, hospitals, elderly care apps, and insurance providers. We operate 24/7 in Gurgaon, New Delhi, and Moradabad and deliver over 15,000 orders monthly. So far, we have processed more than 250K orders and done thousands of life-saving deliveries. We started in 2020 with the vision to build a centralized health record system for India. We had an AI-powered EMR app for doctors and a SaaS for diagnostic labs to add patients' medical records to Farmako Health ID. We have more than 3M health records added on Farmako. In 2022, the Indian government launched ABHA Health ID and we became one of the first official partners with them. In 2023, we launched quick medicine delivery and decided to move forward with ABHA Health ID for medical records. Now, we are building a safe health assistant inside our medicine delivery app, which will be connected to your Health ID and all your past medical records. Our goal is to make it a super-safe and accurate health assistant for the world, which can eliminate your doctor in the long run for all primary care issues. Health Tech, Delivery, Digital Health, Healthcare, Healthcare, Healthcare IT, India, South Asia",
   "domain": "farmako.ai",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Farmako team,\n\nBuilding a health assistant wired into ABHA records for 15,000+ monthly orders means the model has to know what it shouldn't say, not just what it should.\n\nMedVault is built around that constraint: a Gemini pipeline with a fixed JSON schema and safety rules that block diagnosis or prescription outright, with a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "delivered_at": "2026-09-29T09:58:16Z",
+   "lint": [],
+   "message_id": "<179067589540.2127.8578328521042422094@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T09:58:16Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-29T05:53:56Z",
   "github_orgs": [],
@@ -1427,9 +1547,25 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault's Gemini prompting pipeline with safety-ruled LLM explanations directly parallels Farmako's goal to build a super-safe health assistant that eliminates doctors for primary care.",
+   "fit": 7,
+   "hook": "Building a 'safe health assistant' inside the medicine delivery app connected to ABHA Health ID and past medical records, processing 15,000+ orders monthly",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "LLM APIs",
+    "WhatsApp",
+    "Slack",
+    "Python",
+    "Node.js"
+   ],
+   "summary": "YC-backed medicine delivery service delivering prescriptions in 30 minutes across Indian metros, building an AI-powered health assistant connected to patient medical records and government health IDs."
+  },
   "score": 15.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2020)",
   "url": "https://www.ycombinator.com/companies/farmako-healthcare",
   "website": "https://farmako.ai",
@@ -1978,9 +2114,22 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurgaon · active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "My MedVault AI pipeline demonstrates the backend architecture and data isolation practices needed for your crop advisory AI serving 1.8 million farmers.",
+   "fit": 5,
+   "hook": "You've built crop advisory AI for 30+ crops in regional languages, trained on 1.8 million farmers' data across 12 states - one of India's largest agricultural data networks.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Kotlin",
+    "Python"
+   ],
+   "summary": "DeHaat is an agritech platform providing end-to-end solutions to Indian farmers including digital inputs, AI-enabled crop advisory for 30+ crops in regional languages, and financial services across 12 states."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Dehaat",
   "website": "https://agrevolution.in/",
@@ -2473,9 +2622,32 @@
   "posted_at": "2026-09-15T05:52:17Z",
   "priority": 2,
   "priority_note": "Delhi · ₹50,000/mo",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "While the mobile stack doesn't align, the focus on production bug fixes and optimization mirrors BigOHealth's obsession with app optimization for different screen sizes.",
+   "fit": 3,
+   "hook": "OncoVault transforms scattered treatment reports spanning years into a secure, patient-owned longitudinal timeline with instant 60-second physician summaries",
+   "people": [
+    {
+     "name": "Gaurav Kumar",
+     "role": "Founder"
+    },
+    {
+     "name": "Shubham",
+     "role": "Co-founder"
+    }
+   ],
+   "region": "india",
+   "stack": [
+    "Android",
+    "Flutter",
+    "Kotlin"
+   ],
+   "summary": "Cancer care platform that organizes scattered medical records into a secure patient timeline and provides physician-ready case summaries to enable faster, coordinated care."
+  },
   "score": 15.5,
   "source": "internshala",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Mobile App Development Internship",
   "url": "https://internshala.com/internship/detail/mobile-app-development-internship-in-delhi-at-bigohealth1789446465",
   "website": "https://www.bigohealth.com",
@@ -2522,9 +2694,28 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "My MedVault Django backend architecture for secure, user-isolated data handling applies to your e-commerce platform's need for transparent, trustworthy farmer payments.",
+   "fit": 3,
+   "hook": "You've built an organic food brand with radical transparency: 60% to farmers, 30% operations, 10% overhead - showing the farmer's face and earnings on every product sold.",
+   "people": [
+    {
+     "name": "Divish",
+     "role": "Founder"
+    },
+    {
+     "name": "Raj",
+     "role": "Founder"
+    }
+   ],
+   "region": "india",
+   "stack": [],
+   "summary": "Swadesi Way is an organic food e-commerce platform connecting directly to farmer collectives with radical transparency - showing farmers' names, prices broken down by costs, and farmer earnings for every product."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/swadesi-way",
   "website": "https://swadesiway.com/",
@@ -2744,9 +2935,25 @@
    }
   },
   "company": "ZiffyHomes",
+  "contact": {
+   "confidence": "hiring",
+   "email": "careers@ziffyhomes.com",
+   "found_on": "https://www.ziffyhomes.com/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 57. ZiffyHomes is managed corporate housing for white collar employees in… ZiffyHomes is a living solace for young professionals with beautiful living spaces, vibrant community, excellent services and full time support to all our customers. We work towards providing the highest standards of living for young professionals and saving them from woes of house hunt. We wish to provide a space for them where they can flourish. Founded by Saurabh Kumar & Sanchal Ranjan where they are fascinated about formation of communities around both living and working spaces in a country like India for the last 15 years of their educational and corporate lifetimes and now fostering India's first physical social network via co-living. Join us on our journey of excited times ahead. Visit us at www.ziffyhomes.com or follow our progress on: Facebook: https://www.facebook.com/ziffyhomes/ Twitter: https://twitter.com/ZiffyHomes Instagram: https://www.instagram.com/ziffyhomes/ Real Estate, India, Real Estate and Construction, Housing and Real Estate, India, South Asia",
   "domain": "ziffyhomes.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi ZiffyHomes team,\n\nRebuilding as AI-first with WhatsApp-driven onboarding and auto-generated agreements means a lot of new surface area to keep reliable across property owners and tenants at once.\n\nAt Basepair I fixed multi-instance file-access failures with S3 on-demand fallbacks and cleared 100+ security and reliability defects across a Django/React codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "delivered_at": "2026-09-29T09:58:03Z",
+   "lint": [],
+   "message_id": "<179067588219.2127.186190810321884166@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T09:58:03Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-29T05:53:55Z",
   "github_orgs": [],
@@ -2756,9 +2963,33 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Basepair's production reliability fixes and multi-instance failure recovery apply to managing distributed property management reliability and data consistency across tenants.",
+   "fit": 7,
+   "hook": "You've revived ZiffyHomes in 2026 as AI-first, building an automated tenant onboarding flow with WhatsApp-first interactions and AI-generated agreements—that user workflow mirrors MedVault's patterns.",
+   "people": [
+    {
+     "name": "Saurabh Kumar",
+     "role": "Founder"
+    },
+    {
+     "name": "Sanchal Ranjan",
+     "role": "Founder"
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "Django",
+    "React",
+    "AI",
+    "WhatsApp API"
+   ],
+   "summary": "ZiffyHomes is a platform for managed corporate housing and co-living communities, offering property owners an AI-first dashboard for tenant management, rent tracking, and automated agreements."
+  },
   "score": 9.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2018)",
   "url": "https://www.ycombinator.com/companies/ziffyhomes",
   "website": "https://www.ziffyhomes.com/",
@@ -2821,9 +3052,32 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault's Django REST backend and per-user data isolation at the queryset level apply to managing rental subscriptions, payment tracking, and user-specific rental history.",
+   "fit": 4,
+   "hook": "You've scaled to 250K+ homes furnished with a delivery-first logistics model and monthly rentals tracking—that requires solid backend coordination for inventory, users, and transactions.",
+   "people": [
+    {
+     "name": "Saurabh Gupta",
+     "role": "Founder"
+    },
+    {
+     "name": "Neerav Jain",
+     "role": "Founder"
+    },
+    {
+     "name": "Vinit Jain",
+     "role": "Founder"
+    }
+   ],
+   "region": "asia",
+   "stack": [],
+   "summary": "Cityfurnish is an e-commerce platform for furniture and appliances rental in India, providing commitment-free subscriptions with delivery and installation services across 12+ cities."
+  },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2019)",
   "url": "https://www.ycombinator.com/companies/cityfurnish",
   "website": "https://cityfurnish.com/",
@@ -2953,9 +3207,25 @@
    }
   },
   "company": "Decentro",
+  "contact": {
+   "confidence": "generic",
+   "email": "hello@decentro.tech",
+   "found_on": "https://decentro.tech/blog/global/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 60. API Platform for Banking Integrations (Plaid for India and APAC) Almost every company that has to integrate with the legacy financial institutions, faces several challenges when it comes to the product cycle. Not only are the APIs and documentations less available, but they are also old school and ridden with errors and loopholes. On top of that, the lack of a single point of contact from the underlying institutions, makes the already long integration cycle of 5 months feel like a temple run between different departments. And since those services break and update over time, you can imagine the nightmare in terms of coordination between the tech teams. We are a full-stack platform where you can come, select your desired modules, play in the sandbox, and launch your product with the APIs and SDKs within a couple of weeks! Not only that, but we also take care of all upcoming fixes, iterations, and updates without breaking any flow. It's that easy, as it should be. Welcome to the future. Banking as a Service, Fintech, API, B2B, Engineering, Product and Design, India, Singapore, South Asia, Southeast Asia, Remote, Partly Remote",
   "domain": "decentro.tech",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Decentro team,\n\nProcessing 240M+ API transactions across 90+ currencies means a race condition or a bad fallback shows up as real money moved wrong, not a failed test.\n\nThat's the class of bug I fixed at Basepair: an OAuth race condition closed with row-level locking, S3 fallbacks for multi-instance file failures, and 100+ security defects cleared in a Django/React codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad in Noida, can work from your Delhi office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "delivered_at": "2026-09-29T09:59:29Z",
+   "lint": [],
+   "message_id": "<179067596809.2127.3550614042913100245@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T09:59:29Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-29T05:53:56Z",
   "github_orgs": [],
@@ -2965,9 +3235,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Decentro's core infrastructure handling millions of transactions mirrors Aditya's experience fixing distributed-systems bugs and optimizing production reliability at Basepair.",
+   "fit": 7,
+   "hook": "Processes $5B annually and 240M+ API transactions; trusted by 2000+ businesses globally; YC Summer 2020 alum presenting at Global Fintech Fest 2026.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Go",
+    "Kotlin",
+    "APIs",
+    "Payment Infrastructure"
+   ],
+   "summary": "Decentro is a Banking-as-a-Service platform providing APIs and SDKs for fintech companies to launch financial products across 90+ currencies and 190+ countries."
+  },
   "score": 10.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2020)",
   "url": "https://www.ycombinator.com/companies/decentro",
   "website": "https://decentro.tech",
@@ -3349,9 +3634,28 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · active GitHub org, no posting",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy's multi-language static analysis and deterministic cross-file call-graph resolution apply to building better code generation and optimization for Flutter output.",
+   "fit": 5,
+   "hook": "Your visual builder auto-generates Flutter code from design files—the code generation pipeline maps directly to the multi-language AST parsing and call-graph resolution in Canopy.",
+   "people": [
+    {
+     "name": "Sahaj",
+     "role": ""
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "Flutter",
+    "Dart",
+    "C++"
+   ],
+   "summary": "Blup is a visual Flutter app builder platform that lets developers create beautiful apps with drag-and-drop interface and automatically generates Flutter code from designs."
+  },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/BlupGithub",
   "website": "https://blup.in/",
@@ -3482,9 +3786,22 @@
   "posted_at": "2026-09-26T05:52:11Z",
   "priority": 1,
   "priority_note": "Gurgaon · ₹33,000/mo",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "hook": "",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Python",
+    "Django"
+   ],
+   "summary": "Web development shop using Python and Django (posting unclear on actual product)."
+  },
   "score": 17.5,
   "source": "internshala",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Development Engineering (Web) Internship",
   "url": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-multiple-locations-at-cookiesensei-labs-private-limited1790356348",
   "website": "https://internshala.com",
@@ -3678,9 +3995,25 @@
    }
   },
   "company": "DVL",
+  "contact": {
+   "confidence": "posting",
+   "email": "reachus@digivatelabs.com",
+   "found_on": "job posting",
+   "name": "",
+   "role": ""
+  },
   "description": "Transform the Business. Languages: Go, JavaScript, Jupyter Notebook",
   "domain": "digivatelabs.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Digivate Labs team,\n\nRunning generative AI inside ISHAN for real-time transaction monitoring means the model's output has to be structured enough for the rest of the pipeline to trust it.\n\nMedVault is built around that same constraint: a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output, behind a mockable client: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Gurgaon office. Do you take on engineering interns or juniors?",
+   "delivered_at": "2026-09-29T10:01:06Z",
+   "lint": [],
+   "message_id": "<179067606517.2127.15116918628193241321@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T10:01:06Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "reachus@digivatelabs.com"
   ],
@@ -3692,9 +4025,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurgaon · active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault's LLM pipeline with safety constraints and the Django REST backend API directly apply to building scalable AI inference layers for your ISHAN transaction processing platform.",
+   "fit": 6,
+   "hook": "You've built ISHAN and RINA platforms powered by generative AI—particularly interested in how you handle real-time processing and workflow orchestration across enterprise scale.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Go",
+    "JavaScript",
+    "Python"
+   ],
+   "summary": "Digivate Labs builds digital transformation solutions for enterprises, including ISHAN (transaction monitoring) and RINA (customer service platform) powered by generative AI and machine learning."
+  },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Digivate-Labs-Pvt-Ltd",
   "website": "https://www.digivatelabs.com",
@@ -3808,9 +4155,19 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · YC",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "hook": "",
+   "people": [],
+   "region": "asia",
+   "stack": [],
+   "summary": "Kosh is a digital microfinance lending platform targeting blue-collar workers using a joint liability group model."
+  },
   "score": 9.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2020)",
   "url": "https://www.ycombinator.com/companies/kosh",
   "website": "https://getkosh.com",
@@ -4042,9 +4399,25 @@
    }
   },
   "company": "GroMo",
+  "contact": {
+   "confidence": "generic",
+   "email": "contact@gromo.in",
+   "found_on": "https://www.gromo.in/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 100. App for independent agents to sell financial products in India GroMo (YC W21) is building India's largest financial products distribution company. GroMo has built a network of 1.2 million agents on its platform. GroMo has built a tech-enabled social commerce platform that helps agents not only improve access to better financial products for consumers, but also bridge the financial literacy gap by helping them choose the right offerings. Currently, GroMo is distributing a broad spectrum of 100+ financial products across Insurance, Investments, Credit Cards, Loans, Saving & Demat accounts, etc. from brands such as IDFC Bank, Jupiter Money, Axis Bank, Freecharge, etc. Fintech, Insurance, Fintech, India, South Asia",
   "domain": "gromo.in",
   "domain_mx": true,
+  "email": {
+   "body": "Hi GroMo team,\n\nPaying out commission to 1.2M agents across 100+ financial products means a backend bug turns into someone not getting paid correctly, fast.\n\nAt Basepair I fixed exactly that category of bug: an OAuth race condition closed with row-level locking and 100+ security defects cleared across a Django/React codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "delivered_at": "2026-09-29T10:02:11Z",
+   "lint": [],
+   "message_id": "<179067612940.2127.8481763742258351780@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T10:02:11Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-29T05:53:55Z",
   "github_orgs": [],
@@ -4054,9 +4427,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Basepair's production OAuth fixes, distributed systems reliability work, and security defect resolution apply to building trustworthy financial transaction handling at GroMo's scale.",
+   "fit": 6,
+   "hook": "You've built a marketplace connecting 1.2M agents to 100+ financial products with instant payouts—managing that distributed transaction load and agent payouts requires solid backend infrastructure.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Mobile app",
+    "fintech",
+    "payments"
+   ],
+   "summary": "GroMo is a financial products distribution platform that enables independent agents to sell credit cards, loans, investments, and savings accounts through a mobile app with commission-based payouts."
+  },
   "score": 9.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/gromo",
   "website": "https://www.gromo.in",
@@ -4286,9 +4673,25 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurgaon · active GitHub org, no posting",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "hook": "",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "C",
+    "EJS",
+    "JavaScript",
+    "Svelte",
+    "TypeScript"
+   ],
+   "summary": "Computer club at Amity International School student project (not a real company)."
+  },
   "score": 15.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/techsyndicate",
   "website": "https://techsyndicate.us",
@@ -4673,9 +5076,21 @@
   "batch": "2026-09-29",
   "candidates": {},
   "company": "Swadesh",
+  "contact": {
+   "confidence": "guessed",
+   "email": "prateek@swadesh.co",
+   "found_on": "pattern guess",
+   "name": "Prateek Swain",
+   "role": "CEO"
+  },
   "description": "Team size: 10. We setup Immigrants with a free US Bank Account, Credit Card, SIM… We offer a free US FDIC Insured Checking account, Free Credit Card (no interest rate, collateral, fees), Free AT&T SIM Card shipped to home with 40%+ cheaper plans than retail, and save thousands of dollars in remittances to our customers - all by opening a free Swadesh Account. We enable new to America expats become \"American\" in the eyes of the US Financial system. We're starting by serving the 150,000+ Indian expats migrating to the US each year. We have a comprehensive solution that covers banking, credit building, communication, remittance, as well as value-add services such as insurance, housing etc. along with all the standard bells and whistles of neobanks. Fintech, Remittances, Immigration, Fintech, Consumer Finance, United States of America, India, America / Canada, South Asia, Remote, Partly Remote",
   "domain": "swadesh.co",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Prateek,\n\nStanding up banking and credit history for expats before they land in the US means the auth and data-isolation layer has to be right from day one, not patched later.\n\nMedVault's backend reflects that: JWT auth with refresh-token rotation and per-user isolation enforced at the queryset level on a Django REST API: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Delhi office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "lint": [],
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-29T05:53:55Z",
   "github_orgs": [],
@@ -4685,9 +5100,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Building fintech infrastructure with auth and data isolation mirrors the security-first Django backend in my MedVault project.",
+   "fit": 6,
+   "hook": "You're solving financial inclusion for 150,000+ Indian expats moving to the US annually - first to offer credit building and banking before they land.",
+   "people": [
+    {
+     "name": "Prateek Swain",
+     "role": "CEO"
+    }
+   ],
+   "region": "us",
+   "stack": [],
+   "summary": "Swadesh is a Y Combinator-backed neobank offering Indian expats a free US bank account, credit card, SIM card, and remittance services to solve financial onboarding for immigrants."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Summer 2019)",
   "url": "https://www.ycombinator.com/companies/swadesh",
   "website": "http://www.swadesh.co",
@@ -5099,9 +5529,19 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Travel platform needs distributed-systems reliability, but posting has no contact email and no clear engineering opening listed.",
+   "fit": 3,
+   "hook": "40-person YC Winter 2021 alum; 3M+ travelers served, 350+ buses, carbon-neutral ride options.",
+   "people": [],
+   "region": "asia",
+   "stack": [],
+   "summary": "Zingbus is a bus travel marketplace that aggregates services from small bus operators, optimizing schedules and pricing across 500+ Indian cities."
+  },
   "score": 10.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/zingbus",
   "website": "https://www.zingbus.com/",
@@ -5264,9 +5704,19 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "hook": "",
+   "people": [],
+   "region": "asia",
+   "stack": [],
+   "summary": "Exly is an all-in-one platform for creators to launch, manage and monetize knowledge products including courses, webinars, and consulting services."
+  },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2019)",
   "url": "https://www.ycombinator.com/companies/exly",
   "website": "https://exlyapp.com/",
@@ -5424,9 +5874,25 @@
    }
   },
   "company": "SureBright",
+  "contact": {
+   "confidence": "generic",
+   "email": "hello@surebright.com",
+   "found_on": "https://www.surebright.com/contactus",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 35. Apple Care-like warranty program for every retailer SureBright lets e-commerce merchants embed \"Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant. Sanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day. Until now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers. E-commerce, Insurance, Retail, AI, B2B, Retail, India, South Asia, Remote, Partly Remote",
   "domain": "surebright.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi SureBright team,\n\nPricing warranty plans with an LLM across 60+ categories and unlimited SKUs means a wrong output shows up as real money, not just a bad answer.\n\nThat's the kind of bug I spent a summer on at Basepair, fixed an OAuth race condition with row-level locking and cleared 100+ BLOCKER/HIGH security defects a SonarQube audit flagged across a Django/React codebase: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad in Noida, can work from your Delhi office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "delivered_at": "2026-09-29T09:56:45Z",
+   "lint": [],
+   "message_id": "<179067580261.2127.6758599882523729147@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T09:56:45Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-29T05:53:56Z",
   "github_orgs": [],
@@ -5436,9 +5902,35 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Basepair internship fixed production bugs (OAuth race conditions, S3 failures) and resolved 100+ security defects—exactly the reliability and security rigor a fintech-adjacent insurance platform needs.",
+   "fit": 8,
+   "hook": "LLMs power product qualification and pricing across 60+ categories for unlimited SKUs—moved beyond templates to real AI-driven automation.",
+   "people": [
+    {
+     "name": "Sanket",
+     "role": "VP Engineering (led engineering at PolicyBazar)"
+    },
+    {
+     "name": "Manish",
+     "role": "Engineering (built $100M ARR products at Amazon)"
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "AI",
+    "LLM",
+    "Python",
+    "Django",
+    "SaaS",
+    "B2B"
+   ],
+   "summary": "SureBright is a B2B SaaS platform that lets e-commerce merchants embed AI-powered warranty plans into checkout flows, using LLMs to automate product qualification and pricing."
+  },
   "score": 11.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2024)",
   "url": "https://www.ycombinator.com/companies/surebright",
   "website": "https://surebright.com/",
@@ -5764,9 +6256,25 @@
    }
   },
   "company": "FieldAssist",
+  "contact": {
+   "confidence": "posting",
+   "email": "info@fieldassist.in",
+   "found_on": "job posting",
+   "name": "",
+   "role": ""
+  },
   "description": "Sales Force Automation done right!. Languages: Dart, Dockerfile, Python. Topics: fieldassist, ui-kit",
   "domain": "fieldassist.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi FieldAssist team,\n\nRunning AI-led insights across 8.9M outlets in 32+ countries means reliability at that scale is the actual product, not a side concern.\n\nAt Basepair I spent a summer on exactly that: fixed an OAuth race condition with row-level locking, S3 fallbacks for multi-instance file failures, and cleared 100+ security defects across Django and React: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad in Noida, can work from your Gurgaon office. Do you take on engineering interns or juniors?",
+   "delivered_at": "2026-09-29T10:00:18Z",
+   "lint": [],
+   "message_id": "<179067601678.2127.14735998968891220682@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T10:00:18Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "info@fieldassist.in"
   ],
@@ -5778,9 +6286,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurgaon · active GitHub org, no posting",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Basepair's production debugging skills (distributed-systems race conditions, multi-instance failures) and 100+ security fixes are critical for a platform processing billions in GMV.",
+   "fit": 6,
+   "hook": "Processing 8.9M outlets across 32+ countries with AI-led insights—demonstrated ability to ship at massive scale with reliability at the core.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Python",
+    "Dart",
+    "Docker",
+    "AWS"
+   ],
+   "summary": "FieldAssist is a B2B SaaS platform for sales force automation and distribution management in retail, using AI to optimize territory planning, shelf performance, and execution at scale."
+  },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/FieldAssist",
   "website": "https://www.fieldassist.com/",
@@ -5941,9 +6464,53 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Noida · active GitHub org, no posting",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Basepair's production reliability and infrastructure experience fixing distributed-system bugs directly translates to Opstree's platform engineering and microservices architecture work.",
+   "fit": 6,
+   "hook": "Active open-source contributor to Kubernetes, Prometheus, and Druid ecosystems with dedicated engineers building infrastructure tooling and DevOps solutions at scale",
+   "people": [
+    {
+     "name": "Prashant Sharma",
+     "role": "Engineer"
+    },
+    {
+     "name": "Sandeep Rawat",
+     "role": "Engineer"
+    },
+    {
+     "name": "Gourav Singh",
+     "role": "Engineer"
+    },
+    {
+     "name": "Priyanshi Chauhan",
+     "role": "Engineer"
+    },
+    {
+     "name": "Abhishek Dubey",
+     "role": "Engineer"
+    }
+   ],
+   "region": "india",
+   "stack": [
+    "Go",
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Kubernetes",
+    "Docker",
+    "Prometheus",
+    "Grafana",
+    "Microservices",
+    "AWS",
+    "GCP"
+   ],
+   "summary": "Enterprise digital transformation and engineering partner providing cloud migrations, DevSecOps automation, platform engineering, and observability solutions for Fortune 500 clients."
+  },
   "score": 12.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "no_contact",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/opstree",
   "website": "https://www.opstree.com",
@@ -5962,9 +6529,25 @@
    }
   },
   "company": "Kaagaz",
+  "contact": {
+   "confidence": "personal",
+   "email": "work@kaagaz.app",
+   "found_on": "https://kaagaz.app/joinus",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 11. 'Office' Suite for Mobile-first Businesses in India Kaagaz is an 'Office' Suite for Mobile-first Businesses in India. With Kaagaz, these users can manage all the document requirements for their business using their smartphone itself, without needing a Desktop. We have an active user base of 3Mn+ users and paid users north of 60,000+ - growing every month. With over 200M such businesses in India, at $15/year subscription price, this a $3B opportunity in India & much larger globally. We are a team of 2nd time entrepreneurs having scaled the pervious startup to $1M in GMV. We are backed by YCombinator, Goodwater Capital, Pravega Venture, Better Capital & other investors including Alan Rutledge (TrendMD) and Farid Ahsan (Sharechat) SaaS, India, Consumer, India, South Asia",
   "domain": "kaagaz.app",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Kaagaz team,\n\nA team of 11 shipping to 35M+ users on Kaagaz means people probably end up reading code outside their usual area pretty often.\n\nI built Canopy for that: paste a repo, get a call graph across 10 languages, with anything it can't resolve marked external instead of guessed: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "delivered_at": "2026-09-29T09:56:27Z",
+   "lint": [],
+   "message_id": "<179067578562.2127.8684347599283108662@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T09:56:27Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-29T05:53:56Z",
   "github_orgs": [],
@@ -5974,9 +6557,25 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy's code analysis capabilities match work on Kaagaz's growing mobile-first platform, and 11-person team means hands-on impact.",
+   "fit": 9,
+   "hook": "35M+ users, 2nd-time founders scaled to $1M GMV, tiny team of 11—classic early-stage founder environment where junior engineers lead projects.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "JavaScript",
+    "TypeScript",
+    "mobile",
+    "SaaS",
+    "AI"
+   ],
+   "summary": "Kaagaz is a mobile-first office suite for India with document scanning, PDF editing, and AI-powered tools, serving 35M+ users and 60k+ paid users monthly."
+  },
   "score": 11.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/kaagaz",
   "website": "https://kaagaz.app",
@@ -6858,9 +7457,28 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Early-stage infrastructure startup needs reliability engineering, but hardware-focused battery swapping, not software engineering.",
+   "fit": 2,
+   "hook": "YCombinator-backed infrastructure startup with 9-person team; CEO (Ravi) ex-Shell with IIT Kharagpur degree, CTO (Pratik) has PhD in batteries from German Aerospace Center.",
+   "people": [
+    {
+     "name": "Ravi",
+     "role": "CEO, ex-Shell"
+    },
+    {
+     "name": "Pratik",
+     "role": "CTO, Battery Specialist"
+    }
+   ],
+   "region": "asia",
+   "stack": [],
+   "summary": "Enerjazz is building a battery swapping network (like gas stations) for commercial electric vehicles in India."
+  },
   "score": 10.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/enerjazz",
   "website": "https://www.enerjazz.tech/",
@@ -7000,9 +7618,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "The MedVault LLM pipeline experience is relevant to Writesonic's AI-powered platform, but no direct contact path exists.",
+   "fit": 6,
+   "hook": "No contact emails provided for reaching out.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "AI",
+    "generative AI",
+    "SaaS"
+   ],
+   "summary": "Writesonic is an AI search platform that tracks brand visibility across ChatGPT, Gemini, and other AI search engines, then helps merchants optimize content and citations to boost visibility."
+  },
   "score": 11.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/writesonic",
   "website": "https://writesonic.com/",
@@ -7877,9 +8509,25 @@
    }
   },
   "company": "Hiration",
+  "contact": {
+   "confidence": "generic",
+   "email": "team@hiration.com",
+   "found_on": "https://www.hiration.com/about-us/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 22. We help job seekers quickly create resumes that get 2X more interviews Our SaaS product solves the different problems that job seekers face in the process of finding a new job - creating an efficient resume, writing a cover letter/email, updating their LinkedIn profile, applying to suitable jobs, interview preparation... It's the 1st time in history that we've been able to create resumes using technology that surpass human made resumes. This is a novel way to add active job seekers to our database of resumes as none of the incumbents are focussing on candidates' problems. 100k+ new active job seekers are added to our database every month, growing rapidly. As the next step, we are launching a recruitment marketplace to close the loop. Marketplace, SaaS, Recruiting, Consumer, Job and Career Services, India, South Asia, Remote, Partly Remote",
   "domain": "hiration.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Hiration team,\n\nRunning 10M+ AI sessions for job seekers means your LLM output has to come back in a shape your product can actually render, every time.\n\nMedVault solves that with a fixed JSON schema for every Gemini call and a fallback parser for when the model doesn't cooperate, behind a mockable client so the 47-test suite runs with no API key: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Delhi office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "delivered_at": "2026-09-29T09:58:44Z",
+   "lint": [],
+   "message_id": "<179067592301.2127.3956568568087995493@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T09:58:44Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-29T05:53:56Z",
   "github_orgs": [],
@@ -7889,9 +8537,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault demonstrates LLM API integration, JSON schema control, and safety constraints—directly applicable to Hiration's AI-powered career tools.",
+   "fit": 7,
+   "hook": "Processing 10M+ AI sessions to help job seekers land jobs 3x faster—matches the scale of AI work.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "AI",
+    "SaaS",
+    "JavaScript",
+    "TypeScript"
+   ],
+   "summary": "Hiration is an AI-powered career platform that helps job seekers create resumes, practice interviews, and optimize LinkedIn profiles, serving 2M+ users."
+  },
   "score": 11.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Winter 2020)",
   "url": "https://www.ycombinator.com/companies/hiration",
   "website": "https://www.hiration.com/",
@@ -8789,9 +9452,25 @@
    }
   },
   "company": "winkjs",
+  "contact": {
+   "confidence": "generic",
+   "email": "contactus@graype.in",
+   "found_on": "https://winkjs.org/",
+   "name": "",
+   "role": ""
+  },
   "description": "Streaming Intelligence & Natural Language Processing for JavaScript. Languages: HTML, JavaScript. Topics: aiops, anomaly-detection, bm25, chatbot, classifier, composable, custom-entity-detection, drift-detection, edge-computing, hacktoberfest, iiot, industrial-iot, intelligence, iot, machine-learning, mqtt, naive-bayes, named-entity-extraction, natural-language-processing, negation-handling, ner, nlp, nodejs, pattern-matching, pos-tagging, predictive-maintenance, sbd, sentence-boundary-detection, sentiment-analysis, signal-processing, statistical-process-control, streaming-analytics, telematics, text-classification, tokenize, vectorizer, visualization, wink, wink-nlp, winkjs, winknlp, word-vectors",
   "domain": "winkjs.org",
   "domain_mx": true,
+  "email": {
+   "body": "Hi winkJS team,\n\nRanking #3 on OpenSSF with close to 100% test coverage on an NLP toolkit is a bar most projects don't even try to clear, and we're both in Noida.\n\nI built Canopy with a similar discipline: 143 automated tests, deterministic call-graph resolution across 10 languages, and unresolved calls marked external instead of guessed: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Do you take on engineering interns or juniors?",
+   "delivered_at": "2026-09-29T09:59:01Z",
+   "lint": [],
+   "message_id": "<179067594014.2127.1383557851556718500@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T09:59:01Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "wink@graype.in"
   ],
@@ -8805,9 +9484,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Noida · active GitHub org, no posting",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy's rigorous multi-language parser architecture (Python ast + tree-sitter, 143 tests) aligns perfectly with winkJS's security and test-coverage ethos.",
+   "fit": 7,
+   "hook": "18M+ annual ecosystem downloads, ranks #3 for OpenSSF security, ~100% test coverage—dev-tools quality bar set high.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "JavaScript",
+    "TypeScript",
+    "NLP",
+    "Node.js"
+   ],
+   "summary": "winkJS is an open-source NLP and streaming intelligence toolkit (Node.js), built from first principles with ~100% test coverage, trusted by thousands of projects and ranking #3 globally for security."
+  },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/winkjs",
   "website": "https://winkjs.org/",
@@ -8852,9 +9546,19 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Noida · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Your robot control and AI inference infrastructure mirrors the distributed systems and reliability work I fixed at Basepair.",
+   "fit": 5,
+   "hook": "You're using natural language prompts (ROBO GPT) to program industrial robots - targeting the world's most affordable AI arm.",
+   "people": [],
+   "region": "india",
+   "stack": [],
+   "summary": "Orangewood Labs builds affordable AI-powered robotic arms for small businesses, with software for programming via natural language prompts and application-specific use cases like bin picking and visual inspection."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2018)",
   "url": "https://www.ycombinator.com/companies/orangewood-labs",
   "website": "http://www.orangewood.co",
@@ -9773,9 +10477,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurgaon · ₹30,000/mo",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "The mobile development role requires production reliability and user experience optimization similar to Basepair's focus on fixing production bugs and ensuring stability.",
+   "fit": 3,
+   "hook": "Backed by Ratan Tata and Kalaari Capital with over 1 million registered users on a one-stop cashback and coupon platform",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "React Native",
+    "Android",
+    "Mobile Application Development"
+   ],
+   "summary": "India's largest cashback and coupon aggregator (1M+ users) enabling price comparison and cashback rewards across 1500+ e-commerce retailers."
+  },
   "score": 16.0,
   "source": "internshala",
-  "status": "researching",
+  "status": "low_fit",
   "title": "React Native Development Internship",
   "url": "https://internshala.com/internship/detail/react-native-development-internship-in-gurgaon-at-cashkaro1790581315",
   "website": "http://www.cashkaro.com",
@@ -10045,9 +10763,36 @@
   "posted_at": "2026-09-15T05:52:12Z",
   "priority": 1,
   "priority_note": "Gurgaon · ₹25,000/mo",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy's deterministic cross-file call-graph resolution and tool-calling architecture directly informs building scalable AI orchestration and tool-calling pipelines.",
+   "fit": 7,
+   "hook": "Building agentic AI systems that reason, plan, and act across tools and workflows, with hands-on production work using Claude, OpenAI, and LangGraph for multi-agent orchestration",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "NestJS",
+    "FastAPI",
+    "Spring Boot",
+    "Docker",
+    "AWS",
+    "GCP",
+    "LangChain",
+    "LangGraph",
+    "OpenAI",
+    "Anthropic Claude"
+   ],
+   "summary": "Domain acquisition and brand protection firm expanding into agentic AI systems development, building multi-agent workflows and autonomous AI applications with LLM APIs."
+  },
   "score": 15,
   "source": "internshala",
-  "status": "researching",
+  "status": "no_contact",
   "title": "Software Development Internship",
   "url": "https://internshala.com/internship/detail/software-development-internship-in-multiple-locations-at-namekart1789361996",
   "website": "http://namekart.com",
@@ -10118,9 +10863,25 @@
    }
   },
   "company": "Clinikally",
+  "contact": {
+   "confidence": "personal",
+   "email": "anuragmishra@clinikally.com",
+   "found_on": "https://www.clinikally.com/blogs/news",
+   "name": "Anurag Mishra",
+   "role": ""
+  },
   "description": "Team size: 125. India's Telemedicine Platform & Online Pharmacy for Dermatology Care India's leading digital health destination for Dermatology, Nutrition & Wellness. A multi-condition health platform providing Telehealth, AI-powered treatment plans, and Rx-grade products. Our virtual care is entirely science-based and personalized to each patient, based on prescription history, medical parameters, family history, lifestyle, surroundings and preexisting health issues. Consumer Health Services, Telehealth, Consumer, Digital Health, E-commerce, Healthcare, Consumer Health and Wellness, India, South Asia, Remote, Partly Remote",
   "domain": "clinikally.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Anurag,\n\nPrescription fulfillment plus telemedicine means Clinikally has to keep patient data isolated per dermatologist and per patient, not just per account, which is a specific kind of backend problem.\n\nMedVault handles that at the queryset level: JWT auth with refresh-token rotation and per-user isolation baked into every query, on a Django REST backend: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office, and I'm looking for an internship or entry-level role. Is anyone on the team taking on an intern this year?",
+   "delivered_at": "2026-09-29T09:57:41Z",
+   "lint": [],
+   "message_id": "<179067586001.2127.5423186934297627270@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T09:57:41Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-29T05:53:55Z",
   "github_orgs": [],
@@ -10130,9 +10891,37 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault's email-based user model, JWT auth with refresh-token rotation, and per-user queryset isolation apply directly to HIPAA-compliant multi-tenant patient data handling in dermatology.",
+   "fit": 7,
+   "hook": "You connect dermatologists with patients via telemedicine, prescribe treatment plans, and fulfill Rx-grade products—the multi-tenant patient isolation and prescription workflow match MedVault's architecture.",
+   "people": [
+    {
+     "name": "Anurag Mishra",
+     "role": ""
+    },
+    {
+     "name": "Abhinav Jain",
+     "role": ""
+    },
+    {
+     "name": "Ritika Sharma",
+     "role": ""
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "Django",
+    "e-commerce",
+    "healthcare",
+    "AI"
+   ],
+   "summary": "Clinikally is an online dermatology platform combining telemedicine consultations, AI-powered treatment plans, and e-commerce for skincare products and prescription medications."
+  },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2022)",
   "url": "https://www.ycombinator.com/companies/clinikally",
   "website": "https://www.clinikally.com/",
@@ -10660,9 +11449,25 @@
    }
   },
   "company": "ColoredCow",
+  "contact": {
+   "confidence": "commit",
+   "email": "vaibhav@coloredcow.com",
+   "found_on": "GitHub commits (coloredcow)",
+   "name": "Vaibhav Rathore",
+   "role": "Engineer"
+  },
   "description": "No idea should remain just an idea! 🚀 . Languages: JavaScript, PHP, Python, Vue. Topics: inertiajs, laravel",
   "domain": "coloredcow.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Vaibhav,\n\n\"Care, craft, and ownership\" is a line agencies write a lot and mean a lot less often, so I looked at what ColoredCow actually ships before writing this.\n\nI built Canopy with that same care for structure: multi-language call-graph resolution that marks anything it can't trace as external instead of guessing, backed by 143 tests: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad in Noida, can work from your Gurugram office. Do you take on engineering interns or juniors?",
+   "delivered_at": "2026-09-29T10:01:40Z",
+   "lint": [],
+   "message_id": "<179067609872.2127.6638695881996077797@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T10:01:40Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "contact@coloredcow.com"
   ],
@@ -10676,9 +11481,43 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · active GitHub org, no posting",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy's sophisticated call-graph analysis fits ColoredCow's custom backend work across healthcare, data systems, and SaaS platforms.",
+   "fit": 6,
+   "hook": "\"Care, craft, and ownership\" goes deeper than just shipping—they stay long enough to do work well and take shared responsibility for outcomes.",
+   "people": [
+    {
+     "name": "Vaibhav Rathore",
+     "role": "Engineer (45 commits)"
+    },
+    {
+     "name": "Tarun Joshi",
+     "role": "Engineer (26 commits)"
+    },
+    {
+     "name": "Satendra Rawat",
+     "role": "Engineer (15 commits)"
+    },
+    {
+     "name": "Anurag Kumawat",
+     "role": "Engineer"
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "JavaScript",
+    "TypeScript",
+    "PHP",
+    "Laravel",
+    "Python",
+    "Vue"
+   ],
+   "summary": "ColoredCow is a web development agency specializing in custom software for complex, high-stake problems including healthcare, nonprofits, and startups, with a philosophy of care, craft, and ownership."
+  },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/ColoredCow",
   "website": "https://coloredcow.com",
@@ -10855,9 +11694,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Noida · active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "RemoteState builds AI-powered products; Aditya's LLM integration and production reliability experience could support their service delivery architecture.",
+   "fit": 5,
+   "hook": "AI-powered product delivery model with experienced engineers; operates from Noida, India with US office in Santa Monica, California.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "JavaScript",
+    "TypeScript",
+    "AI"
+   ],
+   "summary": "RemoteState is an AI-powered software development services company helping clients build and deploy digital products with experienced engineers."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/RemoteState",
   "website": "https://remotestate.com",
@@ -11041,9 +11894,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurgaon · active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "My MedVault project demonstrates the backend infrastructure and AI integration that underpins the enterprise automation systems you build at Antino.",
+   "fit": 4,
+   "hook": "You've built a 'Company Brain' connecting scattered enterprise systems into a unified AI-ready knowledge layer - 400+ projects delivered, 25+ workflows automated across 11+ industries.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "CSS",
+    "JavaScript",
+    "TypeScript"
+   ],
+   "summary": "Antino Labs is an AI-native services company building enterprise automation systems using proprietary 'Company Brain' AI technology for fintech, healthcare, logistics, and manufacturing workflows."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/antinolabs",
   "website": "https://www.antino.com",
@@ -11416,9 +12283,25 @@
    }
   },
   "company": "TO THE NEW Pvt. Ltd.",
+  "contact": {
+   "confidence": "personal",
+   "email": "connect@tothenew.com",
+   "found_on": "https://www.tothenew.com/contact-us",
+   "name": "",
+   "role": ""
+  },
   "description": "We are a Digital Technology Company. Languages: HCL, JavaScript, Python",
   "domain": "tothenew.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi TO THE NEW team,\n\nA second Noida facility this year caught my eye since I'm based here too, and quality engineering across that many client codebases means a lot of production bugs to chase.\n\nAt Basepair I chased exactly that kind of bug: an OAuth race condition fixed with row-level locking and 100+ security and reliability defects cleared across Django and React: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Do you take on engineering interns or juniors?",
+   "delivered_at": "2026-09-29T10:00:40Z",
+   "lint": [],
+   "message_id": "<179067603862.2127.3717784551475922419@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T10:00:40Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "sales@tothenew.com"
   ],
@@ -11430,9 +12313,30 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Noida · active GitHub org, no posting",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "TO THE NEW's enterprise cloud infrastructure and quality engineering work aligns with Aditya's AWS expertise and SonarQube security/reliability fixes from Basepair.",
+   "fit": 6,
+   "hook": "Recently opened second Noida facility and expanded global delivery capacity; recognized as AWS partner and Multi-Public Cloud Services Provider by IDC.",
+   "people": [
+    {
+     "name": "Saurabh Das",
+     "role": "Chief Operating Officer"
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "HCL",
+    "JavaScript",
+    "Python",
+    "AWS",
+    "Cloud"
+   ],
+   "summary": "TO THE NEW is a digital transformation firm offering cloud services, product engineering, AI solutions, and quality engineering to enterprises globally."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/tothenew",
   "website": "https://www.tothenew.com",
@@ -11844,9 +12748,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurgaon · active GitHub org, no posting",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Large-scale distributed platform, but company size 1000+ with no clear entry-level pipeline or direct hiring contact for 2027 grad.",
+   "fit": 2,
+   "hook": "Large enterprise with active GitHub organization and multiple tech domains (Android, Go, messaging); active hiring indicated.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Go",
+    "Kotlin",
+    "Android",
+    "MQTT"
+   ],
+   "summary": "Zomato is India's largest food delivery platform operating across 800+ cities with 300,000+ restaurants and 3B+ orders delivered."
+  },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Zomato",
   "website": "https://www.zomato.com",
@@ -11886,9 +12805,19 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Noida · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Your no-code platform's backend needs robust infrastructure and integration reliability to handle thousands of SMB storefronts and payment flows.",
+   "fit": 5,
+   "hook": "You've built a no-code SMB onboarding system that gets Indian stores online in 5 minutes via WhatsApp sharing - bringing e-commerce to the tail end of retail.",
+   "people": [],
+   "region": "india",
+   "stack": [],
+   "summary": "Bikry is a no-code platform that helps Indian small businesses build online catalogues with integrated digital payments and pan-India delivery logistics integration in under 5 minutes."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2020)",
   "url": "https://www.ycombinator.com/companies/bikry",
   "website": "https://bikry.com/",
@@ -12470,9 +13399,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Noida · active GitHub org, no posting",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "hook": "This is a student club at the candidate's own university.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "CSS",
+    "JavaScript",
+    "Python",
+    "TypeScript"
+   ],
+   "summary": "GDSC JIIT 128 is a student developer club at Jaypee University of Information Technology focused on skill-building."
+  },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/dsc-jiit-128",
   "website": "https://gdscjiit128.tech/",
@@ -12603,9 +13547,30 @@
   "posted_at": "2026-09-22T05:52:17Z",
   "priority": 1,
   "priority_note": "Gurgaon · ₹25,000/mo",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "The focus on production data systems, calibration, quality control, and handling multi-instance distributed hardware parallels Basepair's production reliability and infrastructure work.",
+   "fit": 3,
+   "hook": "Seeking systems engineers to lead robot data capture across ego cameras, 3D/stereo cameras, teleoperation arms, humanoids, and data gloves with pose validation and multi-camera sync",
+   "people": [
+    {
+     "name": "Aman",
+     "role": "Contact"
+    }
+   ],
+   "region": "india",
+   "stack": [
+    "Python",
+    "Linux",
+    "ROS",
+    "PyTorch",
+    "CUDA"
+   ],
+   "summary": "Delhi NCR-based R&D company specializing in industrial automation and robotics, building custom solutions for manufacturing including vision systems, control software, and emerging humanoid platforms."
+  },
   "score": 14.5,
   "source": "internshala",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Internship",
   "url": "https://internshala.com/internship/detail/software-internship-in-gurgaon-at-variety-innovation-venture-private-limited1789627559",
   "website": "http://www.varietyinnovation.com",
@@ -13109,9 +14074,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Basepair's multi-instance resource failure fixes and S3 fallback patterns apply to managing distributed EV charger uptime and handling failures gracefully at Statiq's scale.",
+   "fit": 4,
+   "hook": "You've deployed and operate 10000+ chargers managing 12M+ charging sessions with real-time status tracking—that distributed infrastructure coordination requires robust backend systems.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Mobile app",
+    "IoT",
+    "geolocation",
+    "payments"
+   ],
+   "summary": "Statiq is India's largest EV charging network platform connecting vehicle owners to 10000+ chargers across 1000+ cities with app-based discovery, booking, and payment."
+  },
   "score": 9.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2020)",
   "url": "https://www.ycombinator.com/companies/statiq",
   "website": "https://statiq.in/",
@@ -13579,9 +14559,25 @@
    }
   },
   "company": "Devnagri AI Pvt Ltd",
+  "contact": {
+   "confidence": "posting",
+   "email": "namaste@devnagri.com",
+   "found_on": "job posting",
+   "name": "",
+   "role": ""
+  },
   "description": "Languages: HTML, Swift",
   "domain": "devnagri.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Devnagri team,\n\nCompliance-aware multilingual processing for banking and government clients is a place where a model's failure mode matters as much as its accuracy, and we're both in Noida so I've been keeping an eye on what you're building.\n\nI built MedVault around that idea: a Gemini pipeline with a fixed JSON schema, safety rules against diagnosis, and a fallback parser for when the model doesn't return clean JSON: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Do you take on engineering interns or juniors?",
+   "delivered_at": "2026-09-29T09:57:25Z",
+   "lint": [],
+   "message_id": "<179067584431.2127.11737130057957049238@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T09:57:25Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "namaste@devnagri.com"
   ],
@@ -13593,9 +14589,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Noida · active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault's JSON-from-prose fallback parser and LLM-grounded API layer directly apply to building robust multilingual inference in your processing layer with error recovery.",
+   "fit": 7,
+   "hook": "Your three-layer language architecture—customer experience, processing intelligence—mirrors the backend API patterns used in production LLM systems, and you're in Noida (my location).",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Python",
+    "AI",
+    "NLP"
+   ],
+   "summary": "Devnagri builds an AI infrastructure platform for enterprise multilingual workflows and localization, with compliance-aware processing for banking, government, and commerce sectors."
+  },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/DevnagriAI",
   "website": "https://www.devnagri.com",
@@ -13743,9 +14753,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "My MedVault Django backend architecture with user isolation and secure data handling applies to your family privacy-first education platform.",
+   "fit": 4,
+   "hook": "You've reached 100,000+ families across India with audio-based early learning content requiring no smartphone, no internet, no reading - reaching families others can't touch.",
+   "people": [
+    {
+     "name": "Richa Shukla",
+     "role": "CEO"
+    }
+   ],
+   "region": "india",
+   "stack": [],
+   "summary": "Dost Education is an ed-tech nonprofit using offline-first audio phonecasts and WhatsApp video to teach early childhood development to low-income parents and caregivers across India."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2017)",
   "url": "https://www.ycombinator.com/companies/dost-education",
   "website": "http://www.dosteducation.com/",
@@ -14132,9 +15157,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "AppX is a developer-facing platform for app creation; Aditya's static analysis and code architecture visualization from Canopy could help creators understand and optimize their app codebases.",
+   "fit": 5,
+   "hook": "Trusted by 10000+ creators across 150+ countries who've generated ₹3000 Crores in earnings; YC Summer 2021 alum.",
+   "people": [
+    {
+     "name": "Sameer",
+     "role": "Contact"
+    }
+   ],
+   "region": "asia",
+   "stack": [],
+   "summary": "AppX is a no-code platform enabling educators and content creators to launch branded mobile apps and websites to monetize audiences through courses and premium content."
+  },
   "score": 10.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/appx",
   "website": "https://appx.co.in",
@@ -14231,9 +15271,19 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Like my Basepair infrastructure work managing multi-system reliability, your procurement system needs robust error handling and audit trails across distributed supplier networks.",
+   "fit": 4,
+   "hook": "You're using agentic AI to solve hardware procurement end-to-end - from RFQ to customs to shelf - replacing weeks of supplier email coordination with minutes.",
+   "people": [],
+   "region": "india",
+   "stack": [],
+   "summary": "Waybill automates end-to-end procurement for hardware teams, handling sourcing, quote negotiation, approvals, freight, customs clearance, and inventory tracking across global suppliers."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2026)",
   "url": "https://www.ycombinator.com/companies/waybill",
   "website": "https://www.waybill.to/",
@@ -14889,9 +15939,19 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · YC",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 0,
+   "hook": "",
+   "people": [],
+   "region": "india",
+   "stack": [],
+   "summary": "Tech skilling and placement institute training graduates and conducting hiring drives for corporate partners."
+  },
   "score": 14.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2019)",
   "url": "https://www.ycombinator.com/companies/acciojob",
   "website": "https://acciojob.com",
@@ -15041,9 +16101,28 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Noida · active GitHub org, no posting",
+  "research": {
+   "angle": "",
+   "angle_reason": "Student community, not hiring organization.",
+   "fit": 0,
+   "hook": "Not a company; student group that organizes workshops on Firebase, Gemini, and Google Cloud.",
+   "people": [
+    {
+     "name": "Vanshika Prakash",
+     "role": "GDGoC Organizer"
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "Dart",
+    "JavaScript",
+    "TypeScript"
+   ],
+   "summary": "GDG on Campus is a student-led tech community at Galgotias University organized by Google."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/GDGoC-GalgotiasUniversity",
   "website": "https://gdg.community.dev/gdg-on-campus-galgotias-university-greater-noida-india/",
@@ -15535,9 +16614,19 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Your manufacturing operations platform needs the same infrastructure reliability and security hardening I delivered at Basepair.",
+   "fit": 4,
+   "hook": "You've built production computer vision systems that train in 3 days on factory camera streams and plug into existing CCTV infrastructure - measuring manual work thought impossible to quantify.",
+   "people": [],
+   "region": "india",
+   "stack": [],
+   "summary": "Optifye.ai uses computer vision and AI to monitor factory worker efficiency and SOP compliance in real-time, integrating with existing CCTV infrastructure to digitize manual labor measurement."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2025)",
   "url": "https://www.ycombinator.com/companies/optifye-ai",
   "website": "https://www.optifye.ai",
@@ -15951,9 +17040,28 @@
   "posted_at": "2026-09-08T05:52:17Z",
   "priority": 1,
   "priority_note": "Noida · ₹25,000/mo",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "While Basepair used Python/Django, both focus on production reliability, scaling systems, and fixing distributed-system failures in critical infrastructure.",
+   "fit": 4,
+   "hook": "Seeks backend engineers to design high-performance gRPC APIs and scalable microservices using Go concurrency patterns and Kafka event streaming",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Go",
+    "AWS",
+    "Kafka",
+    "MongoDB",
+    "PostgreSQL",
+    "Redis",
+    "REST API",
+    "WebSockets"
+   ],
+   "summary": "App marketing company serving global clients, helping app developers market apps to increase sales and reach users (5M+ downloads)."
+  },
   "score": 15,
   "source": "internshala",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Golang Developer Internship",
   "url": "https://internshala.com/internship/detail/golang-developer-internship-in-multiple-locations-at-appversal1788708410",
   "website": "http://appversal.com/",
@@ -15968,9 +17076,25 @@
    }
   },
   "company": "Verismart.AI",
+  "contact": {
+   "confidence": "posting",
+   "email": "hello@verismart.ai",
+   "found_on": "job posting",
+   "name": "",
+   "role": ""
+  },
   "description": "Languages: C++, Go, JavaScript, Python",
   "domain": "verismart.ai",
   "domain_mx": true,
+  "email": {
+   "body": "Hi VeriSmart team,\n\nSaw you're showing LAaaS and DigiPass at Global Fintech Fest this year. Consent management and KYC infra is a space where a small backend bug turns into a compliance problem fast.\n\nAt Basepair I fixed a production OAuth race condition with row-level locking and cleared 100+ security defects a SonarQube audit flagged across Django and React: https://github.com/adityamittal-dot\n\nI'm a 2027 CS grad based in Noida, close enough to work from your Gurgaon office. Do you take on engineering interns or juniors?",
+   "delivered_at": "2026-09-29T09:56:58Z",
+   "lint": [],
+   "message_id": "<179067581702.2127.9414554580536770647@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-29T09:56:58Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "hello@verismart.ai"
   ],
@@ -15982,9 +17106,25 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurgaon · active GitHub org, no posting",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Aditya's security defect fixes and distributed-systems reliability work directly supports VeriSmart's backend infrastructure needs for KYC and blockchain systems.",
+   "fit": 7,
+   "hook": "Blockchain-powered consent management and privacy-first data sharing; live launch of LAaaS + DigiPass at Global Fintech Fest 2026, Booth W23",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "C++",
+    "Go",
+    "JavaScript",
+    "Python",
+    "Blockchain"
+   ],
+   "summary": "VeriSmart builds privacy-preserving data intelligence and KYC infrastructure for enterprises using blockchain and AI."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/tavroi",
   "website": "https://www.verismart.ai",
