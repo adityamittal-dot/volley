@@ -1,0 +1,77 @@
+{"emails": [
+  {"id": "89f99c3f3d", "subject": "Backend Engineering Internship – Aditya Mittal",
+   "body": "Hi EMotorad team,\n\nYour backend intern posting calls for building production APIs and distributed systems in Node.js and Go, which is exactly the kind of bug I chased this summer.\n\nAt my Basepair internship I fixed a production OAuth race condition with DB-level row locking and patched multi-instance file-access failures with S3 on-demand fallbacks.\n\nI'm a 2027 CS grad based in Noida and could work from your Gurgaon office. Is the backend internship still open?",
+   "tailor": {"decision": true, "reason": "The JD lists AWS CloudFormation, distributed systems and caching as required skills whose exact wording isn't in the master resume even though the Basepair and Canopy work genuinely covers them.", "gap_terms": ["AWS CloudFormation", "distributed systems", "caching"]}},
+
+  {"id": "1f716c0776", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Himanshu,\n\nYour AI Decision Audit work on tamper-evident logs for LLM decisions is the kind of governance problem I like digging into.\n\nI built MedVault, which runs Gemini through a fixed JSON schema with safety rules that block anything resembling diagnosis, plus a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad in Noida too, looking for an internship or entry-level role. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "b8e7416984", "subject": "AI Generalist Internship – Aditya Mittal",
+   "body": "Hi Sunstone team,\n\nThe AI Generalist posting's line about using LLMs as a productivity multiplier while still understanding the underlying code is exactly how I approach AI features.\n\nI built MedVault, a Gemini pipeline behind a fixed JSON schema with safety rules and a fallback parser for messy model output: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad based in Noida and can work from your Gurgaon office. Is the AI Generalist internship still open?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "60f4e6f98f", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Prodios Labs team,\n\n15M plus applications across 1000+ government services is a scale of reliability problem I'd want to work on.\n\nAt Basepair I fixed a production OAuth race condition with DB-level row locking and patched multi-instance file-access failures with S3 fallbacks, plus cleared 100+ blocker-level security issues across a Django/React codebase.\n\nI'm a 2027 CS grad based in Noida and could work from your Delhi office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "f63a87ab98", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Shiv,\n\nModelForge and the KnowledgeBase RAG app on your portfolio caught my eye, especially the fine-tuning and retrieval work.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema, safety rules against anything resembling diagnosis, and a fallback parser for malformed responses: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad based in Noida too, looking for an internship or entry-level role. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "f62173fcbe", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Irasus team,\n\nPreksha's real-time battery analytics and AI-driven predictive maintenance is the kind of production AI problem I like.\n\nI built MedVault, running Gemini behind a fixed JSON schema with safety rules and a fallback parser for messy model output: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad based in Noida and could work from your Gurgaon office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "9e0a1306b7", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Frostrek team,\n\nManaging a million-plus active agents in production is a governance problem I'd like to help with.\n\nI built MedVault, a Gemini pipeline behind a fixed JSON output schema with safety rules and a fallback parser for malformed responses, all mockable so the 47-test suite runs without an API key: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad based in Noida and could work from your Gurgaon office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "14dd6cf399", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi SamagraX team,\n\nBuilding digital public goods at population scale means a lot of moving pieces across repos, which is the problem I built Canopy for.\n\nIt parses a codebase across 10 languages into a call graph and marks anything it can't resolve as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad based in Noida and could work from your Delhi office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "42d71f8fb8", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Wingify team,\n\nYour agentic AI layer deciding actions from behavioral data sounds like it needs a clear map of how everything connects under the hood.\n\nI built Canopy for that: it parses a repo across 10 languages into a deterministic call graph, marking unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad based in Noida and could work from your Delhi office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "194cda8728", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Smart Joules team,\n\nIoT data pipelines for energy monitoring live or die on reliability, which is what I spent my last internship on.\n\nAt Basepair I fixed a production OAuth race condition with DB-level row locking and multi-instance file-access failures with S3 fallbacks, and cleared 100+ blocker-level security issues in a Django/React codebase.\n\nI'm a 2027 CS grad based in Noida and could work from your Delhi office. Do you take on engineering interns or juniors?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "5b4428736d", "subject": "Data Science Internship – Aditya Mittal",
+   "body": "Hi Sandeep,\n\n'Infrastructure is the model, not the LLM' is a line I'd apply to my own AI project too.\n\nI built MedVault, a Gemini pipeline behind a fixed JSON output schema with safety rules and a tolerant fallback parser for malformed responses: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad based in Noida, available for internships now. Is the Data Science internship still open?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "a754a20a1d", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Steve,\n\nYour September post on cutting AI cost per product 10x with async inference on Sail while keeping API latency under 500ms is a nice piece of engineering.\n\nI built Canopy along similar lines: deterministic call-graph analysis across 10 languages, with an optional AI chat layer grounded only in the computed graph, never guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "c9683830b7", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Evan,\n\nMatching 100M+ products across retailers with image classification and reasoning models sounds like the same fragmentation problem I hit at a smaller scale.\n\nI built Canopy, which resolves call graphs across a codebase in 10 languages and marks anything it can't match as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "dc9d007027", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Jason,\n\nThe Clad Locates launch automating 811 tickets is the kind of workflow bug hunting I spent this summer on.\n\nAt my Basepair internship I fixed a production OAuth race condition with DB-level row locking, patched multi-instance file-access failures with S3 fallbacks, and cleared 100+ blocker-level security issues in a Django/React codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "dd298a86be", "subject": "Associate Software Development Engineer – Aditya Mittal",
+   "body": "Hi Rajashree,\n\nYour AI-powered invoice extraction update on top of 150+ connectors is the kind of pipeline reliability problem I like.\n\nI built MedVault, a Django REST backend with a Gemini pipeline behind a fixed JSON schema and a tolerant fallback parser for malformed model output: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the Associate SDE role still open?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "7e39451c84", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Apero Health team,\n\nGetting to SOC 2 Type 2 and HIPAA compliance on a billing platform means a lot of unglamorous hardening work, which is what I spent my last internship on.\n\nAt Basepair I fixed a production OAuth race condition with DB-level row locking and cleared 100+ blocker-level security issues across a Django/React codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "f0fbd88f88", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Yuxin,\n\nAn AI chat assistant that manages inventory and fulfillment needs tight guardrails on what the model is allowed to say, which is the exact problem I worked on in MedVault.\n\nIt's a Gemini pipeline behind a fixed JSON output schema, safety rules, and a fallback parser for malformed responses: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "d572b6ecd6", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Forge team,\n\nAutomating customs filing at scale with a 60-day average refund time is a reliability problem worth caring about.\n\nAt Basepair I fixed a production OAuth race condition with DB-level row locking, patched multi-instance file-access failures with S3 fallbacks, and cleared 100+ blocker-level security issues in a Django/React codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}},
+
+  {"id": "6a1df5dfa1", "subject": "Software Engineering Internship – Aditya Mittal",
+   "body": "Hi Lugg team,\n\nKeeping arrival times under 60 minutes across thousands of daily moves takes real-time coordination that has to hold up under load.\n\nAt Basepair I fixed a production OAuth race condition with DB-level row locking and multi-instance file-access failures with S3 fallbacks, the kind of bug that shows up exactly when traffic spikes.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "tailor": {"decision": false, "reason": "", "gap_terms": []}}
+]}

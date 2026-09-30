@@ -1,0 +1,225 @@
+{
+  "leads": [
+    {
+      "id": "e57f8d9ae2",
+      "relevant": true,
+      "summary": "Daphnis Labs is a web, mobile, game, and blockchain development company based in Delhi offering custom software development services.",
+      "stack": [
+        "C#",
+        "JavaScript",
+        "HTML5",
+        "AR",
+        "VR"
+      ],
+      "hook": "Your site highlights game development in AR/VR and cross-platform mobile apps; you're hiring engineers to deliver custom solutions across these emerging tech domains.",
+      "angle": "basepair",
+      "angle_reason": "Your Basepair internship experience fixing production bugs and resolving 100+ security defects applies directly to scaling a development agency's backend systems and infrastructure reliability.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "services/development agency model, not product-focused; general email address not used for non-tiny companies"
+      ]
+    },
+    {
+      "id": "66e1aa78e4",
+      "relevant": false,
+      "summary": "",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "website is CodeIgniter default template page, no real product"
+      ]
+    },
+    {
+      "id": "35e7152aa5",
+      "relevant": true,
+      "summary": "CodeLover Technology is a custom software development and web design company in Delhi/Noida offering Android app development and corporate software services.",
+      "stack": [
+        "HTML",
+        "JavaScript"
+      ],
+      "hook": "Your site describes custom software development and Android app development; you're hiring engineers to expand your development team across these areas.",
+      "angle": "basepair",
+      "angle_reason": "Your production debugging and security remediation experience at Basepair is relevant to building reliable custom software solutions for corporate clients.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "services/design agency, minimal website; general email address not used for non-tiny companies"
+      ]
+    },
+    {
+      "id": "f62173fcbe",
+      "relevant": true,
+      "summary": "Irasus is an AI-powered battery analytics and energy intelligence company building predictive maintenance and fleet management solutions for e-mobility, stationary storage, and battery manufacturing.",
+      "stack": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Gemini",
+        "AWS"
+      ],
+      "hook": "Your Preksha platform delivers real-time battery analytics, predictive maintenance via AI, and customizable dashboards with API integrations for electric mobility across multiple geographies.",
+      "angle": "medvault",
+      "angle_reason": "Your MedVault project's production LLM pipeline with fixed JSON schemas, safety constraints, and robust error handling directly applies to Irasus's AI-driven predictive maintenance backend.",
+      "fit": 7,
+      "region": "india",
+      "people": [
+        {
+          "name": "Michael Brian Solatec",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "info@irasus.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "1f716c0776",
+      "relevant": true,
+      "summary": "nerdAppLabs is a production-grade AI systems company building decision audit trails, enterprise RAG/knowledge systems, and agentic workflows for regulated AI deployments.",
+      "stack": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "C++",
+        "React",
+        "React Native",
+        "LLMs",
+        "MCP",
+        "AWS",
+        "GCP",
+        "Azure"
+      ],
+      "hook": "Your AI Decision Audit service creates tamper-evident proof of LLM decisions for compliance; you're shipping production agents with built-in governance and reliability at scale.",
+      "angle": "medvault",
+      "angle_reason": "Your MedVault project's LLM prompting pipeline with fixed output schemas, safety rules forbidding harmful outputs, and robust fallback parsing directly matches nerdAppLabs's focus on production AI governance and decision audit systems.",
+      "fit": 8,
+      "region": "india",
+      "people": [
+        {
+          "name": "Himanshu Vimal",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "himanshu.vimal@gmail.com",
+      "contact_name": "Himanshu Vimal",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "364320490d",
+      "relevant": false,
+      "summary": "",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "large enterprise (6500+ personnel), no direct-contact hiring channel for junior candidates; support-only email"
+      ]
+    },
+    {
+      "id": "62f73f6d7d",
+      "relevant": false,
+      "summary": "",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "IT staffing and BPO company; explicitly offers Technical Staffing and Recruitment Process Outsourcing—hiring for clients, not for itself; no contact emails available"
+      ]
+    },
+    {
+      "id": "9e0a1306b7",
+      "relevant": true,
+      "summary": "Frostrek AI builds enterprise AI solutions including multi-agent orchestration platforms, agent harnesses, knowledge/RAG systems, and edge intelligence for industrial and operational AI.",
+      "stack": [
+        "TypeScript",
+        "Python",
+        "LLMs",
+        "AI Agents",
+        "MCP",
+        "AWS",
+        "GCP"
+      ],
+      "hook": "Your site reports Frostrek Agent V1 shipping and managing 1M+ active agents daily in production—you're hiring engineers who can build reliable, governed multi-agent systems at enterprise scale.",
+      "angle": "medvault",
+      "angle_reason": "Your MedVault project's production LLM pipeline with safety rules, JSON output constraints, and error handling maps directly to Frostrek's need for engineers building reliable, governance-focused AI systems.",
+      "fit": 7,
+      "region": "india",
+      "people": [],
+      "contact_email": "contact@frostrek.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "e53bb02827",
+      "relevant": false,
+      "summary": "",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "QCode.in is a personal blog/portfolio, not a company"
+      ]
+    },
+    {
+      "id": "8ec37c6326",
+      "relevant": false,
+      "summary": "",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "website mismatch: riohealth.co.uk is a UK supplement/skincare e-commerce store; the posting is for Rio.ai, an Indian quick-commerce platform—different companies"
+      ]
+    }
+  ]
+}

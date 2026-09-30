@@ -1,0 +1,287 @@
+{
+  "leads": [
+    {
+      "id": "44586cc06d",
+      "relevant": false,
+      "summary": "Novatr offers online cohort-based courses for architects, engineers and designers in the AEC industry.",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no email candidates provided",
+        "website text is empty",
+        "education company, not engineering product",
+        "team size 180, large enterprise"
+      ]
+    },
+    {
+      "id": "f19158c690",
+      "relevant": false,
+      "summary": "Jiostar is a large media and entertainment conglomerate operating television networks and streaming services reaching 800+ million viewers weekly.",
+      "stack": [
+        "Go",
+        "Java",
+        "Rust"
+      ],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Akash Saxena",
+          "role": "Chief Technology Officer"
+        },
+        {
+          "name": "Shoury Bharadwaj",
+          "role": "Head - Engineering"
+        },
+        {
+          "name": "Vijay Seshadri",
+          "role": "Chief Architect"
+        }
+      ],
+      "contact_email": "hello@jiostar.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "big enterprise 1000+ people",
+        "no direct-contact culture expected",
+        "no public opening mentioned"
+      ]
+    },
+    {
+      "id": "dc9d007027",
+      "relevant": true,
+      "summary": "Clad is project management and billing software for infrastructure projects, helping contractors automate project tracking, payments, and permitting.",
+      "stack": [
+        "JavaScript",
+        "Python",
+        "React",
+        "APIs",
+        "ERP integration",
+        "AI"
+      ],
+      "hook": "Your September 2025 blog post launched Clad Locates with AI-powered 811 ticket automation, showing active product development in construction workflow automation.",
+      "angle": "basepair",
+      "angle_reason": "Clad's SaaS platform needs the same production reliability, Django/React stack expertise, and distributed-systems bug-fixing that Aditya demonstrated fixing OAuth race conditions and multi-instance failures at Basepair.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {
+          "name": "Jason Rudin",
+          "role": "Founder/CEO"
+        }
+      ],
+      "contact_email": "jason@withclad.com",
+      "contact_name": "Jason",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "dd298a86be",
+      "relevant": true,
+      "summary": "Hevo Data is an ETL/ELT platform that automates data pipelines, integrating data from 150+ sources into data warehouses with no-code setup.",
+      "stack": [
+        "Java",
+        "TypeScript",
+        "Python",
+        "REST APIs",
+        "ETL",
+        "Data pipelines",
+        "Connectors"
+      ],
+      "hook": "Your 150+ pre-built connectors and December 2024 updates to AI-powered invoice extraction show active feature development for data automation workflows.",
+      "angle": "medvault",
+      "angle_reason": "Hevo's data pipeline architecture and REST API design parallel the Django REST backend and data pipeline logic with fixed JSON output schemas that Aditya built in MedVault.",
+      "fit": 8,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Rajashree",
+          "role": "Recruiter/Engineer"
+        }
+      ],
+      "contact_email": "rajashree+4@hevodata.com",
+      "contact_name": "Rajashree",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "6a1df5dfa1",
+      "relevant": true,
+      "summary": "Lugg is an on-demand moving service that connects users with movers and trucks for same-day or scheduled moves nationwide.",
+      "stack": [
+        "JavaScript",
+        "React Native",
+        "Python",
+        "Node.js",
+        "Real-time APIs",
+        "Mobile"
+      ],
+      "hook": "Your 4.9-star rating across nearly 1 million verified reviews and sub-60-minute arrival times show mature real-time coordination and operational excellence at scale.",
+      "angle": "basepair",
+      "angle_reason": "Lugg's real-time coordination of thousands of daily moves requires the same distributed-systems reliability and production bug-fixing that Aditya demonstrated fixing OAuth race conditions and multi-instance file-access failures at Basepair.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "hello@lugg.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "7e39451c84",
+      "relevant": true,
+      "summary": "Apero is a medical billing and practice management platform that automates RCM, claims processing, patient billing, and healthcare provider operations.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "React",
+        "APIs",
+        "Healthcare integrations",
+        "HIPAA",
+        "SOC2"
+      ],
+      "hook": "Your founding team includes the CTO of Doctor on Demand (raised $240M) and Stanford/Berkeley CS grads, plus you've achieved SOC II Type 2 certification and HIPAA compliance.",
+      "angle": "basepair",
+      "angle_reason": "Apero's healthcare platform requires the same production reliability, security hardening (100+ SonarQube issues resolved), and Django/React expertise that Aditya demonstrated at Basepair.",
+      "fit": 8,
+      "region": "us",
+      "people": [],
+      "contact_email": "founders@aperohealth.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a754a20a1d",
+      "relevant": true,
+      "summary": "Pango is an agentic OS that automates e-commerce logistics operations (shipping, delivery tracking, returns) using natural language commands and AI agents.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "AI/Agents",
+        "APIs",
+        "E-commerce integrations",
+        "Real-time systems"
+      ],
+      "hook": "Your September 2026 blog post shows reducing AI cost per product by 10x using asynchronous inference on Sail, while keeping customer-facing API response time under 500ms.",
+      "angle": "canopy",
+      "angle_reason": "Pango's agentic automation requires the same deterministic, computation-grounded approach to AI that Aditya built in Canopy's call-graph analysis with optional AI chat grounded only in computed results.",
+      "fit": 9,
+      "region": "europe",
+      "people": [
+        {
+          "name": "Steve",
+          "role": "Founder/CTO"
+        }
+      ],
+      "contact_email": "steve@pango.ai",
+      "contact_name": "Steve",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "c9683830b7",
+      "relevant": true,
+      "summary": "Channel3 is a product graph database that powers AI shopping agents, providing access to 100M+ products with cross-retailer matching and enrichment.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "ML/AI models",
+        "PostgreSQL",
+        "APIs",
+        "Image classification"
+      ],
+      "hook": "You've built ML-powered product matching across retailers with 100M+ products from 25K+ brands, using image classification and reasoning models to handle catalog fragmentation.",
+      "angle": "canopy",
+      "angle_reason": "Channel3's deterministic product-matching and cross-retailer enrichment engine parallels the careful multi-language code analysis and deterministic cross-file call-graph resolution that Aditya built in Canopy.",
+      "fit": 9,
+      "region": "us",
+      "people": [
+        {
+          "name": "Evan",
+          "role": "Engineer"
+        },
+        {
+          "name": "George Lawrence",
+          "role": "Co-founder"
+        },
+        {
+          "name": "Alexander Schiff",
+          "role": "Co-founder"
+        },
+        {
+          "name": "Shrivi",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "evan@trychannel3.com",
+      "contact_name": "Evan",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "d572b6ecd6",
+      "relevant": true,
+      "summary": "Forge is an AI-native freight forwarder and customs broker that automates international logistics, including customs clearance, tariff refunds, and duty drawback.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "AI/ML",
+        "APIs",
+        "Data processing",
+        "Real-time systems"
+      ],
+      "hook": "Your platform automates customs filing for shipments at scale and tracks tariff refunds efficiently - the site shows examples of 12 entries filed with 60-day average refund time.",
+      "angle": "basepair",
+      "angle_reason": "Forge's high-throughput logistics platform requires the same production reliability, distributed-systems debugging, and multi-instance failure handling that Aditya demonstrated fixing S3 on-demand fallbacks and OAuth race conditions at Basepair.",
+      "fit": 8,
+      "region": "us",
+      "people": [],
+      "contact_email": "hello@forgehq.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "f0fbd88f88",
+      "relevant": true,
+      "summary": "Replo is an all-in-one e-commerce platform that lets merchants build, design, and operate online stores using AI chat and no-code builders.",
+      "stack": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "AI",
+        "Webhooks",
+        "APIs"
+      ],
+      "hook": "Your AI chat assistant manages store operations from inventory to fulfillment, and your new Brand Studio maintains design consistency across all customer touchpoints.",
+      "angle": "medvault",
+      "angle_reason": "Replo's AI assistant for store operations needs the same careful LLM pipeline design with fixed JSON output schemas, safety rules, and tolerant parsing that Aditya built in MedVault.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {
+          "name": "Yuxin",
+          "role": "Engineer/Founder"
+        }
+      ],
+      "contact_email": "yuxin@replo.app",
+      "contact_name": "Yuxin",
+      "contact_role": "Engineer",
+      "red_flags": []
+    }
+  ]
+}
