@@ -11617,6 +11617,7 @@
   "location": "Calgary, AB, Canada",
   "note": "2026-09-28 reply was an automatic acknowledgement",
   "posted_at": "2026-09-24T06:15:16Z",
+  "replied_at": "2026-09-30T07:28:21Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "Xero uses AI agents for financial automation; Aditya's experience with Gemini prompting pipelines and LLM integration aligns with their AI product expansion.",
@@ -11640,7 +11641,7 @@
   },
   "score": 9.0,
   "source": "simplify",
-  "status": "followup_1",
+  "status": "replied",
   "title": "Associate Engineer - Back End",
   "url": "https://jobs.ashbyhq.com/xero/8f7f41b3-85db-4029-ab1a-70c88c5dc987/application?embed=true",
   "website": "https://xero.com"

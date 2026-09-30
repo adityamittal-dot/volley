@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-09-30T05:55:20Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-09-30T07:28:31Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 36 · **Sent:** 36 · **Replies:** 2 (6%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 36 · **Sent:** 36 · **Replies:** 3 (8%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -12,8 +12,8 @@ _Updated 2026-09-30T05:55:20Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | low_fit | 47 |
 | researching | 50 |
 | sent | 16 |
-| followup_1 | 16 |
-| replied | 2 |
+| followup_1 | 15 |
+| replied | 3 |
 | bounced | 2 |
 
 ## Reply rate by angle
@@ -21,13 +21,14 @@ _Updated 2026-09-30T05:55:20Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | Angle | Sent | Replies |
 |---|---|---|
 | basepair | 14 | 0 |
-| medvault | 12 | 0 |
+| medvault | 12 | 1 |
 | canopy | 10 | 2 |
 
 ## Replies
 
 - **InfoHawk** — James <james@infohawk.com> replied 2026-09-29
 - **winkjs** —  <contactus@graype.in> replied 2026-09-29
+- **Xero** —  <careers@xero.com> replied 2026-09-30
 
 ## Latest 25 emails
 
@@ -52,7 +53,7 @@ _Updated 2026-09-30T05:55:20Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-09-29 | SureBright | hello@surebright.com | basepair | bounced |
 | 2026-09-29 | Kaagaz | work@kaagaz.app | canopy | sent |
 | 2026-09-25 | Controlshift | hello@controlshift.co.nz | medvault | followup_1 |
-| 2026-09-25 | Xero | careers@xero.com | medvault | followup_1 |
+| 2026-09-25 | Xero | careers@xero.com | medvault | replied |
 | 2026-09-25 | InfoHawk | james@infohawk.com | canopy | replied |
 | 2026-09-25 | LaunchDarkly | careers@launchdarkly.com | canopy | followup_1 |
 | 2026-09-25 | Ooak Data | contact@ooakdata.com | canopy | bounced |
