@@ -8311,7 +8311,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Lugg team,\n\nKeeping arrival times under 60 minutes across thousands of daily moves takes real-time coordination that has to hold up under load.\n\nAt Basepair I fixed a production OAuth race condition with DB-level row locking and multi-instance file-access failures with S3 fallbacks, the kind of bug that shows up exactly when traffic spikes.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "delivered_at": "2026-09-30T15:01:48Z",
    "lint": [],
+   "message_id": "<179078050670.1983.8270634571989327603@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-30T15:01:48Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [
@@ -8344,7 +8348,7 @@
   },
   "score": 11.5,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Summer 2015)",
   "url": "https://www.ycombinator.com/companies/lugg",
   "website": "http://lugg.com",
@@ -9441,7 +9445,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Apero Health team,\n\nGetting to SOC 2 Type 2 and HIPAA compliance on a billing platform means a lot of unglamorous hardening work, which is what I spent my last internship on.\n\nAt Basepair I fixed a production OAuth race condition with DB-level row locking and cleared 100+ blocker-level security issues across a Django/React codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "delivered_at": "2026-09-30T15:00:31Z",
    "lint": [],
+   "message_id": "<179078042937.1983.6298921451266695198@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-30T15:00:31Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [
@@ -9475,7 +9483,7 @@
   },
   "score": 11.5,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Summer 2019)",
   "url": "https://www.ycombinator.com/companies/apero-health",
   "website": "https://www.aperohealth.com",
@@ -15691,7 +15699,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Evan,\n\nMatching 100M+ products across retailers with image classification and reasoning models sounds like the same fragmentation problem I hit at a smaller scale.\n\nI built Canopy, which resolves call graphs across a codebase in 10 languages and marks anything it can't match as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "delivered_at": "2026-09-30T14:59:36Z",
    "lint": [],
+   "message_id": "<179078037397.1983.6044098572048918867@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-30T14:59:36Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
@@ -15742,7 +15754,7 @@
   },
   "score": 11.5,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Summer 2025)",
   "url": "https://www.ycombinator.com/companies/channel3",
   "website": "https://trychannel3.com",
@@ -16777,7 +16789,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Forge team,\n\nAutomating customs filing at scale with a 60-day average refund time is a reliability problem worth caring about.\n\nAt Basepair I fixed a production OAuth race condition with DB-level row locking, patched multi-instance file-access failures with S3 fallbacks, and cleared 100+ blocker-level security issues in a Django/React codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "delivered_at": "2026-09-30T15:01:24Z",
    "lint": [],
+   "message_id": "<179078048062.1983.16652810157325384639@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-30T15:01:24Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
@@ -16808,7 +16824,7 @@
   },
   "score": 11.5,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/forge",
   "website": "https://www.forgehq.com/",
@@ -17252,7 +17268,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Jason,\n\nThe Clad Locates launch automating 811 tickets is the kind of workflow bug hunting I spent this summer on.\n\nAt my Basepair internship I fixed a production OAuth race condition with DB-level row locking, patched multi-instance file-access failures with S3 fallbacks, and cleared 100+ blocker-level security issues in a Django/React codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "delivered_at": "2026-09-30T14:59:59Z",
    "lint": [],
+   "message_id": "<179078039682.1983.13764955357132191136@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-30T14:59:59Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [
@@ -17290,7 +17310,7 @@
   },
   "score": 14.5,
   "source": "hn_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Winter 2023)",
   "url": "https://www.ycombinator.com/companies/clad",
   "website": "https://withclad.com",
@@ -18736,7 +18756,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Yuxin,\n\nAn AI chat assistant that manages inventory and fulfillment needs tight guardrails on what the model is allowed to say, which is the exact problem I worked on in MedVault.\n\nIt's a Gemini pipeline behind a fixed JSON output schema, safety rules, and a fallback parser for malformed responses: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on an intern?",
+   "delivered_at": "2026-09-30T15:00:53Z",
    "lint": [],
+   "message_id": "<179078044980.1983.10774183434937994587@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-09-30T15:00:53Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
@@ -18773,7 +18797,7 @@
   },
   "score": 11.5,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/replo",
   "website": "https://replo.app/",
