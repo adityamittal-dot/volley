@@ -1,17 +1,17 @@
 # Tracker
 
-_Updated 2026-09-30T07:28:31Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-09-30T10:03:48Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 36 · **Sent:** 36 · **Replies:** 3 (8%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 49 · **Sent:** 49 · **Replies:** 3 (6%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
 | new | 323 |
 | skipped | 1 |
-| no_contact | 289 |
-| low_fit | 47 |
-| researching | 50 |
-| sent | 16 |
+| no_contact | 290 |
+| low_fit | 77 |
+| queued | 6 |
+| sent | 29 |
 | followup_1 | 15 |
 | replied | 3 |
 | bounced | 2 |
@@ -20,9 +20,9 @@ _Updated 2026-09-30T07:28:31Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| basepair | 14 | 0 |
-| medvault | 12 | 1 |
-| canopy | 10 | 2 |
+| medvault | 19 | 1 |
+| basepair | 17 | 0 |
+| canopy | 13 | 2 |
 
 ## Replies
 
@@ -34,6 +34,19 @@ _Updated 2026-09-30T07:28:31Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-09-30 | Hevo Data | rajashree+4@hevodata.com | medvault | sent |
+| 2026-09-30 | Pango (YC S26) | steve@pango.ai | canopy | sent |
+| 2026-09-30 | Arakoo | sandys@gmail.com | medvault | sent |
+| 2026-09-30 | Wingify | engineering@wingify.com | canopy | sent |
+| 2026-09-30 | Smart Joules | dev@smartjoules.in | basepair | sent |
+| 2026-09-30 | SamagraX | admin@samagragovernance.in | canopy | sent |
+| 2026-09-30 | Frostrek AI | contact@frostrek.com | medvault | sent |
+| 2026-09-30 | Irasus | info@irasus.com | medvault | sent |
+| 2026-09-30 | Srapsware | shiv@srapsware.com | medvault | sent |
+| 2026-09-30 | Sunstone | connect@sunstone.in | medvault | sent |
+| 2026-09-30 | Prodios Labs | hello@prodios.com | basepair | sent |
+| 2026-09-30 | nerdAppLabs Software Solutions Pvt. Ltd., India | himanshu.vimal@gmail.com | medvault | sent |
+| 2026-09-30 | EMotorad | contactus@emotorad.com | basepair | sent |
 | 2026-09-29 | Swadesh | prateek@swadesh.co | medvault | sent |
 | 2026-09-29 | GroMo | contact@gromo.in | basepair | sent |
 | 2026-09-29 | ColoredCow | vaibhav@coloredcow.com | canopy | sent |
@@ -46,16 +59,3 @@ _Updated 2026-09-30T07:28:31Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-09-29 | winkjs | contactus@graype.in | canopy | replied |
 | 2026-09-29 | Hiration | team@hiration.com | medvault | sent |
 | 2026-09-29 | Farmako Healthcare | hello@farmako.ai | medvault | sent |
-| 2026-09-29 | ZiffyHomes | careers@ziffyhomes.com | basepair | sent |
-| 2026-09-29 | Clinikally | anuragmishra@clinikally.com | medvault | sent |
-| 2026-09-29 | Devnagri AI Pvt Ltd | namaste@devnagri.com | medvault | sent |
-| 2026-09-29 | Verismart.AI | hello@verismart.ai | basepair | sent |
-| 2026-09-29 | SureBright | hello@surebright.com | basepair | bounced |
-| 2026-09-29 | Kaagaz | work@kaagaz.app | canopy | sent |
-| 2026-09-25 | Controlshift | hello@controlshift.co.nz | medvault | followup_1 |
-| 2026-09-25 | Xero | careers@xero.com | medvault | replied |
-| 2026-09-25 | InfoHawk | james@infohawk.com | canopy | replied |
-| 2026-09-25 | LaunchDarkly | careers@launchdarkly.com | canopy | followup_1 |
-| 2026-09-25 | Ooak Data | contact@ooakdata.com | canopy | bounced |
-| 2026-09-25 | Crustdata | info@crustdata.com | canopy | followup_1 |
-| 2026-09-25 | Formance | maxence@formance.com | basepair | followup_1 |
