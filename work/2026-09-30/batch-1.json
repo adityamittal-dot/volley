@@ -1,0 +1,355 @@
+{
+ "leads": [
+  {
+   "id": "89f99c3f3d",
+   "company": "EMotorad",
+   "website": "https://www.emotorad.com/",
+   "title": "Backend Engineering (Node.js & Go) Internship",
+   "location": "Gurgaon",
+   "source": "internshala",
+   "posted_at": "2026-09-16T05:45:39Z",
+   "posting": "About the internship We're looking for a high-potential Backend Engineering Intern who loves solving problems, learning quickly, and building real production systems. The intern will work closely with the engineering team on backend services, APIs, distributed systems, and real-world engineering problems. This is a hands-on role, requiring the intern to learn fast, take ownership, and contribute to production systems. Selected intern's day-to-day responsibilities include: 1. Work with Node.js/TypeScript and Go (Golang) to build backend services. 2. Develop and maintain APIs and backend services. 3. Work with databases, caching, and asynchronous processing. 4. Contribute to distributed systems and system design. 5. Debug issues and work on performance and reliability improvements. 6. Use AI-assisted engineering tools such as Claude, Codex, and others to support development work. We care more about how you think, learn and solve problems than the number of technologies on your resume. You should be someone who enjoys asking \"how does this actually work?\", is excited to work on challenging problems, and wants to become an exceptional backend engineer. Skill(s) required AWS CloudFormation C Programming Docker Node.js PostgreSQL Redis System Design Earn certifications in these skills Learn AWS CloudFormation Learn C Programming Learn Node.JS Learn PostgreSQL Learn System Design Who can apply Only those candidates can apply who: 1. are available for full time (in-office) internship 2. can start the internship between 11th Sep'26 and 16th Oct'26 3. are available for duration of 6 months 4. have relevant skills and interests Other requirements 1. Strong hands-on experience with Node.js and Go. 2. Good programming and problem-solving skills. 3. Understanding of backend fundamentals and system design. 4. Curiosity about how distributed systems work. 5. Ability to break down complex problems and think independently. 6. Comfortable working with AI tools and knowing how to use t",
+   "site_text": "[https://www.emotorad.com/]\nElectric Cycle Online, Buy Best E Cycle & E-Bike | EMotorad Log In We're pioneering India's electric mobility revolution. Because the future of transportation should be clean, efficient, and accessible to everyone. Explore all models Book test ride 500k+ Happy Riders 250Cr+ in Fuel Savings 200+ Cities 18+ Countries 500k+ Happy Riders 250Cr+ in Fuel Savings 200+ Cities 18+ Countries 500k+ Happy Riders 250Cr+ in Fuel Savings 200+ Cities 18+ Countries Electric Cycle, Bicycle for Every Rider: Shop E-Cycles Online India Two revolutionary Core Offerings Explore The Entire Range Electric Bikes From ₹5,398 per month* Starting at ₹55,999 ₹79,999 Explore Models Electric Cycles From ₹2,013 per month* Starting at ₹21,999 ₹59,999 Explore Models Electric Bikes From ₹5,398 per month* Starting at ₹55,999 ₹79,999 Explore Models Electric Cycles From ₹2,013 per month* Starting at ₹21,999 ₹59,999 Explore Models Explore The Entire Range Wait, what's an electric cycle/bike? The Best of both Worlds. Pedal when you like, Throttle when you need. Electric Bike Electric Cycle Unique Form Factor Unique Frame Geometry that is both stylish and robust Longer Range Cover more distance on a single charge while saving time and fuel. Comfort Meets Performance Powerful motor, wider tyres and a relaxed riding position for every journey. Electric cycles aren't perfect. And we're honest about it. Our Electric Cycles always over deliver on all their specs, so you get more than what you pay for everytime. Heavier than normal cycles Yes, the battery adds weight. But once the motor kicks in, you won't feel it — the power works with you, not against you. They need charging Yes, electric cycles need charging, just like your phone. That's why we made charging effortless with a removable battery. Range anxiety is real \"Will I make it?\" is why we over-deliver on range and give you real-world numbers you can trust. More Expensive Than a Bicycle Yes, an e-bike costs more upfront than a regular bicycle. But it can replace daily commutes by car or motorcycle, helping you save thousands every year on fuel and maintenance. Ride More. Save More. See how much you save every year by switching to an electric cycle. Daily Commute Distance 35 km/day 20 km 75 km Calculated based on Petrol @ ₹100/L Total Yearly Savings ₹22,680 A festive splurge, sorted. Monthly Savings ₹1,890 Fuel Avoided 252 Litres/year CO₂ Reduced 582 kg/year Trees Equivalent 29 Trees Recommended Cycles for you Explore All Models The advantage Built for seamless, worry-free rides. 2-Year Warranty Complete bike coverage for worry-free rides. Free Delivery Pan-India doorstep delivery, easy setup. Service Support In 500+ Authorised Service Points across India Certified Quality BIS-certified quality built to global standards. We Don’t Just Build Electric Cycles, We Build a Better India 3742 Electric Cycles delivered in a span of less than 24 hours, setting a World Record. We make electric cycles in India for real India. EMotorad started in 2020, not in a boardroom, but a crazy team in Pune who saw a gap: electric cycles in India were either overpriced imports or underbuilt entry models. Nothing built properly, for real budgets. So we built our own supply chain, our own manufacturing, in India, and launched India's most iconic line-up of Electric Cycles. No outsourced guesswork. No middlemen inflating the price. Today that same approach runs a gigafactory in Pune, one of the largest e-cycle manufacturing setups outside China, and ships to riders in 18+ countries. The promise hasn't changed since day one: what you see is what you get, and it's built to survive real roads, real weather, and real commutes. India’s Biggest Names on We’re Everywhere You Are @e_motorad @e_motorad @emotorad @emotorad Real people. Real lives. Real impact. “I chose EMotorad because I needed an e-bike that could handle rural, dusty, and muddy tracks. It’s a great match for that and I've found it to be very useful.” “I am s",
+   "email_candidates": [
+    {
+     "email": "contactus@emotorad.com",
+     "where": "https://www.emotorad.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": {
+    "period": "month",
+    "min": 50000,
+    "max": 100000
+   },
+   "priority": 2,
+   "priority_note": "Gurgaon · ₹100,000/mo"
+  },
+  {
+   "id": "33105a5463",
+   "company": "QuantRay",
+   "website": "https://www.radailabs.in",
+   "title": "Deployment & Integration Engineer- PACS/DICOM Internship",
+   "location": "Delhi",
+   "source": "internshala",
+   "posted_at": "2026-09-09T05:45:20Z",
+   "posting": "About the internship Selected intern's day-to-day responsibilities include: 1. Shadow real hospital go-lives alongside our deployment lead, taking on more each time. 2. Learn DICOM & PACS/RIS integration hands-on routing, C-STORE, worklists, tags, query/retrieve by doing it, not from a textbook. 3. Run our Dockerized deployment kit, following established setup and diagnostic procedures. 4. Work on-site with hospital IT & biomedical teams on access, credentials, and connectivity supervised at first. 5. Help keep deployments healthy monitoring, basic troubleshooting, and clean documentation after each go-live. 6. Grow into owning your own site rollouts as your skills build. Skill(s) required Bash Computer Networking Docker Linux Python SQL Earn certifications in these skills Learn Python Learn SQL Learn VLSI Learn AI in Data Science Learn Embedded Systems Learn Git & Github Who can apply Only those candidates can apply who: 1. are available for full time (in-office) internship 2. can start the internship between 28th Aug'26 and 2nd Oct'26 3. are available for duration of 6 months 4. have relevant skills and interests * Women wanting to start/restart their career can also apply. Other requirements 1. Pursuing or having completed a degree in CS, IT, ECE, MCM, MCA, or a related field (final-year students welcome) — or equivalent skills. 2. Any exposure to Docker, cloud (AWS/Azure), or SQL. 3. A project or internship where you connected systems together or automated something. 4. Curiosity about healthcare technology. Perks Certificate Job offer Additional information Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of ₹ 700000 to 800000/year Number of openings 2 About QuantRay Website We build a multi-modality radiology AI platform with clinically validated solutions that integrate seamlessly into existing clinical workflows. Using advanced AI, we help radiologists automate routine tasks, create more consistent reports, and d",
+   "site_text": "[https://www.radailabs.in/]\nRadAI - AI-Powered Medical Imaging Solutions Precision at Scale. Intelligence in Every Image. AI copilot for radiology. Faster diagnoses. Fewer errors. Better care. Explore Solutions Request Demo Why AI in Radiology 0 % faster reporting Real-time workflow automation and case prioritization. 0 % fewer diagnostic errors AI second reads that catch what humans miss. 0 % reduced radiologist burnout Automate the repetitive. Focus on what matters. One Platform. Every Modality. No Disruption. RadAI integrates directly into your existing PACS infrastructure — no workflow changes, no new software to learn, no data migration required. Just enhanced diagnostic capabilities across all imaging modalities. Native PACS integration via DICOM/HL7 Cloud or on-premise deployment Secondary capture support Multi-modality processing Structured reporting output Our Solutions Purpose-built AI modules for high-impact radiology workflows. MammoX Breast Cancer Detection Automated BI-RADS scoring and structured reporting for screening mammography. • 95% sensitivity • 50% faster workflow • PACS-ready integration Learn More MedAxis Musculoskeletal Measurement Automated whole-limb alignment analysis for orthopedic surgical planning. • <5 second processing • <1.5° measurement error • Eliminates manual calculation Learn More AtrofiQ Cognitive Decline Detection Advanced brain MRI volumetry for early detection of neurodegeneration. • <5 minute analysis • Protocol-agnostic • Quantitative biomarkers Learn More Built in India, for the world. Clinical Partner Technical Partner Work with Us Partner with RadAI to deploy next-generation diagnostic AI. Request Demo Contact Team\n\n[https://www.radailabs.in/about]\nRadAI - AI-Powered Medical Imaging Solutions About Us Empowering radiologists and healthcare providers with subspecialty-level diagnostic expertise worldwide. Our Mission The demand for imaging is growing globally, yet the availability of trained radiologists—especially subspecialists—cannot keep pace. Healthcare providers face increasing pressure to deliver accurate, timely diagnoses despite these constraints. At RadAI, we are building clinically validated AI solutions that support radiologists and hospitals in improving diagnostic accuracy, efficiency, and workflow integration. Our tools are trained on diverse datasets, stress-tested in real-world clinical environments, and designed to work seamlessly with existing radiology systems. Our Vision To be the preferred AI partner for radiologists, hospitals, and diagnostic centers worldwide—delivering reliable subspecialty-level decision support and smarter imaging workflows. Our Values The principles that guide everything we do at RadAI Innovation with Purpose Every product we build is developed in close collaboration with radiologists and healthcare institutions to address real clinical needs. Clinical Excellence Our AI systems undergo rigorous validation against expert interpretation and international benchmarks, ensuring safe, reliable, and regulatory-ready deployment. Scalable Impact We design solutions that adapt to diverse healthcare settings worldwide—from high-volume tertiary hospitals to resource-limited clinics. Transparency & Trust Our explainable AI augments radiologists' judgment, strengthening clinical decision-making while preserving the essential human element in medicine. Meet the Team The visionaries, experts, and engineers behind RadAI Founding Team Dr. Bharat Aggarwal Co-Founder Dr. Kshitij Jadhav Co-Founder Mr. Aniket Aman Co-Founder Medical Advisory Board Dr. Amit Kumar Sahu Head of Department- Radiology, Max Smart Super Speciality Hospital, Saket, Delhi Dr. Richa Bansal Principal Consultant, Max Super Speciality Hospital, Saket, Delhi Key Players Anshul Kumar Yadav ML Engineer Sadaf Siddiqui Full Stack Developer Our Partners Clinical Partner Technical Partner Join Us in Transforming Healthcare Whether you are a healthcare provider, researcher, or technology partner",
+   "email_candidates": [],
+   "pay": {
+    "period": "month",
+    "min": 30000,
+    "max": 40000
+   },
+   "priority": 2,
+   "priority_note": "Delhi · ₹40,000/mo"
+  },
+  {
+   "id": "e32b9abbd0",
+   "company": "Shipzy Technologies Private Limited",
+   "website": "https://shipzy.in",
+   "title": "Founding Full-Stack Product Engineer",
+   "location": "Noida",
+   "source": "unstop",
+   "posted_at": "2026-09-28T04:10:49Z",
+   "posting": "Shipzy Technologies Private Limited is hiring for Founding Full-Stack Product Engineer About the Company Shipzy Technologies Private Limited is building logistics infrastructure for on-demand and last-mile delivery. The company operates across delivery operations, rider networks, fleet infrastructure and technology, with a focus on converting operational complexity into scalable products and systems. Responsibilities Work closely with the founders and operations teams to turn ambiguous business needs into reliable products. Build and improve the web platform, responsive user experiences and internal operations dashboard. Develop rider databases, onboarding workflows, order management, tracking, payout and billing systems. Create MIS and operational dashboards, automate repetitive processes and integrate third-party APIs. Contribute to the future roadmap, including rider applications, client dashboards, allocation systems, logistics APIs and notification workflows. Own the complete product lifecycle from problem discovery and architecture through deployment, debugging and iteration. Requirements 2–5 years of professional software development experience, with strong full-stack engineering fundamentals. Practical experience with frontend and backend development, databases, APIs, Git and cloud platforms. Exposure to technologies such as React or Next.js, Node.js or Python, PostgreSQL or SQL, REST APIs, AWS, GCP, Vercel, Supabase or mobile frameworks is valuable. Ability to make pragmatic technology decisions, build independently and avoid unnecessary over-engineering. Strong ownership, debugging ability and comfort working in an early-stage, fast-moving environment. Experience in logistics, mobility, SaaS, marketplaces, fleet management or other operational businesses is a plus. This is a high-ownership 0-to-1 opportunity for a builder who wants to shape technology strategy and directly influence how a logistics business operates and scales.",
+   "site_text": "[https://shipzy.in/]\nShipzy-Ship anywhere in India & to 180+ countries Ship anywhere in India & to 180 + countries PICKED, PACKED & DELIVERED *Packing service is available only in limited locations. Please check with our team. SINGLE PARCELS TO BULK FREIGHT *We do not ship parcels under 20 kgs DOMESTIC & INTERNATIONAL SHIPPING *Ship in India & ship outside India Get Shipping cost on Whatsapp Who we are Our customer's support has helped us achieve these numbers over the years 15,000+ Customers 19,000+ Successful Moves 180+ Cities Covered 45,000+ Shipments Domestic Services Home Courier Pickup Airport Courier Hotel Courier PG / Student Courier International Services Ship from the world to India Ship from India to the World Send medicines from India, Globally Send Documents from India Why ShipzyCart Transparent Pricing Fast and reliable shipping services across the country for businesses of all sizes. Benefit from our extensive local network and efficient delivery. Domestic Shipping International Shipping Starts from ₹75 /KG Starts from Rs. 450/KG Get full rates on WhatsApp EXPRESS MODE Fastest shipping mode for International & Domestic locations. SURFACE MODE Cheapest shipping mode for domestic locations. ECONOMY MODE Cheapest shipping mode for certain International locations. NEXT DAY Next day delivery for domestic shipments in certain locations. Shipping Speed Options Fast and reliable shipping services across the country for businesses of all sizes. Benefit from our extensive local network and efficient delivery. PICKUP FROM HOME No Weight Limits Want to ship more than 100 kgs? No problem! HIGHER WEIGHT, LESS COST Tiered Pricing Higher Weight, Lesser Rate Per kg. HUMAN SUPPORT No Hidden Fees All payment details are shared clearly. ShipzyCart International Shipping Services Seamless, reliable, and affordable international shipping – from your doorstep to destinations worldwide. Ship from the world to India Ship from India to the World Door-to-Door Convenience No need to visit courier offices – we pick up from your home, hostel, hotel, or office and deliver across borders hassle-free. Real-Time Tracking Stay informed at every step with live updates and notifications until your package safely arrives. Secure & Cost-Effective Shipping Enjoy competitive international rates with complete peace of mind – your luggage, parcels, and boxes are always in safe hands. Why we use Whatsapp From Order Booking to Delivery Get a personalized experience Chat directly with our team on WhatsApp for quick, human assistance tailored to your shipment’s unique needs. No App Downloads. No IVR. No Chatbot Skip complicated apps and robotic menus. Experience instant, human-powered logistics help through a simple WhatsApp conversation. From query to delivery in one place Book, track, and manage shipments effortlessly on WhatsApp — your entire logistics journey simplified in one chat. P Profile name Profile name P Profile name Profile name P Profile name Profile name Real conversations with Real Customers See what our customers are saying about Shipzycart.. ShipzyCart for Businesses The All in One Shipping Solution for B2Bs ShipzyCart gives your business one platform, all modes – Road, Air, Sea, and Rail. From urgent parcels to bulk cargo, we deliver faster, cheaper, and smarter across borders. Ship Via Domestic Shipping Business-grade distribution across India with reliable delivery, real-time tracking, and strict SLA adherence. International Freight End-to-end global freight forwarding with customs compliance, visibility, and optimized trade lane solutions. International Import Simplified import handling with documentation, clearance, and last-mile delivery for seamless business operations. Event Logistics Time-critical logistics for corporate events, exhibitions, and conferences with expert on-ground coordination. Trusted by 500+ Brands Speak to our Team member today! Frequently Asked Q's Why was Shipzycart started? ShipzyCart was started to provide a c",
+   "email_candidates": [
+    {
+     "email": "hello@shipzy.in",
+     "where": "https://shipzy.in/",
+     "kind": "generic"
+    },
+    {
+     "email": "kishen@shipzy.in",
+     "where": "https://shipzy.in/contact-us/",
+     "kind": "personal"
+    }
+   ],
+   "pay": {
+    "period": "year",
+    "min": 700000,
+    "max": 1200000
+   },
+   "priority": 2,
+   "priority_note": "Noida · 12 LPA"
+  },
+  {
+   "id": "caa225f561",
+   "company": "Isourse",
+   "website": "https://isourse.com",
+   "title": "Backend Development Internship",
+   "location": "Delhi",
+   "source": "internshala",
+   "posted_at": "2026-09-09T05:45:20Z",
+   "posting": "About the internship Selected intern's day-to-day responsibilities include: 1. Develop and maintain RESTful APIs using Node.js/NestJS. 2. Manage and optimize databases using MongoDB and SQL with strong focus on stored procedures and performance tuning. 3. Collaborate with frontend teams to ensure seamless integration and responsive application behaviour. 4. Write clean, modular code with appropriate testing (unit/integration). 5. Ensure secure, scalable, and high-performing backend systems. Skill(s) required APIs Express.js JSON MERN MS SQL Server Next.js Node.js REST API SQL Earn certifications in these skills Learn MS SQL Server Learn Node.JS Learn SQL Who can apply Only those candidates can apply who: 1. are available for full time (in-office) internship 2. can start the internship between 29th Aug'26 and 19th Oct'26 3. are available for duration of 6 months 4. have relevant skills and interests * Women wanting to start/restart their career can also apply. Other requirements 1. Proficiency in Node.js, MongoDB, and stored procedures (TSQL). 2. Strong understanding of JavaScript and JSON-based APIs. 3. Experience with schema design, indexing, and query optimisation. 4. Ability to work in a collaborative, fast-paced environment. 5. Candidates must hold a passed degree in BE/BTech/BSc (or equivalent) in computer science, electronics, electrical, mechanical, or related fields from a reputed institute. 6. A minimum of 85% marks throughout the academic career (10th, 12th, and graduation) is mandatory. Only candidates meeting this academic benchmark will be considered. Perks Certificate Letter of recommendation Job offer Additional information Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of ₹ 450000 to 600000/year Number of openings 1 About Isourse Isourse is a tech startup providing comprehensive solutions to customers across their tech and infrastructure needs, primarily in the supply chain, logistics, and e-fulfillment",
+   "site_text": "[https://isourse.com/]\nIsourse Technologies",
+   "email_candidates": [],
+   "pay": {
+    "period": "month",
+    "min": 25000,
+    "max": 25001
+   },
+   "priority": 1,
+   "priority_note": "Delhi · ₹25,001/mo"
+  },
+  {
+   "id": "f1052aa284",
+   "company": "IFOA",
+   "website": "http://theifoa.com",
+   "title": "Artificial Intelligence (AI) Internship",
+   "location": "Delhi",
+   "source": "internshala",
+   "posted_at": "2026-09-16T05:45:39Z",
+   "posting": "About the internship Selected intern's day-to-day responsibilities include: 1. Assist in integrating various SCORM/API packages into various LMS platforms 2. Work on embedding Interactive web apps within e-learning tools such as iSpring or Articulate 3. Support Rest API integrations, JSON data handling, and backend communication. 4. Contribute to Node. JS-based automation and basic web interface development. 5. Collaborate with senior developers for testing, debugging, and version control Skill(s) required Artificial intelligence Data Structures Machine Learning Python Earn certifications in these skills Learn Artificial intelligence Learn Data Structures Learn Machine Learning Learn Python Who can apply Only those candidates can apply who: 1. are available for full time (in-office) internship 2. can start the internship between 9th Sep'26 and 14th Oct'26 3. are available for duration of 3 months 4. are from Delhi only 5. have relevant skills and interests Other requirements 1. Familiarity with AWS or Firebase 2. Experience writing Python automation scripts 3. Previous experience with Moodle, iSpring, or Articulate Storyline. Perks Certificate Letter of recommendation 5 days a week Number of openings 1 About IFOA Website IFOA provides access to world-class quality training and professional development services Worldwide at affordable prices for aviation organizations and individuals. Activity on Internshala Hiring since September 2025 6 opportunities posted 3 candidates hired Apply now Additional Questions × Close Sign up to continue Candidate sign up Sign up/ Login with Google Sign up with Email OR Email Password First Name Last Name Sign up By continuing as a candidate, you agree to our T&C . Already registered? Login Sign up to continue Candidate sign up Sign up/ Login with Google Sign up with Email OR Email Password First Name Last Name Sign up By continuing as a candidate, you agree to our T&C . Already registered? Login",
+   "site_text": "[http://theifoa.com/]\n",
+   "email_candidates": [],
+   "pay": {
+    "period": "month",
+    "min": 20000,
+    "max": 30000
+   },
+   "priority": 1,
+   "priority_note": "Delhi · ₹30,000/mo"
+  },
+  {
+   "id": "cb8571b912",
+   "company": "Upside Down Labs",
+   "website": "https://upsidedownlabs.tech",
+   "title": "Software Engineering (no public opening)",
+   "location": "New Delhi, INDIA",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "DIY Neurosience hardware & software!. Languages: C++, JavaScript, Python, TypeScript. Topics: acquisition, biopotential-signals, ecg, eeg, emg, eog, neuroscience, nueroscience, physiological-signals, upsidedownlabs, web-serial-api",
+   "site_text": "[https://upsidedownlabs.tech/]\nExplore the Future of Neurotechnology | Upside Down Labs Skip to content Contact us Menu Explore the fascinating field of using our DIY Neuroscience Kits and create amazing Human-Computer Interfaces & Brain-Computer Interfaces right at your home! Start learning Know about us We are on a mission to democratize Neuroscience. We believe neuroscience should be accessible to everyone—from curious students and passionate hobbyists to pioneering researchers. In a world where learning and experimenting with biopotential signals is often expensive and limited to elite institutions, we’re flipping the narrative. Education​ Hands-on learning tools helps you understand neuroscience & develop HCI/BCI applications. Customizability Provide foundation for building projects while allowing users to expand upon their existing hardware. Accessibility Affordable and easy-to-use kits for students, researchers, and hobbyists to explore different domains. All-in-one solution DIY kits, software support, detailed docs, guides, & project tutorials - all at one place. Practical Application Enables real-world applications in robotics, HCI, BCI, wearables and related fields. Community Access to a supportive network for collaboration, learning, and sharing in the neuroscience space. Our Innovations GitHub Neuro PlayGround (NPG) Lite An expandable 3-channel wireless BioAmp for HCI & BCI BioAmp EXG Pill Pill-size 1-channel BioAmp to record publication-grade biopotential signals (EEG/ECG/EMG/EOG). Muscle BioAmp Shield The ultimate plug-and-play Arduino Uno EMG shield. Visualize, listen, and control LEDs, servo claw, etc. with your muscles. Muscle BioAmp Patchy Wearable EMG sensor with high CMRR and reverse polarity protection for robust, reliable signal recording. Heart BioAmp Candy Candy-size ECG sensor to record biopotential signals from your heart, detect heartbeats, and measure heartrate. Muscle BioAmp Candy EMG sensing made sweet and simple. No soldering, just plug, play, and record muscle signals. Muscle BioAmp BisCute Build It. Learn It. Flex It. World’s most affordable DIY EMG sensor for hands-on learning. Muscle BioAmp Blip Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, provident. Flexible options to suit all your needs! Whether you're looking for just the sensor or a complete DIY Neuroscience kit—we’ve got you covered. Our full kits come with everything you need to get started: the sensor, development board, skin preparation kit, plenty of gel electrodes, cables, and more. You have the freedom to choose exactly what fits your project, learning goal, or research requirement. Compare Kits Shop your favorite kit You don't need a lab, you just need curiousity. We provide a complete learning and development ecosystem for neuroscience enthusiasts. Cool project ideas We regularly share hands-on project ideas that turn complex neuroscience concepts into fun, real-world experiments like controlling a game with your brainwaves, detecting your heartrate, or controlling dino game using EOG signals. Step-by-step tutorials Our beginner-friendly tutorials guide you through every step - from connecting the sensors to interpreting signal data. With clear visuals, code examples, and troubleshooting tips, you’ll never feel stuck or overwhelmed. Documentation Each product and project is supported by comprehensive manuals and setup guides. You’ll find pinout diagrams, board layouts, signal diagrams, compatibility notes, example use cases and example codes - all openly available. Software support Get started with our ready-to-use Arduino sketches for basic examples & projects. Also, visualize & record your signals in real-time with Chords, our free, open-source software designed to work seamlessly with BioAmp hardware. Use our Chords Software Suite for: (The suite consists Chords Web, Chords Python, Chords LSL Connector) Data visualization LSL data streaming Data recording Downloading data as CSV Applying bandpass filters ",
+   "email_candidates": [
+    {
+     "email": "contact@upsidedownlabs.tech",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "deepaklorkhatri7@gmail.com",
+     "where": "GitHub commits (upsidedownlabs)",
+     "kind": "personal",
+     "name": "Deepak Khatri",
+     "commits": 16
+    },
+    {
+     "email": "amanmaheshwari715@gmail.com",
+     "where": "GitHub commits (upsidedownlabs)",
+     "kind": "personal",
+     "name": "Aman Maheshwari",
+     "commits": 12
+    },
+    {
+     "email": "ritikamis@gmail.com",
+     "where": "GitHub commits (upsidedownlabs)",
+     "kind": "personal",
+     "name": "Ritika Mishra",
+     "commits": 20
+    },
+    {
+     "email": "karan4g79@gmail.com",
+     "where": "GitHub commits (upsidedownlabs)",
+     "kind": "personal",
+     "name": "Krishnanshu Mittal",
+     "commits": 11
+    },
+    {
+     "email": "ankitdhillon295@gmail.com",
+     "where": "GitHub commits (upsidedownlabs)",
+     "kind": "personal",
+     "name": "Ankit dhillon",
+     "commits": 3
+    },
+    {
+     "email": "jai.singhmed@gmail.com",
+     "where": "GitHub commits (upsidedownlabs)",
+     "kind": "personal",
+     "name": "Jai Singh",
+     "commits": 20
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting"
+  },
+  {
+   "id": "51f26ad6f1",
+   "company": "DevsLane",
+   "website": "https://devslane.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "New Delhi Area, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript. Topics: aws-s3, node, node-js, nodejs, typescript",
+   "site_text": "[https://devslane.com/]\nHire Exceptional Software EngineersâRisk-Free! Experience Exceptional Software Engineering Risk-Free! A No-Cost, 2-Week Trial of Our Vetted Engineers to Jumpstart Your Next Big Project Start Your Free Trial Why Choose DevsLane? Exceptional Talent Pool Our engineers are meticulously selected through a unique, proprietary program active in 1,500+ schools and colleges. Hire Risk Free Interview our engineers, give them a test task or hire them on 2-week free trial. Seamless Team Integration Our engineers quickly adapt to your workflow, processes, and tech stack. Flexibility and Agility Hire instantly and ramp up or ramp down quickly with your changing needs. 100+ Successful projects delivered across industries Working with us will feel like having your own in-house teamâwithout the overhead. Services we provide Team Augmentation Add experienced, vetted engineers to your team with transparent accountability and expertise tailored to your goals. Cultural fit Top 1% Instant hire Let's chat MVP Development Bring Your Vision to Life with MVP Development: Launch Fast, Iterate Smarter. MVP Rapid Prototyping Agile Development Let's chat AI Development Leverage the power of artificial intelligence to stay ahead of the competition. RAG LangChain LlamaIndex AutoGPT Let's chat Full-Stack Development Work with a complete team led by a dedicated tech lead or project manager, ensuring alignment, ownership, and results. Node.js React Python AWS Let's chat Blockchain Development Unlock the Future with Custom Blockchain Solutions: Secure, Scalable, and Innovative. Smart Contracts Web3 NFT Development Let's chat App Development From concept to app store, we create mobile applications that combine intuitive design with robust functionality. React Native Flutter Desktop Mobile Let's chat UI/UX Transform Ideas into Stunning Experiences: Intuitive, User-Centric, and Visually Engaging UI/UX Designs. Wireframing Figma XD Let's chat DevOps Streamline Your Development Pipeline: Agile, Automated, and Reliable DevOps Solutions. Kubernetes Docker AWS IaC Let's chat Ready to Experience Top-Tier Development? Take advantage of our no-cost, 2-week trial and see why startups trust DevsLane to build, scale, and innovate. Get Started for Free How It Works 01 Share Your Needs Tell us about your project or engineering challenges, and we'll match you with the right engineer(s). 02 Start Collaborating Our engineers will work with your team for 2-weeks, fully dedicated to your goals and tasks. 03 Decide with Confidence If we're a great fit, you can continue working with us. If not, no strings attached. Industries We Serve FinTech Scalable platforms for secure financial operations. HealthTech Intuitive solutions that improve patient care and compliance. EdTech Engaging platforms that redefine learning experiences. eCommerce Seamless user experiences for modern consumers. Blockchain Smart contracts and decentralized applications for the future. And many more... Stories of Success Small Business Funding & Real-Time Credit Solutions | Breva Simplify small business funding and financing with Breva. Access tailored financial solutions, real-time credit monitoring, and expert guidance to grow and manage your business effortlessly. Get Domis Your home doesn't come with an instruction manual, we think it should. BUZZ High Performance Computing Your own Sovereign AI Advanced Compute Cloud Transforming the way people and organisations adapt to change. Over the past years, our collaboration with DevsLane has been instrumental in shaping AQaiâs journey. From the inception of our platform to its growth, DevsLane has been an integral part of our success story. As we reflect on this journey, we recognize the remarkable contributions made by each member of your teamâyour expertise, dedication, and unwavering support have been invaluable. Together, we built something extraordinary. Ross Thornley Co-Founder & CEO at AQai Revolutionizing Tenant Analysis in the",
+   "email_candidates": [
+    {
+     "email": "hello@devslane.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "contact.us@devslane.com",
+     "where": "https://devslane.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting"
+  },
+  {
+   "id": "5b4428736d",
+   "company": "Arakoo",
+   "website": "http://arakoo.com",
+   "title": "Data Science & Benchmarks Internship",
+   "location": "Faridabad, Delhi, Gurgaon, Jaipur, Noida, Roorkee",
+   "source": "internshala",
+   "posted_at": "2026-09-09T05:45:45Z",
+   "posting": "About the internship Selected intern's day-to-day responsibilities include: 1. Utilize Python and SQL to clean, manipulate, and analyze large datasets 2. Assist in the implementation of Reinforcement Learning models & Training pipelines 3. Conduct in-depth data analysis to identify trends, patterns, and anomalies 4. Support data quality assurance processes to ensure accuracy and reliability of data 5. Stay up-to-date with the latest developments in reinforcement learning, harbor, skyrl and tinker, and apply this knowledge to our products Skill(s) required Python Earn certifications in these skills Learn Python Learn Machine Learning Learn AI in Data Science Learn Data Science Learn SAS Programming Learn SQL for Data Analytics Learn Power BI Learn Clinical Trial Analysis & Reporting Learn Artificial intelligence + 2 more skills Who can apply Only those candidates can apply who: 1. are available for full time (in-office) internship 2. can start the internship between 3rd Sep'26 and 8th Oct'26 3. are available for duration of 3 months 4. are from Faridabad, Delhi, Gurgaon, Jaipur, Noida, Roorkee only 5. have relevant skills and interests Other requirements 1. You need to have a laptop with at least 8GB of RAM for this internship. 2. Your laptop will need to have either Linux or WSL2 (Windows Linux emulator). Perks Certificate Letter of recommendation Flexible work hours Informal dress code Free snacks & beverages Number of openings 2 About Arakoo Website Arakoo is an open-source startup that is building infrastructure for the GPT-class of AI models (like ChatGPT, Anthropic, and Bard). Our main framework- EdgeChains- is a framework for building large-scale distributed LLM AI systems. We integrate the latest in algorithmic research in the space of large language models along with the infrastructure & DevOps know-how to scale it seamlessly. Activity on Internshala Hiring since June 2023 70 opportunities posted 39 candidates hired Apply now Additional Questions × Close Sig",
+   "site_text": "[https://www.arakoo.com]\nArakoo Research Skip to main content Arakoo Research Sandeep Srinivasa Infrastructure is the model. Not the LLM. This private archive documents experiments in control planes, ledgered telemetry, and enterprise-grade agent economics. xterm - arakoo@lab arakoo @lab : ~ $ claude code run protocol/ark-01 [init] loading orchestration graph... [scan] tracing agent calls... [build] generating ledger schema... + write src/runtime/ledger.ts + write src/runtime/audit.ts + write src/runtime/telemetry.ts [ok] 3 files, 0 errors arakoo @lab : ~ $ Operating Principles Arakoo Research maps the orchestration layer that makes agent systems accountable. Each experiment is built to survive enterprise scrutiny: compliance constraints, cost accountability, and runtime auditability. Orchestration > Models We build around the runtime, not the model. Orchestration is where reliability, cost control, and governance actually live. Ledgered Reality Every action creates a line item. We trace intent, cost, and outcome so enterprise teams can trust the margins. Private by Default Research ships with security and auditability from day one. No demos, no noise, only controlled access. Private Archive Active Experiments A private showcase of research projects exploring orchestration, governance, and enterprise economics for agent systems. Case File 1 Active EdgeChains EdgeChains.js is Full-Stack GenAI library. Front-end, backend, apis, prompt management, distributed computing. All core prompts & chains are managed declaratively in jsonnet (and not hidden in classes) agent ai ai-agents JavaScript 412 Open repo -> Case File 2 Active doc Arakoo.ai - built on top of Docusaurus (reactjs) TypeScript 6 Open repo -> Case File 3 Active htmx-spring-creativetim Experimental repository. Classified data. SCSS 1 Open repo -> Case File 4 Active onnx-djl-example # Run HuggingFace NER (NLP) Model on Java using ONNX Runtime and DJL ## Installation: Jupyter Notebook 0 Open repo -> Case File 5 Active .github # .github 0 Open repo -> Case File 6 Active gutty # Gutty - AI Food Health Analysis **Direct ingredient identification and women's health analysis from food photos.** TypeScript 0 Open repo -> Case File 7 Active kuttyai ## Configuration (.env) Create a `.env` file at the project root (or export env vars) using the template in `.env.example`: JavaScript 0 Open repo -> Case File 8 Active RatatoCLI # RatatoCLI Named after Ratatoskr - is a squirrel who runs up and down the world tree Yggdrasil to carry messages between the eagles perched atop it and the serpent Níðhöggr who dwells beneath one of the three roots of the tree. Rust 0 Open repo -> Case File 9 Active llm-gpt-typescript-webassembly-sdk Experimental repository. Classified data. 0 Open repo -> View Full Protocol",
+   "email_candidates": [
+    {
+     "email": "founders@arakoo.com",
+     "where": "https://www.arakoo.com",
+     "kind": "hiring"
+    },
+    {
+     "email": "sandys@gmail.com",
+     "where": "GitHub commits (arakoodev)",
+     "kind": "personal",
+     "name": "Sandeep Srinivasa",
+     "commits": 40
+    },
+    {
+     "email": "sss@arakoo.com",
+     "where": "GitHub commits (arakoodev)",
+     "kind": "personal",
+     "name": "Sandeep Srinivasa",
+     "commits": 1
+    }
+   ],
+   "pay": {
+    "period": "month",
+    "min": 30000,
+    "max": 35000
+   },
+   "priority": 1,
+   "priority_note": "Gurgaon · ₹35,000/mo"
+  },
+  {
+   "id": "b8e7416984",
+   "company": "Sunstone",
+   "website": "http://sunstone.in",
+   "title": "AI Generalist Internship",
+   "location": "Gurgaon",
+   "source": "internshala",
+   "posted_at": "2026-09-09T05:45:45Z",
+   "posting": "About the internship Selected intern's day-to-day responsibilities include: 1. Build end-to-end products, internal tools, agents, automations, and data or growth systems using AI as a productivity multiplier. 2. Develop features and tools using coding assistants, AI agents, and LLM-powered workflows while writing, reading, and understanding the underlying code. 3. Rapidly prototype ideas and then strengthen them for reliability, maintainability, and real-world use. 4. Design and implement agentic workflows involving retrieval, tool usage, and multi-step tasks, while understanding their limitations and failure points. 5. Thoroughly test features, identify edge cases, and validate implementations against real-world requirements. 6. Diagnose technical issues systematically by forming hypotheses, running targeted tests, and tracing problems to their root causes. 7. Verify fixes and implementations before considering them complete or production-ready. 8. Understand the product and business context behind each project, including its target users, purpose, and intended outcomes. 9. Challenge unclear or ineffective requirements and propose more practical, impactful solutions when appropriate. 10. Learn new technologies, tools, codebases, and domains independently through research, experimentation, data analysis, and effective problem-solving. 11. Take ownership of tasks and deliver results without requiring step-by-step guidance. Skill(s) required Artificial intelligence Earn certifications in these skills Learn Artificial intelligence Learn Machine Learning Learn AI in Data Science Learn Data Science Learn SAS Programming Learn SQL for Data Analytics Learn Power BI Learn Clinical Trial Analysis & Reporting + 1 more skills Who can apply Only those candidates can apply who: 1. are available for full time (in-office) internship 2. can start the internship between 3rd Sep'26 and 8th Oct'26 3. are available for duration of 3 months 4. have relevant skills and interests Perks Ce",
+   "site_text": "[https://sunstone.in/]\nSunstone: Best UG/PG Courses in India With 100% Placement Support Programs Partner Campuses About Us Apply Now New-Age UG & PG Programs for the Jobs of 2030 Across India’s Top Campuses 26 LPA Highest Salary 1200+ Total Recruiters 7,500+ Students Placed Talk to our Counsellor Chat With Us Check Eligibility Your Dream Career Starts with the Right Program AI-Integrated Learning Future-Ready Curriculum 5+ Career Tracks & Specializations Programs offered MBA MCA BBA BCA B.Tech Check Eligibility START EXPLORING Book your guided college tour instantly Explore College Learn from Industry Experts Learn directly from experts who don’t just teach but build, lead, and hire in the real world. 10+ Industry Experts 30+ Expert Sessions Top Recruiters Explore career opportunities with 1,200+ recruiters Awards and Recognition Excellence in Edtech Innovation for Higher Education Edtech Company of the Year Best Placements Award Top Growth Company in Digital Learning & Workforce Skills 100 most promising SouthAsia Edtech startups Best Higher Education Company Leading Innovation in AI-Powered Learning Honouring Excellence and Innovation in Education Our Success Stories Life at Sunstone EASY FEE-PAYMENT Take charge of your education Play smart by choosing Sunstone. Pay the college fee and a nominal amount to unlock your dream job with Sunstone. 0 Cost EMI available Up to 100% scholarship available Get 200+ assured opportunities with Placement Opportunity Program Check Eligibility Now *Terms & conditions apply APPLY FOR UG AND PG PROGRAMS Enter a world of Possibilities faq Frequently Asked Question Which are the best undergraduate schools of technology in India? Sunstone's School of Technology offers one of the best undergraduate technology program in India, built around hands-on, project-based learning. Students work on live industry projects, build domain-specific skills, and graduate with a portfolio. The curriculum is co-designed with hiring companies to ensure real-world readiness from day one. Which management schools in India offer direct placements in tech companies? Sunstone's School of Management offers a top management program with direct placement support in leading tech companies. The curriculum integrates business fundamentals with tech-sector exposure, and Sunstone's 1,200+ hiring partners include companies across IT, fintech, and e-commerce. Students benefit from mentorship, mock interviews, and job-readiness training throughout their program. Which Sunstone colleges offer BCA and MCA program? Sunstone's partner colleges across India offer BCA and MCA program under the School of Computer Applications. These program blend core computer science fundamentals with emerging technologies like cloud computing, data analytics, and AI. Colleges span cities including Delhi NCR, Jaipur, Bangalore, Dehradun, and Hyderabad, giving students location flexibility with consistent Sunstone learning standards. Which are the best new age colleges in India? Among the best new age colleges in India, Sunstone stands out for its industry-integrated curriculum, placement-first model, and presence across 15+ cities. Unlike traditional colleges, new age institutions like Sunstone co-design courses with employers, offer outcome-based learning, and provide students with mentorship, soft-skills training, and guaranteed interview opportunities. Avoid colleges that claim new age branding without employer partnerships. What is new age education in India? New age education in India refers to industry-aligned higher education that replaces rote learning with practical, skills-first curricula. Key features include live projects, mentorship from industry professionals, AI-integrated coursework, and placement assistance. Institutions like Sunstone lead this shift by partnering with 1,200+ companies to co-design program that match real employer requirements — making graduates job-ready from day one. Which new age colleges offer affordable education i",
+   "email_candidates": [
+    {
+     "email": "connect@sunstone.in",
+     "where": "https://sunstone.in/",
+     "kind": "personal"
+    },
+    {
+     "email": "info@sunstone.in",
+     "where": "https://sunstone.in/",
+     "kind": "generic"
+    },
+    {
+     "email": "riya@gmail.com",
+     "where": "https://sunstone.in/",
+     "kind": "personal"
+    },
+    {
+     "email": "info@snaptest.org",
+     "where": "https://sunstone.in/blog",
+     "kind": "generic"
+    },
+    {
+     "email": "kirti.yadav@sunstone.in",
+     "where": "https://sunstone.in/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "bhavya.thakkar@sunstone.in",
+     "where": "https://sunstone.in/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "christy.j.varghese@sunstone.in",
+     "where": "https://sunstone.in/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "harmeet.sahdev@sunstone.in",
+     "where": "https://sunstone.in/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "harmeetkaursahdev@gmail.com",
+     "where": "https://sunstone.in/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "tanvi.khemani@sunstone.in",
+     "where": "https://sunstone.in/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "pooja.saroth@sunstone.in",
+     "where": "https://sunstone.in/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "aashruti.bhadoria@sunstone.in",
+     "where": "https://sunstone.in/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "rahul.kumar3@sunstone.in",
+     "where": "https://sunstone.in/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "shruti.sharma@sunstone.in",
+     "where": "https://sunstone.in/blog",
+     "kind": "personal"
+    }
+   ],
+   "pay": {
+    "period": "month",
+    "min": 25000,
+    "max": 30000
+   },
+   "priority": 1,
+   "priority_note": "Gurgaon · ₹30,000/mo"
+  },
+  {
+   "id": "14dd6cf399",
+   "company": "SamagraX",
+   "website": "http://tech.samagragovernance.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "9/5 Sarvapriya Vihar, New Delhi",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "At SamagraX, we build & shape open-source population-scale products, platforms & protocols, in the form of Building Blocks & Digital Public Goods.. Languages: Dockerfile, JavaScript, Shell, TypeScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "admin@samagragovernance.in",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting"
+  }
+ ]
+}

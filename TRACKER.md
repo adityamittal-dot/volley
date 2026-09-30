@@ -1,16 +1,18 @@
 # Tracker
 
-_Updated 2026-09-29T19:28:28Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-09-30T05:55:20Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
 **Emailed:** 36 · **Sent:** 36 · **Replies:** 2 (6%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
-| new | 380 |
+| new | 323 |
 | skipped | 1 |
-| no_contact | 262 |
+| no_contact | 289 |
 | low_fit | 47 |
-| sent | 32 |
+| researching | 50 |
+| sent | 16 |
+| followup_1 | 16 |
 | replied | 2 |
 | bounced | 2 |
 
@@ -49,10 +51,10 @@ _Updated 2026-09-29T19:28:28Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-09-29 | Verismart.AI | hello@verismart.ai | basepair | sent |
 | 2026-09-29 | SureBright | hello@surebright.com | basepair | bounced |
 | 2026-09-29 | Kaagaz | work@kaagaz.app | canopy | sent |
-| 2026-09-25 | Controlshift | hello@controlshift.co.nz | medvault | sent |
-| 2026-09-25 | Xero | careers@xero.com | medvault | sent |
+| 2026-09-25 | Controlshift | hello@controlshift.co.nz | medvault | followup_1 |
+| 2026-09-25 | Xero | careers@xero.com | medvault | followup_1 |
 | 2026-09-25 | InfoHawk | james@infohawk.com | canopy | replied |
-| 2026-09-25 | LaunchDarkly | careers@launchdarkly.com | canopy | sent |
+| 2026-09-25 | LaunchDarkly | careers@launchdarkly.com | canopy | followup_1 |
 | 2026-09-25 | Ooak Data | contact@ooakdata.com | canopy | bounced |
-| 2026-09-25 | Crustdata | info@crustdata.com | canopy | sent |
-| 2026-09-25 | Formance | maxence@formance.com | basepair | sent |
+| 2026-09-25 | Crustdata | info@crustdata.com | canopy | followup_1 |
+| 2026-09-25 | Formance | maxence@formance.com | basepair | followup_1 |
