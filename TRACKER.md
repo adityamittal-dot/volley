@@ -1,18 +1,19 @@
 # Tracker
 
-_Updated 2026-09-30T19:28:24Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-01T06:18:26Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 55 · **Sent:** 55 · **Replies:** 3 (5%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 55 · **Sent:** 55 · **Replies:** 4 (7%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
-| new | 323 |
+| new | 313 |
 | skipped | 1 |
-| no_contact | 290 |
+| no_contact | 327 |
 | low_fit | 77 |
-| sent | 35 |
+| researching | 50 |
+| sent | 34 |
 | followup_1 | 15 |
-| replied | 3 |
+| replied | 4 |
 | bounced | 2 |
 
 ## Reply rate by angle
@@ -20,13 +21,14 @@ _Updated 2026-09-30T19:28:24Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | Angle | Sent | Replies |
 |---|---|---|
 | basepair | 21 | 0 |
-| medvault | 20 | 1 |
+| medvault | 20 | 2 |
 | canopy | 14 | 2 |
 
 ## Replies
 
 - **InfoHawk** — James <james@infohawk.com> replied 2026-09-29
 - **winkjs** —  <contactus@graype.in> replied 2026-09-29
+- **Frostrek AI** —  <contact@frostrek.com> replied 2026-10-01
 - **Xero** —  <careers@xero.com> replied 2026-09-30
 
 ## Latest 25 emails
@@ -45,7 +47,7 @@ _Updated 2026-09-30T19:28:24Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-09-30 | Wingify | engineering@wingify.com | canopy | sent |
 | 2026-09-30 | Smart Joules | dev@smartjoules.in | basepair | sent |
 | 2026-09-30 | SamagraX | admin@samagragovernance.in | canopy | sent |
-| 2026-09-30 | Frostrek AI | contact@frostrek.com | medvault | sent |
+| 2026-09-30 | Frostrek AI | contact@frostrek.com | medvault | replied |
 | 2026-09-30 | Irasus | info@irasus.com | medvault | sent |
 | 2026-09-30 | Srapsware | shiv@srapsware.com | medvault | sent |
 | 2026-09-30 | Sunstone | connect@sunstone.in | medvault | sent |
