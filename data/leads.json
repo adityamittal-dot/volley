@@ -440,9 +440,25 @@
    }
   },
   "company": "Cardboard",
+  "contact": {
+   "confidence": "hiring",
+   "email": "founders@cardboard.ai",
+   "found_on": "https://www.cardboard.ai/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 8. Agentic video editor Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (“3 variants”, “30s hook”, “testimonials”) to get a strong first cut in minutes on which they can iterate quickly. Multimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an “AI director” inside a professional editor can be a reality. We have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can’t rebuild their stack without breaking everything. Saksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14. Together, we’re unusually suited to build the editor core others avoid. Video is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you. B2B, India, South Asia",
   "domain": "cardboard.ai",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Cardboard team,\n\nTurning raw footage and a prompt into a first cut is a hard structured-output problem before it's an editing problem, that's the part I find interesting.\n\nI built MedVault, where every Gemini call runs through one mockable client with a fixed JSON schema and a fallback parser for when the model doesn't follow it: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team looking for engineers?",
+   "delivered_at": "2026-10-01T09:56:16Z",
+   "lint": [],
+   "message_id": "<179084857424.2098.1670826047462638527@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T09:56:16Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-28T07:58:27Z",
   "github_orgs": [],
@@ -452,9 +468,36 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Cardboard's multimodal LLM pipeline for video reasoning and structured output generation aligns with MedVault's LLM prompting, output validation, and error recovery patterns.",
+   "fit": 7,
+   "hook": "Team uniquely positioned: CTO previously built Iterate AI (EF-backed); engineer spent 5yr at HackerRank building performance-critical browser apps and built Hotspoter (5M+ downloads); now building both high-perf NLE and reliable agentic editor in browser.",
+   "people": [
+    {
+     "name": "Saksham",
+     "role": "Co-founder/CTO"
+    },
+    {
+     "name": "Ishan",
+     "role": "Co-founder/Engineer"
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "Multimodal LLM",
+    "WebGPU",
+    "WebCodecs",
+    "TypeScript",
+    "browser NLE",
+    "Claude",
+    "Opus"
+   ],
+   "summary": "YC-backed agentic video editor using multimodal LLMs to generate first cuts of video from footage and prompts, with browser-based NLE and collaborative editing."
+  },
   "score": 9.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/cardboard",
   "website": "https://cardboard.ai",
@@ -481,9 +524,22 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Large-scale reliability, audit accuracy, and cost recovery require robust backends, but the posting explicitly targets senior engineers only.",
+   "fit": 1,
+   "hook": "99% invoice automation rate; recovered $5.2M in wrongful detention and demurrage charges for Forrest Logistics.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "AWS",
+    "full-stack web applications"
+   ],
+   "summary": "BlueCargo is an AI-powered freight audit and spend management platform for international supply chains, automating invoice processing and dispute resolution."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2018)",
   "url": "https://www.ycombinator.com/companies/bluecargo",
   "website": "http://www.bluecargo.io/",
@@ -576,9 +632,21 @@
    }
   },
   "company": "Artifact",
+  "contact": {
+   "confidence": "posting",
+   "email": "careers@artifact.engineer",
+   "found_on": "job posting",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 4. An Collaborative, AI-native IDE for Hardware Engineers Artifact is a collaborative IDE for hardware engineers - accelerating every step in the engineering lifecycle: Design → Procurement → Manufacturing → Integration → Test → Sustainment We've raised $3.5M to build an integrated, verifiable AI copilot with an intuitive UI that reflects how hardware actually gets built. Every artifact is auto-generated and traceable to a single-source of truth. We believe hardware engineering should be rigorous, deliberate, and system-aware. We work directly with customers solving the world's hardest technical problems to modernize how complex hardware is engineered. If you're interested, send your resume & contact info to: careers@artifact.engineer B2B, Engineering, Product and Design, United States of America, America / Canada",
   "domain": "artifact.engineer",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Artifact team,\n\nTracing signals and dependencies across a design with 116,000+ wires is the same problem I ran into building a code analyzer, just with wires instead of function calls.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and marks unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Does the team ever bring on interns?",
+   "lint": [],
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "careers@artifact.engineer"
   ],
@@ -590,9 +658,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Your Canopy project's deterministic cross-file call-graph resolution and dependency visualization directly parallels Artifact's need to trace electrical signals and system dependencies across complex hardware designs.",
+   "fit": 7,
+   "hook": "Your platform structures complex electrical systems with 116,000+ wires across 16+ companies using version control and signal traceability—exactly what hardware engineers need.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "TypeScript",
+    "backend infrastructure",
+    "version control",
+    "Python"
+   ],
+   "summary": "Artifact is a collaborative electrical system design tool (ECAD) helping hardware teams manage complex multi-subsystem designs with real-time collaboration and automated documentation."
+  },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Winter 2025)",
   "url": "https://www.ycombinator.com/companies/artifact-2",
   "website": "https://www.artifact.engineer/",
@@ -1420,9 +1503,29 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Aditya's LLM pipeline work with fixed JSON output schemas and safety rules directly aligns with Skypher's need to structure AI questionnaire responses reliably and avoid hallucinations.",
+   "fit": 5,
+   "hook": "Saves customers like Deel, Retool, and Adobe dozens of hours on security questionnaires; 96% accuracy on questionnaire responses; used by Fortune 500 and fast-growing tech companies.",
+   "people": [
+    {
+     "name": "Steve Hackney",
+     "role": "Head of Solutions Engineering at Front (customer)"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "AI",
+    "Generative AI",
+    "B2B SaaS",
+    "LLM"
+   ],
+   "summary": "Skypher is an AI agent platform that automates security, privacy, and compliance questionnaires (DDQ, ESG) for enterprise customers, reducing response time from weeks to hours."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2020)",
   "url": "https://www.ycombinator.com/companies/skypher",
   "website": "https://skypher.co",
@@ -1679,9 +1782,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "hook": "Company has ceased operations.",
+   "people": [],
+   "region": "asia",
+   "stack": [],
+   "summary": "Spend management software company (from posting description)."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2020)",
   "url": "https://www.ycombinator.com/companies/spenmo",
   "website": "https://summitglobal.com/",
@@ -1734,9 +1847,21 @@
    }
   },
   "company": "Reality Defender",
+  "contact": {
+   "confidence": "posting",
+   "email": "ask@realitydefender.com",
+   "found_on": "job posting",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 54. Enterprise Deepfake Detection Reality Defender is the market leader in deepfake detection, protecting enterprises and governments from realtime deepfake and agentic fraud. Sign up for free access at https://www.realitydefender.com/api Website: www.realitydefender.com Contact: ask@realitydefender.com YC AMA: https://news.ycombinator.com/item?id=30766050 Awards: 2025 - Gartner: Recognized as Market Leader in Deepfake Detection 2025 - JPMorgan: Inducted into Hall of Innovation 2025 - World Economic Forum: Named Technology Pioneer 2025 - USA DIU + Japan MOD: 1st Place \"Global Innovation Challenge\" 2024 - RSA Conference: 1st Place “Most Innovative Startup” 2024 - SINET16 Innovator Award 2023 - SXSW 1st Place \"Artificial Intelligence, Voice, & Robotics Technologies\" Artificial Intelligence, SaaS, Deepfake Detection, Security, Privacy, B2B, Security, United States of America, America / Canada, Remote, Partly Remote",
   "domain": "realitydefender.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Reality Defender team,\n\nCatching synthetic media in real time across calls and video feeds means your detection pipeline can't afford to go quiet when something looks off.\n\nI built MedVault, where every model call sits behind one mockable client with a fixed output schema and a fallback parser for when the model doesn't follow it, so the pipeline keeps working instead of breaking silently: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team looking for engineers?",
+   "lint": [],
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "ask@realitydefender.com"
   ],
@@ -1748,9 +1873,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Your MedVault project built safety-rules-constrained AI pipelines with proper fallback handling for malformed model output; Reality Defender needs similar AI reliability and error-handling architecture for enterprise security.",
+   "fit": 6,
+   "hook": "You're named a Market Shaper by Gartner in deepfake detection; your real-time multi-modal detection integrates into existing enterprise systems (calls, meetings, access workflows).",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Python",
+    "machine learning",
+    "API infrastructure",
+    "AI"
+   ],
+   "summary": "Reality Defender provides real-time deepfake detection APIs for enterprises, protecting against synthetic media fraud across calls, videos, and images."
+  },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/reality-defender",
   "website": "http://www.realitydefender.com",
@@ -2145,9 +2285,23 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 5,
+   "hook": "",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "compliance frameworks",
+    "cloud infrastructure",
+    "backend"
+   ],
+   "summary": "Archon helps software companies accelerate federal compliance (FedRAMP) from 16 months to 6 months by providing compliance infrastructure."
+  },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2025)",
   "url": "https://www.ycombinator.com/companies/archon",
   "website": "https://archon.inc",
@@ -2834,9 +2988,26 @@
   "posted_at": "2026-09-01T15:37:56Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Backend infrastructure and systems programming on static routing/orchestration could apply, but tech stack (Rust) is specialized and not in candidate's primary languages.",
+   "fit": 2,
+   "hook": "Open-source proxy network (auditable code, transparent consent model) shipping as fully open-source GUI and CLI; hiring for asynchronous infrastructure, daemon orchestration, and bandwidth-allocation pipelines.",
+   "people": [],
+   "region": "other",
+   "stack": [
+    "Rust",
+    "Tokio",
+    "Axum",
+    "SOCKS5",
+    "Linux systemd",
+    "SQLite"
+   ],
+   "summary": "SOCKS5 proxy network with open-source clients and fast stablecoin payouts; hiring backend systems engineer for routing infrastructure and node orchestration."
+  },
   "score": 9.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Backend Systems Engineer (Rust)",
   "url": "https://news.ycombinator.com/item?id=49523422",
   "website": "https://proxybase.xyz",
@@ -2958,9 +3129,28 @@
   "posted_at": "2026-09-02T05:22:17Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Production reliability and security focus (operational control, compliance, data security) from Basepair internship—OAuth race conditions, S3 resilience, security defects—maps to Diffusion's enterprise-grade agentic systems.",
+   "fit": 5,
+   "hook": "Explicitly welcomes all career stages including new grads; founder spent a decade at StrongDM delivering cybersecurity infrastructure for demanding enterprises; now pairing agentic speed with operational control and security.",
+   "people": [
+    {
+     "name": "Justin McCarthy",
+     "role": "Founder"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "AI",
+    "agentic systems",
+    "enterprise automation"
+   ],
+   "summary": "Building enterprise software factories using agentic AI to automate high-context workflows for large organizations, moving from pilot projects to integrated, scalable systems."
+  },
   "score": 9.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "All",
   "url": "https://news.ycombinator.com/item?id=49532070",
   "website": "https://diffusion.io",
@@ -3021,9 +3211,21 @@
    }
   },
   "company": "Juxta",
+  "contact": {
+   "confidence": "hiring",
+   "email": "careers@juxta.com",
+   "found_on": "https://www.juxta.com/about",
+   "name": "",
+   "role": ""
+  },
   "description": "Building a GPS alternative 100x more powerful with no hardware needed. Juxta is creating the first Universal Positioning System (UPS) — a GPS alternative that can monitor movement anywhere on earth with no new hardware, minimal internet connection, and remote deployment. Using custom machine learning models and a first-of-its-kind synthetic fingerprinting technology, Juxta can make any indoor, outdoor, or underground space location-aware in minutes for a fraction of the cost of any other geospatial technology. Juxta's UPS can be leveraged across industries — from securely tracking soldiers in combat zones to providing offline positioning for robots to offering asset tracking in warehouses and ports around the globe. B2B, United States of America, America / Canada, Remote, Partly Remote",
   "domain": "juxta.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Juxta team,\n\nGetting precision positioning running in under an hour with no beacons or cameras is a good sign the backend behind it is solid, not just the model.\n\nAt Basepair I fixed production distributed-systems bugs, including an OAuth race condition with DB-level row locking and S3 on-demand fallbacks for multi-instance file access, the same kind of infrastructure work positioning systems need at scale.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Taking on any engineers right now?",
+   "lint": [],
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
@@ -3033,9 +3235,26 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Juxta needs reliable, production-grade backend infrastructure at scale; your Basepair internship fixed production distributed-systems bugs and AWS S3 fallbacks, exactly what positioning infrastructure requires.",
+   "fit": 7,
+   "hook": "Your blog describes deploying precision positioning in under 1 hour with no beacons or cameras required—using built-in sensors and ML models.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Python",
+    "Machine Learning",
+    "iOS",
+    "Android",
+    "embedded systems",
+    "backend"
+   ],
+   "summary": "Juxta builds GPS-free positioning technology using machine learning and synthetic fingerprinting for real-time indoor/outdoor tracking."
+  },
   "score": 10.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Summer 2025)",
   "url": "https://www.ycombinator.com/companies/juxta",
   "website": "https://juxta.com",
@@ -3066,9 +3285,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Aditya's static analysis and document parsing expertise could support Landeed's property record analysis, but valid contact information is not available.",
+   "fit": 6,
+   "hook": "Landeed Pulse tracks 5-year price movements across Indian real estate markets; coverage across 24 states; trusted by Fortune India 500 companies.",
+   "people": [],
+   "region": "asia",
+   "stack": [],
+   "summary": "Landeed is India's digital infrastructure for property intelligence, transforming fragmented land records into verified, machine-readable state for legal-grade due diligence and transactions."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2022)",
   "url": "https://www.ycombinator.com/companies/landeed",
   "website": "https://www.landeed.com/",
@@ -3121,9 +3350,25 @@
    }
   },
   "company": "FamPay",
+  "contact": {
+   "confidence": "generic",
+   "email": "hello@fampay.in",
+   "found_on": "https://www.famapp.in:443/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 24. India’s first neobank for teenagers With FamPay, minors can do UPI, P2P and card payments without the need to set up a bank account. FamPay allows parents to send money to their kids below the age of 18, which they can spend securely any time, anywhere, under parent’s supervision. FamPay aims at making payments smooth and fun for children. Fintech, Payments, Fintech, Payments, India, South Asia, Remote, Partly Remote",
   "domain": "fampay.in",
   "domain_mx": true,
+  "email": {
+   "body": "Hi FamPay team,\n\nProcessing UPI payments in 0.6 seconds with fingerprint auth for a million-plus teenage users means the backend has zero room for an auth bug.\n\nI built MedVault's Django REST backend with JWT refresh-token rotation and per-user isolation enforced at the queryset level, the same kind of boundary-enforcement a payments app for minors needs: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team taking on engineers?",
+   "delivered_at": "2026-10-01T09:57:28Z",
+   "lint": [],
+   "message_id": "<179084864564.2098.872642931308697492@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T09:57:28Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-29T05:53:55Z",
   "github_orgs": [],
@@ -3133,9 +3378,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Aditya's Django REST backend, JWT refresh-token rotation, per-user isolation at queryset level, and security work directly matches FamPay's need for secure payment systems with strict user boundaries.",
+   "fit": 6,
+   "hook": "Just launched India's first doodle cards for teens; 1M+ active users; payments process in 0.6 seconds with custom UPI IDs and fingerprint authentication.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "mobile app",
+    "UPI",
+    "payments",
+    "fintech"
+   ],
+   "summary": "FamPay is India's first neobank for teenagers, enabling minors to make UPI and card payments under parental supervision with cashback rewards and spending analytics."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2019)",
   "url": "https://www.ycombinator.com/companies/fampay",
   "website": "https://fampay.in",
@@ -4816,9 +5076,21 @@
    }
   },
   "company": "SigmaOS",
+  "contact": {
+   "confidence": "generic",
+   "email": "hello@sigmaos.com",
+   "found_on": "https://sigmaos.com/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 5. The new home for your internet 🏡 SigmaOS is a new type of browser designed for founders, researchers, and content creators to make you better and faster at working on the web. You work 7+ hours a day on the web. Buried in a sea of 100+ tabs and 10+ web-apps 🤯, you constantly lose context for why you did what you did, and are always one click away from being distracted. We took apart the browser for you, and rebuilt a new experience from the ground-up, for the FASTEST and most PRODUCTIVE work. ⚡ SaaS, Productivity, Collaboration, Consumer, United States of America, United Kingdom, America / Canada, Europe",
   "domain": "sigmaos.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi SigmaOS team,\n\nAiris understanding the context of whatever site someone's looking at, baked right into the browser, is a different bet than most AI browser extensions are making.\n\nI built Canopy, which turns a GitHub repo in any of 10 languages into an interactive map down to individual functions, a similar problem of turning a pile of context into something navigable: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team bringing on engineers?",
+   "lint": [],
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
@@ -4828,9 +5100,25 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Your Canopy project visualizes complex code structure interactively; SigmaOS's browser product similarly needs intuitive navigation and context visualization for overwhelming amounts of web data.",
+   "fit": 6,
+   "hook": "You've built Airis, an AI chat that understands the context of websites you're viewing—a context-aware AI assistant built into your browser product.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "frontend",
+    "AI integration"
+   ],
+   "summary": "SigmaOS is a productivity-focused browser for founders and researchers featuring workspace management, tab organization, and AI-powered context awareness."
+  },
   "score": 10.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/sigmaos",
   "website": "https://www.sigmaos.com",
@@ -5899,9 +6187,21 @@
    }
   },
   "company": "Attain",
+  "contact": {
+   "confidence": "posting",
+   "email": "founders@joinattain.com",
+   "found_on": "job posting",
+   "name": "",
+   "role": "founders"
+  },
   "description": "Team size: 5. One-Stop Shop for Convenience Store Inventory Attain is a one-stop shop for convenience store owners to buy inventory across all their suppliers with higher reliability, price transparency, and product discovery. On average, store owners buy products from over 10-15 different suppliers each week. This painful process involves shopping in massive warehouses or spending hours working with wholesaler’s sales representatives (who sometimes don’t even show up). As a result, stores waste countless hours ordering products through extremely inefficient and tedious processes. These store owners are also severely impacted by inventory shortages and revenue loss which many times results in them downsizing their business or shutting them down completely. Attain solves this problem by providing a single app to purchase products across all of their suppliers, resulting in a one-stop shop for inventory. By aggregating inventory across a multitude of suppliers and wholesalers, Attain helps stores save significant time and money while allowing them to focus on what they do best - growing their businesses. Feel free to reach out at founders@joinattain.com! Marketplace, SaaS, B2B, Supply Chain, Food Tech, B2B, United States of America, America / Canada, Remote, Partly Remote",
   "domain": "joinattain.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Attain team,\n\nStore owners juggling 10-15 suppliers a week and buying through one app instead is a real logistics problem, not just a UI one.\n\nAt my Basepair internship I fixed multi-instance file-access failures with S3 on-demand fallbacks and resolved an OAuth race condition with row-level DB locking, the kind of reliability work a growing marketplace needs under load.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team hiring engineers at the moment?",
+   "lint": [],
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "founders@joinattain.com"
   ],
@@ -5913,9 +6213,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Your Basepair production Django/React reliability work and SonarQube security cleanup apply directly to building a growing B2B SaaS marketplace.",
+   "fit": 7,
+   "hook": "Store owners currently buy from 10-15 different suppliers each week; your app consolidates into one platform.",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": "B2B SaaS marketplace enabling convenience store owners to purchase inventory from multiple suppliers through a single app, helping stores save significant time and money on procurement."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/attain",
   "website": "https://joinattain.com/",
@@ -7214,9 +7524,28 @@
   "posted_at": "2026-09-16T12:44:27Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "LLM model evaluation (Grok, Claude, OpenAI) and production agent deployment aligns with MedVault's multi-model prompting and error recovery.",
+   "fit": 3,
+   "hook": "Hiring to identify where agents can help, build them, work with teams to assess AI needs, measure results, and advise on adoption; role spans across organization departments.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Go",
+    "TypeScript",
+    "GraphQL",
+    "Postgres",
+    "GCP",
+    "Claude",
+    "Grok",
+    "OpenAI"
+   ],
+   "summary": "Commerce platform combining software, manufacturing, and AI; hiring engineer to build, run, and manage production AI agents for innovation, performance, and customer support."
+  },
   "score": 9.5,
   "source": "remoteok",
-  "status": "researching",
+  "status": "low_fit",
   "title": "AI agent engineer",
   "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
   "website": "https://stickermule.com"
@@ -7264,9 +7593,35 @@
   "posted_at": "2026-09-01T17:26:29Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Interactive matchmaking and real-time data processing could align with graph-based architecture, but tech stack (Elixir/Phoenix/SwiftUI) is outside candidate's primary languages.",
+   "fit": 3,
+   "hook": "Open to both full-time CTO on-site in Stockholm and part-time remote engineer; CTO role pairs agentic speed with security and operational control; team of seasoned company builders from startups, unicorns, exits.",
+   "people": [
+    {
+     "name": "Elise Lilliehöök",
+     "role": "CEO & Co-founder"
+    },
+    {
+     "name": "Ash Pournouri",
+     "role": "Co-founder"
+    }
+   ],
+   "region": "europe",
+   "stack": [
+    "Elixir",
+    "Phoenix",
+    "GraphQL",
+    "Postgres",
+    "SwiftUI",
+    "App Clip"
+   ],
+   "summary": "Behavioral event-engagement platform that activates audiences at live experiences and captures real-time interaction through matchmaking, challenges, and engagement dashboards."
+  },
   "score": 9.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "See posting",
   "url": "https://news.ycombinator.com/item?id=49525053",
   "website": "https://mingla.io",
@@ -7584,9 +7939,28 @@
   "posted_at": "2026-09-24T05:48:22Z",
   "priority": 0,
   "priority_note": "₹30,000/mo",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 2,
+   "hook": "",
+   "people": [
+    {
+     "name": "DJ NYK (Nikhil Sahni)",
+     "role": "Artist/Founder"
+    }
+   ],
+   "region": "india",
+   "stack": [
+    "Unreal Engine",
+    "3D modeling",
+    "Blender"
+   ],
+   "summary": "DJ NYK seeks a 3D/Unreal Engine intern to develop immersive visual environments for live DJ performances."
+  },
   "score": 10.5,
   "source": "internshala",
-  "status": "researching",
+  "status": "low_fit",
   "title": "3D/Unreal Engine Creative Technology Internship",
   "url": "https://internshala.com/internship/detail/work-from-home-part-time-3d-unreal-engine-creative-technology-internship-at-dj-nyk1790152685",
   "website": "http://www.djnyk.com",
@@ -8531,9 +8905,24 @@
   "posted_at": "2026-09-02T07:32:47Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Production bug fixes (S3 fallbacks, OAuth race conditions) and reliability work from Basepair align with Multiply's emphasis on designing and debugging production systems at scale.",
+   "fit": 5,
+   "hook": "Posting emphasizes 'extensive experience building data-intensive web applications backed by relational databases' and 'designing, deploying, operating, debugging, scaling production systems'—but company explicitly sponsors visas and handles relocation for international candidates.",
+   "people": [],
+   "region": "africa",
+   "stack": [
+    "Python",
+    "Postgres",
+    "FastAPI",
+    "SQLAlchemy"
+   ],
+   "summary": "Repricing software for online sellers on 130+ marketplaces; uses pricing algorithms, data ingestion, and AI agents to adjust prices automatically and maximize profit margins."
+  },
   "score": 9.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Python + SQL Software Engineer",
   "url": "https://news.ycombinator.com/item?id=49532978",
   "website": "https://multiply.cloud",
@@ -8740,9 +9129,27 @@
   "posted_at": "2026-09-01T18:08:42Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Multi-step LLM workflows with strict output validation and error recovery (MedVault's safety rules + grounded LLM output) map to Balerion's compliance-grade agentic reasoning.",
+   "fit": 2,
+   "hook": "Building real production agentic systems: document routing (OCR vs. text extraction), extraction pipelines where missing data is worse than wrong data, durable multi-step workflows that survive mid-execution failures, eval infrastructure for compliance validation.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Python",
+    "PydanticAI",
+    "Restate",
+    "Postgres",
+    "AWS",
+    "OpenAI",
+    "Anthropic"
+   ],
+   "summary": "Agentic AI for mortgage lending, automating document processing and income qualification for loan originators; routes documents, extracts data, runs durable multi-step workflows, and validates output against underwriting guidelines."
+  },
   "score": 9.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software + FDE + AI Engineers",
   "url": "https://news.ycombinator.com/item?id=49525600",
   "website": "https://balerion.ai",
@@ -8783,9 +9190,21 @@
    }
   },
   "company": "authzed",
+  "contact": {
+   "confidence": "commit",
+   "email": "sam@authzed.com",
+   "found_on": "GitHub commits (authzed)",
+   "name": "Sam Kim",
+   "role": "engineer"
+  },
   "description": "Team size: 31. Authorization Infrastructure securing AI at OpenAI, Zoom, & more We build the tools companies need to provide performant and scalable authorization for their applications. We’re founded by 3 successful entrepreneurs with expertise in enterprise software, most recently as leaders at Red Hat. Jake and Joey met on the APIs team at Google in 2010. They went on to found Quay, where Jimmy joined as their first hire. Over the past decade, they’ve changed the landscape for building and deploying software. Artificial Intelligence, Developer Tools, Security, Open Source, Data Engineering, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Fully Remote",
   "domain": "authzed.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Sam,\n\nSpiceDB crossing 7,100 stars while running authorization for companies like OpenAI and Zoom says a lot about how much teams need permission graphs that actually hold up.\n\nI built Canopy, which resolves cross-file call graphs across a repo in 10 languages and marks anything it can't resolve as external instead of guessing, the same deterministic tracing problem as a permission graph: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team bringing on any engineers?",
+   "lint": [],
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-29T05:53:55Z",
   "github_orgs": [
@@ -8797,9 +9216,34 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Aditya's static analysis and deterministic cross-file call-graph resolution with external-call marking transfers directly to AuthZed's role-based access control graphs and permission resolution.",
+   "fit": 7,
+   "hook": "SpiceDB (open source authorization database) has 7100+ GitHub stars; AuthZed secures authorization for AI applications with query-augmented generation and permission-aware search.",
+   "people": [
+    {
+     "name": "Sam Kim",
+     "role": "engineer (31 commits)"
+    },
+    {
+     "name": "Catherine",
+     "role": "engineer (8 commits)"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "Go",
+    "Open Source",
+    "SpiceDB",
+    "Developer Tools",
+    "B2B SaaS"
+   ],
+   "summary": "AuthZed is an authorization infrastructure platform providing secure, scalable access control for applications, used by OpenAI, Zoom, and 100+ enterprise customers across AI, fintech, and healthcare."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/authzed",
   "website": "https://authzed.com",
@@ -9915,9 +10359,24 @@
   "posted_at": "2026-09-03T14:39:19Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "",
+   "angle_reason": "Not applicable; this is a staffing agency, not a direct company opportunity.",
+   "fit": 1,
+   "hook": "Recruiting for a well-established technology company growing its engineering team.",
+   "people": [
+    {
+     "name": "Chris Jorge",
+     "role": "recruiter"
+    }
+   ],
+   "region": "americas",
+   "stack": [],
+   "summary": "FWD Consulting is a staffing/recruiting firm connecting experienced software engineers with tech companies in LATAM, US, and Canada."
+  },
   "score": 9.0,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "See posting",
   "url": "https://news.ycombinator.com/item?id=49550509",
   "website": "https://fwdconsulting.org",
@@ -10423,9 +10882,34 @@
   "posted_at": "2026-09-01T19:31:47Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Aditya's production reliability work fixing OAuth race conditions and multi-instance failures aligns with Silkline's need for robust, zero-downtime procurement APIs in ITAR-controlled environments.",
+   "fit": 2,
+   "hook": "Recently shipped GraphQL APIs for PO sync and manufacturing data; customers include space hardware companies (Astranis, K2 Space); 5x customer growth in the past year.",
+   "people": [
+    {
+     "name": "Isaac",
+     "role": "founder"
+    },
+    {
+     "name": "Brent",
+     "role": "founder"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "GraphQL",
+    "Trigger.dev"
+   ],
+   "summary": "Silkline builds an AI-first procurement platform for aerospace, defense, and nuclear manufacturing, helping companies manage supply chains with real-time PO and manufacturing data integration."
+  },
   "score": 9.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineer",
   "url": "https://news.ycombinator.com/item?id=49526894",
   "website": "https://silkline.ai",
@@ -10462,9 +10946,21 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · active GitHub org, no posting",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "hook": "Consulting services company, not product engineering.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "HTML"
+   ],
+   "summary": "IT consulting and intellectual property protection firm providing consulting services across IT infrastructure, IP protection, and business software solutions."
+  },
   "score": 13.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/siddhastip",
   "website": "https://www.siddhast.com",
@@ -11018,9 +11514,28 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Delhi · active GitHub org, no posting",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "hook": "Nonprofit grants organization, not product engineering company.",
+   "people": [
+    {
+     "name": "Anand Chowdhary",
+     "role": "founder"
+    }
+   ],
+   "region": "india",
+   "stack": [
+    "HTML",
+    "Markdown",
+    "TypeScript"
+   ],
+   "summary": "Nonprofit foundation that funds community projects and open-source initiatives to expand access to technology, focusing on hackathons, developer events, and impact-driven initiatives."
+  },
   "score": 14.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/chowdhary-org",
   "website": "https://chowdhary.org",
@@ -11571,9 +12086,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Rebill's infrastructure for handling financial operations and payment reliability parallels Aditya's experience fixing production distributed-systems bugs at Basepair.",
+   "fit": 2,
+   "hook": "Site emphasizes local payment methods across 6 Latin American countries with PIX, PSE, Nequi, Yape, SPEI integrations and intelligent retry logic.",
+   "people": [
+    {
+     "name": "tony",
+     "role": "unknown"
+    }
+   ],
+   "region": "americas",
+   "stack": [],
+   "summary": "Rebill provides financial infrastructure and payment processing for companies across Latin America, offering local payment methods, recurring billing, and stablecoin rails."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/rebill",
   "website": "https://www.rebill.com",
@@ -12116,9 +12646,29 @@
   "posted_at": "2026-09-01T16:00:17Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "hook": "",
+   "people": [
+    {
+     "name": "Ben",
+     "role": "Founder"
+    }
+   ],
+   "region": "americas",
+   "stack": [
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL",
+    "cloud infrastructure"
+   ],
+   "summary": "CivTiq provides enterprise reporting infrastructure for municipal governments with multi-tenant cloud architecture and compliance frameworks."
+  },
   "score": 10.5,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "See posting",
   "url": "https://news.ycombinator.com/item?id=49523830",
   "website": "https://civtiq.com",
@@ -12147,9 +12697,31 @@
   "posted_at": "2026-09-02T00:05:52Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "hook": "",
+   "people": [
+    {
+     "name": "Michael Nusimow",
+     "role": "CEO & Founder"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "Python",
+    "Django",
+    "Next.js",
+    "PostgreSQL",
+    "AWS",
+    "LLM APIs"
+   ],
+   "summary": "DrSwarm builds AI agents for healthcare operations (scheduling, billing, patient communication) with HIPAA compliance and EHR system integrations."
+  },
   "score": 10,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "CTO Cofounder",
   "url": "https://news.ycombinator.com/item?id=49530057",
   "website": "https://drswarm.com",
@@ -12514,9 +13086,27 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Raven's AI agents extract and reason over domain-specific documents to provide actionable insights, similar to MedVault's LLM pipeline that analyzes lab reports.",
+   "fit": 5,
+   "hook": "Products include Raven Knowledge (plant documents/assets connected), Raven Work (AI agents for operations/maintenance), and Raven Incident (safety investigations)—deployed in production across 10 plant units.",
+   "people": [
+    {
+     "name": "priyansh",
+     "role": "contact person"
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "AI",
+    "LLM"
+   ],
+   "summary": "Raven builds AI assistants for manufacturing plants that handle training, troubleshooting, incident investigation, and real-time analytics, integrating with existing plant systems."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2022)",
   "url": "https://www.ycombinator.com/companies/raven",
   "website": "https://startraven.com",
@@ -12689,9 +13279,25 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Phonely's deterministic LLM with fixed output schema and safety rules mirrors MedVault's approach to controlled AI output generation.",
+   "fit": 5,
+   "hook": "Alma model handles phone calls with 182 ms to first token vs 490 ms for GPT-4.1; proprietary, cheaper, and more accurate for call center use cases.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "LLM",
+    "voice",
+    "AI",
+    "API",
+    "SMS"
+   ],
+   "summary": "Phonely builds AI voice agents for customer support calls, using a proprietary deterministic LLM called Alma that matches or outperforms human call center agents."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2024)",
   "url": "https://www.ycombinator.com/companies/phonely",
   "website": "https://phonely.ai",
@@ -12952,9 +13558,30 @@
   "posted_at": "2026-09-01T19:48:24Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "PumaAI's focus on private, local LLM alternatives parallels MedVault's backend AI pipeline design.",
+   "fit": 2,
+   "hook": "Posting explicitly lists internship opportunities in Eng, Design, Growth alongside open roles in iOS/macOS, Android, and AI/ML; backed by top AI/crypto builders.",
+   "people": [
+    {
+     "name": "yuriy",
+     "role": "founder/CEO"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "iOS",
+    "Android",
+    "AI",
+    "LLM",
+    "crypto"
+   ],
+   "summary": "Puma.tech develops a privacy-focused mobile browser with built-in LLMs and wallets (PumaBrowser) and maintains a research lab (PumaAI) exploring private AI alternatives."
+  },
   "score": 9.0,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "See posting",
   "url": "https://news.ycombinator.com/item?id=49527118",
   "website": "https://puma.tech",
@@ -13567,9 +14194,23 @@
   "posted_at": "2026-09-30T03:55:08Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Production bug fixes and reliability work could align, but tech stack (SAP/ABAP) is completely outside candidate's skills.",
+   "fit": 1,
+   "hook": "Junior SAP Integration Developer role, but despite 'Junior' label posting states minimum 3 years experience with SAP S/4HANA and API frameworks.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "SAP",
+    "ABAP",
+    "S/4HANA"
+   ],
+   "summary": "Defense contractor providing SAP/ABAP development for the Defense Commissary Agency (DeCA) supporting integration solution architecture and post-release support."
+  },
   "score": 10.0,
   "source": "jobicy",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Junior SAP Integration Developer",
   "url": "https://jobicy.com/jobs/142310-junior-sap-integration-developer",
   "website": "https://mantech.com",
@@ -13584,9 +14225,21 @@
    }
   },
   "company": "Nova Credit",
+  "contact": {
+   "confidence": "posting",
+   "email": "connect@novacredit.com",
+   "found_on": "job posting",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 100. Bridging a world of consumer-permissioned credit data Nova Credit is a credit infrastructure and analytics company that enables businesses to grow responsibly through alternative credit data. As a Consumer Reporting Agency (CRA), Nova Credit leverages its unique data infrastructure, compliance framework, and credit expertise to help lenders fill critical gaps in traditional credit analytics. The company transforms the fragmented universe of consumer financial data into compliant, actionable risk insights through a comprehensive platform designed to increase conversion through expanded coverage, speed, and reliability. Leading organizations, including HSBC, RBC, SoFi, Scotiabank, Appfolio, and Yardi, work with Nova Credit to make smarter credit decisions through cash flow underwriting with Cash Atlas™, quickly verify income with Income Navigator, and reach new-to-country consumers with Credit Passport®. Nova Credit is backed by investors including Kleiner Perkins, General Catalyst, Index Ventures, and Canapi as well as executives from Goldman Sachs, JPMorgan, and Citi. Learn more at www.novacredit.com or reach out to connect@novacredit.com. Fintech, Data Science, Fintech, Credit and Lending, United States of America, America / Canada, Remote, Partly Remote",
   "domain": "novacredit.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Nova Credit team,\n\nAggregating data across $10B in credit decisions for 7,000+ customers only works if the pipeline underneath never drops anything, that's the part that interests me.\n\nAt Basepair I fixed production distributed-systems bugs, including an OAuth race condition with DB-level row locking and S3 fallbacks for multi-instance file access, the same kind of reliability work credit infrastructure depends on.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team hiring engineers right now?",
+   "lint": [],
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "connect@novacredit.com"
   ],
@@ -13598,9 +14251,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Your Basepair internship fixed production distributed-systems bugs and 100+ security defects across Python/Django; Nova Credit's financial infrastructure needs similar backend reliability and security hardening at scale.",
+   "fit": 6,
+   "hook": "You've built data infrastructure serving 7,000+ customers and processing $10B+ in credit; your platform integrates multiple data sources for reliability and speed.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Python",
+    "backend infrastructure",
+    "data processing",
+    "AWS"
+   ],
+   "summary": "Nova Credit is credit infrastructure for lenders, aggregating alternative consumer financial data (bank transactions, payroll, international credit bureaus) for underwriting and income verification."
+  },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Summer 2016)",
   "url": "https://www.ycombinator.com/companies/nova-credit",
   "website": "http://www.novacredit.com/",
@@ -13653,9 +14321,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Weekday's AI-driven talent search and classification could leverage code intelligence for developer profiling.",
+   "fit": 1,
+   "hook": "50%+ response rate on outbound campaigns; AI drafts emails, sends WhatsApp/phone follow-ups automatically, and handles multi-channel recruitment.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "AI",
+    "email",
+    "WhatsApp",
+    "phone"
+   ],
+   "summary": "Weekday is an AI recruiting platform that identifies passive talent and runs outbound campaigns; it operates a 250M+ person database for US and India."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/weekday",
   "website": "https://weekday.works",
@@ -14052,9 +14735,28 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "",
+   "angle_reason": "Limited software/backend overlap; this is frontier hardware/semiconductor device engineering at PhD level.",
+   "fit": 2,
+   "hook": "Current cameras capture everything and stream data to GPUs; their chip filters at pixel level to send only relevant information.",
+   "people": [
+    {
+     "name": "Tania Roy",
+     "role": "founder"
+    },
+    {
+     "name": "Sanjeev Chauhan",
+     "role": "founder"
+    }
+   ],
+   "region": "us",
+   "stack": [],
+   "summary": "Early-stage semiconductor research lab building vision sensors that execute neural network filters directly in camera pixels, enabling edge computing for physical AI without expensive GPU overhead."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2026)",
   "url": "https://www.ycombinator.com/companies/synapse-semiconductor",
   "website": "https://synapsesemi.org",
@@ -14194,9 +14896,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "AlgoUniversity's curriculum delivery platform could integrate code-analysis tools for DSA problem-solving.",
+   "fit": 1,
+   "hook": "Income-sharing agreement: students pay a percentage of salary only after landing a tech job; focuses on data structures, algorithms, full-stack, system design.",
+   "people": [],
+   "region": "asia",
+   "stack": [],
+   "summary": "AlgoUniversity provides job-driven virtual tech training with live cohorts and uses an income-sharing agreement model where students pay a portion of salary post-placement."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/algouniversity",
   "website": "http://algouniversity.com/",
@@ -14211,9 +14923,21 @@
    }
   },
   "company": "Calltree",
+  "contact": {
+   "confidence": "hiring",
+   "email": "founders@calltree.ai",
+   "found_on": "https://calltree.ai/",
+   "name": "",
+   "role": "founders"
+  },
   "description": "Team size: 14. Enterprise-grade AI support reps for call centers Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today. Generative AI, SaaS, B2B, Customer Service, AI, B2B, United States of America, America / Canada",
   "domain": "calltree.ai",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Calltree team,\n\nHaving agents actually use a CRM instead of just answering in a chat window is the harder half of the problem, and the part most teams skip.\n\nI built MedVault, where every Gemini call runs behind one mockable client with a fixed JSON schema, plus a fallback parser for when the model doesn't follow it: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on engineers?",
+   "lint": [],
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
@@ -14223,9 +14947,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Your MedVault experience with structured LLM outputs, fallback error handling, and production AI safety directly applies to reliable AI agent enterprise deployment.",
+   "fit": 7,
+   "hook": "AI agents can access and use internal enterprise tools (CRM, dashboards) like trained human reps, not just respond in chat.",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": "AI-powered customer support platform that deploys agents to handle voice calls and chats while integrating with internal enterprise tools like CRMs and dashboards, automating support workflows."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Winter 2025)",
   "url": "https://www.ycombinator.com/companies/calltree",
   "website": "https://calltree.ai",
@@ -14656,9 +15390,25 @@
    }
   },
   "company": "Neolytix",
+  "contact": {
+   "confidence": "hiring",
+   "email": "recruiter@neolytix.com",
+   "found_on": "https://neolytix.com/contact/",
+   "name": "",
+   "role": "recruiter"
+  },
   "description": "Neolytix is hiring for the role of Full Stack Developer! Responsibilities of the Candidate: Build and maintain server-side applications and REST APIs using Node.js, NestJS, and Express.js. Write Python scripts and services for automation, data handling, and backend logic. Integrate third-party APIs and external services cleanly and reliably. Ensure backend code is tested, documented, and production-ready before it ships. Develop responsive, user-facing interfaces using React and Next.js. Collaborate with the team on UI/UX decisions and implement them with clean, maintainable component structures. Ensure frontend and backend are tightly integrated and behave consistently in production. Design and work with relational and non-relational databases: PostgreSQL, MySQL, and MongoDB. Write efficient SQL queries and apply core DBMS principles to schema design and data handling. Handle data migration, indexing, and query optimization as the product scales. Containerize applications using Docker and deploy to Azure environments. Work within and contribute to CI/CD pipelines to ensure reliable, repeatable deployments. Maintain awareness of deployment health and flag risks before they reach production. Participate in code reviews, giving and receiving feedback constructively. Work within SonarQube and GitHub Copilot review workflows as standard practice. Write clear documentation for your code, APIs, and architectural decisions. Communicate proactively on blockers, progress, and handoffs in an async, cross-timezone team environment. Requirements: BTech / BCA / MCA degree with a live project component during graduation. Non-negotiable. 1 to 2 years of full-time experience, or an in-depth internship with real delivery ownership across the stack (not shadow work or tutorial projects). Hands-on Node.js: you have built backend services, not just read the docs. Python: working knowledge for scripting, automation, or backend services. Core DBMS and SQL: schema design, query writing, j",
   "domain": "neolytix.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Neolytix team,\n\nRunning SonarQube and Copilot as part of the normal workflow instead of bolted on later is a good sign of how the team treats code quality.\n\nDuring my Basepair internship I cleared over 100 BLOCKER and HIGH SonarQube issues across a Django and React codebase and fixed an OAuth race condition with row-level locking, so I'm used to working inside exactly that kind of setup.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the Full Stack Developer opening still open?",
+   "delivered_at": "2026-10-01T09:56:58Z",
+   "lint": [],
+   "message_id": "<179084861673.2098.16189469902885719038@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T09:56:58Z",
+   "subject": "Full Stack Developer – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
@@ -14667,9 +15417,31 @@
   "posted_at": "2026-09-16T10:08:02Z",
   "priority": 0,
   "priority_note": "Gurgaon",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Neolytix's emphasis on security, code quality (SonarQube), production reliability, and multi-instance systems parallels Aditya's internship work fixing OAuth race conditions and SonarQube defects.",
+   "fit": 6,
+   "hook": "Full Stack Developer role requires 1-2 years experience (internship qualifies), emphasizes production-ready code with SonarQube and GitHub Copilot workflows.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "Node.js",
+    "Express",
+    "NestJS",
+    "Python",
+    "React",
+    "Next.js",
+    "PostgreSQL",
+    "Docker",
+    "Azure",
+    "SonarQube",
+    "GitHub Copilot"
+   ],
+   "summary": "Neolytix provides healthcare operations, revenue cycle management, and practice optimization services; operates across 31 specialties with 270+ team members."
+  },
   "score": 9,
   "source": "unstop",
-  "status": "researching",
+  "status": "sent",
   "title": "Full Stack Developer",
   "url": "https://unstop.com/jobs/full-stack-developer-neolytix-1756094",
   "website": "https://neolytix.com"
@@ -14737,9 +15509,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "SuperKalam's instant AI evaluation of handwritten input mirrors MedVault's process of parsing diverse input formats and providing structured analysis.",
+   "fit": 2,
+   "hook": "Instantly evaluates handwritten exam answers using AI and builds daily discipline through streak mechanics and personalized revision areas.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "AI",
+    "handwriting recognition",
+    "mobile app",
+    "web"
+   ],
+   "summary": "SuperKalam provides an AI mentor for UPSC (Indian civil service exam) preparation, offering instant evaluation of handwritten answers, doubt resolution, and accountability."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2023)",
   "url": "https://www.ycombinator.com/companies/superkalam",
   "website": "https://superkalam.com",
@@ -14834,9 +15621,25 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Coulomb's deterministic data analysis to surface insights could benefit from code-level visibility into data pipelines.",
+   "fit": 1,
+   "hook": "All posted roles (Data Engineer 3+, Platform Developer 5+, Senior SDE 4+, Frontend 2+) require 2+ years minimum; platform connects battery data across manufacturing, fleet, and OEM customers.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "AI",
+    "data",
+    "analytics",
+    "Python",
+    "SQL"
+   ],
+   "summary": "Coulomb AI provides real-time battery analytics and lifecycle management for electric vehicles, offering monitoring, optimization, and predictive analytics to prevent failures."
+  },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/coulomb-ai",
   "website": "https://coulomb.ai/",
@@ -14903,9 +15706,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Fintech with regulatory requirements could use Aditya's Django backend and security experience, but the posting does not describe a software engineering role.",
+   "fit": 1,
+   "hook": "YC Fall 2025 fintech focused on trusts and estates.",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": "Sava is a YC-backed fintech platform for trusts and estates, building infrastructure for wealth management."
+  },
   "score": 9.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Fall 2025)",
   "url": "https://www.ycombinator.com/companies/savahq",
   "website": "https://www.savahq.com",
@@ -15109,9 +15922,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "ClickPe needs backend security with per-user isolation in lending and data privacy; your MedVault project built exactly this: Django REST backend, JWT with refresh-token rotation, per-user queryset isolation, and HIPAA-grade data handling.",
+   "fit": 8,
+   "hook": "Your 'daily repayment' model is a distinct product innovation—instead of monthly installments, you deduct small amounts daily from digital wallets, reducing defaults and improving credit behavior.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Python",
+    "backend",
+    "fintech infrastructure",
+    "Django"
+   ],
+   "summary": "ClickPe is a fintech marketplace offering daily-repayment loans, credit cards, and financial products for small business owners in India."
+  },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "no_contact",
   "title": "Engineering (YC Winter 2023)",
   "url": "https://www.ycombinator.com/companies/clickpe",
   "website": "https://clickpe.ai/",
@@ -15234,9 +16062,25 @@
    }
   },
   "company": "Baraka",
+  "contact": {
+   "confidence": "posting",
+   "email": "founders@getbaraka.com",
+   "found_on": "job posting",
+   "name": "",
+   "role": "founders"
+  },
   "description": "Team size: 34. Grow Your Wealth With Baraka 💸Hey YC, we’re baraka (S21), an investment app built for people in the Middle East. 📱 Our product This is how we do it: • 6,000+ stocks and ETFs – the freedom to choose the companies and industries that you want to back • The power of financial literacy – educational content, digestible market news and in-depth stock analysis • Fractional Shares – the ability to start investing with smaller sums of money • Fair pricing – Transparent, low commission pricing model • Easy to use – intuitive user journey and interface 🕒 What's Next? The app is available in countries across MENA. Check out our website: getbaraka.com. Please reach out to give us feedback, discuss product, go-to-market strategy or anything else on founders@getbaraka.com. Feras & Kunal Fintech, Fintech, Asset Management, United Arab Emirates, Middle East and North Africa, Remote, Partly Remote",
   "domain": "getbaraka.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Baraka team,\n\n70% of the MENA population being under 30 with no real way into investing is a big gap to be building for.\n\nAt Basepair I worked on production reliability for a Django and React codebase, fixing an OAuth race condition with row-level locking and clearing over 100 BLOCKER and HIGH SonarQube issues, the kind of groundwork a fintech app needs before it scales.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team taking on engineers?",
+   "delivered_at": "2026-10-01T09:56:36Z",
+   "lint": [],
+   "message_id": "<179084859358.2098.7643373919510189061@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T09:56:36Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "founders@getbaraka.com"
   ],
@@ -15248,9 +16092,28 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Your Basepair production reliability and security work in Django/React align with fintech's requirements for rock-solid infrastructure and compliance.",
+   "fit": 6,
+   "hook": "70% of MENA population is under 30 with no access to investment apps; filling that market gap.",
+   "people": [
+    {
+     "name": "Feras",
+     "role": "founder"
+    },
+    {
+     "name": "Kunal",
+     "role": "founder"
+    }
+   ],
+   "region": "middle_east",
+   "stack": [],
+   "summary": "Investment app enabling retail investors in the Middle East and North Africa to trade stocks, ETFs, and options with fractional shares, Sharia-compliant filtering, and financial education content."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/baraka",
   "website": "https://www.getbaraka.com/",
@@ -15937,9 +16800,27 @@
   "posted_at": "2026-09-01T18:00:14Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Furtim's focus on low-latency, reliable trading systems parallels Aditya's production infrastructure work.",
+   "fit": 1,
+   "hook": "Java roles require low-latency programming experience with Aeron ecosystem; $150K-$300K salary and $100K-$150K for Data Engineer suggests senior positions.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Java 17",
+    "Aeron",
+    "PostgreSQL",
+    "Snowflake",
+    "AWS",
+    "Grafana",
+    "Prometheus"
+   ],
+   "summary": "Furtim Modus is a venture-backed fintech trading firm focused on US equities capital markets technology based in NYC."
+  },
   "score": 9.0,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Hiring Java Developer (Full-Time)",
   "url": "https://news.ycombinator.com/item?id=49525483",
   "website": "https://furtimmodus.com",
@@ -16531,9 +17412,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Not a meaningful match; Aditya's backend and infrastructure experience is overqualified for a B2C home decor e-commerce marketplace.",
+   "fit": 2,
+   "hook": "Online engagement drives real-time trend insights for home decor materials.",
+   "people": [
+    {
+     "name": "Yogi",
+     "role": "staff (found on blog)"
+    }
+   ],
+   "region": "asia",
+   "stack": [],
+   "summary": "Material Depot is an India-based B2C e-commerce marketplace for home decor materials (tiles, laminates, wallpapers), connecting manufacturers to homeowners."
+  },
   "score": 9.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/material-depot",
   "website": "https://materialdepot.in/",
@@ -17184,9 +18080,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Your infrastructure experience with deterministic cross-file analysis and PostgreSQL caching applies to their global sensor deployment and dataset management systems.",
+   "fit": 4,
+   "hook": "Team of researchers from Stanford, Berkeley, NYU GRAIL, UPenn GRASP, Johns Hopkins Robotics building foundational infrastructure for physical AI.",
+   "people": [
+    {
+     "name": "Raj",
+     "role": ""
+    }
+   ],
+   "region": "us",
+   "stack": [],
+   "summary": "Data infrastructure company for physical AI that designs hardware, deploys sensors globally, and curates datasets (video, sensor, robot, audio) to help frontier AI labs train models understanding human physical interaction."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/human-archive",
   "website": "https://www.humanarchive.ai/",
@@ -17765,9 +18676,38 @@
   "posted_at": "2026-09-30T05:06:13Z",
   "priority": 0,
   "priority_note": "recently funded",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Arivihan's fine-tuned LLM pipeline for generating structured educational content and explanations maps directly to MedVault's prompt-engineering and JSON-schema output validation.",
+   "fit": 6,
+   "hook": "Uses open-source Llama 2 & 3 fine-tuned on education data for text generation, speech synthesis, and video—core automation is LLM-powered, not template-based.",
+   "people": [
+    {
+     "name": "Ritesh Singh Chandel",
+     "role": "Founder"
+    },
+    {
+     "name": "Sonu Kumar",
+     "role": "Founder"
+    },
+    {
+     "name": "Rushabh Kothari",
+     "role": "Founder"
+    }
+   ],
+   "region": "asia",
+   "stack": [
+    "Llama",
+    "Python",
+    "LLM",
+    "speech synthesis",
+    "video generation"
+   ],
+   "summary": "AI-based learning platform providing interactive video lessons, instant doubt-solving, and AI-driven study plans for school students preparing for board and competitive exams in tier 2/3 Indian cities."
+  },
   "score": 10.0,
   "source": "funding_news",
-  "status": "researching",
+  "status": "no_contact",
   "title": "Software Engineering (recently funded)",
   "url": "https://entrackr.com/news/edtech-startup-arivihan-raises-10-mn-in-series-a-led-by-accel-and-prosus-12592500",
   "website": "https://arivihan.com",
@@ -20303,9 +21243,21 @@
    }
   },
   "company": "Oxus",
+  "contact": {
+   "confidence": "hiring",
+   "email": "founders@oxus-ai.com",
+   "found_on": "https://www.oxus-ai.com/",
+   "name": "",
+   "role": "founders"
+  },
   "description": "Team size: 3. AI-powered automation for internal audit workflows Oxus automates internal audits for pre-IPO and public companies using AI. Companies including leading payroll providers, public biotechs, and social media enterprises work with us to streamline audit workflows and get audits done 10x faster. Learn more at: https://www.oxus-ai.com/ B2B, United States of America, America / Canada",
   "domain": "oxus-ai.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Oxus team,\n\nWeeks of audit walkthrough documentation turned into something that runs in minutes is the kind of problem I like picking apart.\n\nDuring my internship at Basepair I fixed an OAuth race condition with DB-level row locking and cleared 100+ BLOCKER and HIGH SonarQube issues across a Django and React codebase, so I'm used to making production systems hold up under real use.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Are you taking on engineers right now?",
+   "lint": [],
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-09-25T12:17:33Z",
   "github_orgs": [],
@@ -20315,9 +21267,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Your Basepair SonarQube compliance cleanup and production reliability work applies to audit platform compliance and reliable automation requirements.",
+   "fit": 8,
+   "hook": "Auditors spend weeks on walkthrough documentation and evidence gathering; platform automates this workflow in minutes.",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": "AI automation platform for internal audit workflows that transforms documentation into audit processes, automating evidence collection, control testing, and workpaper generation for pre-IPO and public companies."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/oxus",
   "website": "https://oxus-ai.com/",
@@ -20404,9 +21366,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "basepair",
+   "angle_reason": "Production reliability would align with Aditya's experience, but Foundation Industries is primarily a hardware manufacturing company, not a software-first startup.",
+   "fit": 3,
+   "hook": "2-day CNC machining turnaround with automated quoting and production scheduling; serves hard-tech startups.",
+   "people": [
+    {
+     "name": "Jakob",
+     "role": "founder"
+    }
+   ],
+   "region": "us",
+   "stack": [],
+   "summary": "Foundation Industries is a domestic CNC machining provider for frontier hardware companies, offering 2-day turnaround and high-volume, high-mix manufacturing."
+  },
   "score": 9.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Spring 2025)",
   "url": "https://www.ycombinator.com/companies/foundation-industries",
   "website": "https://www.foundation-industries.com/",
@@ -21358,9 +22335,25 @@
   "posted_at": "2026-09-10T22:15:25Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Multi-agent orchestrations with tool integration and deterministic validation align with MedVault's grounded LLM output handling.",
+   "fit": 2,
+   "hook": "Hiring for real production agentic systems end-to-end ownership—prompts, tools, retrieval, deterministic checks, monitoring—not pilot projects.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Python",
+    "LLM APIs",
+    "agentic systems",
+    "OpenAI",
+    "Anthropic"
+   ],
+   "summary": "AI transformation firm delivering production agentic systems for mid-market enterprises in finance, energy, healthcare, and industrial sectors."
+  },
   "score": 10.0,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Agent Builder",
   "url": "https://news.ycombinator.com/item?id=49650855",
   "website": "https://cwai.co",
@@ -22404,9 +23397,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Your infrastructure work on deterministic analysis and cached data pipelines applies to their data sourcing and training dataset infrastructure.",
+   "fit": 5,
+   "hook": "Sourcing internal company data from bankruptcy records as high-quality training data for frontier AI.",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": "Data sourcing company that collects and prepares internal company datasets (codebases, project files, payments) from bankruptcy proceedings for frontier AI labs to train physical AI models."
+  },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2026)",
   "url": "https://www.ycombinator.com/companies/petrarch",
   "website": "https://petrarch.co/",
