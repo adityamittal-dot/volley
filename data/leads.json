@@ -644,7 +644,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Artifact team,\n\nTracing signals and dependencies across a design with 116,000+ wires is the same problem I ran into building a code analyzer, just with wires instead of function calls.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and marks unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Does the team ever bring on interns?",
+   "delivered_at": "2026-10-01T15:32:42Z",
    "lint": [],
+   "message_id": "<179086876152.2124.12957969499933021444@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T15:32:42Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [
@@ -675,7 +679,7 @@
   },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Winter 2025)",
   "url": "https://www.ycombinator.com/companies/artifact-2",
   "website": "https://www.artifact.engineer/",
@@ -1859,7 +1863,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Reality Defender team,\n\nCatching synthetic media in real time across calls and video feeds means your detection pipeline can't afford to go quiet when something looks off.\n\nI built MedVault, where every model call sits behind one mockable client with a fixed output schema and a fallback parser for when the model doesn't follow it, so the pipeline keeps working instead of breaking silently: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team looking for engineers?",
+   "delivered_at": "2026-10-01T15:34:04Z",
    "lint": [],
+   "message_id": "<179086884265.2124.6959725475051060699@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T15:34:04Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [
@@ -1890,7 +1898,7 @@
   },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/reality-defender",
   "website": "http://www.realitydefender.com",
@@ -3223,7 +3231,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Juxta team,\n\nGetting precision positioning running in under an hour with no beacons or cameras is a good sign the backend behind it is solid, not just the model.\n\nAt Basepair I fixed production distributed-systems bugs, including an OAuth race condition with DB-level row locking and S3 on-demand fallbacks for multi-instance file access, the same kind of infrastructure work positioning systems need at scale.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Taking on any engineers right now?",
+   "delivered_at": "2026-10-01T15:33:25Z",
    "lint": [],
+   "message_id": "<179086880367.2124.17738052545312181124@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T15:33:25Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
@@ -3254,7 +3266,7 @@
   },
   "score": 10.5,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Summer 2025)",
   "url": "https://www.ycombinator.com/companies/juxta",
   "website": "https://juxta.com",
@@ -5088,7 +5100,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi SigmaOS team,\n\nAiris understanding the context of whatever site someone's looking at, baked right into the browser, is a different bet than most AI browser extensions are making.\n\nI built Canopy, which turns a GitHub repo in any of 10 languages into an interactive map down to individual functions, a similar problem of turning a pile of context into something navigable: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team bringing on engineers?",
+   "delivered_at": "2026-10-01T15:34:29Z",
    "lint": [],
+   "message_id": "<179086886806.2124.9380408729825166917@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T15:34:29Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
@@ -5118,7 +5134,7 @@
   },
   "score": 10.5,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/sigmaos",
   "website": "https://www.sigmaos.com",
@@ -6199,7 +6215,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Attain team,\n\nStore owners juggling 10-15 suppliers a week and buying through one app instead is a real logistics problem, not just a UI one.\n\nAt my Basepair internship I fixed multi-instance file-access failures with S3 on-demand fallbacks and resolved an OAuth race condition with row-level DB locking, the kind of reliability work a growing marketplace needs under load.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team hiring engineers at the moment?",
+   "delivered_at": "2026-10-01T15:32:25Z",
    "lint": [],
+   "message_id": "<179086874383.2124.4739496803875070102@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T15:32:25Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [
@@ -6225,7 +6245,7 @@
   },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/attain",
   "website": "https://joinattain.com/",
@@ -9202,7 +9222,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Sam,\n\nSpiceDB crossing 7,100 stars while running authorization for companies like OpenAI and Zoom says a lot about how much teams need permission graphs that actually hold up.\n\nI built Canopy, which resolves cross-file call graphs across a repo in 10 languages and marks anything it can't resolve as external instead of guessing, the same deterministic tracing problem as a permission graph: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team bringing on any engineers?",
+   "delivered_at": "2026-10-01T15:33:49Z",
    "lint": [],
+   "message_id": "<179086882688.2124.18008021072621251053@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T15:33:49Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
@@ -9243,7 +9267,7 @@
   },
   "score": 9.0,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/authzed",
   "website": "https://authzed.com",
@@ -14237,7 +14261,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Nova Credit team,\n\nAggregating data across $10B in credit decisions for 7,000+ customers only works if the pipeline underneath never drops anything, that's the part that interests me.\n\nAt Basepair I fixed production distributed-systems bugs, including an OAuth race condition with DB-level row locking and S3 fallbacks for multi-instance file access, the same kind of reliability work credit infrastructure depends on.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the team hiring engineers right now?",
+   "delivered_at": "2026-10-01T15:34:17Z",
    "lint": [],
+   "message_id": "<179086885538.2124.1580689949719934560@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T15:34:17Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [
@@ -14268,7 +14296,7 @@
   },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Summer 2016)",
   "url": "https://www.ycombinator.com/companies/nova-credit",
   "website": "http://www.novacredit.com/",
@@ -14935,7 +14963,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Calltree team,\n\nHaving agents actually use a CRM instead of just answering in a chat window is the harder half of the problem, and the part most teams skip.\n\nI built MedVault, where every Gemini call runs behind one mockable client with a fixed JSON schema, plus a fallback parser for when the model doesn't follow it: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is anyone on the team taking on engineers?",
+   "delivered_at": "2026-10-01T15:32:58Z",
    "lint": [],
+   "message_id": "<179086877642.2124.13212174841953477467@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T15:32:58Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
@@ -14959,7 +14991,7 @@
   },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Winter 2025)",
   "url": "https://www.ycombinator.com/companies/calltree",
   "website": "https://calltree.ai",
@@ -21255,7 +21287,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Oxus team,\n\nWeeks of audit walkthrough documentation turned into something that runs in minutes is the kind of problem I like picking apart.\n\nDuring my internship at Basepair I fixed an OAuth race condition with DB-level row locking and cleared 100+ BLOCKER and HIGH SonarQube issues across a Django and React codebase, so I'm used to making production systems hold up under real use.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Are you taking on engineers right now?",
+   "delivered_at": "2026-10-01T15:32:01Z",
    "lint": [],
+   "message_id": "<179086871785.2124.5145201370797022682@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-01T15:32:01Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
@@ -21279,7 +21315,7 @@
   },
   "score": 11.0,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/oxus",
   "website": "https://oxus-ai.com/",
