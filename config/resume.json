@@ -36,9 +36,8 @@
       "OAuth 2.0"
     ],
     "Cloud & Infrastructure": [
-      "AWS (S3, STS, EC2, Lambda, RDS, IAM, CloudWatch, EKS, ECS, CloudFront, SQS, SNS, DynamoDB, API Gateway, VPC, ELB, CloudFormation, CDK, Secrets Manager, Parameter Store)",
+      "AWS (EC2, S3, Lambda, RDS, DynamoDB, IAM, CloudWatch)",
       "Kubernetes",
-      "Docker",
       "Vercel"
     ],
     "Databases": [
