@@ -1,0 +1,183 @@
+{
+  "leads": [
+    {
+      "id": "2592581f6f",
+      "relevant": true,
+      "summary": "Juxta builds GPS-free positioning technology using machine learning and synthetic fingerprinting for real-time indoor/outdoor tracking.",
+      "stack": ["Python", "Machine Learning", "iOS", "Android", "embedded systems", "backend"],
+      "hook": "Your blog describes deploying precision positioning in under 1 hour with no beacons or cameras required—using built-in sensors and ML models.",
+      "angle": "basepair",
+      "angle_reason": "Juxta needs reliable, production-grade backend infrastructure at scale; your Basepair internship fixed production distributed-systems bugs and AWS S3 fallbacks, exactly what positioning infrastructure requires.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "careers@juxta.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "3787cb2a01",
+      "relevant": true,
+      "summary": "SigmaOS is a productivity-focused browser for founders and researchers featuring workspace management, tab organization, and AI-powered context awareness.",
+      "stack": ["TypeScript", "JavaScript", "React", "frontend", "AI integration"],
+      "hook": "You've built Airis, an AI chat that understands the context of websites you're viewing—a context-aware AI assistant built into your browser product.",
+      "angle": "canopy",
+      "angle_reason": "Your Canopy project visualizes complex code structure interactively; SigmaOS's browser product similarly needs intuitive navigation and context visualization for overwhelming amounts of web data.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "hello@sigmaos.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "5b2401b81e",
+      "relevant": false,
+      "summary": "DJ NYK seeks a 3D/Unreal Engine intern to develop immersive visual environments for live DJ performances.",
+      "stack": ["Unreal Engine", "3D modeling", "Blender"],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 2,
+      "region": "india",
+      "people": [
+        {
+          "name": "DJ NYK (Nikhil Sahni)",
+          "role": "Artist/Founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Internship stipend ₹20,000/month is below ₹25,000/month minimum"
+      ]
+    },
+    {
+      "id": "94893b33e8",
+      "relevant": false,
+      "summary": "CivTiq provides enterprise reporting infrastructure for municipal governments with multi-tenant cloud architecture and compliance frameworks.",
+      "stack": ["TypeScript", "Node.js", "PostgreSQL", "cloud infrastructure"],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "americas",
+      "people": [
+        {
+          "name": "Ben",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "073722d0b6",
+      "relevant": true,
+      "summary": "Artifact is a collaborative electrical system design tool (ECAD) helping hardware teams manage complex multi-subsystem designs with real-time collaboration and automated documentation.",
+      "stack": ["TypeScript", "backend infrastructure", "version control", "Python"],
+      "hook": "Your platform structures complex electrical systems with 116,000+ wires across 16+ companies using version control and signal traceability—exactly what hardware engineers need.",
+      "angle": "canopy",
+      "angle_reason": "Your Canopy project's deterministic cross-file call-graph resolution and dependency visualization directly parallels Artifact's need to trace electrical signals and system dependencies across complex hardware designs.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "careers@artifact.engineer",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "1393ae04c2",
+      "relevant": true,
+      "summary": "Reality Defender provides real-time deepfake detection APIs for enterprises, protecting against synthetic media fraud across calls, videos, and images.",
+      "stack": ["Python", "machine learning", "API infrastructure", "AI"],
+      "hook": "You're named a Market Shaper by Gartner in deepfake detection; your real-time multi-modal detection integrates into existing enterprise systems (calls, meetings, access workflows).",
+      "angle": "medvault",
+      "angle_reason": "Your MedVault project built safety-rules-constrained AI pipelines with proper fallback handling for malformed model output; Reality Defender needs similar AI reliability and error-handling architecture for enterprise security.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "ask@realitydefender.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "18a5fd9047",
+      "relevant": false,
+      "summary": "Archon helps software companies accelerate federal compliance (FedRAMP) from 16 months to 6 months by providing compliance infrastructure.",
+      "stack": ["compliance frameworks", "cloud infrastructure", "backend"],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 5,
+      "region": "us",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Website is 'Coming soon' placeholder, no real product visible"
+      ]
+    },
+    {
+      "id": "948ddda485",
+      "relevant": false,
+      "summary": "DrSwarm builds AI agents for healthcare operations (scheduling, billing, patient communication) with HIPAA compliance and EHR system integrations.",
+      "stack": ["Python", "Django", "Next.js", "PostgreSQL", "AWS", "LLM APIs"],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "us",
+      "people": [
+        {
+          "name": "Michael Nusimow",
+          "role": "CEO & Founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a2e792a931",
+      "relevant": true,
+      "summary": "Nova Credit is credit infrastructure for lenders, aggregating alternative consumer financial data (bank transactions, payroll, international credit bureaus) for underwriting and income verification.",
+      "stack": ["Python", "backend infrastructure", "data processing", "AWS"],
+      "hook": "You've built data infrastructure serving 7,000+ customers and processing $10B+ in credit; your platform integrates multiple data sources for reliability and speed.",
+      "angle": "basepair",
+      "angle_reason": "Your Basepair internship fixed production distributed-systems bugs and 100+ security defects across Python/Django; Nova Credit's financial infrastructure needs similar backend reliability and security hardening at scale.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "connect@novacredit.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "b08da9d20d",
+      "relevant": true,
+      "summary": "ClickPe is a fintech marketplace offering daily-repayment loans, credit cards, and financial products for small business owners in India.",
+      "stack": ["Python", "backend", "fintech infrastructure", "Django"],
+      "hook": "Your 'daily repayment' model is a distinct product innovation—instead of monthly installments, you deduct small amounts daily from digital wallets, reducing defaults and improving credit behavior.",
+      "angle": "medvault",
+      "angle_reason": "ClickPe needs backend security with per-user isolation in lending and data privacy; your MedVault project built exactly this: Django REST backend, JWT with refresh-token rotation, per-user queryset isolation, and HIPAA-grade data handling.",
+      "fit": 8,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "leads": [
+    {
+      "id": "8c1ff1554e",
+      "relevant": false,
+      "summary": "Rebill provides financial infrastructure and payment processing for companies across Latin America, offering local payment methods, recurring billing, and stablecoin rails.",
+      "stack": [],
+      "hook": "Site emphasizes local payment methods across 6 Latin American countries with PIX, PSE, Nequi, Yape, SPEI integrations and intelligent retry logic.",
+      "angle": "basepair",
+      "angle_reason": "Rebill's infrastructure for handling financial operations and payment reliability parallels Aditya's experience fixing production distributed-systems bugs at Basepair.",
+      "fit": 2,
+      "region": "americas",
+      "people": [
+        {
+          "name": "tony",
+          "role": "unknown"
+        }
+      ],
+      "contact_email": "tony@rebill.com",
+      "contact_name": "tony",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "9bcfbeb6a0",
+      "relevant": true,
+      "summary": "Raven builds AI assistants for manufacturing plants that handle training, troubleshooting, incident investigation, and real-time analytics, integrating with existing plant systems.",
+      "stack": [
+        "AI",
+        "LLM"
+      ],
+      "hook": "Products include Raven Knowledge (plant documents/assets connected), Raven Work (AI agents for operations/maintenance), and Raven Incident (safety investigations)—deployed in production across 10 plant units.",
+      "angle": "medvault",
+      "angle_reason": "Raven's AI agents extract and reason over domain-specific documents to provide actionable insights, similar to MedVault's LLM pipeline that analyzes lab reports.",
+      "fit": 5,
+      "region": "asia",
+      "people": [
+        {
+          "name": "priyansh",
+          "role": "contact person"
+        }
+      ],
+      "contact_email": "priyansh@startraven.com",
+      "contact_name": "priyansh",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "9c7aec01fe",
+      "relevant": true,
+      "summary": "Phonely builds AI voice agents for customer support calls, using a proprietary deterministic LLM called Alma that matches or outperforms human call center agents.",
+      "stack": [
+        "LLM",
+        "voice",
+        "AI",
+        "API",
+        "SMS"
+      ],
+      "hook": "Alma model handles phone calls with 182 ms to first token vs 490 ms for GPT-4.1; proprietary, cheaper, and more accurate for call center use cases.",
+      "angle": "medvault",
+      "angle_reason": "Phonely's deterministic LLM with fixed output schema and safety rules mirrors MedVault's approach to controlled AI output generation.",
+      "fit": 5,
+      "region": "us",
+      "people": [],
+      "contact_email": "email@phonely.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "9e5a3b9fd7",
+      "relevant": false,
+      "summary": "Puma.tech develops a privacy-focused mobile browser with built-in LLMs and wallets (PumaBrowser) and maintains a research lab (PumaAI) exploring private AI alternatives.",
+      "stack": [
+        "iOS",
+        "Android",
+        "AI",
+        "LLM",
+        "crypto"
+      ],
+      "hook": "Posting explicitly lists internship opportunities in Eng, Design, Growth alongside open roles in iOS/macOS, Android, and AI/ML; backed by top AI/crypto builders.",
+      "angle": "medvault",
+      "angle_reason": "PumaAI's focus on private, local LLM alternatives parallels MedVault's backend AI pipeline design.",
+      "fit": 2,
+      "region": "us",
+      "people": [
+        {
+          "name": "yuriy",
+          "role": "founder/CEO"
+        }
+      ],
+      "contact_email": "careers+hn@puma.tech",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a36a8b7eaf",
+      "relevant": false,
+      "summary": "Weekday is an AI recruiting platform that identifies passive talent and runs outbound campaigns; it operates a 250M+ person database for US and India.",
+      "stack": [
+        "AI",
+        "email",
+        "WhatsApp",
+        "phone"
+      ],
+      "hook": "50%+ response rate on outbound campaigns; AI drafts emails, sends WhatsApp/phone follow-ups automatically, and handles multi-channel recruitment.",
+      "angle": "canopy",
+      "angle_reason": "Weekday's AI-driven talent search and classification could leverage code intelligence for developer profiling.",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "founders@weekday.works",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "recruiting/staffing company, not product engineering"
+      ]
+    },
+    {
+      "id": "a971a0b957",
+      "relevant": false,
+      "summary": "AlgoUniversity provides job-driven virtual tech training with live cohorts and uses an income-sharing agreement model where students pay a portion of salary post-placement.",
+      "stack": [],
+      "hook": "Income-sharing agreement: students pay a percentage of salary only after landing a tech job; focuses on data structures, algorithms, full-stack, system design.",
+      "angle": "canopy",
+      "angle_reason": "AlgoUniversity's curriculum delivery platform could integrate code-analysis tools for DSA problem-solving.",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "admissions@algouniversity.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "education/training platform, not product company"
+      ]
+    },
+    {
+      "id": "ac4aa96d12",
+      "relevant": true,
+      "summary": "Neolytix provides healthcare operations, revenue cycle management, and practice optimization services; operates across 31 specialties with 270+ team members.",
+      "stack": [
+        "Node.js",
+        "Express",
+        "NestJS",
+        "Python",
+        "React",
+        "Next.js",
+        "PostgreSQL",
+        "Docker",
+        "Azure",
+        "SonarQube",
+        "GitHub Copilot"
+      ],
+      "hook": "Full Stack Developer role requires 1-2 years experience (internship qualifies), emphasizes production-ready code with SonarQube and GitHub Copilot workflows.",
+      "angle": "basepair",
+      "angle_reason": "Neolytix's emphasis on security, code quality (SonarQube), production reliability, and multi-instance systems parallels Aditya's internship work fixing OAuth race conditions and SonarQube defects.",
+      "fit": 6,
+      "region": "asia",
+      "people": [],
+      "contact_email": "recruiter@neolytix.com",
+      "contact_name": "",
+      "contact_role": "recruiter",
+      "red_flags": []
+    },
+    {
+      "id": "acbc7bfc27",
+      "relevant": false,
+      "summary": "SuperKalam provides an AI mentor for UPSC (Indian civil service exam) preparation, offering instant evaluation of handwritten answers, doubt resolution, and accountability.",
+      "stack": [
+        "AI",
+        "handwriting recognition",
+        "mobile app",
+        "web"
+      ],
+      "hook": "Instantly evaluates handwritten exam answers using AI and builds daily discipline through streak mechanics and personalized revision areas.",
+      "angle": "medvault",
+      "angle_reason": "SuperKalam's instant AI evaluation of handwritten input mirrors MedVault's process of parsing diverse input formats and providing structured analysis.",
+      "fit": 2,
+      "region": "asia",
+      "people": [],
+      "contact_email": "ask@superkalam.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "education platform, no clear product engineering roles"
+      ]
+    },
+    {
+      "id": "adbbf5a3d9",
+      "relevant": false,
+      "summary": "Coulomb AI provides real-time battery analytics and lifecycle management for electric vehicles, offering monitoring, optimization, and predictive analytics to prevent failures.",
+      "stack": [
+        "AI",
+        "data",
+        "analytics",
+        "Python",
+        "SQL"
+      ],
+      "hook": "All posted roles (Data Engineer 3+, Platform Developer 5+, Senior SDE 4+, Frontend 2+) require 2+ years minimum; platform connects battery data across manufacturing, fleet, and OEM customers.",
+      "angle": "canopy",
+      "angle_reason": "Coulomb's deterministic data analysis to surface insights could benefit from code-level visibility into data pipelines.",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "info@coulomb.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "all roles require 2+ years experience minimum (3+ for Data Engineer)"
+      ]
+    },
+    {
+      "id": "b7beb65d65",
+      "relevant": false,
+      "summary": "Furtim Modus is a venture-backed fintech trading firm focused on US equities capital markets technology based in NYC.",
+      "stack": [
+        "Java 17",
+        "Aeron",
+        "PostgreSQL",
+        "Snowflake",
+        "AWS",
+        "Grafana",
+        "Prometheus"
+      ],
+      "hook": "Java roles require low-latency programming experience with Aeron ecosystem; $150K-$300K salary and $100K-$150K for Data Engineer suggests senior positions.",
+      "angle": "basepair",
+      "angle_reason": "Furtim's focus on low-latency, reliable trading systems parallels Aditya's production infrastructure work.",
+      "fit": 1,
+      "region": "us",
+      "people": [],
+      "contact_email": "agency@furtimmodus.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no entry-level signal; Java focus diverges from candidate stack; high salary targets senior engineers"
+      ]
+    }
+  ]
+}
