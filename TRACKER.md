@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-01T15:34:55Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-01T19:37:14Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 68 · **Sent:** 68 · **Replies:** 4 (6%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 68 · **Sent:** 68 · **Replies:** 5 (7%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,9 +10,9 @@ _Updated 2026-10-01T15:34:55Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 1 |
 | no_contact | 329 |
 | low_fit | 112 |
-| sent | 47 |
+| sent | 46 |
 | followup_1 | 15 |
-| replied | 4 |
+| replied | 5 |
 | bounced | 2 |
 
 ## Reply rate by angle
@@ -21,7 +21,7 @@ _Updated 2026-10-01T15:34:55Z UTC. Full table: [data/tracker.csv](data/tracker.c
 |---|---|---|
 | basepair | 27 | 0 |
 | medvault | 24 | 2 |
-| canopy | 17 | 2 |
+| canopy | 17 | 3 |
 
 ## Replies
 
@@ -29,6 +29,7 @@ _Updated 2026-10-01T15:34:55Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **winkjs** —  <contactus@graype.in> replied 2026-09-29
 - **Frostrek AI** —  <contact@frostrek.com> replied 2026-10-01
 - **Xero** —  <careers@xero.com> replied 2026-09-30
+- **ColoredCow** — Vaibhav Rathore <vaibhav@coloredcow.com> replied 2026-10-01
 
 ## Latest 25 emails
 

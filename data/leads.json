@@ -14861,6 +14861,7 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · active GitHub org, no posting",
+  "replied_at": "2026-10-01T19:37:02Z",
   "research": {
    "angle": "canopy",
    "angle_reason": "Canopy's sophisticated call-graph analysis fits ColoredCow's custom backend work across healthcare, data systems, and SaaS platforms.",
@@ -14897,7 +14898,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/ColoredCow",
   "website": "https://coloredcow.com",
