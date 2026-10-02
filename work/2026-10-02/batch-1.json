@@ -1,0 +1,268 @@
+{
+ "leads": [
+  {
+   "id": "b534fd0af0",
+   "company": "Zeko",
+   "website": "https://zeko.ai",
+   "title": "Product Management Internship",
+   "location": "Noida",
+   "source": "internshala",
+   "posted_at": "2026-09-11T05:51:42Z",
+   "posting": "About the internship You'll write and iterate the prompts that drive Avya's voice interviews question flows, follow-up logic, and how the agent evaluates what a candidate actually said. This is not prompt tinkering: a live interview is a multi-turn conversation with a real person's job on the line, and it has to hold up when things go sideways. That means designing for the edge cases as much as the happy path. What happens when a candidate goes silent mid-answer, or interrupts, or switches to Hinglish, or gives an answer nobody anticipated. You'll test prompts against real transcripts and adversarial inputs before they ship, and when something breaks in production you'll debug it to root cause figuring out whether the fix belongs in the prompt, in the pipeline, or in the data being fed to the model, and then making that fix. You'll also work directly with product on what the interview should feel like from the candidate's side. Opinions are expected, not just execution. Skill(s) required Business Analysis Data Analytics Product Management Python Software Development Life Cycle (SDLC) Earn certifications in these skills Learn Data Analytics Learn Product Management Learn Python Who can apply Only those candidates can apply who: 1. are available for full time (in-office) internship 2. can start the internship between 6th Sep'26 and 11th Oct'26 3. are available for duration of 6 months 4. have relevant skills and interests * Women wanting to start/restart their career can also apply. Perks Certificate Letter of recommendation Flexible work hours Informal dress code Number of openings 2 About Zeko Website Zeko AI, at the forefront of revolutionizing the HR tech space, leverages advanced AI technology to streamline the hiring process. Our mission is to eliminate poor hiring decisions by introducing innovative tools that assist in direct hiring, training, and a blend of both. We're on a mission to reshape how companies interact with potential candidates, making the proces",
+   "site_text": "[https://zeko.ai/]\nZeko AI | Enterprise Workforce Intelligence for Talent Decisions Login Book a Demo Login Book a Demo Enterprise Capability Intelligence. Adaptive by Design. Capability Intelligence. Adaptive by Design. Bring Clarity to every Candidate Evaluation Job Requirement Verified shortlists for TA. Decision Insights for HRBPs. Proof to hire for Business Units. One source of truth that every stakeholder trusts. Try AI Agents Book a Demo Trusted by 150+ enterprises SOC2 Â· GDPR Â· ISO27001 4.8/5 Average Candidate Rating Trusted by 150+ enterprises SOC2 Â· GDPR Â· ISO27001 4.8/5 Average Candidate Rating Trusted by Global Enterprises Workflows curated by sector, configured by role. Enterprise-grade security with Responsible AI built-in Real Enterprise problems for AI to solve The pipeline took three weeks to build. Three minutes to reject. If your TA teams and Business Units are not on the same page, you're not alone. BU doesn't trust HR's shortlist? Project starts in 40 days. 35 Roles still open? 35 Roles to close in 40 Days? 300 calls. 3 hires. None performed? TA Shortlist, Interview-reject again? Why was the candidate rejected? Resume says Java. Can't code? Hidden biases in hiring? All tools, still paid $20K to agency? 200 manual calls a week? Client rejected 8 candidates? Internal mobility or new hire? Internal talent overlooked, left in 3 months? New Talent leaving in 3 months? Interview slot wasted on wrong candidate? Interview slots not available? Who in the org knows ML Ops? CHRO asked for a talent snapshot nobody has? No standardization across geographies? No proof of L&D programs working? 3 key pillars for your Talent Processes Every candidate. Every role. The depth that supports decision-making. Your own AI Agent, Avya, doesn't screen. It evaluates the way your best hiring manager would. Skill Ontology Avya doesn't start with questions. It starts with a capability map. Built around what the role demands, before a single question is generated. Skills assessed through validated sub-signals - not surface-level labels. Same framework, every candidate - shortlists that are comparable, not subjective. Learn more Avya ROLE INTELLIGENCE Reading the brief Live Role Hiring manager brief DK Dana K. Â· Hiring Manager Capability map 0 / 6 weighted Distributed Systems & Scale CORE 92 % API & Service Design CORE 80 % Reliability & Incident Response CORE 74 % Data Modeling & Storage 66 % Code Quality & Testing 58 % Technical Mentorship 50 % Adaptive Intelligence Configured by your Hiring Managers. Intelligence Calibrated for every candidate. Zeko AI Intelligence Engine Adaptive Intelligence Three layers, one agentic engine Live 01 Capability Map 02 Workflow 03 Interview Role-pattern library </> Java Developer Role pattern aggregated Must-have skills Java Spring JVM Microservices SQL Pattern match calibrated 93% Client #101 starts from 100 prior definitions . Adaptive Capabilities Avya understands the needs from hiring manager and creates a capability map. Zeko AI Intelligence Engine Adaptive Intelligence Three layers, one agentic engine Live 01 Capability Map 02 Workflow 03 Interview Role-pattern library </> Java Developer Role pattern aggregated Must-have skills Java Spring JVM Microservices SQL Pattern match calibrated 93% Client #101 starts from 100 prior definitions . Adaptive Capabilities Avya understands the needs from hiring manager and creates a capability map. Candidate Adoption Higher Offer Acceptance , faster turnaround and best-in-class candidate adoption. PR Your application Senior Backend Engineer Â· Acme Pay 4.8 Application received No black hole â you're in. We'll be quick. You picked your slot Thu Â· 4:00 PM â your time, zero back-and-forth. Flexible scheduling A conversation, not a quiz 35 min with Avya â adaptive, no take-home marathon. Feedback in 2 days Clear, specific notes â win or lose. Fast turnaround Offer extended STRONG HIRE Three days from apply to offer â start to finish. PR Your applica",
+   "email_candidates": [],
+   "pay": {
+    "period": "month",
+    "min": 15000,
+    "max": 25000
+   },
+   "priority": 1,
+   "priority_note": "Noida · ₹25,000/mo"
+  },
+  {
+   "id": "9424ac79de",
+   "company": "Noise",
+   "website": "https://gonoise.com",
+   "title": "Product Management Internship",
+   "location": "Gurgaon",
+   "source": "internshala",
+   "posted_at": null,
+   "posting": "About the internship We're looking for a PM Intern to support our New Product Development team across market research, product benchmarking, sample evaluation, documentation, and product development activities for our consumer electronics hardware products. This is a great opportunity for someone with a strong interest in hardware and consumer electronics to gain hands on exposure to cross-functional product development work. Selected intern's day-to-day responsibilities include: 1. Benchmark hardware products across features, specifications, pricing, and user experience. 2. Support product requirement definition, sample evaluation, and validation activities for physical products. 3. Track competitor product launches, customer feedback, and relevant market trends in consumer electronics. 4. Maintain product comparison sheets, trackers, and evaluation reports. 5. Coordinate with Engineering, Design, Quality, Supply Chain, and Marketing teams. 6. Use AI tools effectively for research, summaries, documentation, and faster day-to-day execution, while validating the final output. Skill(s) required English Proficiency (Spoken) Product Lifecycle Management(PLM) Product Management Earn certifications in these skills Learn Business Communication Learn Product Management Learn VLSI Learn AI in Data Science Learn Embedded Systems Learn Business Analytics Learn Git & Github Learn UI & UX Design + 1 more skills Who can apply Only those candidates can apply who: 1. are available for full time (in-office) internship 2. can start the internship between 29th Sep'26 and 3rd Nov'26 3. are available for duration of 6 months 4. have relevant skills and interests Other requirements 1) Strong interest in consumer electronics and product development. 2) Good analytical and structured thinking. 3) Comfortable with Excel/Google Sheets and AI tools. 4) Previous internship in hardware, product, research, or consumer electronics is a plus. Perks Certificate Letter of recommendation Informal dre",
+   "site_text": "[https://www.gonoise.com/]\nNoise | Designed to Elevate Every Part of Your Day Noise is a design-first lifestyle technology brand on a mission to make smart technology more accessible and an integral part of everyday life. Smart Watches with Alexa AMOLED Display Smart Watches Round Dial Smart Watches Metallic & Leather Smart Watches BT Calling Smart Watches Android Smart Watches Smart Watches for Men Smart Watches for Women Smart Watches for Kids Smart Watches Under ₹2000 Smart Watches Under ₹3000 Smart Watches Under ₹4000 Smart Watches Under ₹5000 Smart Watches Above ₹5000 ANC Earbuds Gaming Earbuds Earbuds Under ₹1000 Earbuds Under ₹1500 Earbuds Under ₹2000 Earbuds Under ₹2500 Earbuds Above ₹2500",
+   "email_candidates": [],
+   "pay": {
+    "period": "month",
+    "min": 20000,
+    "max": 30000
+   },
+   "priority": 1,
+   "priority_note": "Gurgaon · ₹30,000/mo"
+  },
+  {
+   "id": "178d7d7508",
+   "company": "Zaperon",
+   "website": "https://zaperon.com",
+   "title": "Software Engineering (recently funded)",
+   "location": "Delhi, India",
+   "source": "funding_news",
+   "posted_at": "2026-10-01T08:43:56Z",
+   "posting": "IPV leads Rs 7 Cr seed round in cybersecurity startup Zaperon. Cybersecurity startup Zaperon has raised Rs 7 crore in a seed funding round led by Inflection Point Ventures (IPV). The fresh funds will be used to advance product capabilities, launch enterprise-grade AI security frameworks and expand its presence in India and the US, Zaperon said in a press release. Co-founded in 2021 by Vineet Gupta and Sachin Aggarwal, Zaperon is a cybersecurity firm that builds products to protect enterprises from data breaches. It offers a platform-centric approach to enterprise security that allows organisations to secure their entire IT landscape through a single Zaperon console. By bringing together identity security, data security and AI governance, Zaperon enables enterprises to control how users, applications and AI agents access and interact with sensitive data and cloud infrastructure. The platform aims to replace fragmented security controls with consistent, identity and context-aware policies across digital and AI environments. According to market research, identity security and data security represent an estimated $16 billion global opportunity today, which is projected to reach $35 billion by 2030. The Delhi-based startup’s enterprise client base spans banking and financial services, healthcare, manufacturing, technology and government sectors, where protecting sensitive data and controlling access to critical systems are key security and compliance requirements. Indian cybersecurity startups raised $89 million across 17 funding rounds in H1 2026, nearly double the $47 million raised in H1 2025. Recent deals include QNu Labs, which raised Rs 200 crore in a Series A1 round led by the National Quantum Mission and Speciale Invest to scale its quantum-safe cybersecurity solutions; Mitigata, which secured $15 million in Series B funding led by Bessemer Venture Partners for its AI-powered cyber-resilience platform; and CloudSEK, which raised $10 million from Connecticut Innov",
+   "site_text": "[https://www.zaperon.com]\nZaperon: Identity-Centric SSE Platform",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · recently funded"
+  },
+  {
+   "id": "a0da497496",
+   "company": "SLONIX SOLUTION PRIVATE LIMITED",
+   "website": "https://slonixsolutions.in",
+   "title": "Software Developer Internship",
+   "location": "Bangalore",
+   "source": "unstop",
+   "posted_at": "2026-09-29T10:55:44Z",
+   "posting": "About the Company SLONIX SOLUTION PRIVATE LIMITED is seeking motivated technology talent to join its software development team. This internship offers final-year students the opportunity to gain practical exposure to product development, engineering collaboration, and professional software delivery in a fast-paced work environment. Responsibilities Assist in designing, developing, testing, and maintaining software applications. Translate functional requirements into clean, reliable, and maintainable code. Work with developers and other stakeholders to investigate issues and deliver improvements. Participate in code reviews, documentation, debugging, and technical discussions. Learn and follow engineering practices related to version control, testing, security, and deployment. Requirements Final-year student & Pre-final year pursuing a relevant degree in computer science, information technology, engineering, or a related discipline. Good understanding of programming fundamentals, data structures, algorithms, and object-oriented concepts. Strong problem-solving ability, willingness to learn, and attention to detail. Ability to communicate clearly and work effectively in a team. Availability for a full-time, 3-month, in-office internship in Bangalore. This is a paid internship offering a monthly stipend of ₹20,000 to ₹30,000. The selected intern will receive hands-on mentoring and practical experience across the software development lifecycle. Apply directly : https://forms.gle/rqbg6VuNZZLzrCgSA Note : Our team will reach out to you via WhatsApp or phone call within 2-3 business days. -- Thanks and Regards, SLONIX SOLUTIONS +91- 9363296939 thivanthilagar.manager@slonixsolutions.in",
+   "site_text": "[https://slonixsolutions.in/]\nSlonix Solutions | Building Skills for the Real world",
+   "email_candidates": [
+    {
+     "email": "thivanthilagar.manager@slonixsolutions.in",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "slonixbim.team@gmail.com",
+     "where": "https://slonixsolutions.in/",
+     "kind": "personal"
+    }
+   ],
+   "pay": {
+    "period": "month",
+    "min": 20000,
+    "max": 30000
+   },
+   "priority": 0,
+   "priority_note": "₹30,000/mo"
+  },
+  {
+   "id": "60a7537247",
+   "company": "Samsara",
+   "website": "https://samsara.com",
+   "title": "Software Engineer I, Agentic Platform EMEA (Poland, Remote, B2B)",
+   "location": "Poland",
+   "source": "jobicy",
+   "posted_at": "2026-10-01T05:31:59Z",
+   "posting": "Level: Any. Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale. Working at Samsara means you’ll help define the future of physical operations and be on a team that’s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you’ll have the autonomy and support to make an impact as we build for the long term. About the role: We're building the next chapter: an agentic platform that understands operational context and takes action, with the ambition to make physical operations increasingly autonomous. External Platform EMEA owns critical capabilities behind that transition. Depending on the team, your work could include: Reporting and intelligence. Own the reporting engine and products that turn the complexity of a fleet into answers customers can act on. Enterprise administration. Build how customers configure and control Samsara at scale, from permissions and device metadata to AI-assisted onboarding. Developer and agent platform. Build APIs, event systems, integrations, and tools that give applications and AI agents access to operational data and actions. Business-critical infrastructure. Own billing, license assignment, and usage metering: systems central to how Samsara sells, delivers, and grows its products. The long-term opportunity is",
+   "site_text": "[https://www.samsara.com/]\nSamsara | The Connected Operations Platform Skip to main content Pull fleet data into your AI tools with Samsara MCP Pull fleet data into your AI tools with Samsara MCP Operator grade. Proven in the field. The platform built with operators and trusted to perform. Improve safety, lower costs, and transform your operations. Check our prices See a demo Built different. Proven where it counts. Across thousands of operations, the results keep showing up in the same places: fewer accidents, lower costs, and a business that's built to grow. Reduce risk 380k+ accidents prevented Increase efficiency 350+ integrations Transform your business $1B+ invested in R&D In Action Work together. Run better. One platform working across every part of your operation. Faster, safer, and more efficient. Fleet intelligence See everything. Act faster. From live GPS tracking and vehicle diagnostics to fuel analytics and compliance reporting, Samsara gives you the intelligence to run a smarter, more efficient fleet. Learn more Digitize and automate Less admin. More action. Replace manual reporting, fragmented workflows, and siloed data with automated processes that run in the background. Learn more Tracking and utilization Real-time visibility for the people running the show. Every vehicle, asset, and piece of equipment tracked and connected. Give operations managers the big picture they need to make faster decisions on the ground. Learn more Driver success Give the people behind the wheel what they need to succeed: a mobile app for real-time updates and job tasks, plus coaching and training that helps them stay safe and perform at their best. Learn more Intelligence and insights Samsara’s platform doesn’t just collect information, it analyzes it. Get AI-driven alerts, predictive analytics, and actionable insights that help you spot risks, optimize operations, and make future-ready decisions. Learn more Fleet intelligence See everything. Act faster. From live GPS tracking and vehicle diagnostics to fuel analytics and compliance reporting, Samsara gives you the intelligence to run a smarter, more efficient fleet. Learn more Explore our customers REAL CUSTOMERS. REAL EXPERIENCE. OUR APPROACH Operator grade isn't a promise. It's a practice. Built on 100B miles of operator data. Learning from the field, improving in the lab, and delivering better results every time. Learn more In The Field Run together. Proven together. A track record you can be proud of. Your success is the reason we’re here. And we love hearing success speak for itself. DHL consolidates 7 separate point solutions with Samsara’s integrated platform Read more DHL consolidates 7 separate point solutions with Samsara’s integrated platform Read more The City of El Paso recovers $1.3M in assets and reduces accidents by 29% with Samsara Read more Swissport enhances airport safety with Samsara Read more Sterling Crane Canada saves $3M in equipment maintenance and replacement costs Read more Summit Materials saves $1.8M annually in fuel costs with Fleet Telematics Read more OUR RECORD Proudly rated #1 by operators Top-ranked on G2 Rated No. 1 in Fleet Management by real customers on G2 — seven quarters running — with more category wins than any other fleet technology brand. Recognized by analysts Market-leading reliability, an open API ecosystem, and exceptional ease of use for operators and drivers alike. 380,000+ accidents prevented Driven by our AI-powered dash cams, real-time in-cab alerts, automated coaching, and other safety technologies that help operators proactively reduce risky behaviors. “Instead of juggling dozens of different vendors, we now have an integrated, easy-to-use platform. That’s why we chose Samsara as the right partner for the future.” Jennifer Miller , Vice President of Integrated Transportation Read more Customer Success Story DHL Supply Chain Industry: Transportation & Logistics Fleet: 4,400+ vehicles Samsara Devices: 12,000+ Resources Keep up ",
+   "email_candidates": [
+    {
+     "email": "accessibleinterviewing@samsara.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "driverperks@samsara.com",
+     "where": "https://www.samsara.com/blog/introducing-samsara-mcp",
+     "kind": "personal"
+    },
+    {
+     "email": "sales-uki@samsara.com",
+     "where": "https://www.samsara.com/company/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "benelux-sales@samsara.com",
+     "where": "https://www.samsara.com/company/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "ventas-mx@samsara.com",
+     "where": "https://www.samsara.com/company/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "partners-mx@samsara.com",
+     "where": "https://www.samsara.com/company/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "dach-sales@samsara.com",
+     "where": "https://www.samsara.com/company/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "french-sales@samsara.com",
+     "where": "https://www.samsara.com/company/contact",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "6841a3d6bb",
+   "company": "PAGNOS",
+   "website": "https://pagnos.com",
+   "title": "Cloud Engineer, AWS Serverless (TypeScript/Node.js)",
+   "location": "REMOTE (Germany)",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-01T15:04:11Z",
+   "posting": "PAGNOS | Cloud Engineer, AWS Serverless (TypeScript/Node.js) | REMOTE (Germany) | Full-time | €75k–80k | business-fluent German required We build serverless applications on AWS for clients and for our own SaaS products. On client projects, we work directly with their developers and help them understand and maintain what we build. You’ll write backend code in TypeScript/Node.js, build APIs with Lambda and API Gateway, model data in DynamoDB, and design event-driven workflows and integrations. Infrastructure lives in code using AWS CDK, with CI/CD pipelines for builds and deployments. You’ll help decide how systems are designed and take testing, observability and security into account as you build. There’s some React/Next.js work too. We’re looking for practical experience building AWS serverless applications with TypeScript/Node.js, including infrastructure as code, CI/CD and event-driven design. The role includes working through requirements and technical decisions with clients, so you should be comfortable with that. We use coding agents daily and expect you to use them too, and to share useful approaches with other developers. AWS serverless development is the main focus of the role. We’re remote-first, use Scrum, and work with code reviews, pair programming, and unit and integration tests. We meet in person regularly, sometimes in Cologne, sometimes in Austria or Mallorca. We plan travel around family commitments. You must be based in Germany and speak business-fluent German and good English. We don’t offer visa sponsorship. €75k–80k, 32 days of vacation, hardware of your choice, and company-paid AI tool subscriptions. Send your CV to recruiting@pagnos.com – no cover letter needed. Questions before applying are welcome. Full job ad (German): https://germantechjobs.de/jobs/PAGNOS-GmbH-Cloud-AI-Engineer...",
+   "site_text": "[https://www.pagnos.com/index.html]\nPAGNOS Gestalte mit uns die digitale Zukunft Arbeite an innovativen Projekten mit hochmotivierten Expertenteams GenieÃe flexible Arbeitszeiten und Remote-Work Entfalte dein Potenzial in einem agilen und unterstÃ¼tzenden Umfeld Wer wir sind Seit 2015 unterstÃ¼tzen wir Unternehmen in Europa bei der Implementierung und Optimierung innovativer Technologien - von Mittelstand bis Konzern. Unser breit gefÃ¤chertes Know-how hilft unseren Kunden bei der Ãbersetzung von GeschÃ¤ftsprozessen in IT-LÃ¶sungen. Dabei setzen wir nicht auf eine Vielzahl von Beratern, sondern auf kleine, hoch qualifizierte Teams. Unseren exzellenten Ruf haben wir uns von Projekt zu Projekt erarbeitet. Durch Kompetenz und ZuverlÃ¤ssigkeit haben wir das Vertrauen unserer Kunden gewonnen, die uns gerne weiterempfehlen. Mehr zu uns",
+   "email_candidates": [
+    {
+     "email": "recruiting@pagnos.com",
+     "where": "job posting",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "a77807af60",
+   "company": "City Detect",
+   "website": "https://citydetect.com",
+   "title": "Full Stack Product Engineer (Design & Geospatial)",
+   "location": "Tuscaloosa, AL",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-01T16:44:38Z",
+   "posting": "City Detect | Full Stack Product Engineer (Design & Geospatial) | Tuscaloosa, AL | REMOTE (US) | Full-time | $110k–$159k + equity City Detect uses AI and computer vision to map the physical world for cities. Sensors capture street-level conditions so local governments can find and respond to issues like blight and track how neighborhoods change over time. Founded in 2021, Series A, working with municipalities across Texas, California, Florida, and beyond. We're looking for a frontend-leaning full stack engineer with a strong eye for design to own the map-heavy parts of our product. That means interactive maps, spatial data explorers and dashboards that city staff use to make decisions. Stack: React/TypeScript, Python/FastAPI on AWS Lambda, Aurora PostgreSQL + PostGIS. Experience with Mapbox, deck.gl, Leaflet, D3, vector tiles/H3, or nation-scale OSM data is a big plus. Mid to senior level. Small team, close work with the founders, real ownership. Process: phone screen, portfolio/design review, 1–2 technical conversations, references, then a chat with our CEO. No LeetCode. Perks: unlimited PTO, health/dental/vision, $100/mo wellness stipend, team retreats twice a year. Apply: https://jobs.gem.com/citydetect/am9icG9zdDr5AWjF1AZ1UgSdc0I0... Questions: bjorn@citydetect.com",
+   "site_text": "[https://www.citydetect.com/]\nCombat Urban Blight with PASS AI, Cameras, and Actionable Data | City Detect Reactive to Proactive City Management L e v e r a g e c o m p u t e r v i s i o n t o m a k e d a t a - i n f o r m e d d e c i s i o n s w i t h i n y o u r c o m m u n i t y CONTACT US OUR SOLUTIONS ABOUT US What We Do City Detect is built on trust, transparency, and ethical innovations. Our technology is built for the realities of municipal and county work: tight budgets, limited staff, and an overwhelming load of administrative and documentation responsibilities. Our system combines cutting-edge technology and real-world practicality to help you identify and address urban blight faster. LEARN MORE OUR PRODUCT How It Works We are optimized for simplicity and maximizing existing resources. Click below to see how you can change your community with City Detect ESTIMATE YOUR IMPACT Install Cameras on Your City's Vehicles We operate green by leveraging already existing fleet vehicles to collect images of properties, reducing emissions. Collect Important Community Data Our PASS AIâ¢ detects and maps signs of urban blight and decay from the public right of way. Enact Change Through Actionable Insights We deliver detailed and actionable maps, lists, and reports that local leaders rely on to make data-informed decisions. PROJECTS Crushing Urban Blight, One City at a Time. VIEW ALL PROJECTS City of Cathedral City California Reactive to Proactive Code Enforcement with streamlined workflows powered by City Detect 500 Educational notices sent as of December 2025 90.18 Miles of roadway covered VIEW CASE STUDY City of Cathedral City California Reactive to Proactive Code Enforcement with streamlined workflows powered by City Detect 500 Educational notices sent as of December 2025 90.18 Miles of roadway covered VIEW CASE STUDY City of Greenville South Carolina Storm Damage Triage with Rapid Damage Detection 300 Miles of storm-affected roadway surveyed ~1,200 High-severity damage indicators detected VIEW CASE STUDY City of Greenville South Carolina Storm Damage Triage with Rapid Damage Detection 300 Miles of storm-affected roadway surveyed ~1,200 High-severity damage indicators detected VIEW CASE STUDY City of Stockton California Empowering Proactive Code Enforcement Through Education 13,852 Unique issues detected 80% Voluntary compliance rate among residents who received an educational notice VIEW CASE STUDY City of Stockton California Empowering Proactive Code Enforcement Through Education 13,852 Unique issues detected 80% Voluntary compliance rate among residents who received an educational notice VIEW CASE STUDY Town of Prescott Valley Arizona Grant Compliance in Record Time: Rapid Affordable Housing Analysis 712 Undeveloped residential lots 4,158 Blight indicators detected VIEW CASE STUDY Town of Prescott Valley Arizona Grant Compliance in Record Time: Rapid Affordable Housing Analysis 712 Undeveloped residential lots 4,158 Blight indicators detected VIEW CASE STUDY FAQ F r e q u e n t l y A s k e d Q u e s t i o n s What is City Detect? What do the cameras take pictures of? Is this video? Am I being recorded? Are faces and license plates blurred? Does City Detect identify problems the city itself is responsible for fixing? CONTACT US Still have questions? We're here to help! Whether you're curious about installation, costs, or how solar works, our team is ready to guide. FAQ F r e q u e n t l y A s k e d Q u e s t i o n s What is City Detect? What do the cameras take pictures of? Is this video? Am I being recorded? Are faces and license plates blurred? Does City Detect identify problems the city itself is responsible for fixing? CONTACT US Still have questions? We're here to help! Whether you're curious about installation, costs, or how solar works, our team is ready to guide. FAQ F r e q u e n t l y A s k e d Q u e s t i o n s What is City Detect? What do the cameras take pictures of? Is this video? Am I being recorded? Are face",
+   "email_candidates": [
+    {
+     "email": "bjorn@citydetect.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "info@citydetect.com",
+     "where": "https://www.citydetect.com/contact",
+     "kind": "generic"
+    },
+    {
+     "email": "hello@solvance.com",
+     "where": "https://www.citydetect.com/contact",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "b5a5d3964c",
+   "company": "Datamint",
+   "website": "https://datamint.xyz",
+   "title": "Rust Systems Engineer, Browser Security",
+   "location": "Remote (Global)",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-02T00:44:27Z",
+   "posting": "Datamint | Rust Systems Engineer, Browser Security | Remote (Global) | Full-time | $120k–$170k + Equity | https://datamint.xyz We build high-throughput crawling and structured data extraction infra designed for AI agents and LLM pipelines. If you’ve built scrapers recently, you already know the state of the market: - Traditional proxy providers (Bright Data, Oxylabs, Smartproxy, Proxybase) give you raw IPs or massive unparsed HTML blobs, leaving you to deal with DOM bloat, token waste, and brittle parsing pipelines. - Modern tools like Firecrawl or Jina made clean Markdown extraction easy for hobby setups, but they often struggle when you throw heavy SPAs, high-concurrency jobs, or hardened anti-bot walls (Cloudflare Under-Attack / Turnstile, Kasada, DataDome) at them. - Rolling your own Playwright / Puppeteer cluster works until target sites deploy new JA4/TLS fingerprints, and your data team ends up spending 30% of their sprints fixing broken crawlers instead of shipping product. We're tackling this by combining a low-latency Rust fast-fetch engine (JA4/TLS and HTTP/2 frame emulation) with an isolated stealth browser fleet, zero-code schema validation (JSON Schema/Pydantic), and native Model Context Protocol (MCP) support. Trade-offs / where we fit: If you just need to curl a few static Wikipedia pages, a 10-line Python script is better and cheaper. But if you need reliable, structured data out of bot-defended sites without babying headless browsers, that's what we do. We're looking for: 1. Rust Systems Engineer: High-concurrency network I/O, Axum/Tokio, TLS/BoringSSL fingerprinting, proxy routing matrices, and low-latency data pipelines. 2. Browser Security Engineer: Deep familiarity with browser internals (Firefox/Chromium source), canvas/WebGL/audio fingerprint evasion, CDP/WebDriver stealth, and familarity with anti-bot defenses. Our stack: Rust, Next.js 16/React 19, TypeScript, hardened Firefox/dwx_crawler, Linux/Xvfb, SQLite WAL/Postgres. If interested, shoo",
+   "site_text": "[https://datamint.xyz/]\ndatamint: clean web data for AI agents Crawling infrastructure for AI agents Clean, typed data from the sites that block everyone else. datamint crawls your hardest targets and returns LLM-ready Markdown or schema-validated JSON in a single call. No proxy pools to maintain, no parsers to re-fix every sprint. Start free See how it works 1,000 free credits every month · No card required · Blocked requests cost nothing mint.sh $ curl -X POST https://api.datamint.xyz/v1/mint \\ -H \"Authorization: Bearer mint_live_xxx\" \\ -d ' { \"url\" : \"https://example.com/item/123\" , \"schema\" : \"ecommerce_item\" , \"js\" : true } ' response 200 { \"title\" : \"Aeron Chair, Graphite\" , \"price\" : 1795.00 , \"sku\" : \"HM-AER-GRA\" , \"availability\" : \"in_stock\" , \"confidence\" : 0.98 } 1,000 credits / month Free every month, not a one-off trial. No card to start Sign up and make requests without a sales call. On delivery only A blocked request that returns nothing costs nothing. Public data only No paywalls, no authenticated sessions, ever. What you get back Your scraper gets a DOM. You get a record. Bot-defended pages return the same thing to everyone: markup built for a browser, wrapped in a challenge. Stripping that into something a model can read is the part that keeps breaking. raw response 403 · challenged <!DOCTYPE html><html class=\"no-js\"> <head><script>window._cf_chl_opt= {\"cvId\":\"3\",\"cZone\":\"xxxxx\",\"cType\": \"interactive\",\"cNounce\":\"84719\"} </script></head><body> <div id=\"challenge-running\"> <div class=\"lds-ring\"><div></div> <span>Checking your browser…</span> </div> <!-- 412,880 bytes, 0 usable fields --> datamint response 200 · minted { \"title\" : \"Aeron Chair, Graphite\" , \"price\" : 1795.00 , \"currency\" : \"USD\" , \"sku\" : \"HM-AER-GRA\" , \"availability\" : \"in_stock\" , \"_mint_meta\" : { \"confidence\" : 0.98 , \"minted_at\" : \"2026-09-13T07:45:02Z\" } } Same shape, every run Fields are validated against your schema before the response leaves. A miss is a flagged request, never a silent null. Confidence included Every object carries a score. Below 0.80 the request reroutes through fallback rather than returning holes. Provenance attached Capture timestamp and source URL travel with the record, so any value can be traced to the page state that produced it. How it works Router first, browser last. Most requests never touch a headless browser, which is why the per-page cost stays where it is. Escalation is automatic and only goes as far as the target forces it. 01 Point at a URL One POST with the target and, optionally, the shape you want back. Nothing to install, no proxy pool to configure, no browser to keep alive. 02 We pick the cheapest route that works A static TLS-spoofed fetch first. A headless browser only if the page needs JavaScript. Residential routing only if the target rejects everything else. The route is remembered per target. 03 Get back something you can use Clean Markdown for a model to read, or JSON validated against your schema. Either way it arrives with a confidence score and provenance attached. A request that cannot be served costs nothing. You are billed for pages that come back with usable data, not for attempts. Ingestion Four ways in. One normalized shape out. Every surface runs the same normalization pipeline, so data arriving by synchronous call and data arriving by overnight batch crawl have identical structure. POST /v1/mint 800ms–2.5s Synchronous extract Single-page fetch with rendering options and an extraction schema. Returns cleaned Markdown or validated JSON in under 2.5s. View documentation → POST /v1/crawl Async Asynchronous deep crawl Traverses subdomains or path patterns with breadth and depth controls, regex filtering, deduplication, and automatic sitemap discovery. Delivers by webhook or cloud storage dump. View documentation → POST /v1/extract Schema-driven Zero-code schema extraction Supply a JSON Schema or Pydantic model. The engine handles DOM traversal, heuristic extraction, and LLM-assisted str",
+   "email_candidates": [
+    {
+     "email": "jobs@datamint.xyz",
+     "where": "job posting",
+     "kind": "hiring"
+    },
+    {
+     "email": "founders@datamint.xyz",
+     "where": "job posting",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "9237c51262",
+   "company": "Location: San Jose, CA Remote: Open Willing to relocate: Yes Technologies: Python, TypeScript, React, Next.js, PostgreSQL, REST APIs, OAuth2, S3, Docker, AWS, GCP, Cloudflare, LLM APIs (OpenAI, Anthropic), MCP servers, speech-to-text, real-time voice AI, RAG, Stripe Résumé/CV: https://www.linkedin.com/in/meeradatey/ Email: meera@videotobe.com",
+   "website": "https://videotobe.com",
+   "title": "See posting",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-02T00:53:16Z",
+   "posting": "Location: San Jose, CA Remote: Open Willing to relocate: Yes Technologies: Python, TypeScript, React, Next.js, PostgreSQL, REST APIs, OAuth2, S3, Docker, AWS, GCP, Cloudflare, LLM APIs (OpenAI, Anthropic), MCP servers, speech-to-text, real-time voice AI, RAG, Stripe Résumé/CV: https://www.linkedin.com/in/meeradatey/ Email: meera@videotobe.com Open to contract work.",
+   "site_text": "[https://videotobe.com/]\nVideoToBe | Transcribe Audio & Video and Chat with Your Transcript Record Your Meetings. Transcribe Everything. Capture Google Meet and Zoom calls as real video, or upload any audio, video, or YouTube link. Speaker labels, summaries, and AI chat included. Over 10,000 Users • 50,000+ Files Converted Need Just a Quick Transcript? Upload a file and get it by email. No account needed. No signup required Email delivery in 2-5 minutes 3 free files daily Try Email Delivery → Your Media Workspace ✨ Recommended Upload recordings, organize them in collections, chat with your content, and share with your team. Everything searchable in one place. Chat with your recordings—ask questions, get answers Automatic summaries and key quotes Label speakers in your transcripts Get Started Free 3 free files daily • Upgrade for unlimited No credit card required New Record Your Google Meet & Zoom Calls as Real Video Not just a transcript. VideoToBe captures the actual video of your meetings, so when someone shares their screen or runs a demo, you can watch that moment again later. Actual Video, Not Just a Transcript Screen shares, slides, and demos are captured on video. Rewind to the exact moment instead of reading around a transcript that missed what was on screen. Watch Any Moment Again Keep track of your meetings and remember who said what. Great for troubleshooting, office hours, and going back over group projects or a client call. Share Privately Send a recording privately to a teammate or classmate who missed it. They get the video and the searchable transcript, with automatic summaries and AI chat built in. Record Your Meetings Free Works with Google Meet and Zoom • No credit card required Have a YouTube video? Get the transcript instantly - no upload needed Get YouTube Transcript Audio to Video Convert audio files into videos How It Works Three simple steps to transform your recordings 1 Add Your Recording Upload any audio or video file, paste a YouTube link, or have VideoToBe join your Google Meet or Zoom call and record it for you. 2 Get Your Transcript Accurate text in 2-5 minutes with speaker labels and timestamps. Automatic language detection for 90+ languages. 3 Chat, Search & Get Summaries Ask questions to find what you need instantly. Get automatic summaries and key highlights. Organize in collections and share with your team. See Product Demo & Screenshots 95% Accurate Transcripts with Speaker Separation—And So Much More Get professional transcripts with speaker labels, then chat with your content, extract what matters, and keep everything organized Chat with Your Content Ask questions and get instant answers from your recordings. No more replaying hours of audio to find key moments. Ask `What did Sarah say about the budget?` Get summaries of long meetings Search across all your files Extract Key Decisions Automatically identify key quotes, decisions, action items, and people mentioned in your recordings. Key quotes pulled automatically People and places tagged Action items identified Keep Everything Organized Store unlimited recordings in collections. Group by project, meeting series, or client. Search everything instantly. Organize by project or client Search across all files Share securely with your team Readable Transcripts Clean paragraphs with speaker labels and section breaks. Export to PDF or Word. Automatic section headers Speaker separation (Speaker 1, Speaker 2...) Export-ready documents Works in 90+ Languages Automatic language detection for accurate transcription in any language—English, Spanish, French, Mandarin, Hindi, and 85+ more. Accurate Every Time 95% accuracy regardless of audio quality. Works with phone recordings, Zoom calls, videos—even with background noise. Automatic speaker separation Professional-grade results Who is this for? Content Creators YouTubers • Podcasters • Social Media Marketers Convert your videos and podcasts into accurate transcripts. Easily create subtitles and make",
+   "email_candidates": [
+    {
+     "email": "meera@videotobe.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "ead0d65bbb",
+   "company": "Tahoma AI",
+   "website": "https://tahoma.io",
+   "title": "tahoma.io",
+   "location": "Austin, TX or Seattle, WA (ONSITE optional)",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-02T04:18:30Z",
+   "posting": "Tahoma AI | tahoma.io | Austin, TX or Seattle, WA (ONSITE optional) | REMOTE (US) | Full-time | Founding Engineer Tahoma builds AI agents that automate healthcare Revenue Cycle Management (RCM): eligibility, claim status, claim submission, denials, and payment posting. We're live in production with paying enterprise customers. Our agents operate payer portals behind MFA, green-screen terminals over SSH, and Windows desktop software, where some actions are irreversible. They run on a deterministic orchestration layer we built in-house, with model calls as bounded steps, not the control loop. Stack: TypeScript/Node.js, Playwright, computer-use agents, Claude, Postgres, Azure, K8s. You'll get to own the core platform end to end and make the real architecture calls: resilience to portal changes, exactly-once guarantees, observability, and cost per run. Team: Founder from AWS, the former UnitedHealthcare CIO, advisors from Microsoft Research and Shopify's AI team, and a remote engineering team in-flight. Please write us at careers@tahoma.io with your resume and one thing you've shipped. You can see more at https://www.tahoma.io/careers Thanks!",
+   "site_text": "[https://www.tahoma.io/]\nThe AI Platform for Healthcare Revenue Cycle Management Skip to main content Cascade — The AI Agent Platform for Revenue Cycle Management Introducing Cascade The AI Agent Platform for Revenue Cycle Management 75% fewer admin hours AI agents navigating payer portals to investigate and resolve stalled claims Request a demo Financial outcomes Tahoma drives measurable impact across Denial rate Audit readiness EBITDA Free cash flow SG&A efficiency Net revenue retention Lower cost per claim through automation. Fewer manual touches, less rework, direct margin improvement. Explore Platform TAHOMA DRIVES MEASURABLE IMPACT ACROSS Audit readiness EBITDA Free cash flow SG&A efficiency Lower cost per claim through automation. Fewer manual touches, less rework, direct margin improvement. Explore Platform Cascade Cascade surfaces inside your browser as your team works — drafting claims, explaining denial codes using your actual payer rules, and flagging submission errors before they become write-offs. One conversation for work that used to take ten tabs. Explore Cascade AI Agents Six agents. Every stage of the revenue cycle. AI Agents are software workers . Each one logs into payer portals, navigates forms, submits documents, and takes action the same way a billing specialist would — except they run continuously, eliminate data-entry errors, and scale without adding headcount. Role Agent What it does Result Eligibility SAGE Verifies coverage in real time before and at the point of care. Checks eligibility across payers, surfaces benefit details, and flags coverage gaps before they become denied claims. $15K+ prevented monthly Claims ATLAS Builds, validates, and submits claims with payer-specific formatting applied automatically. Catches coding errors before submission — not after rejection. 95%+ clean claim rate Claim Status SCOUT Logs into payer portals, looks up every open claim, and captures its current status. Writes the result back to your EHR or PMS — or to Tahoma and your connected tools — so no one checks a portal by hand. A/R Follow-Up ZEPHYR Tracks aging claims and ranks them by balance, days outstanding, and payer behavior. Follows up with payers on stalled claims — corrected information, reconsiderations, resubmissions — and hands denials to ARIA. 20-day reduction in A/R aging Denials ARIA Predicts denials before they happen, then works the ones that land. Pulls the denial reason, identifies the correct appeal pathway, drafts medical necessity documentation, and submits — without a biller touching it. 30% more recovered Payment Posting PACE Posts ERA remittances to your PMS, matches every payment to its claim, and reconciles accounts. Flags underpayments against expected amounts so nothing slips through. 90% reduction in manual posting time Eligibility SAGE $15K+ prevented monthly Verifies coverage in real time before and at the point of care. Checks eligibility across payers, surfaces benefit details, and flags coverage gaps before they become denied claims. Claims ATLAS 95%+ clean claim rate Builds, validates, and submits claims with payer-specific formatting applied automatically. Catches coding errors before submission — not after rejection. Claim Status SCOUT Logs into payer portals, looks up every open claim, and captures its current status. Writes the result back to your EHR or PMS — or to Tahoma and your connected tools — so no one checks a portal by hand. A/R Follow-Up ZEPHYR 20-day reduction in A/R aging Tracks aging claims and ranks them by balance, days outstanding, and payer behavior. Follows up with payers on stalled claims — corrected information, reconsiderations, resubmissions — and hands denials to ARIA. Denials ARIA 30% more recovered Predicts denials before they happen, then works the ones that land. Pulls the denial reason, identifies the correct appeal pathway, drafts medical necessity documentation, and submits — without a biller touching it. Payment Posting PACE 90% reduction in ma",
+   "email_candidates": [
+    {
+     "email": "careers@tahoma.io",
+     "where": "job posting",
+     "kind": "hiring"
+    },
+    {
+     "email": "u003ecareers@tahoma.io",
+     "where": "https://www.tahoma.io/careers",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  }
+ ]
+}

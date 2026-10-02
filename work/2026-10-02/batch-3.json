@@ -1,0 +1,396 @@
+{
+ "leads": [
+  {
+   "id": "a1f622c194",
+   "company": "Juspay Technologies",
+   "website": "https://www.juspay.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Design to simplify. Revolutionizing digital payments.. Languages: Go Template, JavaScript, Rust, TypeScript. Topics: adyen, beginner-friendly, featured, finance, fintech, hacktoberfest, high-performance, open-source, orchestration, payment, payment-gateway, payment-integration, payment-processing, payments, payments-platform, restful-api, rust, sdk, stripe, works-with-react",
+   "site_text": "[https://juspay.io/us]\nJuspay | Global Payments Operating System Products FOR MERCHANTS Payment orchestration Recurring Payments Checkout experience 3DS & Authentication Tokenisation Payouts Offers Reconciliation Revenue Recovery Payment orchestration Maximise acceptance rates by optimising transactions in real-time. No-code integrations to 300+ PSPs and local payment methods Automated & dynamic routing to maximise acceptance rates No-code configurations to build custom logics across parameters Recurring Payments Optimises recurring revenue and improve retention. Frictionless signups with Cards or Alternate Payment Methods Improve retention with real-time card updater Improve Authorisation Rates with Smart Retries Checkout experience Rich 1-click checkout experiences built to maximise conversions. Payments experience that matches your brand Build checkout flows and enable APMs without code Run experiments with a robust A/B framework 3DS & Authentication Shift liability to the issuer and reduce customer friction with intelligent payment authentication Streamline authentication globally & adapt to region-specific regulations Seamless & adaptive 3DS flow across all PSPs Build your rules & control when 3DS is triggered Tokenisation Improve acceptance rates and reduce fraud with network tokenisation Use network tokens across any PSP Plug & play token vault with support for third-party vaults Lower your processing fees with network tokens Payouts Instant & frictionless payouts via Juspayâs direct integrations to networks, banks and PSPs across the globe. Manage refunds, vendor payments, global payroll, and more Multiple payout rails including cards, bank transfers, and wallets Create & send payout links to customers Offers PSP agnostic no-code offers engine to create and manage customer offers. Source & support offers across payment methods Build every imaginable offer construct without code Create, schedule, and manage offers & rewards Reconciliation Automated 3-way reconciliation across your payment data, PSPs, and banks that saves time, reduces errors, and gets you complete visibility into your cash flows. Revenue Recovery Subscription revenue recovery with intelligent retries. Minimize churn using data and machine learning Maximize success rates with smart retry strategies Improve retention with configurable retry strategies Industry solutions Banks Modern payments infrastructure for enterprise-ready payment acceptance Airlines First class payments suite purpose built for every airline need Hospitality Global payments operating system purpose-built for modern hotel operations. iGaming Modular payments for every sportsbook and casino brand. Resources OUR BLOGS Unifying global payments: How payment orchestrator drives enterprise growth Explore how payment orchestrators has evolved over the years and what a modern orchestrator, such as Juspay, can offer. Read the blog All blogs LEARN & DISCOVER Blogs Deep dive into Payments engineering and design principles. Learn about new product features, the latest in technology, payment solutions, and business initiatives. Documentation Juspay developer documentation helps merchants to easily integrate Juspay products with an app or website for a seamless payment experience Case studies Explore Juspay's case studies showcasing success stories from diverse industries like e-commerce, aviation, SaaS, and more Integrations Company COMPANY About us We power enterprises worldwide to simplify payments and scale go-to-market. Careers Join a team of engineers, artists, musicians, andÂ designers, building payments infrastructure for the global economy. STAY IN TOUCH Contact us Meet our team to see how Juspay can help accelerate your Payments roadmap. Newsroom Updates, Resources, and Announcements for the press. North America Choose Region Asia Pacific English ç®ä½ä¸­æ Brazil English PortuguÃªs Europe & UK India Middle East English Ø§ÙØ¹Ø±Ø¨ÙØ© North America Peru English EspaÃ±ol Contact us PAYM",
+   "email_candidates": [
+    {
+     "email": "info@juspay.in",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "biz@juspay.in",
+     "where": "https://juspay.io/us",
+     "kind": "personal"
+    },
+    {
+     "email": "creditbiz@juspay.in",
+     "where": "https://juspay.io/blog",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "5a1173b496",
+   "company": "Thunder Compute (YC S24)",
+   "website": "https://thundercompute.com",
+   "title": "C++ Systems, Infrastructure, BizOps",
+   "location": "San Francisco (Onsite)",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-01T15:18:54Z",
+   "posting": "Thunder Compute (YC S24) | C++ Systems, Infrastructure, BizOps | San Francisco (Onsite) | Full-time | https://www.thundercompute.com We're building the VMware for GPUs. Most GPUs in the cloud sit idle a lot of the time because they're bolted to one machine over PCIe. We decouple them. Our virtualization layer is a userspace shim, loaded through LD_PRELOAD, that intercepts CUDA calls and ships them over the network to a host with a physical GPU somewhere else in the data center. Workloads run unchanged. When a process goes idle, the GPU detaches and gets reassigned, and reattaches in tens of milliseconds when it's needed again. Think Ceph for GPUs: the GPU becomes a network resource a cluster-wide scheduler can pool and pack. The hard part is making that fast. We're within ~10% of native on most AI workloads, and it lets us serve ~1.8x more users on the same fleet. We run it in production as our own GPU cloud and sell it to enterprises with underutilized fleets. Team is from Citadel Securities, Aquatic, Old Mission, AWS, and Bain. Series A, $17.5M raised from Matrix and Y Combinator. Open roles: - Software Engineer, C++ Systems ($215K-$325K + meaningful equity). Low-level, latency-sensitive work on the virtualization layer. Quant dev / HFT background preferred: https://jobs.ashbyhq.com/thundercompute/2efae53b-817c-43e7-9... - Software Engineer, Infrastructure ($150K-$250K + meaningful equity). Go, Kubernetes, reliable systems at scale: https://jobs.ashbyhq.com/thundercompute/927a922b-c607-4b0e-a... - Business Operations Lead ($150K-$225K + meaningful equity): https://jobs.ashbyhq.com/thundercompute/4f28e418-b77b-446e-a... If you're cracked at building systems software and want to do something more meaningful than creating liquidity, reach out. Email me at carl@thundercompute.com and mention HN. I read every email.",
+   "site_text": "[https://www.thundercompute.com/]\nThunder Compute | GPUs for Agents Log in Get started GPUs for agents GPU instances and sandboxes for builders on the AI frontier Get started Products Start from your terminal or from your agent Instances for hands-on development. Sandboxes for RL environments and evals at scale. Both on the same GPUs. Instances A GPU instance you connect to and keep. Snapshot it when you are done. ~ zsh $ tnr create --gpu a100 â Instance 0 created $ tnr connect 0 â Connected to instance 0 ubuntu@instance-0:~$ nvidia-smi -L GPU 0: NVIDIA A100 80GB PCIe A100 80GB from $1.09/hr Explore instances â Sandboxes Sandboxes for RL environments and evals, with or without a GPU. Fan out hundreds of parallel rollouts from a few lines of Python. agent.py import thunder_sandbox as thunder sandbox = thunder.Sandbox.create( cpu=4, memory=32, storage=50, gpu_type=thunder.GPUType.H100, gpu_count=1, timeout=900) sandbox.wait_until_ready() process = sandbox.exec(\"nvidia-smi\") From $1.95/GPU-hr Explore sandboxes â Pricing Stop wasting runway on GPUs Switching to Thunder Compute takes minutes and saves months of runway. Get started See pricing Instance H100 80GB price per GPU-hour Thunder Compute $3.20 Lambda $3.29 Runpod $3.49 Paperspace $5.95 CoreWeave $6.16 Amazon Web Services $6.88 Azure $6.98 Oracle Cloud $10.00 Google Cloud $10.98 On-demand list prices, checked Oct 1, 2026 Rates checked Sep 30, 2026 LOVED BY DEVELOPERS â Can ' t get enough of this UX. â â We are saving so much on GPU Sandboxes. â Real quotes from ML engineers and RL researchers building on Thunder Compute I ship faster and our CEO loves the savings. So far, Iâve convinced nine of our MLEs to switch. ML Engineer Series B startup The amount of value is insane. We are bootstrapped and run 2-3 finetuning jobs around the clock. Co-founder Data Science Consultancy The VS Code extension helps me iterate faster. Anything that makes paper deadlines less stressful is a win. PhD in Machine Learning U.C. Berkeley The snapshot flow means I can pause experiments without thinking about cloud housekeeping all day. Applied AI Lead Healthcare AI startup Moving from queueing jobs to spinning up GPUs on demand changed how quickly our team tests ideas. Research Engineer Independent AI lab The pricing finally lets us run bigger sweeps without turning every experiment into a budget meeting. ML Platform Engineer Seed-stage robotics company I ship faster and our CEO loves the savings. So far, Iâve convinced nine of our MLEs to switch. ML Engineer Series B startup The amount of value is insane. We are bootstrapped and run 2-3 finetuning jobs around the clock. Co-founder Data Science Consultancy The VS Code extension helps me iterate faster. Anything that makes paper deadlines less stressful is a win. PhD in Machine Learning U.C. Berkeley The snapshot flow means I can pause experiments without thinking about cloud housekeeping all day. Applied AI Lead Healthcare AI startup Moving from queueing jobs to spinning up GPUs on demand changed how quickly our team tests ideas. Research Engineer Independent AI lab The pricing finally lets us run bigger sweeps without turning every experiment into a budget meeting. ML Platform Engineer Seed-stage robotics company I ship faster and our CEO loves the savings. So far, Iâve convinced nine of our MLEs to switch. ML Engineer Series B startup The amount of value is insane. We are bootstrapped and run 2-3 finetuning jobs around the clock. Co-founder Data Science Consultancy The VS Code extension helps me iterate faster. Anything that makes paper deadlines less stressful is a win. PhD in Machine Learning U.C. Berkeley The snapshot flow means I can pause experiments without thinking about cloud housekeeping all day. Applied AI Lead Healthcare AI startup Moving from queueing jobs to spinning up GPUs on demand changed how quickly our team tests ideas. Research Engineer Independent AI lab The pricing finally lets us run bigger sweeps wit",
+   "email_candidates": [
+    {
+     "email": "carl@thundercompute.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "careers@thundercompute.com",
+     "where": "https://www.thundercompute.com/careers",
+     "kind": "hiring"
+    },
+    {
+     "email": "luciano@thundercompute.com",
+     "where": "GitHub commits (Thunder-Compute)",
+     "kind": "personal",
+     "name": "Luciano",
+     "commits": 5
+    },
+    {
+     "email": "carlp0137@gmail.com",
+     "where": "GitHub commits (Thunder-Compute)",
+     "kind": "personal",
+     "name": "cpeterson42",
+     "commits": 13
+    },
+    {
+     "email": "arda@thundercompute.com",
+     "where": "GitHub commits (Thunder-Compute)",
+     "kind": "personal",
+     "name": "Arda Akman",
+     "commits": 14
+    },
+    {
+     "email": "brian.model@gmail.com",
+     "where": "GitHub commits (Thunder-Compute)",
+     "kind": "personal",
+     "name": "Brian Model",
+     "commits": 9
+    },
+    {
+     "email": "rohan@thundercompute.com",
+     "where": "GitHub commits (Thunder-Compute)",
+     "kind": "personal",
+     "name": "Rohan Phadnis",
+     "commits": 2
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "e112391b5b",
+   "company": "Namespace",
+   "website": "https://namespacelabs.com",
+   "title": "See posting",
+   "location": "REMOTE or HYBRID",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-01T16:26:14Z",
+   "posting": "Namespace | San Francisco, CA / New York, NY / Zurich, Switzerland / Remote | Full-time | REMOTE or HYBRID | https://namespace.so At Namespace, we’re building a global, vertically integrated infra stack (custom server racks, hypervisor, scheduler, and much more) for the next wave of software development. We’re hiring for the following openings * Security Engineer * Product Engineer * Infrastructure Software Engineer * Customer-Facing Software Engineer * Engineering Lead Today, we power software development for SpaceXAI, Ramp, Sierra, Fal, Vanta, Framer, ElevenLabs, and many more. Find out more, and apply at: https://namespace.so/careers or write to hannah@namespacelabs.com",
+   "site_text": "[https://namespace.so/]\nAccelerate your developer workflow | Namespace Log in Contact Us Partnering with Cursor to give cloud agents a real computer The dev platform for the next 100 billion commits Fast coding, build, and test environments across Mac, Windows, and Linux. Start building No credit card required. Join 1,000+ of the world’s most ambitious companies Watch Video “ Namespace is the best dev infrastructure tool I’ve used in years . We run everything from our CI to Oz, our cloud agent platform, on Namespace, and I could not recommend it enough. ” Aloke Desai Head of Product Engineering , Warp 01 - Who uses us? The results speak for themselves How ClassPass sped up their iOS development with Namespace 55% Cost reduction in CI Fast iOS development Read the story We evaluated many options, and Namespace is the only one that could deliver the performance our iOS team needed. Ray Kim , Mobile Engineer , ClassPass How Zed gets fast Rust builds and secures its OSS project with Namespace 3x faster CI queue times 2-3 min cached Rust builds Read the story The product is so good. Compared to any other provider I’ve used, it’s just been completely seamless . Conrad Irwin , Software Engineer , Zed Namespace's Bazel Remote Execution has unlocked new ways for us to build software in the agentic era . We’ve been early adopters and already see promising performance benefits. JP Simard , Director of Mobile Engineering , Ramp How Framer keeps CI under 5 minutes with Namespace 60+% Cost reduction <5 min CI builds Read the story Namespace is really nicely plug-and-play on top of GitHub Actions , but then it also extends it in a really sensible way. It’s a great extension that adds a lot of value on top of what GitHub offers. Eelco Lempsink , CTO , Framer Namespace has been rock-solid for us, the caching feature delivers speeds unmatched by default runners , and the ability to interactively debug runs is a killer. Team is also super responsive, even gave us some tips on how to improve internal infra. Overall very happy! Christian Mladenov , Software Engineer , fal.ai How DuckDB runs their CI/CD pipelines 10x faster with Namespace 10x faster builds <30 min PR validation Read the story Even though Namespace saved us money, that wasn’t the point. What matters is that it’s reliable and fast . In the end, it’s more about the cost of time than the cost of money. Sander van Veen , Developer Experience Engineer , DuckDB Been using Namespace for the past year or two, they’ve been absolutely awesome . The service is great, support is great. Just overall great job. Mitchell Hashimoto , Creator , Ghostty 02 - Vertically integrated Our obsession with performance, now yours by default From day 1, you’ll get access to our global, vertically integrated infra stack powering all our products: custom hardware, hypervisor, scheduler, and much more Compute Storage Networking Yes, we have Macs* Highest single-core performance across Mac, Windows, and Linux Learn more And NVMe-backed storage NVMe-backed and co-located by default: volumes, registry, artifact storage, and secrets. Learn more Also fast networking Each compute node at Namespace gets at least 1Gbps per CPU thread Learn more Two products built on the same engineering foundation Devbox Fast, feature-rich dev environments for AI coding agents GitHub Actions Fast, observable drop-in replacement for GitHub Runners 03 - What are we up to? Recently shipped All posts Partnering with Cursor to give cloud agents a real computer 4 weeks ago Partnering with Cognition to give Devin a fast computer 2 months ago So You Want to Build Your Own Datacenter 8 months ago Join 1,000+ of the world’s most ambitious companies Start building Contact Us\n\n[https://namespace.so/blog]\nNamespace: Blog Log in Contact Us Namespace Blog Introducing Git Snapshots for Cursor Origin and GitHub Git Snapshots prepare a repository and working tree once and reuse that snapshot across Namespace Linux and macOS runners. Available on Cursor Or",
+   "email_candidates": [
+    {
+     "email": "hannah@namespacelabs.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "opportunity@namespacelabs.com",
+     "where": "https://namespace.so/careers",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "12d4eef7b1",
+   "company": "FUTO",
+   "website": "https://futo.org",
+   "title": "https://futo.tech/",
+   "location": "Austin, TX",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-01T20:22:29Z",
+   "posting": "FUTO | https://futo.tech/ | Austin, TX | REMOTE(Worldwide) or ONSITE | Full Time FUTO is an organization dedicated to developing, both through internal engineering and investment, technologies that frustrate centralization and industry consolidation. Our work consists of a combination of in-house engineering projects, targeted investments, generous grants, and multi-media public education efforts. Immich is on a mission to provide a secure and private home for your most precious memories through our high-performance, self-hostable photo and video backup solution. Roles currently available: Mobile Developer - Immich: https://futo.tech/jobs/mobile-developer-immich More listings here: https://careers.futo.tech/ We have now hired seven employees from these HN postings. We highly encourage people to mention that you came from here in your application.",
+   "site_text": "[https://futo.tech/]\nFUTO - Computers Belong to You Computers Belong to You Computers Belong to You We develop and fund technology to give them back Explore Open Tech What FUTO does differently What we're up to Announcement Jun 23, 2026 KASROZ: An Optimal Keyboard for Swipe Why not QWERTY? QWERTY was designed in the 1800s for two-handed mechanical typewriters. As a layout, the key optimization places common bigrams on opposing levers so adjacent strikes wouldn't jam.... Lee Miller Opinion Apr 15, 2025 Shifting Perspectives on Purchasing Open Source Software At FUTO, we want to make open-source software development sustainable. We believe that developers should be paid for their time and energy spent on their projects, and have the legal ability to... Joe Occhionero Opinion Nov 14, 2024 The Future of Software Distribution Software centralization exists on a spectrum between two poles. At one extreme are the hyperscalers like Google and Amazon. Most of the Internet's population lives within gigantic server blocks owned... Adam Jesionowski Read more Funding great projects View more Chat with us Chat with us Join our public chat and let's build great open tech together Join FUTO Chat Frequently asked questions What does FUTO stand for? How is FUTO funded? Is FUTO a non-profit organization? What happens when you receive legal requests? I work in tech, how can I get involved? I'm just some person, how can I get involved?\n\n[https://futo.tech/about]\nAbout - FUTO About FUTO is an organization dedicated to giving people back control over their technology. Through in-house engineering, investments, grants, and public education efforts, we build and fund software that challenges the dominance of Big Tech. We believe the free market has failed to check the power of the tech oligopoly. Monopolies have consolidated control over how information flows, and most users have lost sovereignty over their own devices. Software creates powerful economies of scale that favor tech megacorps who then use that power to manipulate human behavior for profit. Neither traditional capitalism nor existing open source efforts have solved this problem. In many cases the reasons are obvious: a significant part of the most important FOSS foundations and projects are themselves funded by the tech oligopoly. FUTO takes a different approach to solving this problem. Founded in 2021 by Silicon Valley veteran Eron Wolf, FUTO operates without reliance on existing tech companies or venture capital firms. We are not expecting quick profits. We will never cash out with a sale to a megacorporation the moment our technology begins to catch on. We will focus entirely on the mission to recreate the spirit of freedom, innovation, and self-reliance that defined the early American tech industry. We hold ourselves and every project we fund to three pledges: We will never sell out. All FUTO-funded projects are expected to remain fiercely independent. They will never exacerbate the monopoly problem by selling out to a monopolist. We will never abuse our customers. All FUTO-funded projects are expected to maintain an honest relationship with their customers. Revenue, if it exists, comes from customers paying directly for software and services. “The users are our product” revenue models are strictly prohibited. We will always be transparently devoted to making delightful software. All FUTO-funded projects are expected to be open source or develop a plan to eventually become so. No effort will ever be taken to hide from the people what their computers are doing, to limit how they use them, or to modify their behavior through their software.\n\n[https://futo.tech/blog]\nBlog - FUTO Blog Announcement Jun 23, 2026 KASROZ: An Optimal Keyboard for Swipe Why not QWERTY? QWERTY was designed in the 1800s for two-handed mechanical typewriters. As a layout, the key optimization places common bigrams on opposing levers so adjacent strikes wouldn't jam.... Lee Miller Opinion Apr 15, 2025 Shifting Pers",
+   "email_candidates": [
+    {
+     "email": "contact@futo.tech",
+     "where": "https://futo.tech/",
+     "kind": "generic"
+    },
+    {
+     "email": "joe@futo.org",
+     "where": "https://futo.tech/blog/shifting-perspectives-on-open-source",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "01b1d9cd82",
+   "company": "Tangram Vision",
+   "website": "https://tangramvision.com",
+   "title": "Calibration Engineer",
+   "location": "Remote (US preferred)",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-01T21:36:30Z",
+   "posting": "Tangram Vision | Calibration Engineer | Remote (US preferred) | Full Time | $160k-$180k + equity Tangram Vision has been awarded a Phase II SBIR from NASA to implement operator-free multi-modal calibration on the lunar surface, a system we're calling AutoCal. Read more about the grant here ( https://www.tangramvision.com/blog/tangram-vision-awarded-na... ). We are looking for qualified candidates to research, implement, and improve AutoCal for both NASA's applications and those of any other robotics and automation system. The ideal Calibration Engineer candidate has real-world calibration experience through robotics, autonomous vehicles, or industry. A successful candidate has not only developed calibration systems and products, but has iterated on and improved that product once deployed. They have worked with multi-modal data from a variety of sensors and systems, and they have implemented odometry solutions from fundamentals. The full description is at: https://www.tangramvision.com/careers/calibration-engineer To apply, you can email careers@tangramvision.com",
+   "site_text": "[https://www.tangramvision.com/]\nTangram Vision | Perception Calibration and Reliability Calibrate with Conviction Trust your data, your sensors, and your results. It's the perception reliability layer for physical AI. Start Free With 15 Credits Discover MetriCal Calibrate with Conviction Trust your data, your sensors, and your results. It's the perception reliability layer for physical AI. Start Free With 15 Credits Discover MetriCal Trusted. Proven. Deployed. The world's most ambitious physical AI companies use MetriCal to test, build, and scale. MetriCal Multi-modal Calibration Suite Camera, LiDAR, radar, IMU and more: solved jointly, verified instantly. One optimization calibrates the whole rig; not a chain of pairwise scripts that compound error. Every run ends with a metrics report you can defend. Results that fail MetriCal's quality gates are blocked, not billed, before they reach your robots. The result? High-speed, precise calibration for high output production lines and maintenance facilities. Start Free With 15 Credits Start Free With 15 Credits Discover MetriCal Discover MetriCal We spent close to $100,000 worth of engineering time to solve this problem. So we asked for MetriCal access, we tried the software, it worked, and we bought a license. It felt like a no-brainer. Mael Fabien Biped.ai We spent close to $100,000 worth of engineering time to solve this problem. So we asked for MetriCal access, we tried the software, it worked, and we bought a license. It felt like a no-brainer. Mael Fabien Biped.ai We spent close to $100,000 worth of engineering time to solve this problem. So we asked for MetriCal access, we tried the software, it worked, and we bought a license. It felt like a no-brainer. Mael Fabien Biped.ai Every price, published From free trial to fleet-scale rate cards, everything is clear with MetriCal pricing. Trial Bundle For new users and the calibration curious 15 Credits $249 each 15 Credits Â· $16.60 / Credit R&D $999/month 75 Credits / mo Â· $13.32 / Credit Growth $3,149/month 300 Credits / mo Â· $10.50 / Credit See All Rates Every price, published From free trial to fleet-scale rate cards, everything is clear with MetriCal pricing. Trial Bundle For new users and the calibration curious 15 Credits $249 each 15 Credits Â· $16.60 / Credit R&D $999/month 75 Credits / mo Â· $13.32 / Credit Growth $3,149/month 300 Credits / mo Â· $10.50 / Credit See All Rates Every price, published From free trial to fleet-scale rate cards, everything is clear with MetriCal pricing. Trial Bundle For new users and the calibration curious 15 Credits $249 each 15 Credits Â· $16.60 / Credit R&D $999/month 75 Credits / mo Â· $13.32 / Credit Growth $3,149/month 300 Credits / mo Â· $10.50 / Credit See All Rates Enterprise Services and Support Scale with confidence knowing that your toughest calibration needs are met by the team that built the tools. Volume rates Graduated per-Credit pricing, annual or metered, published in full. Camera, LiDAR, radar, IMU, and more, on one meter. Enterprise SLA Contractual response and resolution targets, a dedicated Slack Connect/Google Meet channel, and SLA credits back when we miss our targets. Premium SLA 24/7 coverage and a dedicated technical account manager. Requires Enterprise SLA. Air-Gapped Deployment Run MetriCal on devices that never touch the internet. Credits are purchased in advance at your rate and allocated to offline licenses generated on your own devices. Or, work fully untethered with periodic check-ins to extend license validity. Binary Escrow We deposit a standalone, licensable copy of MetriCal with a mutually agreed escrow agent within 60 days of signing and refresh it within 30 days of every major release. If Tangram ever ceases operations, the escrow releases with a perpetual license to keep calibrating. Discover Enterprise Discover Enterprise Book A Call Book A Call Tangram Vision Blog Perception and physical AI insights, written by the experts. MetriCal v18 Is Out! J",
+   "email_candidates": [
+    {
+     "email": "careers@tangramvision.com",
+     "where": "job posting",
+     "kind": "hiring"
+    },
+    {
+     "email": "janesmith@gmail.com",
+     "where": "https://www.tangramvision.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "info@tangramvision.com",
+     "where": "https://www.tangramvision.com/blog/metrical-18-is-out",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "012af90645",
+   "company": "Technical founder looking for a commercial co-founder",
+   "website": "https://passinbox.com",
+   "title": "See posting",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-02T03:37:27Z",
+   "posting": "Technical founder looking for a commercial co-founder | Europe / US Remote Senior software engineer with a background in fintech, production ML and distributed systems. Looking for someone to build a company with, ideally in B2B AI, fintech or infrastructure. Seeking an experienced founder or co-founder with a track record of building successful businesses or achieving an exit, strong in sales, customer discovery and GTM. I can own engineering and product development. Looking for a partner who’s done it before and wants to do it again. Let’s talk: hackernews.sculptor491@passinbox.com",
+   "site_text": "[https://proton.me/pass]\nProton Pass: Free password manager with identity protection | Proton Get Proton Pass Sign in Open menu The best free password manager Securely store, share, and autofill your credentials with Proton Pass, the end-to-end encrypted password manager trusted by millions. Create free account Get Pass for Business Trusted by over 100 million users and organizations Average app rating Proton Pass pricing and plans Individuals | Businesses 1 month 12 Months Proton Free /month Proton Free No credit card required Unlimited logins, notes and credit cards Unlimited devices Browser, mobile, and desktop apps Password generator 10 hide-my-email aliases Alerts for weak and reused passwords Passkeys supported on all devices Easy password import Recommended undefined% off Pass Plus /month Get Pass Plus Get everything in Free, plus: Unlimited hide-my-email aliases Built-in 2FA authenticator Secure vault sharing Secure link sharing Dark Web Monitoring File attachment Advanced account protection Emergency Access Your custom domain for aliases Additional mailboxes for aliases Initiate an email from your alias Command line interface (CLI) Billed at $0.00 every month. undefined% off Proton Unlimited /month Get Proton Unlimited The best of Proton with one subscription: Proton Pass Proton Mail Proton Calendar Proton VPN Proton Drive Billed at $0.00 every month. 30-day money-back guarantee Never expose your real email again Use unique email aliases for shopping, accounts, and newsletters to stop spam and spot leaks fast. Proton Pass's aliases forward emails to your inbox while keeping your real address hidden. Create a free account Enterprise‑level security for everyday life Log in faster with autofill View details Save time, reduce errors, and improve team efficiency by automatically completing login forms across websites and apps. No need to copy and paste. Protected by end-to-end encryption View details Protect passwords, passkeys, and credit cards with zero-knowledge, end-to-end encryption. That means no one else, not even Proton can access your sensitive information unless you share them. Access your data from anywhere View details Securely sign in on mobile devices, laptops, or browsers. Proton Pass syncs across devices, ensuring seamless access to credentials wherever you need them. Safeguard team collaboration View details Empower your distributed or remote workforce, eliminate information silos with secure and seamless access with credential sharing. Stay ahead of threats View details Proton Pass monitors the dark web for credential leaks so you can prevent damage from data breaches. Create a free account Start Business trial Why choose Proton Pass? When it comes to features on both our paid and our free plans, Proton Pass offers more than the average password manager. Compare with: empty 1Password Bitwarden NordPass LastPass Dashlane Keeper Proton Pass vs BitWarden vs 1Password vs Dashlane Proton Pass 1Password Bitwarden NordPass LastPass Dashlane Keeper Free plan Yes No Yes Limited to one device Limited to one device Discontinued Limited to one device and 10 records Built-in email aliases Unlimited (10 for free plan) Third party integration Third party integration 200 maximum Unavailable Unavailable Only available for business domains Open source Yes No Yes No No No Yes Independently audited Yes Yes Yes Yes Yes Yes Yes Jurisdiction Switzerland Canada/US US Lithuania US US/France US/ Europe, Asia via AWS Complete private ecosystem Yes No No VPN sold separately No No Access management sold separately Try now Trusted by over 100 million people and businesses ZDNET “Best free password manager for privacy. Proton Pass is a well-designed and highly secure password manager with a handful of unique features.” Linus Tech Tips \"Proton has a password manager that got really good, and really quickly. It has support for making burner emails, or aliases, two-factor support, passkey support, and recently, gained the ability to lock ",
+   "email_candidates": [
+    {
+     "email": "hackernews.sculptor491@passinbox.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "contact@your-domain.com",
+     "where": "https://proton.me/pass",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "5e82ea5cb8",
+   "company": "Hasura",
+   "website": "https://hasura.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "San Francisco, Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Hasura is the universal data access layer for next-gen apps and AI. Languages: Go, JavaScript, Python, Rust",
+   "site_text": "[https://hasura.io/]\nHasura: Creator of PromptQL, Data Delivery Network & GraphQL Engine Get started Ready to bring your AI visions to life? Our AI Catalyst Team is here to help you assess fit and partner with you to deliver real transformation - turning bold AI ambitions into measurable business impact. If you’re reaching out for anything other than a demo request, contact us here . FIRST FOR DIGITAL. NOW FOR AI. We’ve spent years perfecting products that make it effortless to access and use data. PromptQL for AI Accurate AI by continuously learning the unique context of your business. Hasura for APIs and GraphQL Battle-tested. Loved by devs. Powers millions of user experiences. © 2026 Copyright Hasura, Inc. All Rights Reserved. Contact Us | Careers\n\n[https://hasura.io/contact-us?pg=home&cta=get-started]\nGet in touch with us | Hasura From GraphQL to PromptQL: A New Chapter Begins Contact Us Get Started Get Started Get in touch Whether you have a pricing question, want a custom demo, need technical support, or simply have a suggestion, our team is ready to assist you. Much like our instant APIs, we aim to quickly address your queries. Let’s connect! Karthik Srinivasan Solution Architect, Philips Healthcare \"If we had gone the traditional way, this process would have taken us two to four years. With Hasura, we have been able to crunch it to just under a year.\" Connect with us Ship a rock-solid API on your data – in minutes! Start for free Platform Hasura DDN Connectors Security Build Docs Tutorials GitHub Learn Blog Events Supergraph.io GraphQL Hub Company Our Story Careers Partners Legal Cookie Policy Privacy Policy Connect Community Discord Forum Meetups Monthly call Support Contact Us © 2026 Hasura Inc. All rights reserved\n\n[https://promptql.io/careers]\nJoin us to build the future of reliable AI | PromptQL Explore Jev Workshops Get hands-on with Jev. Explore faster, leaner workflows. See Workshops Sign in Request demo Sign in Request demo Try PromptQL Join us to build the future of reliable AI AI can't be trusted if it's confidently wrong. At PromptQL, we're on a mission to deliver reasoning AI that learns from enterprise data, signals its confidence, and earns trust through accuracy. See open roles Raju Sunny Forward Deployed Engineer Bold Tech, Big Outcomes We’re building foundational technology that’s pushing the boundaries of what’s possible with enterprise AI, unlocking massive outcomes for some of the world’s largest businesses. It’s ambitious, complex, and unlike anything else in the market. People You’ll Love Working With Our team is made up of talented, collaborative, and driven individuals with a bias toward action and a desire to help, teach, and train. Together, we bring out the best in each other and make this a place where exceptional people drive exceptional outcomes. Fast-Paced, Purposeful Work We’re serious about what we’re building, but we’ve got a laid-back feel. We seek clarity, move quickly, and learn without fear of failure. We make bold decisions, solve complex problems, and above all else, build a product that solves meaningful problems for our customers. Boundless Opportunity We believe access and impact shouldn't be limited by team or title. Regardless of your role or level, you are encouraged to step up, influence outcomes, and take on expanded charters, because we know real growth often happens outside the lines. Kailash Sudhakar Director, Website & Social Our values User First We obsess about our users and their business so we can craft solutions that exceed expectations and inspire delight. One Team We cross all barriers to work together towards our common goals, maintaining individual accountability. Win or Learn We move fiercely fast to problem-solve without fear of failure, to make improvements on a concrete hypothesis (bet) with every action. Life at PromptQL Benefits Beyond the Basics Connection And Collaboration Stronger Together Benefits Beyond The Basics Alongside a competitive benefits ",
+   "email_candidates": [
+    {
+     "email": "danieljamesharvey@gmail.com",
+     "where": "GitHub commits (hasura)",
+     "kind": "personal",
+     "name": "Daniel Harvey",
+     "commits": 13
+    },
+    {
+     "email": "phil@hasura.io",
+     "where": "GitHub commits (hasura)",
+     "kind": "personal",
+     "name": "Phil Freeman",
+     "commits": 18
+    },
+    {
+     "email": "daniel@hasura.io",
+     "where": "GitHub commits (hasura)",
+     "kind": "personal",
+     "name": "Daniel Chambers",
+     "commits": 1
+    },
+    {
+     "email": "tomasz.skawinski@hasura.io",
+     "where": "GitHub commits (hasura)",
+     "kind": "personal",
+     "name": "phase2-bot",
+     "commits": 1
+    },
+    {
+     "email": "build@hasura.io",
+     "where": "GitHub commits (hasura)",
+     "kind": "personal",
+     "name": "dliub",
+     "commits": 9
+    },
+    {
+     "email": "tom@hasura.io",
+     "where": "GitHub commits (hasura)",
+     "kind": "personal",
+     "name": "Tom Skawinski",
+     "commits": 3
+    },
+    {
+     "email": "savanipoojan78@gmail.com",
+     "where": "GitHub commits (hasura)",
+     "kind": "personal",
+     "name": "Poojan Savani",
+     "commits": 4
+    },
+    {
+     "email": "poojan@hasura.io",
+     "where": "GitHub commits (hasura)",
+     "kind": "personal",
+     "name": "poojan",
+     "commits": 1
+    },
+    {
+     "email": "karthik@hasura.io",
+     "where": "GitHub commits (hasura)",
+     "kind": "personal",
+     "name": "Karthik Venkateswaran",
+     "commits": 4
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "d8621b81e7",
+   "company": "Modular Open Source Identity Platform",
+   "website": "https://mosip.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "IIITB, Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "An open source platform on which national foundational IDs are built. Languages: HTML, Java, TypeScript",
+   "site_text": "[https://www.mosip.io:443/]\nHome | MOSIP MOSIP | A Digital Public Good for Identity GitHub Documentation Community Marketplace Empowering Lives One Unique ID at a Time MOSIP offers countries modular and open-source technology to build and own their national identity systems. Building Ecosystems MOSIP Rewind 2025 Residents Registered on MOSIP 31 Country Engagements till Date 14 National Rollouts 125+ Commercial Partners 06 Leading Academic Partners ETHIOPIA MOROCCO GUINEA NIGER SIERRA LEONE BURKINA FASO MADAGASCAR TOGO SRI LANKA PHILIPPINES UGANDA CONGO PERU CAMBODIA ZAMBIA NIGERIA MEXICO BELIZE GAMBIA CÔTE D'IVOIRE TRINIDAD AND TOBAGO TONGA BENIN SÃO TOMÉ AND PRINCIPE LESOTHO BOLIVIA SENEGAL BAHAMAS Nearly 850 million people across the world lack legal and verifiable ID. An identity gap of this scale impedes access to rights and services, disproportionately affecting the most vulnerable sections of society. This is where MOSIP comes in. The Modular Open Source Identity Platform was established in 2018 at the International Institute for Information Technology Bangalore, as a response to the challenges faced by nations adopting digital ID systems. The project aims to provide governments with the tools for meaningful digital transformation, established on a bedrock of good principles and human-centric design. MOSIP remains committed to its long-term goal of enabling inclusion and empowerment by harnessing trustworthy and world-class technology. Read More Your browser does not support the video tag. The Modular Open Source Identity Platform was established in 2018 at the International Institute for Information Technology Bangalore as a response to the challenges faced by nations adopting digital ID systems. The project aims to provide governments with the tools for meaningful digital transformation, established on a bedrock of good principles and human-centric design. MOSIP remains committed to its long-term goal of enabling inclusion and empowerment by harnessing trustworthy and world-class technology. Read More Guided by principles that offer ownership , security , and inclusion . Our modular, open-source technology offers adopters transparency, customisability, and easy compliance, giving them the freedom to choose their vendors and adapt their identity systems for their unique needs. MOSIP-based foundational ID systems prioritise security of data and identity, ensuring that technology solutions are informed by human need, and that no one is left unrepresented. MODULAR OPEN-SOURCE VENDOR-NEUTRAL SECURE HUMAN-CENTRIC INCLUSIVE Our modular, open-source technology offers adopters transparency, customisability, and easy compliance, giving them the freedom to choose their vendors and adapt their identity systems for their unique needs. MOSIP-based foundational ID systems prioritise data and identity security, ensuring that technology solutions are informed by human need, and that no one is left unrepresented. Building Ecosystems Meaningful change is achieved when experts from varying disciplines contribute to the development of holistic solutions. The team at MOSIP is committed to nurturing a global ecosystem of technology developers, academics, and decision-makers, to ensure that the terrain of digital transformation continues to evolve and equip itself for the world's ever-changing needs. Technology Partners Country Partners Research Partners Meaningful change is achieved when experts from varying disciplines contribute to the development of holistic solutions. The team at MOSIP is committed to nurturing a global ecosystem of technology developers, academics, and decision-makers, to ensure that the terrain of digital transformation continues to evolve and equip itself for the world's ever-changing needs. Technology Partners Country Partners Research Partners Incubated by Contact Us info@mosip.io 26/C, Electronic City, Hosur Road, Bangalore - 560100. +91 8041407777 Quick Links: Privacy Policy IP Policy Contact Us info@mosip.io 26/C",
+   "email_candidates": [
+    {
+     "email": "info@mosip.io",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "chandrakeshavmishra@gmail.com",
+     "where": "GitHub commits (mosip)",
+     "kind": "personal",
+     "name": "Chandra Keshav Mishra",
+     "commits": 14
+    },
+    {
+     "email": "nagendra0718@gmail.com",
+     "where": "GitHub commits (mosip)",
+     "kind": "personal",
+     "name": "nagendra0721",
+     "commits": 4
+    },
+    {
+     "email": "ashok@mosip.io",
+     "where": "GitHub commits (mosip)",
+     "kind": "personal",
+     "name": "ashok-ksharma",
+     "commits": 5
+    },
+    {
+     "email": "mdtarique2703@gmail.com",
+     "where": "GitHub commits (mosip)",
+     "kind": "personal",
+     "name": "tarique-azeez",
+     "commits": 5
+    },
+    {
+     "email": "prafulrakhade02@gmail.com",
+     "where": "GitHub commits (mosip)",
+     "kind": "personal",
+     "name": "Praful Rakhade",
+     "commits": 5
+    },
+    {
+     "email": "chetankumar.h.239@gmail.com",
+     "where": "GitHub commits (mosip)",
+     "kind": "personal",
+     "name": "Chetan Kumar Hirematha",
+     "commits": 5
+    },
+    {
+     "email": "aravindh2090@gmail.com",
+     "where": "GitHub commits (mosip)",
+     "kind": "personal",
+     "name": "Aravindhan Alagesan",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "9d54907ac2",
+   "company": "HackerEarth",
+   "website": "https://www.hackerearth.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, JavaScript, Python",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "contact@hackerearth.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "00e92e872a",
+   "company": "Uncountable",
+   "website": "https://uncountable.com",
+   "title": "See posting",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-01T19:17:24Z",
+   "posting": "Uncountable | NY, SF, London & Toronto (In-Person) | Full-Stack Engineering https://www.uncountable.com/hiring/hn Uncountable accelerates R&D for industrial scientists across leading materials, chemicals, and life sciences organizations. With our SaaS solution, our customers get better products to the market in half the time. Our team has grown from 100 to 200 in the last year. Full-Stack Engineers | $130k - $220k + Equity ---> Uncountable is looking for engineers who can spearhead the development of the Uncountable Web Platform. The position is heavily product-driven and comes with challenges across the stack. --> Summer internships and working student positions are also available. Learn more: https://www.uncountable.com/hiring/hn Learn about our agentic coding practices: https://engineering.uncountable.com/coding/ . Contact our CTO directly at jason@uncountable.com",
+   "site_text": "[https://www.uncountable.com/]\nAI Platform for R&D, QC & PLM Data | Uncountable Live Webinar on 11/19: “The $10 Billion Formula in Cell B12: Discover The Next Viral Product in F&B” – Register Today Request Demo The AI Platform for End-to-End Product Development One modular platform for R&D, QC, and PLM data. Uncountable is the market-leading AI platform that unifies product data across the full lifecycle: delivering traceability, compliance, and faster decisions from ideation to commercialization. Request Demo Our Valued Customers Meet Bodie Meet Bodie, your new AI Assistant Your data’s already in the platform. Bodie is the layer that makes it conversational. Bodie is designed to make search, analysis, and reporting easier and more automated across your work. Ask it to find an experiment, summarize a project, generate a visualization, or write up a notebook, and it does it, right in the platform. What Bodie does Search and discovery Find recipes, ingredients, outputs, and notebooks across the platform. Automated insight generation Turn a prompt into an in-depth, data-driven report, reducing the need for manual notebook creation. Summarize your knowledge Generate summaries and answer technical questions based on your project data and reports. Plots and visualizations Create charts from plain language. Direct platform actions Edit tables, create records, and update fields. DOE Copilot Help set up and understand designed experiments using your project ’ s own data. Already an Uncountable customer? You can tell if Bodie is active by the Bodie logo in the bottom left. If you don ’ t see it, ask your Account Manager how to turn it on. Industries Industry Specialties Uncountable's market-leading platform was designed by a team of industry experts, for industry experts. Our mission is to provide each one of our customers with a tailored solution that meet their unique industry and organizational needs. Chemicals Coatings & Paints Cosmetics Personal Care Bio-Based Chemicals Petrochemical Catalyst View more Advanced Materials Batteries Composites Plastics & Compounding Rubber Construction Materials See full list Pharma & Biotech Small Molecule Biologics CAR-T Gene Therapy Biomaterials Learn more Food & Agriculture Alternative Proteins Enzymes Plant Engineering Crop Protection Read more St. Jude Children’s Research Hospital and Uncountable St. Jude’s Children’s Hospital is researching the structures of previously unknown cancer forms to fight against pediatric diseases. Recently, Uncountable joined that fight by providing the hospital with a platform to make information accessible, develop time-saving metrics, and deliver comprehensive ways to store data. Read Case Study Natural Fiber Welding Natural Fiber Welding (NFW) develops sustainable performance materials, striving to enable a plastic-free future. Uncountable provides the backbone to NFW’s R&D data infrastructure enabling the organization to develop new products faster and manage their knowledge in a single platform. Read Case Study Repsol and Uncountable Global multi-energy company Repsol is leading the energy transition by achieving zero net emissions by 2050. Uncountable recently aided the company in its mission by delivering a platform that allows scientists to more efficiently analyze the libraries of data explored in the pursuit of a minimized carbon footprint. Read Case Study Carbon Carbon, a 3D printing technology company founded in 2013, has played a major role in advancing digital production. With offerings from 3D printers to cloud-based design tools to the materials themselves, Carbon helps businesses develop better products and bring them to market faster. Uncountable provides Carbon’s Materials Team a best in class digital solution to manage, connect, and analyze their most valuable data. Read Case Study Cooper Standard Cooper Standard is a leading global supplier of systems and components for the automotive industry. With 70 scientists and technicians working across",
+   "email_candidates": [
+    {
+     "email": "jason@uncountable.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  }
+ ]
+}

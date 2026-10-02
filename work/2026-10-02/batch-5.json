@@ -1,0 +1,1021 @@
+{
+ "leads": [
+  {
+   "id": "da70a2b013",
+   "company": "Neuralwatt",
+   "website": "https://neuralwatt.com",
+   "title": "https://neuralwatt.com",
+   "location": "REMOTE",
+   "source": "hn_hiring",
+   "posted_at": "2026-09-01T15:28:52Z",
+   "posting": "Neuralwatt | https://neuralwatt.com | REMOTE | Seattle or Denver/Boulder metros | Full-time Hiring: 2 Engineers + Director of Sales & Operations Energy is becoming one of the biggest constraints on AI infrastructure. Neuralwatt is building software to help datacenters get more useful AI compute and revenue from every kilowatt. We're a VC-backed early-stage startup working on GPU optimization, AI infrastructure, energy-aware control systems, and the Neuralwatt Cloud. $180k to $220k DOE + equity You'll work on: Rust and Python, GPU, inference, and datacenter optimization, Production AI infrastructure, Energy-aware scheduling and control, Neuralwatt Cloud Director of Sales & Operations We're looking for someone with datacenter industry experience to build sales channels, partnerships, and customer relationships, support company operations, and help drive growth. Comfort using modern AI and agent tools is required. Location: Remote-first, but you must be based in the Seattle or Denver/Boulder metro areas. No visa sponsorship available. To apply: hiring@neuralwatt.com Subject: HN Hiring ( / ) Include your resume, GitHub or relevant work profile, and a short note on why you're interested in AI and energy.",
+   "site_text": "[https://neuralwatt.com/]\nRun 8 GPUs on Power of 6 | Neuralwatt AI Power Efficiency Introducing Neuralwatt Cloud → Energy-Optimized AI Inference Get more AI from the power you already have Improve tokens per watt, reclaim stranded power, and increase GPU density. Power efficiency for AI factories. Watch 2-Min Demo What if you could get 33% more AI output from your existing power envelope? Neuralwatt helps you increase GPU density and inference throughput by reclaiming stranded power—without expanding your power infrastructure. Three Ways We Maximize Your Power Increase GPU Density Run more GPUs per rack. More inference per kilowatt. More revenue per square foot. Utilize All Available Power Turn stranded capacity into revenue. Scale workloads to match power availability. Flex Power Consumption Based Upon Grid Demand Lower cooling requirements. Decrease carbon intensity. Extend hardware lifespan. Power Efficient AI Inference We offer a self hosted AI cloud that provides the most power efficient AI inference. We can serve a wide variety of frontier AI models with low latency, high throughput, and minimal power consumption. TRY IT NOW\n\n[https://neuralwatt.com/our-company]\nOur Company | NeuralWatt AI Power Management Experts Introducing Neuralwatt Cloud → Energy-Optimized AI Inference Our Mission We’re led by power industry veterans who've saved millions in energy costs at Microsoft and designed power-management chips at Intel. We exist to make AI abundance possible, by empowering companies to make the most of the power they’re already using. Backed by the Best Our Team Chad Gibson Co-Founder / CEO Scott Chamberlin Co-Founder / CTO Jack Policar Advisor Joey Thometz Principal Engineer Nate Underwood Director of Partnerships In The News August 11, 2026 A Joint Statement from Neuralwatt & GreenPT If you believe AI should be built responsibly, share this. The decisions being made in the next eighteen months will outlive every model we’re excited about today, and the communities carrying their cost deserve proof that the capacity was necessary. Read More August 3, 2026 Reviewing K3, DSv4F, and GLM5.2 Models for Real-world Energy Impact We review real world energy insights from the latest open weight models on Neuralwatt Cloud. Read More July 15, 2026 Scaling AI Responsibly: H1 2026 in Review For the most part, the industry's answer to AI's growth has been more. More data centers, more power, more scale. Gigawatts of new demand, billions in new construction, and a race to secure capacity that treats energy as an asset to acquire rather than an asset to manage. But scale that only the biggest players can afford isn't the future of AI, it's the bottleneck. When we launched Neuralwatt, we started from a different conviction — AI grows farther, faster, and more responsibly when the power we already have works harder, and when the economics work for everyone building with it. When you measure energy and optimize it, cost, performance, and sustainability stop pulling against each other. Six months into 2026, and our thesis is holding. Developers proved the demand. In March, we launched Neuralwatt Cloud featuring energy-based pricing, one of the only platforms in the industry to price AI this way. Instead of paying for an arbitrary token count, you pay for the actual compute your request uses. Leaner models and smarter prompts cost less, and efficiency benefits those building with AI. Since launching Neuralwatt Cloud, inference volume has doubled month over month, evidence of a market that has been waiting for AI to be priced honestly. Energy-based pricing also means every team pays for what their requests actually consume, and our new Allowance feature keeps that spend exactly where you set it, with built-in limits by key, session, or agent. For enterprises, that means precision and predictability at scale. And for the developers and startups building on open-weight models, AI becomes affordable at any size. Responsibility at scale. Pricing AI",
+   "email_candidates": [
+    {
+     "email": "hiring@neuralwatt.com",
+     "where": "job posting",
+     "kind": "hiring"
+    },
+    {
+     "email": "info@neuralwatt.com",
+     "where": "https://neuralwatt.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "chad@neuralwatt.com",
+     "where": "https://neuralwatt.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "e93dcdf502",
+   "company": "Bolna AI",
+   "website": "https://bolna.ai",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "Bengaluru, KA, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 21. Voice AI to enable India's next billion Bolna handles the complexity of voice infra, so enterprises can automate calls faster, better, and cheaper, at scale Bolna is a Voice AI Orchestration platform purpose-built for Indian enterprises. Businesses in India run tens of thousands of calls every day - across sales, support, collections, recruitment, and more. Bolna gives them the power to build and deploy Voice AI Agents directly from their transcripts and FAQs, so they can start automating calls immediately. With Bolna, enterprises get: 1. Full control over agent intelligence, tone, and workflows 2. Cost efficiency at scale with smart routing across providers and price points 3. Enterprise-grade performance on latency, interruptions, multi-language, and multi-accent understanding Artificial Intelligence, B2B, Infrastructure, Conversational AI, B2B, India, South Asia, Remote, Partly Remote",
+   "site_text": "[https://www.bolna.ai/]\nVoice AI Agents for Indian Languages | Bolna AI Symphony 2026 — India’s biggest Voice AI summit. Early bird tickets now live. Backed by Voice AI Built for India Power thousands of inbound and outbound calls every minute with human-like, multilingual intelligence Experience Bolna 1000+ Companies rely on Bolna to power their Voice AI Stack across 10+ vernacular Indian languages including Hinglish, Hindi, Tamil, Telugu. BOLNA FOR ENTERPRISES Seamlessly Build, Test, Deploy, and Scale Conversational Voice AI Agents. Go from idea to live calls in minutes, not weeks. CONTACT US Talk to Bolna Have questions? Give our AI Agent a call and we'll help you get started. +91 22 6953 9260 OUR AGENTS Agents That Do More Than Just Talk Create Voice AI agents for India that sound natural, understand context and take action that business oriented results without increasing your team size. BFSI Ecommerce EdTech HealthTech Hospitality Reminders Agent Reminders English + Hindi Automates all reminders, from EMIs and collections to form filling deadlines Play Demo Clone Agent +918035317402 Customer Support Agent Customer Support English Provides 24/7 inbound call answering for FAQs and customer triage Play Demo Clone Agent +918035317400 Lead Qualification Agent Lead Qualification Hindi Calls every lead to ask qualifying questions, answer FAQs, and warmly introduces the business Play Demo Clone Agent +918035317443 Announcements Agent Announcements English + Hindi Keeps users engaged with all feature upgrades and product launches Play Demo Clone Agent +918035317403 HOW IT WORKS Built for Developers, Easy for Everyone Whether you're a no-code builder or a developer, Bolna makes it easy to create powerful conversational voice AI agents that understand Indian languages and accents. Build and scale multilingual voice bots using simple clicks or code control. NO-CODE PLAYGROUND STEP ONE Connect Account 1 Sign in to the Dashboard STEP TWO Configure Agent 2 Choose a pre-built template or build from scratch STEP THREE Click to Call 3 Trigger calls, campaigns or connect agent with your phone number DEVELOPER APIs api-integration Python Py JavaScript JS cURL cURL 1 import requests 2 3 url = \"https://api.bolna.ai/call\" 4 5 payload = { 6 \"agent_id\" : \"123e4567-e89b-12d3-a456-426655440000\" , 7 \"recipient_phone_number\" : \"+10123456789\" , 8 \"from_phone_number\" : \"+19876543007\" , 9 \"user_data\" : { 10 \"variable1\" : \"value1\" , 11 \"variable2\" : \"value2\" , 12 \"variable3\" : \"some phrase as value\" 13 } 14 } 15 16 headers = { 17 \"Authorization\" : \"Bearer <token>\" , 18 \"Content-Type\" : \"application/json\" 19 } 20 21 response = requests . request ( \"POST\" , url , json = payload , headers = headers ) 22 23 print ( response . text ) FEATURES Features That Power Real Voice Agents With integrated speech, telephony, and APIs, Bolna provides everything you need to take your idea into secure, production-ready deployment. Bulk Calling at Scale Run campaigns with thousands of AI calls simultaneously. Custom API Triggers Call external APIs in real-time during a live conversation. Human-in-the-Loop Transfer call to a human agent instantly when needed. Workflow Integration Easy to integrate with n8n, Make.com, Zapier, and other tools Multilingual Converse fluently in 10+ Indian and foreign languages. Natural Conversations Agents understand interruptions, reply with <300ms latency. Connect Any Model Integrated with 20+ ASR, LLM, and TTS models. Enterprise Plans Best-in-class pricing and Forward Deployed service. 100% Data Privacy India / USA specific data residency, on-prep deployment. Model Switching Run each call with models suited best for your use case. CASE STUDIES Helping Companies Scale their Call Operations Explore how top organisations leverage Bolna's Voice Agents to Streamline Internal Workflows, Improve Efficiency, and stay competitive in the age of AI. Read Full Story “ Awign automated technical screening with Bolna's Voice AI - faster interviews, structu",
+   "email_candidates": [
+    {
+     "email": "hello@bolna.ai",
+     "where": "https://www.bolna.ai/contact-us",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "fbdca525d3",
+   "company": "Location: Lahore, Pakistan Remote: Yes",
+   "website": "",
+   "title": "See posting",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-09-09T12:27:50Z",
+   "posting": "Location: Lahore, Pakistan Remote: Yes Willing to relocate: Yes Technologies: Ruby on Rails | React js | Typescript | PHP Laravel | MySQL | Psql | AWS Résumé/CV: https://drive.google.com/file/d/1Q6IQrVH3llpEqX0CRt_YzN08_Jf... Email: afzalali2728@gmail.com",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "afzalali2728@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "b73f7c5470",
+   "company": "OpenSanctions",
+   "website": "https://opensanctions.org",
+   "title": "Product Engineer",
+   "location": "Berlin, Germany / REMOTE (CET ±3 preferred)",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-01T15:23:01Z",
+   "posting": "OpenSanctions | Product Engineer | Berlin, Germany / REMOTE (CET ±3 preferred) | Freelance / employment OpenSanctions is a small, bootstrapped company building an open source database of sanctioned people and companies, politicians, and other entities of public interest. Journalists use it for investigations; hundreds of businesses use it for compliance screening. I'm looking for a product engineer to own the systems around our commercial product: customer signup and lifecycle management, billing, reporting and analytics, and tools for our support team. You'd work across Python, SQL, and React/Next.js. You'll be empowered to decide what to build, working with the people who use these systems. We hope to ship improvements continuously and see what works quickly. We're remote first, with a desk in Berlin if you want one. This is a freelance role with an option to go for employment. We're reviewing applications on a rolling basis. Not considering agencies. Details: https://www.opensanctions.org/docs/company/jobs/2026-09-prod... Please apply through the form linked in the job description - no cover letter, just share some basic facts please :)",
+   "site_text": "[https://www.opensanctions.org:443/]\nOpenSanctions: The open database of sanctions, PEPs and watchlists Supreme Data on Supreme Leaders The open-source database of sanctions, watchlists, and politically exposed persons — aggregating hundreds of sources and relied on by compliance teams, investigators, and journalists. 1,990,601 entities · 467 data sources · updated 2026-10-02 · bulk data · screening tool People and companies that matter Persons of interest data provides the key that helps analysts find evidence of sanctions evasion, money laundering and other criminal activity. Clean and transparent data Our open source data pipeline takes on the complex task of building a clean, de-duplicated, and well-understood dataset . Sources with global scope We integrate data from 467 global sources, including official sanctions lists , data on politically exposed persons and entities of criminal interest. Use OpenSanctions to manage business risk OpenSanctions is free for non-commercial users. Business and commercial users must either acquire a data license to use our high-quality dataset, or subscribe to our pay-as-you-go API service. Use the API License bulk data What we’ve been building RSS Updates from OpenSanctions, including new features, technical deep dives, and analysis. Previous articles Technical changelog Recent dataset additions Join our discussions Newsletter Monthly news about product and data coverage improvements. Going 007: An agent toolkit for talking to the OpenSanctions API Tags: SDK, CLI, MCP · Published: 2026-09-24 If an LLM agent is going to run your sanctions screening, you need to know exactly what it's checking — and be able to prove it. yente-client provides an SDK, CLI, and MCP server rolled into one toolkit, with our open matching engine running underneath. Here's what each layer does, and why data provenance will matter more, not less, as compliance workflows continue to go agentic. Lost in translation: Standardizing our name-cleaning framework Tags: Semantics, Names, Name cleaning · Published: 2026-09-09 We collect, clean, and aggregate data from hundreds of sanctions lists, watchlists, and PEP registries worldwide. Our name-cleaning framework is designed to provide a culturally aware approach while ensuring all sources enter OpenSanctions speaking one data language. Down the ownership chain: introducing sanction.control Tags: Company ownership, OFAC, Assets, Risk tagging · Published: 2026-07-31 We now distinguish ownership from adjacency when annotating related entities. sanction.control captures subsidiaries, assets, and vessels anywhere in a sanctioned party's ownership chain, while sanction.linked is reserved for plain adjacency. How Marble built on top of our open-source matcher Tags: Marble, Open infrastructure, yente · Published: 2026-07-20 Our open methodology enabled transaction monitoring provider Marble to build on top of our matching algorithms without reinventing the wheel. It led to Motiva: a reimplementation optimized to handle high-concurrency, real-time screening. And it shows the power of an open ecosystem for the wider industry. How we’re adding PEP data sources faster: The Australian example Tags: PEP, Australia, Tranche 2 · Published: 2026-07-01 Tranche 2 reforms will see AML screening and monitoring requirements extended to a range of Australian industries. Below, we explain how our tooling investments have enabled us to delve into Australia’s political structure to efficiently deepen and expand our PEP data. Collections & datasets JSON Collections are data distributions provided by OpenSanctions that combine entities from many sources based on a topic. Learn more... Consolidated Sanctions 103,594 entities Consolidated list of sanctioned entities designated by different countries and international organisations. This can include military, trade and travel restrictions. OpenSanctions Default 1,990,601 entities This distribution includes the data collected by OpenSanctions that meets",
+   "email_candidates": [
+    {
+     "email": "info@opensanctions.org",
+     "where": "https://www.opensanctions.org:443/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "3e81f88e60",
+   "company": "Evoqys",
+   "website": "https://evoqys.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Ghaziabad",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Alleviate Software Development Organization. Languages: Dart, HTML, TypeScript",
+   "site_text": "[https://evoqys.in/]\nEvoqys — AI-Powered Software Engineering Live AI-First Software Engineering We build software that thinks with Artificial Intelligence Evoqys fuses deep AI capabilities with precision engineering — delivering web, mobile, and intelligent automation that doesn't just work, it evolves . Start a project See our work 50+ Projects delivered 4+ Years of expertise 3× Faster with AI tooling 100% Client satisfaction LangChain RAG Pipelines n8n Automation React & Next.js React Native Flutter Node.js OpenAI API Vector Databases Agentic Systems LLM Fine-tuning CI/CD DevOps LangChain RAG Pipelines n8n Automation React & Next.js React Native Flutter Node.js OpenAI API Vector Databases Agentic Systems LLM Fine-tuning CI/CD DevOps The Evoqys Advantage AI isn't a feature. It's the foundation. Every product we build is architected with intelligence at its core. We embed LLMs, retrieval pipelines, and autonomous agents directly into your software — not as add-ons, but as load-bearing pillars. 🧠 LangChain & RAG Architectures Intelligent Q&A, document retrieval, and context-aware AI assistants that understand your data at depth. ⚡ n8n Workflow Automation AI-triggered pipelines that connect your entire tool stack and eliminate repetitive work — permanently. 🤖 Agentic Systems Autonomous AI agents that plan, reason, and act across multi-step processes with minimal human oversight. User Query Document Store External APIs ▼ RAG + LangChain Pipeline ▼ 🤖 AI Reasoning Engine ▼ Intelligent Output ▼ Web App Mobile App n8n Workflow Vector DB Embeddings Fine-tuning What We Build End-to-end software, supercharged by AI From concept to production — every layer engineered with care, velocity, and intelligence. 🌐 Web Applications Scalable, blazing-fast web apps built with React, Next.js, and Node.js — designed for real users and real scale. React Next.js Node.js 📱 Mobile Applications Cross-platform apps with React Native and Flutter — high-performance, pixel-perfect, and AI-ready from day one. React Native Flutter iOS/Android 🤖 AI & LLM Solutions Custom AI assistants, chatbots, and intelligence layers using LangChain, OpenAI, and RAG for your specific domain. LangChain RAG LLMs ⚙️ Workflow Automation Replace manual processes with intelligent n8n automations that connect your tools, trigger on events, and run 24/7. n8n Pipelines Webhooks 🚀 DevOps & CI/CD Automated deployment pipelines and monitored rollouts — ship confidently, frequently, and safely at any scale. Docker GitHub Actions AWS/GCP 📊 Data & Analytics Turn raw data into actionable insight with dashboards, ETL pipelines, and AI-powered analytics for your business. Vector DB Embeddings Dashboards How We Work From first call to production — zero ambiguity 01 Discovery We deeply understand your problem, users, and goals before a single line is written. 02 Architecture We design the full technical and AI architecture — choosing the right tools for the right job. 03 Build Agile sprints, clean code, continuous demos. You see real progress weekly, not just at the end. 04 Deploy Automated CI/CD, thorough testing, and monitored rollout — we ship with confidence. 05 Evolve Post-launch we maintain, retrain models, and iterate as your product grows and learns. Technology Built on the tools that matter We don't chase hype. We pick the right technology for each challenge and master it. ⛓️ LangChain 🔀 n8n 🧩 RAG ⚛️ React ▲ Next.js 🟢 Node.js 📱 React Native 🐦 Flutter 🐍 Python 🤖 OpenAI 🗄️ Pinecone ☁️ AWS / GCP Our Promise We don't just write code. We engineer outcomes. Every project gets our full focus, best thinking, and the honest commitment that what we ship will work in the real world — not just in demos. 3× Faster time-to-market with AI-assisted development 60% Cost reduction through intelligent automation ∞ Scalability — systems that grow with your business Who We Are Engineers who think in AI Evoqys is a team of software engineers and AI specialists who believe the next generation of products mus",
+   "email_candidates": [
+    {
+     "email": "info@evoqys.in",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "hello@evoqys.in",
+     "where": "https://evoqys.in/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "195231bcb9",
+   "company": "Team Conatus",
+   "website": "https://teamconatus.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Ajay Kumar Garg Engineering College, Ghaziabad",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Jupyter Notebook, Python",
+   "site_text": "[https://teamconatus.com/]\n00 crafted for the exceptional TEAM CONATUS is a members-only club that enables the technically exceptional to make technical progress 9:41 ð¶ FLAGSHIP EVENT Recursion '24 CODING CONTEST Clash of Devs BOOTCAMP C Classes HACKATHON Recursion '20 9:41 ð¶ TECH SYMPOSIUM TechnoConclave COMPETITION Game of Code WORKSHOP Code Crunch TREASURE HUNT Chamber of Secrets 9:41 ð¶ ANNUAL FEST Odyssey DEVELOPMENT WebShop CHALLENGE Realm of Code EXPOSITION Team Conatus Summit PYTHON â REACT â FIGMA â FLUTTER â SWIFT â C++ â NODE JS â AWS â EXPRESS JS â ML FUNDAMENTALS â DSA â UI/UX â OPEN SOURCE â CLOUD & DEVOPS â BLOCKCHAIN â UI/UX DESIGN â IDENTITY ABOUT US Who We Are Team Conatus is the technical society of Computer Science and Information Technology in Ajay Kumar Garg Engineering College which brings to its students the illumination of the knowledge glow in IT sphere with its marvellous events, workshops and seminars. Founded on 10th October, 2005. Dr. Anu Chaudhary H.O.D, Computer Science & Eng. Prof. Rahul Sharma H.O.D, Information Technology Mr. Manish Kumar Faculty Coordinator, CSE What we do Web & App Development, Machine Learning & UI/UX Design. DOMAINS Off the top sheet. We dive deep into every aspect of computing, crafting specialized paths for engineers to become leaders. 01 WEB DEV Web Development Ship production-grade web applications, design scalable backend microservices, and configure robust system architectures. Est. 2005 02 APP DEV App Development Craft beautiful and highly performant native mobile applications, leveraging modern cross-platform engines and frameworks. Est. 2012 03 ML & AI Machine Learning Train deep neural models, analyze complex datasets, build computer vision / NLP pipelines, and deploy automated systems. Est. 2017 04 UI/UX UI/UX Research user behaviors, draft wireframes, craft pixel-perfect mockups, and develop cohesive digital design systems. Est. 2014 TEAM CONATUS PROOF the proof writes itself. Abhishek Sharma Designer Abhishek Sharma Designer GitHub LinkedIn Aikansh Tiwari APP Developer Aikansh Tiwari APP Developer GitHub LinkedIn Aman Verma Web Developer Aman Verma Web Developer GitHub LinkedIn Ananya Jain Web Developer Ananya Jain Web Developer GitHub LinkedIn Apurva Krishna Singh Designer Apurva Krishna Singh Designer GitHub LinkedIn Ayush Agarwal ML Ayush Agarwal ML GitHub LinkedIn Ayushi Chaudhary Designer Ayushi Chaudhary Designer GitHub LinkedIn Bhavya Mittal ML Bhavya Mittal ML GitHub LinkedIn Chirag Bhardwaj App Development Chirag Bhardwaj App Development GitHub LinkedIn Krishna nishad Video editor Krishna nishad Video editor GitHub Kushagra Gupta App Developer Kushagra Gupta App Developer GitHub LinkedIn Mitanshu Agrawal Web Developer Mitanshu Agrawal Web Developer GitHub LinkedIn Nitish Kumar Designer Nitish Kumar Designer GitHub LinkedIn Nishita Agrawal Web Developer Nishita Agrawal Web Developer GitHub LinkedIn Prajjwal tripathi App Developer Prajjwal tripathi App Developer GitHub LinkedIn Prajjwal Vajpayee Web Developer Prajjwal Vajpayee Web Developer GitHub LinkedIn Prakhar Garg ML Prakhar Garg ML GitHub LinkedIn Riddhima Singhal ML Riddhima Singhal ML GitHub LinkedIn Sahil Srivastava App Developer Sahil Srivastava App Developer GitHub LinkedIn Shashank Sahu APP Developer Shashank Sahu APP Developer GitHub LinkedIn Shreya goel App Developer Shreya goel App Developer GitHub LinkedIn Abhishek Sharma Designer Abhishek Sharma Designer GitHub LinkedIn Aikansh Tiwari APP Developer Aikansh Tiwari APP Developer GitHub LinkedIn Aman Verma Web Developer Aman Verma Web Developer GitHub LinkedIn Ananya Jain Web Developer Ananya Jain Web Developer GitHub LinkedIn Apurva Krishna Singh Designer Apurva Krishna Singh Designer GitHub LinkedIn Ayush Agarwal ML Ayush Agarwal ML GitHub LinkedIn Ayushi Chaudhary Designer Ayushi Chaudhary Designer GitHub LinkedIn Bhavya Mittal ML Bhavya Mittal ML GitHub LinkedIn Chirag Bhardwaj App Development C",
+   "email_candidates": [
+    {
+     "email": "conatus@akgec.ac.in",
+     "where": "job posting",
+     "kind": "other"
+    },
+    {
+     "email": "divyapal065@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "originehsan@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "guptaishika1208@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "kushagradpr2005@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "lavipandit123@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "anukriti.1911@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "happyhome18110@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "irudraxofficial@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shubhgupta4102@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "tanisha4bhatt@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "jaiswal.yuga7@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "abhaypratapsingh2993@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "av479175@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "varshneydev365@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "dhairyaadr@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "jiyas4870@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "priyanksing09@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "ritikakatta24@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shashankcr76@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "agarwalsomya224@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "suhanisri27505@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "swastikasingh1055@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "vidhiguptaengg007@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "abhisheksharma281203@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "aikanshtiwari007@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "av3497924@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "jainananya355@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "krishnapurva1904@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "officialayush025@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "ayushichaudhary7505@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "bhavyamittal08092003@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "mohitshadeja.ms@hotmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "krishnanishad52513@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "helldrider001@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "mitanshuagrawal5@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "agrawalnishita08@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "prajjwal026@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "prajjwalvajpayee12@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "prakhar.93761@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "riddhima7321@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "sahilsrivastava2003@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shashanksahu87070@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "goyalshreya54@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "anirudhdevs911@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "anni.agg2003@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "anshulkapoor306@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "bidurgupta125@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "divysharma029@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "gagantayal2003@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "kajalgera0212@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "kinjalk.8hokage@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "manish123hello@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "kushwahapraveen0507@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "varyanipriyanshi@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "saumyasri1914@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "alimohdshadab63@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shorya8990@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "siddharthsingh0802@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "bansalsneha0502@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "snehajais270703@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "tarunsri0017@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "vaibhavsaran01@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "saxenavatsala28@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "abhishekrajv1408@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "anuanurag1499@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "bhagrawal24@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "deekshajindal058@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "devanshigarg2002@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "dhruvag911@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "singhitisha1902@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "deeku2117@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "manu31shukla@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "nitishchaurasiya3470@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "paras.ag94@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "payal.khatri02@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "poonam82872@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "sahilguptautkarsh@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "samikshamau5678@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "sankalpsri110@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "chaudharysaumya25@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "bajpaisharanya@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "iamshivikatyagi@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "swatiagarwal1752@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "vaibhav14yadav@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "anushthaniranjan@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "yadavaj582000@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "chaitanyasingh006@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "saxenachetna30@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "agarwalchirag112@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "garimamittal101@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "harshit12shukla@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "mittal.ishika11@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "ishwamgarg19@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "srivastava.manu2000.ms@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "md.anas1503@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shivamgupta1281@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shreyam803@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "tyagisnigdha1212@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "msparsh0044@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "sudheersid0710@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "aatmvipin@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "yashsahu77050@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "anandsrivastav228@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "ianushkamishra29@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shuklaashutosh955@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "avanimittal2810@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "harshgupta.80700@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "madhursaxena140899@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "navis1172000@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "nikhil9530175113@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "piyushshukla2100@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "rishabh131199@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "riyavaryani01@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "sagaradval@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "78sakshiyadav@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shouryadevatrey@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "simranchadda123@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "tanishq16verma@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "chakravartyutkarsh@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "abhinavsrivastavaazm@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "adeshkhanna271@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "arshahmadhdi@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "ayushkumar8797@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "devanshugautam721@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "ektacse17@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "imanvisrivastava@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "bhatiamanya91@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "sayashchaudhary@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "alisaban52@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shikharagarwal207@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shubhangishrivas96@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "guptasparsh0198@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "tanyaagarwal9722@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "srinya2598@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "pandey.aditya97@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "yadavamritanshami@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "igarg145@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "naimishverma50@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "me.prakharagarwal@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "preetdewan970@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "sharma.rachit2107@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shailygupta798@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "mail2ajmal25@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "akshaya.a013@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "gupta.apoorv1396@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "arjun9rajput@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "arya.ayush15@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "tabishjaved2@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "omsingh10@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "parasgr484@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "piyush.piyush619@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "prathnaagarwal20@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "pratiksha070497@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shan.raghuvansh.03@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "shub.prakash9001@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "tanyabaranwal394@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    },
+    {
+     "email": "arnav2000agr@gmail.com",
+     "where": "https://teamconatus.com/team.html",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "053637637c",
+   "company": "NewsCatcher",
+   "website": "https://newscatcherapi.com/",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "Kyiv, Ukraine; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 22. Turning the web into a structured database of real world events. CatchAll by NewsCatcher is a recall-first web search API built for queries where the results are spread across hundreds or thousands of pages on the web. Instead of returning the top ranked links like traditional search engines, CatchAll retrieves a large candidate set from the web, validates which pages actually match the query, and extracts structured records of real-world events. Developers and data teams use CatchAll to answer “long-list” questions such as tracking regulatory actions, funding rounds, product launches, corporate expansions, or cybersecurity incidents. The output is not just links but clean, deduplicated datasets that can power AI agents, monitoring systems, analytics pipelines, and market intelligence workflows. CatchAll runs on the data infrastructure developed by NewsCatcher, which continuously indexes millions of articles and public web pages across a global network of sources. Artificial Intelligence, SaaS, Enterprise, Big Data, Enterprise Software, B2B, Analytics, Ukraine, Europe, Remote, Fully Remote",
+   "site_text": "[https://www.newscatcherapi.com/]\nNewsCatcher: Web & News Search API for AI Agents PRODUCTS APIs News API Clean, enriched, ready-to-use news data Web Search API Recall-first web search API for AI Monitors Event Monitors Track any event on a schedule Company Monitors Track a set of companies for new coverage Technology How it works Discover how our API processes data to deliver unmatched insights Entity Resolution Ensure every article pinpoints the exact company or individual you’re tracking Localized News Get ultra-granular, location-focused news PRODUCTS RESOURCES Case Studies Dive into case studies showcasing how our API powers innovation across industries About Us Who we are, what drives us, and how we measure success Blog We cover the tech stories that matter Company About Us Who we are, what drives us, and how we measure success Careers Explore roles with responsibility, growth, and real impact Roadmap Transparent view of planned releases, improvements, and innovation ahead Security & Compliance For the most sensitive matters FAQs Quick help and guidance Security & Compliance ISO clients F1000-trusted SOC2 Type II GDPR-ready see all certificates Pricing DOCS Try API for free Book a Demo Try API for free Book a Demo APIs News API Clean, enriched, ready-to-use news data Web Search API Recall-first web search API for AI Monitors Event Monitors Track any event on a schedule Company Monitors Track a set of companies for new coverage How it works Discover how our API processes data to deliver unmatched insights Entity Resolution Ensure every article pinpoints the exact company or individual you’re tracking Localized News Get ultra-granular, location-focused news Case Studies Dive into case studies showcasing how our API powers innovation across industries About Us Who we are, what drives us, and how we measure success Blog We cover the tech stories that matter About Us Who we are, what drives us, and how we measure success Careers Explore roles with responsibility, growth, and real impact Roadmap Transparent view of planned releases, improvements, and innovation ahead Security & Compliance For the most sensitive matters FAQs Quick help and guidance Security & Compliance ISO clients F1000-trusted SOC2 Type II GDPR-ready see all certificates The web logs everything. We make it searchable. Our products Our products 01 Web Search API Find every relevant event on the open web, with 86% recall across 2B+ pages. Learn more 02 News API Search and stream news from 140k+ sources. Filter by language, country, entity, or topic. Learn more 03 Company Monitors Track a list of companies and surface every event that matters, deduplicated and continuously updated. Learn more 04 Event Monitors Set a query once. New events arrive on schedule, pushed to your webhook. Learn more Why it’s better Global coverage Actionable insights from thousands of credible sources across 100+ countries. Real-time Get the signals you care about into your system within minutes. Scale & security Built to handle millions of articles daily. 99.99% uptime. SOC2-level protection. Custom setup Tailored to your tech environment—from Slack to Snowflake. Cross-industry solutions Risk & Threat Intelligence Spot risk before it hits—credit downgrades, lawsuits, protests across sectors. Regulatory Monitoring Track narrative shifts—from FDA decisions to ESG controversies in real time. Market Intelligence Map vendor, logistics and geopolitical risks directly into your systems. Supply Chain Oversight Decode market-moving stories—from new tariffs to factory accidents or transportation strikes. Use Cases Overview Built to fit how your sector operates Industries Overview AI Platforms Real-time factual data for LLMs and agents Financial Services & Banking Local signals for market shifts, M&A and regulation Government Key Insights from geopolitical, legal, and public signals Construction & Real Estate Early notices for zoning delays and protests Defense & Security Timely alerts for situa",
+   "email_candidates": [
+    {
+     "email": "oleksa.sirenko@gmail.com",
+     "where": "GitHub commits (NewscatcherAPI)",
+     "kind": "personal",
+     "name": "Oleksandr Sirenko",
+     "commits": 34
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "1132e48ad7",
+   "company": "Newton's Tree",
+   "website": "https://newtonstree.com",
+   "title": "Forward Deployed Engineer, Site Reliability Engineer",
+   "location": "London, UK",
+   "source": "hn_hiring",
+   "posted_at": "2026-09-08T10:30:06Z",
+   "posting": "Newton's Tree | Forward Deployed Engineer, Site Reliability Engineer | London, UK | HYBRID | Full-Time | https://www.newtonstree.ai/ Newton's Tree is an early-stage health-tech startup enabling healthcare providers to select, test, deploy, and monitor third-party AI applications as part of routine care pathways. Our enterprise AI platform allows hospitals to safely and effectively adopt AI technologies at scale. We are looking for adventurous builders to join us in two key roles to help bridge our platform and the hospital frontline: Forward Deployed Engineer (£70k-£90k): You will be the critical link between our internal engineering team and hospital IT teams. While our SRE team focuses on core platform stability, you will own the site-specific implementations—navigating complex local networks, architecting integration paths, and ensuring our AI platform works across diverse environments. Stack: Linux, Kubernetes, JSON/YAML, Python, SQL, and healthcare interoperability standards (HL7v2, FHIR, DICOM). https://www.newtonstree.ai/job/forward-deploy-engineer Site Reliability Engineer (£70k-£90k): You will ensure the reliability, scalability, and performance of our AI platform both in hospital sites (on-prem) and on the cloud. You'll work closely with customers to install hardware for Kubernetes clusters and collaborate with dev teams to ensure swift, reliable feature deployments. Stack: Linux, Kubernetes, Terraform, Ansible, GitOps (FluxCD), Argo Workflows, Talos Linux, Cilium CNI, Teleport, and monitoring tools (Prometheus, Grafana, Datadog). https://www.newtonstree.ai/job/site-reliability-engineer Logistics: Both roles are Hybrid within the UK (with occasional in-person working in London and travel to hospital sites as needed). Please note that applicants must have the right to work in the UK, as we are unable to offer visa sponsorship. To apply: Send your CV and a short note telling us why you'd be excited to work with Newton's Tree to info@newtonstree.com, or read ",
+   "site_text": "[https://www.newtonstree.ai/]\nNewtons Tree | AI orchestration and governance platform for hospitals System Select Discover healthcare AI. Test Performance test AI in a sandbox environment. Deploy Rapidly deploy AI technologies. Monitor Continuous monitoring of AI apps. About Resources News & Events Log In Log In Book a meeting AI orchestration and deployment platform for hospitals. Run AI products as managed infrastructure, not disconnected pilots. Discuss Your AI Portfolio Trusted by our partners We work hand-in-hand with leading health systems across US, UK, and Europe to make AI adoption safe, effective, and scalable. Proof in Practice Insights from innovators shaping the future of AI in healthcare. Integrating AI Responsibly “At GMI, we see AI not as a standalone innovation, but as a tool to strengthen the quality, safety, and precision of the care we deliver. Our collaboration with Newton’s Tree reflects a deliberate step toward integrating AI responsibly, grounded in clinical need. We’re focused on ensuring that any technology we adopt has clear patient benefit and fits into real-world practice.” Dr. Konstantinos Zamboglou Chief Medical Officer at German Medical Institute Making AI Work Safely for Patients \"Partnering with Newton’s Tree will allow us to explore how continuous monitoring can elevate the safety of AI across the NHS. This is a crucial step in ensuring these technologies are used responsibly and ultimately benefit patients.\" Prof David Lowe Director of Clinical Innovation at University of Glasgow and Emergency Consultant at NHS Greater Glasgow and Clyde. Rapidly Evaluate and Deploy AI “Integrating the Newton’s Tree AI platform allows us to rapidly scale our ability to evaluate and implement AI applications. This will ensure we are able to enhance patient outcomes whilst ensuring these technologies are safe and effective.” Prof Andy Scarsbrook Professor of Clinical Radiology and Honorary Consultant Radiologist, Leeds Teaching Hospitals NHS Trust. A complete framework Continuous support to Select, Test, Deploy and Monitor AI in healthcare. Select TEST DEPLOY Monitor Select Discover healthcare AI. Select AI via the worldʼs first vendor-neutral AI marketplace for healthcare. To simplify purchasing and contract management, we provide: app discovery, managed procurement services and vendor management. Explore Select Test Performance test AI in a sandbox environment. To support performance testing of AI products, we provide: a dedicated AI review app, automated testing and head-to-head comparisons. You can test multiple AI apps in parallel to see how well they perform on your own data, in your systems. Explore Test Deploy Rapidly deploy AI technologies. We host and integrate AI apps directly into clinical workflows, using open standards and interfaces such as DICOM, HL7v2, and FHIR. Explore Deploy Monitor Continuous monitoring of AI apps. We enable continuous monitoring of AI apps to support ongoing clinical safety and performance. FAMOS, our continuous monitoring system, enables hospital systems and AI vendors to observe in near real-time how their product is performing. Explore Monitor Why Hospitals choose Newton's Tree Safety First Designed by clinicians, Newton’s Tree embeds clinical safety into every stage, from selection to real-world use. We continuously monitor prediction drift, data quality, and human-AI concordance, giving health systems full visibility and control. Scale Without Friction From one AI tool to one hundred, our platform makes it simple to expand. We remove barriers so health systems can adopt new AI technologies at speed. Proven in Complex Systems Newton’s Tree has already delivered AI safely across some of the most demanding health systems. Our approach works in real-world, high-stakes environments. Trusted AI Vendors Bringing cutting-edge AI technology seamlessly into health systems. InferOperate Workflow - Surgery TechCare Alert Image analysis - Xray TechAlert Image analysis - Xray Cercar",
+   "email_candidates": [
+    {
+     "email": "info@newtonstree.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "198cf934e1",
+   "company": "Kaleris LLC",
+   "website": "https://kaleris.com",
+   "title": "Associate Software Engineer Internship",
+   "location": "Chennai",
+   "source": "unstop",
+   "posted_at": "2026-09-15T11:06:52Z",
+   "posting": "Kaleris LLC is hiring for the role of Associate Software Engineer Intern! Responsibilities of the Intern: Join an Agile team coordinating with a Product manager, lead developer, and QA lead Create new product features for our global customers using test driven development Work on every level of the stack-frontend to backend, and everything in between Take end-to-end ownership of your part of the functionality Keep up to date on new technologies and share your knowledge Participate in the full development life cycle from definition and design to product Requirements: BE or B. Tech in Computer Science, Information Technology Proven object-oriented programming skills with Java and/or C++, preferably Experience with RDBMS and SQL (Oracle, SQL Server, MySQL) Strong knowledge of design patterns/data Structures Strong analytical abilities with debugging and troubleshooting skills Good oral and written communication skills",
+   "site_text": "[https://kaleris.com/]\nHome - Kaleris - Supply Chain Execution Software Skip to content Contact Us Powerful solutions for the supply chains of tomorrow Kaleris empowers professionals to take control of their operations with the data necessary to navigate supply chain disruptions Get Connected Your cold chain deserves more than dashboards Kaleris ColdLink integrates yard and transportation operations to deliver continuous chain of custody and regulatory compliance. Learn More Optimize your yard operations Tackle operational challenges head-on powered by automated tasking and real-time location systems with ABI research’s #1 YMS . Learn More Safer, more sustainable ocean transit starts here Kaleris offers ocean carriers, ship owners and technical managers maritime solutions that meet the needs for compliant and environmentally friendly ocean transportation. Find out how Efficiency that sets your terminal apart Boost visibility and data-driven decision-making for your mission-critical operations with the global leader in terminal operating systems. Get Started Multi-modal transportation management Create and execute t he best transportation plan for private fleet, inbound, and outbound , with full maintenance and repair workflows. Start Saving Today End-to-end operational visibility for shipping lines Kaleris’ Odyssey platform empowers shipping lines to be agile, efficient, and competitive in the market and maintain high standards in smart business operations. See it in action The Great Divide: bridging communication between terminals and shippers Better execution leads to better visibility. And it’s a game changer for the supply chain. Check it out now Used by Supply Chain Professionals Worldwide In today’s tightly orchestrated supply chain environment, the smallest delay or disruption quickly turns into bottlenecks, inefficiencies, and unplanned costs with significant downstream impacts on your business and your commitment to your customers. At the heart of what we do, our software helps you control and optimize critical supply chain workflows, and gives you access to real-time data so you can make decisions with confidence. Hundreds of the largest organizations in the world rely on Kaleris software solutions to gain real-time visibility and powerful execution tools to automate and optimize the movement of goods through the supply chain. Marine Terminals 0 + use Kaleris TOS Shipper Yards 0 + save in detention fees, dwell time and operating costs of the world's cargo 0 % managed by Kaleris solutions Result-driven solutions across modes and nodes Terminal Operations Transportation Management Yard Management Execution & Visibility Platform Carrier & Vessel Solutions Rail Solutions Maintenance & Repair Terminal Operations As the market leader for the past three decades, Kaleris delivers the industry’s premier software systems and applications for optimizing every terminal across all volumes and cargo types. Learn More Transportation Management Giving shippers the power to take control over how they incur costs related to inventory, scheduling, and accessorial charges. Learn More Yard Management As a global leader in yard management solutions since 2004, Kaleris YMS offers a broad range of solutions that are trusted by leading brands and offer unique capabilities for real-time location systems, automated gate check-in, task automation, and more. Whether you’re looking to solve challenges for a large enterprise or a single-site yard, we have a solution for yards of all shapes and sizes. Learn More Execution & Visibility Platform Connecting ports, terminals, inland facilities, and shippers for an accelerated supply chain ecosystem. Learn More Carrier & Vessel Solutions Navis Carrier & Vessel Solutions offers ocean carriers, ship owners and technical managers proven digital technology with its maritime solutions that meet the needs for safe, efficient and environmentally-friendly ocean transportation. Learn More Rail An accurate overvi",
+   "email_candidates": [
+    {
+     "email": "talentteam@kaleris.com",
+     "where": "https://kaleris.com/company/careers/",
+     "kind": "personal"
+    },
+    {
+     "email": "training@kaleris.com",
+     "where": "https://kaleris.com/company/certification/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "2560d29a67",
+   "company": "Quill",
+   "website": "https://quill.co",
+   "title": "Fullstack SWE",
+   "location": "Remote, PT/ET hours preferred",
+   "source": "hn_hiring",
+   "posted_at": "2026-09-01T15:02:11Z",
+   "posting": "Quill | Fullstack SWE | Full-time | Remote, PT/ET hours preferred | $150 - 210K USD + equity | https://quill.co/ I’m a co-founder of Quill, a fullstack SDK for adding customer-facing analytics & data features to your app. Backed by YCombinator & top-tier SV-based investors (fundraising not publicly disclosed; happy to share any details when we chat). Some examples of how customers get value from Quill: • pre-IPO fintech adds custom reporting & data export features to their money movement product. • Series B healthtech is now able to deliver completely custom in-product reports & dashboards to every enterprise customer they onboard. • Series A govtech adds analytics and reporting capabilities within their existing agent/chat product. Reasons you’d love working with us: • Work with a small, focused, talented team on a highly technical product (by developers for developers). • Funded company in a big market, but still prelaunch with a team size 1, and it was used in production by customers the day it shipped. We are growing the team to keep up with demand for new features that our customers are asking us for, while also preparing for launch. We're looking for someone that will make us better. We’re just getting started, and want you to bring your opinions, expertise, and experience to the table (not just execute on the ideas we already have). Contact: rishi@quill.co",
+   "site_text": "[https://quill.co/]\nQuill | AI Reporting SDK and API",
+   "email_candidates": [
+    {
+     "email": "rishi@quill.co",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  }
+ ]
+}
