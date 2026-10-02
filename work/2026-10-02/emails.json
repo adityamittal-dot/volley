@@ -1,0 +1,164 @@
+{
+  "emails": [
+    {
+      "id": "1fb0f35b5f",
+      "subject": "Software Engineer \u2013 Aditya Mittal",
+      "body": "Hi Theo,\n\nThe way Cable has engineers owning a product end to end, from the commercial problem through to production, stood out. Most teams split that up long before someone my level gets near it.\n\nAt Basepair I fixed a production OAuth race condition with row-level DB locking and cleared 100+ security and reliability defects in a Django and React codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the early team still hiring?",
+      "tailor": {
+        "decision": false,
+        "reason": "Posting lists a tech stack, not concrete requirements with wording absent from the resume; no real gap terms to tailor against.",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "00e92e872a",
+      "subject": "Full Stack Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Jason,\n\nYour engineering blog post on agentic coding practices caught my eye, especially next to R&D software for materials and chemicals teams.\n\nI built MedVault, which runs lab reports through a Gemini pipeline behind a fixed JSON schema and safety rules, then lets you ask questions about the results: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Are the summer internship or working student spots still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "Posting is a pitch with salary and culture notes, no specific requirements whose wording is missing from the resume.",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "2560d29a67",
+      "subject": "Fullstack Software Engineer \u2013 Aditya Mittal",
+      "body": "Hi Rishi,\n\nQuill giving product teams interactive dashboards straight from their own data is the same problem I keep running into with code: making something sprawling legible at a glance.\n\nI built Canopy, which parses a repo in 10 languages into a call graph and marks unresolved calls external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Still looking to grow the team?",
+      "tailor": {
+        "decision": false,
+        "reason": "Posting is a culture and vision pitch with no listed technical requirements to pull gap terms from.",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "59f83ec4c2",
+      "subject": "Founding Product Engineer \u2013 Aditya Mittal",
+      "body": "Hi Yarik,\n\nA map telling you a restaurant is open when it closed in March is exactly the kind of stale-data bug I spent my Basepair internship chasing down.\n\nThere I fixed a production OAuth race condition with row-level DB locking, patched multi-instance file-access failures with S3 fallbacks, and cleaned up over 100 security defects in a production codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Still looking for a founding engineer this early?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "198cf934e1",
+      "subject": "Associate Software Engineer Internship \u2013 Aditya Mittal",
+      "body": "Hi Kaleris team,\n\nHaving interns take end-to-end ownership of a feature instead of ticket work is rare, and it's what stood out most in the posting.\n\nAt Basepair I fixed a production OAuth race condition with row-level DB locking and resolved 100+ BLOCKER/HIGH SonarQube issues across a Django and React codebase.\n\nI'm a 2027 CS grad looking for an internship. Is the Associate Software Engineer internship still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "bb5c0a5b1c",
+      "subject": "Software Engineering Role \u2013 Aditya Mittal",
+      "body": "Hi Floot team,\n\nAn AI model needing somewhere to put the backend and database it just invented is a problem I hadn't thought about until I read how Floot handles it.\n\nI built Canopy, which turns a GitHub repo into an interactive call graph across 10 languages, with an optional AI chat grounded only in the computed results: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Any room on a 4-person team for someone like that?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "e93dcdf502",
+      "subject": "Software Engineering Role \u2013 Aditya Mittal",
+      "body": "Hi Bolna team,\n\nGetting voice agents to hold up in Hindi, Tamil and Telugu, not just English, is a harder problem than most voice AI platforms attempt.\n\nI built MedVault, a Django backend with a Gemini pipeline that only answers inside a fixed JSON schema and safety rules against diagnosis: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Any openings on the engineering side?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "3e81f88e60",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Evoqys team,\n\nShipping 50+ projects in four years while building your own LLM and RAG pipeline is a lot of infrastructure for a team your size to maintain in-house.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a tolerant parser for when the model output breaks: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Do you take on interns or juniors?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "c76d46d6fe",
+      "subject": "Data Platform Engineer \u2013 Aditya Mittal",
+      "body": "Hi Cardog team,\n\nDeciding which source wins when two vehicle records disagree, and being able to prove it, is the kind of data problem I like more than I probably should.\n\nAt Basepair I fixed production bugs in a Django and React codebase, including an OAuth race condition solved with row-level DB locking, and cleared 100+ security and reliability defects.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Is the Data Platform Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "110edbaf55",
+      "subject": "Full Stack Developer \u2013 Aditya Mittal",
+      "body": "Hi Dobrev,\n\nA three-person team running a profitable SaaS product without LeetCode interviews is the kind of place I'd actually want to ship in.\n\nAt Basepair I fixed a production OAuth race condition with row-level DB locking, patched multi-instance file-access failures with S3 fallbacks, and cleaned up over 100 security defects in a production codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Still hiring for the Node.js role?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "cc647fb043",
+      "subject": "Software Engineer Role \u2013 Aditya Mittal",
+      "body": "Hi HRS Systems team,\n\nMoving 50 years of fire protection software from desktop to the browser is the kind of migration that breaks in ways a clean rewrite never would.\n\nAt Basepair I fixed a production OAuth race condition with row-level DB locking and resolved 100+ BLOCKER/HIGH security and reliability defects across a Django and React codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Still expanding the dev team?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "a1f622c194",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Juspay team,\n\nRouting a payment across 300+ providers with no-code rules so a transaction doesn't fail is the kind of reliability problem I like working on.\n\nAt Basepair I fixed a production OAuth race condition with row-level DB locking and resolved 100+ BLOCKER/HIGH security and reliability defects in a Django and React codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Do you take on interns or new grads?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "5e82ea5cb8",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Phil,\n\nPromptQL grounding its reasoning in your actual data instead of guessing is the same choice I made with Canopy's AI chat.\n\nCanopy parses a repo in 10 languages into a call graph and marks unresolved calls external instead of guessing, with the optional chat grounded only in that computed graph: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Do you take on interns or new grads?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "d8621b81e7",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Ashok,\n\nNational ID systems running in 14 countries on a vendor-neutral, security-first design is a different scale of consequence than most backend work.\n\nAt Basepair I fixed a production OAuth race condition with row-level DB locking and resolved 100+ BLOCKER/HIGH security defects, including SQL injection and insecure crypto, across a Django and React codebase.\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Do you take on interns or juniors?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "053637637c",
+      "subject": "Backend Engineer \u2013 Aditya Mittal",
+      "body": "Hi Oleksandr,\n\nDeduplicating the same event across hundreds of news sources is a harder matching problem than ranking search results, and CatchAll treating it as a database problem rather than a search problem stood out.\n\nI built Canopy, which does deterministic cross-file call-graph resolution for code and marks unresolved calls external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Any engineering openings right now?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "b73f7c5470",
+      "subject": "Product Engineer \u2013 Aditya Mittal",
+      "body": "Hi OpenSanctions team,\n\nYour Going 007 post on building an MCP server for the API is the kind of tooling-for-agents problem I spend most of my time on.\n\nI built Canopy, a static analysis tool that parses a repo in 10 languages into a call graph with deterministic cross-file resolution: https://canopy-v7hb.onrender.com\n\nI'm a 2027 CS grad looking for an internship or entry-level role. Still looking for a product engineer?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "leads": [
+    {
+      "id": "b534fd0af0",
+      "relevant": false,
+      "summary": "HR tech company with AI agents that evaluate candidates through voice interviews, helping streamline hiring decisions.",
+      "stack": ["Python"],
+      "hook": "Avya agent designs for edge cases like Hinglish code-switching and interruptions in multi-turn interview conversations.",
+      "angle": "medvault",
+      "angle_reason": "Both involve LLM prompt engineering for production multi-turn conversations with structured outputs.",
+      "fit": 2,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["Product Management Internship, not software engineering"]
+    },
+    {
+      "id": "9424ac79de",
+      "relevant": false,
+      "summary": "Consumer electronics brand making design-first smartwatches and earbuds for lifestyle applications.",
+      "stack": [],
+      "hook": "Hardware product benchmarking across features, specifications, and user experience with cross-functional coordination.",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["Product Management Internship, not software engineering", "hardware-focused, not software development"]
+    },
+    {
+      "id": "178d7d7508",
+      "relevant": false,
+      "summary": "Enterprise cybersecurity platform protecting data breaches through identity-centric policies and AI governance across digital and AI environments.",
+      "stack": [],
+      "hook": "Recently raised ₹7 crore seed round to advance product capabilities and launch enterprise-grade AI security frameworks.",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 2,
+      "region": "asia",
+      "people": [
+        {"name": "Vineet Gupta", "role": "Co-founder"},
+        {"name": "Sachin Aggarwal", "role": "Co-founder"}
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["Posting is funding news, not a job opening", "no hiring contact information provided"]
+    },
+    {
+      "id": "a0da497496",
+      "relevant": false,
+      "summary": "Software development company offering final-year students hands-on experience across product development and the full software development lifecycle.",
+      "stack": [],
+      "hook": "Small team providing hands-on mentoring with code reviews, documentation, debugging, and technical discussions across version control, testing, security, and deployment.",
+      "angle": "basepair",
+      "angle_reason": "Both offer hands-on production engineering experience with engineering best practices: code reviews, testing, and deployment practices.",
+      "fit": 7,
+      "region": "asia",
+      "people": [
+        {"name": "Thivanth Ilagar", "role": "Manager"}
+      ],
+      "contact_email": "thivanthilagar.manager@slonixsolutions.in",
+      "contact_name": "Thivanth Ilagar",
+      "contact_role": "Manager",
+      "red_flags": ["internship stipend minimum ₹20,000/month is below ₹25,000/month threshold"]
+    },
+    {
+      "id": "60a7537247",
+      "relevant": false,
+      "summary": "NYSE-listed IoT platform for physical operations (fleet, agriculture, construction, manufacturing) providing real-time telematics, safety analytics, and operational insights.",
+      "stack": ["APIs"],
+      "hook": "Connected Operations Cloud has prevented 380k+ accidents via AI-powered video-based safety and real-time in-cab alerts.",
+      "angle": "canopy",
+      "angle_reason": "Both analyze complex operational data to provide intelligence, though Canopy focuses on code and Samsara on fleet operations.",
+      "fit": 2,
+      "region": "europe",
+      "people": [
+        {"name": "Jennifer Miller", "role": "Vice President of Integrated Transportation (customer)"}
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["Large enterprise (NYSE company with 1000+ employees), no typical entry-level engineering hiring culture"]
+    },
+    {
+      "id": "6841a3d6bb",
+      "relevant": false,
+      "summary": "AWS serverless development consultancy building backend services and SaaS products using TypeScript/Node.js infrastructure for European enterprise clients.",
+      "stack": ["TypeScript", "Node.js", "Lambda", "API Gateway", "DynamoDB", "AWS CDK", "React", "Next.js"],
+      "hook": "Uses coding agents daily as standard practice and expects all engineers to use them; infrastructure lives entirely in AWS CDK code.",
+      "angle": "canopy",
+      "angle_reason": "Both involve infrastructure-as-code and developer tooling, but PAGNOS requires advanced AWS/CDK expertise.",
+      "fit": 1,
+      "region": "europe",
+      "people": [],
+      "contact_email": "recruiting@pagnos.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["Must be based in Germany", "Does not offer visa sponsorship", "€75k salary indicates mid-level minimum (3+ years experience)"]
+    },
+    {
+      "id": "a77807af60",
+      "relevant": false,
+      "summary": "AI and computer vision platform using street-level imagery to map urban blight for municipalities, enabling data-driven code enforcement and community response.",
+      "stack": ["React", "TypeScript", "Python", "FastAPI", "AWS Lambda", "PostgreSQL", "PostGIS", "Mapbox", "D3"],
+      "hook": "Frontend-leaning role to own map-heavy interactive dashboards with deck.gl, Leaflet, H3 vector tiles, and nation-scale OSM data.",
+      "angle": "canopy",
+      "angle_reason": "Both build spatial/structural visualization: Canopy for code graphs, City Detect for geospatial maps.",
+      "fit": 3,
+      "region": "us",
+      "people": [
+        {"name": "Bjorn", "role": "Hiring contact"}
+      ],
+      "contact_email": "bjorn@citydetect.com",
+      "contact_name": "Bjorn",
+      "contact_role": "",
+      "red_flags": ["Mid to senior level role (explicitly stated)", "Target candidate is 2027 grad seeking entry-level/internship"]
+    },
+    {
+      "id": "b5a5d3964c",
+      "relevant": false,
+      "summary": "High-performance web data extraction infrastructure for AI agents and LLM pipelines, combining Rust engine with stealth browser fleet and schema validation.",
+      "stack": ["Rust", "Next.js", "React", "TypeScript", "Firefox", "Chromium", "SQLite", "PostgreSQL"],
+      "hook": "Low-latency Rust fast-fetch engine with JA4/TLS fingerprinting and isolated stealth browser fleet solves the problem of hardened anti-bot walls (Cloudflare, Kasada, DataDome).",
+      "angle": "canopy",
+      "angle_reason": "Both build specialized analysis infrastructure: Canopy for code call graphs, Datamint for bot-defended web data extraction.",
+      "fit": 2,
+      "region": "other",
+      "people": [],
+      "contact_email": "jobs@datamint.xyz",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["Senior systems engineer role", "Requires deep Rust and browser internals expertise", "Salary range ($120k-170k) indicates 5+ years experience"]
+    },
+    {
+      "id": "9237c51262",
+      "relevant": false,
+      "summary": "Personal job seeker profile, not a company job posting.",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "us",
+      "people": [
+        {"name": "Meera Datey", "role": "Job seeker"}
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["This is a job seeker's personal profile, not a company hiring"]
+    },
+    {
+      "id": "ead0d65bbb",
+      "relevant": false,
+      "summary": "Series A AI startup building agents that automate healthcare Revenue Cycle Management, operating payer portals, terminals, and desktop software for deterministic healthcare billing workflows.",
+      "stack": ["TypeScript", "Node.js", "Playwright", "Claude", "PostgreSQL", "Azure", "Kubernetes"],
+      "hook": "In-house deterministic orchestration layer treats model calls as bounded steps within a control flow, not an open-ended agent loop.",
+      "angle": "medvault",
+      "angle_reason": "Both build LLM pipelines with strict boundaries: MedVault uses fixed JSON schema and safety rules, Tahoma uses deterministic orchestration with bounded model steps.",
+      "fit": 3,
+      "region": "us",
+      "people": [
+        {"name": "Founder from AWS", "role": "Founder"}
+      ],
+      "contact_email": "careers@tahoma.io",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["Founding Engineer role implies mid-level minimum experience", "Series A stage typically seeks 3+ years experience"]
+    }
+  ]
+}
