@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-02T10:01:06Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-02T14:51:06Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 78 · **Sent:** 78 · **Replies:** 5 (6%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 84 · **Sent:** 84 · **Replies:** 5 (6%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,8 +10,7 @@ _Updated 2026-10-02T10:01:06Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 1 |
 | no_contact | 362 |
 | low_fit | 145 |
-| queued | 6 |
-| sent | 56 |
+| sent | 62 |
 | followup_1 | 15 |
 | replied | 5 |
 | bounced | 2 |
@@ -20,9 +19,9 @@ _Updated 2026-10-02T10:01:06Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| basepair | 32 | 0 |
-| medvault | 26 | 2 |
-| canopy | 20 | 3 |
+| basepair | 35 | 0 |
+| medvault | 27 | 2 |
+| canopy | 22 | 3 |
 
 ## Replies
 
@@ -36,6 +35,12 @@ _Updated 2026-10-02T10:01:06Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-02 | HRS Systems | awp@hrssystems.com | basepair | sent |
+| 2026-10-02 | Cardog | careers@cardog.app | basepair | sent |
+| 2026-10-02 | Floot | hello@floot.com | canopy | sent |
+| 2026-10-02 | VOYGR (YC W26) | yarik@voygr.tech | basepair | sent |
+| 2026-10-02 | Quill | rishi@quill.co | canopy | sent |
+| 2026-10-02 | Uncountable | jason@uncountable.com | medvault | sent |
 | 2026-10-02 | OpenSanctions | info@opensanctions.org | canopy | sent |
 | 2026-10-02 | NewsCatcher | oleksa.sirenko@gmail.com | canopy | sent |
 | 2026-10-02 | Modular Open Source Identity Platform | ashok@mosip.io | basepair | sent |
@@ -55,9 +60,3 @@ _Updated 2026-10-02T10:01:06Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-01 | Artifact | careers@artifact.engineer | canopy | sent |
 | 2026-10-01 | Attain | founders@joinattain.com | basepair | sent |
 | 2026-10-01 | Oxus | founders@oxus-ai.com | basepair | sent |
-| 2026-10-01 | FamPay | hello@fampay.in | medvault | sent |
-| 2026-10-01 | Neolytix | recruiter@neolytix.com | basepair | sent |
-| 2026-10-01 | Baraka | founders@getbaraka.com | basepair | sent |
-| 2026-10-01 | Cardboard | founders@cardboard.ai | medvault | sent |
-| 2026-09-30 | Lugg | hello@lugg.com | basepair | sent |
-| 2026-09-30 | Forge | hello@forgehq.com | basepair | sent |
