@@ -1,17 +1,17 @@
 # Tracker
 
-_Updated 2026-10-02T07:32:05Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-02T10:01:06Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 68 · **Sent:** 68 · **Replies:** 5 (7%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 78 · **Sent:** 78 · **Replies:** 5 (6%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
 | new | 318 |
 | skipped | 1 |
-| no_contact | 361 |
-| low_fit | 112 |
-| researching | 50 |
-| sent | 46 |
+| no_contact | 362 |
+| low_fit | 145 |
+| queued | 6 |
+| sent | 56 |
 | followup_1 | 15 |
 | replied | 5 |
 | bounced | 2 |
@@ -20,9 +20,9 @@ _Updated 2026-10-02T07:32:05Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| basepair | 27 | 0 |
-| medvault | 24 | 2 |
-| canopy | 17 | 3 |
+| basepair | 32 | 0 |
+| medvault | 26 | 2 |
+| canopy | 20 | 3 |
 
 ## Replies
 
@@ -36,6 +36,16 @@ _Updated 2026-10-02T07:32:05Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-02 | OpenSanctions | info@opensanctions.org | canopy | sent |
+| 2026-10-02 | NewsCatcher | oleksa.sirenko@gmail.com | canopy | sent |
+| 2026-10-02 | Modular Open Source Identity Platform | ashok@mosip.io | basepair | sent |
+| 2026-10-02 | Hasura | phil@hasura.io | canopy | sent |
+| 2026-10-02 | Juspay Technologies | biz@juspay.in | basepair | sent |
+| 2026-10-02 | Trackerbot | dobrev.d10@gmail.com | basepair | sent |
+| 2026-10-02 | Bolna AI | hello@bolna.ai | medvault | sent |
+| 2026-10-02 | Evoqys | hello@evoqys.in | medvault | sent |
+| 2026-10-02 | Kaleris LLC | talentteam@kaleris.com | basepair | sent |
+| 2026-10-02 | CABLE | theo@cable.energy | basepair | sent |
 | 2026-10-01 | SigmaOS | hello@sigmaos.com | canopy | sent |
 | 2026-10-01 | Nova Credit | connect@novacredit.com | basepair | sent |
 | 2026-10-01 | Reality Defender | ask@realitydefender.com | medvault | sent |
@@ -51,13 +61,3 @@ _Updated 2026-10-02T07:32:05Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-01 | Cardboard | founders@cardboard.ai | medvault | sent |
 | 2026-09-30 | Lugg | hello@lugg.com | basepair | sent |
 | 2026-09-30 | Forge | hello@forgehq.com | basepair | sent |
-| 2026-09-30 | Replo | yuxin@replo.app | medvault | sent |
-| 2026-09-30 | Apero Health | founders@aperohealth.com | basepair | sent |
-| 2026-09-30 | Clad (YC W23) | jason@withclad.com | basepair | sent |
-| 2026-09-30 | Channel3 | evan@trychannel3.com | canopy | sent |
-| 2026-09-30 | Hevo Data | rajashree+4@hevodata.com | medvault | sent |
-| 2026-09-30 | Pango (YC S26) | steve@pango.ai | canopy | sent |
-| 2026-09-30 | Arakoo | sandys@gmail.com | medvault | sent |
-| 2026-09-30 | Wingify | engineering@wingify.com | canopy | sent |
-| 2026-09-30 | Smart Joules | dev@smartjoules.in | basepair | sent |
-| 2026-09-30 | SamagraX | admin@samagragovernance.in | canopy | sent |
