@@ -1,17 +1,17 @@
 # Tracker
 
-_Updated 2026-10-05T07:42:32Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-05T10:00:11Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 84 · **Sent:** 84 · **Replies:** 6 (7%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 91 · **Sent:** 91 · **Replies:** 6 (7%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
 | new | 303 |
 | skipped | 1 |
-| no_contact | 409 |
-| low_fit | 145 |
-| researching | 50 |
-| sent | 27 |
+| no_contact | 410 |
+| low_fit | 174 |
+| queued | 13 |
+| sent | 34 |
 | followup_1 | 48 |
 | replied | 6 |
 | bounced | 3 |
@@ -20,9 +20,9 @@ _Updated 2026-10-05T07:42:32Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| basepair | 35 | 0 |
-| medvault | 27 | 3 |
-| canopy | 22 | 3 |
+| basepair | 37 | 0 |
+| medvault | 30 | 3 |
+| canopy | 24 | 3 |
 
 ## Replies
 
@@ -37,6 +37,13 @@ _Updated 2026-10-05T07:42:32Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-05 | Invopop | sam.lown@invopop.com | canopy | sent |
+| 2026-10-05 | Quickchat AI | contact@quickchat.ai | medvault | sent |
+| 2026-10-05 | Escape | mongi@escape.tech | basepair | sent |
+| 2026-10-05 | Infer | vaibhav@infer.so | basepair | sent |
+| 2026-10-05 | Ressl AI | hello@ressl.ai | medvault | sent |
+| 2026-10-05 | drivebuddyAI | connect@drivebuddyai.co | medvault | sent |
+| 2026-10-05 | HivarSoft | dev.hitesh.k@gmail.com | canopy | sent |
 | 2026-10-02 | HRS Systems | awp@hrssystems.com | basepair | sent |
 | 2026-10-02 | Cardog | careers@cardog.app | basepair | sent |
 | 2026-10-02 | Floot | hello@floot.com | canopy | sent |
@@ -55,10 +62,3 @@ _Updated 2026-10-05T07:42:32Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-02 | CABLE | theo@cable.energy | basepair | sent |
 | 2026-10-01 | SigmaOS | hello@sigmaos.com | canopy | sent |
 | 2026-10-01 | Nova Credit | connect@novacredit.com | basepair | sent |
-| 2026-10-01 | Reality Defender | ask@realitydefender.com | medvault | sent |
-| 2026-10-01 | authzed | sam@authzed.com | canopy | sent |
-| 2026-10-01 | Juxta | careers@juxta.com | basepair | sent |
-| 2026-10-01 | Calltree | founders@calltree.ai | medvault | sent |
-| 2026-10-01 | Artifact | careers@artifact.engineer | canopy | sent |
-| 2026-10-01 | Attain | founders@joinattain.com | basepair | sent |
-| 2026-10-01 | Oxus | founders@oxus-ai.com | basepair | sent |
