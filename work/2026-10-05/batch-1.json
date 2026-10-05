@@ -1,0 +1,332 @@
+{
+ "leads": [
+  {
+   "id": "b64a609a2d",
+   "company": "HivarSoft",
+   "website": "https://hivarsoft.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Delhi, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "HivarSoft delivers affordable, open-source, and scalable software solutions for modern businesses. From custom applications and SaaS platforms to AI/ML Apps. Languages: JavaScript, TypeScript. Topics: ai, downtime-alert, downtime-alerts, downtime-monitor, gitstats, gitstats-mern, gitstats-react, notes-app, notes-tool, uptime-checker, uptime-monitoring",
+   "site_text": "[https://www.hivarsoft.com/]\nHivarSoft — Affordable & Open Source Software HivarSoft GitHub Software Products · Open Source · Built to Last Building software that actually works. From proprietary SaaS to open source tools — we ship software that solves real problems, at prices that make sense. View Products Star on GitHub About HivarSoft Software built to last, priced to be fair. HivarSoft builds modern, scalable software — both commercial SaaS platforms and open source tools — for teams and developers who want quality without compromise. Our approach We ship proprietary SaaS products with transparent pricing — and we give back to the developer community with open source tools. Not every product needs to be free, but every product should be worth what you pay for it. Explore our repositories → 3+ Live Products 4+ Open Source Repos What we stand for The principles that guide everything we build. SaaS & Proprietary Products Open Source Contributions Modern Tech Stack Pricing That Makes Sense Reliable & Scalable Community-Driven Innovation What We Do Full-stack, full-service. From concept to deployment — we handle the whole stack so you don't have to. Software Development Full-stack applications built with modern frameworks — from idea to production. Web Applications SaaS Platforms Enterprise Solutions API Development Cloud & DevOps Infrastructure that scales. CI/CD, containers, and cloud-native deployments. Docker & Kubernetes CI/CD Automation Cloud Infrastructure Self-Hosted Solutions AI & Automation Intelligent systems that work for you — from AI apps to workflow automation. AI-Powered Applications Workflow Automation Chatbots & Assistants Process Optimization Open Source Developer tools and utilities released to the community — free and open. Developer Tools Productivity Apps Community Projects Educational Resources Technologies We Love Next.js React Node.js TypeScript Python Go PostgreSQL Redis Docker Kubernetes AWS Vercel TailwindCSS GraphQL Next.js React Node.js TypeScript Python Go PostgreSQL Redis Docker Kubernetes AWS Vercel TailwindCSS GraphQL Our Products Real tools, used by real people. We don't just build projects — we build products people actually use every day. Project 01 Open Source Notes AI Capture ideas, sketch your thoughts, and stay organised. Rich text, infinite canvas, smart folders, and an AI assistant — all in one beautiful app. Open App Rich Notes Write, edit, and format notes with a clean, distraction-free editor. Smart Folders Group related notes into folders — any structure that fits your mind. Infinite Canvas Sketch diagrams and wireframes right alongside your notes. AI Assistant Get summaries, brainstorm, and ask questions with built-in AI that knows your notes. Project 02 Open Source GitStats A lightweight, self-hosted Git analytics dashboard. Point it at any local repo and get instant insights — commit heatmaps, author breakdowns, language stats, and branch switching. Free and open source forever. Commit Heatmaps Visualize activity by hour, day of week, and month of year. Author Breakdown Per-author commits, lines added/removed, and coding streaks. Language Stats File-type pie chart and extension breakdown table. Branch Switching Analyse any local branch without leaving the dashboard. Files Timeline Track how file count evolves over the project's lifetime. Tag History Commits-per-tag bar chart and full release table. Project 03 Open Source PulseWatch Production-grade uptime monitoring built on BullMQ and Redis. Track any HTTPS endpoint with per-service check intervals, smart incident detection, multi-channel alerts, and deep response-time analytics. Open App Custom Check Intervals Set check frequency per service — from every 1 minute to every 24 hours. BullMQ workers process checks at scale with 50 concurrent threads. Smart Incident Detection Configure consecutive failures to trigger a DOWN alert and successes to confirm recovery. Eliminates false positives completely. Multi-Channel Alerts Email ",
+   "email_candidates": [
+    {
+     "email": "hello@hivarsoft.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "dev.hitesh.k@gmail.com",
+     "where": "GitHub commits (HivarSoft)",
+     "kind": "personal",
+     "name": "Hitesh Kumar",
+     "commits": 60
+    },
+    {
+     "email": "hitesh.k.83080@gmail.com",
+     "where": "GitHub commits (HivarSoft)",
+     "kind": "personal",
+     "name": "Hitesh",
+     "commits": 18
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting"
+  },
+  {
+   "id": "daeefe805b",
+   "company": "Crypto Voip Technologies",
+   "website": "https://www.cryptovoip.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Delhi National Capital Region (NCR) ",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "sysadmin@cryptovoip.in",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting"
+  },
+  {
+   "id": "547ef10d24",
+   "company": "Spring Time Software",
+   "website": "https://www.springtimesoftware.net",
+   "title": "Software Engineering (no public opening)",
+   "location": "Delhi-NCR, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Software Company based in India, Custom Software Development, Mobile App Development. Languages: JavaScript, TypeScript",
+   "site_text": "[https://springtimesoftware.net/]\nHome - Spring Time Software Solutions Pvt. Ltd. Spring Time Software India's Trusted Software Partner for the Book Trade & Beyond From empowering 1200+ Publishers / Distributors / Booksellers with PUB+ ERP Software for Book Trade to delivering AI, Mobile & Custom Solutions, we build technology that moves businesses forward Contact Today 20+ Years of Enabling Business Success with Innovation and Care PUB+ Cloud ERP Simplifying publishing and distribution for over 1,200 businesses Read more SIDDHI CRM Automate sales pipelines and improve customer success Read more RightsDeck.com India's comprehensive publishing rights platform — for Indian language and international publishers. Read more TaskShala Streamlined task and project management for modern teams Read more 20+ Years of Delivering Reliable and Scalable Software Services Data Analytics & BI Services We centralize ERP/CRM/app data into a governed warehouse and deliver interactive, self-service dashboards that reveal trends, anomalies, and ROI in real time, enabling faster, confident decisions with role-based access, auditability, and data quality checks. Driving growth through smarter insights Legacy System Modernization We re-architect brittle legacy stacks into modular, cloud-ready platforms, migrating databases and services with near-zero downtime while boosting performance, security, and maintainability, cutting licensing costs, and exposing clean APIs that accelerate new feature delivery. Custom Software Development From discovery workshops to deployment, we design and build exactly what your business needs—API-first, secure, and scalable software that fits your workflows, integrates with existing systems, and evolves through agile sprints, testing, and post-launch support.Future-ready, scalable solutions. Data Migration We move applications, databases, and files across on-prem and multi-cloud environments using phased cutovers, automated validation, and end-to-end encryption to ensure integrity, compliance, and continuity, achieving minimal disruption and a clear rollback plan if needed. Web Development We deliver fast, accessible, SEO-friendly websites and portals on modern frameworks with a headless CMS, optimized for Core Web Vitals and conversion, supporting multilingual content, integrations, and effortless editing for non-technical teams.Built to perform and scale seamlessly. Mobile App Development We craft high-performance iOS and Android apps with offline-first UX, secure authentication and payments, accessible design, and analytics-driven iteration, ensuring smooth performance, better engagement, and measurable retention across diverse devices and networks. AI/ML Software Development We turn messy, siloed data into production-grade intelligence—predicting demand, automating workflows, and powering recommendations—with secure pipelines, model governance, and full MLOps so models deploy reliably, monitor themselves, and keep improving over time. IT Resource Outsourcing Scale instantly with vetted engineers—backend, frontend, QA, DevOps, data—who plug into your tools and sprints, meet strict SLAs, share daily progress, and flex up or down without hiring overhead as priorities change across teams. Cloud App Development We build cloud-native apps with containers, serverless, and managed services, baking in CI/CD, autoscaling, resilience, and observability so releases are faster and safer, operations are simpler, and total cost of ownership steadily declines. We build intelligent, scalable , and mobile-first software solutions for publishers, SMEs, startups , and enterprises — across India and beyond. Let’s Build Your Next Software Project Why Choose SpringTime Software? .01 1200+ Book Trade Clients .02 23+ Years of Industry Expertise .03 In-house AI & Mobile App Teams .04 India + Global Delivery Models Real Solutions. Real Results. Publisher Delhi We reduced royalty processing time by 75% using PUB+ with a custom royalty module. Le",
+   "email_candidates": [
+    {
+     "email": "info@springtimesoftware.net",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "info@springtimesoftware.ca",
+     "where": "https://springtimesoftware.net/contact/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting"
+  },
+  {
+   "id": "ede705a165",
+   "company": "drivebuddyAI",
+   "website": "https://www.drivebuddyai.co",
+   "title": "Software Engineering (no public opening)",
+   "location": "Delhi",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Autonomous Vehicle Technology. Languages: Jupyter Notebook, Python",
+   "site_text": "[https://drivebuddyai.co/]\nAI-powered intelligent driver & fleet safety platform | driveBuddyAI The Path to Mobility Nirvana Starts Here We fuse human intuition and artificial intelligence in a continuous cycle of learning, guiding the world to safer drives and ultimate autonomy Learn More The World’s First Vision-Led, Continuously Learning AI Platform for Mobility. Powering the intelligence behind ADAS, Safer Fleets, Smarter Insurers, and Connected Cities Avoid Collisions Our AI models detect, understand the context and generate driving assistance alerts to help driver to be more attentive. Learn more Assess Driving Behavior To understand the risks for future, platform transforms the DATA, by assessing the events happened, decision made by drivers to handle the event and behavior analysis of the drivers. Learn more Improve Fleet Safety Knowing who’s good at what and bad at what, can give you better clarity amongst the pool of drivers to coach them, run incentive programs and making informed decision to avoid the guess work. Learn more Latest From Our Experts The latest news, stories business developments, product updates and our research Press Releases drivebuddyAI partners with SUPERGAS aiming to enhances LPG Fleet Safety implementing ADAS with integrated Transport Operations Command Centre Press Releases drivebuddyAI awarded patent for A REAL-TIME DROWSINESS DETECTION SYSTEM – a unique and most accurate approach of detecting driver drowsiness impacting road safety Press Releases drivebuddyAI Secures Patent for CARD – Envisioning to Create a CIBIL Like Structure for Truck Drivers Using AI-driven Driver Scoring Method Connect with US FOR AUTONOMOUS DRIVING EVOLUTION Join Us Now and Drive Safely into the Future of Mobility We are on a mission to assist commercial fleets in becoming safer and efficient. To enable this, we have built our Intelligent Driver & Fleet Safety Platform. This platform aims to ensure safety, reduce high-risk events, save on potential losses, and improve efficiency. Join us in this journey towards the future of mobility. WE’RE HIRING 0 Bn+ KMs Covered 0 % Reduction in Fatigue & Drowsiness Behaviour 0 % Fleet Risk Reduction Our Growth Partners As Featured In",
+   "email_candidates": [
+    {
+     "email": "connect@drivebuddyai.co",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting"
+  },
+  {
+   "id": "5ac8a9edfa",
+   "company": "EisenVault",
+   "website": "https://www.eisenvault.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "New Delhi",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "EisenVault Records Management. Languages: Java, Shell",
+   "site_text": "[https://www.eisenvault.com/]\nDocument Management System (DMS) India | Enterprise DMS Software top of page +91 74282 42192 sales@eisenvault.com Support Sales Document Management System Software THE RIGHT DOCUMENT | THE RIGHT PERSON | THE RIGHT TIME ​ EisenVault's Enterprise Cloud Based Document Management System in India is trusted by HR, Accounts, Schools, Colleges, Hospitals, Legal Teams, Governments, Manufacturing Companies, and General Counsel. Our enterprise DMS software provides secure, scalable document management for businesses handling large volumes of documents and complex workflows. EisenVault combines cloud document storage, advanced security, workflow automation, and centralised document management in one powerful Document Management System Software. Store, secure, search, and manage documents with a cloud-based document management system. Centralize files in a secure document repository with workflow automation, controlled access, and online document management. Cloud-Based DMS Deploy on-premises document management software on your internal network and servers. Keep documents and data securely stored within your infrastructure while managing files through centralized storage, controlled access, and document workflows. On-Premises DMS Convert paper records into searchable digital documents through professional document digitisation and scanning services. Capture, index, and organize business documents for secure digital storage, faster retrieval, and easier document management. Documents Digitisation Get in Touch EisenVault's Cloud-Based Document Management System Is Trusted By Numerous Corporations Worldwide ABOUT US EisenVault is an enterprise document management system (DMS) in India that helps organizations securely store, organize, search, share, control, and automate business documents at scale. EisenVault's Enterprise Document Management Software is trusted by organizations in India and across the globe to centralize documents, strengthen security, automate workflows, and improve operational efficiency. Available as both a Cloud-Based Document Management System and an on-premises solution, EisenVault enables teams to securely access and collaborate on documents from anywhere. Designed for growing businesses and large enterprises, EisenVault helps organizations centralize invoices, purchase orders, employee records, contracts, policy documents, marketing assets, engineering drawings, CAD files, and every other type of business document in a single, secure repository. Our Enterprise Document Management Solution supports a wide range of file formats, including PDFs, Microsoft Office documents, images (PNG, JPEG), DWG files, videos (MP4), and many more. Powerful indexing, metadata, version control, and AI-powered search make it easy to find the right document in seconds. EisenVault's Enterprise DMS also includes advanced workflow automation, document approvals, access controls, audit trails, and role-based permissions to help organizations maintain compliance while improving productivity. Whether you're replacing shared drives or modernizing legacy document storage, EisenVault provides a scalable platform that grows with your business. Accessible through web browsers, Microsoft Outlook, and dedicated Android and iOS apps, EisenVault enables employees to securely store, retrieve, share, and manage documents from any location. From HR, Finance, Legal, Healthcare, Manufacturing, Education, and Government organizations to large multi-location enterprises, EisenVault delivers the security, flexibility, and scalability modern businesses need to manage their documents with confidence. Types of Document Management Software OUR PRODUCTS Our document management system provides many solutions to your business problems. Records management enhances your business process and increases productivity. Cloud-Based Document Management Software The EisenVault cloud-based Document control software is built using modern, open archi",
+   "email_candidates": [
+    {
+     "email": "contact@eisenvault.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "s.chandra@eisenvault.com",
+     "where": "https://www.eisenvault.com/about-company",
+     "kind": "personal"
+    },
+    {
+     "email": "sales.malaysia@eisenvault.com",
+     "where": "https://www.eisenvault.com/about-company",
+     "kind": "personal"
+    },
+    {
+     "email": "sales.indonesia@eisenvault.com",
+     "where": "https://www.eisenvault.com/about-company",
+     "kind": "personal"
+    },
+    {
+     "email": "sales.uae@eisenvault.com",
+     "where": "https://www.eisenvault.com/about-company",
+     "kind": "personal"
+    },
+    {
+     "email": "sales.sea@eisenvault.com",
+     "where": "https://www.eisenvault.com/about-company",
+     "kind": "personal"
+    },
+    {
+     "email": "sales.na@eisenvault.com",
+     "where": "https://www.eisenvault.com/about-company",
+     "kind": "personal"
+    },
+    {
+     "email": "amitdev2222@gmail.com",
+     "where": "GitHub commits (tesseract-ocr)",
+     "kind": "personal",
+     "name": "Amit Dovev",
+     "commits": 21
+    },
+    {
+     "email": "zdenop@gmail.com",
+     "where": "GitHub commits (tesseract-ocr)",
+     "kind": "personal",
+     "name": "zdenop",
+     "commits": 16
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting"
+  },
+  {
+   "id": "e93880b9f9",
+   "company": "Overjoyed to partner with Menlo Research's brilliant founders to recruit founding engineers for our open-source humanoid startup! We're delighted to build Asimov in public with a global developer ecosystem. Senior GTM and engineering referrals are tremendously appreciated! I'm exhilarated to advance the future of humanoids in public with our wonderful international team We're based in Singapore and Palo Alto. Our high priority roles are the #1 Founding Research Partnerships Lead as well as founding engineers. Enclosed are our careers, and please examine our Go-To-Market, Brain, Hardware, Software, Manufacturing, and \"Wildcard\" subsections. Thank you so much! https://menlo.ai/ https://menlo.ai/careers",
+   "website": "https://alumni.stanford.edu",
+   "title": "See posting",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-03T16:49:13Z",
+   "posting": "Overjoyed to partner with Menlo Research's brilliant founders to recruit founding engineers for our open-source humanoid startup! We're delighted to build Asimov in public with a global developer ecosystem. Senior GTM and engineering referrals are tremendously appreciated! I'm exhilarated to advance the future of humanoids in public with our wonderful international team We're based in Singapore and Palo Alto. Our high priority roles are the #1 Founding Research Partnerships Lead as well as founding engineers. Enclosed are our careers, and please examine our Go-To-Market, Brain, Hardware, Software, Manufacturing, and \"Wildcard\" subsections. Thank you so much! https://menlo.ai/ https://menlo.ai/careers Founding Sr Research Partnerships: https://jobs.ashbyhq.com/menlo/2a6e8b38-80c2-4886-b863-ef44c... Research Partnership role is based in Palo Alto (hybrid). We always encourage multiplicities of cultures, intellectual density, undiscovered genius, and AI engineering talent! Please directly apply via Ashby and optionally email resumes to hannahft@alumni.stanford.edu.",
+   "site_text": "[https://alumni.stanford.edu/]\nStanford Alumni Association (SAA): Events, Reunion, Travel & Alumni Benefits | Stanford Alumni Association Skip to main content Search Search Welcome Home, Stanford Alumni Welcome Home, Stanford Alumni The Stanford Alumni Association (SAA) is the official alumni organization of Stanford University, serving more than 252,000 graduates around the world. Reconnect with classmates at Reunion Homecoming, find alumni groups near you, grow your career, travel with Stanford faculty, and keep up with the latest research and ideas from the Farm. Reunion Homecoming Time, Classes ’1s and ’6s October 15–18, 2026 Reconnect with undergrad classmates over four unforgettable days packed with Mini-Reunions, your class party and tailgate, and Classes Without Quizzes. Visit with old friends, make new ones, and celebrate the shared legacy of your Stanford journey! Register for Reunion Homecoming 2026 (external link) Not Your Reunion Year? Grad School Alum? Get the Homecoming Pass! The Homecoming Pass is open to all Stanford alumni, including graduate school alumni and anyone outside a Reunion year. It includes Classes Without Quizzes, campus open houses, the Alumni Homecoming Tailgate, and all the energy of Stanford's biggest annual bash for alumni! See what’s included in the Homecoming Pass (external link) Stories News, views, and perspectives from the Stanford community. Hello From Your New SAA President Where you’ll find me this fall, why I love this community, and an invitation to tell me what Stanford means to you. Survival Skills (external link) from STANFORD magazine How a dorm game taught me confidence. What's in Season with Trees of Stanford, Part 2 💎’s are forever, even on the Farm. Stanford Open Minds An alumni event with Stanford’s President and Faculty Journey With Us Stanford Open Minds is a traveling event series that brings Stanford’s president, leading faculty, and the latest insights to cities across the country—you bring your questions and the spirit of possibility. It’s a celebration of curiosity, collaboration, and fun. Having you there will make it even better! Registration is now open for Boston and Miami. Boston: November 7, 2026, 4 p.m. ET Miami: December 9, 2026, 5 p.m. ET Register for Stanford Open Minds (external link) Alumni Benefits and Programs There’s something for everyone at Stanford Alumni. We’re here to help you connect, learn, and grow every step of the way. Career Connections Changing careers or growing your network? Use SAA’s career resources, including coaching, programs, and alumni networking. See career resources Students Current Stanford undergraduate and graduate students can join SAA programs designed to connect them with alumni before graduation. Find student programming Community Stay connected and find Stanford alumni groups worldwide, organized by region, industry, identity, and shared interest. Discover groups (external link) Stanford Travel/Study 2027 Family Trips Ditch the Road Trip for the Journey of a Lifetime Turn family vacations into unforgettable global adventures. Whether you’re dashing through Finland’s snowy landscapes to chase the Northern Lights, spotting rhinos and penguins in South Africa, or cruising alongside playful sea lions in the Galápagos, these trips are designed to delight travelers of all ages. Jun 25 – to Jul 05 Croatia Family Adventure With Young Explorers Program for kids ages 6+ Sail Adriatic waters aboard a luxurious ship, chartered just for us. Visit medieval cities and sites like the Klis Fortress and, during free afternoons, swim and snorkel. Jul 10 – to Jul 19 South Africa Family Adventure With Young Explorer Program for kids ages 7+ From penguins in Cape Town to rhinos in Sabi Sands, this family-friendly journey explores pristine reserves, conservation efforts, and South Africa’s complicated history. Jul 23 – to Jul 30 Galápagos Family Adventure With Young Explorer Program for kids ages 6+ Enjoy a family cruise through the remote isl",
+   "email_candidates": [
+    {
+     "email": "hannahft@alumni.stanford.edu",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "contact-saa@alumni.stanford.edu",
+     "where": "https://alumni.stanford.edu/about/",
+     "kind": "personal"
+    },
+    {
+     "email": "reunion-info@alumni.stanford.edu",
+     "where": "https://alumni.stanford.edu/about/departments/",
+     "kind": "personal"
+    },
+    {
+     "email": "studentprograms@alumni.stanford.edu",
+     "where": "https://alumni.stanford.edu/about/departments/",
+     "kind": "personal"
+    },
+    {
+     "email": "communities@alumni.stanford.edu",
+     "where": "https://alumni.stanford.edu/about/departments/",
+     "kind": "personal"
+    },
+    {
+     "email": "learnmore@alumni.stanford.edu",
+     "where": "https://alumni.stanford.edu/about/departments/",
+     "kind": "personal"
+    },
+    {
+     "email": "raisemyhand@alumni.stanford.edu",
+     "where": "https://alumni.stanford.edu/about/departments/",
+     "kind": "personal"
+    },
+    {
+     "email": "membership@alumni.stanford.edu",
+     "where": "https://alumni.stanford.edu/about/departments/",
+     "kind": "personal"
+    },
+    {
+     "email": "stanfordsierra@alumni.stanford.edu",
+     "where": "https://alumni.stanford.edu/about/departments/",
+     "kind": "personal"
+    },
+    {
+     "email": "wine@alumni.stanford.edu",
+     "where": "https://alumni.stanford.edu/about/departments/",
+     "kind": "personal"
+    },
+    {
+     "email": "travelstudy@alumni.stanford.edu",
+     "where": "https://alumni.stanford.edu/about/departments/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "2fc9138994",
+   "company": "Location: Dubrovnik, Croatia (CET) Remote: Yes (remote only; EU/UK/US-overlap hours OK) Willing to relocate: yes Technologies: TypeScript, React, Next.js, Node.js/Express, PostgreSQL, Supabase, Prisma, Stripe (billing, webhooks), OAuth/JWT/RBAC, Anthropic/OpenAI APIs, RAG, Tailwind, Jest/Vitest/Cypress, Docker, GitHub Actions Résumé/CV: https://personal-website-tau-sandy.vercel.app GitHub: https://github.com/lazarbukejlovic LinkedIn: https://www.linkedin.com/in/lazar-bukejlovic Email: lazarbukejlovic@icloud.com",
+   "website": "",
+   "title": "See posting",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-03T16:29:34Z",
+   "posting": "Location: Dubrovnik, Croatia (CET) Remote: Yes (remote only; EU/UK/US-overlap hours OK) Willing to relocate: yes Technologies: TypeScript, React, Next.js, Node.js/Express, PostgreSQL, Supabase, Prisma, Stripe (billing, webhooks), OAuth/JWT/RBAC, Anthropic/OpenAI APIs, RAG, Tailwind, Jest/Vitest/Cypress, Docker, GitHub Actions Résumé/CV: https://personal-website-tau-sandy.vercel.app GitHub: https://github.com/lazarbukejlovic LinkedIn: https://www.linkedin.com/in/lazar-bukejlovic Email: lazarbukejlovic@icloud.com Full-stack / product engineer, 4+ years shipping production SaaS end to end. I lead a team of 5–6 engineers for an international client. Built operational dashboards used by ~10k monthly users, fixed duplicate-charge and sync bugs at the source with idempotent webhooks, and ship AI features that people can trust (cited evidence, confidence scores, human review queues). Also 3 years of customer-facing technical support, so I'm comfortable owning a problem from the customer report to the fix. Looking for: Product Engineer, Full-Stack, AI Product Engineer or Technical Support Engineer roles at small teams.",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "lazarbukejlovic@icloud.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "39a9b20b40",
+   "company": "Rebar",
+   "website": "https://withrebar.ai",
+   "title": "Software Engineers (Product, Applied AI, ML Infra, Data Platform)",
+   "location": "ONSITE 5 days/week, New York City (union square area!)",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-02T15:21:04Z",
+   "posting": "Rebar | Software Engineers (Product, Applied AI, ML Infra, Data Platform) | ONSITE 5 days/week, New York City (union square area!) | Full-time | $150k–$260k + equity | https://jobs.ashbyhq.com/rebar We build AI estimating software for commercial HVAC, plumbing, and electrical contractors. Before bidding on a job, a contractor or estimator has to count every duct, fitting, diffuser, and piece of equipment across a set of construction drawings that can run to thousands of pages. We speed this up by ingesting the drawings, detecting the equipment schedules, finding symbols, and producing a priced takeoff that the estimator reviews and corrects in a collaborative canvas editor. We have strong PMF and raised a $14M Series A earlier this year. It may not sound sexy, but it actually is!! There are a ton of hard and interesting engineering challenges. Just to highlight a few: * very dense document drawings with a realtime collaborative canvas editor (think 50k DOM elements and up) * segmentation models (and many more) whose output has to become geometry a user can interact with * gpu inference across hundreds of concurrent jobs * dynamic analytics and chart generation from agentic workflows custom built for estimators Open roles: * Software Engineer, Product ($180k–$240k): https://jobs.ashbyhq.com/rebar/5ab49c2d-9a70-4723-9217-7704a... * Software Engineer, Applied AI ($150k–$250k): https://jobs.ashbyhq.com/rebar/ad41a627-d9a4-49a4-a1b4-f7202... * Software Engineer, ML Infrastructure ($200k–$260k): https://jobs.ashbyhq.com/rebar/ead8df0c-b6da-4e79-90d0-99651... * Software Engineer, Data Platform ($170k–$220k): https://jobs.ashbyhq.com/rebar/c227ea05-98f8-4a08-9760-f7e3c... Stack: TypeScript/React/Next.js, Python, PyTorch, Postgres, Temporal, AWS, Kubernetes, Modal. We're also hiring for PMs, implementation, sales, and marketing roles! I'm the Head of Engineering. Apply through Ashby and mention HackerNews or HN in the Ashby form. Or email me at john@withrebar.ai. We will rep",
+   "site_text": "[https://www.withrebar.ai]\nRebar | The AI takeoff and estimation platform for mechanical teams Platform About Careers Resources Referral Program Log in Book a demo The AI estimating platform for mechanical teams Bid management and business intelligence for commercial mechanical teams, in one system of action. Book a demo Helping mechanical teams bid smarter and win more “ Our team at Johnson Barrow has gained tremendous efficiency by integrating Rebar into our business processes. With Rebar, we were able to bring takeoffs back in-house because of the significant efficiency gains our estimating team experienced. We are also continuing to uncover valuable insights about our business that help us sharpen our focus and drive growth. ” Rudy Caffall Principal, Johnson Barrow “ I can't stress enough, the efficiency of our bid coordinators, the efficiency of our estimators, the communication built in with Rebar, and in just a few weeks, it's truly been transformative to our business operations day to day. ” JJ Joseph Operations Manager, McMillan James “ HB McClure partnered with Rebar because we saw a team committed to building the right product, not just shipping features. Their willingness to work directly with our estimating and engineering teams to shape the platform around real-world commercial plumbing and mechanical workflows sets them apart. The Rebar team has been genuinely receptive to our feedback, using our industry experience to shape features that solve problems for contractors like us. ” Garrett Hartman Sales & Engineering, HB McClure “ As our estimating department has grown, Rebar has helped us create a process that is easier to manage and more consistent across our entire team, it's become an important part of how we organize our workload and keep projects moving. A project that takes up to 2 days can be done in 6-8 hours now. ” Moises Garcia Director of Internal Estimating, CAVH Why mechanical teams choose Rebar Bid management Takeoff Business Intelligence Supercharge your bid coordinators. Inbound requests get read, tagged, and prioritized automatically. Inbox 8 new this week Crawford School, MEP set 2h 26008, 28 pages, Mechanical Hot bid Due in 6d St. Jerome Catholic Church 4h Bid Set 6, Plumbing + Mechanical High Duplicate merged Dental on 137 Yesterday 12 pages, HVAC Medium New RFQ Aldi #2348, Port St Lucie 2d 55063, Addendum 3, Mechanical Low Revised Publix #1187, Boca Raton 3d 38210, 14 pages, Refrigeration Low Reviewed Riverside Medical Office 4d 31 pages, Mechanical Medium New RFQ Warehouse 12, Opa-locka 5d 9 pages, HVAC Low Reviewed Ocean View Apartments 6d Bid Set 4, Plumbing + Mechanical High Revised Crawford School, MEP set RFQ #26008, received from Capstone Mechanical Create bid Fwd: Bid List, Capstone Mechanical Aug 14 From [email protected] , 3 attachments 26008 Crawford School MEP set.pdf 14.5 MB 513132_VMS_TEMF_ITR_PLAN_SET.pdf 74.7 MB Hot Bid High Aug 20, 2026, 10:00 AM Aug 15, 2026, 10:00 AM M Mike R. J J. Alvarez T T. Song M Kimley-Horn Atlanta Plan & Spec BOD GRDs Titus 6 PAR ( 3 ) TMS ( 2 ) 300FL ( 1 ) RTUs Lennox 6 KCA092S4 ( 4 ) KGA120S4 ( 2 ) Fans Panasonic 3 FV-0511VQ1 ( 3 ) CUs Mitsubishi 2 PUZ-A36NKA7 ( 2 ) Heaters Greenheck 1 IDHE-208-3 ( 1 ) A home for all your bids. A live board with owner, status, deadline, and value on every job. Pre-filled for you. Bid Board Calendar Table Today Sep 20 – Sep 26 Mon 21 Review Schedule Red Oak Elementary Ferguson Mechanical Alex R. Review Takeoff Coral Way Retail Fit-Out Sunset Mechanical Alex R. Tue 22 Review Schedule Mech Sheets 50% CD Hill Mechanical Alex R. Review Takeoff Wynwood Hotel Tropic Air Mechanical Alex R. Review Takeoff Sawgrass Distribution Center Volunteer Mechanical Jamie K. Wed 23 Review Schedule Stoughton Mech Pages Bay State Mechanical Jamie K. Review Takeoff Emerald Isle Resort Sunset Mechanical Alex R. Thu 24 Review Takeoff Chambers Court Volunteer Mechanical Jamie K. Review Schedule Titan Cold Storage Gulfstream Air Alex R. Fri 2",
+   "email_candidates": [
+    {
+     "email": "john@withrebar.ai",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "b5ce125cae",
+   "company": "Luxury Presence",
+   "website": "https://luxurypresence.com",
+   "title": "Product Engineer, Internal Tools - LATAM",
+   "location": "LATAM",
+   "source": "jobicy",
+   "posted_at": "2026-10-04T04:35:20Z",
+   "posting": "Level: Senior. Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business. The Opportunity We don't just use AI. We build with it, ship with it, and think with it. With a generous budget for tokens, our engineers use AI agents to write, review, and ship production code every day. We are building toward a world where humans design systems and AI builds them, and we are already far along that path. We are looking for a hungry, highly autonomous Staff or Senior level Product Engineer to help and scale our internal tools. The Internal Tools team is the operational engine of Luxury Presence. Your customers are our own people: Customer Success, Sales, Onboarding, and fellow engineering teams. If an internal team needs a tool to move faster, automate a bottleneck, or serve our clients better, you will build it or support the architecture to make it happen. This role requires a true “10x engineer” who leverages AI development workflows (like Claude Code and Orca) to ship high-quality code at an unprecedented pace. You will be touching everything from complex UI dashboards in React to background job processing in NestJS, and deeply integrating it with our core data ecosystem. What You'll Do Lead internal product development. Partner with teams across Customer Success, Sales, Onboarding, and Engineering to uncover operational bottlenecks and design intuitive, high-leverage tools that multiply their effectiveness. Own the internal tool ecosystem. Architect and scale our internal platform (Scout) across the full stack. You'll weave together our React frontends, NestJS backends, and complex data integrations (spanning our CRM, data warehouse, and communication platforms) into a un",
+   "site_text": "[https://www.luxurypresence.com/]\nLuxury Presence | Premier Real Estate Websites & Marketing Platform Solutions Plans Case Studies Design Portfolio More (310) 955-1077 Log in Get started Platform Attract more clients Real Estate Websites Launch your dream website SEO & GEO Get discovered on Google and AI search Social Media Management Grow your brand across social Paid Ads Management Generate leads with paid advertising Turn your database into deals AI CRM See the signals no other CRM can show you Listing Alerts & Homeowner Reports Stay top of mind with every prospect and client AI Lead Nurture Respond to and qualify leads in minutes Smart Actions Reach out at the perfect moment, every time Create clients for life Collaborative Search Search, share, and collaborate with clients CMAs & Presentations Create presentations that win listings Branded Mobile App Put your brand in every client's phone Solutions For Solo Agents Make your mark on the market For Celebrity Agents Keep the spotlight on your brand For Growing Teams Accelerate your team's growth For Brokerages Command your brand at scale Plans Case Studies Design Portfolio More Resources Blog Read the latest Presence Podcasts Listen to the latest episodes Help Center Find answers to your questions Company About Us Learn about our story and mission Reviews Read client reviews Careers Join the team News & Press Get the latest updates (310) 955-1077 Log in The growth platform for real estate’s top performers Attract clients, turn your database into deals, and build relationships for life — powered by Presence ® AI Book a Demo Explore Plans Attract more clients We run your marketing for you across Google, AI search, social media, and paid ads, so your brand shows up where buyers and sellers are already looking. You approve what goes live. Real Estate Websites Explore SEO & GEO Explore Social Media Management Explore Paid Ads Management Explore Turn your database into deals Hidden buying and selling signals sit inside your network. We surface the contacts who may be ready for a transaction and show you exactly who to reach out to, when, and what to say. AI CRM Explore Listing Alerts & Homeowner Reports Explore AI Lead Nurture Explore Smart Actions Explore Create relationships for life We keep your clients engaged with your brand long after the transaction is closed, so every deal becomes a source of repeat business and referrals. Collaborative Search Explore CMAs & Client Presentations Explore Branded Mobile App Explore We’ve helped thousands of businesses just like yours Bonneau Ansley Ansley Christie’s International Real Estate Carrie Wells Coldwell Banker Realty Chase Mizell Sotheby’s International Realty Dawn McKenna Coldwell Banker Realty Glennda Baker Coldwell Banker Realty Gregg Lynn Sotheby’s International Realty Gretchen Coley Compass Heather Domi Douglas Elliman Holly Meyer Lucas Compass Jade Mills Coldwell Banker Realty James Harris Carolwood Estates Jeff Biebuyck Compass Jonathan Spears Compass K. Ann Brizolis Sotheby’s International Realty Kirsten Jordan Corcoran Kumara Wilcoxon Sotheby’s International Realty Matt Breitenbach Compass Mauricio Umansky The Agency Nile Lundgren SERHANT. Noble Black Corcoran Paul Benson Engel & Völkers Ricardo Rodriguez Coldwell Banker Realty Shelton Wilder Christie’s International Real Estate Southern California Taylor Lucyk Christie’s International Real Estate Tim Allen Coldwell Banker Realty Tomer Fridman Christie’s International Real Estate Southern California Tracy Tutor Compass Tricia Lee Riley SERHANT. See all reviews We drive more growth and ROI for our customers $450B transaction volume closed by our clients 20,000+ real estate businesses on the Platform 6x faster client growth than peers in the same market 3x more transaction volume than peers in the same markets “It feels like me, but it also kind of looks like the city that I loved.” Tricia Lee Founder & Leader of Tricia Lee Team “My website literally generates organic leads ",
+   "email_candidates": [
+    {
+     "email": "hello@luxurypresence.com",
+     "where": "https://www.luxurypresence.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "485680b1d9",
+   "company": "GROWTH HACKER - GLOBAL - $50/HR",
+   "website": "https://techjobfinder.com",
+   "title": "See posting",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-02T13:12:02Z",
+   "posting": "GROWTH HACKER - GLOBAL - $50/HR Tech Job Finder is building an end-to-end platform for software engineers to get ready for all stages of interviewing. We recently raised a small seed round and now looking for a Growth Hacker to do B2C marketing for us. Think of it as a HackerRank challenger, packing many more features and all at a price of lunch. Since launching earlier this year, we have helped more than 100 software engineers to get ready for their next DSA interview. We realise it isn't a lot, but we are already post pmf. Ideally you have DevRel experience. Reach out with a resume, and a brief intro of how you'd approach scaling the reach of TechJobFinder to hiring@techjobfinder.com. https://www.techjobfinder.com",
+   "site_text": "[https://www.techjobfinder.com/]\nSupercharge your SWE, Product or Tech Sales Career Jobs Java JavaScript Rust C/C++/C# Python Golang PHP Data Science/AI/ML Data Engineering AWS/GCP/Azure DevOps Web3/Crypto/Blockchain Cybersecurity Mobile Development SQL/No-SQL Databases Full Stack Frontend Backend IoT UI/UX Tech Sales Product/Project Other Applications Leetcode/DSA Practice Interview Practice Technical Quizzes HireVue/Pymetrics Games Psychometric Tests Generate Application Application Tracker Resources Company Directory Interview Reviews Salaries Podcast Glossary Networking Agent LinkedIn Agent News SWE Product Tech Sales Blog SWE Product Tech Sales LOG IN SIGN UP English English Deutsch FranÃ§ais EspaÃ±ol PortuguÃªs Polski Italiano TÃ¼rkÃ§e Nederlands Log In Don't have an account? Create an Account Reset password OR continue with e-mail and password OR Sign in with Google Sign in with GitHub Sign in with LinkedIn Sign in with Facebook Join Tech Job Finder OR continue with e-mail and password OR Sign up with Google Sign up with GitHub Sign up with LinkedIn Sign up with Facebook ESC Browse Jobs Applications Resources News Blog Company Directory Trending Leetcode/DSA Practice Applications Jobs Jobs Company Directory Resources Salaries Salaries Interview Practice Applications âµ select esc close Supercharge Your Software Engineer Software Engineer Career TRY NOW As seen on Supercharge Your Software Engineer Software Engineer Career The End-to-End Framework to Land The Offer TRY NOW Land The Role LeetCode/DSA Practice Practice actual algorithm and programming puzzles used in interviews. Categorised per skill and difficulty. Understand your strengths and weaknesses. VS Code IDE in the browser Categorised across all types Hint, score, and implementation quality review Skills overview update after each submission Interview Practice Get personalised feedback based on both verbal and non-verbal communication skills. Identify your strengths and weaknesses in both technical and behavioral interviews. Verbal and non-verbal feedback Technical and behavioral interviews Unlimited recordings with playback Pass Online Assessments Get up to speed with psychometric testing. Score above the relative pass threshold across the applicant pool. Numerical, verbal, logical and SJT tests Detailed explanations for every solution HireVue and PyMetrics games And that's just the start Personalized Job Newsletter Get a weekly digest of the most relevant roles posted across 3,000 top employers with a personalised match score. Delivered straight to your inbox every Monday. Technical Quizzes Test and deepen your theoretical knowledge and understanding of technical concepts on any technology and programming language. Stay Commercially Aware Keep up to date with recent events affecting the ecosystem and bigger picture. Never miss an important development or story. Delivered weekly straight to your inbox. Generate Application Create a tailored CV and cover letter for every role, optimized to pass ATS filters. Highlight your most relevant skills and present a stronger application in less time. Boost Your LinkedIn Profile Visibility Our AI agent will suggest content to be posted on your profile with a schedule over a month. Review, approve and get noticed by recruiters search faster. Networking Agent Upload your resume and find alumni and hiring managers at target tech firms. Source 25 real contacts at a time with email and LinkedIn so you can reach out with personalised emails. TRY NOW FOR FREE Trending Jobs This Week Browse Jobs Latest News See all Cybersecurity GitHub added fresh authentication gates for sensitive actions Tech Job Finder 3 days ago GitHub has rolled out a new public preview feature that adds extra authentication layers for high-risk actions in enterprise settings. The proof-of-presence checks, announced on September 24, require users to reauthenticate or use MFA before creating tokens, modifying webhooks, or performing other sensitive tasks. Thi",
+   "email_candidates": [
+    {
+     "email": "hiring@techjobfinder.com",
+     "where": "job posting",
+     "kind": "hiring"
+    },
+    {
+     "email": "hello@techjobfinder.com",
+     "where": "https://www.techjobfinder.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  }
+ ]
+}

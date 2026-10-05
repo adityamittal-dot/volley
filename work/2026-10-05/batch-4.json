@@ -1,0 +1,326 @@
+{
+ "leads": [
+  {
+   "id": "63a8068b59",
+   "company": "Atomic",
+   "website": "https://www.atomicvest.com/",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 25. API that lets companies embed investment accounts into their services With our API any company that holds consumer deposits (e.g. savings apps) can easily embed professionally managed investment accounts into their services. Artificial Intelligence, Fintech, B2B, Retail, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.atomicvest.com/]\nAtomic Invest ðªðº Atomic expands to Europe with the acquisition of Groene Hart FinanciÃ«le Diensten Atomic expands to Europe with the acquisition of Groene Hart FinanciÃ«le Diensten Atomic expands to Europe ðªðº with the acquisition of Groene Hart FinanciÃ«le Diensten Solutions Company Legal Partner login Talk to us Solutions Company Legal Partner login Talk to us The easy way to offer investing and savings The easy way to offer investing and savings The easy way to offer investing and savings The easy way to offer investing and savings A single platform for fintechs and financial institutions to provide investing and savings products. A single platform for fintechs and financial institutions to provide investing and savings products. Talk to us Talk to us See more See more Solutions Wealth Management Deliver advanced wealth management capabilities, from custom indexing to bond laddering, in a fully automated and highly scalable way. Learn more Solutions Wealth Management Deliver advanced wealth management capabilities, from custom indexing to bond laddering, in a fully automated and highly scalable way. Learn more Solutions Wealth Management Deliver advanced wealth management capabilities, from custom indexing to bond laddering, in a fully automated and highly scalable way. Learn more Solutions Cash Management Provide cash management accounts for individuals and businesses, offering access to high-yield instruments such as FDIC-insured cash sweeps, money market funds, and treasury bills. Learn more Solutions Cash Management Provide cash management accounts for individuals and businesses, offering access to high-yield instruments such as FDIC-insured cash sweeps, money market funds, and treasury bills. Learn more Solutions Cash Management Provide cash management accounts for individuals and businesses, offering access to high-yield instruments such as FDIC-insured cash sweeps, money market funds, and treasury bills. Learn more Solutions Brokerage Launch modern brokerage experiences with access to fractional stocks, bonds, mutual funds, ETFs, and alternative investments, spanning both U.S. and international markets. Learn more Solutions Brokerage Launch modern brokerage experiences with access to fractional stocks, bonds, mutual funds, ETFs, and alternative investments, spanning both U.S. and international markets. Learn more Solutions Brokerage Launch modern brokerage experiences with access to fractional stocks, bonds, mutual funds, ETFs, and alternative investments, spanning both U.S. and international markets. Learn more Why us Why us Weâve done the heavy lifting for you Weâve done the heavy lifting for you Weâve done the heavy lifting for you Weâve done the heavy lifting for you Atomicâs end-to-end solution reduces legal and operational hassles, allowing you to focus entirely on your product. Atomicâs end-to-end solution reduces legal and operational hassles, allowing you to focus entirely on your product. How we can help Launch and scale with ease Launch and scale with ease Launch and scale with ease Launch and scale with ease Developer-first APIs Integrate with ease through our developer-first APIs. Pre-built experiences Accelerate your time to market with our pre-built experiences. Back-office solutions A complete dashboard to effectively manage all your customer accounts. Reliable partner Safety, security, and compliance are fundamental to our offering Safety, security, and compliance are fundamental to our offering Safety, security, and compliance are fundamental to our offering Safety, security, and compliance are fundamental to our offering 01 Regulated SEC-licensed investment advisor and FINRA-registered broker-dealer. 01 Regulated SEC-licensed investment advisor and FINRA-registered broker-dealer. 02 G-SIB Custody Custody of assets at BNY Pershing, and Bank of New York Mellon - the world's largest custodian bank. 02 G-SIB Custody Custody of assets at BNY Pershing,",
+   "email_candidates": [
+    {
+     "email": "mediainquiries@atomicvest.com",
+     "where": "https://www.atomicvest.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "651439c90d",
+   "company": "Invopop",
+   "website": "https://www.invopop.com/",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "Madrid, Community of Madrid, Spain",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. We help global software companies comply with local tax reporting Invopop helps global companies like SumUp, Fever, and DeepL manage electronic invoicing across more than 25 countries through a single API. In the next five years, over 40 countries—including all EU member states—will require businesses to issue invoices electronically and report them in real-time to tax authorities. Instead of building and maintaining numerous local integrations, global companies can integrate just once with Invopop, streamlining compliance and saving time. FinOps, Fintech, Compliance, B2B, Finance and Accounting, Spain, Europe, Remote, Partly Remote",
+   "site_text": "[https://invopop.com/]\nThe invoicing infrastructure for global businesses | Invopop Skip to main content Get started Contact sales Contact sales Get started Contact sales The invoicing infrastructure for global businesses Send and receive compliant invoices in 30+ countries . Get started Read the docs Workflows Run the finance processes you want, with compliance built in Automate your invoicing with visual workflows you control. Count on reliable infrastructure that scales with you, market after market. Exchange documents Send and receive compliant documents over the Peppol network. Workflows Peppol send invoice V3 Â· Jul 2, 2025, 15:41 1 Set State Â· Set state to Processing 2 Add Sequential Code Â· Dynamic Â· PPL Â· PPL0000001 3 Sign Envelope 4 Generate UBL Document Â· Peppol BIS Billing UBL Invoice 5 Send Peppol Document 6 Set State Â· Set state to Sent 7 Send a Slack message Â· Set to #invoice-alerts Billing Peppol Customer Billing Peppol Customer Billing Peppol Customer Report to tax authorities Send to each tax authority in the format and timing they require. Workflows Veri*Factu issue invoice V3 Â· Jul 2, 2025, 15:41 1 Set State Â· Set state to Processing 2 Add Sequential Code Â· Dynamic 3 Sign Envelope 4 Generate Verifactu (Spain) 5 Send Verifactu (Spain) 6 Generate PDF Â· Spanish Â· A4 7 Set State Â· Set state to Sent Argentina Belgium Brazil (NFS-e) Chorus Pro DIAN Colombia France Greece (ILYDA) InvoiceXpress Argentina Belgium Brazil (NFS-e) Chorus Pro DIAN Colombia France Greece (ILYDA) InvoiceXpress Argentina Belgium Brazil (NFS-e) Chorus Pro DIAN Colombia France Greece (ILYDA) InvoiceXpress Argentina Belgium Brazil (NFS-e) Chorus Pro DIAN Colombia France Greece (ILYDA) InvoiceXpress Connect your ERP and billing Plug into NetSuite, Stripe, Chargebee, and the other tools you already run. Workflows Chargebee PDF invoice V3 Â· Jul 2, 2025, 15:41 1 Import Chargebee document 2 Set State Â· Set state to Processing 3 Sign Envelope 4 Generate PDF Â· Spanish Â· A4 5 Set State Â· Set state to Sent 6 Generate Verifactu (Spain) 7 Update Chargebee Stripe Chargebee Netsuite Stripe Chargebee Netsuite Stripe Chargebee Netsuite Onboard entities at scale Onboard thousands of businesses and keep them compliant as requirements change. Workflows France register party for reporting V3 Â· Jul 2, 2025, 15:41 1 Set State Â· Set state to Processing 2 Sign agreement 3 Wait for approval 4 Register party for reporting 5 Set State Â· Set state to Completed Innovatech Solutions Â· B12345678 FutureFocus Labs Â· B82345685 Ecom Visionary Â· B62345683 Apex Innovations Inc. Â· B92345686 GreenWave Technologies Â· TechSphere Innovations Â· B32345680 Creative Cloud Designs Â· B22345679 SmartSolutions Co. Â· B72345684 Innovatech Solutions Â· B12345678 FutureFocus Labs Â· B82345685 Ecom Visionary Â· B62345683 Apex Innovations Inc. Â· B92345686 GreenWave Technologies Â· TechSphere Innovations Â· B32345680 Creative Cloud Designs Â· B22345679 SmartSolutions Co. Â· B72345684 Innovatech Solutions Â· B12345678 FutureFocus Labs Â· B82345685 Ecom Visionary Â· B62345683 Apex Innovations Inc. Â· B92345686 GreenWave Technologies Â· TechSphere Innovations Â· B32345680 Creative Cloud Designs Â· B22345679 SmartSolutions Co. Â· B72345684 Innovatech Solutions Â· B12345678 FutureFocus Labs Â· B82345685 Ecom Visionary Â· B62345683 Apex Innovations Inc. Â· B92345686 GreenWave Technologies Â· TechSphere Innovations Â· B32345680 Creative Cloud Designs Â· B22345679 SmartSolutions Co. Â· B72345684 Exchange documents Send and receive compliant documents over the Peppol network. Report to tax authorities Send to each tax authority in the format and timing they require. Connect your ERP and billing Plug into NetSuite, Stripe, Chargebee, and the other tools you already run. Onboard entities at scale Onboard thousands of businesses and keep them compliant as requirements change. Workflows Peppol send invoice V3 Â· Jul 2, 2025, 15:41 1 Set State Â· Set state to Processing 2 Add Sequen",
+   "email_candidates": [
+    {
+     "email": "laura.gomz@yahoo.com",
+     "where": "https://invopop.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "sam.lown@invopop.com",
+     "where": "GitHub commits (invopop)",
+     "kind": "personal",
+     "name": "Sam Lown",
+     "commits": 7
+    },
+    {
+     "email": "pabloj.menendez@gmail.com",
+     "where": "GitHub commits (invopop)",
+     "kind": "personal",
+     "name": "pmenendz",
+     "commits": 19
+    },
+    {
+     "email": "miguel.torres@invopop.com",
+     "where": "GitHub commits (invopop)",
+     "kind": "personal",
+     "name": "Miguel Torres",
+     "commits": 4
+    },
+    {
+     "email": "mark.mackay@invopop.com",
+     "where": "GitHub commits (invopop)",
+     "kind": "personal",
+     "name": "Mark Mackay",
+     "commits": 3
+    },
+    {
+     "email": "luis.coll@invopop.com",
+     "where": "GitHub commits (invopop)",
+     "kind": "personal",
+     "name": "lucoma",
+     "commits": 11
+    },
+    {
+     "email": "duopixel@gmail.com",
+     "where": "GitHub commits (invopop)",
+     "kind": "personal",
+     "name": "Mark MacKay",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "655a01122a",
+   "company": "Rescript",
+   "website": "https://rescript.ai/",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "Washington, DC, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. AI for Legal & Public Policy Teams Rescript is using AI to make the law transparent, accessible, and easy to act on. Laws and regulations differ across jurisdictions and are constantly changing, making them too complex for organizations to review and track manually at scale. We're building an agentic AI platform capable of aggregating and interpreting global regulations, tracking how they change, and identifying how organizations should respond. Our customers span AmLaw100 law firms, Fortune 100 corporations, and top trade associations across healthcare, retail, fintech and more. They depend on Rescript to help them comply with and act on an ever-changing regulatory landscape from the federal level down to individual cities. We're backed by YC, General Catalyst, and Floodgate. SaaS, Civic Tech, B2B, LegalTech, AI, B2B, Legal, United States of America, America / Canada",
+   "site_text": "[https://rescript.ai/]\nRescript: AI for Regulatory Compliance and Public Policy AI for Legal & Policy Intelligence Turn complexity into clarity with an AI system that can research, track, and organize laws and public policy across jurisdictions — all in one place. Request Demo Trusted by AmLaw 100 Law Firms Bloomberg Government Top 10 Lobbying Firms Fortune 100 Companies Rescript is AI built for legal & public policy teams. Work in a platform grounded in trusted sources and expert workflows. Ask Rescript anything... Add files 8 sources Web Statutes Regulations Executive Orders Legislation Proposed Regulations Public Comments Hearings Cover a Hearing Summarize Public Comments Run a Survey One platform. All of your workflows. Research and establish a baseline, monitor for changes, and deliver work products without switching systems. Research Ask natural-language questions. Get answers grounded in documents, citations, and jurisdictional context. What regulations govern PBM transparency? Monitor Track how the law changes. Configure and receive alerts for legislation, hearings, rules, and comment windows by client or issue area. New bill adopted Hearing posted Comment due Deliver Create work products. Produce and share 50-state surveys, memos, and reports with stakeholders. Memos Surveys Watchlists Rescript unifies the regulatory landscape. Rescript helps you keep track of policy movements from first signal, to proposal and adoption. Hearings & Meetings Legislation & Proposed Regulations Public Comments Statutes & Regulations From live testimony to post-meeting analysis. Rescript transcribes every detail while the meeting unfolds, then turns the record into a concise post-hearing memo with best-in-class speaker identification. Hearings Panel Meetings Markups Livestream Ask a follow-up Hearing Memo Senate HELP · July 9, 2025 12:44 PM Background The hearing followed a narrow CDC Director vote and opened against a broader public-health trust debate before turning to health care cybersecurity, rural provider capacity, and privacy gaps for consumer health data. Key Moments 00:15 Cybersecurity and HIPAA framed Members cited Change Healthcare, apps, wearables, and AI-enabled tools. 00:36 Rural cyber capacity raised Witness testimony focused on staffing, budget, and vendor constraints. Track bills, proposals, and impact. Rescript uses AI to filter through 1,000s of new bills and regulations, identifying exactly what's changed and what matters to you. Redlines NPRM tracking Horizon scanning AMENDED IN ASSEMBLY APRIL 14, 2026 / Compared to March 19, 2026 AB 1609 Customer service chatbots. (b) For telephonic customer service platforms, the large private business shall make a good faith effort to ensure ... all of the following: (1) That a customer call be answered quickly and, after the call is answered, that a The customer is not placed on hold for more than 5 15 minutes at any point after the call is answered, and that cumulative hold times for a call not exceed more than 10 minutes one hour total. (2) If a call is answered by a customer service chatbot, the operator of the telephonic platform shall provide customer is given the option to request a customer service agent and, upon that request, is provided human assistance within five fifteen minutes after the call request is made. Ask Rescript about what changed... Relevant bill detected Business unit impacted: Emerging Technology Why it matters AB 1609 passed the Assembly on May 27 and now scopes chatbot support obligations to businesses over $500M in national revenue, while changing the required human-assistance timing from five to fifteen minutes. Track this bill Dismiss Turn comments into stakeholder intelligence. Rescript groups themes, maps positions, and drafts stakeholder analysis memos for regulatory teams tracking comment windows on proposed rules. Theme clustering Position mapping Stakeholder memo CMS-2025-0028-0695 · LTCH operator Noland Health Services Opposes the high-cost o",
+   "email_candidates": [
+    {
+     "email": "hello@rescript.ai",
+     "where": "https://rescript.ai/contact-sales",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "6c193b3dab",
+   "company": "Betterhalf",
+   "website": "https://betterhalf.ai",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "Bengaluru, KA, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 25. India’s first and only marriage super app Betterhalf is India's first and only matrimony app without parents. We are the first and only marriage super app in India offering end-to-end matrimony and wedding products to urban Indians, who are the primary decision makers for their marriage and wedding decisions, unlike their parents who were in the driver's seat a decade ago. Our ecosystem of products on marriage - matchmaking, courtship and wedding in one super app - and focused on the correct audience - high income, higher age urban working professionals of India who are located in 30 tier-1 cities of India makes Betterhalf product a winning combination. Our flagship product - matrimonial matchmaking - offers these users the world's fastest matching in a single click (US Patent No. 16/777,773). This matching technology is faster than Tinder and more accurate than eHarmony / Shaadi.com. Dating, India, Consumer, Social, India, South Asia, Remote, Partly Remote",
+   "site_text": "[https://play.google.com/store/search?q=betterhalf&c=apps&hl=en_IN]\nbetterhalf – Android Apps on Google Play Apps and games Movies & TV Books Betterhalf.ai® - Matrimony App Betterhalf® In-app purchases Indian Matchmaking & Matrimony App. Find Genuine & Verified Profiles for Shaadi. 3.5 star 35.8K reviews Mature 17+ info 50L+ Downloads Install Mature 17+ Users interact, In-app purchases Learn more Indian Matchmaking & Matrimony App. Find Genuine & Verified Profiles for Shaadi. Aisle - Dating App For Indians Aisle Network Pvt. Ltd. 4.3 star eharmony dating & real love eharmony Inc. 3.2 star Hinge Dating App: Match & Date Hinge, Inc. 3.5 star Bumble: Dating & Meet People Bumble Holding Limited 3.8 star The Wedding Company Partner Betterhalf® Shaadi.com: NRI Matrimony People Interactive 4.2 star Telugu Matrimony® Marriage App Matrimony.com Ltd. 4.1 star Badoo: Chat & Dating app India Badoo 4.0 star happn: dating app happn 4.0 star\n\n[https://play.google/giftcards/]\nWhere to buy gift cards & promotions - Google Play Jump to Content Redeem Redeem Benefits Where to buy Promotions Unlock a world of apps and games. Go Play. Where to buy Get Play Credit for yourself in the Play Store app Open Play Store Get Play Credit for someone else with a gift card Where to buy Watch the film The perfect gift for any moment Explore endless play Millions of apps, games, and more to discover here. Youâre bound to find just the thing for you. No fees, no worries And no expiration dates, either. Use your balance however youâd like, whenever youâd like. Pay ahead Using a gift card makes it easy to stay on top of your spending. Avoid gift card scams Scammers use different ways to trick people into providing Google Play gift cards. Learn more on how to protect yourself at play.google.com/giftcardscam . Buy online and in-store No matter how you like to shop, we've got you covered. Online In-store Online See more In-store Select a retailer to find a store near you. See more Redeem in country of purchase Terms apply . Card is valid only in original country of purchase. Choose your own adventure From mind-bending puzzles to epic quests, explore endless play with the latest promotions. Get $2 off your Gossip Harbor purchase* when you buy a Google Play gift card of $10 or more. Learn more Get $2 off your Gossip Harbor purchase* when you buy a Google Play gift card of $10 or more. *Applies to a purchase in Gossip Harbor on Google Play of $9.99 or more. Terms apply. Available at select retailers 10/01 â 12/31/2026. Valid for $2 discount towards an in-app purchase in Gossip Harbor on Google Play with an on-store price of $9.99 or more at the time of purchase. Subscriptions are excluded. Open to users who purchase a Google Play gift card valued at $10 or more at participating retailers between 10/01/2026 and 12/31/2026. Redeem Google Play gift card by 01/14/2027. Discount expires 14 days after Google Play gift card redemption. Limit 1 per user. Valid for a single transaction only. Not valid on prior purchases. Cannot be combined with any other offers. Discount applied at checkout on Google Play. Valid in the United States only. Google Payments account required. Age restrictions apply. Subject to earlier termination by Google in its discretion. See Google Content Promotion Terms ( https://play.google/promo-terms ) and Google Play Terms ( https://play.google.com/about/play-terms/ ) for more information. Promoter: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Play is a trademark of Google LLC. GOOGLE PLAY GIFT CARDÂ® TERMS OF SERVICE apply to gift cards ( https://play.google/card-terms/ ). Copyright Â© 2026 Microfun. All rights reserved. More ways to buy Google Play gift codes can also be purchased from a cashier or self-service kiosk at select locations.\n\n[https://play.google.com/intl/en_us/about/play-terms/index.html]\nGoogle Play Terms of Service Jump to Content Google Play Jump to Content Google Play Google Play Terms of Service ",
+   "email_candidates": [
+    {
+     "email": "team@aisle.co",
+     "where": "https://play.google.com/store/search?q=betterhalf&c=apps&hl=en_IN",
+     "kind": "generic"
+    },
+    {
+     "email": "hello@hinge.co",
+     "where": "https://play.google.com/store/search?q=betterhalf&c=apps&hl=en_IN",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "79af304c92",
+   "company": "Morph",
+   "website": "https://morphllm.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Fast Models Optimized for Coding Agents Specialized inference, built for agent workloads Fast Open-Source models: Kimi k3, Deepseek v4 flash, qwen 397b, at 200+ tps Specialized models for applying edits, code search, compaction, and model routing Artificial Intelligence, Developer Tools, Generative AI, API, AI, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.morphllm.com/]\nMorph - Inference Built for Agents Morph Book a Call Sign Up / Log In NEW: Kimi K3 : #1 on Design Arena I n f e r e n c e b u i l t f o r A g e n t s The fastest Kimi K3 and GLM-5.3. Specialized models for search, diff apply, compaction, and monitoring. Get API Key View Docs Copy Prompt Install MCP → 500B+ tokens / day Top 25 provider on OpenRouter 400+ production agents #1 Kimi K3 on Design Arena Trusted in production by teams building the next generation of coding agents Kimi K3 + GLM-5.3 The agent toolkit Reflex The loop One inference stack for the whole agent loop. Run the agent Kimi K3 is #1 on Design Arena: Fable-tier, served at 100 tok/s. GLM-5.3 is Opus-tier with 1M context. Both on kernels tuned for agents, plus the open-weight lineup: Qwen, MiniMax, DeepSeek. Read How → Docs → OpenRouter → Search, apply, compact Specialized models: WarpGrep for search. Fast Apply for applying edits at 10,500 tok/s. Compact at 33k tok/sec. Docs → Try in Playground → Fast Apply Code edit merging 10,500+ tok/s WarpGrep Parallel code search #1 SWE-Bench Pro Compact Context compaction 33,000 tok/s Reflex LLM as a Judge for agent convo turns, built for speed and scale Read How → Docs → Learn More → Thinking, Fast and Slow Read the thesis → Fast · someone is waiting Intelligence per second per user ~100 tok/s sub-second on a hot cache Slow · nobody is watching Intelligence per dollar lowest $/token a million tokens at 3am Powering Binance, Zo Computer, and 100+ production agents “ At our build pace, the apply step was the bottleneck. Morph took it from seconds to instant. We tried every alternative. Nothing else hit that speed without wrecking accuracy. ” Ben Guo , Co-Founder & CEO, Zo Computer “ Our users build 100K+ line apps in a single session. The apply model gets hit thousands of times. Morph just runs in the background, no broken diffs, no babysitting. It just works. ” Marcus Lowe , Co-Founder & CEO, Anything “ Before Morph, we just couldn't deploy a fully on-prem coding agent. They're bad at long contexts and can't apply patches or diffs correctly. At our scale, a 2% error rate means hundreds of broken edits per day across thousands of engineers. Morph was the only one where we could roll it out org-wide without a review layer on top. The latency improvement was a bonus. The accuracy is what got it past our security and platform teams. ” D Davie , Engineering, Binance “ Slow applies and broken diffs were killing our conversion. Users would watch edits hang, or get back mangled code, and just leave. Morph fixed both. Speed and accuracy went up, churn went down. It turned the AI feature from a demo into something people actually rely on. ” Junior Garcia , Founder, HeroUI Same weights. Different tokens. Fidelity Within ±1% accuracy. Compare before switching. Speed Adapts to you; models run ~30% faster. Price More tokens per GPU-hour. You save more. Available in MCP plus the AI SDK and Fast Apply WarpGrep Inference Integrate & Monitor Deploy anywhere. Our cloud or yours. Self-Host Deploy Morph on your own infra - on-prem or cloud. High Rate Limits Flexible, high-capacity rate limits. Enterprise Level Reliability 99.9% uptime SLA with top-tier support . SOC2 Certified Ready-to-sign agreements for enterprise compliance. Frequently Asked Questions Everything you need to know about Morph What is Morph? What makes Morph's inference different? Can I self-host Morph at my company? Does this replace Claude or Gemini? How much work is it to integrate Morph? How fast is Morph? More about Morph Engineering DeepSeek V4.1 Flash on the Morph API DeepSeek V4.1 Flash is live on Morph as morph-dsv41flash: a 552B-backbone MoE (about 763B total with Engram memory and vision) with 8B active for input and 16B for output, image input, native tool calling, thinking on by default with an adjustable budget, and a 1M context. $0.15 per million input, $0.01 cached, $0.60 output. Tejas Bhakta Sep 10, 2026 Engineering Thinking Fast and S",
+   "email_candidates": [
+    {
+     "email": "info@morphllm.com",
+     "where": "https://www.morphllm.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "7e40bf20e3",
+   "company": "Cedana",
+   "website": "https://cedana.ai",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Fast, reliable, reproducible AI with GPU live migration Cedana (YC S23) brings hyperscaler and frontier-lab orchestration capabilities for AI workflows. Our core capability is live migration for CPUs and GPUs workloads. This increases cost savings up to 80%, accelerates time to first token 2-10x, and enables stateful reliability of training jobs even through catastrophic GPU failures. We've integrated our solution into K8s, and support Kueue and Slurm for training distributed jobs, and Kserve for serving inference. OpenAI, Meta and Microsoft have flavors of these capabilities internally and we’re bringing them to everyone. Our vision is to transform cloud compute into a real-time, arbitraged commodity. https://www.cedana.ai Deep Learning, Developer Tools, Cloud Computing, Infrastructure, AI, B2B, Infrastructure, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://cedana.com/]\nCedana | GPU Job Migration Infrastructure DARK LIGHT Login Schedule demo Schedule demo DARK LIGHT cedana / throughput · v1.4 · build 2826 GPU Migration Infrastructure for Inference. Cedana checkpoints, migrates, and resumes running inference across your fleet, any engine, any model, any orchestrator, raising throughput, reliability, and AI revenue per MW. Schedule a demo Read the docs ~ / cedana / migrate · live node-A ─▸ node-B The Problem → The Fix AI workloads cannot move once running. Cedana makes them liquid . Four ways stranded compute drains budgets — and how Cedana resolves each, live and in place. ~ / cedana / problem ─▸ fix · live ● 4 resolved ✕ Idle GPUs :: 75% idle └▸ Maximize throughput :: 88% util ✕ Expensive failures :: 65% lost └▸ Automated reliability :: 0 lost ✕ Overprovisioned GPUs :: 50% over └▸ Eliminate overprovisioning :: 0% buffer ✕ Rigid infrastructure :: no adapt └▸ Adaptive infrastructure :: real-time — the problem status: degraded → with cedana status: ok → 01 ERR.IDLE Idle GPUs 75% idle 01 RESOLVED Maximize throughput up to 88% utilization → 02 FATAL.RESTART Expensive failures 65% compute lost 02 RESOLVED Automated reliability 0 lost progress → 03 WASTE.30% Overprovisioned GPUs 10–50% overprovisioned 03 RESOLVED Eliminate overprovisioning 0% safety buffer → 04 STUCK.SCHEDULE Rigid infrastructure cannot adapt 04 RESOLVED Adaptive infrastructure real-time Read how we work See the lifecycle Live Proof · Console Cold-Start Race Failover Cold-Start Race Same model. Same hardware. 21.7× faster to first token. ↻ RESTART ‖ PAUSE GLM-5.2-FP8 · 753B MoE · Multimodal · vLLM v0.19.0 · TP=8 · 8× B200 · 734 GiB ckpt · elapsed 00 : 00 . 00 s GLM-5.2 MiniMax Kimi-K2.6 DeepSeek-V4 Nous-Hermes Llama 4 400B NATIVE · vLLM v0.19.0 · TP=8 ● COLD START 00 : 00 . 00 $ vllm serve zai-org/GLM-5.2-FP8 --tp=8 INFO 00:00:03 spawning 8 workers · EP=8 INFO 00:00:40 loading shards 12/94 … INFO 00:05:00 loading shards 40/94 … INFO 00:12:00 loading shards 78/94 … INFO 00:16:20 loading shards 94/94 … INFO 00:18:40 building cuda graph (×8) INFO 00:20:30 warming kv cache · vision tower INFO 00:21:30 jit compile attention CEDANA · RESTORE ▲ WARM RESUME 00 : 00 . 00 $ cedana resume glm-5.2-fp8 --from=snap.az-1 [+] fetch snapshot :: ok (734 GiB · memlock) [+] verify hash :: ok (sha256: c4e1…9a) [+] restore cuda ctx :: ok (8× driver attached) [+] repopulate gpu mem :: ok (weights + KV) [+] thaw connections :: ok (sockets) [+] register endpoint :: ok (port 8000) READY 00:01:01 first token NATIVE 0.0 s CEDANA 0.0 s delta · − 1261 s saved speedup · 21.7× verdict · cedana wins Advanced · Status: SCALING Built for the hardest workloads. 01 · ADVANCED WORKLOADS Distributed by default. Works transparently with MPI & NCCL . ~ / cedana / all-reduce · live node-A ─▸ node-B mpi + nccl · all ranks · one snapshot ● Δ 0 steps 02 · SCALE From a single node to an AI factory . ~ / cedana / scale · live 1 ─▸ ai factory scale tiers · 1 → ai factory ● linear The Platform unlock () your scheduler. 0 1 Work with what you have No rip-and-replace. No code changes. No disruption to your teams. 0 2 Kubernetes & SLURM Built for AI and HPC. Native support for SLURM and Kubernetes. 0 3 First migration in <30 min K8s helm chart or SLURM plug-in. No changes to your config. ~ / cedana / deploy ● ready Command your compute . Your compute, liquid — checkpoint, migrate, and resume live GPU jobs across the fleet. Schedule a demo Read the docs deploy K8s helm chart · SLURM plug-in first migration <30 min code changes 0 workloads training · inference · HPC 0 1 AWS 0 2 Google Cloud 0 3 NVIDIA 0 4 K8s 0 5 SLURM 0 6 Nvidia Dynamo\n\n[https://cedana.com/blog/]\nCedana Blog | Engineering Notes and Field Reports DARK LIGHT Login Schedule demo Schedule demo DARK LIGHT cedana / blog · field reports & engineering deep-dives Writing from the cedana team. Engineering notes, benchmarks, and field reports covering how we build the automation layer for AI factories. Feat",
+   "email_candidates": [
+    {
+     "email": "contact@cedana.ai",
+     "where": "https://cedana.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "yashanand1910@gmail.com",
+     "where": "GitHub commits (cedana)",
+     "kind": "personal",
+     "name": "Yash Anand",
+     "commits": 23
+    },
+    {
+     "email": "swarnimarun11@gmail.com",
+     "where": "GitHub commits (cedana)",
+     "kind": "personal",
+     "name": "Swarnim Arun",
+     "commits": 3
+    },
+    {
+     "email": "b.sachdev1904@gmail.com",
+     "where": "GitHub commits (cedana)",
+     "kind": "personal",
+     "name": "Bhavik Sachdev",
+     "commits": 5
+    },
+    {
+     "email": "nravic@cedana.ai",
+     "where": "GitHub commits (cedana)",
+     "kind": "personal",
+     "name": "Niranjan Ravichandra",
+     "commits": 3
+    },
+    {
+     "email": "james@cedana.ai",
+     "where": "GitHub commits (cedana)",
+     "kind": "personal",
+     "name": "James Gornet",
+     "commits": 1
+    },
+    {
+     "email": "gerard@cedana.ai",
+     "where": "GitHub commits (cedana)",
+     "kind": "personal",
+     "name": "Gerard Martinez",
+     "commits": 4
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "7f6393a9fc",
+   "company": "Signadot",
+   "website": "https://www.signadot.com/",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Scalable validation infrastructure for AI agents Signadot is a Kubernetes-native platform that empowers AI coding agents to verify code at scale. Combining fast, scalable ephemeral environments with a validation framework built for complex distributed systems, Signadot ensures high-velocity code generation results in safely merged pull requests. Developer Tools, Kubernetes, B2B, Infrastructure, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.signadot.com/]\nSignadot | Fast Ephemeral Environments for Coding Agents Case Study How Laurel brings production-ready validation to AI-native development while cutting change failure rate by 82% Scalable Agentic Development platform AI writes code. We make sure it works. Give developers and coding agents the fastest path from code to merge. Ephemeral environments and automated validation on Kubernetes, built for enterprise scale. Start for free Book a demo No credit card required Playground cluster available Trusted by engineering teams worldwide Validate every code change Three building blocks that work together: sandboxes give you isolated environments, jobs run your test suites at scale, and plans encode your team's validation expertise. All inside your existing Kubernetes cluster. Sandboxes Ephemeral Environments Lightweight environments that share your existing cluster. Scale to as many parallel environments as your team needs. Kubernetes Cluster Auth Svc Sandbox 12s Pay Svc Sandbox 18s Cart Svc Sandbox 10s Search Svc Sandbox 24s Shared baseline 100s parallel Learn more Jobs Scalable test execution Execution infrastructure to run the Playwright, Cypress, or custom suites you already have, massively parallel inside your cluster. Test Frameworks playwright cypress custom run via Job Runner auth-e2e running checkout-flow running Auto-routed to sandboxes CI ready Learn more Plans Your validation logic Compose actions into reusable plans that agents run to validate changes. Actions — primitives http-req run-test custom compose into Plans — validation flows payments auth-e2e custom Learn more Trusted by teams shipping faster 10x faster Feedback in seconds Developers and agents spin up sandboxes and get instant feedback on every change. → Wealthsimple: faster testing 80% fewer bugs Bugs caught pre-merge Test against real dependencies in your cluster pre-merge. No mocks. → Earnest: catching bugs earlier 85% less infra costs Cut infrastructure costs Scale to thousands of sandboxes without duplicating infrastructure. → Brex: saved $2M annually Fast feedback from local dev to pull request merge One Signadot platform powers two loops: fast functional feedback for agents and developers locally, and comprehensive validation for every PR. Inner Loop Fast functional feedback. Agents close the loop autonomously. 1 + AI Coding Agents Write Code Agents and developers collaborate on features. Rapid iteration on every change. 2 agent · local MCP k8s cluster sb Spin Up a Sandbox Local agent connects to your live cluster via MCP or CLI. Sandbox ready in seconds. 3 ✓ checkout.e2e ✓ auth.e2e ✕ payment.e2e Closed-Loop Validation Agents run E2E and integration tests against the live cluster, debug failures, and iterate autonomously. One Signadot Platform Promote forward · Iterate back Outer Loop Comprehensive PR validation. Regression, E2E, and non-functional suites. 4 PR #142 opened auto-sb k8s cluster sb A Sandbox for Every PR Every PR auto-provisions its own sandbox in the cluster. Same Signadot platform. 5 Integration E2E Regression Performance Run Comprehensive Tests Plans and Jobs run integration, E2E, regression, and non-functional suites in Kubernetes. 6 Merge Ready All tests No regressions Perf clean Merge with Confidence Validated in both loops. Ship code with high confidence in quality and behavior. Built for how your team actually works Different roles, same platform. Signadot fits into your existing workflows. Engineering Leaders For Engineering Leaders You're being asked to adopt AI coding tools and increase developer productivity without increasing headcount or cloud spend. Signadot is the infrastructure layer that makes that possible. Scale validation to match the pace of code generation, without scaling costs. Learn more Phil Burrows Head of Platform Engineering at Brex \"Signadot for this (preview environments) use case fit what we were trying to do better than anything else. It was a more mature solution than the othe",
+   "email_candidates": [
+    {
+     "email": "info@signadot.com",
+     "where": "https://www.signadot.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "scott@signadot.com",
+     "where": "GitHub commits (signadot)",
+     "kind": "personal",
+     "name": "Scott Cotton",
+     "commits": 47
+    },
+    {
+     "email": "anirudh@signadot.com",
+     "where": "GitHub commits (signadot)",
+     "kind": "personal",
+     "name": "Anirudh Ramanathan",
+     "commits": 11
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "91be3ec13d",
+   "company": "Educato",
+   "website": "https://www.educato.com/",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Worldwide exam-prep platform Educato builds exam prep platforms worldwide using AI. Online exam prep has existed for decades, yet the big players all target the same top 10 exams in the US. The reality is that most exams around the world still have little to no quality online prep material, including many taken by hundreds of thousands of students each year. Educato uses AI to generate high-quality prep content for these exams. LLMs allow us to target the profitable fat middle in the distribution of exams, historically overlooked by education companies. Artificial Intelligence, Education, Edtech, Education, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.educato.com/]\nEducato - Learn Faster. Be Ready for Every Exam. Learn faster. Stress less. Be ready for every exam. Save hours of study time and get exam-ready faster. Build my study plan Trusted by 170,000+ students, clinicians, and professionals 4.9/5 average rating 2,023 verified reviews Educato is trusted by students and professionals at... Backed by real mock exam data Educato users score higher on average. In our analysis of real mock exams, Educato users outperformed other students by a clear margin. Read the full analysis +4.92 percentage points higher on average Average mock exam score comparison 51.01% 55.93% 58 56 54 52 50 48 Other students Educato users Across multiple subjects and exam types. Discover Our 10,000+ Exams Students from all over the world use Educato to better prepare. IMAT 🌐 NCLEX-RN 🇺🇸 SAT/ACT 🇺🇸 ATI TEAS 🇺🇸 CNA - Certified Nurse Aide 🇺🇸 CSE - Civil Service 🇵🇭 HESI A2 🇺🇸 MCAT 🇺🇸 NCLEX-PN 🇺🇸 New feature Your AI tutor, now in your ears . Get lesson summaries, clear explanations, and weak-topic recaps, spoken to you in seconds. Explain this concept in a simple way 00:24 02:47 Friendly voice Clear explanations Energetic recaps What Your Colleagues Say Join thousands of students already learning with us. Livia Stefania Top 50 Performer What I liked the most about the platform is that it organized many simulations of all subjects, which brought me down to earth. I realized what things I didn't know and every time I could work something out. It's very important to get things straight from the first pass, and the platform gives you everything you need to do that. 🤓 Show more 908 Ana Cricorian Top 60 Performer Personally, I started using rezi.educato in the second half of the year and it helped me to delve deeper through the question banks (which were of a high difficulty) details, which I might otherwise have overlooked, and the weekly simulations were an effective way to see where you stand compared to other colleagues and the chapters on which you should insist more. Show more 904 Valentin Vilceanu Medical Student I think the platform has the greatest potential of all that exists now. The question banks helped me determine what I needed at the time, and the fact that periodically something new appears and you introduce new functions completely separates it from the rest of the platforms. Show more 853 Alexandra Galatanu Medical Student Educato is a platform that offers many advantages, starting with the very easy-to-use interface. Their question banks showed me what details to pay attention to, and the weekly simulations keep you on schedule. Sorry for not showing up sooner Educato. 🥹 Show more 872 Darius Filiș Medical Student I've been searching for a residency preparation platform that tests logic, not just memory, while ensuring that no detail is overlooked. Educato not only accomplishes this but goes above and beyond! Show more Diana Pirvu Medical Student Educato is for me the best way to learn the subject for residency as logically as possible. The AI integration is my favorite feature because it almost instantly provides additional clarification when needed. Show more Luana Corbu Medical Student The recap test feature is exceptional and makes Educato my top choice. I no longer have to worry about planning my reviews, as the platform helps me stay organized and motivates me to complete them successfully! Show more Delia Barbu Medical Student The questions on Educato are a real help in preparing for the residency exam. They are clear, emphasize information without ambiguity, and the detailed explanations and flashcards help solidify the knowledge even further. Show more Ilona Paunescu Medical Student The rezi educato platform concentrates all the needs that a student about to take the residency exam has. This includes the material restructured in an easy way and the flashcards with the information you would tend to skip, up to the questions that help you fix the material as easily and effi",
+   "email_candidates": [
+    {
+     "email": "info@educato.com",
+     "where": "https://www.educato.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "9cdc8f39a5",
+   "company": "Axel Travel",
+   "website": "https://helloaxel.com/",
+   "title": "Engineering (YC Winter 2019)",
+   "location": "Seattle, WA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. AI agent that saves you money on travel Axel finds you the best travel deals, has negotiated rates and gets you money back if the price drops after booking. FKA - Gordian Software: API for online travel companies to sell airline ancillaries Travel, Consumer, Travel, Leisure and Tourism, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://helloaxel.com/en]\nAxel | AI travel agent with fares you won't find anywhere else Skip to main content Travel with Axel. Get the best price. Ready Flight Deals Hotel Deals Reprice Get started See how much you can save with Axel. AI assistants can compare live flight prices with Axel. Axel does it all for you Axel books you the best flight and hotel deals Axel surfaces the best prices available for the flights and hotels that match your travel plans. Book directly with the confidence that Axel compared all your options. Delta $410 United $342 $489 Best deal Axel watches for price drops After you book, Axel monitors prices 24/7 and secures savings on flights and hotels automatically. Axel plans and tracks all your travel Tell Axel where you want to go. Axel finds the best flights and hotels, and keeps your whole trip organized. LAX 8:30a CUN 2:45p Thu, Jun 12 Westin Cancún Jun 12 – 18 · 6 nights Axel upgrades your stay Axel keeps looking for better hotels after you book. Pay 3-star prices for 5-star stays. Booked Comfort Inn Upgrade The Westin Same price Get started See how much you can save with Axel. Axel users love saving money on their travel N Noah “ Saved me $80 on a flight one day after I purchased the tickets! Buy flights without worrying about the price with Axel. ” Flight repriced · $80 saved C Carolyn “ Their rebooking is seamless and the travel credits appear in my airline account very fast. ” Seamless rebooking A Adam P. “ Axel tracked flights I'd purchased and got them canceled and rebooked—seat assignments and all!—with lower prices when the fare dropped. Pure magic! ” Auto-rebooked · lower fare D David “ Saved me money first day. Really cool. ” Day 1 savings J Jonathan H. “ Axel was able to rebook my Southwest flight and get me $61 back in flight credit! Gonna use that to book my next flight for March! ” Auto-rebooked · $61 credit P Parthi L. “ Saved $110 within 24 hrs. If you have a bunch of travel planned ahead of you, give it a go. ” Price drop · $110 saved J Jay B. “ I've flown 125+ flights per year for more than 10 years. The fact that Axel just works automagically is amazing. If you travel even a moderate amount, it's literally a no-brainer. ” Hands-free tracking N Noah “ Saved me $80 on a flight one day after I purchased the tickets! Buy flights without worrying about the price with Axel. ” Flight repriced · $80 saved C Carolyn “ Their rebooking is seamless and the travel credits appear in my airline account very fast. ” Seamless rebooking A Adam P. “ Axel tracked flights I'd purchased and got them canceled and rebooked—seat assignments and all!—with lower prices when the fare dropped. Pure magic! ” Auto-rebooked · lower fare D David “ Saved me money first day. Really cool. ” Day 1 savings J Jonathan H. “ Axel was able to rebook my Southwest flight and get me $61 back in flight credit! Gonna use that to book my next flight for March! ” Auto-rebooked · $61 credit P Parthi L. “ Saved $110 within 24 hrs. If you have a bunch of travel planned ahead of you, give it a go. ” Price drop · $110 saved J Jay B. “ I've flown 125+ flights per year for more than 10 years. The fact that Axel just works automagically is amazing. If you travel even a moderate amount, it's literally a no-brainer. ” Hands-free tracking J Jonathan H. “ Axel was able to rebook my Southwest flight and get me $61 back in flight credit! Gonna use that to book my next flight for March! ” Auto-rebooked · $61 credit P Parthi L. “ Saved $110 within 24 hrs. If you have a bunch of travel planned ahead of you, give it a go. ” Price drop · $110 saved J Jay B. “ I've flown 125+ flights per year for more than 10 years. The fact that Axel just works automagically is amazing. If you travel even a moderate amount, it's literally a no-brainer. ” Hands-free tracking N Noah “ Saved me $80 on a flight one day after I purchased the tickets! Buy flights without worrying about the price with Axel. ” Flight repriced · $80 saved C Carolyn “ Their rebooking is ",
+   "email_candidates": [
+    {
+     "email": "add@trips.helloaxel.com",
+     "where": "https://helloaxel.com/en",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "ac69ff8790",
+   "company": "Escape",
+   "website": "https://escape.tech",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "Paris, Île-de-France, France",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 29. Offensive security for the teams that are 100x outnumbered Replace legacy scanners and manual offensive security processes with AI agents that discover, test, and remediate directly in your engineering workflows. Developer Tools, Security, API, GraphQL, B2B, Security, France, Europe, Remote, Partly Remote",
+   "site_text": "[https://escape.tech/]\nEscape: AI-Powered Offensive Security Platform Discover whitebox pentesting in Cascade. Explore now Discover whitebox pentesting in Cascade. Explore now Discover whitebox pentesting in Cascade. Explore now Platform Solution Company Resources Research Log in Book a demo Platform Escape Platform Replace legacy scanners and manual offensive security processes with AI agents that discover, test, and remediate directly in your engineering workflows. See more AI in Escape Leverage our in-house, AI-powered DAST to secure your applications at the business logic level AI in Escape Research Escape rebuilds offensive and application security from the ground up: business logic testing, agentic pentesting, code-to-cloud correlation. Always developed in-house. Products AI Pentesting Run continuous AI-powered pentesting that learns your business, proves exploitability, and delivers reports that auditors and engineers can act on. Business-logic-aware DAST Leverage our in-house, AI-powered DAST to secure your applications at the business logic level External network pentesting Continuous testing of everything reachable from the internet. Every host, port, and exposed service is probed the way an attacker would, with proof of what's exploitable, followed by a retest. Attack Surface Management Discover and validate exposure of modern applications, APIs, and infrastructure from code to cloud. News Learn more By use case Use case one Leverage our in-house, AI-powered DAST to secure your applications at the business logic level Use case two Leverage our in-house, AI-powered DAST to secure your applications at the business logic level Use case three Leverage our in-house, AI-powered DAST to secure your applications at the business logic level By industry Industry one Leverage our in-house, AI-powered DAST to secure your applications at the business logic level Industry two Leverage our in-house, AI-powered DAST to secure your applications at the business logic level Platform AI in Escape Leverage our in-house, AI-powered DAST to secure your applications at the business logic level Research Leverage our in-house, AI-powered DAST to secure your applications at the business logic level About us Learn about our story Partners For the partners who give outnumbered security teams an unfair advantage Careers Join us on our mission! Resources Blog Explore offensive and application security insights Customer stories Learn what our customers achieve with Escape Documentation We're here to help you The Elephant in AppSec Podcast Listen to other practitioners’ stories Pentester vs. AI challenges Can you beat the machine? Events Discover our upcoming events across the world Security Research Modern AI-powered Pentesting Tools Benchmark Where the only variable is harness. Escape Research team found a PII disclosure in Keycloak It's now CVE-2026-17059. Escape found the same XSS in two AI chatboxes The vulnerability was in the Markdown renderer. State of GraphQL Security 2024 Leverage our in-house, AI-powered DAST to secure your applications at the business logic level The State of Security of Vibe Coded Apps How we discovered over 2k high-impact vulnerabilities in apps built with vibe coding platforms Tools GraphQL Security GraphQL Armor Featured How Amp got its SOC 2 type II pentest evidence in hours Compliance was in the product from day one, which meant a pentest in year one. Here is how they scoped it, ran it in hours with Escape, and made sure they're ready for their SOC 2 Type II audit. Escape the autonomous pentesting hype Practitioners share their thoughts All resources OFFENSIVE SECURITY ENGINEERING PLATFORM Offensive security for the teams that are 100x outnumbered Replace legacy scanners and manual offensive security processes with AI agents that discover, test, and remediate directly in your engineering workflows. Book a demo Book a demo Trusted by 2000+ security teams worldwide Our Products Attack Surface Management Discover and",
+   "email_candidates": [
+    {
+     "email": "mongi@escape.tech",
+     "where": "GitHub commits (escape-technologies)",
+     "kind": "personal",
+     "name": "M0ngi",
+     "commits": 9
+    },
+    {
+     "email": "gab.marquet@gmail.com",
+     "where": "GitHub commits (escape-technologies)",
+     "kind": "personal",
+     "name": "Gby56",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  }
+ ]
+}

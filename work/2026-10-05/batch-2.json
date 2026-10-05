@@ -1,0 +1,228 @@
+{
+ "leads": [
+  {
+   "id": "db74f80493",
+   "company": "Vola Dynamics",
+   "website": "https://voladynamics.com",
+   "title": "Software Engineers (C++, Python)",
+   "location": "NYC / CT",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-02T18:44:13Z",
+   "posting": "Vola Dynamics | Software Engineers (C++, Python) | NYC / CT | HYBRID | Full-time Vola Dynamics ( https://voladynamics.com ) builds the core C++/Java/C#/Python quant library that powers options trading and analytics at many of the world’s most sophisticated prop shops, market makers, hedge funds, and banks. Our volatility fitter and ultra-fast option pricers are the market standard. We're hiring for C++ engineers to work on our core library as well as Python engineers to build a new streaming data infrastructure from the ground up. Work style: Hybrid in NYC or South Norwalk, CT. In-office on Tuesday and Thursday. Apply here ( https://jobs.ashbyhq.com/voladynamics ) or email us at \"resumes [at] voladynamics [dot] com\" and mention HN in the subject.",
+   "site_text": "[https://voladynamics.com/]\nThe Market Standard in Options Analytics | Vola Dynamics Products View All Pricer Fitter Curves PnL Explanation Vol Derivatives VIX Pricer Discount Curve Fitter Div Fitter Event Var Fitter Event Modeling FX Module Examples Can Your Fitter Do This? Next Generation Curves AEX around Brexit AMZN around earnings SPX during the 2020 COVID Crash Asian Indices Commodity Futures Options Treasury Futures Options Use Cases Testimonials About Our Story Team FAQ Media Careers VOLA DYNAMICS Products View All Pricer Fitter Curves PnL Explanation Vol Derivatives VIX Pricer Discount Curve Fitter Div Fitter Event Var Fitter Event Modeling FX Module Examples Can Your Fitter Do This? Next Generation Curves AEX around Brexit AMZN around earnings SPX during the 2020 COVID Crash Asian Indices Commodity Futures Options Treasury Futures Options Use Cases Testimonials About Our Story Team FAQ Media Careers Use light theme Use dark theme Contact Vola Dynamics Intuitive. Fast. Robust. The Market Standard in Options Analytics . Learn More Schedule a demo Institutional Options Analytics For Vanillas & vol derivatives (VIX, var, vol swaps) Any underlier Any asset class Any market Trusted by the world's best market makers vol arb traders prop shops hedge funds asset managers banks valuation agents prime brokers exchanges clearing houses regulators trading platforms And 40+ other institutional options trading desks. Built for options desks Volatility Fitting & Options Pricing Ultrafast, robust options pricing with full Greeks Real-time borrow implication and volatility fitting for electronic trading Stable, arbitrage-free vol surfaces to feed into your local vol or stochastic local vol model C++ Python Java C# auto fa = makeFactoryAnalytics (); auto fp = std:: string ( \"AEX_20160622-160000.000-CET_ocpf-eq.json.gz\" ); // serialized price fitter auto ocpf = fa-> makeOptionChainPricerFitterEquity (fp); // create fitter from serialized instance auto oc = ocpf-> optionChain (); // the option chain with contract information auto ps = ocpf-> priceSnapshot (); // price snapshot with price information auto vcts = VecVCT{ VCT::C6, VCT::C10M }; // curve type to use for fitting vols auto rf = ocpf-> fit (ps, vcts); // fit price snapshot auto vs = rf-> volSurface (); // use the volsurface for pricing auto ocp = fa-> makeOptionChainPricerEquity (oc, vs) // create pricer auto rp = ocp-> price (); // compute prices and greeks for all options in the option chain Beyond SVI & SABR Flexible & Intuitive Trade any index, ETF/stock, or futures options in any asset class (equity or FICC) off auto-fitted and/or easily adjusted surfaces. Robust & Fast Ultrafast market-maker-quality valuations and vol surfaces. Easy Integration Drop-in replacement for critical pricing and fitting infrastructure (C++, Python, Java, C#). Supported directly by the quants who build it. A Complete Volatility and Pricing Infrastructure The surface informs pricing, pricing determines Greeks, Greeks drive hedging and PnL — and at every step, the requirements are in tension. Accurate and fast. Smooth and flexible. Robust and arbitrage-free. See how firms use Vola's institutional options analytics . Proper spot-vol dynamics e.g. via \"SSR\", is integrated throughout, for accurate \"smart\" delta and gamma, realistic spot scenarios (incl. overnight), and temporal smoothing without bias. Bias-free fits of arbitrary market vol shapes including W-shapes Fit even the most liquid names like SPX, SPY, ES, NVDA, TSLA, etc, including around events or periods of market turmoil. Intuitive and flexible parametric curves Way beyond simple curves like SABR, SSVI, SVI (which are also available). Cash dividend & forward modeling Accurate and flexible, including \"blending schemes\", large borrows (HTB), funding curves, etc. Implied borrow, forward and vol calculations Fast, accurate and robust for any dividend model. All greeks Delta, gamma, vega, volga, vanna, rho, rhoBorrow, rhoDiv, thetas (with regard",
+   "email_candidates": [
+    {
+     "email": "resumes@voladynamics.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "info@voladynamics.com",
+     "where": "https://voladynamics.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "a1d42f6756",
+   "company": "Paradromics",
+   "website": "https://paradromics.com",
+   "title": "Embedded Software Engineer",
+   "location": "Onsite",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-02T18:49:35Z",
+   "posting": "Paradromics | Embedded Software Engineer | Austin, TX or Oakland, CA | Onsite | Full-time Paradromics is building a high bandwidth brain-machine interface for clinical use. The implant we built is restoring function to patients by streaming out neural data from specific brain regions in real time, which we convert to e.g. speech using machine learning. Check out our recent article in the NYT: https://archive.ph/C6CRb . We're looking for help in further developing and hardening our embedded Linux components, which work in tandem with FPGAs and our custom ASICs to read out neural data. Some of the ongoing efforts are: HIL testing on real devices, integrating new sensor ASICs, maintaining our Yocto build system, exploratory work on prototypes, improving our clinical UX, and improving the core code that receives and massages data. The code is largely written in Rust with a little Typescript, (and bash, and bitbake recipes, etc). You'll be expected to have experience constructing reliable and understandable software in Linux, and some level of experience in building and interacting with embedded hardware. Rust experience is ideal but not necessary. We're not looking for a specific number of YoE, but for motivated and hungry engineers who want to push the frontier of brain-machine interfaces. To apply visit https://paradromicsinc.applytojob.com/apply/u5hXN4N9ID/Embed... or email your resume and a little about yourself to me, ehuber@paradromics.com . I'll be glad to hear from you!",
+   "site_text": "[https://paradromics.com/]\nBrain-Computer Interface Platform | Paradromics Clinical Study Clinical Study Some of the most important breakthroughs Start with a simple act of connection our vision Advancing Human Possibility Paradromics sees a future where human intent defines our interaction with technology, extending human intelligence through AI and advanced computing. We are building a high-performance, high-data-rate BCI platform that restores lost capabilities today while advancing human possibility tomorrow. By reducing the distance between thought and action, we will help people communicate, control, create, and contribute more fully in life. Learn More News & Insights THE NEW YORK TIMES “Our first participant is choosing her own words and using neural activity to communicate them in real time. She determines what she wants to say, and the system enables her to say it.” Read Article Connexus® BCI The highest performing BCI in the world Now in FDA-authorized human clinical studies, Connexus BCI is a fully implantable, high-data-rate interface designed to translate neural intent into communication. Get a Closer Look “Brain-computer interfaces will help define the next stage of human evolution. By connecting human intent directly with AI and advanced computing, our current studies are focused on restoring lost capability today while expanding what people will be able to do tomorrow.” Matt angle Founder & ceo Clinical Study From intent to speech In our clinical trial, we are decoding neural signals to produce real-time speech, marking a major step toward restoring direct communication. Learn More\n\n[https://paradromics.com/company/]\nAbout Paradromics | BCI & Neurotechnology Company Clinical Study Clinical Study mission To inspire hope by restoring lost capability and unlocking the full potential of human intelligence The high-performance BCI platform company combining frontier neural engineering with clinical discipline to move brain-computer interfaces from restoring human function to advancing human possibility. Our technology is designed to help people participate more fully in life by restoring capabilities lost to disease or injury, while expanding the potential to work, contribute, create, and pursue what gives life meaning. history Signals over time Clinical Milestone 2026 First human implantation of the Connexus® BCI in the FDA-approved Connect-One Clinical Study. Scientific Milestone 2025 Completed the first in-human recording. Key Hire 2025 Neurosurgeon Stephen Ryu, M.D. joins Paradromics as CMO. Partnerships 2025 Clinical study investigators announced: David Brandman, M.D., Ph.D. and Daniel Rubin, M.D., Ph.D. Scientific Milestone 2024 Pre-clinical work starts for Early Feasibility Study FDA submission. Key Hire 2023 BCI veteran Vikash Gilja joins as CSO. Corporate Expansion 2023 Machine Learning and Data Science office opens in Oakland, CA. Scientific Milestone 2020-2022 First pre-clinical chronic recordings from Connexus® BCI. Key Hire 2019 Medical device veteran James Burrows joins as COO. Headquarters 2019 Established in Austin, TX. FDA Milestones fda milestone 01 March 2023 Breakthrough Device Designation #1 Speech decoding fda milestone 02 APRIL 2024 Breakthrough Device Designation #2 Digital device control fda milestone 03 APRIL 2024 Total Product Life Cycle Advisory Program (TAP) Acceptance fda milestone 04 NOVEMBER 2025 Investigational Device Exemption (IDE) Approval to initiate clinical study leadership Frontier innovation. Medical-device discipline. Paradromics is built to innovate like a frontier deep-tech company and execute like a mature Class III medical-device company. Our leadership brings together the scientific founders and neural-interface experts behind our platform with experienced operators who have advanced implantable medical devices through clinical development, FDA approval, commercialization, and scale. Matt Angle, PhD Founder and CEO Yifan Kong, PhD Chief of Staff to the CEO James Burrow",
+   "email_candidates": [
+    {
+     "email": "ehuber@paradromics.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "b3e1424fb6",
+   "company": "Mattermost",
+   "website": "https://mattermost.com",
+   "title": "See posting",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-03T17:52:07Z",
+   "posting": "Mattermost | Remote (US and Canada) | FT | Multiple roles Mattermost ( https://mattermost.com ) is an open-core collaboration and workflow automation platform for air-gapped, on-prem and private clouds. Our customers are in defense, intelligence, security and critical infrastructure, including the USAF and NASA. Y Combinator led our Series B, their largest open-source investment at the time. Both openings are full stack on the core platform: Go backend, React/TypeScript frontend, PostgreSQL and Redis. The codebase is public ( https://github.com/mattermost/mattermost ), so most of what you build is too. We would rather hire people who ship and own complex software end to end than chase an exact stack match, so any systems or backend language and any frontend stack counts. What we look for in both roles: REST and WebSocket APIs with real networking fundamentals (HTTP, connection lifecycle), and relational databases including schema design and query optimization. We use coding agents daily (Claude Code, Cursor, and others) at every stage of the work: planning, building, reviewing, testing, and shipping. We treat that as core craft rather than a shortcut around the fundamentals. If you have a track record of shipping and owning complex software end-to-end, we want to hear from you. Senior Full Stack Engineer $142,723 - $172,723 USD Architect and ship full stack features end to end, own the testing strategy for what you ship, and build internal tooling and testing infrastructure that makes the rest of the team faster. You will work without close supervision and hold the security and compliance bar our customers require. Nice to have: distributed systems and high availability architecture, regulated-environment security, open-source contributions, experience on remote-first teams. Join our team: https://job-boards.greenhouse.io/mattermost/jobs/5379251008 Staff Full Stack Engineer $172,724 - $227,135 USD Set technical direction for the platform rather than for a feature ar",
+   "site_text": "[https://mattermost.com/]\nMattermost | Operational and AI Sovereignty for Critical Infrastructure and National Security Skip to main content Introducing Mattermost Enterprise Advanced : multi-domain secure operations. Learn more Login Login My Workspace Admin Portal Apps Support Search Try Mattermost Get Started Solutions Explore how Mattermost is deployed across segments, industries, and use cases. Marketplace Download Segments National Security Intelligence Community Critical Infrastructure Enterprise Risk + Compliance Security Operations Center Industries Government + Public Sector Financial Services Healthcare + Life Sciences Energy + Utilities Technology Use Cases DevSecOps Mission Operations Real-Time Operations Compliance Automation Out of Band Incident Response Collaboration as Mission Infrastructure How do leads retain control when conditions deteriorate? Read Guide Platform Discover the tools, integrations, and deployment options purpose-built for your organization. Marketplace Download Overview Secure Messaging + Collaboration Workflow Automation Flexible Deployment Interoperability Sovereign AI Security Services Demo Library Incident Response Playbook See how our platform can work for you. Explore Resources Access customer stories, demos, blogs, downloadable content, and community tools to get the most out of Mattermost at every stage of your deployment. Marketplace Download Discover All Resources Customer Stories Blogs Events Webinars Content Newsroom Help Support Services Trust Center Forums Learn Academy Certifications Documentation Demo Library Developer Resources LISA Consortium Replaces Slack Data sovereignty, control, and flexibility are why. Read Story Company Learn about our mission, team, values, and the customers and communities we serve. Marketplace Download About Us Leadership Careers Brand Guidelines Responsible Disclosure Professional Certification for Engineers A new tier to validate your technical depth. Read News Try Mattermost Experience a 1-hour trial environment. Integrated Security Operations Out-of-Band Incident Response Self-Sovereign Collaboration Mission-Critical ChatOps Real-Time DevSecOps Collaboration Purpose-Built Collaboration Hub Marketplace Download Suggested Searches No results found. Try a different search term. Search index not found. Run npm run build locally to generate it, then refresh. You can also use the full search page after building. Are you a developer? Go to Developer Resources Sovereign Operations & AI for Critical Infrastructure and National Security Zero-trust collaboration, automation and AI in private cloud, self-hosted, and air-gapped environments. Built for national security, critical infrastructure, and regulated enterprises: you own the data, the model, and the keys. Runs self-hosted, private cloud, or fully air-gapped. Talk to an expert Explore the platform Trusted by mission-critical teams worldwide Intelligent Mission Environment One platform for your mission-critical operations Integrate secure messaging and collaboration, workflow automation, task management, sovereign AI agents, and real-time communication purpose-built for critical infrastructure and national security. Secure messaging & collaboration Workflow automation Human-Machine Teaming Audio & screenshare Project management Federation & interoperability Classified information control Integration framework Administration & governance Every capability runs entirely inside your perimeter, including in classified & air-gapped networks. Secure messaging & collaboration Full searchable history across channels, threads, and direct messages, with per-channel permissions and retention. Priority messages track who has acknowledged them. Available on web, desktop, mobile, and embedded inside Microsoft Teams. Workflow automation Repeatable playbooks for incident response, change management, and compliance, with conditional checklists, SLA timers, and escalation. Events from outside systems start them automat",
+   "email_candidates": [
+    {
+     "email": "aaron.thompson@mattermost.com",
+     "where": "https://mattermost.com/blog/",
+     "kind": "personal"
+    },
+    {
+     "email": "emily.dela.cruz@mattermost.com",
+     "where": "https://mattermost.com/blog/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "0e22d1a40b",
+   "company": "Synergy Infra and Projects",
+   "website": "https://synergyinfraprojects.com",
+   "title": "Electrical Engineer",
+   "location": "Surat",
+   "source": "unstop",
+   "posted_at": "2026-10-02T07:42:18Z",
+   "posting": "Responsibilities: Communicate and coordinate with the internal back-end technical team to propose solutions to customers as per site requirements. Work with customers to understand their specific needs and challenges, and develop customized solutions. Collaborate with the back office internal team to identify and qualify new leads or opportunities. Negotiate deals with customers to close the order and generate revenue. Responsible for managing the entire process from identifying prospects / new leads and influencing the specification to negotiating orders. Provide technical support to customers to ensure that our engineering product solutions and services meet their needs and requirements. Target potential leads, qualify them, and create a winning strategy by working closely with the principal partners. Contribute to the new development and execution of sales strategies.",
+   "site_text": "[https://www.synergyinfraprojects.com/]\nSynergy infra & Projects Search this site Embedded Files Skip to main content Skip to navigation Authorized Channel Partner of ABB India Limited & Hitachi Energy India Limited Synergy infra & Projects HV-EHV Overview SYNERGY INFRA & PROJECTS is into the business of electrical engineering product sourcing, consulting & services solution. With a history of success and a network of branches, we provide you with an integrated product solution for reliable product solutions along with preventive maintenance schedule, shutdown maintenance and project delivery in the evolving globalized world. Proactive rather than reactive, we are at the forefront of new specialties and advantageous alliances. We are here to enhance people's lifestyles and the economy through our engineering services. Our services are distinctive because they are continuous. Our adaptability and the solid communication between branches mean we deliver results against all odds and external challenges. The level of service and anticipation of market trends are what shape us. Why? Because we are dedicated to making sure you are satisfied no matter how large or small your project is. We also focus on what society really needs and hence pay special attention to the environment and communities. SYNERGY INFRA & PROJECTS currently operates on a PAN India basis with one centrally located head office that brings more than a higher success ratio for customer satisfaction. Google Sites Report abuse Page details Page updated Google Sites Report abuse\n\n[https://www.synergyinfraprojects.com/contact-us]\nSynergy infra & Projects - Contact Us Search this site Embedded Files Skip to main content Skip to navigation Authorized Channel Partner of ABB India Limited & Hitachi Energy India Limited Synergy infra & Projects REACH US Head Office (Surat) G - 39,40,41 , Ascon Plaza, Anand Mahal Road, B/H Bhulka Bhavan School, Adajan, Surat - 395009 Gujarat, India Call : 87582 97725 Email: inquiry@synergyinfraprojects.com Google Sites Report abuse Page details Page updated Google Sites Report abuse",
+   "email_candidates": [
+    {
+     "email": "inquiry@synergyinfraprojects.com",
+     "where": "https://www.synergyinfraprojects.com/contact-us",
+     "kind": "personal"
+    }
+   ],
+   "pay": {
+    "period": "month",
+    "min": 23000,
+    "max": 30000
+   },
+   "priority": 0,
+   "priority_note": "₹30,000/mo"
+  },
+  {
+   "id": "b36fd88f4c",
+   "company": "Founding Engineer (Security / AI / Distributed Systems) — Stealth Project Next-Gen Secure DePIN x Multi-Agent SLM Trading Platform (Stealth / DM for Proposal)",
+   "website": "",
+   "title": "See posting",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-02T14:46:57Z",
+   "posting": "Founding Engineer (Security / AI / Distributed Systems) — Stealth Project Next-Gen Secure DePIN x Multi-Agent SLM Trading Platform (Stealth / DM for Proposal) We are building a highly secure, decentralized AI-automated asset management and trading platform running on edge DePIN nodes. The platform utilizes 10 specialized SLMs (Small Language Models) for asynchronous execution. To ensure absolute privacy for institutional and whale traders, we implement a hard-layered defense system. This eliminates the front-running and data-selling risks common in current \"free\" AI wallets. Tech we use: Cardano/Midnight (ZKP), Estonia UXP, KSI Blockchain, eBPF kernel monitoring, TEE (Intel SGX/AMD SEV), Wasm sandboxing, and NATS/gRPC for low-latency messaging. We are looking for TWO top-tier founding engineers to team up for our upcoming high-value Grant Proposals (Web3 Foundations & Enterprise). One will focus on Security & Infrastructure, and the other on AI & Distributed Systems. Details: - Location: Remote (Global / Target: Eastern Europe, GMT+1 to GMT+3 preferred) - Compensation (Pre-Funding): $150 - $300 setup/consulting fee upfront for a 1-hour alignment call and the legal right to include your profile/CV in our upcoming Grant Proposals. - Compensation (Post-Grant): Once funding is secured, contracted at a premium rate of $100 - $150/hr (Equivalent to a $300k annual salary range). - Benefits / Upside: NO EQUITY DILUTION. Instead, we offer a Milestone-Triggered Revenue Share. Once the platform hits $10,000 in Monthly Gross Revenue, a total of 5% to 10% of Gross Revenue will be distributed directly to the 2 founding engineers every month for 12 consecutive months. - Role: Full-time / Milestone-contract. Apply or request the full proposal document by emailing us at: tai3426g@gmail.com",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "tai3426g@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "4a2501c4a5",
+   "company": "Software Engineer — Remote — US Only",
+   "website": "https://kaveronix.com",
+   "title": "See posting",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-02T19:15:41Z",
+   "posting": "Software Engineer — Remote — US Only Kaveronix is looking for experienced Software Engineers currently based in the United States for fully remote opportunities with our client organizations. What we’re looking for: 4+ years of professional software engineering experience Strong experience with modern software development Experience with technologies such as React, Node.js, Python, Java, .NET, TypeScript, or cloud platforms is a plus Strong communication and problem-solving skills Ability to work independently in a remote environment What we offer: Fully remote work Flexible working hours Competitive compensation based on experience Compensation: $80,000–$100,000/year, depending on experience. If you're interested, please send your resume at hassan.amir@kaveronix.com",
+   "site_text": "[https://kaveronix.com/]\nKaveronix",
+   "email_candidates": [
+    {
+     "email": "hassan.amir@kaveronix.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "64a0ab9ec4",
+   "company": "Ressl AI",
+   "website": "https://ressl.ai",
+   "title": "Engineering (YC Winter 2026)",
+   "location": "Bengaluru, KA, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Train, eval and build autonomous agents Ressl AI helps teams bridge the gap from prototype to production by providing the platform needed to train, benchmark, and deploy autonomous agents that actually work in real-world business systems. B2B, Operations, AI, B2B, India, South Asia",
+   "site_text": "[https://ressl.ai/]\nRessl — AI teammates for the work between your tools Skip to content Book a demo RESSL / AI TEAMMATES AI teammates for the work between your tools. The request is in a message. The context is in your CRM. The next step is still on someone’s to-do list. Ressl gives that work an AI teammate. Meet your AI teammate See how it works WORK STARTS EVERYWHERE A message from your team A request in your inbox A conversation with a customer RESSL Your AI teammate Understand the request and context Plan and carry out the next steps Bring people in where needed Your tools. Your process. Your context. THE WORK MOVES FORWARD A change prepared Ready for your team to review A request acted on Booked, updated, or routed A useful handoff The context comes with it Your people set the direction, review the work, and handle the exceptions. THE PROBLEM IS BETWEEN THE TOOLS You have the software. Your people still carry the work. Your CRM holds the records. Email and chat hold the conversations. Tickets hold the requests. But moving work from one place to the next still takes someone who understands the whole picture. That person has to find the context, decide what happens next, make the change, and keep everyone informed. The tools help with each step. Your team is still responsible for connecting them. ONE REQUEST. ALL THESE NEXT STEPS. Read the request Find the context Open another tool Make the update Follow up Context gets scattered. The information needed to finish a task lives across conversations, records, and system configuration. Handoffs become another job. Someone has to translate the request, transfer the details, and make sure the next step actually happens. An answer isn’t the outcome. Knowing what to do helps. But the change, the update, or the follow-through is still work that needs an owner. THE SOLUTION IS A TEAMMATE Give the work an owner. Not another inbox. A Ressl teammate works through the task, not just the conversation. It brings together context and action inside the systems your business already uses. Explore the AI teammates 0 1 REQUEST + BUSINESS CONTEXT Understand the work. Read the request in the context of the connected system, relevant configuration, and your team’s process. Start with what is actually there, not a generic answer. 0 2 PLAN + ACTION Work through the next steps. Turn the request into a plan and take action with the tools available to the role — whether that means preparing a change, handling an intake request, or scheduling the next step. 0 3 CONTEXT + CONTINUITY Keep the task connected. Keep the plan, work history, and follow-up together. A question or a handoff should build on the work already done, not send someone back to the beginning. 0 4 REVIEW + HANDOFF Bring people in with context. Return work for review, route an exception, or hand over a conversation. Your team stays responsible for the decisions that need its judgment. MEET YOUR TEAMMATES A teammate for the work ahead. Not another tool to manage. A clear role, a useful outcome, and someone on your team to work with. Find your teammate YOUR CONTEXT. YOUR WAY OF WORKING. 0 1 CRM delivery Investigate. Implement. Validate. 0 2 Customer operations From the first call to the next step. 0 3 Lead response Give every relevant inquiry a way forward. 0 4 Bids & proposals Tailored Build the estimate. Show the working. 0 5 NDA coordination Tailored Prepare redlines. Keep approval with people. 0 6 Office operations Tailored Turn conversations into organized follow-ups. Every role is configured for your team. Roles marked “Tailored” need adaptation and validation before rollout. BUILT AROUND THE WAY YOU WORK Keep your tools. Keep your team in control. A teammate should fit into your business. Your business shouldn’t have to reorganize around it. Start where work starts. Bring requests in through the channels relevant to the role, such as chat, email, tickets, or phone. Connect the tools needed to carry out the work. Work with your conte",
+   "email_candidates": [
+    {
+     "email": "hello@ressl.ai",
+     "where": "https://ressl.ai/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "246685b85b",
+   "company": "Flipkart",
+   "website": "http://www.flipkart.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Swift, TypeScript. Topics: 60fps, cross-platform, flatlist-alternative, ios, listview, networking, objective-c, performance, react, react-native, react-native-web, recyclerview, swift, tracking, viewability, web",
+   "site_text": "[https://www.flipkart.com:443/]\nOnline Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com Location not set Select delivery location Login New customer? Sign Up My Profile Flipkart Plus Zone Orders Wishlist Become a Seller Rewards Gift Cards Notification Preferences 24x7 Customer Care Advertise Download App More More Become a Seller Notification Settings 24x7 Customer Care Advertise on Flipkart Cart For You Fashion Mobiles Electronics Beauty Home Appliances Toys, baby.. Food & Health Auto Accessories Sports & Fitness Furniture Books 2 Wheelers Best Value Deals on Fashion Casual Shirts Min. 50% Off Men's Sweatshirts Special offer Women's Sarees Special offer Men's Boxers Min. 50% Off In demand Lowest Price Ever! From ₹129 Grab or gone Under ₹499 Sports Shoes Min 40% Off Grab or Gone! From ₹99 Brands in Spotlight Credit Card Flipkart EMI Pay Later For GenZ Flipkart Pay Sell Phone Gift Cards BLACK Originals SuperCoin Next Gen Must-have Electronics & Appliances Bikes & Scooters Special offer Shavers Min. 50% Off Massagers Min. 50% Off Trimmers Min. 50% Off Add to your wishlist Bestsellers Under ₹9,999 Popular Under ₹499 New Range Special offer Bestsellers Special offer Hang on, loading content Flipkart - Your go-to place for Online Shopping + Top Stories : Brand Directory Most searched for on Flipkart : Upcoming Big Billion Days Early Bird Offers Live Minutes Paan Store Minutes Pharmacy Store Minutes Grocery Store iPhone 18 Pro iPhone 18 Pro Max iPhone 15 Samsung S25 Samsung S25 FE iPhone Duo Vivo T5 POCO X8 Motorola Pad 70 Asus Pad LAVA Virat V1 5G LAVA Virat V1 Samsung Galaxy Z Fold8 Ultra Samsung Galaxy Z Fold8 Samsung Galaxy Z Flip8 Motorola Edge 70 Max OPPO Reno16 OPPO Reno16c Ai+ Nova 2 Pro Ai+ Nova 2 Neo MOTOROLA Edge 70 Pro Plus Type-C Earphones Apple Wired Earphones OPPO Find X9s OPPO Find X9 Ultra HMD VIBE2 Motorola G37 Motorola Razr Fold Motorola Edge 70 Pro vivo X300 FE vivo X300 Ultra OPPO F33 OPPO F33 Pro Ai+ Nova Flip REDMI Note 15 SE iPhone 17e vivo V70 FE Lumio Projectors Bags for Men Laptop Store Mixer Juicer Grinder Men's Shoes Adidas Men's Shoes Boat Earbuds Body Lotion Campus Shoes Earphones Red Tape Shoes Men's Slippers Helmets Nike Shoes Puma Shoes Trimmers Vivo Phones Iqoo Phones Smartwatches Women's Footwear Water Bottles Men's Jackets Anarkali Suits Hoodies for Men Men's Watches Men's Winter Jackets Women's Watches Premium Laptops Ray Ban Meta Smart Glasses Rings Earrings Airpods Bose Soundbars Jewellery Mobiles 4G Mobiles Nokia Phones Samsung Mobiles Oppo Mobiles Apple Phones Realme Mobiles Nothing Phones OnePlus Mobiles Blackberry Phones POCO Mobiles Feature Mobile Phones Redmi Phones Motorola Mobiles Mobile Phones Under 10000 Mobile Phones Under 15000 Mobile Phones Under 20000 Mobile Phones Under 25000 256 GB Mobiles 512 GB Mobiles 5.5 Inch Mobiles Camera Akaso Action Camera Nikon Cameras Canon Cameras Sony Cameras Instant Cameras DSLR Mirrorless Cameras GoPro Cameras Insta360 Cameras Drones Sports Action Cameras Laptops AI Laptops Apple Laptops Acer Laptops Lenovo Laptops Gaming Laptops Dell Laptops Asus Laptops HP Laptops Samsung Laptops Laptops Under 50000 Laptops Under 40000 Laptops Under 30000 i5 Laptops i7 Laptops TVs LG TVs Sony TVs Samsung TVs Mi TVs LED TVs OLED TVs Smart TVs Android TVs 4K TVs 8K TVs LED TVs Under 15000 Best TV Brands Large Appliances : Air Conditioners Air Coolers Microwave Ovens Air Fryers Refrigerators Washing Machines Water Purifiers Induction Stove Water Geyser Room Heaters 1.5 Ton ACs Dish Washers Electric Cookers Clothing Sarees Lehengas Kurtas/Kurtis Ethnic Sets Women's Tops Women's Night Suits Women's Shirts Women's T-shirts Women's Jeans Gowns Women's Trousers Women's Sweaters Women's Hoodies Women's Jackets Men's Shirts Casual Shirts Formal Shirts Men's T-shirts Men's Jeans Men's Trousers Men's Track pants Blazers Men's Sweatshirts Men's Sweaters Men's Kurtas Girl Clothing Baby Clothing Boy Clothing Footwear : Footwear Kids Footwear Men's Formal ",
+   "email_candidates": [
+    {
+     "email": "app-feedback@flipkart.com",
+     "where": "https://www.flipkart.com:443/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "320fb81bd9",
+   "company": "Cofactr",
+   "website": "https://www.cofactr.com/",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "New York City, NY, USA; New York, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. Cloud pre-factory logistics and procurement for electronics Innovative hardware teams use Cofactr to scale their electronic hardware from BOM through production, replacing spreadsheets and shelves with insights and on-demand infrastructure. We're a Y Combinator W22 company with growing revenue and backed with significant venture funding from VCs like Bain Capital Ventures. Hardware, B2B, Logistics, Supply Chain, B2B, Supply Chain and Logistics, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.cofactr.com/]\nCofactr Skip to content Cofactr Get Started Toggle mobile menu From BOM to Build. Electronics Supply Chain Infrastructure. Get to the Good Parts AI-powered component intelligence, procurement execution, and ITAR-registered warehousing and kitting. Built for manufacturers that can't risk component shortages, compliance gaps, or production delays. Start Free AI-powered component intelligence, procurement execution, and ITAR-registered warehousing and kitting. Trusted by leaders to deliver their most mission-critical hardware on time, every time. Cofactr handles procure-to-ship with full transparency so your team can keep building. Electronics Procurement and Purchasing One cart. Every supplier. Done in minutes. Learn More Compliance and Traceability Supplier and inventory data built for critical industries. Learn More Storage and Kitting Industry's fastest component kitting with real-time stock visibility. Learn More Results that keep engineering moving and growth on track. Book a Demo Previous feature Next feature Results that keep engineering moving and growth on track. Book a Demo More than 40% time savings in procurement tasks Reclaim your team's bandwidth from admin grunt work. Redeploy that time to actually solving problems instead of shuffling paperwork. 80% Faster BOM Procurement Cut your procurement timeline from months to days. When your competition is still waiting on quotes, you're already building. 10x scale without new procurement hires Grow your output without growing your headcount. Handle 10x the volume with the team you have—because automation scales, people don't. 85% Reduction in Production Delays Eliminate the line stoppages that kill schedules and evaporate margins. When components show up on time, every time, production runs like it's supposed to. How Companies Improve Operations with Cofactr 01 Stoke How Stoke Space Streamlined Logistics with Cofactr SOLUTIONS: Electronics Procurement and Purchasing Storage and Kitting Discover how Stoke Space supported its rapid production cycles with Cofactr’s unified logistics platform. Learn More Link to Stoke 02 Neros How Neros Technologies Scaled their Hardware Operations by 10X SOLUTIONS: Electronics Procurement and Purchasing Compliance and Traceability Storage and Kitting Discover how Neros accelerated their time to market with Cofactr's logistics platform and expert customer support. Learn More Link to Neros 03 Salient How Salient Motion Reduced their Production Cycles to 3 Weeks with Cofactr SOLUTIONS: Compliance and Traceability Storage and Kitting Discover how Salient Motion used Cofactr to streamline component procurement and bolster productivity. Learn More Link to Salient The world’s most innovative hardware teams trust Cofactr to keep building without delays. Book Demo",
+   "email_candidates": [
+    {
+     "email": "libby@cofactr.com",
+     "where": "https://www.cofactr.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "324951faf1",
+   "company": "goodfin",
+   "website": "http://www.goodfin.com",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Los Angeles, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Building the next generation of wealth GoodFin is reimagining private wealth in the era of AI. Our mission is to empower a new generation to build wealth, starting with their investments in alternative assets. Our AI-native platform combines a design-forward experience with a backend powered by a system of intelligent agents. We are building a future where AI unlocks financial hyperpersonalization, automation and optimization for sophisticated financial products, which are typically gated by advisors and reserved for very wealthy clients. This highly fragmented $1.25T global services market will undergo a sea change in the coming years, as trillions pass in the largest intergenerational wealth transfer to date. In a world where most financial decisions will become automated, we believe the next category-defining wealth company will still be human-driven at its core – powered by a high-value community like our membership base of professionals, founders and investors. The next generation financial giant will be an AI-native platform that makes wealth creation seamless, personalized, and social. That’s what we’re building. Artificial Intelligence, Fintech, Fintech, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.goodfin.com/]\nGoodfin Introducing the Goodfin QSBS Fund Introducing the Goodfin QSBS Fund Invest in Generational Companies Invest in Generational Companies Extraordinary investment opportunities in private markets for accredited investors* Extraordinary investment opportunities in private markets for accredited investors* Building T he Next Generation o f Wealth Unlock Curated Opportunities Unlock Curated Opportunities *Investments typically made through Goodfin pooled vehicles. See full disclosures. *Investments typically made through Goodfin pooled vehicles. See full disclosures. backed by Combinator Level up your portfolio with institutional quality investments in private markets. Powered by AI. Exceptional opportunities. No minimums. Managed liquidity. Our AI Manifesto Our AI Manifesto Ask AI What is the next billion-dollar company? How can I invest in private AI companies? How's my portfolio performing? What are the latest updates ... Product image for illustrative purposes only Ask AI What is the next billion-dollar company? How can I invest in private AI companies? How's my portfolio performing? What are the latest updates ... Product image for illustrative purposes only As featured In Don't miss out on the greatest wealth creation opportunity of this generation: Artificial Intelligence Don't miss out on the greatest wealth creation opportunity of this generation: Artificial Intelligence AI opportunities in private markets vastly outnumber those in public markets AI opportunities in private markets vastly outnumber those in public markets ~7x Returns ~7x Returns Top 20 private companies returned +148% in 2025 vs Nasdaq's +20% *Caplight Top 20 Index, 2025. Past performance not indicative of future results. ~6x Unicorns ~6x Unicorns vs. public companies with a $1B+ market cap vs. public companies with a $1B+ market cap *a16z (\"Private Markets > New Public Markets\", Sept. 2025) The Dawn of a New Era of Investing Goodfin is building on the frontier of wealth intelligence, applying the latest in AI to bring you a smarter, personalized investing experience. Unlock Opportunities Get insider access to the hottest private companies and deals Unlock Opportunities Get insider access to the hottest private companies and deals Intelligent Assistance I'd like to invest $20,000 Please confirm your investment: Cerebras 20,000 Yes Processing... Fast, 24/7 AI to make investing your new superpower Intelligent Assistance I'd like to invest $20,000 Please confirm your investment: Cerebras 20,000 Yes Processing... Fast, 24/7 AI to make investing your new superpower Voice Mode Communicate more naturally and on-the-go using voice Voice Mode Communicate more naturally and on-the-go using voice Private & Secure Encrypted, bank-level security to guard your data and privacy Private & Secure Encrypted, bank-level security to guard your data and privacy Unlock Opportunities Get insider access to the hottest private companies and deals Intelligent Assistance I'd like to invest $20,000 Please confirm your investment: Cerebras 20,000 Yes Processing... Fast, 24/7 AI to make investing your new superpower Voice Mode Communicate more naturally and on-the-go using voice Private & Secure Encrypted, bank-level security to guard your data and privacy Unlock Opportunities Get insider access to the hottest private companies and deals Intelligent Assistance I'd like to invest $20,000 Please confirm your investment: Cerebras 20,000 Yes Processing... Fast, 24/7 AI to make investing your new superpower Voice Mode Communicate more naturally and on-the-go using voice Private & Secure Encrypted, bank-level security to guard your data and privacy Build a diversified portfolio of high-growth investments today Build a diversified portfolio of high-growth investments today Build a diversified portfolio of high-growth investments today With Goodfin, you don't need millions of dollars to start or special insider relationships. We leverage our valuable network an",
+   "email_candidates": [
+    {
+     "email": "hello@goodfin.com",
+     "where": "https://www.goodfin.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  }
+ ]
+}
