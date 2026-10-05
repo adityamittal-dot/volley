@@ -308,7 +308,8 @@ def deliver(leads, s, p, mode, box, all_regions=False):
     cap = s["daily_new"] - store.delivered_on(leads, today)
     regions = None if all_regions else current_regions(s)
     queue = [l for l in leads.values() if l["status"] == "queued"
-             and (regions is None or l["research"]["region"] in regions)]
+             and (regions is None or l["research"]["region"] in regions)
+             and (l["email"].get("not_before") or "") <= store.iso()]   # hand-queued emails can wait for a date
     if regions is not None:
         waiting = sum(1 for l in leads.values() if l["status"] == "queued") - len(queue)
         if waiting:
@@ -327,9 +328,10 @@ def deliver(leads, s, p, mode, box, all_regions=False):
             if (s.get("attach_resume", "screening") == "always" or lead["contact"]["confidence"] == "posting") \
                     and tailor.MASTER_PDF.exists():
                 pdf = tailor.MASTER_PDF
-        body_sig = brain.signature(p, attached=bool(pdf)) if pdf else sig
+        extra = [store.ROOT / x for x in e.get("attachments", [])]   # e.g. a cover letter on a hand-written email
+        body_sig = brain.signature(p, attached=bool(pdf or extra)) if pdf or extra else sig
         msg = mailer.build(p["identity"]["name"], lead["contact"]["email"], e["subject"],
-                           f"{e['body']}\n\n{body_sig}", attachment=pdf)
+                           f"{e['body']}\n\n{body_sig}", attachment=pdf, extra=extra)
         try:
             if mode == "send":
                 e["message_id"] = mailer.send(msg)

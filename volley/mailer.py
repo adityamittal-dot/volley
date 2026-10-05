@@ -22,7 +22,8 @@ def creds():
     return addr, pw.replace(" ", "")
 
 
-def build(sender_name, to, subject, body, reply_to_id=None, attachment=None):
+def build(sender_name, to, subject, body, reply_to_id=None, attachment=None, extra=()):
+    """`attachment` is the resume (sent as <Name>_Resume.pdf); `extra` are more PDFs sent under their own names."""
     addr, _ = creds()
     msg = EmailMessage()
     msg["From"] = f"{sender_name} <{os.environ.get('SEND_AS') or addr}>"
@@ -38,6 +39,9 @@ def build(sender_name, to, subject, body, reply_to_id=None, attachment=None):
         with open(attachment, "rb") as f:
             msg.add_attachment(f.read(), maintype="application", subtype="pdf",
                                filename=f"{sender_name.replace(' ', '_')}_Resume.pdf")
+    for path in extra:
+        with open(path, "rb") as f:
+            msg.add_attachment(f.read(), maintype="application", subtype="pdf", filename=os.path.basename(path))
     return msg
 
 

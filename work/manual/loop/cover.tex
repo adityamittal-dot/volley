@@ -1,0 +1,39 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=0.85in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{7pt}
+\pagestyle{empty}
+\begin{document}
+{\Large \textbf{Aditya Mittal}}\\[2pt]
+Noida, Uttar Pradesh \,$|$\, +91-7836850977 \,$|$\, \href{mailto:adityamittal529@gmail.com}{adityamittal529@gmail.com}\\
+\href{https://github.com/adityamittal-dot}{GitHub} \,$|$\, \href{https://www.linkedin.com/in/aditya-mittal-084b91291/}{LinkedIn} \,$|$\, \href{https://aditya-mittal.adityamittal529.workers.dev/}{Portfolio}
+
+6 October 2026
+
+Hiring Team\\
+Loop Subscriptions, Gurugram
+
+Dear Loop hiring team,
+
+I am a final-year B.Tech Computer Science student at Jaypee University of Information Technology (graduating 2027), based in Noida, and I am writing to ask to be considered for a software engineering internship or entry-level role at Loop. I know your current engineering openings are senior; I am writing anyway because Loop's product is the kind of system I want to learn to build well.
+
+What draws me to Loop is that more than 1,100 brands have migrated their subscriptions onto it. Each of those migrations is a correctness problem: billing dates, payment methods and skips have to land exactly right. Dunning and cancellation flows are similar, since two events touching one subscription at the same moment can charge a customer twice. That class of bug is what I spent this summer fixing. As an SDET intern at Basepair (June--August 2026) I fixed a production OAuth race condition with database row-level locking, fixed multi-instance file-access failures with AWS S3 on-demand fallbacks, and led a SonarQube cleanup that resolved 100+ blocker and high-severity defects across Python/Django and React codebases.
+
+Projects that relate to your work:
+\begin{itemize}[leftmargin=1.2em,itemsep=3pt,topsep=0pt]
+\item \textbf{MedVault} (\href{https://medvault-xor.vercel.app}{live}, \href{https://github.com/adityamittal-dot/XOR}{code}): a full-stack app built with Django REST Framework, PostgreSQL and React with TypeScript. It has JWT authentication with refresh-token rotation, per-user data isolation enforced at the query layer, and a 47-test backend suite that runs with the external AI API fully mocked. It has the same shape as a customer portal: authenticated users managing their own records.
+\item \textbf{Canopy} (\href{https://canopy-v7hb.onrender.com}{live}, \href{https://github.com/adityamittal-dot/Canopy}{code}): parses a GitHub repository in 10 languages into a deterministic call graph, backed by a commit-keyed PostgreSQL cache and zero-scope GitHub OAuth. Anything it cannot resolve is marked as external instead of guessed, the same discipline migration and billing code needs.
+\item \textbf{Pacemark} (\href{https://github.com/adityamittal-dot/pacemark}{code}): a reading-pace web app and Chrome extension that I shipped and maintain, with CI and tagged releases.
+\end{itemize}
+
+Where I could contribute early: tests and validation around migration and billing edge cases, bug fixes in the customer portal, and scripts that help the solutions team move merchant data. Your stack (Node.js, React, TypeScript, MySQL, AWS) overlaps closely with what I have used.
+
+I can work from your Gurugram office, and I am available for an internship now and full-time from mid-2027. My resume is attached. I would welcome a short conversation with someone on the engineering team.
+
+Sincerely,\\
+Aditya Mittal
+\end{document}

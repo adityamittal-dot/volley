@@ -32020,5 +32020,62 @@
   "url": "https://www.ycombinator.com/companies/swif-ai",
   "website": "https://www.swif.ai",
   "yc": true
+ },
+ "manual-loop": {
+  "candidates": {},
+  "company": "Loop Subscriptions",
+  "contact": {
+   "confidence": "hiring",
+   "email": "hiring@loopwork.co",
+   "found_on": "given by candidate",
+   "name": "",
+   "role": "hiring inbox"
+  },
+  "description": "Shopify subscription platform (customer portal, cancellation flows, dunning, Loop Flows). Hand-written application.",
+  "domain": "loopwork.co",
+  "domain_mx": true,
+  "email": {
+   "attachments": [
+    "resume/Aditya_Mittal_Resume.pdf",
+    "work/manual/loop/Aditya_Mittal_Cover_Letter_Loop.pdf"
+   ],
+   "body": "Hi Loop team,\n\nI'm Aditya, a final-year B.Tech Computer Science student based in Noida, and I'd love to join Loop as a software engineering intern or in an entry-level role. Your current engineering openings are senior, so I'm writing to ask directly.\n\nWhat draws me to Loop is the engineering behind the product. With 1,100+ brands migrated onto Loop, billing dates, payment methods and skips have to come across exactly right, and dunning and cancellation flows have to hold up when two events hit the same subscription at once. Those are the problems I enjoy most. This summer at Basepair I fixed a production OAuth race condition with row-level locking and led a cleanup that resolved 100+ high-severity defects across a Django/React codebase.\n\nI'd be glad to start wherever I'm most useful: tests around migration and billing edge cases, fixes in the customer portal, or scripts that help your solutions team move merchant data. My closest project is MedVault, a full-stack React/TypeScript and Django app with JWT auth and per-user data isolation: https://medvault-xor.vercel.app\n\nI've attached my resume and a cover letter with more detail on my projects. I can work from your Gurugram office, I'm available for an internship now and full-time from mid-2027, and I'd be grateful for 15 minutes with someone on your team.\n\nBest regards,",
+   "lint": [],
+   "not_before": "2026-10-06T03:00:00Z",
+   "subject": "Software Engineering Internship / Entry-Level Role – Aditya Mittal"
+  },
+  "emails": [
+   "hiring@loopwork.co"
+  ],
+  "found_at": "2026-10-05T18:43:56Z",
+  "id": "manual-loop",
+  "location": "Gurugram, India",
+  "pay": null,
+  "posted_at": null,
+  "priority": 3,
+  "priority_note": "Gurugram · hand-written application",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "customer-portal-shaped full-stack app",
+   "fit": 10,
+   "hook": "1,100+ brands migrated; billing correctness",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Node.js",
+    "React",
+    "TypeScript",
+    "MySQL",
+    "AWS"
+   ],
+   "summary": "Gurugram-based Shopify subscription-management SaaS (2,400+ brands, 1,100+ migrated)."
+  },
+  "score": 99,
+  "source": "manual",
+  "status": "queued",
+  "title": "Software Engineering Internship / Entry-Level (no posting)",
+  "url": "https://careers.loopwork.co/",
+  "website": "https://www.loopwork.co",
+  "yc": false
  }
 }
