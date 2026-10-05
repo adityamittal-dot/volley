@@ -82,8 +82,9 @@ def verify(tailored, gap_terms, profile_text, posting=""):
     problems = []
     mt = master_text(m)
     # Identity, education, and every job's company/role/dates are fixed.
+    ident = {**m["identity"], **tailored.get("identity", {})}   # a key the tailored JSON leaves out comes from the master
     for key in ("name", "email", "phone", "github", "linkedin", "portfolio"):
-        if tailored.get("identity", {}).get(key) != m["identity"].get(key):
+        if ident.get(key) != m["identity"].get(key):
             problems.append(f"identity.{key} changed")
     if tailored.get("education") != m["education"]:
         problems.append("education changed")
@@ -214,7 +215,9 @@ def body(r):
 def render(json_path, pdf_path):
     """Compile a resume JSON into the Overleaf template; returns the page count or raises."""
     pdf_path = pathlib.Path(pdf_path)
-    src = TEMPLATE.read_text().replace("%%BODY%%", body(json.loads(pathlib.Path(json_path).read_text())))
+    r = json.loads(pathlib.Path(json_path).read_text())
+    r["identity"] = {**master()["identity"], **r.get("identity", {})}   # e.g. the portfolio link, added after older JSONs
+    src = TEMPLATE.read_text().replace("%%BODY%%", body(r))
     with tempfile.TemporaryDirectory() as tmp:
         (pathlib.Path(tmp) / "resume.tex").write_text(src)
         run = subprocess.run(["pdflatex", "-interaction=nonstopmode", "-halt-on-error", "resume.tex"],
