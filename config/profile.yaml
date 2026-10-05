@@ -17,7 +17,9 @@ identity:
 credential: just finished an SDET internship at Basepair, where I fixed a production OAuth race condition
 
 # One line the writer can use to say what you're looking for.
-ask: internship or entry-level role (2027 grad, available now for internships, full-time from mid-2027)
+# Availability: he can join immediately, for an internship or a full-time role. Never name a start date, a graduation
+# timeline or "from mid-2027": the company decides when he starts.
+ask: internship or full-time entry-level role, can join immediately
 
 experience:
   - org: Basepair

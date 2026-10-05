@@ -26,6 +26,8 @@ CLICHES = [
     # as a template the moment a founder sees two of them.
     r"\bcaught my (eye|attention)", r"\bstood out\b", r"\bgenuinely\b", r"\breally impressed\b",
     r"\bI'?m a (big|huge) fan\b",
+    # Availability: he can join immediately; a start date or graduation timeline makes them wait (user, 2026-10-06).
+    r"\bmid[- ]?20\d\d\b", r"\bfull[- ]time from\b", r"\b20\d\d (CS |B\.?Tech )?grads?\b", r"\bavailable from\b",
 ]
 STRUCTURE = {
     "negative parallelism": r"\bnot (just|only|merely) [^.]{1,60}\b(but|it's)\b|\bit'?s not about\b",

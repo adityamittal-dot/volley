@@ -21,10 +21,11 @@ himself in five minutes because he actually looked at their company.
 - **Proof:** one sentence on the chosen project with one concrete detail and its link (the only link). Tie it
   to what they do in a few words. Proof of work is what founders say they reply to; a claim with nothing to
   click is not proof (the old no-link Basepair angle got 0 replies from 37).
-- **Ask:** say plainly he's a 2027 grad looking for an internship or entry-level role. Where it fits, add the
+- **Ask:** say plainly he's looking for an internship or entry-level role and can join immediately. Never
+  mention a start date, a graduation timeline or "from mid-2027": the company decides when he starts. Where it fits, add the
   `credential` clause from `config/profile.yaml` (the Basepair internship) in the same sentence. End with
   **one** question they can answer in a line:
-  - a real posting: name it ("Is the Backend Intern role still open to 2027 grads?"). Both of the replies
+  - a real posting: name it ("Is the Backend Intern role still open?"). Both of the replies
     that asked about a specific opening (Xero, Uncountable) got answers.
   - no posting (GitHub org, funding news, YC directory): ask if they take interns ("Does the team take on an
     engineering intern?"). Never imply a posting exists.
@@ -67,8 +68,8 @@ hit last month, and you're in Noida too.
 I built Canopy, which parses a repo in 10 languages into a call graph and marks unresolved calls as
 external instead of guessing: https://canopy-v7hb.onrender.com
 
-I'm a 2027 CS grad looking for an internship, and just finished an SDET internship at Basepair. Does the
-team take on an engineering intern?
+I'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately.
+Does the team take on an engineering intern?
 ```
 ```
 Subject: Backend internship at Quill      (style: short, a real posting)
@@ -81,6 +82,6 @@ block the UI.
 I built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON
 schema and a fallback parser for bad model output: https://medvault-xor.vercel.app
 
-I'm a 2027 CS grad and just finished an SDET internship at Basepair. Is the Backend Intern role still
-open to 2027 grads?
+I just finished an SDET internship at Basepair and can join immediately. Is the Backend Intern role still
+open?
 ```
