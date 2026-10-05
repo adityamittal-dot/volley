@@ -1,0 +1,191 @@
+{
+  "leads": [
+    {
+      "id": "b64a609a2d",
+      "relevant": true,
+      "summary": "HivarSoft builds affordable open-source software and commercial SaaS platforms for developers and businesses, from Git analytics dashboards to uptime monitoring tools. They develop with modern tech and contribute heavily to open source.",
+      "stack": ["JavaScript", "TypeScript", "Next.js", "React", "Node.js", "PostgreSQL", "Docker", "Kubernetes", "AWS"],
+      "hook": "Your GitStats open-source repo (commit heatmaps, author breakdown, branch analysis) is exactly the kind of developer tooling that ships real value.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's multi-language static analysis and deterministic call-graph resolution aligns with their focus on shipping production-quality developer tools.",
+      "fit": 8,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Hitesh Kumar",
+          "role": "Developer / Founder"
+        }
+      ],
+      "contact_email": "dev.hitesh.k@gmail.com",
+      "contact_name": "Hitesh Kumar",
+      "contact_role": "Developer",
+      "red_flags": []
+    },
+    {
+      "id": "daeefe805b",
+      "relevant": false,
+      "summary": "",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 0,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "empty website text, cannot verify company legitimacy",
+        "crypto in company name"
+      ]
+    },
+    {
+      "id": "547ef10d24",
+      "relevant": true,
+      "summary": "Spring Time Software is a 20+ year software services company delivering custom development, mobile apps, SaaS platforms (PUB+ ERP for publishing, SIDDHI CRM), legacy modernization, and AI/ML solutions across India and globally.",
+      "stack": ["JavaScript", "TypeScript"],
+      "hook": "PUB+ ERP powers royalty processing and distribution workflows for 1200+ publishers and booksellers across India's book trade with cloud and on-premises options.",
+      "angle": "medvault",
+      "angle_reason": "Spring Time's focus on B2B SaaS platforms and custom software development matches the backend and data pipeline complexity demonstrated in MedVault.",
+      "fit": 5,
+      "region": "asia",
+      "people": [],
+      "contact_email": "info@springtimesoftware.net",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "established 20+ year company likely 50+ people, hiring practices unclear for interns"
+      ]
+    },
+    {
+      "id": "ede705a165",
+      "relevant": true,
+      "summary": "drivebuddyAI builds AI-powered driver and fleet safety platforms using vision-led continuously learning ML for ADAS, driving behavior assessment, fleet safety, and autonomous vehicle research.",
+      "stack": ["Python", "Jupyter Notebook"],
+      "hook": "You patented a real-time drowsiness detection system and partner with commercial fleets like SUPERGAS to integrate ADAS into transport operations command centers.",
+      "angle": "medvault",
+      "angle_reason": "drivebuddyAI's production ML pipeline, model governance, and safety-critical output validation mirror the LLM safety architecture in MedVault.",
+      "fit": 6,
+      "region": "asia",
+      "people": [],
+      "contact_email": "connect@drivebuddyai.co",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "5ac8a9edfa",
+      "relevant": false,
+      "summary": "",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 0,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "tech stack (Java, Shell) does not match candidate skills"
+      ]
+    },
+    {
+      "id": "e93880b9f9",
+      "relevant": false,
+      "summary": "",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 0,
+      "region": "americas",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "website text is from Stanford Alumni Association, not Menlo Research; posting and site do not match"
+      ]
+    },
+    {
+      "id": "2fc9138994",
+      "relevant": false,
+      "summary": "",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 0,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "this is a job seeker (Lazar Bukejlovic), not a company hiring; not a valid lead"
+      ]
+    },
+    {
+      "id": "39a9b20b40",
+      "relevant": true,
+      "summary": "Rebar builds AI estimating software for commercial HVAC, plumbing, and electrical contractors, automating takeoffs from construction drawings and integrating project management with real-time collaboration. Series A funded with strong PMF.",
+      "stack": ["TypeScript", "React", "Next.js", "Python", "PyTorch", "PostgreSQL", "AWS", "Kubernetes"],
+      "hook": "Your product ingests thousand-page construction drawings, detects equipment schedules via segmentation models, and renders 50k+ DOM element collaborative canvases with real-time geometry updates.",
+      "angle": "basepair",
+      "angle_reason": "Rebar's production infrastructure (GPU inference across concurrent jobs, dense document rendering, distributed systems) matches the reliability and scale challenges Aditya solved fixing multi-instance bugs at Basepair.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {
+          "name": "John",
+          "role": "Head of Engineering"
+        }
+      ],
+      "contact_email": "john@withrebar.ai",
+      "contact_name": "John",
+      "contact_role": "Head of Engineering",
+      "red_flags": [
+        "onsite 5 days/week NYC only; candidate in India and is a 2027 grad, relocation feasibility unclear"
+      ]
+    },
+    {
+      "id": "b5ce125cae",
+      "relevant": false,
+      "summary": "",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 0,
+      "region": "americas",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Senior/Staff level required, candidate is entry-level 2027 grad"
+      ]
+    },
+    {
+      "id": "485680b1d9",
+      "relevant": false,
+      "summary": "",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 0,
+      "region": "other",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Growth Hacker / DevRel / marketing role, not an engineering position"
+      ]
+    }
+  ]
+}

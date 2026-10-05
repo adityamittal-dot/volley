@@ -1,0 +1,237 @@
+{
+  "leads": [
+    {
+      "id": "c3b03ec583",
+      "relevant": false,
+      "summary": "Building consumer and enterprise blockchain products for frontier markets with focus on DeFi and AI.",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 0,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Crypto/Web3 company - candidate should avoid"
+      ]
+    },
+    {
+      "id": "ce546cbe7a",
+      "relevant": true,
+      "summary": "Modern SaaS fundraising platform providing donor databases, call time apps, and contribution forms for political campaigns and nonprofits.",
+      "stack": [
+        "React",
+        "SaaS",
+        "Backend"
+      ],
+      "hook": "Your site shows '96% of House campaigns' use similar tools and you're positioned against competitors who haven't updated in 1,888 days; Numero updates every 32 days with a team maintaining the platform entirely in the USA.",
+      "angle": "basepair",
+      "angle_reason": "Basepair fixed critical production SaaS bugs with row-level locking and S3 fallbacks; Numero operates high-reliability fundraising infrastructure serving thousands of political clients.",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {
+          "name": "Craig Grella",
+          "role": "Sales Lead"
+        }
+      ],
+      "contact_email": "hello@numero.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "d7b0af62d6",
+      "relevant": true,
+      "summary": "Language model API toolkit providing grammar checking, autocomplete, AI detection, and paraphrasing for enterprise messaging platforms and CRMs.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "LLM",
+        "REST API"
+      ],
+      "hook": "Your site announces 'MCP Server New — Let Claude, Claude Code, and other MCP clients call Sapling's language tools directly,' showing deep integration with Claude's ecosystem.",
+      "angle": "medvault",
+      "angle_reason": "MedVault built a Gemini prompting pipeline with fixed JSON schemas; Sapling offers LLM-based language tools for enterprise with proven grammar and AI detection capabilities.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {
+          "name": "Ziang Xie",
+          "role": "Founder/CTO"
+        },
+        {
+          "name": "James Huang",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "ziangxie@gmail.com",
+      "contact_name": "Ziang Xie",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "e629b950f2",
+      "relevant": true,
+      "summary": "AI operating system for insurance agencies automating front-office and back-office operations through voice, email, and text-based AI agents.",
+      "stack": [
+        "Python",
+        "AI agents",
+        "Backend",
+        "Integration"
+      ],
+      "hook": "Your site shows AI agents moving insurance workflows through major systems like Guidewire, AgencyZoom, and Applied Epic, integrating seamlessly with the 'systems that run your agency or carrier.'",
+      "angle": "basepair",
+      "angle_reason": "Basepair fixed production distributed-systems bugs with row-level locking and S3 fallbacks; Infer builds fault-tolerant AI agents orchestrating critical multi-system workflows for insurance carriers.",
+      "fit": 7,
+      "region": "asia",
+      "people": [],
+      "contact_email": "vaibhav@infer.so",
+      "contact_name": "Vaibhav",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "f4adfde3b4",
+      "relevant": true,
+      "summary": "Video context API for AI, enabling applications to structure, search, and reason over video content at scale with native AI agent integration.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "AI",
+        "API",
+        "Video processing"
+      ],
+      "hook": "Your site states 'Cloudglue is the only video context system designed to work natively with AI agents' and can 'process 2 hours of video in just 3 minutes,' with search and reasoning across entire video libraries.",
+      "angle": "medvault",
+      "angle_reason": "MedVault grounded LLM output in computed data structures; Cloudglue structures unstructured video into queryable context that AI systems can reliably reason over and cite.",
+      "fit": 8,
+      "region": "us",
+      "people": [],
+      "contact_email": "hello@cloudglue.dev",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "fbb37e1d42",
+      "relevant": true,
+      "summary": "Online education platform teaching K-12 students AI and coding through live classes, interactive projects, and hands-on learning with STEM accreditation.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "React",
+        "Scratch",
+        "Teaching platform"
+      ],
+      "hook": "Your curriculum mentions students learn by 'building real-world projects using popular tools and technologies like... HTML/CSS, JavaScript... Python...' with 1 million registered students across 70+ countries.",
+      "angle": "canopy",
+      "angle_reason": "Limited alignment; Codingal teaches coding education while Canopy analyzes code architecture — different focus areas.",
+      "fit": 3,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0a82f5a706",
+      "relevant": true,
+      "summary": "AI-powered digital physiotherapy platform providing explainable AI systems and interactive video sessions for musculoskeletal care through regulated healthcare delivery.",
+      "stack": [
+        "Python",
+        "Rust",
+        "TypeScript",
+        "WebRTC",
+        "Backend",
+        "AI"
+      ],
+      "hook": "Your HN post states 'Our core systems are a custom decision engine, interactive streaming video over WebRTC, and multiple internal tools,' with Series A funding to expand across geographies and clinical conditions.",
+      "angle": "basepair",
+      "angle_reason": "Basepair fixed production Python/Django bugs with row-level locking and cloud fallbacks; Flok Health builds fault-tolerant decision engines and streaming infrastructure for regulated healthcare.",
+      "fit": 4,
+      "region": "europe",
+      "people": [
+        {
+          "name": "Finn",
+          "role": "Founder"
+        },
+        {
+          "name": "Ric",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "join@flok.health",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "5b4dda9435",
+      "relevant": false,
+      "summary": "Staffing and recruiting platform connecting startups with verified AI engineers and specialists globally for hiring and training.",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 0,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Staffing/recruitment agency — hires engineers for clients rather than building own product"
+      ]
+    },
+    {
+      "id": "04359467f9",
+      "relevant": true,
+      "summary": "Telemedicine platform delivering personalized GLP-1 treatment plans, nutrition support, and ongoing care from board-certified providers for weight loss and metabolic health.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Backend",
+        "SaaS",
+        "Healthcare"
+      ],
+      "hook": "Your site shows 51,000+ members using FDA-approved GLP-1 medications with HSA/FSA coverage, positioning as a regulated telehealth SaaS with rapid growth and white-label call center support.",
+      "angle": "medvault",
+      "angle_reason": "MedVault enforced safety rules in LLM output and per-user data isolation; Measured operates regulated healthcare with board-certified provider verification and patient-specific treatment personalization.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "careteam@trymeasured.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "047baffaa9",
+      "relevant": false,
+      "summary": "Closed company; was an AI creative intelligence platform for game studios.",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 0,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Robert",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Company closed in July 2026 — no longer operating"
+      ]
+    }
+  ]
+}
