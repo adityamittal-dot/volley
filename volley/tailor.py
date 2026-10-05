@@ -82,7 +82,7 @@ def verify(tailored, gap_terms, profile_text, posting=""):
     problems = []
     mt = master_text(m)
     # Identity, education, and every job's company/role/dates are fixed.
-    for key in ("name", "email", "phone", "github", "linkedin"):
+    for key in ("name", "email", "phone", "github", "linkedin", "portfolio"):
         if tailored.get("identity", {}).get(key) != m["identity"].get(key):
             problems.append(f"identity.{key} changed")
     if tailored.get("education") != m["education"]:
@@ -168,7 +168,8 @@ def body(r):
           rf"    {tex(i['phone'])} ~ $|$ ~",
           rf"    \href{{mailto:{i['email']}}}{{\underline{{{tex(i['email'])}}}}} ~ $|$ ~",
           rf"    \href{{{i['github']}}}{{\underline{{GitHub}}}} ~ $|$ ~",
-          rf"    \href{{{i['linkedin']}}}{{\underline{{LinkedIn}}}}",
+          rf"    \href{{{i['linkedin']}}}{{\underline{{LinkedIn}}}}"
+          + (rf" ~ $|$ ~ \href{{{i['portfolio']}}}{{\underline{{Portfolio}}}}" if i.get("portfolio") else ""),
           r"\end{center}", ""]
 
     L += [r"\section{EDUCATION}", r"\resumeSubHeadingListStart"]
