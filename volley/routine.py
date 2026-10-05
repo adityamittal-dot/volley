@@ -348,6 +348,17 @@ def test_send(to, case):
     """Run one hand-written case through the real checks, render and message build, and send it to `to`
     instead of the company. `case` holds email.json ({id, fit, angle, contact_email, subject, body, tailor}) and, when
     tailoring, resume.json."""
+    if case.startswith("lead:"):   # a queued lead's exact message (attachments included), sent to `to` instead
+        lead = store.load()[case[5:]]
+        e, p = lead["email"], profile()
+        extra = [ROOT / x for x in e.get("attachments", [])]
+        pdf = ROOT / e["resume_pdf"] if e.get("resume_pdf") else None
+        msg = mailer.build(p["identity"]["name"], to, f"[volley test -> {lead['company']}] {e['subject']}",
+                           f"{e['body']}\n\n{brain.signature(p, attached=bool(pdf or extra))}",
+                           attachment=pdf, extra=extra)
+        mailer.send(msg)
+        log(f"test sent to {to}: queued email for {lead['company']} with {len(extra) + bool(pdf)} attachment(s)")
+        return
     case = ROOT / case
     e = json.loads((case / "email.json").read_text())
     s, p = settings(), profile()
