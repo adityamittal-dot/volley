@@ -13,6 +13,9 @@ identity:
   portfolio: https://aditya-mittal.adityamittal529.workers.dev/   # last line of every signature
   resume_url: https://drive.google.com/file/d/1uqpBeZcbJG4HRsmyIqOmOZpRt33Dgwbu/view?usp=sharing   # master resume PDF (Google Drive, anyone with the link)
 
+# One clause of real-work proof every email may carry next to the ask (true, from experience below).
+credential: just finished an SDET internship at Basepair, where I fixed a production OAuth race condition
+
 # One line the writer can use to say what you're looking for.
 ask: internship or entry-level role (2027 grad, available now for internships, full-time from mid-2027)
 
@@ -57,16 +60,9 @@ projects:
       - Tolerant JSON-from-prose fallback parser for malformed model output.
       - Django REST backend, email-based user model, JWT with refresh-token rotation, per-user isolation at the queryset level.
       - All LLM calls behind one mockable client, 47-test suite runs with no API key.
-  - id: basepair
-    name: my Basepair internship
-    link: ""
-    repo: https://github.com/adityamittal-dot
-    one_liner: fixed production distributed-systems bugs and 100+ security defects in a Django/React codebase
-    good_for: [saas, b2b, fintech, bio, infrastructure, reliability, security, django, python, aws]
-    facts:
-      - OAuth race condition fixed with DB-level row locking.
-      - Multi-instance file-access failures fixed with S3 on-demand fallbacks.
-      - 100+ BLOCKER/HIGH SonarQube issues resolved across Python/Django and React.
+# The Basepair internship used to be a third angle with no link: 0 replies from 37 sends (canopy 3/24,
+# medvault 3/30). An email with nothing to click reads as a claim, not proof. It now rides along as the
+# one-clause credential in every email instead (see `credential`).
 
 skills: [Python, TypeScript, JavaScript, SQL, C++, Django, DRF, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, Terraform, Playwright, LLM APIs]
 

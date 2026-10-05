@@ -19,7 +19,7 @@ import tempfile
 from .config import ROOT
 
 MASTER = ROOT / "config" / "resume.json"
-MASTER_PDF = ROOT / "resume" / "Aditya_Mittal_Resume.pdf"   # attached to every first email without a tailored one
+MASTER_PDF = ROOT / "resume" / "Aditya_Mittal_Resume.pdf"   # attached when the posting asks for email applications (settings.attach_resume)
 RESUME_ASK = re.compile(r"\b(resume|résumé|cv)\b", re.I)
 MIN_POSTING_CHARS = 600
 MIN_FIT = 8

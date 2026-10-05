@@ -105,6 +105,9 @@ def export(leads):
     rate = f"{100 * len(replied) / len(sent):.0f}%" if sent else "–"
     by_angle = Counter((l.get("research") or {}).get("angle", "?") for l in sent)
     replied_angle = Counter((l.get("research") or {}).get("angle", "?") for l in replied)
+    from .humanize import style_of
+    by_style = Counter(style_of((l.get("email") or {}).get("subject", "")) for l in sent)
+    replied_style = Counter(style_of((l.get("email") or {}).get("subject", "")) for l in replied)
     usage = load_usage()
     spend = sum(d.get("usd", 0) for d in usage.values())
 
@@ -117,6 +120,8 @@ def export(leads):
         *[f"| {s} | {counts[s]} |" for s in STATUSES if counts[s]], "",
         "## Reply rate by angle", "", "| Angle | Sent | Replies |", "|---|---|---|",
         *[f"| {a} | {n} | {replied_angle[a]} |" for a, n in by_angle.most_common()], "",
+        "## Reply rate by subject style", "", "| Style | Sent | Replies |", "|---|---|---|",
+        *[f"| {a} | {n} | {replied_style[a]} |" for a, n in by_style.most_common()], "",
         "## Replies", "",
         *([f"- **{l['company']}** — {(l.get('contact') or {}).get('name', '')} "
            f"<{(l.get('contact') or {}).get('email', '')}> replied {l['replied_at'][:10]}" for l in replied]

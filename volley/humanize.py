@@ -22,6 +22,10 @@ CLICHES = [
     r"\btouch base", r"\bcircle back", r"look(ing)? forward to hearing", r"\bjust following up",
     r"\bjust checking in", r"\bsorry to bother", r"\bI am writing to\b", r"\bmy name is\b",
     r"\bI'?m confident (that )?I", r"\balign(s|ed)? (with|perfectly)", r"\bwould love the opportunity",
+    # Opener stock phrases: by Oct 2026 most volley openers were "X caught my eye" / "X stood out", which reads
+    # as a template the moment a founder sees two of them.
+    r"\bcaught my (eye|attention)", r"\bstood out\b", r"\bgenuinely\b", r"\breally impressed\b",
+    r"\bI'?m a (big|huge) fan\b",
 ]
 STRUCTURE = {
     "negative parallelism": r"\bnot (just|only|merely) [^.]{1,60}\b(but|it's)\b|\bit'?s not about\b",
@@ -32,7 +36,7 @@ STRUCTURE = {
 }
 
 
-def scan(subject, body, max_words=110, max_links=1):
+def scan(subject, body, max_words=110, max_links=1, style="role", company=""):
     issues = []
     text = f"{subject}\n{body}"
     for pattern in BANNED:
@@ -58,7 +62,7 @@ def scan(subject, body, max_words=110, max_links=1):
         issues.append("stacked lists of three")
     if body.count("?") > 2:
         issues.append("too many questions")
-    issues += subject_issues(subject)
+    issues += subject_issues(subject, style=style, company=company)
     return issues
 
 
@@ -67,9 +71,26 @@ def subject_tail(p=None):
     return f" – {i['name']}"
 
 
-def subject_issues(subject, p=None):
-    """First-touch subjects have one professional shape: '<Role> – <Name>',
-    e.g. 'Full Stack Development Internship – Aditya Mittal'."""
+SUBJECT_STYLES = ("role", "short")
+
+
+def subject_style(lead_id):
+    """A/B test on first-touch subjects, fixed per lead so a re-run picks the same one. 'role' is the formal
+    '<Role> – <Name>'; 'short' is '<role> at <Company>', under 45 characters (student-outreach data: subjects
+    under 30 characters open ~14 points better than long ones, and identical subjects read as automated)."""
+    return SUBJECT_STYLES[int(lead_id[-2:], 16) % 2] if re.fullmatch(r".*[0-9a-f]{2}", lead_id or "") else "role"
+
+
+def style_of(subject, p=None):
+    return "role" if subject.endswith(subject_tail(p)) else "short"
+
+
+def subject_issues(subject, p=None, style="role", company=""):
+    """First-touch subjects take one of two shapes (see subject_style):
+    role:  'Full Stack Development Internship – Aditya Mittal'
+    short: 'Backend internship at Quill'"""
+    if style == "short":
+        return _short_subject_issues(subject, company)
     tail = subject_tail(p)
     if not subject.endswith(tail):
         return [f"subject must be '<Role>{tail}'"]
@@ -84,4 +105,19 @@ def subject_issues(subject, p=None):
     small = {"and", "of", "in", "for", "the", "to", "&", "/", "-", "–"}
     if any(w[0].islower() and w not in small for w in role.split()):
         issues.append(f"subject role '{role}' must be in Title Case")
+    return issues
+
+
+def _short_subject_issues(subject, company):
+    issues = []
+    if len(subject) > 45 or not 3 <= len(subject.split()) <= 7:
+        issues.append(f"short subject '{subject}' must be 3-7 words, max 45 characters")
+    if not re.search(r"\b(intern|internship|engineer|engineering|developer|role|sde|backend|frontend|full[- ]stack)\b",
+                     subject, re.I):
+        issues.append(f"short subject '{subject}' must name the role (e.g. 'Backend internship at {company or 'Acme'}')")
+    word = re.sub(r"\s*\(.*\)", "", company or "").split()
+    if word and word[0].lower().strip(".,") not in subject.lower():
+        issues.append(f"short subject '{subject}' must name the company ('{word[0]}')")
+    if re.search(r"[+!:@#\[\]–—]|https?:|\b(opportunity|application|urgent|re|quick question)\b", subject, re.I):
+        issues.append(f"short subject '{subject}' has a symbol or spammy word")
     return issues

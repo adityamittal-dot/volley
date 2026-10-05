@@ -41,10 +41,14 @@ def lead_domain(raw):
 
 
 _GOOD_SIGNAL_SOURCES = ("github_orgs", "funding_news")
-# How often a source's leads end in a sent email (25-29 Sep, researched leads -> sent): github_orgs 9/20,
-# hn_hiring 5/13, yc_hiring 12/64, unstop 5/59, arbeitnow 0/11, simplify 1/167. Simplify and Arbeitnow
-# list large companies behind ATS forms with no reachable person, so they only fill what's left.
-SOURCE_YIELD = {"github_orgs": 2, "hn_hiring": 1, "funding_news": 2, "unstop": -1, "arbeitnow": -3, "simplify": -4}
+# How often a source's researched leads end in a sent email (25 Sep - 5 Oct): github_orgs 23/86, yc_hiring 51/188,
+# hn_hiring 16/81, jobicy 2/10, internshala 3/30, unstop 8/86, funding_news 0/25 (no address on the article:
+# now India-hub rounds get the blind founder guess, see heuristic), arbeitnow 0/13, simplify 1/167. Simplify and
+# Arbeitnow list large companies behind ATS forms with no reachable person, so they only fill what's left.
+SOURCE_YIELD = {"github_orgs": 2, "hn_hiring": 1, "funding_news": 1, "unstop": -1, "internshala": -1,
+                "arbeitnow": -3, "simplify": -4}
+YC_BATCH = re.compile(r"\b(?:Winter|Summer|Spring|Fall|[WSXF])\s?'?(\d{2}|\d{4})\b")
+US_LOC = re.compile(r"\b(usa|united states|u\.s\.|america / canada|canada)\b")
 INDIA = re.compile(r"\b(india|bangalore|bengaluru|hyderabad|pune|mumbai|chennai|kolkata|ahmedabad|jaipur|"
                    r"chandigarh|indore|kochi)\b")
 
@@ -102,19 +106,33 @@ def heuristic(raw, p, s, max_age):
         score += 3
     loc = (raw.get("location") or "").lower() + " " + desc[:600]
     ncr_city = next((c for c in pr["cities"] if c in loc), None)
+    india_hub = not ncr_city and bool(INDIA.search(loc))
     if ncr_city:
         score += 5
-    elif INDIA.search(loc):
+    elif india_hub:
         score += 2
     elif re.search(r"\b(remote|anywhere|worldwide|global|work from home)\b", loc):
         score += 1
     if US_ONLY.search(loc + desc):
         score -= 3
     m = re.search(r"team size: (\d+)", desc)
-    if m and int(m.group(1)) <= 50:
-        score += 1
+    if m:
+        size = int(m.group(1))
+        score += 1 if size <= 50 else 0
+        score -= min(size, 200) / 400   # tie-break: smaller teams first (founder reads the email)
     if raw.get("yc"):
         score += 2
+        # YC's company list is mostly US startups with no posted opening: the yc_hiring pool had ~300 leads
+        # all scored 8.0. Rank by what matters instead: a real posting, outside the US, a recent batch.
+        if raw["source"] == "yc_hiring" and not ncr_city:
+            score -= 2   # no posting, just "hiring" on YC's directory
+        b = YC_BATCH.search(raw.get("title") or "")
+        if b:
+            year = int(b.group(1)) % 100
+            score += 1 if year >= 24 else 0 if year >= 20 else -1
+    if not ncr_city and not india_hub and US_LOC.search(loc):
+        # US startups rarely hire an intern in India; remote-friendly ones a little more often.
+        score -= 1 if re.search(r"\bremote\b", loc) else 2
     score += SOURCE_YIELD.get(raw["source"], 0)
     if raw.get("website") and not research.is_job_board(raw["website"]):
         score += 1   # a company site to crawl is where contacts come from
@@ -124,7 +142,8 @@ def heuristic(raw, p, s, max_age):
     good_signal = raw.get("yc") or raw["source"] in _GOOD_SIGNAL_SOURCES or \
                   (raw["source"] in ("unstop", "internshala") and pay is not None)
     if not ncr_city:
-        tier = 0
+        # Funded or actively-shipping startups in India's other hubs: worth the blind founder guess too.
+        tier = 1 if india_hub and raw["source"] in _GOOD_SIGNAL_SOURCES else 0
     elif pay and pay["max"] >= target:
         tier = 2
     elif pay or good_signal:
@@ -302,7 +321,12 @@ def deliver(leads, s, p, mode, box, all_regions=False):
         e = lead["email"]
         pdf = store.ROOT / e["resume_pdf"] if e.get("resume_pdf") else None
         if not (pdf and pdf.exists()):
-            pdf = tailor.MASTER_PDF if tailor.MASTER_PDF.exists() else None   # master resume, same template
+            pdf = None
+            # A PDF on a cold first touch costs inbox placement (attachments bounce/filter ~3x more often), so the
+            # master resume goes as the signature link unless the posting itself asked for applications by email.
+            if (s.get("attach_resume", "screening") == "always" or lead["contact"]["confidence"] == "posting") \
+                    and tailor.MASTER_PDF.exists():
+                pdf = tailor.MASTER_PDF
         body_sig = brain.signature(p, attached=bool(pdf)) if pdf else sig
         msg = mailer.build(p["identity"]["name"], lead["contact"]["email"], e["subject"],
                            f"{e['body']}\n\n{body_sig}", attachment=pdf)

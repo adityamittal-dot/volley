@@ -41,9 +41,9 @@ priority first — Delhi NCR leads that pay well come before everything else.
 ## 3. Write the emails yourself
 Load the `cold-email-humanizer` skill (`.claude/skills/cold-email-humanizer/SKILL.md`) and follow it for
 every email. Use `config/profile.yaml` for facts about the candidate (never invent anything) and the
-project link for the chosen angle as the one link in the body. The `basepair` angle has no link: write
-those emails with no link at all, and never put GitHub, the portfolio or LinkedIn in the body (the signature
-has them).
+project link for the chosen angle as the one link in the body. Never put GitHub, the portfolio or
+LinkedIn in the body (the signature has them). Write each subject in the lead's `subject style` from the
+shortlist (`role` or `short`; it's an A/B test, so don't switch styles).
 
 For a Delhi NCR lead (priority >= 1), add one short line that the candidate is based in Noida and can work
 from their office — don't force it if the email already reads naturally without it. For a lead with no

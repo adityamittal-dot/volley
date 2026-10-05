@@ -166,7 +166,7 @@ def normalize_date(value):
         return None
     try:
         if isinstance(value, (int, float)):
-            return datetime.fromtimestamp(value, tz=timezone.utc).isoformat().replace("+00:00", "Z")
+            return datetime.fromtimestamp(value, tz=timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
         v = str(value).strip()
         if not v:
             return None
@@ -174,11 +174,11 @@ def normalize_date(value):
             return datetime.fromtimestamp(int(v), tz=timezone.utc).isoformat().replace("+00:00", "Z")
         if _UNSTOP_DATE_RE.match(v):
             dt = datetime.strptime(v, "%Y-%m-%d %H:%M:%S GMT%z")
-            return dt.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+            return dt.astimezone(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
         dt = datetime.fromisoformat(v.replace("Z", "+00:00"))
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+        return dt.astimezone(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
     except Exception:
         return None
 
@@ -584,10 +584,10 @@ def fetch_internshala():
 # searches all of Delhi NCR first, then India's other tech hubs, and pages through a different slice of
 # the results each day (the first page alone returns the same orgs every morning).
 
-_GH_NCR = ("noida", "gurgaon", "gurugram", "delhi", "ghaziabad", "faridabad")
-_GH_HUBS = ("bangalore", "bengaluru", "hyderabad", "pune", "mumbai", "chennai")
-_GH_PAGES = 5            # rotate through the first 5 pages (250 orgs) of each location's results
-_GH_ORG_CAP = 160        # org detail lookups per run (2 API calls each; Actions' token allows 1000/hour)
+_GH_NCR = ("noida", "gurgaon", "gurugram", "delhi", "new delhi", "ghaziabad", "faridabad", "ncr")
+_GH_HUBS = ("bangalore", "bengaluru", "hyderabad", "pune", "mumbai", "chennai", "india")
+_GH_PAGES = 10           # rotate through the first 10 pages (500 orgs; the search API's cap is 1000) per location
+_GH_ORG_CAP = 320        # org detail lookups per run (2 API calls each; Actions' token allows 1000/hour)
 _GH_PUSH_CUTOFF_SECONDS = 365 * 86400
 _KNOWN_URLS = set()      # lead URLs already in leads.json (set by fetch_all): skipped before any lookup
 # Student clubs, universities, communities and public bodies also register orgs by city: never employers here.
@@ -635,7 +635,7 @@ def fetch_github_orgs():
     ncr, hubs, seen = [], [], set()
     for cities, out in ((_GH_NCR, ncr), (_GH_HUBS, hubs)):
         for city in cities:
-            for page in sorted({1, 1 + day % _GH_PAGES}):
+            for page in sorted({1 + day % _GH_PAGES, 1 + (day + _GH_PAGES // 2) % _GH_PAGES}):
                 for login in _gh_search(city, page, headers):
                     if login not in seen and f"https://github.com/{login}" not in _KNOWN_URLS:
                         seen.add(login)
@@ -797,6 +797,65 @@ def fetch_funding_news():
     return leads
 
 
+# ------------------------------------------------------------ ats_boards --
+# Indian startups' public job-board APIs (verified 2026-10-05: each returned jobs, mostly in India). Real,
+# dated openings; the heuristic then keeps the entry-level engineering ones. Add a board: slug -> website.
+ATS_BOARDS = {
+    "lever": {"100ms": "https://www.100ms.live", "cred": "https://cred.club", "epifi": "https://fi.money",
+              "fampay": "https://famapp.in", "hevodata": "https://hevodata.com", "meesho": "https://meesho.com",
+              "paytm": "https://paytm.com", "zeta": "https://zeta.tech"},
+    "greenhouse": {"inmobi": "https://www.inmobi.com", "newton": "https://www.newtonschool.co",
+                   "truecaller": "https://www.truecaller.com"},
+    "ashby": {"atlan": "https://atlan.com", "ditto": "https://joinditto.in", "leap": "https://leapscholar.com",
+              "sarvam": "https://www.sarvam.ai", "signoz": "https://signoz.io", "spotdraft": "https://www.spotdraft.com"},
+    "workable": {"leena-ai": "https://leena.ai"},
+}
+_ENG_TITLE = re.compile(r"engineer|developer|\bsde\b|software|backend|frontend|full[- ]?stack|\bml\b|machine learning|"
+                        r"\bai\b|data scien|devops|\bsre\b|platform|programmer|technical staff", re.I)
+_ATS_INDIA = re.compile(r"india|bengaluru|bangalore|gurgaon|gurugram|noida|delhi|mumbai|pune|hyderabad|chennai|remote", re.I)
+
+
+def _iso_ts(ts):
+    return datetime.fromtimestamp(int(ts), timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def _ats_jobs(kind, slug):
+    """(title, location, url, posted_at, description) for every posting on one board."""
+    if kind == "lever":
+        return [(j["text"], (j.get("categories") or {}).get("location") or "", j.get("hostedUrl", ""),
+                 _iso_ts(j["createdAt"] / 1000) if j.get("createdAt") else None, j.get("descriptionPlain") or "")
+                for j in _get(f"https://api.lever.co/v0/postings/{slug}?mode=json").json()]
+    if kind == "greenhouse":
+        return [(j["title"], (j.get("location") or {}).get("name", ""), j.get("absolute_url", ""),
+                 normalize_date(j.get("updated_at")), html.unescape(j.get("content") or ""))
+                for j in _get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true").json()["jobs"]]
+    if kind == "ashby":
+        return [(j["title"], " ".join([j.get("location") or ""] + [x.get("location", "") for x in j.get("secondaryLocations") or []]),
+                 j.get("jobUrl", ""), normalize_date(j.get("publishedAt")), j.get("descriptionPlain") or "")
+                for j in _get(f"https://api.ashbyhq.com/posting-api/job-board/{slug}").json()["jobs"]]
+    if kind == "workable":
+        return [(j["title"], f"{j.get('city', '')}, {j.get('country', '')}", j.get("url", ""),
+                 normalize_date(j.get("published_on")), "")
+                for j in _get(f"https://apply.workable.com/api/v1/widget/accounts/{slug}").json()["jobs"]]
+    return []
+
+
+def fetch_ats_boards():
+    leads = []
+    for kind, boards in ATS_BOARDS.items():
+        for slug, website in boards.items():
+            try:
+                jobs = _ats_jobs(kind, slug)
+            except (requests.RequestException, ValueError, KeyError):
+                continue
+            company = urlparse(website).netloc.removeprefix("www.").split(".")[0].title()
+            for title, loc, url, posted_at, desc in jobs:
+                if _ATS_INDIA.search(loc) and _ENG_TITLE.search(title):
+                    leads.append(_lead(company, title, desc, url, website, loc, posted_at, "ats_boards"))
+            time.sleep(0.2)
+    return leads
+
+
 # -------------------------------------------------------------- simplify --
 
 _SIMPLIFY_CUTOFF_SECONDS = 30 * 86400
@@ -891,6 +950,7 @@ _SOURCES = {
     "github_orgs": fetch_github_orgs,
     "funding_news": fetch_funding_news,
     "simplify": fetch_simplify,
+    "ats_boards": fetch_ats_boards,
 }
 
 

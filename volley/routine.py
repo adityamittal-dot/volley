@@ -205,6 +205,7 @@ def shortlist(day=None, show=True):
         used.add(contact["email"])
         ok, why = tailor.eligibility(lead, a, contact)
         rows.append({"id": lid, "company": lead["company"], "fit": a["fit"], "angle": a["angle"],
+                     "subject_style": humanize.subject_style(lid),
                      "contact": contact, "tailor_eligible": ok, "tailor_note": why,
                      "priority": lead.get("priority", 0), "priority_note": lead.get("priority_note", ""),
                      "pay": lead.get("pay")})
@@ -222,6 +223,7 @@ def shortlist(day=None, show=True):
                   f"to: {c.get('name') or '?'} <{c['email']}> ({c.get('role') or '?'}; {c['confidence']})\n"
                   f"role posted: {batch[r['id']]['title']}\nwhat they do: {a['summary']}\n"
                   f"stack: {', '.join(a['stack']) or '?'}\nhook: {a['hook']}\nwhy this angle: {a['angle_reason']}\n"
+                  f"subject style: {r['subject_style']}\n"
                   f"tailor: {'ELIGIBLE' if r['tailor_eligible'] else 'no'} ({r['tailor_note']})")
     return rows
 
@@ -250,7 +252,8 @@ def check(day=None):
         if not e:
             problems.append(f"{r['company']}: shortlisted but no email written")
             continue
-        for issue in humanize.scan(e.get("subject", ""), e.get("body", "")):
+        for issue in humanize.scan(e.get("subject", ""), e.get("body", ""), style=r["subject_style"],
+                                   company=r["company"]):
             problems.append(f"{r['company']}: {issue}")
         body_links = set(re.findall(r"https?://[^\s)]+", e.get("body", "")))
         if body_links - links:
@@ -368,8 +371,8 @@ def test_send(to, case):
                 problems.append(f"tailored resume is {pages} pages")
     if problems:
         raise SystemExit("test case fails the checks:\n  " + "\n  ".join(problems))
-    if not pdf and tailor.MASTER_PDF.exists():   # same as delivery: the master PDF when not tailored
-        pdf = tailor.MASTER_PDF
+    if not pdf and settings().get("attach_resume", "screening") == "always" and tailor.MASTER_PDF.exists():
+        pdf = tailor.MASTER_PDF   # same as delivery: otherwise the master goes as the signature link
     sig = brain.signature(p, attached=bool(pdf))
     msg = mailer.build(p["identity"]["name"], to,
                        f"[volley test -> {lead['company']} <{contact['email']}>] {e['subject']}",
