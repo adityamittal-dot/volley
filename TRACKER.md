@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-05T17:18:07Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-05T21:31:58Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 104 · **Sent:** 104 · **Replies:** 7 (7%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 104 · **Sent:** 104 · **Replies:** 8 (8%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,9 +10,10 @@ _Updated 2026-10-05T17:18:07Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 1 |
 | no_contact | 410 |
 | low_fit | 174 |
-| sent | 45 |
+| queued | 1 |
+| sent | 44 |
 | followup_1 | 48 |
-| replied | 7 |
+| replied | 8 |
 | bounced | 4 |
 
 ## Reply rate by angle
@@ -20,13 +21,20 @@ _Updated 2026-10-05T17:18:07Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | Angle | Sent | Replies |
 |---|---|---|
 | basepair | 39 | 0 |
-| medvault | 38 | 3 |
+| medvault | 38 | 4 |
 | canopy | 27 | 4 |
+
+## Reply rate by subject style
+
+| Style | Sent | Replies |
+|---|---|---|
+| role | 104 | 8 |
 
 ## Replies
 
 - **Uncountable** — Jason <jason@uncountable.com> replied 2026-10-05
 - **InfoHawk** — James <james@infohawk.com> replied 2026-09-29
+- **Unsiloed AI** — André Castro <andre@unsiloed.ai> replied 2026-10-05
 - **winkjs** —  <contactus@graype.in> replied 2026-09-29
 - **Frostrek AI** —  <contact@frostrek.com> replied 2026-10-01
 - **Xero** —  <careers@xero.com> replied 2026-09-30
@@ -49,7 +57,7 @@ _Updated 2026-10-05T17:18:07Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-05 | Cloudglue | hello@cloudglue.dev | medvault | sent |
 | 2026-10-05 | Sapling.ai | ziangxie@gmail.com | medvault | sent |
 | 2026-10-05 | RamAIn | founders@ramain.ai | canopy | sent |
-| 2026-10-05 | Unsiloed AI | andre@unsiloed.ai | medvault | sent |
+| 2026-10-05 | Unsiloed AI | andre@unsiloed.ai | medvault | replied |
 | 2026-10-05 | Invopop | sam.lown@invopop.com | canopy | sent |
 | 2026-10-05 | Quickchat AI | contact@quickchat.ai | medvault | sent |
 | 2026-10-05 | Escape | mongi@escape.tech | basepair | sent |
