@@ -1,0 +1,287 @@
+{
+ "leads": [
+  {
+   "id": "8b9a8312c5",
+   "company": "CustomerGlu",
+   "website": "https://customerglu.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Java, JavaScript, Ruby, Swift",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "social@customerglu.net",
+     "where": "job posting",
+     "kind": "other"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "270807632a",
+   "company": "Vade Labs",
+   "website": "https://vadelabs.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Turning your ideas into reality. Languages: Clojure, HTML, Ruby",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "hello@vadelabs.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "c8528cc4f7",
+   "company": "Cryptology and Information Security (CrIS) Lab",
+   "website": "http://drona.csa.iisc.ernet.in/~arpita/",
+   "title": "Software Engineering (no public opening)",
+   "location": "IISc Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Research Group under the supervision of Dr. Arpita Patra. Languages: C++",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "cryptology.iisc@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "b38c5a44a6",
+   "company": "Fields of View",
+   "website": "https://www.fieldsofview.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We design games and simulations to make better policies.. Languages: HTML, Java. Topics: agent-based, agent-based-modeling, simulation-toolkit",
+   "site_text": "[https://fieldsofview.in/]\nFields of View Skip to main content We make tools to engage with the nuances of vulnerability learn more about us! Take a look at our tools E-QLT A Simulation Tool for Assessing Household Vulnerability Jee-van A Data Collection Game on Social Protection Reimagining Resilience A Workshop Exploring Social Protection Measures Here are our latest updates Subscribe to our newsletter\n\n[https://fieldsofview.in/about/]\nAbout - Fields of View Skip to main content We are an inter-disciplinary team developing games, simulations, and workshops to engage with wicked problems. For the last 12 years, we have been making tools to help individuals, organisations, and policymakers understand the messiness and complexity of their landscapes. We focus on addressing vulnerability through data-informed and participatory policy-making. learn more about our tools Meet our partners Meet our team Ayan Biswas Senior Advisor Email LinkedIn Ayan Biswas has worked at the intersection of science, technology, policy and people to navigate complex social problems. He has an MBA in Public Systems Management and an MSc. in Environmental Sciences. Ayan has designed and managed multi-partner, multi-country social impact programs related to water, sanitation, climate and agriculture in South Asia, Southeast Asia, and East Africa. In addition to program design and management, he has conceived networks and built partnerships with governments, NGOs and businesses in South Asia and East Africa. ayan@fieldsofview.in Karthik Natarajan Co-lead Email LinkedIn A trained architect and product designer having trained in India and Germany. He has 18 years of working in various verticals from FMCG, Construction, to scrap metal recycling and Plastic recovery. His work ranges from scaling sustainability focused enterprises, to helping enterprises develop more user centric products and services. At FoV his interests lie in scaling of projects and finding cross-industry applications for research tools. karthik@fieldsofview.in Kavitha Singh Accountant Email Kavitha has experience of more than ten years in the field of finance and accounts. She has experience in different sectors such as telecommunications, education , advertisement, manufacturing industries and hospitality. She enjoys baking and traveling. kavitha@fieldsofview.in Niharika Hari Programmer Email LinkedIn Niharika is a creative technologist passionate about blending technology, art, and science. They believe in the power of interdisciplinary collaboration to bridge gaps between fields and create impactful outcomes that extend beyond traditional boundaries. Outside work, they enjoy crocheting, painting, gaming and creative coding. niharika@fieldsofview.in Sakina Attarwala Designer Email LinkedIn Sakina is a visual designer grounded in problem-solving through storytelling. She has a background of working for and alongside diverse vulnerable communities, making her a strong advocate for inclusivity. Aiming to bridge these gaps and to help amplify the voices of those often marginalised. At FOV, she aims to find new ways to address and solve for disparities leveraging visual expression. sakina@fieldsofview.in Shashikala Jalari Administration Email Shashikala has more than 18 years of experience in HR and Administration. She has experience in different sectors like hospitality industry, construction, telecommunication and manufacturing industry. Her hobbies include gardening, reading books and enjoying listening to a wide range of music. shashikala@fieldsofview.in Sridhar Raman Programmer Email LinkedIn Sridhar is a software engineer and a transport modeller. He moved into the domain of public policy thirteen years back and has since then been working with local authorities in India and the United Kingdom. He is an avid advocate of sustainable mobility and likes to spend his free time cycling, hiking and reading. He is currently focusing on different aspects of public policy modelling and tool bui",
+   "email_candidates": [
+    {
+     "email": "info@fieldsofview.in",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "ayan@fieldsofview.in",
+     "where": "https://fieldsofview.in/about/",
+     "kind": "personal"
+    },
+    {
+     "email": "karthik@fieldsofview.in",
+     "where": "https://fieldsofview.in/about/",
+     "kind": "personal"
+    },
+    {
+     "email": "kavitha@fieldsofview.in",
+     "where": "https://fieldsofview.in/about/",
+     "kind": "personal"
+    },
+    {
+     "email": "niharika@fieldsofview.in",
+     "where": "https://fieldsofview.in/about/",
+     "kind": "personal"
+    },
+    {
+     "email": "sakina@fieldsofview.in",
+     "where": "https://fieldsofview.in/about/",
+     "kind": "personal"
+    },
+    {
+     "email": "shashikala@fieldsofview.in",
+     "where": "https://fieldsofview.in/about/",
+     "kind": "personal"
+    },
+    {
+     "email": "sridhar@fieldsofview.in",
+     "where": "https://fieldsofview.in/about/",
+     "kind": "personal"
+    },
+    {
+     "email": "sukanya@fieldsofview.in",
+     "where": "https://fieldsofview.in/about/",
+     "kind": "personal"
+    },
+    {
+     "email": "yashwin@fieldsofview.in",
+     "where": "https://fieldsofview.in/about/",
+     "kind": "personal"
+    },
+    {
+     "email": "harsha@fieldsofview.in",
+     "where": "GitHub commits (fieldsofview)",
+     "kind": "personal",
+     "name": "Harsha K",
+     "commits": 10
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "efef8e8400",
+   "company": "42Gears Mobility Systems",
+   "website": "https://www.42gears.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Accelerating Enterprise Mobility. Languages: C#, Java, JavaScript, Jupyter Notebook",
+   "site_text": "[https://www.42gears.com/]\n42Gears | Unified Endpoint Management Solution | Manage Android, iOS, Windows, macOS, Linux & ChromeOS Devices Managing devices is only half the battle. Go Beyond MDM Secure, manage, and monitor every endpoint in your ecosystem with confidence powered by Zero Trust security. The Market Shift Two New Priorities for the CIO While MDM remains crucial for productivity, IT leaders are prioritizing security and consolidation to handle massive, shared device fleets. Cybersecurity and Risk Management Build defence against security breaches. A 'managed' device is no longer enough; the device must be intrinsically 'secure'. Platform Unification Consolidate tools to manage mobile, printers, RFID readers, and other IoT devices from one seamless platform. The Critical Gaps Why Traditional MDM Fails the Frontline. Corporate VPN Overkill Frontline workers need \"application access\", not \"network access\". Corporate VPNs grant too much access. A micro-tunnel approach is mandatory. Workforce Productivity Friciton High turnover and low tech skills mean that even small friction (like typing complex passwords or MFA) severely affects productivity, especially in environments where gloves are worn. Missing User Accountability MDM is blind to the user’s identity. This leads to audit issues (like password sharing) and data loss, with no visibility into who is responsible. So the real question is: who is actually using the device? \"One Device, Many Hand\" Devices are shared across shifts, making traditional knowledge worker authentication (Password + MFA) operationally unworkable for high-turnover, non-skilled teams. FEATURES Be sure on every endpoint, every login, every access. SureIdP Simplify identity and access management while enforcing Zero Trust across your ecosystem. Read More SureAccess Control who accesses your network and devices with precision and Zero Trust enforcement. Try SureAccess Today! SureDefense Protect every endpoint from cyber threats with proactive security and compliance monitoring. Read More SureInsights Gain actionable visibility into device usage and battery performance to optimize IT ROI. Try Now! Measure Your MDM ROI Calculate the return on investment you will experience with your MDM investment. Calculate Your ROI Mobile Device Management Secure, monitor, and manage smartphones and tablets across your organization with ease. Read More Rugged Device Management Keep industrial and field-ready devices secure, updated, and always operational. Read More VR Device Deploy, manage, and secure virtual reality devices for immersive experiences at scale. Read More IoT Management Connect, monitor, and control your IoT ecosystem for smarter, safer operations. Read More Come, Grow with Us 42Gears Makes IT Simple and Secure for Thousands Worldwide 0 + Happy Customers 0 + Countries and Growing 0 M+ Successful Deployments 0 + Years in the Industry 0 + Technology Partners Certifications Learn More Industry Recognition SureMDM is an Android Enterprise Recommended EMM Solution. 42Gears is an Android Enterprise Gold Partner. 42Gears has successfully met all the Knox Validation Program (KVP) 2024 requirements, earning recognition as a certified EMM partner solution for 2025. 42Gears Completes Zebra's Enterprise Testing Program for SureMDM. Lenovo Recognizes 42Gears with the Win-Win Cooperation Award. 42Gears' SureMDM is recognized as a 2026 Champion and Top Rated UEM Solution for 2026 by SoftwareReviews . Our Global Partners Trusted by Amazing Companies We have worked with thousands of amazing people \"Easy to use and configure and the support is fantastic!\" Garron Cotham IT Manager, Victory Transportation Systems, Inc. \"Very powerful tool for managing our Android devices.\" Michelle Sutherby IT Operations Manager, CFS Brands \"Great experience and support.\" Salah Eddine Bentalba Expert Mobility Consultant, MobiConnect Technologies \"42Gears has been extremely helpful in resolving our most difficult issues. I'm very glad w",
+   "email_candidates": [
+    {
+     "email": "bala@42gears.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "techsupport@42gears.com",
+     "where": "https://www.42gears.com/contact-us/",
+     "kind": "personal"
+    },
+    {
+     "email": "jobs@42gears.com",
+     "where": "https://www.42gears.com/careers/",
+     "kind": "hiring"
+    },
+    {
+     "email": "u003ejobs@42gears.com",
+     "where": "https://www.42gears.com/careers/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "0caaf24ab1",
+   "company": "rw-UI-test-org",
+   "website": "https://example.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, IN",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Sample organization used for Veeam workload UI testing. Languages: Go, HCL, Python, TypeScript. Topics: airflow, authentication, aws, data-engineering, devops, ecommerce, eks, etl, fastapi, frontend, golang, infrastructure-as-code, microservice, oidc, payments, pci, python, react, rest-api, security, terraform, typescript, vite, warehouse",
+   "site_text": "[https://example.com/]\nExample Domain This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "25765b0eca",
+   "company": "Pyza Labs",
+   "website": "https://www.pyzalabs.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Pyza Labs helps you convert your dreams into amazing products. Reach out to us at sourav@pyzalabs.com for your next project!. Languages: JavaScript",
+   "site_text": "[https://www.pyzalabs.com/]\nBuild your dream business idea - Pyza Labs Convert your dreams into product Pyza labs helps you in ideation, development, launch, and supported by hyper growth for your business Get estimate Reach out Built for you Understand how we create solutions for your brand which stands out in quality, design and performance Already inspired? Your idea might not be unique but we strongly believe your brand's will be. So, your product should be curated as per your flair of service offerings. We pay special attention right from bootstrapping your idea to scaling among a billion users and more. We follow a 7 step proven workflow to build the best product your brand can offer. 1. Ideation & Prototyping 2. Design & Architecture 3. Development & Code 4. Testing (Internal and User Acceptance) 5. Product Launch 6. Growth Hacks, Digital Marketing & SEO 7. Own your product completely Get Started Focus on Quality Unmatched quality products every time, all the time We specialize in ensuring the quality of software products. Our team of experienced professionals is dedicated to helping you create high-quality software products that meet your business requirements. We use the latest testing tools and techniques to ensure that our software meets the industry standards and provides the best possible user experience. We also offer comprehensive advice and guidance on software quality assurance to help you identify and resolve any issues quickly and efficiently. Our services are tailored to meet your specific needs, and our team is available to provide guidance and support throughout the entire software development process. Let us help you create quality software products that meet the needs of your customers and ensure the success of your business. Get Started Services We offer end to end services so that you never have to venture out to find any solution related to your use case App Development We provide world class app development services for Android, iOS, React-Native, and Flutter. Our team of expert developers has extensive experience in developing high-end applications for smartphones, tablets, and other mobile devices. With our expertise and experience in developing apps, we can provide the best solutions to meet your needs. We understand the importance of having an app that is well-designed, user-friendly, and secure. We make sure that our apps are designed to provide the best user experience and are highly secure. Explore App Development Web Development We provide world class web development services that are unparalleled in the industry. Our team of experienced developers are well-versed in a range of web development technologies and techniques, from React and Angular to Custom CMS and WordPress, and Magento. We believe that our web development services are second to none. Our team of developers will work hard to make sure that the website you receive is not only functional, but also user-friendly and visually stunning. We are also committed to providing ongoing support and maintenance for all our clients. Explore Web Development Custom CMS Development When it comes to managing a website, a custom CMS is essential to ensure that your website is performing optimally and providing the best experience for your visitors. A custom CMS gives you complete control of your website, allowing you to create your own unique content, manage your website's features, and make changes as needed. With a custom CMS you can customize the design and structure of your website, allowing you to create a unique user experience that is tailored to your audience. Explore Custom CMS Development Smart City Solutions We understand that every smart-city project is unique and has specific requirements. We are committed to offering you customised solutions that are tailored to meet your requirements. Our team of highly skilled and experienced developers will work with you to build the perfect software solution for your smart-city project. We will ",
+   "email_candidates": [
+    {
+     "email": "sourav@pyzalabs.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "abhionic@outlook.com",
+     "where": "GitHub commits (pyza-labs)",
+     "kind": "personal",
+     "name": "sonicxz",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "66302eaf90",
+   "company": "JustInClicks.com",
+   "website": "https://www.justinclicks.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: CSS, HTML",
+   "site_text": "[https://justinclicks.com/]\nJustInClicks.com JustInClicks.com Now we operate as Non-Profit Organization We do not accept any project or work. Our Platforms sangrah.justinclicks.com Community-driven content aggregation platform. tools.justinclicks.com Collection of useful online utilities and widgets. bank-apis.justinclicks.com RESTful banking API endpoints for developers. Open Source Projects Add QR Code on Your Site JavaScript plugin to easily add dynamic QR codes. NumberToWords Library Convert numbers to English words in multiple formats. Android View Binding Generator Automates generation of view binding code for Android. EasyURLs Lightweight URL shortener for Node.js. FREE Site Status Page Open-source template to monitor uptime and incidents.",
+   "email_candidates": [
+    {
+     "email": "info@justinclicks.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "ca690f880f",
+   "company": "Techwonia",
+   "website": "http://techwonia.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune, MH",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Open source, from Techwonia with love. Languages: PHP, Twig",
+   "site_text": "[https://www.techwonia.com/]\nTechwonia – Advanced AI, SaaS Engineering & Strategic Design Solutions DESIGN TOMORROW, TODAY Advanced AI, SaaS Engineering & Strategic Design Solutions We architect next-generation AI systems, engineer scalable SaaS platforms, and craft strategic design experiences for forward-thinking organizations. Our technical expertise spans machine learning infrastructure, cloud-native application development, enterprise-grade IT architecture, and data-driven brand optimization that delivers measurable ROI and competitive differentiation. We Already Have Your Details! × Thanks for your interest! We already have your contact information and will be reaching out to you soon to discuss your project needs. Got It! →",
+   "email_candidates": [
+    {
+     "email": "opensource@techwonia.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "82dd33a869",
+   "company": "Dezine Zync Studios",
+   "website": "http://dezinezync.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Functional Design and Performant Code.. Languages: JavaScript, Objective-C, Swift. Topics: codable, concurrency, engine, es6, expressjs, ios, macos, networking, swift, tvos, urlsession, view, watchos",
+   "site_text": "[http://dezinezync.com/]\nDezine Zync Dezine Zync The personal blog of Nikhil Nigade My Apps Elytra Simple, Private, RSS Feed Reader Elytra features native text, image, and video rendering, stripping away tracking code from articles and image for a safe & private reading environment. Pockity Personal budgeting. Expense tracking. Simple & Private. A simple and private budget & expense tracking app for iOS, watchOS, and macOS. A simple utility that evolves into a powerful reporting tool featuring Natural Language Processing, Apple Intelligence, and moreâ¦ InTransit Incise Creative Network for Designers, Artists and creatives. A federated network for designers to showcase their work, find new work, supporting ActivityPub. App Icons You can also find me on Incise Mastodon Github LinkedIn\n\n[http://dezinezync.com/blog/]\nDezine Zync Dezine Zync The personal blog of Nikhil Nigade Monsoon, 2026 Sep 14, 2026 This has been one of my busiest monsoons in recent memory and a particularly good one. For the past three years, as soon as the monsoons commenced, my sleep cycle would go for a toss and it break my momentum. Not this time ðªð¼ Akshar â An AppIcon Inspired by the Mac Sep 14, 2026 In August, Krishna of the Akshar fame started discussing his appâs appicon with me, and how he wanted to make it stand out like Elytraâs . While I told him how I approached it, he immediately admitted not being able to follow along as a developer. BLR Terminal Conundrum Aug 2, 2026 Iâm stuck with a rather tricky situation when picking which terminal to land at and depart from when travling to Bengaluru. July, 2026 Aug 2, 2026 The second quarter of 2026 was expectedly busy, for several reasons. MacBook Pro M5 Max - Fast runs in me Jun 2, 2026 During my Bengaluru trip last month, I came across a significant disadvantaged with my then Macbook setup. It's a 14\" M1-Pro top of the line with 32GB of RAM. Better App Review Screenshots â 2026 Guide May 12, 2026 We've all been there, we're preparing the generate \"views\" for our app's reviews from App Store Connect, and we may naively copy the contents from the reviews tab of our app, decorate them with the right amount of stars, perhaps even use the same font from the app if it's unique, to keep the brand on-point. Bengaluru May, 2026 May 9, 2026 I was in in the radiant city of Bengaluru for some work this week. I met some \"online\" friends for the first time in person, and some old friends once again! And we got to share one of the best Apple Pies I've had in the eastern hemisphere thus far! W18 Links, 2026 May 4, 2026 Some interesting reads from last week: April, 2026 May 3, 2026 I said I would journal quarterly in my March post, but I can no longer contain my excitement for writing here. 2026 Q1: Recap Mar 30, 2026 Back to journaling on my blog, but this time doing it quarterly, i.e. a total of four posts for the year, looking back at each quarter. If you see my previous posts, they were all weekly, and I helped me write better, and most importantly, reflect better and be more grateful for the day! Page 1 of 26 Next subscribe via RSS",
+   "email_candidates": [
+    {
+     "email": "info@dezinezync.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "nikhil@dezinezync.com",
+     "where": "http://dezinezync.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "leads": [
+  {
+   "id": "108bff3363",
+   "company": "Kulkarni Technologies",
+   "website": "https://vikcon.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "KulkarniTech offers custom WordPress Development and Consulting. Languages: PHP. Topics: pmpro, webmcp, woocommerce, wordpress",
+   "site_text": "[https://kulkarnitech.com/]\nHome - Kulkarni Technologies Back Home Service WordPress eCommerce Consulting WebCare ai solutions About FAQ Contact Blog let’s talk We’re designing top-notch web solutions for businesses years 0 + We are a Web, eCommerce & WordPress development & consulting company KTech Web, eCommerce, WordPress & ai solutions for your business. learn more Web presence for a mental coach for Athletes design development consultancy 2025 Automation company site development 2024 Website Redesign for Industrial Manufacturer redesign 2024 Website for Cyber security company development 2024 Website for IIT Madras Initiative - The Energy Consortium developoment, maintenance 2023 expertise offering you the latest & creative solutions in the trusted way WordPress Dev eCommerce WebCare Consulting AI Solutions Watch how we work with more than 15+ years of experience, we bring in innovative solutions to your requirements. get started what they say about KTech SRPPL testimonial Ms. Priya Barve & Ms. Prajkta Kotasthane Directors, SRPPL Dr swaroop testimonial Dr Swaroop Savanur Founder, MyMentalCoach emergeflow testimonial Vedant Cofounder let’s get started right now If you would like to work with us or just want to get in touch, we’d love to hear from you! Office HN1065, Dabhol Road, Jalgaon, Dapoli, Dist. Ratnagiri Maharashtra, India – 415712 GSTN – 27BOSPK7340Q1ZZ Vienna Nenuya Centre, Elia Street New York, USA © 2025 | Alrights reserved by KulkarniTech privacy policy terms & conditions refund policy\n\n[https://kulkarnitech.com/about/]\nAbout - Kulkarni Technologies Back Home Service WordPress eCommerce Consulting WebCare ai solutions About FAQ Contact Blog let’s talk We are WordPress specialty development company We do Web, WordPress & eCommerce Development, Maintenance & Consulting. We help companies and startups, in making effective web presence Solving clients’ challenges by providing unmatched services in strategy, consulting, website & e-commerce development, and support Get in touch Vikram Kulkarni, MBA started VIKCON Consulting in March 2010, for ERP-CRM deployment consulting services. Eventually transitioned into Web Services, with specialization in WordPress development, customization & deployment. In January 2019, Kulkarni Technologies, a separate entity was formed, from assets of VIKCON. Now, for years, Kulkarni Technologies is known to deliver a comprehensive WordPress & Web Development solution to create a website that is visually appealing, rich in content, and has multi-platform support. We take pride in the fact that all our projects are free from technical errors. Our aim is just not to make your website a vital instrument for marketing and communication, but also to interest and engage your viewers. Building on real life values. Innovation We embrace emerging technologies and creative thinking to craft web solutions that stand out. Our team constantly explores new possibilities to keep your business ahead of the curve. Collaboration We work hand-in-hand with clients, transforming ideas into interactive, high-performing websites. Every project is a shared journey toward digital excellence. Integrity We believe in transparency, reliability, and honest communication at every stage. Your trust drives us to deliver exactly what we promise—without compromise. Excellence From concept to deployment, we pursue precision in every detail. Our commitment to quality ensures your website not only performs flawlessly but leaves a lasting impression. let’s get started right now If you would like to work with us or just want to get in touch, we’d love to hear from you! Office HN1065, Dabhol Road, Jalgaon, Dapoli, Dist. Ratnagiri Maharashtra, India – 415712 GSTN – 27BOSPK7340Q1ZZ Vienna Nenuya Centre, Elia Street New York, USA © 2025 | Alrights reserved by KulkarniTech privacy policy terms & conditions refund policy\n\n[https://kulkarnitech.com/contact/]\nContact - Kulkarni Technologies Back Home Service WordPress eCommerce Consu",
+   "email_candidates": [
+    {
+     "email": "vikram@vikcon.in",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "dcc53861cb",
+   "company": "0xMetaLabs, Inc.",
+   "website": "https://0xmetalabs.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Dart, Java. Topics: ethereum, flutter, flutter-web, metamask, reown, reown-appkit, wagmi, wallet-connect, walletconnect, web, web3",
+   "site_text": "[https://0xmetalabs.com/]\n0xMetaLabs - Innovate, Integrate, Elevate. Let's Discover Future. 0xMetaLabs // Tech Excellence, Redefined. Your Partner for Advanced AI & Web3 Solutions. We engineer custom software that drives innovation, solves complex challenges, and gives your business a competitive edge. Experience clarity, control, and cutting-edge technology. Get started Meet The Experts Trusted by Global Industry Leaders 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 .brand-marquee { position : relative ; overflow: hidden ; width: 100 %; isolation: isolate; mask-image: linear - gradient (to right, transparent 0 %, black 8 %, black 92 %, transparent 100 %); } { \"metrics\" :{ \"cpu\" : 0.34 , \"mem\" : \"1.2GB\" , \"req\" : 4821 , \"err\" : 0 , \"latency\" :{ \"p50\" : 12 , \"p95\" : 45 , \"p99\" : 120 }}, \"uptime\" : 99.98 , \"region\" : \"us-east-1\" } @keyframes hero-float { 0 % { transform: translateY ( 0 ); } 50 % { transform: translateY (- 10 px); } 100 % { transform: translateY ( 0 ); } } @ media (prefers-reduced-motion: reduce) { #hero-bg-desktop { animation: none ; } } services : web: image : node: 20 ports : [ \"3000:3000\" ] environment : DATABASE_URL: ${{ secrets.DB }} REDIS_URL: ${{ secrets.REDIS }} deploy : replicas : 3 restart_policy : condition : on -failure const handler = async (req, res) => { const data = await db. collection ( \"users\" ). where ( \"active\" , \"==\" ,true). limit ( 20 ). get (); res. json (data.docs. map (d => ({ id: d.id, ...d. data () }))); }; @keyframes hero-float { 0 % { transform: translateY ( 0 ); } 50 % { transform: translateY (- 10 px); } 100 % { transform: translateY ( 0 ); } } @ media (prefers-reduced-motion: reduce) { #hero-bg-desktop { animation: none ; } } { \"status\" : \"ok\" , \"data\" :[{ \"id\" : 1 , \"label\" : \"AI Integration\" , \"progress\" : 0.92 },{ \"id\" : 2 , \"label\" : \"Web3 Solutions\" , \"progress\" : 0.78 },{ \"id\" : 3 , \"label\" : \"Cloud Infra\" , \"progress\" : 1.0 }], \"pagination\" :{ \"page\" : 1 , \"total\" : 3 , \"hasMore\" : false }} const observer = new IntersectionObserver ((entries) => { entries. forEach (e => { if (e.isIntersecting) e.target.dataset.reveal = \"visible\" ; }); }, { threshold: 0.15 , rootMargin: \"0px 0px -10% 0px\" }); { \"metrics\" :{ \"cpu\" : 0.34 , \"mem\" : \"1.2GB\" , \"req\" : 4821 , \"err\" : 0 , \"latency\" :{ \"p50\" : 12 , \"p95\" : 45 , \"p99\" : 120 }}, \"uptime\" : 99.98 , \"region\" : \"us-east-1\" } const schema = z. object ({ email: z. string (). email (), password: z. string (). min ( 8 ), role: z. enum ([ \"admin\" , \"user\" , \"guest\" ]). default ( \"user\" ) }); type FormData = z. infer < typeof schema>; { \"user\" :{ \"id\" : \"clk_9a2b\" , \"email\" : \" [email protected] \" , \"profile\" :{ \"avatar\" : \"https://cdn.0xmlabs.com/a.webp\" , \"bio\" : \"Building the future, one commit at a time.\" , \"repos\" : 42 , \"stars\" : 1337 }}} const memo = useMemo (() => items. filter (i => i.active). sort ((a, b) => a.rank - b.rank). map (i => ({ id: i.id, label: i.name. toUpperCase () })), [items]); <picture> <source srcset=\"/img/hero-1920.webp 1920w, /img/hero-960.webp 960w\" type=\"image/webp\"/> <img src=\"/img/hero.jpg\" alt=\"hero\" width=\"1920\" height=\"1080\" loading=\"eager\"/> </picture> { \"project\" : \"0xmlabs\" , \"version\" : \"2.0.0\" , \"dependencies\" :{ \"astro\" : \"^6.0.0\" , \"tailwindcss\" : \"^4.0.0\" , \"typescript\" : \"^5.7.0\" }, \"scripts\" :{ \"dev\" : \"astro dev\" , \"build\" : \"astro build\" , \"preview\" : \"astro preview\" }} <nav class=\"navbar\"> <ul class=\"nav-list\"> <li> <a href=\"/\" class=\"nav-link active\"> Home </a> </li> <li> <a href=\"/services\" class=\"nav-link\"> Services </a> </li> <li> <a href=\"/about\" class=\"nav-link\"> About </a> </li> </ul> </nav> const ctx = canvas. getContext ( \"2d\" ); const draw = (t) => { ctx. clearRec",
+   "email_candidates": [
+    {
+     "email": "dev@0xmetalabs.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "ad8a7be389",
+   "company": "QpiAI",
+   "website": "https://qpiai.tech",
+   "title": "Software Engineering (recently funded)",
+   "location": "Bengaluru, India",
+   "source": "funding_news",
+   "posted_at": "2026-10-05T11:17:02Z",
+   "posting": "Exclusive: QpiAI raises Rs 50 Cr in debt from InnoVen Capital. Bengaluru-based quantum computing and artificial intelligence startup QpiAI has raised Rs 50 Cr in debt funding from InnoVen Capital. The board at QpiAI has approved the issuance of 5,000 non-convertible debentures (NCDs) at a face value of Rs 1 lakh each to raise Rs 50 crore from InnoVen Capital, as per its filing with the Registrar of Companies (RoC). According to the filing, the debentures carry a 13.85% annual coupon rate and are set to mature by December 1, 2028. The company has not disclosed how it will use the debt proceeds. The Bengaluru-based company previously raised $32 million (around Rs 279 Cr) in a Series A round in July 2025, led by Avataar Ventures and the National Quantum Mission (NQM). As per Entrackr’s estimate, the company is valued at around Rs 2,050 Cr or $215 million during the round. Founded in 2019 by Nagendra Nagaraja, Bengaluru-based QpiAI is a deeptech startup building quantum computing and AI solutions for enterprises. The company develops proprietary quantum hardware and software for applications across drug discovery, manufacturing, finance, pharma, and materials science. It has developed a 25-qubit quantum computer and is working towards a 64-qubit system, with a roadmap to scale to 1,000 qubits by 2030. QpiAI has yet to file its FY26 financials. During the fiscal year ended March 2025, it remained at a pre-revenue stage, with operating revenue of around Rs 2 Cr, while its losses increased to Rs 16.67 Cr in the same period.",
+   "site_text": "[https://www.qpiai.tech/]\nQpiAI Vertically Integrated AI and Quantum Computing Solve complex scientific and business problems in life sciences, energy, materials, finance, logistics, automotive, manufacturing, and sustainability. Discover QpiAI Products Quantum and AI Solutions QpiAI Launches Kaveri QpiAI Kaveri is a 64-qubit superconducting quantum processor chip. It utilizes QpiAI's proprietary superconducting flip-chip integrated technology for scalable quantum processors, featuring wafer-scale fabrication for high qubit density, flip-chip architecture with low-loss interconnects, and separation of qubit and interconnect layers for optimized performance. Contact Us Your browser does not support the video tag. Advancing Intelligence Modeling and Intelligence Compute Our integrated approach combines modeling, compute, and automation to solve complex business and scientific problems at utility-scale. Enterprise Gen-AI Solutions Leverage our enterprise-grade AI and Gen-AI tools to transform your business. From predictive analytics, computer vision, LLMs, or AI Agents - our integrated solutions enhance decision-making and automation capabilities across industries. Discover More Quantum-enabled Solutions Solve complex computational problems in optimization, simulation, and machine learning to drive breakthroughs in use cases tailored to your industry, across scientific discovery, finance, healthcare, or manufacturing. Discover More Full Stack Vertical Integration Integrate quantum computing seamlessly into your AI stack, from software to hardware, to optimize modeling, accelerate computations, and unlock new possibilities in next-generation high-performance computing applications. Discover More Full-Stack Quantum Computing Combination of optimal AI, software, quantum computer, and classical HPC for hybrid quantum-classical stack with co-located data center integration and cloud. QpiAI Gen-1 25 Qubits Quantum System QpiAI Gen-1 25 Qubits Quantum Computer scalable up to 300 Qubits, built with Superconducting Qubits for enhanced performance - exhibiting long coherence times, low error rates, and reliable scalability. Single and Multi-QPU Integrated Quantum Computing system with unique QPU virtualisation capability Combining the strengths of Quantum and AI technology empowering enterprises to solve complex computational problems. Seamless integration with existing high-performance computing systems. Contact us for Early QCaaS Access Enterprise-ready Quantum Computing AI to Quantum Integrate AI with Quantum Computing to solve complex, high-dimensional problems and boost machine learning, optimization, and data analysis capabilities. Full-Stack Solutions A complete quantum solution from hardware to software, designed for seamless integration and optimized performance for enterprise applications. Application Optimized Custom quantum solutions tailored to industry-specific challenges, enhancing performance in fields like logistics, finance, and pharmaceuticals. QCaaS On-demand quantum resources with hybrid quantum-classical capabilities, allow businesses to scale without heavy infrastructure investment. Quantum Cloud Secure, scalable cloud-based quantum computing with real-time performance monitoring, ideal for enterprises exploring quantum solutions. Explore Quantum and AI Products QpiAI Quantum QpiAI-Pro QpiAI-Opt QpiAI-Matter QpiAI-Pharma QpiAI-Logistics QpiAI-Quantum Our end-to-end Quantum Developer's Platform combines access to QpiAI-Gen-1 Quantum Computer with Cloud IDE, quantum development SDK, and application-oriented QC workflows for enterprise use cases. Manage Jobs, Organizations, and Credits Enterprise-grade Security and Compliance Tap into Application-specific Circuit Optimizations Discover More Request Access Industry Applications in Action Transforming industries like life sciences, automotive, and finance with quantum computing and AI through advanced simulations, optimization, and predictive analytics. Accelerated drug d",
+   "email_candidates": [
+    {
+     "email": "info@qpiai.tech",
+     "where": "https://www.qpiai.tech/contact",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded"
+  },
+  {
+   "id": "936df93c1c",
+   "company": "SuperBryn",
+   "website": "https://www.superbryn.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python, TypeScript",
+   "site_text": "[https://superbryn.com/]\nSuperBryn | Voice AI That Improves Itself SuperBryn raises 1.2 M USD from Kalaari Capital Voice AI Reliability Platform Your voice agents work in the demo. They break in production. SuperBryn is the evaluation and observability platform that helps you understand why your voice agents fail—and how to fix them. Book a Demo → Watch Demo Trusted by leading teams Mphasis Docket AI Kennar Health Zappy Hire MyKare Health The Production Gap Your voice agents pass every test. Then they fail real customers. Demos work perfectly. Production breaks silently. The gap between testing and reality is where trust dies. The Problem You're flying blind in production. Demos work. Real calls don't. You can't reproduce the failures. Monitoring millions of calls means sampling—and missing edge cases. Dashboards show metrics. They don't explain what went wrong. Every fix is a guess. You're not learning from production. Our Solution Evals, observability, and self-learning for voice AI. Generate test scenarios from your data—before you go live Evaluate every production call, not just a sample Monitor and trace failures across STT → LLM → TTS Self-learning loop that improves agents automatically (coming soon) Evals & Observability Everything you need to trust voice AI at scale. Pre-deployment evals, production observability, and a roadmap to self-learning—built by researchers with 14+ years in speech recognition. 🧪 Comprehensive Evals Generate test scenarios from your company's data sources before going live. Then run evals on production traffic to measure what actually happens with real customers. 📊 Real-Time Observability Monitor every call across STT, LLM, and TTS. Track latency, accuracy, sentiment, and task completion with sub-second alerting. 🔍 Root Cause Analysis Trace failures through the entire voice pipeline. Know whether it was the transcription, the reasoning, or the synthesis that broke. 🏥 Enterprise Compliance Purpose-built for regulated industries. Healthcare, financial services, insurance. Full audit trails and compliance reporting. Coming Soon 🔄 Self-Learning Loop Our Observer Agent will feed insights to an Improver Agent that automatically updates your Main Agent. Continuous improvement without human intervention. Coming Soon 🌐 Multi-Model Routing Intelligently route between STT, LLM, and TTS providers based on context, cost, and performance. One integration, infinite flexibility. Research-Backed Built by researchers. Not just engineers. SuperBryn's approach is grounded in over a decade of academic research in speech recognition, acoustic modeling, and voice AI. PhD, IIT Madras Post-Doc, King's College London Dr. Neethu Mariam Joy Co-Founder & CTO “ Voice agents fail in production because they weren't built to learn from real-world conditions. We're changing that. ” 14+ years of research in speech recognition, noise-robust acoustic modeling, and assistive voice technology. PhD from IIT Madras (2011–2018), followed by postdoctoral research at King's College London. Published extensively in IEEE and INTERSPEECH on speaker normalization, low-resource language modeling, and speech recognition for impaired speakers. Selected Publications FMLLR Speaker Normalization With i-Vector IEEE/ACM Trans. Audio, Speech & Language Processing, 2018 Improving Acoustic Models in TORGO Dysarthric Speech Database IEEE Trans. Neural Systems and Rehabilitation Engineering, 2018 DNNs for Unsupervised Extraction of Pseudo Speaker-Normalized Features Speech Communication, 2017 On Improving Acoustic Models for Dysarthric Speech INTERSPEECH, 2017 View all publications → Why SuperBryn Others build dashboards. We build understanding. The first voice AI platform built by speech recognition researchers—for the problems they've spent their careers solving. 01 Research-First Approach Our team brings 14+ years of speech AI research. We know why voice agents fail—because we've spent our careers studying it. 02 Production-First Philosophy We evalua",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "da989a3df7",
+   "company": "ActiveSphere",
+   "website": "https://www.activesphere.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We are a boutique software consulting company. We have built and scaled complex web-apps, visualizations and high-throughput messaging systems.. Languages: CSS, Elixir, Go, TypeScript. Topics: elixir, exq, scheduler, sidekiq, stream, xml",
+   "site_text": "[http://activesphere.com/]\nActiveSphere - Software consulting activesphere Helping businesses build software for hard problems. We are a boutique software consulting company. We have built and scaled complex web-apps, visualizations and high-throughput messaging systems. More challenging the work, more interested we are. We have worked on energy management software, payment gateway, e-commerce front-end, software measuring carbon footprint, HR management software, video encoding pipeline and more. For client projects, we have used React, Webpack, Ruby, node.js, AngularJS, TypeScript, D3.js, Elixir, GStreamer. For our own projects, we have played with Golang, Erlang, Haskell, Python and more. Our Ethos As a company, we are trying to build a place for individuals. We care about each one of us having their own explorations, growing in skills and perspectives. We list some of these explorations in the hacks page . Some of our customers\n\n[http://activesphere.com/people.html]\nPeople • ActiveSphere - Software consulting activesphere Ciju Cherian Github LinkedIn Did his masters at IIT Kanpur. Got a taste for startups at SlideShare. Since then he has been involved with a few startups, and has been attending various technical/startup events. He has won two Yahoo! India Hackday events. He is interested in education and analytics. Anantha Kumaran Github After working with few startups he joined us. Within a month he contributed with his DynamoDB emulator. He is an active Lisper and Emacs user. He contributed to Emacs community with few development tools. He lives only with his books, kindle and computers. Rahul Jayaraman Github LinkedIn He led a team of developers building mobility applications for Banks and NBFCs at Forbes Technosys. He worked on large javascript codebases while consulting for an energy management company. He enjoys playing a board game called Go (also known as Igo, Weichi or Baduk) at which he represented India at the 4th Korean Prime Minister’s Cup. Has been known to occasionally do cyling brevets. Enjoys running & swimming as well. Saneef Ansari Github LinkedIn Sa­neef is an in­for­ma­tion and prod­uct de­signer. He has helped many startups as well as large companies to de­sign their prod­ucts and ser­vices. To name a few, Zoho, Aditya Birla, Pratham Books, Adya, Razorfish, and Compile. He is a grad­u­ate of the Na­tional In­sti­tute of De­sign (NID) , Ban­ga­lore. He has pre­vi­ously worked with the renowned de­sign agency iA Zurich . Dinesh Gowtham Prathap Github He joined us as a campus recruit from IIIT Bangalore. Since then has worked on Android and iOS. Now works on Rails apps. His latest craving has become the gym, which he tries to frequent all 5 days of the week. Makes a point to catch the latest Tamil movies and is working on a movie database app as a hobby. Doesn’t mind spending some time to teach a noob or two. Is seen with his headset on, grooving to his favourite jam at times. Naman Jha Github A all round curious guy with no actual hurry to satisfy said curiosities. Got pulled into the world of programming by its easy accessibility and widely available quality documentation. Likes to swim whenever he can and is a Formula 1 enthusiast. Rohit Shinde Github He enjoys reading about Biology, History, Spirituality, etc, and fiction sometimes. Recently he has started exploring functional programming and is learning Lisp. He claims to be on a life-long mission of fitness and working out on a regular basis, and oftentimes even says “No” to a Vada Pav. He also enjoys drawing, says, it teaches a thing or two. Omkar Petkar Github Omkar has worked at multiple startups, building software from scratch and fine tuning it to work at scale. He is an avid learner and loves getting to the bottom of things that rouse his curiosity. A foodie at heart, he takes pride in exploring new places to eat. Loves being outdoors and is an active swimmer and cyclist. Akash Hiremath Github After working for Huawei and Hike he joined us. S",
+   "email_candidates": [
+    {
+     "email": "career@activesphere.com",
+     "where": "http://activesphere.com/careers.html",
+     "kind": "hiring"
+    },
+    {
+     "email": "ananthakumaran@gmail.com",
+     "where": "GitHub commits (ananthakumaran)",
+     "kind": "personal",
+     "name": "Anantha Kumaran",
+     "commits": 68
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "f64ac78933",
+   "company": "Cybrilla",
+   "website": "http://www.cybrilla.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Java, JavaScript, TypeScript",
+   "site_text": "[https://cybrilla.com/about]\nAbout us Noticed \"Cybrilla Technologies Pvt Ltd\" on your bank statement? Click here to understand why → Revolutionising mutual fund investing by making it simple and accessible. For decades, investing in mutual funds has been bogged down by outdated systems, slow integrations, and multiple complex channels. Think of it as trying to get a legal document approved by visiting multiple offices, standing in queues, and collecting various signatures - it's slow, costly, and frustrating. Investing shouldn't be this hard. That's where we come in. With our solutions, we empower mutual fund companies and distributors to streamline processes, cut operation costs, and make investing easier. See How Fintech Primitives Works See How Cybrilla POA Works Our Story We started Cybrilla in 2010 in a windowless garage with nothing but laptops, determination, and a shared belief that technology in the world of finance could be made better. Our early days weren't glamorous - just a handful of us learning through trial and error, and tackling challenges that seemed impossibly complex at first. But through these experiences, we gradually built our understanding of the industry's needs. To a great extent, our partners in the mutual fund space have shaped who we are today. For example, India’s first robo-advisor and direct fund platform entrusted us with solving their challenges. We also realised we were part of an industry where mutual fund houses and distributors relied heavily on legacy infrastructure and outdated tools that slowed transactions and increased costs. And it was all accepted as \"business as usual.\" We saw an opportunity to change this. We built the Fintech Primitives (FP) , our API platform that simplifies mutual fund transactions. FP, our hero product, is currently being used by over 70 partners. The industry is evolving and so are we. We reached a major milestone in March 2024 when we received our RTA license from SEBI to forge deeper distribution partnerships with fund houses, sachetise investments, reduce error rates and decentralise transactions. In August 2024, we helped write the ONDC protocol for the mutual fund space, and became the first company in India to process a live decentralised mutual fund transaction on ONDC. What's next? We're excited about breaking free from traditional platform limitations and showcasing the benefits of a decentralised, protocol-based approach to distribution by enabling unique use cases. Our Partners Trusted by AMCs and distributors shaping India’s digital investing Our Investors Backed by partners who share our commitment to building a strong digital investment infrastructure Words from the Industry Previous \" When we started Dezerv in 2021, we needed a distribution platform that would let us quickly test our ideas and product lifecycle. Cybrilla offered exactly what we needed — a quick go-to-market and all the customizations we wanted, tailored perfectly for our users. Since then, the platform has been running on autopilot and is maintenance-free. We haven't faced any major transaction issue. Our business with Cybrilla is impactful, and the trust we've built with their team has made all the difference. Rishikesh Bhise Head of Policy and Governance , Dezerv \" One of the biggest value additions Cybrilla has brought to Bachatt is speed. We signed the contract on March 15, and by April 25 we were live — in just 40 days. This kind of rapid execution, by reducing the development cycle so significantly, was critical for our survival as a young startup. With any other large organisation in the mutual fund industry, the outcome would have looked very different.Another major value addition has been Cybrilla's ability to effectively coordinate with multiple agencies. A single order involves at least five to six stakeholders, each with its own processes, and Cybrilla managed all of them seamlessly. Their execution gave us the confidence to grow without being slowed down by indus",
+   "email_candidates": [
+    {
+     "email": "contact@cybrilla.com",
+     "where": "https://cybrilla.com/contact",
+     "kind": "generic"
+    },
+    {
+     "email": "investor.complaints@cybrilla.com",
+     "where": "https://cybrilla.com/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "sudheendra.k@cybrilla.com",
+     "where": "https://cybrilla.com/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "satish@cybrilla.com",
+     "where": "https://cybrilla.com/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "anchal.jajodia@cybrilla.com",
+     "where": "https://cybrilla.com/contact",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "98bdb793ba",
+   "company": "Gotchacode",
+   "website": "https://gotchacode.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "High on Code all the time!. Languages: Python",
+   "site_text": "[https://www.gotchacode.com/]\nGotchacode - AI Engineering Systems AI engineering systems for teams shipping real software. Book an audit Gotchacode Get in touch Gotchacode / AI engineering consulting Ship faster with AI agents without letting code quality rot. Gotchacode helps small software teams turn coding agents into a disciplined delivery system: better repo context, stronger tests, safer PR review, cleaner CI, and less guesswork. The work happens in your codebase , alongside the standards your team already relies on. You leave with working improvements and a system your engineers can keep using. Book an audit View services 1–2 weeks Typical sprint size 3 offers Audit, setup, sprint 0 fluff Repo work over theory Services Practical offers for teams that already have code to ship. This is not a prompt workshop. The work happens inside your repo, CI, review flow, and the habits your team will keep after the engagement. Fixed-scope diagnostic AI engineering audit A repo-level review of where coding agents can safely help, where they create maintenance drag, and what needs to change first. Agent readiness map CI and test gaps Security and privacy boundaries High-leverage implementation Agent workflow setup A practical setup for teams that want agents inside real engineering work without lowering the bar for review, tests, or architecture. Repo context packs Prompt and skill workflows PR review loops 1–2 week delivery Modernization sprint A focused sprint to clean up CI, dependencies, test coverage, docs, and developer workflows so the codebase is easier to ship with. CI repaired Risky dependencies handled Docs and guardrails added Approach AI makes output cheaper. Good engineering judgment becomes more valuable. Most teams do not need another tool subscription. They need a way to decide what agents may change, how code gets verified, and where human review still matters. “Speed is useful only when the code remains understandable, testable, and safe to change again.” Tests first Agent work is routed through fast feedback, regression checks, and clear acceptance criteria. PR discipline Review prompts, diff hygiene, and handoff notes make generated code easier to trust. Private-code safe Security and data boundaries are treated as engineering requirements, not footnotes. System fit The setup follows your repo shape instead of forcing a generic AI workflow onto it. Process A consulting engagement should end with working assets, not a slide deck. 01 Map the repo Inspect the codebase, delivery process, tests, CI, docs, and review habits. 02 Find leverage Identify the work AI should accelerate and where senior judgment still matters. 03 Install guardrails Add workflows, prompts, checks, docs, and conventions that make the work repeatable. 04 Ship proof Finish with cleaner CI, safer reviews, faster tasks, and a team-ready playbook. Start small The easiest opening is a one-repo audit. Send a short note about your codebase, team size, stack, and where AI-assisted work currently feels risky or slow. Email Gotchacode View apps",
+   "email_candidates": [
+    {
+     "email": "vinitkme@icloud.com",
+     "where": "https://www.gotchacode.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "mail@vinitkumar.me",
+     "where": "GitHub commits (vinitkumar)",
+     "kind": "generic",
+     "name": "Vinit Kumar",
+     "commits": 31
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "ba2e651228",
+   "company": "nurture.farm",
+   "website": "https://nurture.farm/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Partnering with you, in your farming enterprise.. Languages: Dart, JavaScript",
+   "site_text": "[https://nurture.farm/]\nnurture.farm Skip to main content nurture.farm Menu Brighter Futures for Agriculture Making farming profitable, sustainable, and future-ready An Ecosystem Built for Everyone The farm and the farmer sit at the heart of India’s agri-ecosystem. Around them are retailers, growers, traders, processors, and enterprises – each shaping how food is grown, moved, and consumed. For this ecosystem to thrive, it must serve everyone fairly, while protecting the environment it depends on. That’s where nurture.farm comes in. Supporting Every Stage of the Crop Cycle We are building an agri-tech ecosystem that supports every stage of the crop cycle, addressing the real challenges faced by farmers, retailers, and agri brands at every step. Digital Advisory Connecting farmers with agricultural advisory to ensure better yields and sustainable practices. Mechanisation Modern farming equipment and technology to increase efficiency and reduce manual labor. Access to Inputs With nurture.retail, retailers get direct access to agri-inputs from trusted manufacturers. Sustainability Programs Environmental initiatives that protect the planet while creating value for everyone involved. Our Purpose Our purpose at nurture.farm is simple – to reimagine agriculture so it creates value for all stakeholders today, while protecting the planet for tomorrow. We believe profitability and sustainability go hand in hand, because only when farming works for all, can we truly build brighter futures.\n\n[https://nurture.farm/about-us/]\nAbout Us – nurture.farm Skip to main content nurture.farm Menu Our Story About Us Founded in 2020 and headquartered in Bengaluru, nurture.farm is one of India’s most significant agri-tech platforms. As a subsidiary of UPL SAS, we bring together commerce, services, and sustainability to create a complete ecosystem for agriculture. Meet the team Amit Srivastava Chief Digital Officer, UPL Ltd. Ankit Laddha Head – nurture.retail Tushar Trivedi Head – UPL Retail & New Business Division Harshal Sonavane Head – Sustainability Akansha Rathi Head of Marketing Kalyan D Head of Supply Chain Anish Sapra Lead – Care Ops Ankita Head of Finance\n\n[https://nurture.farm/contact-us/]\nContact Us – nurture.farm Skip to main content nurture.farm Menu Contact Us Address Our registered and corporate address Registered Office Uniphos House, C.D. Marg, 11th Road, Khar (West) Mumbai, Maharashtra 400052 CIN: U01100MH2019PLC335151 Corporate Office Sakti Statesman, 4th Floor Green Glen Layout, Bellandur Bengaluru, Karnataka 560103 For Care & Support nurture.farm WhatsApp Support : 8657500421 Call Support: 1800 102 1199 Email Support: care@nurture.farm nurture.retail WhatsApp Support : 7795795274 Call Support: 1800 2332 0222 Email Support: care@nurture.farm nurture.sustain WhatsApp Support : 8657500421 Call Support: 1800 102 1199 Email Support: care@nurture.farm Let’s build brighter futures together​",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "cc6159bf27",
+   "company": "Studio Lampblack",
+   "website": "https://lampblack.studio",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: CSS, HTML, JavaScript",
+   "site_text": "[https://lampblack.studio/]\nStudio Lampblack Coming online soon.",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "fec14fbe31",
+   "company": "Opaxa",
+   "website": "https://opaxa.com",
+   "title": "Founding Engineer, Forward Deployed (full-stack)",
+   "location": "San Francisco Bay Area preferred, REMOTE (US) considered",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-05T06:41:33Z",
+   "posting": "Opaxa | Founding Engineer, Forward Deployed (full-stack) | San Francisco Bay Area preferred, REMOTE (US) considered | Full-time | $175K–$225K + 0.5%–1.5% equity | opaxa.com Every business with many locations already has systems that record what happened yesterday. None of them tell the manager what to do today. Opaxa does. It reads the systems a business already runs, learns how that operation actually works, and puts the right decision in front of the right manager: how busy tomorrow will be, who to schedule, what to order, which invoice overcharged you. Then it tracks what each decision earned. Our founder runs a restaurant company with more than 40 locations and over 750 employees. Opaxa was built inside it to solve its own problems, and it runs there every night. We're well funded and now expanding to other multi-location operators: restaurant groups, stadiums and campuses, hotels, retail. You'd be the second engineer, working with our founding engineer, who owns the architecture, and with the sales and product team. You'd take new features from spec to production, spend real time with the managers who use them, and turn what they tell you into shipped changes within days. As we bring on new clients, you'd lead getting them live. TypeScript/React, Python, Postgres, AWS, and AI tools every day. This is an early, high-intensity role for someone who wants a lot of ownership and to move fast. US work authorization required. No agencies or contract firms. To apply, email colton@opaxa.com with the subject \"Forward Deployed: your name, your city\" and include: your resume or LinkedIn; a link to something you built that real people use, and what you personally did on it; two or three sentences on a time a user's feedback changed what you shipped; and where you're based. We read every email.",
+   "site_text": "[https://opaxa.com/]\nOpaxa: Artificial intelligence, location by location OPAXA Contact Nº 001 · Artificial intelligence, location by location Every system measures. Only Opaxa acts. It reads what your systems know, adds what your operation knows, and acts on both. Start a conversation See the platform → Illustrative. Nº 002 · The Thesis The systems know what happened. They do not know how you operate . Your point of sale knows yesterday's sales. Your payroll system knows who worked. Neither knows what drives your first hour, what the lease requires, what the labor contract allows, or what the manual says when equipment fails at open. That operating context is what turns a report into the right decision. It lives in documents nobody reads and in the heads of a few experienced managers, and it is only captured by doing the work inside real operations. Nº 003 · The Platform Reads everything you run. Reasons across all of it. Acts inside your rules. Everything You Run Point of sale Payroll Scheduling Timekeeping Accounting Purchasing Inventory Distributor invoices Recipes and menus Vendor contracts Leases Equipment manuals Guest reviews Flight schedules Event calendars Weather …and whatever runs your operation OPAXA Artificial intelligence that reasons and acts Decisions Right Now Illustrative examples across operator types. How the platform works → Nº 004 · See It What the operation looks like when it acts . The Forecast · The Rules · The Plan · The Decision The forecast starts from the same day in recent weeks, then adds what is different today: the weather, the school calendar, events nearby, and any other external factors that have an impact. Demo data. Nº 005 · Agents Every part of the operation, covered . Demand and Labor The right people, at the right hour, within the rules. Demand Concessions A schedule change added two departures to the 6:40 am bank. Opening-hour demand revised up 18% at the three nearest locations. Labor Restaurants Twelve locations ran 2.1 points over their labor target last week, concentrated between 2:00 and 4:00 pm. Three schedules rebuilt around it. Shift Coverage Concessions The opening cashier called out at 4:10 am. The shift was offered in seniority order and accepted by the second eligible employee. Labor Compliance Restaurants Draft schedules at two locations miss the city's advance-posting requirement. Corrected before publication. Demand Hotels A 300-room group block moved to Thursday. Breakfast and bar demand shifted a day earlier across every outlet. Labor Foodservice Office attendance averages 38% on Fridays across six sites. Friday cafe staffing reduced to match, pending approval. Shift Coverage Hotels A banquet server called out ahead of a 250-person dinner. Four cross-trained staff were offered the shift; it was covered in 15 minutes. Labor Compliance Foodservice Three student employees are scheduled past their weekly hour limit. Shifts reassigned without affecting coverage. Demand Retail The weekend forecast was revised down 7% after first-day sell-through on the promotion came in below plan. Labor Convenience Traffic after 11:00 pm has fallen for six straight weeks at four sites. Overnight coverage consolidated to one clerk. Shift Coverage Restaurants Two call-outs on the Saturday line. Coverage drawn from a nearby location with a lighter forecast. Labor Compliance Retail Two associates are scheduled to close and reopen with less than the required rest period. Shifts swapped. Demand Labor Shift Coverage Labor Compliance Cost Every dollar going out, checked and recovered. Menu and Cost Concessions The street-pricing cap holds the burger at a fixed price while beef rose 9%. A portion adjustment restores the cost target. Inventory and Ordering Restaurants Tomorrow's orders drafted to the forecast across 18 locations, with pars adjusted for Saturday's weather. Invoice Audit Restaurants The same invoice was submitted twice through two approvers. The duplicate was held before payment. Vend",
+   "email_candidates": [
+    {
+     "email": "colton@opaxa.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  }
+ ]
+}

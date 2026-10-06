@@ -1,0 +1,46 @@
+{
+ "leads": [
+  {
+   "id": "119fd007d6",
+   "company": "Darsel",
+   "website": "http://darsel.tech",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Amman, Amman Governorate, Jordan; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Chatbot teaching K12 math in developing countries Darsel is a AI-powered math education chatbot which is designed to supplement K12 education systems in resource-constrained environments. Darsel allows students to practice math questions & do their homework through platforms like SMS, WhatsApp and Facebook Messenger. AI-Enhanced Learning, Education, eLearning, Nonprofit, Education, Jordan, Middle East and North Africa, Remote, Fully Remote",
+   "site_text": "[https://www.darsel.tech/]\nDarsel 0 Skip to Content Open Menu Close Menu Open Menu Close Menu We help kids learn math. A strong foundation in numeracy and math skills unlocks a lifetime of better outcomes and smarter decisions. Our personalized learning chatbot helps students get there, one message at a time. It’s a simple and effective solution which is designed for scale in low-resource settings. We partner with governments and school systems to reach students. Teachers access reports and provide continuous motivation and support to students, who use Darsel from home. 400,000+ students 3 countries 440,000,000+ questions solved Darsel is an education technology nonprofit on a mission to improve learning outcomes in low-resource settings. We emerged from research at Harvard and Stanford to address a global learning crisis that is limiting human potential and economic development. 1 billion students can’t reliably use video-based educational platforms due to device- and internet-related limitations. We reach them through simple low-bandwidth channels like SMS, WhatsApp and Facebook Messenger . Our platform provides a fully-automated interactive and personalized learning experience for students, and is powered by algorithms that were designed to improve learning outcomes and reverse learning losses. ‍ ‍ Darsel is a supplemental tool for K12 school systems. All our content is curriculum-aligned. We partner with schools and give math teachers data on their students’ skills and needs. Try Darsel Why students love Darsel Simple Using Darsel is as easy as texting a friend, and it meets students where they are, on platforms like WhatsApp and Facebook Messenger. No apps to download. No passwords to remember. Accessible Darsel can be accessed from any phone at any time. Darsel is text-based and requires little data (or none, in countries where SMS is available). No need to wait for a video to buffer. No need to pay for an expensive data package. Effective Darsel’s personalized learning algorithm automatically adapts to each student’s level and provides hints and explanation to address learning gaps. It’s friendly, gamified, and engaging. Why teachers love Darsel Content Our math library contains over 500,000 unique questions, hints and explanations, all aligned to the local curriculum and available in the local language of instruction. Teachers can also customize content or add their own. Analysis Our data reports provide insights about student skills, individually and at the classroom level. If a teacher assigns homework through Darsel, we take care of grading it. Support We’re always a message away. Chatbots are great at helping students learn math, but our teacher support team is 100% human. Subscribe to our newsletter. Newsletter Block This newsletter signup form needs a storage option. Edit the block and enter a storage location via the Storage tab. Make a donation. Donate Join our mission to improve learning outcomes!\n\n[https://www.darsel.tech/join]\nJoin — Darsel 0 Skip to Content Open Menu Close Menu Open Menu Close Menu",
+   "email_candidates": [
+    {
+     "email": "team@darsel.tech",
+     "where": "https://www.darsel.tech/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "1fb02cc713",
+   "company": "Hub",
+   "website": "https://hub.xyz",
+   "title": "Engineering (YC Spring 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. Real-world training data for frontier AI labs and robotics. Hub is a multimodal lab providing real world data to frontier labs and robotic companies. Robotics, Crowdsourcing, Big Data, Infrastructure, AI, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://hub.xyz/]\nHub · Capturing Physical Experience for Embodied AI Hub.xyz Backed by Combinator Capturing Physical Experience for Embodied AI Hub's mission is to bring embodied AGI closer through real-world data and research. Become a Contributor → Request a Dataset → Frontier labs and top-3 robotics companies run on Hub data. EGO_RIG_04A IMU: 200 HZ SYNC DEPTH: 2.14 M VIO: 0.41 CM/M HANDS: 21 KPTS TOTAL CONTRIBUTIONS # 18,742,603 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 Network Global network of expert contributors 150,000+ active contributors and 730+ commercial sites across 150 countries. Request a Custom Dataset → live captures · streaming from the field LAT 0.0 ° · LNG -106.0 ° 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 Pipeline Frontier datasets, for frontier labs One pipeline · Captured · Enriched · Annotated · QA'd 01 Egocentric 02 Teleoperation 03 Hand Tracking 04 Tactile Real-world data RGB-D Egocentric human data in commercial and residential environments: calibrated stereo RGB with dense metric depth, synced IMU, 6-DoF VIO, and 3D hand pose. 540,000+ hrs captured 10,000+ environments Request Egocentric Sample → RGB+IMU 3D Metric Depth Dataset 02 / 04 Teleoperation Robot trajectories from human operators driving real hardware: synchronized joint states, end-effector poses, gripper commands and multi-view camera streams, task-labeled per episode. Request Teleoperation Sample → Human operator LEAP Hand · 16 DoF 3D hand: Elena FF · CC BY-SA 4.0 Dataset 03 / 04 Hand Tracking High-frequency 3D hand and finger motion during real manipulation: 21-keypoint pose, MANO parameters and 6-DoF wrist, time-aligned to egocentric video. Request Hand Tracking Sample → Hand tracking · 21 keypoints 6-DoF wrist 3D hand: Elena FF · CC BY-SA 4.0 Dataset 04 / 04 Tactile Touch and force signals from instrumented gloves and sensorized grippers: contact pressure maps, shear and slip events, time-aligned with vision and pose. Request Tactile Sample → Tactile · contact pads Contact normals 3D hand: Elena FF · CC BY-SA 4.0 ← 1 / 4 → 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 Custom collection Bespoke collection in hours , not weeks Input your hardest data needs. Hub matches commercial environments and individual contributors, enforces diversity caps, and starts delivering within hours. Request a Dataset → end-to-end · you never touch the pipeline 00:00 SOW ingested Modality, volume, diversity caps parsed. 00:42 Quote generated Itemised by modality, volume, and spec. 02:15 Network matched 10k environments, 150k contributors. 08:30 First samples in your S3 Frame-level QA. Approve before full run. 36:00 Delivery complete MCAP, LeRobot, or your format. SITE_05B CAPTURE: LIVE STEREO: 29.90 FPS DEPTH: 1.86 M IMU: 200 HZ 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 Commercial environments Lead the new Machine Economy Join Hub's verified network of small and medium businesses. Turn work time into extra income that trains the next generation of AI models. Verified commercial sites 730 + Across 100+ industries . Every shop on the network is verified, contracted, and capture-ready, turning the long tail of physical work into training signal. Apply to Become a Verified SMB → partner SLAs · revenue share Farms 120 + capturing Warehouses 60 + Construction Sites 80 + Restaurants 90 + Auto Repair & Tire 70 + Hotels & Lodging 40 + Pharmacies 20 + Wood Workshops 30 + Commercial Cleaning 40 + Metal Fab & Welding 30 + Community We’re hiring ↗ Join the Community Network with skilled experts and talented individuals. We host weekly workshops, contests and challenges to expand your horizons ",
+   "email_candidates": [
+    {
+     "email": "hello@hub.xyz",
+     "where": "https://hub.xyz/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  }
+ ]
+}
