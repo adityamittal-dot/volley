@@ -1,0 +1,276 @@
+{
+  "leads": [
+    {
+      "id": "87c12cbff1",
+      "relevant": true,
+      "summary": "Bloom is a no-code platform that enables users to build production-ready mobile and web apps from idea to deployment in minutes without writing code.",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Backend services",
+        "Mobile (native)",
+        "API"
+      ],
+      "hook": "They deploy a backend for users—unlike other no-code tools, Bloom produces functional MVPs with real infrastructure, not just toy apps.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's architecture analysis and platform approach relate to the infrastructure complexity Bloom abstracts for users.",
+      "fit": 6,
+      "region": "europe",
+      "people": [],
+      "contact_email": "apply@bloom.diy",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "b0ce663f71",
+      "relevant": true,
+      "summary": "Metorial provides agentic infrastructure that connects employees, agents, and AI clients to tools and services with governance, access control, and tracing for AI-native companies.",
+      "stack": [
+        "Python",
+        "TypeScript",
+        "MCP",
+        "Agents",
+        "Tool integration",
+        "PostgreSQL"
+      ],
+      "hook": "142 tools connected across 18 integrations—specific platform scope for agent tool orchestration.",
+      "angle": "medvault",
+      "angle_reason": "Medvault's LLM prompting pipeline and multi-tool integration pattern parallels Metorial's agent-to-tool connection architecture.",
+      "fit": 7,
+      "region": "europe",
+      "people": [
+        {
+          "name": "Karim Rahme",
+          "role": "Engineer"
+        },
+        {
+          "name": "Ivan",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "vnxdeveloper@gmail.com",
+      "contact_name": "Ivan",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "178d397399",
+      "relevant": true,
+      "summary": "Better Stack is an observability platform offering logging, tracing, metrics, and incident management at 30x cheaper than Datadog, with AI-native SRE features and eBPF-based service mapping.",
+      "stack": [
+        "Python",
+        "Node.js",
+        "PostgreSQL",
+        "eBPF",
+        "OpenTelemetry",
+        "Docker",
+        "Kubernetes",
+        "Slack",
+        "Linear"
+      ],
+      "hook": "eBPF-based service map with zero-code instrumentation—they auto-instrument databases and track SLOs without code changes.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's call-graph analysis and infrastructure mapping relate to Better Stack's eBPF service discovery and observability architecture.",
+      "fit": 7,
+      "region": "europe",
+      "people": [
+        {
+          "name": "Paweł J. Wal",
+          "role": "Engineer"
+        },
+        {
+          "name": "Petr Heinz",
+          "role": "Engineer"
+        },
+        {
+          "name": "Radoslav Rábara",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "pawel@betterstack.com",
+      "contact_name": "Paweł J. Wal",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "19ead1fbe6",
+      "relevant": true,
+      "summary": "PostEra is an AI-first biotech company using machine learning to accelerate drug discovery through medicinal chemistry, with partnerships including Pfizer, Amgen, and the NIH.",
+      "stack": [
+        "Python",
+        "Machine learning",
+        "Chemistry models",
+        "Active learning"
+      ],
+      "hook": "Proton closes the full design-make-test cycle of medicinal chemistry in parallel using shared synthetic intermediates.",
+      "angle": "medvault",
+      "angle_reason": "Medvault's LLM application pattern and handling of complex domain-specific data mirrors PostEra's ML approach to chemistry.",
+      "fit": 4,
+      "region": "us",
+      "people": [
+        {
+          "name": "Aaron Morris",
+          "role": "CEO"
+        },
+        {
+          "name": "Alpha Lee",
+          "role": "CSO"
+        },
+        {
+          "name": "Matthew Robinson",
+          "role": "CTO"
+        },
+        {
+          "name": "Emily Hanan",
+          "role": "VP Drug Discovery"
+        },
+        {
+          "name": "Tony Schroeder",
+          "role": "Head of Machine Learning"
+        }
+      ],
+      "contact_email": "hello@postera.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Specialized medicinal chemistry domain with team size 40; entry-level engineering roles unclear"
+      ]
+    },
+    {
+      "id": "f59390d5a4",
+      "relevant": true,
+      "summary": "Spark is an AI platform that automates permitting and zoning analysis for solar, storage, and data center developers by monitoring 3,000+ counties and extracting requirements from ordinances.",
+      "stack": [
+        "Python",
+        "LLM",
+        "NLP",
+        "Document processing",
+        "Agentic workflows"
+      ],
+      "hook": "3,000+ counties monitored with continuous coverage—specific geographic scale of their permitting intelligence network.",
+      "angle": "medvault",
+      "angle_reason": "Medvault's LLM prompting pipeline and document analysis pattern directly parallels Spark's extraction of zoning and permitting requirements from complex ordinances.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "hello@sparkhq.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "36bf0a4dfa",
+      "relevant": true,
+      "summary": "Blacksmith is a drop-in replacement for GitHub Actions that runs CI 2x faster using bare metal gaming CPUs and optimized caching, reducing costs 60% versus GitHub runners.",
+      "stack": [
+        "GitHub Actions",
+        "Docker",
+        "Linux",
+        "Bash",
+        "Bare metal infrastructure",
+        "NVMe",
+        "Node.js"
+      ],
+      "hook": "40x faster Docker builds with persistent layer cache on NVMe—they optimize the workload most common in CI pipelines.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's infrastructure and platform architecture align with Blacksmith's developer-tools approach to CI performance optimization.",
+      "fit": 8,
+      "region": "us",
+      "people": [],
+      "contact_email": "hello@blacksmith.sh",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "bb8c677df0",
+      "relevant": true,
+      "summary": "Plexe is an applied AI lab that builds production ML agents embedded in customer products, shipping with ownership and code handover in weeks rather than quarters.",
+      "stack": [
+        "Python",
+        "Machine learning",
+        "LLM (GPT models)",
+        "Agents",
+        "PostgreSQL",
+        "API integrations"
+      ],
+      "hook": "Forward-deployed: engineers embed with customers and stay until the agent runs in production—measured on A/B-tested impact, not tickets closed.",
+      "angle": "medvault",
+      "angle_reason": "Medvault's LLM application pipeline with safety constraints and error handling mirrors Plexe's production agent deployment model.",
+      "fit": 8,
+      "region": "europe",
+      "people": [],
+      "contact_email": "hello@plexe.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "7c2ca44920",
+      "relevant": true,
+      "summary": "Casco is an AI-powered penetration testing platform that continuously tests web apps, APIs, cloud infrastructure, and AI systems, proving exploitable paths and retesting every fix.",
+      "stack": [
+        "Python",
+        "Agents",
+        "Security testing",
+        "GitHub",
+        "AWS",
+        "Slack",
+        "Linear",
+        "TypeScript"
+      ],
+      "hook": "Protoguard checks every message and tool call with policy enforcement (prompt injection, PII leakage, data exfiltration), blocking unsafe actions before they reach systems.",
+      "angle": "canopy",
+      "angle_reason": "Canopy lists security tooling as a core use case; Casco's static analysis of attack surfaces and proof generation aligns with architectural analysis for security.",
+      "fit": 8,
+      "region": "us",
+      "people": [],
+      "contact_email": "careers@casco.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "f13554816f",
+      "relevant": false,
+      "summary": "Russell Investments is hiring for Global Legal Graduate Trainee roles in corporate compliance, statutory maintenance, and company secretarial work.",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Non-engineering role; requires ICSI Professional Programme (company secretarial, not software engineering)"
+      ]
+    },
+    {
+      "id": "047c57c3e4",
+      "relevant": true,
+      "summary": "ProcIndex uses AI agents to automate accounting operations (AP, AR, reconciliation, vendor management) for construction and manufacturing companies, integrating with existing ERPs.",
+      "stack": [
+        "Python",
+        "LLM",
+        "Agents",
+        "ERP integration",
+        "PostgreSQL",
+        "API"
+      ],
+      "hook": "Partial invoice matching across split deliveries and progress billing review—they handle construction-specific accounting complexity.",
+      "angle": "medvault",
+      "angle_reason": "Medvault's LLM application pattern with constrained JSON output and error handling mirrors ProcIndex's accounting agent architecture.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "team@procindex.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

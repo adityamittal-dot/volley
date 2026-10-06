@@ -1,0 +1,237 @@
+{
+  "leads": [
+    {
+      "id": "312c8a14d5",
+      "relevant": false,
+      "summary": "Web and mobile app development services offering MERN stack training and internship programs to 2026/2027 graduates",
+      "stack": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js",
+        "NestJS"
+      ],
+      "hook": "45-day paid training program (\u20b925k/mo) followed by 3-month internship with PPO (\u20b94.2-6 LPA)",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 0,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "staffing agency, hiring for a client"
+      ]
+    },
+    {
+      "id": "9ba5b14f7f",
+      "relevant": true,
+      "summary": "Web development, design and growth agency serving 850+ clients since 2015 with services spanning branding, interfaces, content, search and infrastructure",
+      "stack": [
+        "TypeScript",
+        "PHP",
+        "Next.js",
+        "Astro",
+        "WordPress",
+        "Cloudflare",
+        "Railway",
+        "JavaScript"
+      ],
+      "hook": "Uses Next.js and Astro in production across 850+ client projects; specializes in connected delivery with performance and analytics from day one",
+      "angle": "canopy",
+      "angle_reason": "Canopy's code intelligence and architecture mapping would help their dev teams quickly understand and refactor complex client codebases",
+      "fit": 3,
+      "region": "asia",
+      "people": [],
+      "contact_email": "gaurav@gatilab.com",
+      "contact_name": "Gaurav",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a7a4a7d00f",
+      "relevant": false,
+      "summary": "",
+      "stack": [
+        "TypeScript"
+      ],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no real product (site is empty)"
+      ]
+    },
+    {
+      "id": "1959475dd2",
+      "relevant": false,
+      "summary": "",
+      "stack": [
+        "C++",
+        "JavaScript",
+        "PHP"
+      ],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no real product (site is parked)"
+      ]
+    },
+    {
+      "id": "96a9fadb10",
+      "relevant": false,
+      "summary": "Design studio creating brand identities, interfaces and digital experiences for startups using design-led inquiry and emerging technologies",
+      "stack": [
+        "JavaScript",
+        "HTML"
+      ],
+      "hook": "Open role is Generalist Designer (6-month contract, Vasant Kunj), work from office negotiable for right candidate",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Charu",
+          "role": "Partner"
+        },
+        {
+          "name": "Saurabh",
+          "role": "Product Design Lead"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "open role is for designer, not software engineer"
+      ]
+    },
+    {
+      "id": "5f01d4adff",
+      "relevant": true,
+      "summary": "AI-first development services company with 350+ customers and 10+ years experience, combining expert engineers with AI-accelerated workflows for startups and enterprises",
+      "stack": [
+        "JavaScript",
+        "PHP"
+      ],
+      "hook": "Uses AI to accelerate requirement analysis, prototyping, implementation, testing and documentation; 60% faster delivery with AI tools",
+      "angle": "canopy",
+      "angle_reason": "Canopy's deterministic call-graph analysis and cross-file resolution would help their engineering teams understand complex client codebases before prototyping",
+      "fit": 2,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "8714a7fc52",
+      "relevant": true,
+      "summary": "Refurbished electronics marketplace with 75+ distributors and 50k+ retail outlets, recently funded with $1M seed round to expand technology and omnichannel platform",
+      "stack": [],
+      "hook": "Raised $1M seed funding from UAE family office to build integrated omnichannel platform and strengthen technology infrastructure across refurbishment, distribution and retail",
+      "angle": "canopy",
+      "angle_reason": "Weak overlap; e-commerce/logistics platform has no visible dev-tools or AI angle, canopy is the closest general backend/platform fit.",
+      "fit": 2,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Saket Saurav",
+          "role": "Founder"
+        },
+        {
+          "name": "Avneet Singh",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "6c14febab6",
+      "relevant": false,
+      "summary": "Web3 research and development hub focused on Ethereum scaling, rollup optimization and decentralized identity",
+      "stack": [
+        "Solidity",
+        "TypeScript"
+      ],
+      "hook": "Blockchain R&D hub researching layer-2 chains and Optimism protocol architecture from Bengaluru",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "cryptocurrency/blockchain/Web3 company"
+      ]
+    },
+    {
+      "id": "ea8487619d",
+      "relevant": true,
+      "summary": "AI-powered workforce enablement platform deployed across 30+ countries with 300k+ users, providing microlearning, knowledge management and employee guidance for enterprises",
+      "stack": [
+        "PHP",
+        "TypeScript",
+        "Laravel",
+        "Angular",
+        "Node.js"
+      ],
+      "hook": "Workforce enablement platform with AI-driven assistant across 30+ countries and 300k+ users, using AI to transform requirement analysis into structured outputs with safety rules",
+      "angle": "medvault",
+      "angle_reason": "RapL's AI assistant architecture mirrors MedVault's pattern: LLM-based system with safety guardrails, structured JSON outputs, and backend isolation for user data security",
+      "fit": 5,
+      "region": "asia",
+      "people": [],
+      "contact_email": "rapladmin@getrapl.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "6d63163e73",
+      "relevant": true,
+      "summary": "CODEJUNKERS is a small (likely one-person) web development shop in Hyderabad doing full-stack/frontend work with Vue.",
+      "stack": [
+        "Vue",
+        "HTML",
+        "CSS"
+      ],
+      "hook": "Their GitHub org lists a project called 'Full Stack Developers World' tagged with Vue, suggesting hands-on frontend/full-stack work.",
+      "angle": "canopy",
+      "angle_reason": "Weak overlap; a tiny Vue-focused shop has no AI angle, canopy is the closest general platform/backend fit despite the stack mismatch.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Venkata Sai Katepalli",
+          "role": "Founder/Engineer"
+        }
+      ],
+      "contact_email": "venkatasai.k@codejunkers.in",
+      "contact_name": "Venkata Sai Katepalli",
+      "contact_role": "Founder/Engineer",
+      "red_flags": []
+    }
+  ]
+}

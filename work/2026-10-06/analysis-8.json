@@ -1,0 +1,36 @@
+{
+ "leads": [
+  {
+   "id": "119fd007d6",
+   "relevant": true,
+   "summary": "Darsel is an AI-powered math education chatbot that helps K12 students in developing countries learn math through simple text-based platforms like SMS and WhatsApp, reaching 400,000+ students across 3 countries.",
+   "stack": [],
+   "hook": "You're using low-bandwidth SMS and WhatsApp to meet students where they are—processing 440+ million math questions and reaching 1 billion students who can't reliably use video-based platforms due to device and data constraints.",
+   "angle": "medvault",
+   "angle_reason": "Both involve LLM-powered reasoning at scale: MedVault delivers AI explanations of medical data, and Darsel delivers personalized adaptive learning through AI-powered algorithms.",
+   "fit": 7,
+   "region": "middle_east",
+   "people": [],
+   "contact_email": "team@darsel.tech",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "1fb02cc713",
+   "relevant": true,
+   "summary": "Hub captures physical-world training data for frontier AI labs and robotics companies, collecting synchronized RGB-D video, IMU, 6-DoF pose tracking, and tactile sensor data from 150,000+ contributors across 730+ commercial sites.",
+   "stack": ["AWS"],
+   "hook": "You've built infrastructure to deliver frontier datasets in hours instead of weeks—150,000+ contributors across 730+ verified commercial sites capturing frame-level egocentric, teleoperation, hand tracking, and tactile data with QA enforcement before delivery.",
+   "angle": "canopy",
+   "angle_reason": "Both build scalable backend infrastructure to deterministically process and organize massive volumes of structured data: Canopy's cross-file call-graph resolution parallels your enriched data pipeline that enforces diversity caps and QA checks at scale.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "hello@hub.xyz",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  }
+ ]
+}

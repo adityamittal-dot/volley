@@ -1,0 +1,244 @@
+{
+  "emails": [
+    {
+      "id": "676b2ffcc7",
+      "subject": "software engineering intern at 91social",
+      "body": "Hi 91social team,\n\nYour recruitment agents screen candidate profiles and write interview questions straight from the job description, that's a few LLM steps chained together, not one prompt.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for messy model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition. I'm looking for an internship or entry-level role, can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "98bdb793ba",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Vinit,\n\nYour site says every consulting engagement ends with working assets and system improvements, not slide decks, which lines up with how you pitch safe AI-agent integration.\n\nI built Canopy, which parses a repo in 10 languages into a call graph and marks unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "da989a3df7",
+      "subject": "software engineering intern at ActiveSphere",
+      "body": "Hi ActiveSphere team,\n\nYour site lists energy management, payment gateways, video encoding and financial backends in the same breath, a wide range of high-throughput systems for a 10-person team.\n\nI built Canopy, which resolves cross-file call graphs across 10 languages and marks a call external instead of guessing when it can't be traced: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "dd17155aa9",
+      "subject": "software engineering intern at EdisonOS",
+      "body": "Hi EdisonOS team,\n\nPulling questions out of PDFs and diagnosing where a student is weak needs more than a single prompt, that's basically a small extraction pipeline per document.\n\nI built MedVault, which runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for when the model returns messy prose: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "25765b0eca",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Sourav,\n\nYour seven-step process from ideation to launch and growth reads like you actually ship client products end to end, not just prototypes.\n\nI built MedVault, a full product: Django REST backend, JWT with refresh-token rotation, and a Gemini pipeline behind a fixed JSON schema: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition. I'm looking for an internship or entry-level role, can join immediately. Do you take on engineering interns or juniors?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "936df93c1c",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Neethu,\n\nGoing from a voice-agent demo to something that holds up in production is mostly an observability problem, which is exactly the gap your platform is built around.\n\nI built MedVault, where every LLM call sits behind one mockable client so the 47-test suite runs without an API key: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Do you take on engineering interns or juniors?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "2461f59907",
+      "subject": "software engineering intern at True Arrow",
+      "body": "Hi True Arrow Software team,\n\nYou maintain the TAS Library as open source and talk about code simplicity and infrastructure, a dev-tooling habit most consulting shops skip.\n\nI built Canopy, which turns a repo into a call graph across 10 languages and flags unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI'm based in Noida and can work from your office. I just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately. Do you take on engineering interns or juniors?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "f64ac78933",
+      "subject": "backend intern at Cybrilla",
+      "body": "Hi Cybrilla team,\n\nBeing first in India to process a mutual fund transaction over ONDC means your API layer has to hold up under real regulatory scrutiny, not just a demo.\n\nI built MedVault, a Django REST backend with JWT refresh-token rotation and per-user isolation enforced at the queryset level: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition. I'm looking for an internship or entry-level role, can join immediately. Do you take on engineering interns or juniors?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "4e4024bfa8",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Parsewise team,\n\nBuilding MCP tooling so Claude can drive your document pipeline is a different problem than the extraction itself, and you're doing both at once.\n\nI built MedVault, where every Gemini call sits behind a fixed JSON schema with a fallback parser for when the model answers in prose instead: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "08358443fe",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi ALBERT team,\n\nFour years profitable with 20M+ users and average tenure over three years is rare for a startup building net-new consumer products right now.\n\nI built MedVault, a Django backend with JWT refresh-token rotation and a Gemini pipeline that has to return a fixed JSON schema every time: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition. I'm looking for an internship or entry-level role, can join immediately. Does the team take on an engineering intern or junior?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "600626b28b",
+      "subject": "software engineering intern at Blaze",
+      "body": "Hi Blaze team,\n\nLetting an agent move money on approval across Plaid, QuickBooks and Xero means every one of those calls has to come back in a shape your system can trust.\n\nI built MedVault, where Gemini output has to match a fixed JSON schema and a fallback parser catches it when the model answers in prose: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "7c2ca44920",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Casco team,\n\nProtoguard checking every message and tool call before it reaches a system is the same kind of static guarantee I like building for, just applied at runtime instead of in source.\n\nI built Canopy, which resolves a repo's call graph across 10 languages and marks a call external instead of guessing when it can't trace it: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "3b20d9eadb",
+      "subject": "AI platform intern at SingleStore",
+      "body": "Hi SingleStore team,\n\nYour AI Platform team is building agent runtimes and MCP-style tool calls so applications can query enterprise data directly, that's the retrieval layer most RAG demos skip.\n\nI built MedVault, where every LLM call sits behind one mockable client, a fixed JSON schema, and a fallback parser for messy output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition. I'm looking for an internship or entry-level role, can join immediately. Is the Software Engineer, AI Platform role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "4b4afa5e3f",
+      "subject": "software engineering intern at Complir",
+      "body": "Hi Complir team,\n\nHaving agents track regulatory requirements across every market you sell in means the output has to be structured enough to act on, not just readable.\n\nI built MedVault, a Gemini pipeline that returns a fixed JSON schema with a fallback parser for when the model answers in prose instead: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "67613a89db",
+      "subject": "software engineering intern at Zeit AI",
+      "body": "Hi Zeit AI team,\n\nConnecting 600+ source systems and turning the mess into a live dashboard is mostly a graph problem before it's an AI problem, matching sources to the questions people actually ask.\n\nI built Canopy, which builds a deterministic call graph across a 10-language codebase and marks anything it can't trace as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "77cd2a5f2b",
+      "subject": "software engineering intern at ComplyDo",
+      "body": "Hi ComplyDo team,\n\nMapping requirements pulled from a file to the right controls and policies is a graph-matching problem underneath the compliance language.\n\nI built Canopy, which maps a codebase's call graph across 10 languages and marks anything it can't resolve as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition. I'm looking for an internship or entry-level role, can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "36bf0a4dfa",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Blacksmith team,\n\n40x faster Docker builds from a persistent layer cache on NVMe is the kind of infra detail that only shows up once you've actually measured the bottleneck.\n\nI built Canopy, with a commit-hash-keyed Postgres cache checked against git ls-remote before it ever reclones a repo: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "bb8c677df0",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Plexe team,\n\nStaying embedded with a customer until the agent runs in production, measured on A/B impact and not tickets closed, is a different bar than most agencies hold themselves to.\n\nI built MedVault, where every LLM call sits behind one mockable client so the 47-test suite runs with no API key: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "75fc95b5fa",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Lucis team,\n\nTurning blood work across 11 body systems into something a non-doctor can act on is a prompting and formatting problem as much as a medical one.\n\nI built MedVault, a Gemini pipeline with safety rules that forbid diagnosis or prescription and a fixed JSON schema for every response: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "b0ce663f71",
+      "subject": "software engineering intern at Metorial",
+      "body": "Hi Ivan,\n\n142 tools wired up across 18 integrations means your tracing layer has to stay consistent no matter which tool an agent happens to call.\n\nI built MedVault, where every LLM call sits behind one mockable client, a fixed JSON schema, and a fallback parser for messy output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "178d397399",
+      "subject": "full-stack intern at Better Stack",
+      "body": "Hi Pawe\u0142,\n\nMapping services with eBPF and zero code changes, down to auto-instrumented databases and SLOs, is the same kind of deterministic tracing I like building for source code.\n\nI built Canopy, which resolves a repo's call graph across 10 languages and marks a call external instead of guessing when it can't trace it: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition. I'm looking for an internship or entry-level role, can join immediately. Is the Full-Stack Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "4dcf3e7dc2",
+      "subject": "Internal Tools Engineer \u2013 Aditya Mittal",
+      "body": "Hi Wattfox team,\n\nFifteen years comparing energy prices and you're still hiring for internal tools and automation instead of outsourcing it, that says the ops team ships its own fixes.\n\nI built Canopy, which parses a repo in 10 languages into a call graph and marks unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition. I'm looking for an internship or entry-level role, can join immediately. Is the Internal Tools & Automation role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "f59390d5a4",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi Spark team,\n\nMonitoring 3,000+ counties and pulling zoning and permitting requirements out of ordinance text is a document-extraction problem at a scale most teams never hit.\n\nI built MedVault, a Gemini pipeline that returns a fixed JSON schema with a fallback parser for when the model answers in plain prose: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "047c57c3e4",
+      "subject": "Software Engineering Internship \u2013 Aditya Mittal",
+      "body": "Hi ProcIndex team,\n\nMatching partial invoices across split deliveries and progress billing is the kind of accounting edge case that breaks most automation before it ships.\n\nI built MedVault, where every LLM call sits behind one mockable client and a fallback parser catches it when the model answers in prose instead of JSON: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately for an internship or entry-level role. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    }
+  ]
+}

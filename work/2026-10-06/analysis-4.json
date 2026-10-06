@@ -1,0 +1,270 @@
+{
+  "leads": [
+    {
+      "id": "108bff3363",
+      "relevant": true,
+      "summary": "WordPress and eCommerce development consulting for businesses, with 15+ years delivering custom web solutions",
+      "stack": [
+        "WordPress",
+        "PHP",
+        "WooCommerce"
+      ],
+      "hook": "15+ year track record delivering WordPress sites for enterprise clients\u2014energy management, cybersecurity, industrial manufacturers",
+      "angle": "canopy",
+      "angle_reason": "Tech stack mismatch: company specializes in PHP/WordPress, candidate focuses on Python/TypeScript full-stack",
+      "fit": 2,
+      "region": "india",
+      "people": [
+        {
+          "name": "Vikram Kulkarni",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "vikram@vikcon.in",
+      "contact_name": "Vikram Kulkarni",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "dcc53861cb",
+      "relevant": false,
+      "summary": "Custom software and Web3 solutions focused on Ethereum ecosystem and Flutter mobile development",
+      "stack": [
+        "Dart",
+        "Java",
+        "Web3",
+        "Ethereum",
+        "Flutter"
+      ],
+      "hook": "Active in Ethereum wallet ecosystem with integrations for MetaMask and WalletConnect protocols",
+      "angle": "",
+      "angle_reason": "Crypto/Web3 business\u2014outside candidate scope",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "crypto/web3 company"
+      ]
+    },
+    {
+      "id": "ad8a7be389",
+      "relevant": true,
+      "summary": "Quantum computing and enterprise AI startup building quantum processors and Gen-AI solutions for drug discovery, finance, and manufacturing",
+      "stack": [
+        "Quantum Computing",
+        "Python",
+        "LLMs",
+        "Enterprise AI"
+      ],
+      "hook": "Recently raised Rs 50 Cr debt funding; delivered 64-qubit Kaveri processor; moving beyond pre-revenue stage with expanding AI product line",
+      "angle": "medvault",
+      "angle_reason": "MedVault's LLM prompt pipeline and production AI system experience translates to QpiAI's enterprise Gen-AI solutions",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Nagendra Nagaraja",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "info@qpiai.tech",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "936df93c1c",
+      "relevant": true,
+      "summary": "Voice AI evaluation and observability platform helping teams test, debug, and improve voice agents across production environments",
+      "stack": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "Voice AI",
+        "LLMs",
+        "Observability"
+      ],
+      "hook": "Founded by speech AI researchers with 14+ years in the field; platform specifically solves the demo-to-production gap in voice agents",
+      "angle": "medvault",
+      "angle_reason": "MedVault's production observability and LLM integration patterns parallel SuperBryn's focus on production-first voice AI",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Dr. Neethu Mariam Joy",
+          "role": "Co-Founder & CTO"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "da989a3df7",
+      "relevant": true,
+      "summary": "Boutique software consulting specializing in complex web applications, visualizations, and high-throughput messaging systems",
+      "stack": [
+        "TypeScript",
+        "Go",
+        "React",
+        "Node.js",
+        "Python",
+        "Elixir"
+      ],
+      "hook": "10+ person team with deep expertise in hardest problems: energy management software, payment gateways, video encoding pipelines, and financial backends",
+      "angle": "canopy",
+      "angle_reason": "Canopy's deterministic call-graph architecture mirrors ActiveSphere's emphasis on understanding complex system interactions",
+      "fit": 7,
+      "region": "india",
+      "people": [
+        {
+          "name": "Ciju Cherian",
+          "role": "Co-Founder"
+        },
+        {
+          "name": "Anantha Kumaran",
+          "role": "Developer"
+        }
+      ],
+      "contact_email": "career@activesphere.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "f64ac78933",
+      "relevant": true,
+      "summary": "Fintech platform revolutionizing mutual fund investing through APIs and infrastructure used by 70+ partners including robo-advisors",
+      "stack": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "REST APIs"
+      ],
+      "hook": "Received SEBI RTA license March 2024; became first in India to process decentralized mutual fund transaction on ONDC August 2024",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Django REST backend and production JSON APIs parallel Cybrilla's emphasis on reliable financial transaction infrastructure",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Sudheendra K",
+          "role": "Employee"
+        },
+        {
+          "name": "Satish",
+          "role": "Employee"
+        }
+      ],
+      "contact_email": "contact@cybrilla.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "98bdb793ba",
+      "relevant": true,
+      "summary": "AI engineering consulting helping software teams integrate coding agents responsibly with emphasis on code quality, testing, and CI",
+      "stack": [
+        "Python",
+        "AI Agents",
+        "Testing",
+        "CI/CD"
+      ],
+      "hook": "Consulting engagement philosophy: always end with working assets and system improvements, not slide decks or theory",
+      "angle": "canopy",
+      "angle_reason": "Canopy's static analysis and deterministic code intelligence mirrors Gotchacode's focus on safe, verifiable AI integration",
+      "fit": 7,
+      "region": "india",
+      "people": [
+        {
+          "name": "Vinit Kumar",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "vinitkme@icloud.com",
+      "contact_name": "Vinit Kumar",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "ba2e651228",
+      "relevant": true,
+      "summary": "Agri-tech ecosystem platform supporting farming through digital advisory, mechanization, input access, and sustainability programs",
+      "stack": [
+        "Dart",
+        "JavaScript",
+        "Mobile"
+      ],
+      "hook": "Subsidiary of UPL Ltd with 15+ year track record; operates decentralized agriculture ecosystem across advisory, retail, equipment",
+      "angle": "canopy",
+      "angle_reason": "Candidate's full-stack web/AI focus doesn't align with Dart/mobile-first agricultural platform",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Amit Srivastava",
+          "role": "Chief Digital Officer, UPL Ltd"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "cc6159bf27",
+      "relevant": false,
+      "summary": "Web development studio with minimal online presence",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hook": "Site displays only 'Coming online soon' with no product or service information",
+      "angle": "",
+      "angle_reason": "No real product\u2014site is parked/under construction",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "site is parked or under construction, no actual product"
+      ]
+    },
+    {
+      "id": "fec14fbe31",
+      "relevant": true,
+      "summary": "AI platform for multi-location operators (restaurants, hotels, retail) that reads systems data and makes operational decisions on scheduling, demand, ordering, and compliance",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Python",
+        "PostgreSQL",
+        "AWS",
+        "AI Tools"
+      ],
+      "hook": "Founder operates 40-location restaurant company; Opaxa was built inside it and runs production every night\u2014now scaling to hotel groups and stadiums",
+      "angle": "medvault",
+      "angle_reason": "MedVault's LLM prompt pipeline and production decision systems mirror Opaxa's architecture for AI-driven operational decisions",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {
+          "name": "Colton",
+          "role": "Hiring Contact"
+        }
+      ],
+      "contact_email": "colton@opaxa.com",
+      "contact_name": "Colton",
+      "contact_role": "Hiring Contact",
+      "red_flags": []
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "leads": [
+    {
+      "id": "8b9a8312c5",
+      "relevant": false,
+      "summary": "No website information available to determine company focus.",
+      "stack": [
+        "Java",
+        "JavaScript",
+        "Ruby",
+        "Swift"
+      ],
+      "hook": "Site text is empty; cannot verify if this is the intended company or assess its product.",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "social@customerglu.net",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "No website content to verify company"
+      ]
+    },
+    {
+      "id": "270807632a",
+      "relevant": false,
+      "summary": "No website information available to determine company focus.",
+      "stack": [
+        "Clojure",
+        "HTML",
+        "Ruby"
+      ],
+      "hook": "Site text is empty; 'Turning your ideas into reality' is too generic to confirm product or culture.",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "hello@vadelabs.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "No website content to verify company"
+      ]
+    },
+    {
+      "id": "c8528cc4f7",
+      "relevant": false,
+      "summary": "Research group at IISc Bangalore focused on cryptology and information security.",
+      "stack": [
+        "C++"
+      ],
+      "hook": "The organization belongs to IISc Bangalore, an academic institution, not a product company hiring commercially.",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Dr. Arpita Patra",
+          "role": "Group Supervisor"
+        }
+      ],
+      "contact_email": "cryptology.iisc@gmail.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Academic research lab, not a commercial company"
+      ]
+    },
+    {
+      "id": "b38c5a44a6",
+      "relevant": true,
+      "summary": "Fields of View develops games and simulations to help policymakers and organizations understand complex social problems around vulnerability and resilience.",
+      "stack": [
+        "HTML",
+        "Java"
+      ],
+      "hook": "Their about page lists Niharika Hari and Sridhar Raman as dedicated programmers, plus Harsha K with GitHub commits, showing active technical team scaling.",
+      "angle": "canopy",
+      "angle_reason": "Weak overlap; games/simulations platform work is closest to canopy's general platform/backend framing, not AI-specific.",
+      "fit": 3,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Ayan Biswas",
+          "role": "Senior Advisor"
+        },
+        {
+          "name": "Karthik Natarajan",
+          "role": "Co-lead"
+        },
+        {
+          "name": "Niharika Hari",
+          "role": "Programmer"
+        },
+        {
+          "name": "Sridhar Raman",
+          "role": "Programmer"
+        },
+        {
+          "name": "Harsha K",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "niharika@fieldsofview.in",
+      "contact_name": "Niharika Hari",
+      "contact_role": "Programmer",
+      "red_flags": []
+    },
+    {
+      "id": "efef8e8400",
+      "relevant": true,
+      "summary": "42Gears provides unified endpoint management (MDM) solutions for securely managing Android, iOS, Windows, macOS, Linux, and ChromeOS devices at enterprise scale.",
+      "stack": [
+        "C#",
+        "Java",
+        "JavaScript"
+      ],
+      "hook": "Recently achieved Knox Validation Program 2024 certification and recognized as 2026 Top Rated UEM Solution by SoftwareReviews; major technology partnerships with Android, Lenovo, and Zebra.",
+      "angle": "canopy",
+      "angle_reason": "MDM/UEM is security/device-management tooling, closest to canopy's security-tooling and platform focus.",
+      "fit": 4,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Bala",
+          "role": "Contact"
+        }
+      ],
+      "contact_email": "jobs@42gears.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0caaf24ab1",
+      "relevant": false,
+      "summary": "Test organization used internally by Veeam for workload UI testing; not a real product company.",
+      "stack": [
+        "Go",
+        "HCL",
+        "Python",
+        "TypeScript"
+      ],
+      "hook": "Organization description explicitly states 'Sample organization used for Veeam workload UI testing' and website is example.com, the IANA reserved test domain.",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 0,
+      "region": "other",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Not a real company, test/sample organization only"
+      ]
+    },
+    {
+      "id": "25765b0eca",
+      "relevant": true,
+      "summary": "Pyza Labs is a product development agency that helps clients convert ideas into high-quality software products through a seven-step workflow spanning ideation, design, development, testing, launch, and growth.",
+      "stack": [
+        "JavaScript"
+      ],
+      "hook": "Website lists a seven-step proven workflow for building products from ideation through launch and growth hacks; emphasizes quality assurance across development phases.",
+      "angle": "medvault",
+      "angle_reason": "MedVault is a complete product delivery with Django backend, React frontend, authentication, and API design\u2014exactly the full-stack project delivery Pyza specializes in.",
+      "fit": 6,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Sourav",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "sourav@pyzalabs.com",
+      "contact_name": "Sourav",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "66302eaf90",
+      "relevant": false,
+      "summary": "JustInClicks.com is a non-profit organization maintaining community-driven content aggregation platforms and open-source tools.",
+      "stack": [
+        "CSS",
+        "HTML"
+      ],
+      "hook": "Website explicitly states 'Now we operate as Non-Profit Organization' and 'We do not accept any project or work.'",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Non-profit organization, not accepting new projects or work"
+      ]
+    },
+    {
+      "id": "ca690f880f",
+      "relevant": false,
+      "summary": "Techwonia claims to offer advanced AI systems architecture and scalable SaaS platform engineering services.",
+      "stack": [
+        "PHP",
+        "Twig"
+      ],
+      "hook": "Website contains only a generic landing page requesting contact information with minimal technical details, product evidence, or team information.",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 2,
+      "region": "asia",
+      "people": [],
+      "contact_email": "opensource@techwonia.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Vague product description",
+        "Tech stack mismatch (PHP/Twig vs candidate Python/TypeScript/React)",
+        "Minimal evidence of real product or hiring"
+      ]
+    },
+    {
+      "id": "82dd33a869",
+      "relevant": false,
+      "summary": "Dezine Zync is the personal portfolio and technical blog of Nikhil Nigade showcasing personal iOS/macOS app development and design work.",
+      "stack": [
+        "JavaScript",
+        "Objective-C",
+        "Swift"
+      ],
+      "hook": "Website is a personal blog with recent posts (September 2026) discussing individual app projects like Elytra RSS reader and Pockity budgeting app.",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Nikhil Nigade",
+          "role": "Developer/Designer"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Personal portfolio/blog, not a company hiring"
+      ]
+    }
+  ]
+}

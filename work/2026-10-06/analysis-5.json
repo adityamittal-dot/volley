@@ -1,0 +1,229 @@
+{
+  "leads": [
+    {
+      "id": "7897ada25e",
+      "relevant": true,
+      "summary": "EASTEAM is a fashion e-commerce retailer operating a Shopify-based store selling clothing and accessories.",
+      "stack": [
+        "Shopify",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hook": "You're looking for someone to build and update product and collection pages on a mobile-first Shopify store where most shoppers browse on mobile.",
+      "angle": "canopy",
+      "angle_reason": "Weak overlap; e-commerce Shopify storefront work has no AI/backend-specific tie, canopy is the closest general platform fit.",
+      "fit": 2,
+      "region": "us",
+      "people": [],
+      "contact_email": "career@easteamny.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "7eb3edc544",
+      "relevant": false,
+      "summary": "CoreWeave provides AI cloud infrastructure for high-performance computing and large-scale Kubernetes clusters, serving leading foundation model providers.",
+      "stack": [
+        "Kubernetes",
+        "GPU",
+        "high-performance computing"
+      ],
+      "hook": "You've earned SemiAnalysis' Platinum ClusterMAX\u2122 rating three times running 9 of 10 leading foundation model providers' clusters.",
+      "angle": "canopy",
+      "angle_reason": "CoreWeave's distributed systems and infrastructure challenges match Canopy's platform architecture and backend complexity.",
+      "fit": 1,
+      "region": "us",
+      "people": [],
+      "contact_email": "tsaleh@coreweave.com",
+      "contact_name": "T. Saleh",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "6d820b9479",
+      "relevant": true,
+      "summary": "Insightsoftware builds integrated EPM, equity management, and data analytics platforms for finance, HR, and technology leaders to move from data to decisions.",
+      "stack": [
+        "Python",
+        "Java",
+        "C#",
+        "C++",
+        "SQL",
+        "AWS",
+        "CI/CD"
+      ],
+      "hook": "You're hiring interns to design and code automated tests (functional, integration, regression), manage AWS infrastructure, and troubleshoot CI/CD pipelines.",
+      "angle": "canopy",
+      "angle_reason": "Insightsoftware's CI/CD pipeline design and multi-language testing (Python, Java, C++) aligns with Canopy's deterministic cross-file analysis across 10 languages.",
+      "fit": 6,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "6f60c22e7c",
+      "relevant": false,
+      "summary": "GE HealthCare manufactures medical imaging and patient monitoring systems, hiring for production operations and manufacturing management roles.",
+      "stack": [],
+      "hook": "You're looking for Graduate Engineer Trainees to support manufacturing objectives, lead production teams, and implement Lean manufacturing improvements.",
+      "angle": "",
+      "angle_reason": "",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "3b20d9eadb",
+      "relevant": true,
+      "summary": "SingleStore is a distributed SQL database for high-performance transactional and analytical workloads, with an AI Platform team building agent runtimes, RAG systems, and embeddings infrastructure.",
+      "stack": [
+        "Python",
+        "Go",
+        "Kubernetes",
+        "cloud infrastructure",
+        "AI/ML",
+        "embeddings",
+        "vector search",
+        "MCP"
+      ],
+      "hook": "You're building agent runtimes, MCP-style tool integration, and retrieval/RAG pipelines so AI applications can operate directly over enterprise data.",
+      "angle": "medvault",
+      "angle_reason": "SingleStore's AI Platform team building RAG and embeddings infrastructure parallels MedVault's LLM pipeline with grounded, schema-validated outputs.",
+      "fit": 8,
+      "region": "asia",
+      "people": [
+        {
+          "name": "David Sharnoff",
+          "role": "contributor"
+        },
+        {
+          "name": "s2-ktran",
+          "role": "contributor"
+        },
+        {
+          "name": "Tim Clendaniel",
+          "role": "contributor"
+        },
+        {
+          "name": "Francisco Silva",
+          "role": "contributor"
+        }
+      ],
+      "contact_email": "team@singlestore.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "d6e36d59ed",
+      "relevant": false,
+      "summary": "Early-stage startup hiring for a generalist Software Engineer and Data Analyst focused on reliable systems and data-driven decisions.",
+      "stack": [],
+      "hook": "You're a fully remote team paying $150K-$180K for a Software Engineer who values clean architecture, performance optimization, and complex problem-solving over specific tech stacks.",
+      "angle": "canopy",
+      "angle_reason": "The emphasis on strong CS fundamentals and clean architecture aligns with Canopy's deterministic, correct-by-design call-graph analysis.",
+      "fit": 1,
+      "region": "americas",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "Geographic restriction: only US/Canadian applicants will be considered"
+      ]
+    },
+    {
+      "id": "f160397b35",
+      "relevant": true,
+      "summary": "Famapp is India's first payments app for ages 11+, with a UPI and card platform serving millions of young users; hiring for application security engineering to find vulnerabilities before bad actors.",
+      "stack": [],
+      "hook": "You're hiring a Security Engineer Intern to automate security checks and break Famapp's payments infrastructure before the bad guys do\u2014backed by Sequoia Capital and Y Combinator.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's security-first design (auth, data privacy, per-user isolation) parallels Famapp's need for hardened security around user financial data.",
+      "fit": 4,
+      "region": "asia",
+      "people": [],
+      "contact_email": "hello@fampay.in",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "ee7a6038e7",
+      "relevant": false,
+      "summary": "VLM Run builds an inference platform for visual language models and vision agents, serving hundreds of thousands of requests per day across a distributed GPU fleet.",
+      "stack": [
+        "Ray",
+        "Kubernetes",
+        "GPU",
+        "Python"
+      ],
+      "hook": "You're serving 100s of thousands of VLM requests per day and need infrastructure engineers to scale a unified API across a fleet of GPUs and clouds.",
+      "angle": "canopy",
+      "angle_reason": "VLM Run's distributed GPU orchestration and API gateway architecture matches Canopy's platform and backend infrastructure challenges.",
+      "fit": 1,
+      "region": "us",
+      "people": [
+        {
+          "name": "Sudeep Pillai",
+          "role": "founder/engineer"
+        },
+        {
+          "name": "dineshreddy",
+          "role": "contributor"
+        }
+      ],
+      "contact_email": "hiring@vlm.run",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "09a65fe8cd",
+      "relevant": true,
+      "summary": "Metergrid builds software for residential solar and community energy projects in Germany, managing projects from initial inquiry through installation and ongoing operations.",
+      "stack": [
+        "TypeScript",
+        "React",
+        "NestJS",
+        "PostgreSQL",
+        "Node.js"
+      ],
+      "hook": "You're transitioning project implementation from email loops and spreadsheets into a new portal handling metering, installation, and billing\u2014with early-stage design phase starting now.",
+      "angle": "canopy",
+      "angle_reason": "Metergrid's end-to-end product architecture from intake to operations parallels Canopy's full-stack codebase visualization and multi-component analysis.",
+      "fit": 5,
+      "region": "europe",
+      "people": [],
+      "contact_email": "info@metergrid.de",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "3b4a5939d9",
+      "relevant": true,
+      "summary": "Klarify is a YC-backed AI assistant platform for therapists, automating clinical notes, treatment plans, insurance claims, and session prep so therapists can focus on client work.",
+      "stack": [],
+      "hook": "You've built Klara, an AI assistant handling 12,300+ therapists' notes, treatment plans, and insurance claims\u2014automating everything except the therapy itself.",
+      "angle": "medvault",
+      "angle_reason": "Klarify's healthcare-focused AI (clinical notes, treatment plans, privacy compliance) matches MedVault's domain expertise in health tech with LLM-grounded outputs.",
+      "fit": 2,
+      "region": "us",
+      "people": [],
+      "contact_email": "info@klarify.ca",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}
