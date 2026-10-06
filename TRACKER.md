@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-06T15:20:17Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-06T19:38:06Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 129 · **Sent:** 129 · **Replies:** 10 (8%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 129 · **Sent:** 129 · **Replies:** 11 (9%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,25 +10,25 @@ _Updated 2026-10-06T15:20:17Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 2 |
 | no_contact | 479 |
 | low_fit | 217 |
-| sent | 53 |
+| sent | 51 |
 | followup_1 | 46 |
-| followup_2 | 14 |
-| replied | 10 |
-| bounced | 6 |
+| followup_2 | 13 |
+| replied | 11 |
+| bounced | 8 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
 | medvault | 54 | 5 |
-| basepair | 39 | 1 |
+| basepair | 39 | 2 |
 | canopy | 36 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 117 | 9 |
+| role | 117 | 10 |
 | short | 12 | 1 |
 
 ## Replies
@@ -43,13 +43,14 @@ _Updated 2026-10-06T15:20:17Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **Xero** —  <careers@xero.com> replied 2026-09-30
 - **ColoredCow** — Vaibhav Rathore <vaibhav@coloredcow.com> replied 2026-10-01
 - **HivarSoft** — Hitesh Kumar <dev.hitesh.k@gmail.com> replied 2026-10-05
+- **Greenzie** — Charles Brian Quinn <cbq@greenzie.com> replied 2026-10-06
 
 ## Latest 25 emails
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
-| 2026-10-06 | ProcIndex | team@procindex.com | medvault | sent |
-| 2026-10-06 | Spark | hello@sparkhq.ai | medvault | sent |
+| 2026-10-06 | ProcIndex | team@procindex.com | medvault | bounced |
+| 2026-10-06 | Spark | hello@sparkhq.ai | medvault | bounced |
 | 2026-10-06 | Blacksmith | hello@blacksmith.sh | canopy | sent |
 | 2026-10-06 | Casco | careers@casco.com | canopy | sent |
 | 2026-10-06 | Blaze | founders@blaze.money | medvault | sent |
