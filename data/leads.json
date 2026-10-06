@@ -6993,6 +6993,7 @@
   "id": "2fcb5a43a4",
   "location": "Bangalore",
   "posted_at": "2026-09-21T06:41:50Z",
+  "replied_at": "2026-10-06T08:08:40Z",
   "research": {
    "angle": "basepair",
    "angle_reason": "Like his Basepair internship where Aditya fixed production bugs and learned infrastructure patterns, Stripe's internship program emphasizes writing production code and learning from experienced engineers.",
@@ -7033,7 +7034,7 @@
   },
   "score": 10.5,
   "source": "unstop",
-  "status": "followup_2",
+  "status": "replied",
   "title": "Software Engineer Intern",
   "url": "https://unstop.com/internships/software-engineer-intern-stripe-1760315",
   "website": "https://stripe.com"

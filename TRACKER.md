@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-06T06:52:22Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-06T08:09:50Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 104 · **Sent:** 104 · **Replies:** 8 (8%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 104 · **Sent:** 104 · **Replies:** 9 (9%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -14,15 +14,15 @@ _Updated 2026-10-06T06:52:22Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | queued | 1 |
 | sent | 31 |
 | followup_1 | 46 |
-| followup_2 | 15 |
-| replied | 8 |
+| followup_2 | 14 |
+| replied | 9 |
 | bounced | 4 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
-| basepair | 39 | 0 |
+| basepair | 39 | 1 |
 | medvault | 38 | 4 |
 | canopy | 27 | 4 |
 
@@ -30,12 +30,13 @@ _Updated 2026-10-06T06:52:22Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 104 | 8 |
+| role | 104 | 9 |
 
 ## Replies
 
 - **Uncountable** — Jason <jason@uncountable.com> replied 2026-10-05
 - **InfoHawk** — James <james@infohawk.com> replied 2026-09-29
+- **Stripe** — rishikej-stripe <rishikej@stripe.com> replied 2026-10-06
 - **Unsiloed AI** — André Castro <andre@unsiloed.ai> replied 2026-10-05
 - **winkjs** —  <contactus@graype.in> replied 2026-09-29
 - **Frostrek AI** —  <contact@frostrek.com> replied 2026-10-01
