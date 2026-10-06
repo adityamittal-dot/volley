@@ -1,18 +1,17 @@
 # Tracker
 
-_Updated 2026-10-06T08:09:50Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-06T10:20:18Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 104 · **Sent:** 104 · **Replies:** 9 (9%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 123 · **Sent:** 123 · **Replies:** 9 (7%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
 | new | 263 |
 | skipped | 2 |
-| no_contact | 474 |
-| low_fit | 174 |
-| researching | 72 |
-| queued | 1 |
-| sent | 31 |
+| no_contact | 479 |
+| low_fit | 217 |
+| queued | 6 |
+| sent | 50 |
 | followup_1 | 46 |
 | followup_2 | 14 |
 | replied | 9 |
@@ -22,15 +21,16 @@ _Updated 2026-10-06T08:09:50Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
+| medvault | 50 | 4 |
 | basepair | 39 | 1 |
-| medvault | 38 | 4 |
-| canopy | 27 | 4 |
+| canopy | 34 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 104 | 9 |
+| role | 112 | 9 |
+| short | 11 | 0 |
 
 ## Replies
 
@@ -48,28 +48,28 @@ _Updated 2026-10-06T08:09:50Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-06 | Wattfox | info@wattfox.de | canopy | sent |
+| 2026-10-06 | Metorial | vnxdeveloper@gmail.com | medvault | sent |
+| 2026-10-06 | Better Stack | pawel@betterstack.com | canopy | sent |
+| 2026-10-06 | Lucis | joinus@lucis.life | medvault | sent |
+| 2026-10-06 | Plexe | hello@plexe.ai | medvault | sent |
+| 2026-10-06 | ComplyDo | info@complydo.io | canopy | sent |
+| 2026-10-06 | Zeit AI | contact@zeit-ai.com | canopy | sent |
+| 2026-10-06 | Complir | contact@complir.io | medvault | sent |
+| 2026-10-06 | SingleStore | team@singlestore.com | medvault | sent |
+| 2026-10-06 | Parsewise | join@parsewise.ai | medvault | sent |
+| 2026-10-06 | Cybrilla | contact@cybrilla.com | medvault | sent |
+| 2026-10-06 | True Arrow Software | info@truearrow.software | canopy | sent |
+| 2026-10-06 | SuperBryn | dr@superbryn.com | medvault | sent |
+| 2026-10-06 | Pyza Labs | sourav@pyzalabs.com | medvault | sent |
+| 2026-10-06 | EdisonOS | cs@edisonos.com | medvault | sent |
+| 2026-10-06 | ActiveSphere | career@activesphere.com | canopy | sent |
+| 2026-10-06 | Gotchacode | vinitkme@icloud.com | canopy | sent |
+| 2026-10-06 | 91social | social@91social.com | medvault | sent |
+| 2026-10-06 | Loop Subscriptions | hiring@loopwork.co | medvault | sent |
 | 2026-10-05 | Educato | info@educato.com | medvault | sent |
 | 2026-10-05 | Serif Health | info@serifhealth.com | medvault | sent |
 | 2026-10-05 | Minicor | faizchishtie@gmail.com | canopy | sent |
 | 2026-10-05 | Paradromics | ehuber@paradromics.com | basepair | sent |
 | 2026-10-05 | Numero | hello@numero.ai | basepair | sent |
 | 2026-10-05 | Morph | info@morphllm.com | medvault | sent |
-| 2026-10-05 | goodfin | hello@goodfin.com | medvault | sent |
-| 2026-10-05 | Signadot | scott@signadot.com | canopy | sent |
-| 2026-10-05 | Measured | careteam@trymeasured.com | medvault | sent |
-| 2026-10-05 | Cloudglue | hello@cloudglue.dev | medvault | sent |
-| 2026-10-05 | Sapling.ai | ziangxie@gmail.com | medvault | sent |
-| 2026-10-05 | RamAIn | founders@ramain.ai | canopy | sent |
-| 2026-10-05 | Unsiloed AI | andre@unsiloed.ai | medvault | replied |
-| 2026-10-05 | Invopop | sam.lown@invopop.com | canopy | sent |
-| 2026-10-05 | Quickchat AI | contact@quickchat.ai | medvault | sent |
-| 2026-10-05 | Escape | mongi@escape.tech | basepair | sent |
-| 2026-10-05 | Infer | vaibhav@infer.so | basepair | sent |
-| 2026-10-05 | Ressl AI | hello@ressl.ai | medvault | bounced |
-| 2026-10-05 | drivebuddyAI | connect@drivebuddyai.co | medvault | sent |
-| 2026-10-05 | HivarSoft | dev.hitesh.k@gmail.com | canopy | replied |
-| 2026-10-02 | HRS Systems | awp@hrssystems.com | basepair | sent |
-| 2026-10-02 | Cardog | careers@cardog.app | basepair | sent |
-| 2026-10-02 | Floot | hello@floot.com | canopy | sent |
-| 2026-10-02 | VOYGR (YC W26) | yarik@voygr.tech | basepair | sent |
-| 2026-10-02 | Quill | rishi@quill.co | canopy | sent |
