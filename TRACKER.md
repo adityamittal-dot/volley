@@ -1,41 +1,42 @@
 # Tracker
 
-_Updated 2026-10-07T07:43:59Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-07T10:26:15Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 129 · **Sent:** 129 · **Replies:** 12 (9%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 146 · **Sent:** 146 · **Replies:** 13 (9%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
 | new | 255 |
 | skipped | 2 |
-| no_contact | 549 |
-| low_fit | 217 |
-| researching | 75 |
-| sent | 36 |
-| followup_1 | 60 |
+| no_contact | 553 |
+| low_fit | 263 |
+| queued | 8 |
+| sent | 53 |
+| followup_1 | 59 |
 | followup_2 | 13 |
-| replied | 12 |
+| replied | 13 |
 | bounced | 8 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 54 | 5 |
-| basepair | 39 | 2 |
-| canopy | 36 | 5 |
+| medvault | 65 | 5 |
+| canopy | 42 | 5 |
+| basepair | 39 | 3 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 117 | 11 |
-| short | 12 | 1 |
+| role | 130 | 12 |
+| short | 16 | 1 |
 
 ## Replies
 
 - **Uncountable** — Jason <jason@uncountable.com> replied 2026-10-05
 - **InfoHawk** — James <james@infohawk.com> replied 2026-09-29
+- **CABLE** — Theo <theo@cable.energy> replied 2026-10-07
 - **Stripe** — rishikej-stripe <rishikej@stripe.com> replied 2026-10-06
 - **Complir** —  <contact@complir.io> replied 2026-10-06
 - **Unsiloed AI** — André Castro <andre@unsiloed.ai> replied 2026-10-05
@@ -51,6 +52,23 @@ _Updated 2026-10-07T07:43:59Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-07 | Saturn | careers@heysaturn.com | medvault | sent |
+| 2026-10-07 | Comena | jiehua.wu@comena.ai | medvault | sent |
+| 2026-10-07 | Cashfree Payments | developers@cashfree.com | medvault | sent |
+| 2026-10-07 | Smooth | grahamthecoder@gmail.com | canopy | sent |
+| 2026-10-07 | Stilta | oskar@stilta.com | medvault | sent |
+| 2026-10-07 | Juno | team@juno-chat.com | medvault | sent |
+| 2026-10-07 | cubic | contact@cubic.dev | canopy | sent |
+| 2026-10-07 | Leeroo | founders@leeroo.com | canopy | sent |
+| 2026-10-07 | Sparkles | bekirov.aida@gmail.com | canopy | sent |
+| 2026-10-07 | Karnival | contact@karnival.com | medvault | sent |
+| 2026-10-07 | Izinga Software Private Limited | hello@robustest.com | canopy | sent |
+| 2026-10-07 | Practo | hireme@practo.com | medvault | sent |
+| 2026-10-07 | smallcase | work@smallcase.com | medvault | sent |
+| 2026-10-07 | nilenso | careers@nilenso.com | canopy | sent |
+| 2026-10-07 | Conferbot | info@conferbot.com | medvault | sent |
+| 2026-10-07 | Skit.ai | hello@skit.ai | medvault | sent |
+| 2026-10-07 | chainframe | nitin@chainframe.com | medvault | sent |
 | 2026-10-06 | ProcIndex | team@procindex.com | medvault | bounced |
 | 2026-10-06 | Spark | hello@sparkhq.ai | medvault | bounced |
 | 2026-10-06 | Blacksmith | hello@blacksmith.sh | canopy | sent |
@@ -59,20 +77,3 @@ _Updated 2026-10-07T07:43:59Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-06 | ALBERT | recruiting@albert.com | medvault | sent |
 | 2026-10-06 | Wattfox | info@wattfox.de | canopy | sent |
 | 2026-10-06 | Metorial | vnxdeveloper@gmail.com | medvault | sent |
-| 2026-10-06 | Better Stack | pawel@betterstack.com | canopy | sent |
-| 2026-10-06 | Lucis | joinus@lucis.life | medvault | sent |
-| 2026-10-06 | Plexe | hello@plexe.ai | medvault | bounced |
-| 2026-10-06 | ComplyDo | info@complydo.io | canopy | sent |
-| 2026-10-06 | Zeit AI | contact@zeit-ai.com | canopy | sent |
-| 2026-10-06 | Complir | contact@complir.io | medvault | replied |
-| 2026-10-06 | SingleStore | team@singlestore.com | medvault | sent |
-| 2026-10-06 | Parsewise | join@parsewise.ai | medvault | sent |
-| 2026-10-06 | Cybrilla | contact@cybrilla.com | medvault | sent |
-| 2026-10-06 | True Arrow Software | info@truearrow.software | canopy | sent |
-| 2026-10-06 | SuperBryn | dr@superbryn.com | medvault | bounced |
-| 2026-10-06 | Pyza Labs | sourav@pyzalabs.com | medvault | sent |
-| 2026-10-06 | EdisonOS | cs@edisonos.com | medvault | sent |
-| 2026-10-06 | ActiveSphere | career@activesphere.com | canopy | sent |
-| 2026-10-06 | Gotchacode | vinitkme@icloud.com | canopy | replied |
-| 2026-10-06 | 91social | social@91social.com | medvault | sent |
-| 2026-10-06 | Loop Subscriptions | hiring@loopwork.co | medvault | sent |
