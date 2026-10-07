@@ -1,0 +1,267 @@
+{
+  "leads": [
+    {
+      "id": "72c24d795d",
+      "relevant": false,
+      "summary": "Unable to verify - no website text available.",
+      "stack": [
+        "JavaScript"
+      ],
+      "hook": "No information available to assess the company.",
+      "angle": "",
+      "angle_reason": "Insufficient information to determine alignment.",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "rafi@zool.in",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no website text available to verify company"
+      ]
+    },
+    {
+      "id": "a1f27d4a2f",
+      "relevant": false,
+      "summary": "Android open-source tools for messaging and media applications.",
+      "stack": [
+        "Java",
+        "Kotlin"
+      ],
+      "hook": "GitHub org shows focus on Android messaging and gallery apps (android-messaging, gallery, snapdragon-gallery).",
+      "angle": "",
+      "angle_reason": "Candidate stack is Python/TypeScript/React/Node; this role requires Java/Kotlin mobile development.",
+      "fit": 2,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no website text available",
+        "Android mobile stack (Java/Kotlin), not aligned with candidate skills"
+      ]
+    },
+    {
+      "id": "793b899f93",
+      "relevant": false,
+      "summary": "India's largest online learning platform with 50M+ active learners, offering live classes, courses, and educational content.",
+      "stack": [
+        "JavaScript"
+      ],
+      "hook": "Active GitHub org, 4000+ employee workforce; acquired Kreatryx, PrepLadder and CodeChef; extensive learning ecosystem.",
+      "angle": "",
+      "angle_reason": "Large enterprise (4000+ employees) with institutional hiring process, not direct-contact culture for entry-level.",
+      "fit": 2,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Roman Saini",
+          "role": "Co-Founder"
+        },
+        {
+          "name": "Hemesh Singh",
+          "role": "Co-Founder and CTO"
+        },
+        {
+          "name": "Gaurav Munjal",
+          "role": "Co-Founder and CEO"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "large enterprise (4000+ employees)",
+        "no direct-contact culture for juniors/interns",
+        "no email candidates provided"
+      ]
+    },
+    {
+      "id": "c5c53903dd",
+      "relevant": false,
+      "summary": "Full-stack photonic quantum computing platform building scalable quantum computers and optical optimization machines.",
+      "stack": [],
+      "hook": "Recently raised $10M from Chiratae Ventures; scaling from 25 to 40 engineers; IIT-Madras incubated; deployed 3 optical Ising machines to customers.",
+      "angle": "",
+      "angle_reason": "Hardware-focused quantum startup with emphasis on photonic systems and physics; not aligned with candidate's dev-tools and health-tech backend experience.",
+      "fit": 2,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Sujoy Chakravarty",
+          "role": "CEO"
+        },
+        {
+          "name": "Ravi Mehta",
+          "role": "COO"
+        },
+        {
+          "name": "Biman Chattopadhyay",
+          "role": "CTO"
+        },
+        {
+          "name": "Aditi Vaidya",
+          "role": "CPO"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "b2ed5cc20b",
+      "relevant": false,
+      "summary": "Payment processing and financial infrastructure platform offering online payments, payroll automation, banking, and point-of-sale solutions.",
+      "stack": [
+        "Python",
+        "TypeScript",
+        "PHP",
+        "HTML",
+        "Objective-C"
+      ],
+      "hook": "Active GitHub org with engineers across 100+ payment methods, UPI integration, and fintech infrastructure.",
+      "angle": "",
+      "angle_reason": "Large fintech enterprise; no entry-level hiring signals in GitHub org; engineers are specialists in payments infrastructure, not aligned with candidate's profile.",
+      "fit": 3,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Saurav Rastogi",
+          "role": "Engineer"
+        },
+        {
+          "name": "Rohan Kokane",
+          "role": "Engineer"
+        },
+        {
+          "name": "Gaurav Bhardwaj",
+          "role": "Engineer"
+        },
+        {
+          "name": "Anand Suryawanshi",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "likely large enterprise (1000+ employees)",
+        "no clear entry-level hiring focus"
+      ]
+    },
+    {
+      "id": "6429f35186",
+      "relevant": true,
+      "summary": "Generative AI media infrastructure platform offering 550+ image, video, and audio generation APIs for developers.",
+      "stack": [
+        "Python"
+      ],
+      "hook": "Media API platform integrating latest models (Gemini, Claude, FLUX, Kling, Seedance) behind single API key and billing; emphasizes scale and model variety.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's LLM pipeline design, API integration, and model abstraction layer directly transfer to building generative AI infrastructure.",
+      "fit": 6,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no email candidates provided"
+      ]
+    },
+    {
+      "id": "4f9b81cfea",
+      "relevant": false,
+      "summary": "EdTech platform providing AI-powered skilling for modern AI careers, with integrated learning management, project building, and hiring for freshers.",
+      "stack": [],
+      "hook": "Recently raised $9M for scaling AI-native skilling platform; focuses on converting graduates into deployable talent; partnerships with universities.",
+      "angle": "",
+      "angle_reason": "EdTech training platform, not product engineering company; candidate seeks roles building software products, not educational content.",
+      "fit": 2,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no email candidates provided",
+        "EdTech training platform, misaligned with product engineering focus"
+      ]
+    },
+    {
+      "id": "3585a50f95",
+      "relevant": true,
+      "summary": "Wealth management platform providing personalized investment guidance and portfolio management for professionals and families in India.",
+      "stack": [],
+      "hook": "Seed stage (raised Rs 36 Cr from Lightspeed, Prime Venture Partners); founded Sept 2025; 250+ families served; 97% retention despite market volatility; AI-backed investment research and portfolio monitoring.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Django backend architecture, JWT authentication, per-user data isolation, and AI-backed insights model parallel Zomint's backend and recommendation engine needs.",
+      "fit": 5,
+      "region": "asia",
+      "people": [
+        {
+          "name": "Aman Mittal",
+          "role": "Co-Founder & CEO"
+        },
+        {
+          "name": "Shavir Bansal",
+          "role": "Co-Founder & COO"
+        }
+      ],
+      "contact_email": "careers@zomint.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "9d3255948d",
+      "relevant": false,
+      "summary": "Members-only credit card rewards and financial management platform for creditworthy individuals, offering payment management, rewards, lending, and financial insights.",
+      "stack": [
+        "Go",
+        "Java",
+        "Kotlin",
+        "Python"
+      ],
+      "hook": "Fintech platform with 25M+ members, 4.8/5 rating on app stores; emphasizes credit score optimization and member-exclusive benefits.",
+      "angle": "",
+      "angle_reason": "Large fintech platform; no entry-level hiring signals in GitHub org; stack skews towards backend infrastructure specialists.",
+      "fit": 2,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "likely large fintech platform",
+        "no email candidates provided"
+      ]
+    },
+    {
+      "id": "a8b2127682",
+      "relevant": false,
+      "summary": "Digital payment and financial services platform offering UPI payments, investments, mutual funds, insurance, lending, and recharges.",
+      "stack": [
+        "Java",
+        "Objective-C",
+        "Python"
+      ],
+      "hook": "Active GitHub org focused on payment infrastructure, supporting 100+ financial services; primary fintech platform for India.",
+      "angle": "",
+      "angle_reason": "Large enterprise fintech platform with no entry-level hiring signals in GitHub org.",
+      "fit": 2,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "likely large enterprise",
+        "no email candidates provided"
+      ]
+    }
+  ]
+}

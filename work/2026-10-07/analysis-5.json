@@ -1,0 +1,178 @@
+{
+  "leads": [
+    {
+      "id": "8c123ba96d",
+      "relevant": true,
+      "summary": "SigNoz is an open-source observability platform providing unified APM, logs, metrics, and tracing for application monitoring and debugging. It serves teams that need end-to-end visibility into system behavior with one OpenTelemetry-native platform.",
+      "stack": ["Go", "TypeScript", "React", "MDX", "ClickHouse", "OpenTelemetry", "Prometheus"],
+      "hook": "You're launching an MCP server to surface telemetry into coding agents like Claude Code, making observability a first-class IDE integration",
+      "angle": "canopy",
+      "angle_reason": "Both are developer infrastructure focused on parsing and understanding system internals—Canopy maps code architecture, SigNoz maps runtime behavior",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Jugal Kishore", "role": "Founder/Engineer"},
+        {"name": "Shubham Dubey", "role": "Engineer"},
+        {"name": "Naman Verma", "role": "Engineer"}
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0e2fb8775e",
+      "relevant": false,
+      "summary": "Freya builds voice AI models and text-to-speech synthesis, focused on Turkish language and enterprise voice applications.",
+      "stack": [],
+      "hook": "Ranked #1 on Design Arena's blind listening test for voice realism, with commercial API and research releases",
+      "angle": "",
+      "angle_reason": "Voice synthesis and speech models are outside the candidate's demonstrated stack and project experience",
+      "fit": 2,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "1973cb4d62",
+      "relevant": true,
+      "summary": "Saturn is an AI-powered operating system for wealth management, automating investment research, compliance, and operations for wealth managers and financial advisors.",
+      "stack": [],
+      "hook": "Serves 500+ advice firms managing £35bn AUM, automating compliance file checks and meeting observations into structured risk management",
+      "angle": "medvault",
+      "angle_reason": "Both are Django/DRF-backed B2B SaaS products with AI-assisted workflows, document processing, and user authentication",
+      "fit": 6,
+      "region": "europe",
+      "people": [],
+      "contact_email": "careers@heysaturn.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "20bd8f51e8",
+      "relevant": true,
+      "summary": "Bemlo is an AI-driven workforce management platform for healthcare and social care, automating shift scheduling, staff allocation, and compliance across care organizations.",
+      "stack": [],
+      "hook": "Recently completed acquisition of Vivium to combine shift scheduling and agency management into one unified platform",
+      "angle": "medvault",
+      "angle_reason": "Both address regulated industries (healthcare) with AI-assisted workflows and require strong data privacy and compliance controls",
+      "fit": 5,
+      "region": "europe",
+      "people": [
+        {"name": "Alexander Björkenstam", "role": "CEO, Co-founder"}
+      ],
+      "contact_email": "info@bemlo.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "228adb6fe5",
+      "relevant": true,
+      "summary": "Hyperspell is a company AI platform that synthesizes data from tools like Slack, Gmail, Notion, and Linear into a permission-aware context graph that any AI agent can read and write to like a filesystem.",
+      "stack": ["TypeScript", "LLMs", "Multi-agent systems"],
+      "hook": "Announced 50+ pre-built connectors with universal API/SDK compatibility, positioning as the infrastructure layer for enterprise AI agents",
+      "angle": "canopy",
+      "angle_reason": "Both parse and model complex systems—Canopy maps code call-graphs with deterministic cross-file resolution, Hyperspell maps company knowledge graphs across data sources",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {"name": "Ben Horowitz", "role": "Founder/Engineer"},
+        {"name": "David Szarzynski", "role": "Founder/Engineer"}
+      ],
+      "contact_email": "david@hyperspell.com",
+      "contact_name": "David Szarzynski",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "2ad2109d1a",
+      "relevant": true,
+      "summary": "cubic is an AI-powered code review platform that automatically reviews pull requests, identifies bugs, and learns from codebase patterns to improve code quality and review speed.",
+      "stack": ["TypeScript", "GitHub API"],
+      "hook": "Ranked #1 on every independent AI code review benchmark, learns from senior engineer review patterns to enforce team standards",
+      "angle": "canopy",
+      "angle_reason": "Core product is code analysis and architectural understanding—Canopy parses codebase structure and function-level dependencies, cubic applies that to identify design issues",
+      "fit": 8,
+      "region": "europe",
+      "people": [
+        {"name": "Peer Richelsen", "role": "Co-founder"}
+      ],
+      "contact_email": "contact@cubic.dev",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "2f1679a497",
+      "relevant": true,
+      "summary": "Brickwise is an AI property manager for landlords and estate agents, automating tenant calls, maintenance requests, rent collection, compliance tracking, and accounting across residential and commercial portfolios.",
+      "stack": [],
+      "hook": "Manages 100k+ units globally with >$1m cARR from enterprise customers, handles end-to-end workflows from leasing through compliance audits",
+      "angle": "medvault",
+      "angle_reason": "Both are multi-workflow AI platforms managing user interactions across document processing, data entry, and regulatory compliance",
+      "fit": 4,
+      "region": "europe",
+      "people": [
+        {"name": "Ismail", "role": "CEO, Co-founder"},
+        {"name": "Elias", "role": "CTO, Co-founder"}
+      ],
+      "contact_email": "hi@brickwiseai.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "3a6f71c29a",
+      "relevant": true,
+      "summary": "Stilta builds agentic AI software for intellectual property, specifically patent litigation and analysis, delivering source-backed, auditable analysis for IP law firms and in-house teams.",
+      "stack": [],
+      "hook": "Raised $10.5M from a16z with every analysis source-cited from patent databases, scientific literature, and web archives—making legal-grade AI defensible under scrutiny",
+      "angle": "medvault",
+      "angle_reason": "Both build production LLM systems with structured output validation, source attribution, and safety guardrails designed for regulated domains",
+      "fit": 7,
+      "region": "europe",
+      "people": [],
+      "contact_email": "oskar@stilta.com",
+      "contact_name": "Oskar",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "422e713caa",
+      "relevant": true,
+      "summary": "Leeroo is an organizational AI platform that continuously learns business knowledge, synthesizes company data into a living model, and ships agents and data programs on existing infrastructure.",
+      "stack": [],
+      "hook": "Benchmarked #1 on OpenAI MLE-Bench and RelBench, deployed in production at $1B enterprise handling 9×10^n rows across 35+ systems",
+      "angle": "canopy",
+      "angle_reason": "Both parse complex systems into structured models—Canopy resolves multi-file call graphs with deterministic traceability, Leeroo resolves multi-system business entities with confidence scoring",
+      "fit": 8,
+      "region": "europe",
+      "people": [],
+      "contact_email": "founders@leeroo.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "4840d63460",
+      "relevant": true,
+      "summary": "YouShift is an AI-powered hospital workforce management platform that replaces legacy scheduling software with unified scheduling, credentialing, payroll, and AI agents coordinating day-to-day operations.",
+      "stack": [],
+      "hook": "One record carries hospital staff assignments from scheduling rules through worked time to gross pay, with AI agents and managers coordinating coverage in real-time",
+      "angle": "medvault",
+      "angle_reason": "Both serve regulated healthcare with multi-stage workflows, user authentication, and data integrity requirements from intake through output",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "info@you-shift.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}
