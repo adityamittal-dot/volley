@@ -1,0 +1,308 @@
+{
+ "leads": [
+  {
+   "id": "72c24d795d",
+   "company": "Zool",
+   "website": "https://www.zool.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Zool Tech Solutions Pvt Ltd. Languages: JavaScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "rafi@zool.in",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "a1f27d4a2f",
+   "company": "Aurora OSS",
+   "website": "https://auroraoss.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, Karnataka",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Aurora Open Source Softwares. Languages: Java, Kotlin. Topics: android-messaging, gallery, gallery-android-studio, messaging, messaging-android-studio, snapdragon-gallery",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "enquiry@auroraoss.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "793b899f93",
+   "company": "Unacademy",
+   "website": "https://unacademy.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript. Topics: approvers-1",
+   "site_text": "[https://unacademy.com/]\nUnacademy - India's largest learning platform Log in Join for free Crack your goal with India’s top educators Over 10 crore learners trust us for their preparation +91 ​ We’ll send an OTP for verification Join for free Select your goal / exam 200+ exams available for your preparation Popular goals UPSC CSE - GS IIT JEE NEET UG Bank exams SSC JE & state AE exams CAT & other MBA entrance tests CBSE class 12 CA Intermediate See all goals (200+) Exam categories 60 + Daily live classes 1.5k + Mins. watched 3.2B + Educators 14k + Video lessons 1M + Daily live classes Chat with educators, ask questions, answer live polls, and get your doubts cleared - all while the class is going on Practice and revise Learning isn't just limited to classes with our practice section, mock tests and lecture notes shared as PDFs for your revision Learn anytime, anywhere One subscription gets you access to all our live and recorded classes to watch from the comfort of any of your devices Get the learning app Download lessons and learn anytime, anywhere with the Unacademy app Start learning with Unacademy Get unlimited access to structured courses & doubt clearing sessions Start learning Exam categories 60 + Daily live classes 1.5k + Mins. watched 3.2B + Educators 14k + Video lessons 1M +\n\n[https://unacademy.com/about]\nAbout Unacademy – India's Largest Learning Platform EDUCATE • ENABLE • EMPOWER Unacademy is India’s largest online learning app OUR MISSION & IMPACT Democratise access to high quality education 50M + Active Learners 1000 + Top Educators 1B + Minutes Watched 2000 + Daily live Classes FROM HUMBLE BEGINNINGS Our journey so far 2015 From a YouTube channel that started in 2010, we became a feature-rich educational technology platform in 2015 2017 Became India’s largest online learning platform with 1m+ learners & 40k live classes 2018 Became the biggest Live Learning platform with 200k+ daily active users who are learning with live classes 2020 We acquired Kreatryx, PrepLadder and Codechef to encompass more avenues of learning, we also launched our own Graphy app for enjoying interactive stories & books 2021 Revamped our entire learning experience on the app and launched it to all the learners via our first ever Unveil 1.0 event COME JOIN US Let’s build the future of education together Roles open in Design • Engineering • Product See open positions FROM THE HEADQUARTERS Our leaders Roman Saini Co-Founder Hemesh Singh Co-Founder and CTO Gaurav Munjal Co-Founder and CEO Public relations For media enquiry email us at press@unacademy.com Contact us Shoot your questions to us at help@unacademy.com\n\n[https://unacademy.com/careers]\nCareers at Unacademy – Join India's EdTech Team Public notice from the team Let’s build the future of education together Come, join us and together we can transform the way India learns. View all job openings We’re only getting started Unacademy is dedicated to its mission and is at the forefront of revolutionising the ed-tech space in India. Experience life at Unacademy We’re building a workspace that promotes growth, both personally and professionally. Pillars of leadership at Unacademy Our leadership principles form the crux of everything we do and it is these very principles that have helped us create a strong workforce of 4,000+ young leaders and innovators. Hear from the team! Get a sneak-peek into all the magic and madness that happens at Unacademy. Why Unacademy? We believe in fostering a holistic and dynamic workplace where you can create, innovate and thrive! Employee-friendly policies Maternity Leave | Paternity Leave | Adoption Leave | Period Leave | Creche Support We’ve got your back Insurance Cover for you and your family | National Pension Scheme | Flexible Benefit Plan | COVID-19 Insurance, leaves, and reimbursement 360 degree wellness Exclusive partnership with Practo, Ultrahuman and 1 to 1 Help | Monthly wellness programmes | Game Zone | Open Pantry Unparalleled learning opportunit",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "c5c53903dd",
+   "company": "Quanfluence",
+   "website": "https://quanfluence.com",
+   "title": "Software Engineering (recently funded)",
+   "location": "Bengaluru, India",
+   "source": "funding_news",
+   "posted_at": "2026-10-07T03:30:00Z",
+   "posting": "Quanfluence Raises $10 Mn To Build Full-Stack Photonic Quantum Computer. Bengaluru-based quantum compute startup Quanfluence has raised $10 Mn (around ₹92 Cr) in a funding round led by Chiratae Ventures, with participation Rainmatter by Zerodha and existing backer Pi Ventures. Quanfluence plans to deploy the fresh capital to further develop its full-stack photonic quantum computing system, bringing together indigenously designed photonic chips, control electronics and software into a single architecture. The startup is targeting early processors by 2027, followed by larger and scalable quantum machines by 2029. Founded in 2021 by Sujoy Chakravarty, Ravi Mehta, Biman Chattopadhyay, Aditi Vaidya, Anil Prabhaka, and Sandeep Goyal, Quanfluence is building a universal photonic quantum computer and has deployed a quantum-inspired optical Ising machine. The IIT-Madras incubated startup’s core technology includes an optical Ising machine that uses light waves as computational units. The system can process hundreds of interconnected variables simultaneously, making it 100X faster than traditional optimisation methods. Chakravarty told Inc42 that Quanfluence has already commercialised its optical Ising machine, selling the physical systems to customers as well as offering remote access to the machines on a usage-based model. The startup has sold around three machines and currently runs paid pilots with 10-15 corporations. The approach could help Quanfluence generate commercial traction while it works on the significantly harder problem of building a scalable universal quantum computer. The startup’s immediate challenge, however, is less about proving the underlying concept and more about integrating its components, scaling manufacturing and navigating long chip-production and hardware-delivery cycles. With a current team size of 25 employees, it is expecting to scale their workforce to 40-member team over the next year. Previously, Quanfluence raised $2 Mn (around ₹16.7 Cr) i",
+   "site_text": "[https://quanfluence.com/]\nQuanfluence Photonic Quantum Computing Platform We are building a scalable continuous-variable photonic quantum computer designed to deliver practical quantum advantage — with a full-stack architecture engineered for global deployment. Explore our architecture OPTIQON Hardware-Accelerated Optimization Platform OPTIQON is a hardware-accelerated optimization platform designed to solve large-scale combinatorial problems efficiently. By combining specialized photonic hardware with adaptive software orchestration, it explores complex solution spaces beyond the limits of conventional computing. View more About Us Quanfluence is building a scalable photonic quantum computing platform designed for practical quantum advantage. We integrate hardware, control systems, and software into a unified full-stack architecture engineered for global deployment. Meet the team Quantum Hardware Modules Custom photonic hardware modules engineered for customer applications and deployed both independently and as integral subsystems of our full-stack quantum platforms. High Speed Balanced detector Customizable high-bandwidth homodyne detection for advanced quantum measurements, telecom and photonic platforms. Single Photon Detectors Room temperature single photon detectors for secure quantum communication and ultra-low light sensing applications. Quantum Random Number Generator High-speed true quantum entropy generation for secure cryptographic systems and advanced computational applications. Contact OUR ENGINEERING TEAM the team Our team brings together expertise in photonic quantum systems, advanced optimization, experimental and theoretical physics, and large-scale engineering — driving the development of production-grade quantum platforms. CEO Sujoy Chakravarty IN COO Ravi Mehta IN CTO BIMAN CHATTOPADHYAY IN CPO Aditi Vaidya IN VP, hardware Vijay Nebhrajani IN VP, IC design Jayesh Wadekar IN Quantum Applications Prof Anil Prabhakar IN Quantum theory Prof Sandeep Goyal IN More About Us In the news October 7, 2026 Quanfluence raises USD 10 million led by Chiratae Ventures to build a full-stack photonic quantum computer Read More July 31, 2026 Quanfluence Showcases India’s Photonic Computing Innovation at Bharat Innovates 2026 Read More December 10, 2025 AIM Interview Spotlight: Our CEO Shares the Vision Driving India’s Quantum Hardware Revolution Read More request a demo Request online product demos or samples of our offerings. Quanfluence: Quantum, Now and Beyond We’re building the future of computing. Our quantum-inspired hardware optimizer delivers real-world solutions to complex optimization problems today. Shortly our full-stack photonic quantum computers will revolutionize industries, unlocking the power of quantum for unprecedented innovation. QUICK INFO Monday-Friday: 9am to 5pm, +(123)123-456-7890 +(123)123-456-7890 info@quanfluence.com\n\n[https://quanfluence.com/about-us/]\nAbout Us – Quanfluence Quanfluence About Us Quanfluence aims to revolutionize computing power, addressing complex global challenges, and contributing positively to humanity’s progress through innovative technology solutions. Our expertise in photonic quantum computing positions us at the forefront of cutting-edge technology and nation-building efforts. We aim to lead the quantum revolution in India and globally, drive sustainable innovation, and foster positive change for humankind and industries alike. Thought Process Approach A unique blend of world-class physicists, engineers, and business leaders allows us to bridge the gap between cutting-edge quantum technology and commercial viability. Interdisciplinary collaboration enables us to tackle complex challenges, turning scientific innovation into practical, high-impact solutions. This holistic approach positions us to lead the charge in quantum computing, creating value not just through technology, but through successful, scalable business models. who we are the team We are a team of highly expe",
+   "email_candidates": [
+    {
+     "email": "info@quanfluence.com",
+     "where": "https://quanfluence.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded"
+  },
+  {
+   "id": "b2ed5cc20b",
+   "company": "Razorpay",
+   "website": "https://razorpay.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, Objective-C, PHP, Python, TypeScript",
+   "site_text": "[https://razorpay.com/]\nRazorpay - Best Payment Solution for Online Payments India Sell in India. Settle Globally. Without an India Entity. Reach millions of buyers via UPI, Rupay, Netbanking, Cards & more. Get Started Know More Advanced Payment Solutions for India's boldest disruptors 100+ Payment Methods | Easy Integration | Powerful Dashboard Sign Up Now Know More Automated Payroll for India's boldest disruptors Automated Payroll & Compliances | Built for Startups & Enterprises Sign Up Now Know More Effortless Banking for India's boldest disruptors Powerful Automation | Smart Dashboard | Integrated Access Sign Up Now Know More Easy In-Store Payments for India's boldest disruptors Quick Payments | Seamless Integration | Top-tier UPI stack Sign Up Now Know More Sell in India. Settle Globally. Without an India Entity. Reach millions of buyers via UPI, Rupay, Netbanking, Cards & more. Get Started Know More Advanced payment solutions for India’s boldest disruptors 100+ Payment Methods | Easy Integration | Best-in-Class Performance Sign Up Now Ghazal ₹ 455 Body Lotion UPI ID Netbanking Select Payment Method Card EMI Payments POWERS MAMAEARTH FOUNDER Automated Payroll for India's boldest disruptors Automated Payroll & Compliances | Built for Startups & Enterprises Sign Up Now Payroll Solution POWERS PURPLLE FOUNDER Manish Effortless Banking for India's boldest disruptors Powerful Automation | Smart Dashboard | Integrated Access Sign Up Now Current Account POWERS ₹ 20,000 ₹ 10,000 Account Statement Current Account Insights Jan FEB MAR APR MAY JUN MYGATE FOUNDER Abhishek Easy In-Store Payments for India's boldest disruptors Quick Payments | Seamless Integration | Top-Tier UPI Stack Sign Up Now Sagar Razorpay POS POWERS WOW! MOMO FOUNDER Advanced payment solutions for India’s boldest disruptors 100+ Payment Methods | Easy Integration | Best-in-Class Performance Sign Up Now Automated Payroll for India's boldest disruptors Automated Payroll & Compliances | Built for Startups & Enterprises Sign Up Now Automated Payroll for India's boldest disruptors Automated Payroll & Compliances | Built for Startups & Enterprises Sign Up Now Effortless Banking for India's boldest disruptors Powerful Automation | Smart Dashboard | Integrated Access Sign Up Now Easy In-Store Payments for India's boldest disruptors Quick Payments | Seamless Integration | Top-Tier UPI Stack Sign Up Now International Payments for India's boldest disruptors Accept cards, bank transfers and Apple Pay from 180+ countries Sign Up Now Sell in India. Settle Globally. Without an India Entity. Reach millions of buyers via UPI, Rupay, Netbanking, Cards & more. Get Started Know More Advanced Payment Solutions for India's boldest disruptors 100+ Payment Methods | Easy Integration | Powerful Dashboard Sign Up Now Know More Automated Payroll for India's boldest disruptors Automated Payroll & Compliances | Built for Startups & Enterprises Sign Up Now Know More Effortless Banking for India's boldest disruptors Powerful Automation | Smart Dashboard | Integrated Access Sign Up Now Know More Easy In-Store Payments for India's boldest disruptors Quick Payments | Seamless Integration | Top-tier UPI stack Sign Up Now Know More Sell in India. Settle Globally. Without an India Entity. Reach millions of buyers via UPI, Rupay, Netbanking, Cards & more. Get Started Know More Advanced payment solutions for India’s boldest disruptors 100+ Payment Methods | Easy Integration | Best-in-Class Performance Sign Up Now Automated Payroll for India's boldest disruptors Automated Payroll & Compliances | Built for Startups & Enterprises Sign Up Now Effortless Banking for India's boldest disruptors Powerful Automation | Smart Dashboard | Integrated Access Sign Up Now Easy In-Store Payments for India's boldest disruptors Quick Payments | Seamless Integration | Top-Tier UPI Stack Sign Up Now International Payments for India's boldest disruptors Quick Payments | Seamless Integration | Top-Tier UPI Stack Sign Up Now",
+   "email_candidates": [
+    {
+     "email": "chargebacks@razorpay.com",
+     "where": "https://razorpay.com/blog/chargebacks/",
+     "kind": "personal"
+    },
+    {
+     "email": "saurav.rastogi@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "Saurav Rastogi",
+     "commits": 18
+    },
+    {
+     "email": "prathamesh.patil@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "prathameshpatil-design",
+     "commits": 1
+    },
+    {
+     "email": "nehal.kumarsingh@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "Nehal Singh",
+     "commits": 1
+    },
+    {
+     "email": "rohan.kokane@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "rohankokane-dev",
+     "commits": 11
+    },
+    {
+     "email": "premika.m@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "Premika M",
+     "commits": 1
+    },
+    {
+     "email": "kamalesh.s@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "stormblessed-bridge4",
+     "commits": 1
+    },
+    {
+     "email": "anand.suryawanshi@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "Anand Suryawanshi",
+     "commits": 8
+    },
+    {
+     "email": "gaurav.bhardwaj@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "gauravbhardwaj-7",
+     "commits": 26
+    },
+    {
+     "email": "vivek.shindhe@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "Vivek Shindhe",
+     "commits": 2
+    },
+    {
+     "email": "dontula.abhilash@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "abhilash-rp",
+     "commits": 1
+    },
+    {
+     "email": "manchala.sashank@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "manchalasashank-R",
+     "commits": 18
+    },
+    {
+     "email": "shon.laju@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "shonlaju",
+     "commits": 1
+    },
+    {
+     "email": "slash@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "Slash AI",
+     "commits": 1
+    },
+    {
+     "email": "gutti.yaswanth@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "gutti-yaswanth",
+     "commits": 4
+    },
+    {
+     "email": "pravesh.karn@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "Pravesh Karn",
+     "commits": 3
+    },
+    {
+     "email": "swe-agent@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "razorpay-swe-agent",
+     "commits": 3
+    },
+    {
+     "email": "abdul.shafi@razorpay.com",
+     "where": "GitHub commits (razorpay)",
+     "kind": "personal",
+     "name": "abdul00a",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "6429f35186",
+   "company": "Segmind",
+   "website": "https://segmind.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Generative AI infrastructure platform. Languages: Python",
+   "site_text": "[https://www.segmind.com/]\nSegmind - Media Generation Workflows for Developers New Wan 3.0 Video is live The media infrastructure behind your best work. best work. Image, video, and audio APIs built for teams that generate at scale. Explore models Get API key POST /v2/seedance-2.5 · async copy $ curl https://api.segmind.com/v2/seedance-2.5 \\ -H \"x-api-key: $SEGMIND_API_KEY\" \\ -d '{\"prompt\": \"neon market, slow dolly\"}' models 550+ API key 1 pricing Pay as you go Product jacket.png Face ref casting.png Nano Banana 2 done · 27s Kling O3 done · 201s Animated example: reference images and generated voice lines run through image, speech and video models in a Pixelflow graph. Made with Nano Banana 2 → Kling O3 Kling O3 done · 201s The model library Every model your best work needs, on one shelf. The newest image, video and audio models land here first, behind one API key and one bill. Call any of them from your code, or chain them into a Pixelflow workflow. Latest Popular Image Video Audio Language Explore all models Showing 100 models Nano Banana 2.1 GEMINI G No. 1 · Image To Image Nano Banana 2.1 Generate and edit images with legible text and infographics. G GEMINI Kandinsky 6.0 VSR No. 2 · Video To Video Kandinsky 6.0 VSR Upscale and restore short videos to flicker-free 1080p. Gemini 3.8 Flash GEMINI G No. 3 · LLM Gemini 3.8 Flash Long-horizon coding and agentic reasoning, 1M-token context. G GEMINI Qwen Image 2.1 Pro ALIBABA No. 4 · Text To Image Qwen Image 2.1 Pro Generate transparent PNGs and edit with 10 reference images. ALIBABA FLUX 3 Image Edit BLACK FOREST LABS No. 5 · Image To Image FLUX 3 Image Edit Pixel-perfect image editing and multi-reference compositing, up to 4K. BLACK FOREST LABS FLUX 3 Text to Image BLACK FOREST LABS No. 6 · Text To Image FLUX 3 Text to Image Bounding-box layout control, native 4K text-to-image. BLACK FOREST LABS Ideogram 4.5 Edit IDEOGRAM Image To Image Ideogram 4.5 Edit Masked edits that keep the type crisp IDEOGRAM Ideogram 4.5 IDEOGRAM Text To Image Ideogram 4.5 Exact in-image text in any language IDEOGRAM Claude Sonnet 5.5 ANTHROPIC LLM Claude Sonnet 5.5 Everyday coding with adaptive reasoning ANTHROPIC Claude Opus 5.5 ANTHROPIC LLM Claude Opus 5.5 Frontier coding and agents, 1M-token context ANTHROPIC Gemini 3.8 Flash-Lite TTS GOOGLE Text To Audio Gemini 3.8 Flash-Lite TTS Light, expressive two-voice speech GOOGLE Gemini 3.8 Flash TTS GOOGLE Text To Audio Gemini 3.8 Flash TTS Directed speech in 130+ languages GOOGLE ModelArk Artifact Verification BYTEDANCE Video To Text ModelArk Artifact Verification Spot Seedance and Seedream generated media BYTEDANCE Wan 3.0 Video Prime ALIBABA Image To Video Wan 3.0 Video Prime 1080p video with audio and lip-sync ALIBABA Seedance 2.5 Draft Final BYTEDANCE Video To Video Seedance 2.5 Draft Final Turn a 480p draft into the 1080p final BYTEDANCE Recraft V4 Pro SVG RECRAFT Text To Image Recraft V4 Pro SVG Editable pro vectors from a prompt RECRAFT Recraft V4 Pro RECRAFT Text To Image Recraft V4 Pro Print-ready 2K design with legible text RECRAFT Recraft V4 SVG RECRAFT Text To Image Recraft V4 SVG Logos and icons as editable SVG RECRAFT Recraft V4 RECRAFT Text To Image Recraft V4 Design-minded images with accurate text RECRAFT Wan Alpha TENCENT Text To Video Wan Alpha Video with a real transparent background TENCENT FLUX 3 Video Edit BLACK FOREST LABS Video To Video FLUX 3 Video Edit One prompt edits the clip, motion intact BLACK FOREST LABS Bria Ad Delayer BRIA Image To Image Bria Ad Delayer Flat ads split into editable layers BRIA MiniMax Hailuo H3 Max Reference to Video MINIMAX Image To Video MiniMax Hailuo H3 Max Reference to Video Same character, same product, every clip MINIMAX MiniMax H3 Max Multi-Angle MINIMAX Image To Video MiniMax H3 Max Multi-Angle Orbit and dolly through a frozen photo MINIMAX Pruna P Video 2 Pro PRUNA Text To Video Pruna P Video 2 Pro Video with native audio from text or frames PRUNA Claude Fable 5.1 ANTHROPIC LLM Claude Fable 5.",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "4f9b81cfea",
+   "company": "byteXL",
+   "website": "https://bytexl.com",
+   "title": "Software Engineering (recently funded)",
+   "location": "India",
+   "source": "funding_news",
+   "posted_at": "2026-10-07T05:28:40Z",
+   "posting": "Edtech startup byteXL raises $9 Mn in funding round led by Elevar Equity. html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-su",
+   "site_text": "[https://bytexl.ai]\nbyteXL: Industry-Aligned Skilling for Modern AI Careers The byteXL Suite byteXL App Learning Management System Nimbus Project Building Platform vLabs Immersive Virtual Labs Levels Learn Coding, Level by Level Hiring Hire Industry-Ready Talent Hackathon Host & Manage Hackathons Builder Build Apps by Vibe Coding One suite. Every step of the journey. From first line of code to first day on the job, a suite of products built to work together. Explore all products Our Programs bCAP byteXL Career Accelerator Program Academic-integrated skilling that runs alongside the degree, from first year to final placement. CareerXL Industry Talent Program Intensive, outcome-driven training that converts graduates into deployable talent for top tech roles. Hire from byteXL Hire Industry-ready Freshers Recruit industry-ready freshers, pre-assessed on the skills your teams actually need on day one. Not sure which program fits? See what each one covers and pick the one that's right for you. Compare all programs Learn Blog Insights on skilling & the industry gap PR & Media byteXL in the news Student Projects Industry projects built by our students Company About Us Our mission, story and team Careers See our open roles Contact Us Get in touch with our team Get to know byteXL See what we're about and the people behind it. About byteXL Products byteXL App Learning Management System Nimbus Project Building Platform vLabs Immersive Virtual Labs Levels Learn Coding, Level by Level Hiring Hire Industry-Ready Talent Hackathon Host & Manage Hackathons Builder Build Apps by Vibe Coding Programs bCAP byteXL Career Accelerator Program CareerXL Industry Talent Program Hire from byteXL Hire Industry-ready Freshers Resources Learn Blog Insights on skilling & the industry gap PR & Media byteXL in the news Student Projects Industry projects built by our students Company About Us Our mission, story and team Careers See our open roles Contact Us Get in touch with our team Careers Log in Contact Us Industry-aligned skilling for modern AI careers Partnering with universities to deliver an integrated suite of AI-native skilling solutions, from classrooms to careers Partner with byteXL Explore the suite 3+ Years in HolonIQ EdTech 100 Microsoft in Education Global Training Partner 5 National EdTech Awards Students skilled 0 + Partner institutions 0 + Top placement package ₹ 0 LPA Careers launched 0 + AI-Powered Skilling Solutions Everything a college needs to skill students, and everything a company needs to hire them. All For Colleges For Students For Employers byteXL App Learning Management System The academic-integrated LMS: centralized skilling content, assessments, performance dashboards and student reports for institutions. Nimbus Project Building Platform AI-powered, cloud-based environment where students build real industry projects with live code execution, no setup required. vLabs Immersive Virtual Labs Practice engineering experiments in immersive, simulated lab environments, anytime, on any device. Levels Learn Coding, Level by Level Gamified coding practice that takes students from fundamentals to advanced problem solving. Hiring Hire Industry-Ready Talent A hiring platform for companies to discover, assess and recruit skilled, job-ready engineering graduates. Hackathon Host & Manage Hackathons Host and manage hackathons end-to-end: registrations, team formation, submissions and judging. Builder Build Apps by Vibe Coding Turn ideas into working applications with AI: describe what you want and watch it come to life. Why byteXL An integrated college transformation model that raises every student's employability quotient. Industry-aligned curriculum Outdated syllabi leave graduates unprepared for real jobs. Continuously updated, industry-mapped content integrated directly into the academic calendar. Practitioners as mentors Faculty rarely have hands-on corporate experience. Learning delivered by engineers from top product companies, alongside ",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded"
+  },
+  {
+   "id": "3585a50f95",
+   "company": "Zomint",
+   "website": "https://zomint.com",
+   "title": "Software Engineering (recently funded)",
+   "location": "India",
+   "source": "funding_news",
+   "posted_at": "2026-10-07T04:49:42Z",
+   "posting": "Zomint raises Rs 36 Cr seed round from Lightspeed and Prime Venture Partners. Wealth management startup Zomint has raised Rs 36 crore ($3.75 million) in a seed round from Lightspeed and Prime Venture Partners. The proceeds will be used to expand its wealth and investment teams, strengthen its technology platform and build its investor education ecosystem. Founded in September 2025 by Aman Mittal and Shavir Bansal, Zomint offers wealth management services to working professionals and families. Investors can start with a monthly SIP of Rs 25,000 or a lump sum investment of Rs 5 lakh. Zomint assigns each family a personal wealth expert who tracks their investments and financial goals. The expert is supported by investment research and AI tools that bring together portfolio information, past conversations and research, flag areas that need attention and track agreed actions. The firm claims it has retained 97% of its clients since launch, despite market volatility. Nearly one in three clients made additional investments through the platform within three months of their initial engagement. Its relationship managers currently serve more than 250 families each, supported by investment specialists and AI enabled tools. Zomint acquired its customers entirely through organic content, using the founders’ financial content platform Bekifaayati, which has more than 50 lakh subscribers.",
+   "site_text": "[https://www.zomint.com/]\nZomint | Give Your Wealth the Expert Attention It Deserves Investor Login Get Expert Guidance Products Company Learn Our Team Give your wealth the expert attention it deserves. A trained wealth expert who knows your portfolio, understands your goals and stays involved, backed by research and AI. Talk to an expert Dedicated wealth expert Ongoing portfolio reviews Research & AI backed Backed By Built by the team behind Bekifaayati. Bekifaayati earned the trust. Zomint carries it forward. 0 Lakh+ Community across platforms 0 Crore+ Indians reached 0 Lakh+ Monthly views 0 Crore+ Monthly impressions ₹1.8 Lakh Discount on Home Loan Zomint How rich use Debt to make money bekifaayati Car Got Stolen What to do? bekifaayati Punjabi Complete 25 Year Home Loan in 10 Years bekifaayati Hindi Better than FD Scheme? bekifaayati Marathi How RICH buy Home? bekifaayati Bangla ₹1.8 Lakh Discount on Home Loan Zomint How rich use Debt to make money bekifaayati Car Got Stolen What to do? bekifaayati Punjabi Complete 25 Year Home Loan in 10 Years bekifaayati Hindi Better than FD Scheme? bekifaayati Marathi How RICH buy Home? bekifaayati Bangla Follow on YouTube Follow on Instagram Your wealth should serve the life you are building. How Zomint works for you We understand what matters, build with purpose and stay close as things change. 1 Start with what matters We begin with your goals, responsibilities, upcoming decisions and existing investments. Outcome Clarity on what matters next. 2 Build every investment with purpose Our investment team combines technology-enabled research with human judgement to build around your goals, timelines and comfort with risk. Outcome A reason behind every recommendation. 3 Stay close as life changes We monitor, keep you informed and remain available as markets and priorities change. Outcome A team that knows your plan. Sharper analysis. More considered decisions. Zomint combines AI-powered research with human judgement to identify what deserves attention and what does not. Look inside every fund Analyse holdings, concentration, sector exposure and overlap across your portfolio. Judge more than returns Evaluate consistency, downside risk, costs, portfolio quality and manager behaviour across market cycles. Detect meaningful change Flag allocation drift, concentration and fund-level changes that could affect suitability. Turn signals into decisions Your investment team reviews every alert before recommending a change. Nothing is executed without your approval. Always monitored. Never managed on autopilot. Our technology checks your portfolio continuously. Our investment team reviews it formally every quarter, or sooner when a material change is detected. January 2026 March 2026 May 2026 September 2026 Every alert is reviewed by a person. Every recommendation comes with the reason and impact clearly explained. Accountability, built in We stay accountable. You stay in control. No chasing. No guessing. No disappearing. A team you can reach Real people who understand your portfolio and priorities. Updates before you ask You hear from us when something deserves attention. Every recommendation explained What should change, why it matters and how it affects you. Your wealth stays yours Investments remain in your name. Nothing moves without your approval. What we never do. Hard lines we won't cross — so your interests stay first. No product-pushing or forced sales No favouring one AMC because of a tie-up No recommending untested NFOs for novelty No asking you to act without explaining why The leadership behind Zomint. Experience across investment banking, investing, research and technology, working to one standard of care. Aman Mittal Co-Founder & CEO IIT Delhi alumnus Ex Flipkart, Pine Labs, Ula 15+ years building fintech and consumer platforms Shavir Bansal Co-Founder & COO IIM Calcutta alumnus Ex Kotak — corporate & investment banking Founder, Bekifaayati (50+ lakh subscribers) Vishal Singh Head of ",
+   "email_candidates": [
+    {
+     "email": "hello@zomint.com",
+     "where": "https://www.zomint.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "careers@zomint.com",
+     "where": "https://www.zomint.com/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded"
+  },
+  {
+   "id": "9d3255948d",
+   "company": "CRED",
+   "website": "https://cred.club/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go, Java, Kotlin, Python, Smarty. Topics: cred, neopop",
+   "site_text": "[https://cred.club/]\nCRED. not everyone gets it. A REFLECTION OF CLARITY. LEARN MORE A REFLECTION OF CLARITY. LEARN MORE ; click to expand crafted for the creditworthy CRED is a members-only club that enables the trustworthy to make financial progress download CRED DOWNLOAD CRED NOT EVERYONE MAKES IT IN. the story of CRED begins with trust. we believe individuals who've proven their trustworthiness deserve better: better experiences, better rewards, better rules. this is the status quo we're building. make it to the club, and experience the ascension yourself. all that you deserve. and some more. all that you deserve. and some more. if you're a CRED member, you're already a step ahead. every experience you unlock takes you higher up the pedestal. if you're a CRED member, you're already a step ahead. every experience you unlock takes you higher up the pedestal. do more with your credit cards do more with your credit cards manage your credit cards better and improve your credit score: receive payment reminders, uncover hidden fees, get spending insights, and discover ways to maximize card benefits. manage your credit cards better and improve your credit score: receive payment reminders, uncover hidden fees, get spending insights, and discover ways to maximize card benefits. upgrade your life. bit by bit. scan & pay any UPI QR Know more UPI payments. on credit. Know more tap your phone. pay on credit. Know more send money to any UPI app Know more manage your cars' vitals Know more feel the odds fall in your favor unlock cashback, exclusive rewards from select brands, and special access to curated products and experiences. your data isn't our business. keeping it safe is. all your personal data and transactions are encrypted and secured. there's no room for mistakes because we didn't leave any. all your personal data and transactions are encrypted and secured. there's no room for mistakes because we didn't leave any. trusted by 15M members the proof writes itself 4.8 /5 APP STORE 4.8 /5 PLAY STORE download CRED DOWNLOAD CRED not everyone gets it like all good things in life, earning a CRED membership is not easy; but the possibility of unlocking a greater future makes the effort worthwhile. not everyone gets it like all good things in life, earning a CRED membership is not easy; but the possibility of unlocking a greater future makes the effort worthwhile. download CRED DOWNLOAD CRED FAQs about CRED CRED is a members-only club that rewards trustworthy individuals with financial and lifestyle progress. members are rewarded with exclusive perks and privileges for making sound financial decisions. trusted by over 25 million creditworthy members, CRED transforms each payment into a rewarding experience. getting a membership to become a CRED member, you need a credit score of 750 or above. you can apply for membership by signing up on CRED with your name and a valid mobile number (issued within India). if your credit score makes the cut, we'll see you there. the CRED member experience CRED's suite of products is designed to help the creditworthy fast-track their financial & lifestyle progress. we partner with premier brands to offer unparalleled experiences and rewards to our members. members also earn cashback and coins on their payments, along with opportunities to elevate their lifestyle. checking your credit score members can check and refresh their credit score on the CRED app. CRED acquires the updated credit score through a CIBIL score soft inquiry. you can access your credit score data anytime without any extra charges. as a member, this helps you keep regular checks on your credit score and re-evaluate your spending patterns to maintain a healthy credit status. banks supported on CRED CRED supports credit card bill payments for American Express, Standard Chartered, Citibank, HSBC, HDFC, ICICI, SBI, AXIS, RBL, PNB, and other top Indian banks. We support VISA, MasterCard, American Express & RuPay cards.\n\n[https://cred.club/about",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "a8b2127682",
+   "company": "PhonePe",
+   "website": "http://www.phonepe.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Java, Objective-C, Python",
+   "site_text": "[https://www.phonepe.com/]\nPhonePe: UPI Payments, Investment, Insurance, Recharges, DTH & More Company About Us Careers Press Blog Our Solutions For Businesses For Consumers Offline Merchant Solutions Offline Payments Offline Partner Program See All â Online Merchant Solutions Payment Gateway Payment Gateway Partner Payment Aggregator Payment Links See All â More Solutions Merchant Lending PhonePe Ads See All â Consumer Payments All Payment Instruments NRI Payments by PhonePe Co-Branded Credit Cards PhonePe SBI Card Credit Cards Wish Credit Card PhonePe HDFC Bank Credit Cards More Solutions Mutual Funds Gold Silver Insurance Travel & Commute Lending Consumer Lending Secured Lending Investor Relations Contact Us Trust & Safety â Home Company About Us Careers Press Blog Our Solutions For Businesses Offline Merchant Solutions Offline Payments Offline Partner Program Online Merchant Solutions Payment Gateway Payment Gateway Partner Payment Aggregator Payment Links More Solutions Merchant Lending PhonePe Ads See All For Consumers Consumer Payments All Payment Instruments NRI Payments by PhonePe Co-Branded Credit Cards PhonePe SBI Card Credit Cards Wish Credit Card PhonePe HDFC Bank Credit Cards More Solutions Mutual Funds Gold Silver Insurance Travel & Commute Lending Consumer Lending Secured Lending Investor Relations Contact Us Trust & Safety The Beat of Progress Every transaction tells a story. Together, they tell India's. Unlock the Pulse of Bharat with PhonePe Pulse Know More Get upto â¹10 lakh Personal Loan with zero paperwork One Loan. Endless Possibilities. Know More Scan to apply on the PhonePe app One Device, One App Any Payment Method Get your PhonePe POS 1.99% FREE Accept payments for your online business at zero cost Sign up for PhonePe Payment Aggregator Get Started Top picks shortlisted from 1000+ Mutual Funds Analysed using CRISP Explore Now Daily Mutual Fund SIP Starting at just â¹10/day Invest Now THOUGHTFULLY CRAFTED FOR INDIA 10% Reward Points* on PhonePe spends Explore *On select categories - T&C Apply The Beat of Progress Every transaction tells a story. Together, they tell India's. Unlock the Pulse of Bharat with PhonePe Pulse Know More Get upto â¹10 lakh Personal Loan with zero paperwork One Loan. Endless Possibilities. Know More Scan to apply on the PhonePe app One Device, One App Any Payment Method Get your PhonePe POS 1.99% FREE Accept payments for your online business at zero cost Sign up for PhonePe Payment Aggregator Get Started Top picks shortlisted from 1000+ Mutual Funds Analysed using CRISP Explore Now Daily Mutual Fund SIP Starting at just â¹10/day Invest Now THOUGHTFULLY CRAFTED FOR INDIA 10% Reward Points* on PhonePe spends Explore *On select categories - T&C Apply The Beat of Progress Every transaction tells a story. Together, they tell India's. Unlock the Pulse of Bharat with PhonePe Pulse Know More 1 2 3 4 5 6 7 Payments Manage all your payments seamlessly Investments Build, manage & grow your wealth Insurance Protect, plan & secure your future Lending Access quick, transparent & secure loans Simple, fast & secure transactions UPI Lite Make faster, low-value transactions with ease Credit Line on UPI Link pre-sanctioned bank credit lines to UPI RuPay CC on UPI Use your RuPay credit card for UPI transactions Split Expenses Simplify group payments effortlessly PhonePe Gift Card The perfect gift for every occasion UPI Circle Delegate payments with spending limits and full control Scan to download the PhonePe App Download App Now Convenience at your fingertips Cable Television Mobile Recharge FASTag Recharge DTH Cable Television Mobile Recharge FASTag Recharge DTH Rent Payment Water Credit Card Payment Broadband/Landline Book a Cylinder Electricity Piped Gas Rent Payment Water Credit Card Payment Broadband/Landline Book a Cylinder Electricity Piped Gas Insurance Municipal tax & Services Recurring Deposit Loan repayment Insurance Municipal tax & Services Recurring Deposit Loan repayment",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  }
+ ]
+}

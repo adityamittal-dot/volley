@@ -1,0 +1,269 @@
+{
+ "leads": [
+  {
+   "id": "c8a163c948",
+   "company": "MountBlue",
+   "website": "https://www.mountblue.io/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Python",
+   "site_text": "[https://www.mountblue.io/]\nBe cautious, as there have been reports of individuals receiving fake job offers and subsequent communications from web domains resembling mountblue.io. Please be mindful and avoid falling victim to scams. < Transforming - good - programmers - into - exceptional - software - engineers - working - at - high - growth - companies / > > _ Made by developers for developers | 280+ Hiring companies 14 Unicorns 8 - 12 LPA Salary Post MountBlue (INR) Companies where our engineers work\n\n[https://www.mountblue.io/contact-us]\nContact Us Want to reach us? We'd love to hear from you and we'll respond as soon as possible.",
+   "email_candidates": [
+    {
+     "email": "santumahapatra@gmail.com",
+     "where": "GitHub commits (mountblue)",
+     "kind": "personal",
+     "name": "Santu Mahapatra",
+     "commits": 36
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "e9e38ef14f",
+   "company": "FORMCEPT",
+   "website": "http://www.formcept.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Clojure, Java, Jupyter Notebook, Python. Topics: batch-processing, data-analysis, demos, stream-processing, utilities",
+   "site_text": "[https://www.formcept.com/]\nContinuous Decision Intelligence System - FORMCEPT Continuous decision intelligence system Automatically infer business risks and opportunities from internal and external variables in real time. And guide your business users and AI agents on what they need to do. Context-aware by design Explainable & traceable AI Works with your data stack Request a demo Product Video Intelligence builders at data-reliant companies use MecBot to guide business decisions. Save your business users from analysis paralysis (and your bottomline, from the blindspots) Foresee the domino effects in a blink Infer the downstream business impact of any change in your world. Connect the dots across data sets to take timely actions. Inform your decisions with the latest Avoid making today’s decisions based on yesterday’s assumptions. Update your decision logic continuously as new data arrives. Make real-time intelligence scalable Add unlimited users. And process unlimited queries. While keeping your costs predictable and your stack hardware-efficient. Reveal data relationships Show how one data point affects others. Help business users connect the dots and take confident actions. Analyze everything you want to Show how one data point affects others. Help business users connect the dots and take confident actions. Keep data business-ready 24x7 Show how one data point affects others. Help business users connect the dots and take confident actions. What Our Customer are Saying FORMCEPT played a pivotal role in transforming our EVSE ecosystem at enArka. Our EV charging stations were seamlessly integrated with FORMCEPT's innovative MecIntake solution, which efficiently captured data using the OCPP protocol and transmitted it to the MECBot platform in the cloud. Dr. Ramesh Srinivasan Founder CEO & Managing Director In the cloud, MecIoT powered our EV Central Management System, enabling several advanced features that significantly enhanced the user experience: 1. Efficient Charging Management Users could easily block, book, or schedule charging sessions through our apps, thanks to the robust integration. 2. Contextual Recommendations MECBot's capabilities allowed us to offer personalized suggestions for nearby activities, such as dining or entertainment, while users waited for their EVs to charge. 3. Seamless Automation and Payments The system ensured a smooth payment process, with automation features like unlocking the remote charging gun once the transaction was complete. i. FORMCEPT's Contribution FORMCEPT's team consistently demonstrated exceptional technical expertise and professionalism. The MECBot platform was a cornerstone of our operations, offering real-time insights and automation that helped us deliver a high-quality experience to our customers. ii. Support and Collaboration What stood out the most was FORMCEPT's commitment to their partners. Their technical and customer support teams were always proactive, responsive, and solutions driven. They worked closely with us to implement customizations, address challenges, and ensure seamless integration into our ecosystem. FORMCEPT and MECBot were invaluable partners for enArka, enabling us to push the boundaries of what was possible in EV charging management. We are proud to have worked with such a forward-thinking and collaborative organization and would highly recommend them to any business looking for cutting-edge data solutions and outstanding partnership. FORMCEPT played a pivotal role in transforming our EVSE ecosystem at enArka. Our EV charging stations were seamlessly integrated with FORMCEPT's innovative MecIntake solution, which efficiently captured data using the OCPP protocol and transmitted it to the MECBot platform in the cloud. Dr. Ramesh Srinivasan Founder CEO & Managing Director This is some text inside of a div block. This is some text inside of a div block. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum trist",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "cc82a496da",
+   "company": "Karnival",
+   "website": "https://karnival.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Dart, TypeScript",
+   "site_text": "[https://www.karnival.com/]\nCustomer marketing and smarter receipts for brands Contact us Customer marketing platform for brands and retail image An integrated platform with Interactive Digital Receipts, Marketing Automation, Loyalty points, NPS, Surveys and Product Reviews. Get a demo Globally 210+ brands are elevating customer marketing with Karnival How Karnival works? Physical Store Digital Store Send Digital Receipts, Engage & Capture Customer Insights. Integrated marketing platform for 3x more personalised marketing campaigns CX management Reviews & Ratings Loyalty Marketing Automation Elevate cX at the most crucial touchpoint State of the Art: Smart Receipt • Custom designs for your brand • Bank grade data security for customer's personal data • Digital Signature on each document for IT & Legal compliances • Multiple delivery channels like Whatsapp, SMS, Email • Using our SDK send e-receipt through push notification to your brand app Connected & Omnichannel Customer Experience • Analyze customer sentiments at various touchpoints in Physical and Digital Store formats • Boost response rate up to 10x through Integrated Digital receipts platform • Resolve complaints 30% faster with our integrated customer service platform Omnichannel growth Ratings and Reviews • Grow your E-commerce by 40% with our ratings & reviews platform • AI-powered Content Moderations and Syndication available for platforms • Collect In-store ratings and reviews with the QR code technology marketing automation Acquisition and Retention • Loyalty points • Customer registration • Personalised and dynamic offers • Raffle draws • Referral campaigns • Enrich first party data Here’s what our customers say about us ! Bestseller India and Karnival for post purchase journeys As a Customer Experience Strategy professional, it is my constant endeavour to improve customer experience across touchpoints. Deploying transformative digital solutions, assists in ensuring seamless customer journeys that lead to better Customer Retention and Customer Lifetime Value. Karnival team understand business requirements and partners in co-creating CX solutions promptly. From digital receipts to customer feedback, product status tracking, reaching out to the brand stores/ customer service teams, creating ticket workflows & analytics, we have accomplished multiple journeys in a single message. I recommend Karnival to any business who'd not only want to see their ideas come to life but also thrive in the long run. Get Started with Karnival Today! Brands 210+ Unique Customers 120mn+ Countries 12+ Get Started Free ©2026 Karnival - All Rights Reserved. Privacy Policy Terms & Conditions Resources Contact us\n\n[https://www.karnival.com/blogs]\nBlogs and Case Studies Contact us Karnival Blogs Retail Trends Pillars of Retail Success Post Pandemic Thrive in the new normal! Learn 4 pillars of retail success: omnichannel, customer centricity, value proposition & innovation. Success Stories Karnival's smart road to Brand Alliance Boost sales & reach! Learn how brand alliances unlock new customers, reduce costs & create win-win partnerships. Retail Technology How do Smart Receipts make Emotional Branding more powerful? Turn emotions into sales! Learn how smart receipts build customer loyalty with personalized offers & post-purchase engagement. Retail Technology Retain, don't just Attain! A Guide To Retention Marketing Boost profits & customer loyalty! Learn why retention trumps acquisition & discover 4 actionable retention strategies. Retail Technology 5 ways to earn Customer Loyalty? Win loyal customers forever! Learn 5 proven strategies to build trust, value & community. (Plus tips for your team!) Retail Technology Why is Customer Feedback Important for Brands? Boost sales & brand loyalty! Learn how smart receipts & SMS surveys improve customer feedback & product development. Retail Technology Omnichannel Retail: The Future Of New Normal Master the new normal of retail! Learn how omnichannel m",
+   "email_candidates": [
+    {
+     "email": "contact@karnival.com",
+     "where": "https://www.karnival.com/contact",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "f20baba265",
+   "company": "Simpl",
+   "website": "https://www.getsimpl.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Making money simple.. Languages: Java, Objective-C, Python, Ruby",
+   "site_text": "[https://www.getsimpl.com/]\nNamecheap Parking Page hosted by Your website is ready to go! Hosting account was successfully created on the server Nameservers have been set up properly DNS propagation is completed Please find some useful links below Getting started â cPanel login â WebMail login â Support System â News â Blog â Do you own this website? Our Support Team is available for assistance 24/7. Chat with a Live Person",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "2a5db35a0d",
+   "company": "FYERS",
+   "website": "https://fyers.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: C, Go, Java",
+   "site_text": "[https://fyers.in/]\nOnline Stock Trading & Investment Platform in India | FYERS Built for Those Who Are Born to Trade + 91 Get started Commodity SIFs Stocks Mutual Fund 10+ years of Empowering traders through every market cycle and building what comes next. IPO F&O Fixed Deposit Bond 1 Million + Customers Best Bootstrapped Startup Best Futures Broker Asia 4.4 App Rating 10+ years of Empowering traders through every market cycle and building what comes next. F&O Stocks Commodity SIFs Mutual Fund IPO Fixed Deposit Bond 1 Million + Customers Best Bootstrapped Startup Best Futures Broker Asia 4.4 App Rating WHAT YOU GET WITH FYERS Your Complete Trading Journey in One Place From identifying your first trade to portfolio management, every tool you need is seamlessly connected in one powerful trading platform. Discover Analyse Execute Manage Automate Screeners and Smart Watchlists Screeners and Smart Watchlists Option Chain Option Chain Market Overview & Heatmap Market Overview & Heatmap Symbol Details Symbol Details MTF News News WHY CHOOSE FYERS Why Traders Love Us Capabilities that define how serious traders operate on FYERS. Trader-First by Design Built on Real Trader Feedback In-house Tech for advanced execution Engineering the Future of Trading Built to Evolve 10+ years in Indian capital markets | #BornToTrade Download App Now SMARTER INSIGHTS. BETTER DECISIONS. Building for the Future With AI India's first AI trading analyst. Real-time market scanning, portfolio intelligence and custom screeners all in one conversational interface. ❇️ Automate with AI 📉 Analyse Charts 📊 Create Screener 🔍 Research Stocks 🗞️ Explore News 💰 Analyse Portfolio Automate with FIA Explore Automate OUR PRICING Simple. Transparent. Low-cost. ₹ 15 Per executed order Standard ₹ 20 Per executed order ₹ 0 Account Opening ₹ 0 AMC ₹ 0 Mutual Fund & IPO ₹ 0 Zero Brokerage for the First Month Explore prime See price details Our Journey When we started FYERS, we saw a clear gap in Indian markets. More people were taking trading seriously, but the platforms they relied on weren't evolving at the same pace. We believed traders deserved better: speed, control, intelligence, and reliability that help them trade with conviction, not just place orders. That belief still drives us today. We are continuously building and improving our pro trading and investing platform for people who take markets seriously. Tejas Khoday Co-founder & CEO When we started FYERS, we saw a clear gap in Indian markets. More people were taking trading seriously, but the platforms they relied on weren't evolving at the same pace. We believed traders deserved better: speed, control, intelligence, and reliability that help them trade with conviction, not just place orders. That belief still drives us today. We are continuously building and improving our pro trading and investing platform for people who take markets seriously. Tejas Khoday Co-founder & CEO 2026 FYERS Expands Into Category III AIF Launched FYERS Prime - an all-in-one membership plan. 2025 Made AI-powered insights a reality in India. Crossed 1 million customers. Ventured into Institutional equities trading. 2024 Awarded 'Best New Comer of the Year-2023' by TradingView. Launched our own institutional broking and PMS. Awarded Bootstrapped Startup of the Year by ET. Acquired PMS license and launched FYERS Asset Management 2023 Launched FYERS App 2.0 Crossed 5 Lakh customers. 2022 Opened up FYERS to minors and NRIs. FYERS HQ set up in Bengaluru. Stock gifting made available at FYERS. 2021 Kickstarted a dedicated portal for IPOs. Went from 1,00,000 to 2,50,000 clients in one year. 2020 BSE and cross-currency on NSE went live. 2019 Created the FYERS School of Stocks to enable learning. Codified our place in the ecosystem with the FYERS API. 2018 Began Commodity Trading with MCX. 2017 Developed a thematic investing platform. Integrated TradingView on FYERS Web. 2016 Built our first-ever trading platform. Hit a milestone of 1000 clients. 20",
+   "email_candidates": [
+    {
+     "email": "sales-complaints@fyers.in",
+     "where": "https://fyers.in/",
+     "kind": "personal"
+    },
+    {
+     "email": "api-support@fyers.in",
+     "where": "https://fyers.in/",
+     "kind": "personal"
+    },
+    {
+     "email": "stoptrade@fyers.in",
+     "where": "https://fyers.in/",
+     "kind": "personal"
+    },
+    {
+     "email": "tech-feedback@fyers.in",
+     "where": "https://fyers.in/",
+     "kind": "personal"
+    },
+    {
+     "email": "revoke@fyers.in",
+     "where": "https://fyers.in/",
+     "kind": "personal"
+    },
+    {
+     "email": "nri.sales@fyers.in",
+     "where": "https://fyers.in/contact-us",
+     "kind": "personal"
+    },
+    {
+     "email": "partner-support@fyers.in",
+     "where": "https://fyers.in/contact-us",
+     "kind": "personal"
+    },
+    {
+     "email": "nri.support@fyers.in",
+     "where": "https://fyers.in/contact-us",
+     "kind": "personal"
+    },
+    {
+     "email": "ceo@fyers.in",
+     "where": "https://fyers.in/contact-us",
+     "kind": "personal"
+    },
+    {
+     "email": "cpo@fyers.in",
+     "where": "https://fyers.in/contact-us",
+     "kind": "personal"
+    },
+    {
+     "email": "grievance-dp@fyers.in",
+     "where": "https://fyers.in/contact-us",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "5a38daf54e",
+   "company": "eLitmus.com",
+   "website": "https://www.eLitmus.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Ruby",
+   "site_text": "[https://www.elitmus.com/]\neLitmus :: India's largest fresher assessment and recruitment company. | eLitmus.com Menu About Gift Card SCALE Adda Blog Help Login Register Contact Upcoming Tests Pune 10th Oct NCR 10th Oct Bangalore 10th Oct Hyderabad 17th Oct Pune 24th Oct See full list » Companies Hiring Pratishthan 31st Oct NAB 30th Apr eLitmus 31st Dec MountBlue 31st Dec KLA 30th Sep All Jobs » We are India’s largest assessment and recruitment company. Enables companies to hire talent which performs on the job. 65% of candidates who found jobs through us had an existing offer. All companies serviced since Dec 2009 have reported high satisfaction level. Customers include - start-ups to Fortune 100 R&D to services companies. Our superior service offering is enabled by a combination of deep business insights, superior assessment (pH Test) and unparalleled reach amongst quality candidates. For Employers » Login Don't have an account? Register Now Never miss a job on eLitmus Subscribe To Our Mailing List I got into Mcafee through eLitmus and am happy working here. Its a great company to work with. Had eLimus not been there, it won Kanika McAfee \"Elitmus overwhelmed us by giving so many great opportunities. Being a fresher it showed us so many gates to success and an opti Kashish Accenture Just when I was starting to loose hope of getting placed in a top-notch company offering a good package, eLitmus came as a bless IMTEYAZ Tally\n\n[https://www.elitmus.com/about_us]\nAbout Us | eLitmus.com Menu About Gift Card SCALE Adda Blog Help Login Register Contact About Us eLitmus is a first-of-its-kind service in the world. Since it was launched in 2005, eLitmus has been redefining how fresher and entry-level recruitment is done in India. Our proprietary pH Test evaluates job seekers. On the basis of a variety of parameters and grades them nationwide using an advanced statistical model, resulting in a pH Score for each candidate. We provide an extensive range of online tools. These tools help recruiters to easily screen and select candidates based on this and dozens of other parameters. With over 1.5 million engineers alone graduating every year from colleges and universities spread across the country, and over five thousand software companies vying for them, the logistics of entry-level recruitment in India are daunting, to say the least - both for recruiters as well as job-seekers. By all accounts, this challenge is only going to get more acute in the coming years, as the workforce in the knowledge industries expands to several times its current figure. With the help of novel evaluation methods and innovative use of technology, eLitmus is able to solve both sides of this problem effectively. For recruiters, we provide a way to reach out to candidates from across India, any time of the year, using standardized evaluation criteria - all without any of the attendant logistical hassles, and with tremendous savings in cost and effort. For job-seekers, we provide a one-stop-shop where they have access to dozens of employers from across the country, based on a completely objective and standardized score, dramatically improving their chances of finding that right first job, with much less effort. If you are a recruiter, we offer you compelling reasons to consider our end-to-end services for all your entry-level hiring needs. If you are a recent graduate , your search for that dream job ends here - a pH Score is your ticket to the best employers in the Indian industry, all at one place.\n\n[https://www.elitmus.com/blog/]\nRecent Posts – eLitmus Blog Recent Posts Categories: Technology Career The-other-side Book-review September 11, 2025 What's the deal with secret_key_base in Rails? rails secrets credentials If you’ve spent any time with a Rails app, you’ve probably stumbled across this mysterious setting called secret_key_base . Maybe you saw it in config/secrets.yml , or like me, you were upgrading Rails, forgetting that credentials are the new norm an",
+   "email_candidates": [
+    {
+     "email": "query@elitmus.com",
+     "where": "https://www.elitmus.com/contact_us",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "8536704082",
+   "company": "RealResponse",
+   "website": "https://realresponse.com",
+   "title": "Product Engineer",
+   "location": "REMOTE (US)",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-06T15:39:20Z",
+   "posting": "RealResponse | Product Engineer | REMOTE (US) | Full-time | https://www.realresponse.com We build software used across college athletics, professional sports, higher education, and other organizations, from reporting and compliance to live event operations. We're a team of We're looking for someone who solves problems across the board: building and improving our applications, shaping products, internal tools, fast prototypes, and the systems that keep quality and security high. You'd own problems end to end, from understanding what the customer actually needs to shipping the fix. On the AI side, we want someone who knows how to: - Evaluate new models as they ship, and pick the right one for the job (fast and cheap vs. most capable) - Design agents and multi-agent workflows with tool use, and know when a simpler approach is better - Build retrieval that stays accurate as the underlying content changes (RAG, embeddings, search) - Measure quality with evals and observability, so changes are proven rather than guessed - Keep AI features fast, reliable, and cost-effective under real production load - Handle AI security properly: prompt injection, data isolation between customers, and sensitive data Stack today: Rails 8, Hotwire, Hotwire Native, Postgres, AWS. Rails experience helps but isn't required. What matters more is a strong grasp of solid engineering practices and principles, and the judgment to use the right tools to solve the problem. To apply: email jobs@realresponse.com with subject \"Product Engineer: [your name]\". Include a link to something you built, a few sentences about a problem you solved end to end, your salary expectations, and your CV.",
+   "site_text": "[https://www.realresponse.com/]\nReal Time Reporting - Feedback - Anonymous Texting - RealResponse Trusted by 200+ Organizations Build Trust Through Anonymous Reporting & Engagement Empower your community to speak up safely through anonymous, two-way reporting and equip leaders to respond and resolve issues effectively. Learn More Book a Demo Inbox Create THREADS All Drafts Unread Assigned Inbox Anonymous via WhatsApp I'm reporting potential doping violations by athletes in the regional training center. Anonymous via Text Message I would like to report an incident of hazing that happened over the weekend. Anonymous via Text Message I would like to report an incident of hazing that happened over the weekend. Anonymous via Form Reporting Form Submission. Anonymous via Form Reporting Form Submission. Trusted by 200+ leading organizations Trusted by 200+ leading organizations Trusted by 200+ leading organizations PRODUCTS Trusted Reporting Platform Reduce organizational risk, capture insights, and uphold integrity through secure, two-way communication channels built on trust. Anonymous Reporting Facilitate confidential two-way dialogue through WhatsApp, SMS, email, and phone. Real-time conversations that protect identities while resolving issues quickly. Surveys Gather anonymous insights with customizable surveys. Track trends, measure satisfaction, identify patterns, and receive actionable insights. Forms Create tailored intake forms to collect structured data for specific situations. Capture the right information while maintaining complete anonymity. Documentation Centralize case management with automated timestamps, user profiles, and compliance tracking. Everything documented securely in one place. Event Communication Seamlessly communicate with fans in real-time and anonymously about safety, security, facilities, transportation, and other concerns that may come up during a public event or âgame dayâ. Privacy & Security ISO certified, penetration tested, and GDPR compliant. Built from the ground up for privacy and security you can trust. Partnerships Expand your capabilities through integrated technology and strategic alliances. Deliver seamless solutions with greater efficiency. PRODUCTS Trusted Reporting Platform Reduce organizational risk, capture insights, and uphold integrity through secure, two-way communication channels built on trust. Anonymous Reporting Facilitate confidential two-way dialogue through WhatsApp, SMS, email, and phone. Real-time conversations that protect identities while resolving issues quickly. Surveys Gather anonymous insights with customizable surveys. Track trends, measure satisfaction, identify patterns, and receive actionable insights. Forms Create tailored intake forms to collect structured data for specific situations. Capture the right information while maintaining complete anonymity. Documentation Centralize case management with automated timestamps, user profiles, and compliance tracking. Everything documented securely in one place. Event Communication Seamlessly communicate with fans in real-time and anonymously about safety, security, facilities, transportation, and other concerns that may come up during a public event or âgame dayâ. Privacy & Security ISO certified, penetration tested, and GDPR compliant. Built from the ground up for privacy and security you can trust. Partnerships Expand your capabilities through integrated technology and strategic alliances. Deliver seamless solutions with greater efficiency. PRODUCTS Trusted Reporting Platform Reduce organizational risk, capture insights, and uphold integrity through secure, two-way communication channels built on trust. Anonymous Reporting Facilitate confidential two-way dialogue through WhatsApp, SMS, email, and phone. Real-time conversations that protect identities while resolving issues quickly. Surveys Gather anonymous insights with customizable surveys. Track trends, measure satisfaction, identify patterns, and receive ac",
+   "email_candidates": [
+    {
+     "email": "jobs@realresponse.com",
+     "where": "job posting",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "81d69ff1ef",
+   "company": "Comograph",
+   "website": "https://comograph.com",
+   "title": "Go-To-Market (GTM) Specialist",
+   "location": "Remote (Global / US/EU/Africa time zones welcome)",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-06T10:01:29Z",
+   "posting": "Comograph | Go-To-Market (GTM) Specialist | Remote (Global / US/EU/Africa time zones welcome) | Full-time / Contract About Comograph: We are building an engineering recruitment and skill verification platform focused on evidence-based hiring through task-based evaluations. We help tech teams eliminate resume noise and evaluate software engineers on real-world coding and architectural capabilities. The Role: We are looking for a hands-on Go-To-Market (GTM) Specialist / Growth Lead to own our early customer acquisition strategy, lead generation, outbound sales pipelines, and position Comograph in front of engineering leaders and talent acquisition teams. What You'll Do: Design and execute outbound B2B sales sequences targeting Engineering Managers, CTOs, and Technical Recruiters. Build growth loops across developer communities, LinkedIn, and cold outbound channels. Own early-stage sales discovery calls, demos, and customer onboarding feedback loops. Craft compelling content, case studies, and messaging around evidence-based technical hiring. What We’re Looking For: Experience in B2B SaaS growth, outbound sales, or GTM strategy (experience in Developer Tools, HR Tech, or Recruiting SaaS is a huge plus). Strong understanding of tech hiring pain points and developer workflows. Comfortable with modern growth/sales stacks (CRM, email automation, LinkedIn outreach). Self-starter who thrives in an early-stage, fast-paced setup. How to Apply: Email your CV/LinkedIn and a brief note on how you’d approach GTM for a tech platform to ceo@comograph.com with the subject: GTM Specialist - Your Name.",
+   "site_text": "[https://comograph.com/]\nComograph: Hire for Capability. Build Proof for Opportunity. Get Started Platform For Engineers For Employers Opportunities Universities Students Pricing About Get Started Comograph is in early access. Engineering hiring is live today , more capabilities are on the way. Ready to hire on proof? No subscription. Start free. Build Proof Hire With Proof Building the infrastructure for a fairer world of work Talent is everywhere. Opportunity isn’t. We're fixing that. Comograph is the proof-of-work layer for the global talent economy, where what you build matters more than where you studied, who you know, or where you happen to live. Not another hiring tool. The infrastructure that makes overlooked builders impossible to ignore. Build Your Proof Hire With Proof No weeks of unpaid work. No gatekeeping by pedigree, geography, or connections. Just proof, open to anyone, anywhere. A new category Not a listings board. Not a resume site. The proof layer underneath hiring itself. Global by default One network, open to every builder, in every country, from day one. Human final call AI surfaces the evidence; people always decide. PROOF PROFILE #CG-10482 AC Adaeze Chukwu Verified Hire Verified Senior Backend Engineer Nigeria · 6+ years · Currently employed NestJS PostgreSQL Redis Docker REST APIs 84% 0 /1000 Overall capability score 3 Tasks completed 3 Session replays Strong Interview readiness WHY THIS CANDIDATE Capability score 842 backed by 3 recorded Engineering Tasks Clean similarity check across all submissions Strong architecture and rollback planning under simulated load Verified Engineer Session Replay Similarity Clear Sample profile, built from a real Engineering Task Every task recorded Proof you can trust, not a story you’re told Reviewed by real people AI assists, humans decide, always Open to everyone No card, no gatekeeping. Merit, anywhere in the world Respect for your time 15-60 min tasks, never weeks of free work The problem Millions of great developers are invisible to the companies that need them. A resume tells you where someone happened to work. A degree tells you what they could afford to study. An interview tells you how they perform under pressure for an hour. None of it tells you what someone can actually build, and that gap costs employers real money on wrong hires, and costs talented people, especially outside the usual pipelines, the opportunities they’ve earned. Resume Claims experience, rarely verified. Credentials Proves access, not ability. Interview Reveals performance, not skill. Proof Shows exactly what someone can do. The internet gave everyone a voice. Comograph is giving everyone proof. The Comograph philosophy Prove more. Interview less. Most of what a ten-round interview process is trying to figure out, can this person actually do the work, is already answered before the first call, because the proof already exists. Traditional hiring Many rounds, redundant screens CV Recruiter Screen Assessment Technical Interview Technical Interview 2 Manager Interview Culture Interview Final Interview Offer With Comograph Fewer, higher-signal conversations Proof Review Interview Hire Employers can add additional conversations when they need them. The difference is that interviews happen after the evidence exists, not before. With Comograph: 1 - 2 interviews typically, 3 in a strong case, since the proof already answers most of what those extra rounds exist to check. The solution Turn real work into undeniable proof. The work you do shouldn’t disappear the moment a task ends. On Comograph, it becomes permanent evidence: proof that follows you, grows with you, and opens doors a resume never could. Work Evidence Capability Reputation Opportunity How Comograph works From capability to opportunity. One profile, built once, that speaks for you anywhere in the world. Every Engineering Task comes with the evidence behind the score, so no one has to take your word for it. 01 Discover Find real opport",
+   "email_candidates": [
+    {
+     "email": "ceo@comograph.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "9e6398a10c",
+   "company": "Cashfree Payments",
+   "website": "https://www.cashfree.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, KA, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Payments platform for businesses. Languages: Java, Kotlin, Objective-C, TypeScript. Topics: agent-skills, antigravity, antigravity-skills, bnpl, card, cardless-emi, cashfree, claude-code, codex, codex-skills, copilot-coding-agent, copliot, cursor, cursor-skills, emi, gemini-cli, gemini-cli-skills, ios, java, net-banking, opencode, opencode-skills, payment-gateway, payment-integration, payments, sdk, upi, wallets",
+   "site_text": "[https://www.cashfree.com/]\nCashfree Payments - Fastest way to collect online payments Get Started Get your business festive ready with India's Best Payment Gateway 0% 1.95% Platform Fees on sales up to ₹20L* Trusted by 1M+ Businesses Go live in minutes 99.99% Uptime 0% 1.95% Platform Fees on sales up to ₹20L* Next-day Settlement Dedicated Account Manager Go Live in Minutes Sign Up for Free* Contact Sales CHOSEN BY ONE OF A KIND BUSINESSES The whole payments stack, on one platform. Every way your customer wants to pay. Online, in-store, on WhatsApp. Cashfree Checkout Loads in under 200ms, converts up to 10% more buyers, and lets returning customers pay in ten seconds flat. Payment Gateway 180+ ways to pay across UPI, cards, EMI, netbanking and wallets. Built on payment infrastructure we run ourselves, so more of your payments go through. Never lose a sale to a missing option. Subscriptions Set up recurring billing in minutes. Customers approve once with UPI Autopay, cards or eNACH, and failed renewals retry automatically. Payment Links (no-code) Collect over WhatsApp, SMS or email with a shareable link. No website, no developer needed. Payment Forms (no-code) Custom branded forms that collect payments and customer details, with eSign and pay built in. No code. Instant Settlements Your sales money in your account in minutes, not T+2 days. Learn more Go global, both ways. International Payment Gateway Accept payments from 170+ markets in 140+ currencies, settled in INR. Apple Pay and PayPal switched on from the dashboard. Know More Sell into India Foreign businesses collect from Indian customers in local methods like UPI, RuPay and cards, with 80%+ success rates, settling to an overseas account in 100+ currencies at 0% FX, with no Indian entity. Know More Fraud loses. You win. RiskShield Real-time fraud screening on both directions of money movement, payments in and disbursals out, with chargebacks cut by up to 60%. Learn More SecureID 360-degree identity verification: KYC, bank accounts, GST, documents and faces, verified in seconds, not days. Learn More Mule Sentinel Detect and block mule accounts and fraud networks before they move money through your business. Payments, built for AI Two ways AI is moving money for Indian businesses: taking payments inside AI, and running payment operations with agents. Agentic Payments Cashfree Here Explore Cashfree Here Let customers pay with UPI, cards, QR or netbanking right inside AI chats like ChatGPT and Claude, with no payment details ever exposed to the AI. India's first in-chat payments, built on the MCP Apps standard with Mastercard and Swiggy. Agentic Operations Cashfree Relay Explore Cashfree Relay AI agents that run your back-office payment work: reconciliation, refunds, disputes, and COD checks. Pick a ready-made agent or build your own by describing what you need. You approve anything that moves money. Payouts and refunds, done in seconds. Payouts Pay anyone, 24x7, holidays included: bank accounts, UPI IDs, cards, wallets. Refunds, vendors, salaries, winnings, incentives. Learn More Payouts Cashgram Send money with just a link. No collecting account details, no failed transfers, no support tickets. Learn More Cashgram Collect Go Global Identity & Risk Built for AI Disburse INDUSTRY SOLUTIONS Your industry's payment problems, already solved. Payments configured for your industry, not a one-size-fits-all gateway. E-Commerce & D2C BFSI Education & EdTech SMB & Startups Enterprise One Click Checkout: a custom checkout built for Shopify D2C brands. One Click Checkout Payment Gateway BNPL Subscriptions RTO and COD dependence are the real margin killers for D2C. One Click Checkout is a one-click checkout that lifts conversion, flips COD to prepaid, and flags RTO risk before you ship. Disburse in seconds. Collect on schedule. Compliant by default. Payment Gateway with TPV UPI AutoPay eNACH Payouts SecureID. BFSI runs on disbursal speed, collection reliability, and airtight compliance. ",
+   "email_candidates": [
+    {
+     "email": "developers@cashfree.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "careers@cashfree.com",
+     "where": "https://www.cashfree.com/careers/",
+     "kind": "hiring"
+    },
+    {
+     "email": "rahulsharma@cashfree.com",
+     "where": "https://www.cashfree.com/contact-sales/?source-action=Home%20page&action=Contact%20Sales&button-id=ContactSales_Hero",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "4860433ec0",
+   "company": "Flow Traders",
+   "website": "https://flowtraders.com",
+   "title": "Research Engineer",
+   "location": "",
+   "source": "hn_hiring",
+   "posted_at": "2026-10-07T01:12:38Z",
+   "posting": "Flow Traders | Research Engineer | Hong Kong | Full Time | Visa | Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and innovative Tech culture at the heart of its business. We are looking for Research Engineers in our Hong Kong office. Join us build and scale the research framework behind our systematic trading models. You’ll work closely with Quantitative Researchers, drive end‑to‑end ML pipelines, and shape global standards for data‑driven model development. Research Engineers have joint responsibility for conducting research and delivering models. You’ll thrive if you have: - 8+ years in ML / Data Science / Research Engineering (Postdoc/Faculty can count towards this); - Strong Python and libraries such as Ray, numpy, PyTorch, and pandas; - Solid math/stats background; - Experience with modern dev practices & cloud technologies. If you're interested, apply here: https://www.flowtraders.com/careers/job-description/7431246 Flow Traders | C++ Senior Software Engineer | Hong Kong | Full Time | Visa | Relocation We are looking for a Senior C++ Software Engineer, you'll help design and optimize next-generation market data and execution platforms powering systematic trading across hundreds of venues. The role covers high performance market data ingestion and order execution, building and optimizing trading systems. To succeed you will need to have: - 5+ years of C++ experience in HFT/ financial sector -Strong knowledge in one or more APAC markets If you are interested, apply here: https://www.flowtraders.com/careers/job-description/8212740 Or if you'd like to see other roles at Flow Traders, please check our careers website: https://flowtraders.com/careers/",
+   "site_text": "[https://www.flowtraders.com/]\nFlow Traders A global trading firm driving transparency and efficiency in financial markets LIQUIDITY PROVIDER Continuous liquidity in global financial markets Flow Traders lowers overall trading costs for market participants by delivering higher execution quality. We focus on embracing transparency in financial markets, increasing our proximity to developing innovation and fostering the transformation of the financial ecosystem. Find out more about what we do Our Mission We challenge the status quo and drive efficiency, transparency and innovation across global financial markets. Deep ETP Expertise Cutting Edge Technology Risk Management Focus Strong Team Driven Culture Deep ETP Expertise Cutting Edge Technology Risk Management Focus Strong Team Driven Culture Find out more about Flow Traders STRATEGIC CAPITAL Investing in Future Innovation We established a dedicated investment unit to partner with companies that align with our core mission - to bring transparency and efficiency to global financial markets. Find out more Diverse and Global Locations Our trading hubs in Europe, the U.S. and Asia-Pacific provide liquidity across all major exchanges and trading platforms, globally, 24 hours a day. Where we operate Where we operate WORKING AT FLOW TRADERS We are always looking to grow our leading global teams and have a strong track record in recruiting, developing and retaining the best talent. Explore our roles Graduates We believe in nurturing the next generation of talent through our tailored Trading, Quantitative Research, Software Development and Trading Operations Engineering graduate programs. Find out more Trading Our Traders, Quants and Analysts work in a fast-paced, highly intensive environment where each day brings complex challenges. Find out more Technology Our Technology teams are focused on creating, developing and building next generation solutions to power our Trading team. Over 40% of our total workforce works within our Technology department. Find out more Business Support Our Business Support teams closely collaborate with our Trading and Technology divisions, safeguarding central aspects of our business and people. Find out more FOUNDATION Giving Back to Society We have a longstanding belief that we should give back and contribute to society in a positive way. That’s why we established the Flow Traders Foundation, an organization with a mission to fight poverty. About our Foundation CAREERS Working At Flow Traders We're passionate about creating an international, diverse and empowering culture, focusing on teamwork, collaboration and fostering talent. Find out more\n\n[https://www.flowtraders.com/about/]\nFlow Traders Entrepreneurs at heart with a challenger mindset We strive to bring greater transparency and efficiency to financial markets We operate in highly competitive industry, as a global liquidity provider and market maker. We continuously provide stable liquidity, actively invest in the financial ecosystem, develop innovative technologies, and foster both our team and strategic partnerships. Our Mission We provide liquidity anytime, anywhere to bring transparency to the market. Technology leadership is core to our business. The excellence of our quantitative capabilities shapes our market understanding​ Our Locations Our Locations We this job Our trading hubs in Europe, the U.S. and Asia-Pacific provide liquidity across all major exchanges and trading platforms, globally, 24 hours a day. Diverse and Global Locations Where we operate Where we operate Our Leadership Team Our dedicated leadership team leads the development and implementation of Flow Traders’ strategic priorities across the organization. We this job Our leadership Our leadership Our leadership Sustainability Environmental, Social and Governance (ESG) is about creating shared value, as the nature of our business means we have a relatively light environmental footprint. To manage our ESG impact we conducted an E",
+   "email_candidates": [
+    {
+     "email": "careers.europe@flowtraders.com",
+     "where": "https://www.flowtraders.com/about/where-we-operate/",
+     "kind": "personal"
+    },
+    {
+     "email": "fit@flowtraders.com",
+     "where": "https://www.flowtraders.com/about/where-we-operate/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  }
+ ]
+}

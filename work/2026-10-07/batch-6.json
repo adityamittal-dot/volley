@@ -1,0 +1,240 @@
+{
+ "leads": [
+  {
+   "id": "49412d6a72",
+   "company": "Lightly",
+   "website": "https://lightly.ai/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Zürich, ZH, Switzerland",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Help ML teams label the right data When ML teams send their data to companies like Scale.ai for labeling, most can only afford to label 1% or less of their datasets. But today they don’t have a good way to pick which 1% to label. We help them pick the best 1% of their data to label. By labeling the most representative data, they significantly improve model accuracy at the same cost. Machine Learning, Data Labeling, B2B, Engineering, Product and Design, Switzerland, Europe, Remote, Partly Remote",
+   "site_text": "[https://lightly.ai/]\nLightly - The Multimodal Computer Vision Platform The Multimodal Computer Vision Platform One integrated computer vision platform for labeling, curation, QA, and datasets management. Lightly is built for ML engineers and organizations scaling computer vision. Book a Demo Start for Free Platform Your complete toolkit for computer vision Two products, one pipeline. LightlyStudio is the data hub - curate, annotate, evaluate and visualize. LightlyTrain turns that data into production models Explore the Platform Read Documentation 01 Curate 02 Label & QA 03 Evaluate 04 Plugins 05 Collaborate 06 Export Find the samples worth labeling. Everything you index is embedded automatically. Filter by metadata, search by text or image, then run a sampling strategy - diverse coverage, deduplication, outlier detection, similarity, or class balancing - to keep only the subset worth labeling. Automatic embeddings on index Text and image similarity search Six sampling strategies, one query Start for Free Label and QA your data in one place. Create, edit and review annotations right where you work, whether that's a quick check or a full QA pass. Every labeled object gets its own embedding, so you can search and cluster objects the same way you search whole images. Bring in SAM3 or a LightlyTrain model to auto-label the easy cases first. Annotate and QA in one place Object-level search SAM3 and LightlyTrain auto-labeling plugins Start for Free Know exactly where your model breaks. Run an evaluation against ground truth and get per-sample metrics plus a confusion matrix, no separate script required. Sort by false positives, false negatives or mIoU to jump straight to the samples your model gets wrong. Detection, classification and segmentation Confusion matrix built in Versioned annotations Start for Free Add or vibe-code your plugins. Install ready-made plugins for SAM3 segmentation, LightlyTrain auto-labeling and video bounding box propagation, or register your own. A plugin is a Python function with a form, so anything you can script, your whole team can run from the UI. SAM3 and LightlyTrain, ready to install Video bounding box propagation Build your own with the Python API Start for Free Work on the same dataset, together. Invite your team and give each person a role that matches what they should touch. Viewers browse and export, Labelers tag and annotate, Editors configure the workspace, Admins manage it all. Role-based access for your team Viewer, Labeler, Editor, Admin roles Centrally managed cloud credentials Start for Free Get your data out, in the format you need. Export annotations or filenames straight from the grid, or automate it in Python. Export the full dataset or just a filtered subset by tag or query. COCO, YOLO, Pascal VOC and more Full dataset or filtered subset GUI or Python, your choice Start for Free Integration Fast & Easy Integration Into Your ML Pipeline Lightly’s suite of tools integrates into your existing machine learning pipeline, facilitating data curation, model training, and deployment processes. Testimonials Built for real-world computer vision Teams shipping Physical AI use Lightly to get from raw sensor data to a deployed model — in the field, on the line, and at the edge. Read Customer Stories 3x Faster Model Iteration Cycle Read more 2M+ Curated Images Read more Improved performance YOLO-based models Read more DINOv3 Object Detection Pipeline Beating Prior Baselines Read more 2.3M Frames Processed In 1 Month Read more 10% Model Accuracy Improvement Read more 3D SSL Training Pipeline with DINOv2 Read more 82% Precision on Herd Size Estimation Read more 2x Model Deployment Efficiency Gains Read more 36% Model Accuracy Improvement Read more 50% Reduced Retraining Process Time Read more 80% Reduction in Annotation Costs Read more Explore Lightly Products LightlyStudio Data Curation & Labeling Curate, label and manage your data in one place Learn More LightlyTrain Self-Supervised Pretraining Le",
+   "email_candidates": [
+    {
+     "email": "kondrat.shmoylov@gmail.com",
+     "where": "GitHub commits (lightly-ai)",
+     "kind": "personal",
+     "name": "Kondrat Shmoylov",
+     "commits": 8
+    },
+    {
+     "email": "jayashankar.pjs@gmail.com",
+     "where": "GitHub commits (lightly-ai)",
+     "kind": "personal",
+     "name": "Jayashanker Padishala",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "4aea2796d2",
+   "company": "Saphira AI",
+   "website": "https://saphira.ai",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. The Enablement Layer for Physical AI Saphira is the easiest way for hardware products to get safety certified and reach market faster, such as industrial robots and heavy machinery. Hardware, Robotics, Compliance, Enterprise, AI, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.saphira.ai/]\nSaphira AI SAPHIRA Validation Case Studies Use Cases Platform Blog Talk to Us Open main menu Systems Robotics Autonomy AI agents for engineering complex physical systems Investigate failures, reason across system evidence, and turn risks into traceable requirements and validation plans. Talk to our team See customer work ↓ Failure analysis Safety + security Validation Change impact Saphira / assurance graph Live system context 0 1 / source System model 0 2 / source Field evidence 0 3 / source Design change Agent workflow Investigate + reason 3 evidence links active decision 0 1 Failure modes decision 0 2 Requirements decision 0 3 Validation plan Evidence → engineering decision Customer evidence Used on real machines, not hypothetical workflows Published work across construction, humanoid, and industrial robotics. View all case studies → Published case study Construction robotics Raise Robotics designed certification into the robot Safety questions became concrete architecture and component decisions before the design was expensive to change. 1 day First risk assessment ~85 Derived requirements 17–20 weeks Certification roadmap Read story → Published case study Humanoid robotics A shared safety language at 1X Reviewable safety artifacts connected engineering, product, leadership, and external stakeholders. “ Saphira helped us turn that commitment into a shared language across engineering, product, and leadership. ” Read story → Published case study Industrial robotics Faster safety engineering for RobCo Requirements, analysis, and evidence were structured around the actual robot system for expert review. “ We highly value our partnership and the opportunities it presents for future certification challenges. ” Read story → More teams building physical AI Third-party validation Saphira is a member of the NVIDIA Halos AI Systems Inspection Lab , and our safety engineers review generated analyses before they reach an assessor. Where teams start One hard decision at a time Start with the workflow blocking a program today. Saphira reuses the same system context as the work expands. Explore use cases → 01 Failure and incident investigation Trace symptoms across architecture, requirements, tests, logs, and field reports to identify likely causes and affected decisions. RCA · FMEA · corrective action → 02 Safety and security analysis Investigate hazards and threats against the real system, with inspectable reasoning and source-linked expert review. HARA · TARA · hazard analysis → 03 Requirements and change impact Turn findings into requirements and mitigations, then surface what a design or model change forces the team to reconsider. Requirements · controls · traceability → 04 Validation and test planning Generate test and simulation plans from risk and requirements, connect results, and expose gaps before release. V&V plans · simulation · coverage → The system underneath A reusable AI system for expert engineering work Different teams can begin with different problems because each workflow uses the same system context, controls, and evidence model. 0 1 Sources Designs · requirements · tests · field data 0 2 System context Linked, versioned, inspectable 0 3 Agent workflows Investigate · reason · propose 0 4 Expert decisions Review · approve · trace Live assurance graph Human review remains in control Cited Reasoning retains sources and assumptions. Controlled Experts approve consequential analysis. Continuous Changes trigger impact across risks, tests, and evidence. Works with your stack Connect the sources of truth you already use The team Built by engineers who have shipped consequential systems Saphira combines applied AI with reliability, systems engineering, functional safety, and enterprise software experience. The team has built and operated technology where failures have real-world consequences. Start with the real system Bring us the engineering decision your team cannot afford to get wrong Start a con",
+   "email_candidates": [
+    {
+     "email": "contact@saphira.ai",
+     "where": "https://www.saphira.ai/",
+     "kind": "generic"
+    },
+    {
+     "email": "akshay@saphira.ai",
+     "where": "https://www.saphira.ai/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "4d1eb85174",
+   "company": "Comena",
+   "website": "https://comena.ai",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "BY, Germany",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. AI agents for distributors and manufacturers to automate order entry. We build AI agents that automate order processing for industrial distributors and manufacturers. Say goodbye to inside sales and customer service teams spending hours on manual data entry. Comena streamlines order and quote entry, from inbox to ERP, freeing up sales teams to focus on high-value activities and proactive selling. B2B, Supply Chain and Logistics, Germany, Europe",
+   "site_text": "[https://comena.ai/]\nAuftragserfassung automatisieren mit KI | Comena Wir stellen ein. Werde Teil unseres Teams! Weniger Tippen, mehr Verkaufen. Automatisierte Auftragserfassung Comena automatisiert die Angebots- und Auftragserfassung von der Inbox ins ERP. Unsere KI Agenten lesen Bestellungen aus und finden die richtigen Artikel. So hat Ihr Vertrieb wieder Zeit fÃ¼r Kunden und aktives Verkaufen. Demo buchen So funktioniert's BewÃ¤hrt bei fÃ¼hrenden Unternehmen der Industrie BewÃ¤hrt bei fÃ¼hrenden Unternehmen der Industrie BewÃ¤hrt bei fÃ¼hrenden Unternehmen der Industrie Die Herausforderung Die Herausforderung Keine Zeit fÃ¼r Kernaufgaben Keine Zeit fÃ¼r Kernaufgaben 01 Qualifizierte Mitarbeiter verschwenden Zeit mit Eintippen Ihre Vertriebsinnendienstler erfassen Daten manuell zwischen Posteingang und ERP â statt Kunden zu gewinnen und zu pflegen. 01 Qualifizierte Mitarbeiter verschwenden Zeit mit Eintippen Ihre Vertriebsinnendienstler erfassen Daten manuell zwischen Posteingang und ERP â statt Kunden zu gewinnen und zu pflegen. 02 Schwierige Artikelsuche Manuelle Artikelsuche dauert lang und fÃ¼hrt zu Fehlern. Nicht gefundene Artikel mÃ¼ssen kostspielig neu angelegt werden. 02 Schwierige Artikelsuche Manuelle Artikelsuche dauert lang und fÃ¼hrt zu Fehlern. Nicht gefundene Artikel mÃ¼ssen kostspielig neu angelegt werden. 03 Angebotserstellung dauert zu lange Manuelle Bearbeitung dauert Tage statt Minuten. Eine schnelle Erstellung ist kritisch, um AuftrÃ¤ge zu gewinnen. 03 Angebotserstellung dauert zu lange Manuelle Bearbeitung dauert Tage statt Minuten. Eine schnelle Erstellung ist kritisch, um AuftrÃ¤ge zu gewinnen. 04 FachkrÃ¤ftemangel und lange Einarbeitung Mitarbeiter gehen in Rente und wertvolles Wissen verloren. Neue Mitarbeiter zu finden, ist schwierig und die vollstÃ¤ndige Einarbeitung dauert Jahre. 04 FachkrÃ¤ftemangel und lange Einarbeitung Mitarbeiter gehen in Rente und wertvolles Wissen verloren. Neue Mitarbeiter zu finden, ist schwierig und die vollstÃ¤ndige Einarbeitung dauert Jahre. LÃ¶sung LÃ¶sung Der Gamechanger fÃ¼r Ihre Auftragserfassung Der Gamechanger fÃ¼r Ihre Auftragserfassung Dokumente auslesen VorgÃ¤nge werden von der KI automatisiert ausgelesen und relevante Informationen extrahiert. Egal ob PDFs, E-Mails, komplexe AnhÃ¤nge oder handschriftliche Notizen. + Keine zeitaufwÃ¤ndige manuelle Dateneingabe mehr erforderlich ZuverlÃ¤ssiges Artikelmatching Nahtlose ERP Integration Dokumente auslesen VorgÃ¤nge werden von der KI automatisiert ausgelesen und relevante Informationen extrahiert. Egal ob PDFs, E-Mails, komplexe AnhÃ¤nge oder handschriftliche Notizen. + Keine zeitaufwÃ¤ndige manuelle Dateneingabe mehr erforderlich ZuverlÃ¤ssiges Artikelmatching Nahtlose ERP Integration Dokumente auslesen VorgÃ¤nge werden von der KI automatisiert ausgelesen und relevante Informationen extrahiert. Egal ob PDFs, E-Mails, komplexe AnhÃ¤nge oder handschriftliche Notizen. + Keine zeitaufwÃ¤ndige manuelle Dateneingabe mehr erforderlich ZuverlÃ¤ssiges Artikelmatching Nahtlose ERP Integration So funktioniert's So funktioniert's Wie Comena Bestellungen verarbeitet Wie Comena Bestellungen verarbeitet Weitere LÃ¶sungen Weitere LÃ¶sungen Funktionen, die die Plattform erweitern Funktionen, die die Plattform erweitern Automatisierte UmschlÃ¼sselung von Ausschreibungen Ausschreibungen und Excel-Listen mit Tausenden Positionen kÃ¶nnen auf die passenden Artikel des Artikelstamms umgeschlÃ¼sselt werden.â¨â¨â¨â¨ + Ausschreibungen schneller und mit weniger Zeitaufwand bearbeiten Demo buchen Demo buchen Automatisiertes Erfassen von AuftragsbestÃ¤tigungen Comena liest AuftragsbestÃ¤tigungen aus, gleicht sie mit den Lieferantenbestellungen ab, und warnt bei Abweichungen. + Einkauf kann schneller auf Abweichungen reagieren Demo buchen Demo buchen Kundenstimmen Was unsere Kunden sagen 75% Zeitersparnis \"Bis jetzt kÃ¶nnen schon 95 % aller AuftrÃ¤ge Ã¼ber Comena abgearbeitet werden, ein GroÃteil davon sogar voll automatisch und das ",
+   "email_candidates": [
+    {
+     "email": "jiehua.wu@comena.ai",
+     "where": "https://comena.ai/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "51e29dc37f",
+   "company": "Elyra",
+   "website": "https://www.elyrasystems.com/",
+   "title": "Engineering (YC Spring 2026)",
+   "location": "Stockholm, Stockholm County, Sweden",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. AI Reservation System for Restaurants Elyra is an AI reservation system for restaurants. Instead of missing 40% of incoming phone calls and taking days to reply to emails, leaving over $100,000 in bookings on the table every year, restaurants get AI agents that answer every call and email instantly, 24/7, connected to a reservation system that optimizes table placements in real time so empty seats get filled with the right guests. Felix and Alan met in primary school in Stockholm and have been building things together ever since. We launched with a single restaurant and within weeks they hit record occupancy, bookings they used to miss were suddenly being captured automatically, and empty Tuesday nights started filling up. Today we power top restaurants groups. There are over 1 million restaurants in the US and Europe alone. The average restaurant loses $100K+ a year to missed calls and slow email replies. At our current pricing, that's a $10B+ market opportunity, and we're the only system that handles the call, the email, and the table allocation in one place. B2B, Sweden, Europe",
+   "site_text": "[https://www.elyrasystems.com/]\nElyra | AI-Powered Restaurant Operations AI-powered restaurant operations Every guest remembers how you made them feel. Elyra turns every interaction into a personal experience, from the first call to the last course. The system that makes guests come back. Book a demo See the platform Backed by Trusted by leading restaurant groups The finest restaurants use Elyra for Voice Booking Email Handling Guest Intelligence Table Allocation Revenue Growth Campaign Outreach Explore Platform How it works We follow the heartbeat of your restaurant. Before service Calls answered. Emails replied. Tables optimized. Before the first guest walks in, every interaction is already handled. Peak hours Every seat filled with the right guest. Walk-ins seated in seconds. Regulars greeted by name. Your team focuses on hospitality. After hours The kitchen closes, but the relationship doesn’t. Follow-ups sent. Feedback captured. Tomorrow’s guests already booked. By the numbers 0 + Hours saved per week 0 /7 AI availability + 0 % Guest return rate $ 0 Monthly revenue uplift One platform Give every guest Michelin-grade service. Guest Intelligence We learn everything about your restaurant. Menus, guest preferences, booking history, service style. Elyra builds a living profile so every interaction feels personal. Voice Agent Answer every guest. Always. AI that speaks like your best host. Handles reservations, answers questions, and knows your availability in real time. Email Concierge Replies that sound like you wrote them. Confirmations, follow-ups, special requests. Handled instantly with your restaurant’s voice and style. Our philosophy The most valuable guest is the one who comes back. Great restaurants are built on relationships. Every returning guest costs less to serve, spends more, and brings others. Yet most restaurants lose touch the moment a guest walks out. Elyra changes that. Every call, email, and booking becomes a data point that makes the next visit better. Preferences, celebrations, history. Your team has the context to make every visit feel personal. A system that makes your restaurant a favourite spot, because every interaction feels like coming home. 92.4% Guest satisfaction +12% since launch Frequently asked questions. Everything you need to know about bringing AI into your restaurant. Is Elyra a reservation system? + What happens to calls outside service hours? + How does the AI learn about my restaurant? + Will guests know they are talking to AI? + How quickly can we get started? + Ready to make every guest a regular? See how Elyra transforms your restaurant's operations and guest relationships in a 15-minute demo. Book a demo Or call +46 76 896 4770\n\n[https://www.elyrasystems.com/blog]\nTable Talk | Elyra — Where AI Meets Hospitality | Elyra The Elyra Journal Table Talk Where AI meets hospitality Conversations on hospitality, technology & the art of making guests return All AI & Automation Operations Guest Experience Comparisons Comparisons The True Cost of OpenTable in 2026 OpenTable charges restaurants $1–$7.50 per seated diner, plus $249–$899/month. For a 100-cover restaurant, that's $12K–$90K/year. Here's the full breakdown. 8 min read Guest Experience How Omakase Restaurants Are Rethinking the Booking Experience With 8-12 seats and $200+ per head, omakase restaurants can't afford no-shows or mismatched expectations. The best ones are turning the booking itself into the first course. 7 min read AI & Automation Why Your Restaurant Misses 43% of Phone Calls Nearly half of restaurant calls go unanswered during peak hours. Each missed call is a lost reservation, a frustrated guest, or a catering inquiry that goes to your competitor. 6 min read Operations Large Party Booking: The Revenue You're Leaving Behind Large party bookings generate 3-5x the revenue of regular tables but most restaurants make them harder to book, not easier. Here's how to fix that. 5 min read Get restaurant insights weekly Join rest",
+   "email_candidates": [
+    {
+     "email": "hello@elyrasystems.com",
+     "where": "https://www.elyrasystems.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "5217362e8c",
+   "company": "Laminar",
+   "website": "https://laminar.com",
+   "title": "Engineering (YC Fall 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. Enterprise systems delivery without the turbulence. Laminar analyzes, builds, and governs the systems that run your business, from SMBs to Fortune 10 Enterprise orgs. Powered by Implementation Intelligence™. B2B, Enterprise Software, AI, B2B, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.laminar.com/]\nHome | Laminar The unified platform for enterprise transformation. Evolve your systems and processes at the pace of your business Industry-native. Outcome-priced. Laminar maps , builds , and governs the systems that run your business, powered by Implementation Superintelligence™ . Request a Demo 100+ enterprise teams trust Laminar with mission-critical delivery Millions of hours of experience built into every change. Reimagining \"SI\": systems integration to superintelligence. Built from real delivery work, expert practice, and industry-level patterns across the Laminar network, we deeply understand how your applications are configured, which changes fail and why, what dependencies hide between systems, and what holds up at scale. Total projects delivered: 2,500+ Total hours of experience: 1,000,000.000 Outcome-based pricing: sharing risk to bridge the gap between AI strategy and AI reality. Learn More A new model for enterprise delivery. Frontier perspectives on the implementation layer. CIOs and technology leaders in Laminar's network explain why enterprise software needs a new model for AI-era delivery, one that aligns itself directly with customer value and impact. Paul Heard CIO at Zuora, Hewlett-Packard, and DaimlerChrysler “ When an SI leaves a large project, lots of knowledge and experience walks out the door with them. What I would like is to be enabled to continue to run that application for the next five to ten years. ” One end-to-end solution from request to outcome. Business and IT, finally on the same page and pace. Our unified platform for enterprise transformation productizes the Implementation Superintelligence™ gained through thousands of successful delivery projects and millions of hours of integration experience in high-stakes environments. One end-to-end solution from request to outcome. Business and IT, finally on the same page and pace. Our unified platform for enterprise transformation productizes the Implementation Superintelligence™ gained through thousands of successful delivery projects and millions of hours of integration experience in high-stakes environments. 1 Map processes Laminar Shift Automatically map your business processes and identify bottlenecks in real-time. Modernize and replatform critical systems without starting over. The map comes from real field history, not workshops: every variant, dwell time, and backward move, with dollars attached to each stage. Replatforming Future state Migration orchestration Learn More 2 Optimize systems Laminar Profile Diagnose and optimize your enterprise systems and spend, continuously. Score fidelity, surface risk, and create the remediation roadmap. Every finding, from governor limits to access resolved to named users, clicks through to the class or flow behind it. Evidence you can open, not a slide. Fidelity score Evidence-backed findings 30/60/90 roadmap Learn More 3 Implement changes Laminar Flow Autonomously implement and productionize configuration and code changes. Turn findings, requests, and roadmaps into routed execution. Each work item gets its own branch and sandbox. An agent drafts the change there; a named person approves what ships, and deployments are computed against the live org, never branch-to-branch. Work intake AI agents Expert routing Learn More 4 Accelerate transformation Laminar Ascent Accelerate your transformation into an AI-native enterprise with built-in governance. Apply approvals, validation, audit, and rollback controls throughout Laminar. Blocking checks apply to everyone, admins included. The audit record is written with the change, not assembled after, so when your auditor asks, the answer already exists. Governance layer Risk controls Audit trail Learn More Customers get the A-team, every single time. The top 0.1% of specialist talent, proven inside the Fortune 10. Laminar pairs our platform with technical, industry, and delivery experts at the forefront of the world's largest AI transforma",
+   "email_candidates": [
+    {
+     "email": "michaeljearnshaw@gmail.com",
+     "where": "GitHub commits (laminar)",
+     "kind": "personal",
+     "name": "michael",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "6c631e96d0",
+   "company": "Intryc",
+   "website": "https://intryc.com",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 12. Intryc is the unified quality assurance, governance, and training… Enterprises have millions of customer interactions every year but are only able to monitor less than 2-5% of those. The rest 95% is unmonitored risk across compliance, customer experience, product defects, and agent performance. With AI agents widely deployed across customer support organisations this problem increases exponentially. Every company needs a unified layer that allows them to monitor and govern all customer interactions with customer support teams, humans and AI. Intryc is building this layer. Customer Success, Analytics, Customer Support, Operations, B2B, Operations, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.intryc.com/]\nIntryc: Close the Loop on Customer Experience Skip to content 🎉 Announcing “The 90% Accuracy Promise” Learn More → 🎉 Announcing “The 90% Accuracy Promise” - or your money back Learn More Login Book a Demo Book a Demo Quality Assurance and Training for Customer Support Sales CSM Voice and Chat AI Customer Support Book a Demo Trusted by world-class teams who are obsessed with their customers’ experience Customer experience should be better by now. CX has never had more powerful tools but cluttered workflows are keeping teams from using them well. Intryc turns fragmented CX workflows into one connected system for QA, training, coaching, and insights. Auto QA Simulations Auto Coaching Full Insights All the best CX teams are handling quality with Intryc Jun 9, 2026 06:44:22 via conversation Tracy Whitehead (waltersmaria@smith.com) I want to transfer a $5,200 balance from my Chase credit card to your Platinum card. What's your current balance transfer rate? Jun 9, 2026 06:47:15 (15 seconds later) via conversation Intryc Reviewee (reviewee@intryc.com) Hello! I'd be happy to help with your balance transfer. Our Platinum card currently offers 0% APR on balance transfers for 18 months, with a 3% transfer fee. Jun 9, 2026 06:49:33 (2 minutes later) via conversation Tracy Whitehead (waltersmaria@smith.com) 0% for 18 months sounds great! So the fee would be about $156 on the $5,200 transfer? Jun 9, 2026 06:52:18 (3 minutes later) via conversation Intryc Reviewee (reviewee@intryc.com) Exactly right! The 3% fee would be $156. After the promotional period, the rate goes to our standard variable APR, currently 16.99%. Do you have enough available credit on your Platinum card? Empathy and tone of voice Root Causes No acknowledgment Missing greeting Jun 9, 2026 06:44:22 via conversation Tracy Whitehead (waltersmaria@smith.com) I want to transfer a $5,200 balance from my Chase credit card to your Platinum card. What's your current balance transfer rate? Jun 9, 2026 06:47:15 (15 seconds later) via conversation Intryc Reviewee (reviewee@intryc.com) Hello! I'd be happy to help with your balance transfer. Our Platinum card currently offers 0% APR on balance transfers for 18 months, with a 3% transfer fee. Jun 9, 2026 06:49:33 (2 minutes later) via conversation Tracy Whitehead (waltersmaria@smith.com) 0% for 18 months sounds great! So the fee would be about $156 on the $5,200 transfer? Jun 9, 2026 06:52:18 (3 minutes later) via conversation Intryc Reviewee (reviewee@intryc.com) Exactly right! The 3% fee would be $156. After the promotional period, the rate goes to our standard variable APR, currently 16.99%. Do you have enough available credit on your Platinum card? Empathy and tone of voice Root Causes No acknowledgment Missing greeting Insights Root causes, surfaced live Intryc's AI surfaces the root causes of client frustration in real time. Explore Insights → Log-in issue via voice-outbound Restart Sophie 03:18 Log-in issue via voice-outbound Restart Sophie 03:18 Simulations Train agents before they go live Realistic AI simulations reduce onboarding time by half and risk by 40%. Explore Simulations → Coverage Agent Ran 2 min ago Active Flagged 3 reviewers below 85% Drafted 2 coaching sessions Why did CSAT drop last week? Intryc AI Two reviewers drove 68% of the drop. Coverage Agent Ran 2 min ago Active Flagged 3 reviewers below 85% Drafted 2 coaching sessions Why did CSAT drop last week? Intryc AI Two reviewers drove 68% of the drop. Intryc AI Put AI to work across your QA Autonomous agents keep quality moving in the background, while your AI Assistant answers anything on demand. Explore Intryc AI → 5 Jul '26 171 Evaluations 100% 5 Jul '26 171 Evaluations 100% AutoQA Audit every conversation AI scorecards and smart sampling evaluate every agent for a guaranteed 90% accuracy. Explore AutoQA → Danielle J. July 2026 Scheduled 🏷️ 20260701_ticket_40090 +4 Product Knowledge Response Time Internal notes - Critical information Da",
+   "email_candidates": [
+    {
+     "email": "reviewee@intryc.com",
+     "where": "https://www.intryc.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "6ea7b51f2d",
+   "company": "Hey Telo",
+   "website": "https://www.heytelo.com",
+   "title": "Engineering (YC Winter 2025)",
+   "location": "BY, Germany",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. Voice AI for Home Services Voice AI for Home Services B2B, Germany, Europe",
+   "site_text": "[https://www.heytelo.com/]\nHey Telo â Die Telefon-KI fÃ¼r Haustechnik-Betriebe Die Telefon & Email-KI fÃ¼r Haustechnikbetriebe Die Telefon & Email-KI fÃ¼r Haustechnikbetriebe Die Telefon & Email KI fÃ¼r pds und KWP. Die Telefon & Email KI fÃ¼r pds und KWP. Hey Telo nimmt Ihre Anrufe persÃ¶nlich entgegen, ruft Kunden wegen Terminen an und trÃ¤gt alles automatisch in Ihre Handwerkersoftware ein. Spezielle Anliegen? Leitet die KI direkt an Ihr Team weiter. Hey Telo nimmt Ihre Anrufe persÃ¶nlich entgegen, ruft Kunden wegen Terminen an und trÃ¤gt alles automatisch in Ihre Handwerkersoftware ein. Spezielle Anliegen? Leitet die KI direkt an Ihr Team weiter. Offizieller Partner von Offizieller Partner von Demo-Termin buchen Demo-Termin buchen HÃ¶rbeispiel anhÃ¶ren See Finns in action HÃ¶rbeispiel anhÃ¶ren See Finns in action Kundenanfrage Heizungsausfall Beratungstermin Klimaanlage Terminplanung JÃ¤hrliche Wartung 300+ Betriebe vertrauen auf Hey Telo Testzugang anfordern Kundenanfrage Heizungsausfall Beratungstermin Klimaanlage Terminplanung JÃ¤hrliche Wartung 300+ Betriebe vertrauen auf Hey Telo Testzugang anfordern Sechs Wege, wie Hey Telo Ihren Betrieb unterstÃ¼tzt Sechs Wege, wie Hey Telo Ihren Betrieb unterstÃ¼tzt Kundendienst Anrufe entgegennehmen, Termine planen, Monteure disponieren. Mehr erfahren Anrufprotokoll Eingehend Kontakt : Herbert Rompel | +4912345678 Zeitpunkt : 04.06.2026, 18:39 Aktion : Termin gebucht, Monteur zugewiesen Grund : StÃ¶rung/Defekt melden Zusammenfassung Kundendienst Anrufe entgegennehmen, Termine planen, Monteure disponieren. Mehr erfahren Anrufprotokoll Eingehend Kontakt : Herbert Rompel | +4912345678 Zeitpunkt : 04.06.2026, 18:39 Aktion : Termin gebucht, Monteur zugewiesen Grund : StÃ¶rung/Defekt melden Zusammenfassung KI-Zentrale RÃ¼ckrufe aufnehmen, Anrufe weiterleiten. Anrufer landet beim richtigen Mitarbeiter oder bekommt eine strukturierte RÃ¼ckruf-Erfassung. Mehr erfahren KI-Zentrale RÃ¼ckrufe aufnehmen, Anrufe weiterleiten. Anrufer landet beim richtigen Mitarbeiter oder bekommt eine strukturierte RÃ¼ckruf-Erfassung. Mehr erfahren KI-Routenplanung Der KI-Disponent: Wartungstermine planen und automatisch vereinbaren. Mehr erfahren KI-Routenplanung Der KI-Disponent: Wartungstermine planen und automatisch vereinbaren. Mehr erfahren KI-Routenplanung Der KI-Disponent: Wartungstermine planen und automatisch vereinbaren. Mehr erfahren Angebotsanfragen vorqualifizieren KI erfasst Art der Anfrage, Umfang, wichtige Details und Kontaktdaten. Mehr erfahren GesprÃ¤chsablauf FRAGE STELLEN Anliegen FRAGE STELLEN Bestehendes Angebot oder neue Anfrage? BERATEN FRAGE STELLEN Kontaktname Angebotsanfragen vorqualifizieren KI erfasst Art der Anfrage, Umfang, wichtige Details und Kontaktdaten. Mehr erfahren GesprÃ¤chsablauf FRAGE STELLEN Anliegen FRAGE STELLEN Bestehendes Angebot oder neue Anfrage? BERATEN FRAGE STELLEN Kontaktname KI fÃ¼r den AuÃendienst Monteure kÃ¶nnen sich auch mit Hey Telo unterhalten und direkt auf die Wissensdatenbank zugreifen, welche bspw. mit Preislisten, Bedienungsanleitungen, etc. gefÃ¼llt ist. Mehr erfahren KI fÃ¼r den AuÃendienst Monteure kÃ¶nnen sich auch mit Hey Telo unterhalten und direkt auf die Wissensdatenbank zugreifen, welche bspw. mit Preislisten, Bedienungsanleitungen, etc. gefÃ¼llt ist. Mehr erfahren E-Mail-KI Eingehende E-Mails werden klassifiziert und automatisch beantwortet oder weitergeleitet. Mehr erfahren Neue Nachricht An Kunde 0412 Betreff Ihre StÃ¶rungsmeldung ist bei uns einge Guten Tag, vielen Dank fÃ¼r Ihre Nachricht. Wir haben Ihre Meldung zu einem defekten bzw. stark tropfenden Waschbecken erhalten. E-Mail-KI Eingehende E-Mails werden klassifiziert und automatisch beantwortet oder weitergeleitet. Mehr erfahren Neue Nachricht An Kunde 0412 Betreff Ihre StÃ¶rungsmeldung ist bei uns einge Guten Tag, vielen Dank fÃ¼r Ihre Nachricht. Wir haben Ihre Meldung zu einem defekten bzw. stark tropfenden Waschbecken erhalten. Testzugang anfordern Wir integrieren uns in ",
+   "email_candidates": [
+    {
+     "email": "info@heytelo.com",
+     "where": "https://www.heytelo.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "7906fb61ff",
+   "company": "Tabula",
+   "website": "https://www.tabula.de",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "Berlin, Berlin, Germany",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 13. Autonomous Accounting Software We build autonomous accounting software. Every company should have financial insights at a fingertip – not just big enterprises with dedicated finance teams. For the first time, AI makes this possible. In the intelligence age, business owners with no financial expertise will get access to all the latent knowledge hidden in their books. Businesses will operate with a level of clarity, confidence, and speed that is almost unimaginable today. B2B, Finance and Accounting, Germany, Europe",
+   "site_text": "[https://tabula.de/]\nTabula – KI-Buchhaltungssoftware für Steuerkanzleien mit DATEV-Integration Für Steuerkanzleien Für Unternehmen Superkräfte für Buch halter Tabula ist die erste KI-Plattform, die Buchhaltern hilft, zu Buchhaltungsmanagern zu werden. Sie automatisiert komplexe Buchungen mit hoher Sicherheit, ermöglicht effiziente Kollaboration mit Mandanten und ist nahtlos mit DATEV integriert. Gespräch vereinbaren Mehr als 400 Steuerkanzleien und tausende Unternehmen nutzen bereits Tabula K & P Steuer 142 Mandanten Buchhaltung Unternehmen Einstellungen Support CW Clara Winter Café GmbH / Übersicht Suchen Übersicht Letzte 7 Tage Letzte 7 Tage DATEV-Export Einnahmen +12,5 % 21.390 € Ausgaben −20 % 14.380 € Neue Belege 111 Automatisiert 90 / 111 81 % KI-Report Letzte 7 Tage Verbucht gerade 4 neue Belege 90 Belege automatisch verbucht. 13 Belege fehlen. Mandant erinnert. 3 Ungültige Belege. Mandant benachrichtigt. 4 Duplikate automatisch archiviert. 62 Bankbuchungen automatisch zugeordnet. Aufgaben 21 offen 18 Belege prüfen Prüfen 3 Bankbuchungen prüfen Prüfen Nachrichten 2 ungelesen Amazon · 34,29 € 10:23 Habe meine USt-IdNr. hinterlegt! Pizzeria · 89,42 € 09:45 Ich habe den Beleg verloren. JB Telekom · 59,95 € Gestern Rechnung ist jetzt hochgeladen. DATEV-Schnittstellenanbieter KI, die mitdenkt Tabula ist die erste KI, die ein echtes Verständnis steuerlicher Sachverhalte hat. Dadurch werden auch komplexe Buchungen ab Tag 1 automatisiert. Gespräch vereinbaren Validiert Adressat... Prüft augewiesene Vorsteuer... Prüft auf Privatausgaben... Analysiert selbstständige Nutzbarkeit... Recherchiert unklares Produkt... Bucht Leergut separat... Prüft auf Versicherungssteuer... Erkennt steuerlichen Leistungsort... Prüft auf Reverse Charge... Ordnungsmäßigkeit Validiert Adressat... Sachkonto Steuerschlüssel KI, die mitdenkt Tabula ist die erste KI, die ein echtes Verständnis steuerlicher Sachverhalte hat. Dadurch werden auch komplexe Buchungen ab Tag 1 automatisiert. Gespräch vereinbaren Validiert Adressat... Prüft augewiesene Vorsteuer... Prüft auf Privatausgaben... Analysiert selbstständige Nutzbarkeit... Recherchiert unklares Produkt... Bucht Leergut separat... Prüft auf Versicherungssteuer... Erkennt steuerlichen Leistungsort... Prüft auf Reverse Charge... Ordnungsmäßigkeit Validiert Adressat... Sachkonto Steuerschlüssel Keine fehlenden Belege Die KI arbeitet mit Ihrem Mandanten auf Tabula zusammen, um die Vollständigkeit, Zeitgerechtheit und Ordnungsmäßigkeit aller Belege sicherzustellen. Falls es weitere Rückfragen gibt, können Buchhalter mit ihrem Mandanten kommunizieren, ohne ihren Workflow zu unterbrechen. Gespräch vereinbaren Banktransaktionen geprüft 142 Fehlende Belege erkannt 3 Mandant kontaktiert vor 2 Stunden Belege nachgereicht Wartet auf Mandant Belege verbucht Banktransaktionen geprüft 142 Fehlende Belege erkannt 3 Mandant kontaktiert vor 2 Stunden Belege nachgereicht Wartet auf Mandant Belege verbucht Keine fehlenden Belege Die KI arbeitet mit Ihrem Mandanten auf Tabula zusammen, um die Vollständigkeit, Zeitgerechtheit und Ordnungsmäßigkeit aller Belege sicherzustellen. Falls es weitere Rückfragen gibt, können Buchhalter mit ihrem Mandanten kommunizieren, ohne ihren Workflow zu unterbrechen. Gespräch vereinbaren Eine All-in-One-Plattform, integriert mit DATEV Auf Tabula arbeiten Buchhalter mit Mandanten zusammen. Mandanten erfreuen sich an modernster KI: ohne manuelle Vorarbeit sehen, welche Belege fehlen, Zahlungsfristen im Blick haben, Sammelüberweisungen auslösen und E-Rechnungen schreiben. Buchhalter profitieren von einem nahtlosen Prozess ohne Excel, E-Mail und manuelle Importe: startend bei Mandanten und endend in DATEV. Gespräch vereinbaren Steuerkanzlei Unternehmen Belege buchen Automatische Belegsortierung Kreditoren mit KI buchen Debitoren mit KI buchen Bank buchen Alle Banken anbinden Kreditkarten-PDF Import KI-Zuordnung & Verbuchung Mit Mandanten zusammenarbeiten Fehlende Belege automatisieren Rückfragen oh",
+   "email_candidates": [
+    {
+     "email": "jobs@tabula.de",
+     "where": "https://tabula.de/jobs",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "8e158aa9e6",
+   "company": "Asha Health",
+   "website": "https://asha.health",
+   "title": "Engineering (YC Fall 2024)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 9. We help medical practices become AI-native It's the year of AI agents for healthcare, but we're building what comes after. Healthcare, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.asha.health/]\nAsha Health - Launch Your AI Clinic Backed by Y Combinator Backed by Y Combinator The AI OS for Healthcare The AI OS for Healthcare AI agents will be transformative for healthcare. But what comes after? Want to view our full website? Request an access code by emailing info@asha.health. Want to view our full website? Request an access code by emailing info@asha.health. Want to view our full website? Request an access code by emailing info@asha.health.",
+   "email_candidates": [
+    {
+     "email": "info@asha.health",
+     "where": "https://www.asha.health/",
+     "kind": "generic"
+    },
+    {
+     "email": "founders@asha.health",
+     "where": "https://www.asha.health/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "93da77bbc0",
+   "company": "Rimward",
+   "website": "https://rimward.ai/",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "Paris, Île-de-France, France",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 1. Solar farm security software for existing cameras Rimward helps solar asset managers detect intrusions using the cameras already installed across their sites. It flags camera failures and coverage gaps, and gathers video evidence from multiple cameras to help their team or monitoring provider filter out false alarms and decide when to act. Machine Learning, Computer Vision, B2B, Security, Enterprise, B2B, Security, France, Europe, Remote, Partly Remote",
+   "site_text": "[https://rimward.ai/]\nSolar Farm Security Software | Rimward Skip to content Rimward EN EN Â· English FR Â· FranÃ§ais Request a site assessment Site assessment â° Built for PV asset managers Backed by Y Combinator Know which solar sites are really protected tonight. Security software for solar portfolios. Rimward checks the cameras already on your sites, shows where coverage has gaps, and sends your monitoring team one clear alert, with evidence from every camera that saw it. Before After Ready Ready Degraded Unknown Ready Ready Ready Unprotected Kastellaun SÃ¼d Unprotected Kastellaun SÃ¼d Rimward Â· Continuous verification Continuous verification 48 sites Â· 14:32 Unprotected 3 Degraded 8 Unknown 2 Ready 35 Kastellaun SÃ¼d DE-RP Â· 12.4 MWP 2 cameras unreachable since 22:41 1 of 3 unprotected portfolio_cameras_2026_v14_FINAL(2).xlsx Shared with 7 people A B C D E F 1 Site Status NVR / Access Credential Last check Contact 2 Kastellaun SÃ¼d maybe online 10.42.7.11:554 KeePass: SOL-17 04 Nov M. Braun Â· 0151â¦ 3 Havelland A ? 192.168.1.64 admin / â¢â¢â¢â¢â¢â¢ ? guard after 19:00 4 Marchfeld West no video VPN â ask Tomas â never Tomas Â· on leave 5 Beauce Nord login failed 10.10.3.7 changed? 12 Jun J. Corbin Â· 06â¦ 6 Ebro II unknown ??? ask installer â installer gone 7 Aljustrel Sul offline? 10.8.12.4:88 viewer / â¢â¢â¢â¢â¢â¢ 27 Jan Rui Â· WhatsApp 8 Puglia Est cam 3 only DVR web page â¢â¢â¢â¢â¢â¢ 02 Sep ring the gate 9 Charente Ouest ok I think? 10.8.12.51 â¢â¢â¢â¢â¢â¢ 19 Aug nobody on site 10 Kastellaun Nord timed out 10.42.7.19:554 â¢â¢â¢â¢â¢â¢ â see contact_list 11 Trebbin West ok? 10.8.12.62 â¢â¢â¢â¢â¢â¢ 21 Aug call the installer 12 Almendralejo II no answer VPN â central â¢â¢â¢â¢â¢â¢ 03 Feb check access 13 Vejle Ãst ok 10.8.12.73 â¢â¢â¢â¢â¢â¢ 17 Sep to confirm Site Status Last check 1 Kastellaun SÃ¼d maybe online 04 Nov 2 Havelland A ? ? 3 Marchfeld West no video never 4 Beauce Nord login failed 12 Jun 5 Ebro II unknown â 6 Aljustrel Sul offline? 27 Jan 7 Puglia Est cam 3 only 02 Sep 8 Charente Ouest ok I think? 19 Aug 48 rows Last full check: never portfolio_status cam_checklist contact_list No video? Call John (SCADA) No video? Call John Streams â central VPN first Gate works â confirm with O&M â¹ âº Compare todayâs manual checks with Rimward: slide to reveal Before Â· Spreadsheet and phone calls After Â· Portfolio preview Request a site assessment â See a sample site report â Free site assessment Read-only CCTV access No new hardware to start Keep your monitoring provider Live and in-discussion pilots France 18 ha Â· 20 MWp Live France 9 ha Â· 12 MWp In discussion Your site Yours â The control gap You paid for coverage. You got footage. Different teams. The same unanswered security questions. Site manager SMS Â· Mon 08:12 Does the moved camera still cover the fence? another manual check Finance Email Â· Fri 17:50 Callout spend is up again. Which were real? another manual review Insurer Email Â· At renewal What has changed on site security since last year? no current record to share And theft is accelerating. Copper reaching $14.5k/t in 2026 (+50%) IEA 2,300 telecom cable thefts in 2024 (+35%) Orange Â· France Rail theft losses ~â¬20M in 2024 (doubled) SNCF RÃ©seau Â· France 169 renewables offences (+59% in 2025) DeterTech Â· UK Rimward in action Three questions, answered. The same cameras, checked continuously. Each team gets the answer it was missing. Site manager Does the moved camera still cover the fence? Rimward compares every camera with the siteâs baseline, day and night. When one moves or drops, the site plan shows the stretch of fence it no longer covers. Site plan Â· Coverage 8 cameras Â· 5 reporting Â· 1 gap Â· 118 m north fence uncovered 8 cameras Â· 1 gap Â· 118 m uncovered Fence Gate Reporting Offline Selected Coverage at Now Â· 28 Aug 14:02 Last 30 days Finance Callout spend is up again. Which were real? Animals, weather and ",
+   "email_candidates": [
+    {
+     "email": "contact@rimward.ai",
+     "where": "https://rimward.ai/contact/",
+     "kind": "generic"
+    },
+    {
+     "email": "careers@rimward.ai",
+     "where": "https://rimward.ai/careers/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  }
+ ]
+}

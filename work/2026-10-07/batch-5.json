@@ -1,0 +1,358 @@
+{
+ "leads": [
+  {
+   "id": "8c123ba96d",
+   "company": "SigNoz",
+   "website": "https://signoz.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Open source Observability Platform. Languages: Go, MDX, TypeScript. Topics: apm, application-monitoring, distributed-tracing, go, good-first-issue, jaeger, log, logs, metrics, monitoring, nextjs, observability, open-source, opentelemetry, prometheus, react, reactjs, self-hosted, tracing, typescript",
+   "site_text": "[https://signoz.io/]\nSigNoz | The Open Source Datadog Alternative For the complete documentation index, see llms.txt . Markdown versions are available by appending .md to documentation URLs. NEW SigNoz Launch Week 6.0 Observability for your team and AI agents. Powered by open standards. SigNoz Cloud brings your traces, metrics, and logs into one OpenTelemetry-native platform. Simple usage-based pricing, and the freedom to run on your infrastructure with Self-Hosted SigNoz. Get Started — Free Book a demo Alien Intelligence Armur AI Cisco FiscalNote Harmonic Inc. Racing & Sports The Website Engineer Xata Alien Intelligence Armur AI Cisco FiscalNote Harmonic Inc. Racing & Sports The Website Engineer Xata Alien Intelligence Armur AI Cisco FiscalNote Harmonic Inc. Racing & Sports The Website Engineer Xata “ At Armur AI, we removed all observability tools and have been using only one — SigNoz. ” Akhil Sharma , ARMUR AI View source “ We’ve been using SigNoz as a first-class dependency in our new agent framework. ” Inkeep , INKEEP View source See how teams use SigNoz to resolve issues faster and build with confidence. See all customers See all customers One-stop platform for all your observability needs. Move from symptoms to evidence across APM, logs, traces, infra, LLM telemetry, alerts, and dashboards. Explore Docs APM. P99, Apdex, database calls, and external calls per service. Logs. Columnar database search with trace correlation built in. Tracing. Load and analyze traces with up to a million spans. Alerts. Threshold, anomaly, and Apdex alerts on any telemetry signal. LLM Observability. OpenAI, Azure OpenAI, Gemini, OpenRouter, LiteLLM, and agent telemetry. Infra Monitoring. Kubernetes, hosts, and cloud metrics next to every service. Dashboards. Reusable templates for services, infra, cloud, databases, and LLM usage. Enterprise ready Built secure, from day one. Trust Center SOC 2 Type II compliance HIPAA compliance Agent-native observability, inside your IDE and SigNoz Cloud. Use the SigNoz MCP server to bring telemetry into coding agents, or use Noz, your AI teammate inside SigNoz Cloud, to investigate incidents, tune alerts, and build dashboards with the same production context your team sees. Explore MCP and Noz Work with your agents and more… New chat Noz I can help you understand and be the all-seeing eye over your entire infrastructure. What do you need? Why is my cache failing? Where can I monitor my k8s pods? How can I optimize my signoz bill? Ask Noz… Skills Fast Troubleshooting. No Context Switching. Debug faster with correlated signals Move from a latency spike to the related logs, traces, metrics, and spans without stitching together separate tools. Open a trace Instrument once with OpenTelemetry Use open standards instead of vendor SDKs, so instrumentation stays portable as your stack changes. Read the setup guide Query telemetry on a columnar store Use query builder, PromQL, and ClickHouse SQL on a fast columnar datastore built for high-cardinality observability data. Open query builder Give AI agents telemetry they understand One OpenTelemetry-native source gives agents a known schema for traces, logs, metrics, and services, so they can debug with less translation. Connect an agent Built for scale Get Started with SigNoz Cloud Get Started Teams For fast-scaling teams that need observability to scale with them. Starts from $49/month Enterprise For larger orgs that need data residency, compliance, and support. Starts from $4,000/month Visualization: noisy telemetry signals converging into a single clear signal with detected events. Pricing that stays predictable as you scale. Add teammates freely, monitor autoscaling infrastructure, and estimate telemetry costs before you commit. View Pricing No host-based pricing Autoscale infrastructure without turning every node, container, or host into a billing surprise. No user-based pricing Bring engineering, support, and on-call teams into SigNoz Cloud without seat limits or ",
+   "email_candidates": [
+    {
+     "email": "dev@signoz.io",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "hello@signoz.io",
+     "where": "https://signoz.io/",
+     "kind": "generic"
+    },
+    {
+     "email": "manika@signoz.io",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "Manika Malhotra",
+     "commits": 7
+    },
+    {
+     "email": "jugal@signoz.io",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "Jugal Kishore",
+     "commits": 17
+    },
+    {
+     "email": "dhruvahuja2k@gmail.com",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "Dhruv",
+     "commits": 3
+    },
+    {
+     "email": "avishek.kataria@signoz.io",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "Avishek",
+     "commits": 2
+    },
+    {
+     "email": "naman.verma@signoz.io",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "Naman Verma",
+     "commits": 6
+    },
+    {
+     "email": "goutham@signoz.io",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "gkarthi-signoz",
+     "commits": 2
+    },
+    {
+     "email": "vikrant@signoz.io",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "Vikrant Gupta",
+     "commits": 6
+    },
+    {
+     "email": "tushar@signoz.io",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "Tushar Vats",
+     "commits": 1
+    },
+    {
+     "email": "adityasinghssj1@gmail.com",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "Aditya Singh",
+     "commits": 9
+    },
+    {
+     "email": "nikhil.soni@signoz.io",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "Nikhil Soni",
+     "commits": 1
+    },
+    {
+     "email": "swapnil@signoz.io",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "Swapnil Nakade",
+     "commits": 3
+    },
+    {
+     "email": "praneeth.lingam@signoz.io",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "praneeth-signoz",
+     "commits": 3
+    },
+    {
+     "email": "shubham@signoz.io",
+     "where": "GitHub commits (SigNoz)",
+     "kind": "personal",
+     "name": "Shubham Dubey",
+     "commits": 18
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "0e2fb8775e",
+   "company": "Freya",
+   "website": "https://freyavoice.ai/",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "Istanbul, Istanbul, Turkey",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 14. Voice AI for Enterprises Fintech, Turkey, Middle East and North Africa",
+   "site_text": "[https://www.freyavoice.ai/]\nFreya TTS Adam V1 | And then, it spoke. Skip to content We built the world's most realistic voice model. #1 on Design Arena ↗ tr Book a demo And then, it spoke. The first voice was human. The next one is Freya. Hear the first voice Try now See the results BLIND ORDER Which one is human? Tap a flame to hear each voice. Hear both, then choose. Voice A is human Voice B is human Voice A Voice B Same sentence twice. One is a real person, the other is Freya. A voice model so human, the only honest benchmark is your ear. ADAM V1 / ENGLISH VOICE MODEL / 2026 And then, it spoke. 0 / 6 I / NEWS · DESIGN ARENA, AUDIO REALISM BENCH We built the world’s most realistic voice model. Freya TTS Adam V1 ranks first among models on Design Arena’s blind listening test, just behind human speech. Listeners hear two clips and pick the one that sounds more human. The ranking is an Elo rating. Public leaderboard ↗ Audio Realism Bench DesignArena by Intelligence 1462 Human speech 1419 Freya TTS Adam V1 1369 Bland Speech v3 1306 Cartesia Sonic 3.6 1202 Eleven v3 Conversational 1188 Cartesia Sonic 3.5 1150 Grok TTS 1101 Google Gemini 2.5 Pro TTS 1071 OpenAI GPT Realtime 2 Elo rating, blind listening test. Selected models. Measured 2026-09-16. II / TRY THE VOICES Hear them for yourself. Pick a call to hear it at once, or write your own line and press Generate speech. The first 1,000 characters a day are free, no sign-in. For more, and for an API key, sign in on the playground. Transfer support Payment plan Fraud check E Eve Female · English A Adam Male · English YOUR LINE 216 / 300 Thanks for calling and yes I can see your transfer left us this morning so it's just waiting on the other bank now and if it hasn't reached the account by tomorrow afternoon call me back and I'll follow it up myself. 0:00 / 0:12 Speed 0.75 × 1 × 1.25 × 1.5 × Generate speech Get an API key on the playground III / FREYA RESEARCH We build our own speech models. We work on speech synthesis, speech recognition and voice interaction. With FreyaTTS-small, we have released our code, model weights and evaluation dataset for anyone to use. Explore the research ↗ Freya Research 2026 Explore the model ↗ Turkish speech synthesis FreyaTTS-small Our compact model, trained from scratch to turn Turkish text into speech. Read the paper, inspect the results and run it on your own infrastructure. Audio output 48 kHz License Apache 2.0 Paper ↗ Explore in 3D ↗ Model ↗ Code ↗ Benchmark ↗ Help build the next model. Working on speech or language models? We'd like to meet you. Email us your research, code or the questions you want to explore. Apply to the research team ↗ We also support emerging researchers. Discover the YZ50 program ↗ HUMAN VS. FREYA Join the $100 challenge. Leave your email. We will let you know when it opens. Not now\n\n[https://www.freyavoice.ai/careers]\nCareers | Freya Skip to content We built the world's most realistic voice model. #1 on Design Arena ↗ tr Book a demo CAREERS Build voice AI that takes real calls We build voice assistants for banks and insurers on our own Turkish speech and language models. The team works from Istanbul. Open roles Every posting links to LinkedIn. Apply there, or write to us directly. Istanbul On-site Full-time Technical Account Manager Own the technical side of live customer accounts: integrations, incidents, production health and the plan for what comes next. Apply on LinkedIn Istanbul On-site Full-time Customer Success Manager Take a customer project from the first use case to live operation, and turn what the calls show into the next rollout. Apply on LinkedIn Istanbul On-site Full-time Agent Solutions Engineer Design and ship voice assistants with bank and insurance teams: connect the APIs, build the first version fast, improve it from real calls. Apply on LinkedIn Istanbul On-site Full-time AI Solutions Engineer Turn an open business problem into a working voice AI system, own delivery end to end, and keep it improvin",
+   "email_candidates": [
+    {
+     "email": "dev@freyavoice.ai",
+     "where": "https://www.freyavoice.ai/",
+     "kind": "personal"
+    },
+    {
+     "email": "hello@freyavoice.ai",
+     "where": "https://www.freyavoice.ai/",
+     "kind": "generic"
+    },
+    {
+     "email": "aerdempamuk@gmail.com",
+     "where": "GitHub commits (freyavoiceai)",
+     "kind": "personal",
+     "name": "ahmeterdempmk",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "1973cb4d62",
+   "company": "Saturn",
+   "website": "https://www.SaturnOS.com",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 18. Compliance and back office workflows for Wealth Managers. At Saturn, our mission is to make financial peace of mind more accessible by building the best operating system for wealth managers. Wealth and Asset Management is one of the world’s highest revenue-generating industries, yet it remains painfully inefficient. The sector relies heavily on disjointed legacy systems, manual human tasks, and a complex web of intermediaries, all of which increase costs. Saturn is an AI-powered operating system for wealth management built to automate investment research, streamline operations, and ensure compliance. Saturn creates the best version of truth, empowering investment advisors to work more efficiently, navigate complex regulatory landscapes, and deliver personalised, high-value services to their clients. Today, Saturn supports over 200 firms globally that manage more than £35bn in assets under management (AUM) and over 200,000 clients. As the industry grows, it faces massive operational challenges like bad tech, advisor retirements, regulatory pressure, an increased cost base, and transformational opportunities like great intergenerational wealth transfer and changing consumer needs. Saturn aims to be at the forefront of this transformation, driving the future of wealth management. Fintech, Generative AI, B2B, Fintech, United Kingdom, Europe, Remote, Partly Remote",
+   "site_text": "[https://www.saturnos.com/]\nSaturn | AI for Financial Advice Artificial Authority Report Should you trust AI to deliver financial advice? Artificial Authority Report Should you trust AI to deliver financial advice? Unlock your advice firm's potential Enhance client experience and boost your team's productivity. Augment your current processes and empower your team to deliver excellence at scale. Get in touch with us Watch Watch the state of ai in advice the state of ai in advice Trusted by over 500+ leading advice firms Trusted by over 500+ leading advice firms built for collaboration and productivity built for collaboration and productivity Streamline manual workflows by unifying siloed data sources, capturing high-quality client data and applying collaborative industry-specific AI to drive clarity and efficiency Our solutions Data Capture Solutions Discover client insights Turn unstructured data, meetings & documents into actionable insights that build trust. Unify everything into a single source of truth through deep data integrations for your back-office systems and platforms. Learn more WORKFLOW SOLUTIONS Streamline manual tasks From suitability letters to annual reviews, release your team from admin to focus exclusively on client value delivery. Create a seamless digital ecosystem where your technology operates in perfect harmony, scaling effortlessly with your growing business. Learn more GUARDIAN COMPLIANCE SUITE Enable compliance excellence Reinvent compliance from burden to advantage with intelligent risk management technology. Automate file checks & meeting observations to gain complete visibility of your firm's regulatory adherence across every client interaction. Learn more integrations Establish your single source of truth Seamless two-way integrations with back office, cashflow, portfolio, document management, and advice platforms ensure complete control of client data. The value is in strategy, it's in thoughtful planning, it's in project management, it's in solving problems. Saturn lets us focus on delivering that for our clients. Alan Smith CEO Capital Partners We had paraplanners attending client meetings to take notes, wasting a huge amount of time and resources. Saturn enabled us to stop that happening, whilst simultaneously improving the quality of our client data. Tracey Corbett Head of Technology Cooper Parry Our advisers might sit in 10 meetings a week. Before Saturn it took 30 to 45 minutes after every meeting to produce notes. That's five to seven hours a week saved. Jonathon Jay Managing Director Hoxton Wealth (UK) We see around a 50% improvement in efficiency when running a meeting using Saturn. In longer meetings we're looking at several hours saved which makes a huge cumulative difference across the business. Matt Fowler COO Paradigm Norton Once you begin your AI journey, it builds momentum. Saturn helped us develop the plan to bring everyone in the business together around shared goals which has created real energy around adoption. Rebecca Green Director of Operations Insight Financial Associates Empower your whole team The value is in strategy, it's in thoughtful planning, it's in project management, it's in solving problems. Saturn lets us focus on delivering that for our clients Alan Smith CEO Capital Partners We had paraplanners attending client meetings to take notes, wasting a huge amount of time and resources. Saturn enabled us to stop that happening, whilst simultaneously improving the quality of our client data. Tracey Corbett Head of Technology Cooper Parry Our advisers might sit in 10 meetings a week. Before Saturn it took 30 to 45 minutes after every meeting to produce notes. That's five to seven hours a week saved. Jonathon Jay Managing Director Hoxton Wealth (UK) We see around a 50% improvement in efficiency when running a meeting using Saturn. In longer meetings we're looking at several hours saved which makes a huge cumulative difference across the business. Matt Fowler COO Paradi",
+   "email_candidates": [
+    {
+     "email": "contact@heysaturn.com",
+     "where": "https://www.saturnos.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "careers@heysaturn.com",
+     "where": "https://www.saturnos.com/about-us",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "20bd8f51e8",
+   "company": "Bemlo",
+   "website": "https://www.bemlo.com/en",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Stockholm, Stockholm County, Sweden",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 13. AI-native scheduling and workforce management platform for healthcare Bemlo is an AI-driven workforce management platform, specifically tailored for the healthcare and social care sectors, with automated scheduling as its cornerstone. The system generates optimal schedules that balance care demands with employee preferences, freeing up valuable time for patient care, enhancing workplace satisfaction, and promoting more efficient collaboration within organizations. SaaS, B2B, Healthcare, Enterprise Software, AI, Healthcare, Healthcare IT, Sweden, Europe, Remote, Partly Remote",
+   "site_text": "[https://www.bemlo.com/en]\nBemlo Log in Book a Demo Book a Demo Toggle menu The modern workforce solution for healthcare Empowering healthcare organizations with an end-to-end, digital, and AI-driven staffing solution. Bemlo replaces emails, texts and spreadsheets with one platform that makes sure your shifts are filled on time and on budget. Book a Demo Proudly serving public and private healthcare organizations such as ...and many more Our Solutions Bemlo, Your End-to-End Staffing Solution Delivered as a cloud solution with mobile app for employees, no setup required for your IT team. Main Features AI Scheduling Create optimized rotas based on care needs and staff availability/preferences. Pools Distribute shifts to hourly employees across units and organizations. Agency Management Manage and verify external staffing with built-in compliance checks and invoicing integration. Supporting Features Enhanced Communication Facilitate clear communication between managers, employees, and agencies. Real-Time Statistics Gain insights into your staffing situation with our powerful analytics suite. Advanced Security Protect personal information with advanced IAM features and Single Sign-On (SSO). Marketplace Access Recruit from our marketplace of over 20,000 vetted healthcare professionals. The Platform A platform that ties staffing all together, not just another tool to maintain. Too often, staffing managers are juggling multiple tools and are stuck in manual processes to maintain safe staffing. Bemlo is the platform that ties everything together. Spreadsheets, phone calls and emails are a thing of the past. Sync your care need and configure scheduling rules; Bemlo will automatically schedule all your staff after their preferences with the help of AI. Remaining shifts are published to your shift bank where pool staff can apply to the vacant shifts and your permanent workforce can pick up extra work. Any unfilled shifts can with a click of a button be escalated to your procured agencies. The control and scheduling of agency staff is done in the same schedule as the permanent staff, no more switching between systems. A platform that ties staffing all together, not just another tool to maintain. Your Shifts Permanent Staff Pool Staff Agencies Why Bemlo The Benefits of Choosing Bemlo Increase Retention Allow your staff to work on their terms, reducing burnout and improving job satisfaction. With AI scheduling, your staff's preferences and well-being are taken into account, resulting in a happier and stronger workforce. Additionally, with Pools, you can offer regular or part-time staff more shifts and complete flexibility without incurring high administrative costs. Cost Savings Time Efficiency Compliance and Accuracy Book a Demo Ready to Transform Your Staffing? See how your organization can reduce costs and enhance employee satisfaction today. Book a Demo Alexander Björkenstam Co-Founder & CEO of Bemlo\n\n[https://www.bemlo.com/en/blog]\nBemlo | Blog Log in Book a Demo Book a Demo Toggle menu Blog Articles about Bemlo, social care, staffing issues, and other topics relevant for professionals and managers in healthcare. Company Bemlo completes acquisition of Vivium Bemlo and Vivium Join Forces: A Milestone for Healthcare Staffing March 22, 2024 Company Announcing our $3.4 million seed round Bemlo raises $3.3M to solve the European healthcare labour shortage July 29, 2022 Ready to Transform Your Staffing? See how your organization can reduce costs and enhance employee satisfaction today. Book a Demo Alexander Björkenstam Co-Founder & CEO of Bemlo",
+   "email_candidates": [
+    {
+     "email": "info@bemlo.com",
+     "where": "https://www.bemlo.com/en",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "228adb6fe5",
+   "company": "Hyperspell",
+   "website": "https://hyperspell.com",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Your Company Brain Hyperspell is your Company Brain. AI agents are brilliant and clueless. They ace any test and still have no idea how your company works. Hyperspell connects your tools and synthesizes documents and conversations into a live, permissioned context graph. Any agent can read from it and write back to it like a filesystem, with every fact traced to source. Machine Learning, SaaS, Data Engineering, AI, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.hyperspell.com/]\nHyperspell - Your company brain A brain for your company. Hyperspell connects your tools, builds a context graph, and surfaces it as a filesystem any agent can read. Book a demo The Company Brain Hyperspell connects to all your existing data sources, continuously synthesizes them into one permission-aware source of truth, and stays accurate in real-time. Features Enterprise Context in <5 mins Instant Context Connect your sources and the brain knows the people, projects, and decisions relevant to your agent. New context and skills propagate to every agent instantly. Any Source, Any Agent 50+ pre-built connectors. Compatible with every agent framework, or build your own with the universal API and SDK. Continuous Learning Just like human memory, Hyperspell improves with every query and every conversation. Relevant answers reinforce the context of future queries. Your AI agent is a clueless genius Your company runs on knowledge buried in Slack threads, Linear tickets, Google Docs, meeting transcripts, and leaves when the employee does. Today's best AI tools retrieve text fragments. They don't understand how information connects, what changed yesterday, or what actually matters to the task at hand. How it works Works out of the box Connect. Slack, Gmail, Hubspot, Notion, Linear, any tool your company uses. OAuth in, permissions inherited automatically. Synthesize. Hyperspell continuously synthesizes your data into one bespoke model of the company that is always up-to-date. Serve. Get structured results or LLM-ready summaries as markdown. Plug into Claude Code, Codex, Cursor, your custom agents, internal tools, or query it directly. Security Privacy & trust in the age of AI SOC 2 Certified Independent audit confirming that we safeguard your data with the highest security standards. GDPR Compliant Compliant with EU data protection, ensuring your personal information is handled with care and transparency. Testimonials What our customers say Adi Singh , Founder The Hyperspell company brain has been incredibly helpful for our customer support. Having one shared source of truth across our whole team and agents has let us automate most of our internal operations. Arjun Athreya , CTO Reliable data ingestion, search, monitoring, and tuning-for a small team, putting it together would have taken months. Hyperspell had a complete solution out of the box and saved us the heavy lift. Anna Yuan , CEO Working with Hyperspell was a no-brainer. Conor and Manu move incredibly fast, and when they commit, they deliver. Hyperspell helped us go from concept to paid pilots in just 48 hours. A company world model Give your agents the why, not just the what FAQ Frequently asked questions Why does AI need company data? To do real company work, agents need governed access to documents, email, meetings, and systems of record. Even the best models are confidently wrong about the business they're working in. Does Hyperspell store my data? We store summaries of that data and extracted memories in our memory network. End users have complete control over which data is being stored and can delete their data at any time. Neither we nor any of our third-party vendors use any of your data to train foundational AI models. Alternatives to using Hyperspell? You can build a RAG pipeline in-house. However, it only retrieves fragments, while Hyperspell maintains truth. We also permanently own the connectors, indexing, freshness, and permission model. Your team wires agents to the brain instead of maintaining ETL forever. What data sources does Hyperspell support? 50+ connectors including Slack, Gmail, Google Drive, Notion, Linear, Jira, Salesforce, HubSpot, GitHub, and more. New integrations ship weekly. For custom integrations, we'd love to hear from you! Drop us a line at hello@hyperspell.com and tell us about your use case. The best enterprise context you can get today, and it'll be better tomorrow. Book a demo Designed with your safety, priv",
+   "email_candidates": [
+    {
+     "email": "hello@hyperspell.com",
+     "where": "https://www.hyperspell.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "ben@hyperspell.com",
+     "where": "GitHub commits (hyperspell)",
+     "kind": "personal",
+     "name": "Ben Horowitz",
+     "commits": 9
+    },
+    {
+     "email": "david.szarzynski@gmail.com",
+     "where": "GitHub commits (hyperspell)",
+     "kind": "personal",
+     "name": "David Szarzynski",
+     "commits": 70
+    },
+    {
+     "email": "david@hyperspell.com",
+     "where": "GitHub commits (hyperspell)",
+     "kind": "personal",
+     "name": "David Szarzynski",
+     "commits": 10
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "2ad2109d1a",
+   "company": "cubic",
+   "website": "https://cubic.dev/",
+   "title": "Engineering (YC Spring 2025)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. AI-powered code review platform Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through. That's why we're building cubic: an intelligent code review platform that helps devs merge PRs 28% faster. How? - When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks. - You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes. Developer Tools, B2B, Engineering, Product and Design, United Kingdom, Europe",
+   "site_text": "[https://www.cubic.dev/]\nAI Code Review | cubic, #1 on independent benchmarks cubic is the #1 AI code reviewer on every independent benchmark . Read the report -> cubic is #1 on every independent benchmark Backed by AI code reviews for complex codebases cubic finds hard-to-find bugs in pull requests and your entire codebase. Try cubic for free Get a demo 2 click install No credit card needed Used by teams that can't afford bugs Read story Read story Read story Read story Read story Read story Read story Read story Backed by AI code reviews for complex codebases cubic finds hard-to-find bugs in pull requests and your entire codebase. Try cubic for free Get a demo 2 click install No credit card needed Used by teams that can't afford bugs Read story Read story “cubic immediately improved our review process. PRs move faster and quality is up.” Peer Richelsen Co-founder, Cal.com “cubic immediately improved our review process. PRs move faster and quality is up.” Peer Richelsen Co-founder, Cal.com Reviews that know your codebase Every PR is checked against your whole codebase and your team’s rules. The world's most accurate AI code reviewer Get inline feedback on every PR in seconds with the #1 ranked AI code reviewer. Context beyond the diff Flags changes that break code elsewhere, even in another repo. Learns from your senior engineers Turns their past review comments into rules that run on every PR. Your standards, in plain English Write rules the way you’d say them. cubic checks every PR. Start free Start free How cubic learns → How cubic learns → Keeps pull requests moving cubic approves safe PRs and gets the rest ready to merge. Auto-approve low-risk PRs Safe changes get approved automatically. Risky ones still go to you. Merge confidence, 1 to 5 Every PR gets a score for how safe it is to merge. Your coding agent fixes what cubic finds Claude Code, Codex and Cursor pick up cubic’s comments and fix them. The same review before you push Run cubic in your terminal and fix issues before you open a PR. Start free Start free How auto-approve works → How auto-approve works → Scan your code for bugs while you sleep Your codebase is full of bugs. cubic runs thousands of agents each night to find and fix them. Find serious bugs and vulnerabilities in your codebase. 1000s of AI agents continuously scan your codebase to find bugs and security issues. AI triage: automatically notify issue owners and create tickets. Fix in one-click. Background agents fix issues in one-click, and resolve tickets when a fix is merged. Repeat on a schedule or before a big release Run scans on a schedule to catch new issues. Request a scan Request a scan How scans work → How scans work → Review in GitHub, or in cubic Change github.com to cubic.dev in any PR link to open it in cubic. Watch demo Watch demo Download the desktop app → Download the desktop app → Two-way GitHub sync Comments and reviews show up in both places. Changes in reading order Related changes grouped and ordered, not alphabetical. The change at a glance See what changed in a diagram before reading code. Ask about the PR Ask questions or take a guided tour of the PR. Your review inbox Every PR waiting on you, in one place. Desktop app For macOS, Windows and Linux. Files changed · alphabetical lib/retry.ts package.json webhooks/stripe.test.ts webhooks/stripe.ts webhooks/types.ts Reading order 1 Payment retry 2 files 2 Types 1 file 3 Tests 1 file webhook → retry() → charge github.com cubic.dev World-class teams use cubic See how modern software teams use cubic to ship faster. cubic gets us to a better review more quickly —nit-picks are gone, you can feel the velocity increase. Marc Littlemore Engineering Manager, n8n Read the story → cubic immediately improved our review process—PRs move faster and quality is up. Reviews are a big bottleneck, and most AI tools only help you write code. Peer Richelsen Co-founder, Cal.com We use cubic for Better Auth and it’s been so good. We get a lot of PRs and",
+   "email_candidates": [
+    {
+     "email": "contact@cubic.dev",
+     "where": "https://www.cubic.dev/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "2f1679a497",
+   "company": "Brickwise",
+   "website": "https://www.brickwiseai.com",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 13. AI property manager for landlords and estate agents We've built an AI property manager that automates maintenance requests, handling tenant calls and messages 24/7, following up by chasing contractors and resolving issues. We're based in London, but have over 10 customers throughout the world, from San Francisco to Dubai. We have a reliable sales pipeline, including a >$1m cARR enterprise contract. Since our formation 6 months ago, we have raised over $3M in funding. Ismail, co-founder & CEO, is an ex-Founder at LiveLink AI, where he raised $3M, growing the platform to editing 150k videos per month. He also built his own prop firm to $500k ARR. Elias, co-founder & CTO, was an early engineer at a YC backed company, acquired by Google. While a senior engineer at Google for 5 years, he took the product from $50k ARR to >$100m. CS at Bristol, MBA from Imperial. Real Estate and Construction, Housing and Real Estate, United Kingdom, Europe",
+   "site_text": "[https://www.brickwiseai.com/]\nYour properties leased and maintained. 24/7. | Brickwise AI Try Alice free Book a demo Make your property managers AI powered Grow your portfolio without increasing headcount. Alice is the AI that does the hard stuff for you. Book demo Try Alice free Over 100k units managed New York, US California, US New Jersey, US Seattle, US Dubai, UAE Arcadia, US Leigh-on-Sea, UK Dubai, UAE Dubai, UAE Kitzscher, Germany New York, US California, US New Jersey, US Seattle, US Dubai, UAE Arcadia, US Leigh-on-Sea, UK Dubai, UAE Dubai, UAE Kitzscher, Germany 01 Leasing . From first enquiry to signed lease. Alice posts your listings, qualifies potential tenants and books viewings directly into your team's calendar. She works how your team does, from first call to lease signing. Learn about leasing 02 Maintenance . From report to resolution. Alice handles your front of house. She takes calls, logs issues, schedules repairs and keeps tenants updated. She escalates to your team based on your rules. Learn about maintenance 03 Rent collection . On time, with arrears chased. We handle your rent collection, and can make deductions before sending payments, giving you full and automated control. Alice also tracks and chases late payments. Learn about rent collection 04 Compliance . Every certificate tracked and renewed. We ensure your building meets regulatory requirements by tracking certificates across all of your properties, and showing you which ones need attention. Alice can trigger the renewal process on your behalf. Learn about compliance 05 Accounting . Month end without the recon. Alice chases invoices from contractors and matches them to jobs completed. She then posts the entries to your accounting ledger of choice. Learn about accounting 06 Reporting . Owner statements on your schedule. We show you how your portfolio is performing and even create owner statements per unit using your templates. Learn about reporting Alice is working Listed Viewing booked Lease signed Alice is working Radiator not heating Engineer booked Engineer completed repair Alice is working Sending second reminder Hi Sam, March's rent is now 5 days overdue. Can I help you set up a payment plan? Flat 3 · WhatsApp Rent collected £1,450 from Flat 1 Alice is working Gas certificate expiring Gas safety check booked Gas certificate renewed Floor 7 £9.1k net Floor 5 £6.1k net Floor 3 £7.5k net Elm House 92 % of target Ash Court 78 % of target Oak Court 96 % of target Birch House 64 % of target Cedar Court 88 % of target “ ” ” “ Alice is your new team-mate “It’s almost like I’ve added a whole team of property managers and operations folks, but I don’t have to pay them.” 1,600 units managed · Residential · California, USA Test Alice and see the difference Don’t take our word for it. Report a made-up leak on whichever channel you’d prefer. See how Alice responds Call +44 7782 564797 SMS WhatsApp Email By trying Alice, you’re happy for someone from our team to get in touch and hear how it went. Phone call · Maintenance Trusted by teams who grow Birmingham, UK “ Compliance management was the biggest pain in the back - this is one of those tools that took care of that. ” 260 units · Short-term rental Dubai, UAE “ We already found messages that were being missed - this has cleaned it up loads. ” 9,600 units · Residential California, USA “ I’ve done all the demos of AppFolio, Rentvine, Rent Manager, Yardi - none of them have really the stuff built in a way that I wanted to use. This has been the best. ” 4,500 units · Single-family rental Manchester, UK “ I really like it. It just keeps my mind so much clearer when I can see your interface - what’s happening, what needs to be done. It's really good. ” 120 units · Residential New York, USA “ It’s been amazing. The team has been great at helping correct and clarify, they're very hands-on. ” 1,400 units · Commercial Munich, Germany “ This is actually the first software company that impressed me, so I cannot say",
+   "email_candidates": [
+    {
+     "email": "hi@brickwiseai.com",
+     "where": "https://www.brickwiseai.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "3a6f71c29a",
+   "company": "Stilta",
+   "website": "https://stilta.com",
+   "title": "Engineering (YC Winter 2026)",
+   "location": "Stockholm, Stockholm County, Sweden",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 4. Agentic AI for intellectual property Stilta builds agentic AI software for intellectual property, starting with patent litigation. Whether challenging or enforcing a patent, leading IP law firms and in-house IP teams use Stilta for source-backed, auditable analysis. Innovation drives the world's most important breakthroughs, but the tools that protect it haven't kept pace. Patent attorneys do high-stakes work with a process still built on manual document review and disconnected point solutions. Generative AI helps with drafting, but it doesn't deliver the trust and transparency that legal-grade work demands - no sources, no traceability, no audit trail. Stilta takes a different approach. We use agentic AI to run search and analysis at a scale manual methods can't match, with every output source-backed, referenced, and auditable. Until recently, this wasn't technically possible. We're four engineers from McKinsey/QuantumBlack who built and deployed AI systems at some of the world's largest organizations. With Stilta, we're equipping the people who protect the world's most valuable ideas with tools that match the stakes. B2B, Sweden, Europe",
+   "site_text": "[https://stilta.com/]\nStilta | Agentic AI for high-stakes patent work NEWS We just raised $10.5M led by a16z â Agentic AI for high-stakes Agentic AI for high-stakes patent work patent work Run invalidity, infringement, and FTO analyses in minutes across patents, scientific literature, and web archives Run invalidity, infringement, and FTO analyses in minutes across patents, scientific literature, and web archives BOOK A DEMO TRUSTED BY 50+ IP TEAMS TRUSTED BY 50+ IP TEAMS > WHAT YOU GET FROM STILTA A patent matter in. A defensible answer out. Source-cited across patent jurisdictions, scientific literature, and decades of archived web. Talk with it. Adjust it. Defend it. + 0 % Faster end to end Defensible first answer in ~17 minutes, fully autonomous Attorneys spend time on judgment â no search, retrieval, or grunt analysis > 0 x More evidence Patents, journals, file wrappers, archived web â searched in parallel Agents drill across exhibits at-scale, efficiently finding the passages that actually matter > 0 p.p Higher recall Â¹ Read entire full-text patents, not just titles and abstracts Catch the subtle references humans miss under time pressure 0 % Source-cited Word-for-word excerpts pulled directly from the source â no hallucinations One click to the highlighted passage in the original; holds up under scrutiny Â¹ Higher recall than general LLMs â PTAB IPR benchmark across latest 40 institution decisions. Read the study . Your team is no longer capped by counsel cost or bandwidth on the analyses you actually need to run. > FEATURED MODULES Agentic AI for all sides of patent infringement. Each module for a specific job â avoid, defend against, or find infringement. Agents do the evidence work; attorneys make the calls. Infringement Analysis Find who's using your patents â for a single patent or across your entire portfolio. Agents map product features, technical documentation, and public disclosures element-by-element against your claims. Single Patent or Portfolio Mode: from one matter to thousands of assets at once Product Pages: specifications, manuals, marketing materials Public Disclosures: press releases, regulatory filings, technical publications Invalidity Analysis Defend against infringement letters, test specific prior art hypotheses, or assess your patent's legal strength before asserting. Agents search the entire prior art landscape and return results you can steer - not a flat list of references. Patent Database: +180M across +100 jurisdictions Scientific Literature: journals, standards, conference papers Internet Archive: archived pages and technical docs back to the 1990s Freedom to Operate Avoid the lawsuit. Agents break your product or planned launch into patentable features, then surface the patents you might infringe - ranked by risk, with traceable evidence per feature. Feature Decomposition: agent-driven breakdown of your product or launch Risk Ranking: each feature scored from cleared to high-risk Source-backed Evidence: press releases, regulatory filings, technical publications > HOW TO USE IT Attorneys lead. Agents amplify. Four steps, run by domain agents, audited by attorneys. 01 Define The Objective Bring the patent, the target, the portfolio, or the matter context. Stilta scopes the work the way a patent attorney would. 02 Agents Run The Search Domain agents reason across patents, scientific literature, file wrappers, and archived web content, surfacing what traditional methods miss. 03 Evidence Gets Mapped Agents reason through every claim element and map it to the supporting source, with citations you can open, audit, and defend. 04 You Stay In Control Stilta hands off a defensible claim chart, FTO opinion, or infringement read, ready for the next step in the matter forever. > WHAT OUR CUSTOMERS SAY Trusted by IP teams that d o n ' t g e t s e c o n d c h a n c e s \"Stilta has moved incredibly fast. Only a few months in, the major parts of IP management are already integrated, and we",
+   "email_candidates": [
+    {
+     "email": "founders@stilta.com",
+     "where": "https://stilta.com/",
+     "kind": "hiring"
+    },
+    {
+     "email": "oskar@stilta.com",
+     "where": "https://stilta.com/contact-us",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "422e713caa",
+   "company": "Leeroo",
+   "website": "https://www.leeroo.com/",
+   "title": "Engineering (YC Spring 2025)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Organizational Superintelligence An AI that continuously learns your organization’s knowledge and expert playbooks, uses experimentation, and with human approval ships data & AI programs and their operational UIs on your existing stack. B2B, United Kingdom, Europe",
+   "site_text": "[https://leeroo.com/]\nLeeroo | A Living Model of Your Business, Built by AI Leeroo AI BUILDING AI FOR ENTERPRISE MENU â¡ + + A living model of your business . Built by AI . Run in your cloud . Uniforge, our platform, connects to every system you operate, learns your business into one living model, and ships agents that turn it into outcomes. Request a free audit Read the specification 48 HOURS Â· READ-ONLY Â· FREE OUTCOMES Â· WHAT THE AGENTS DELIVER OPERATING 14:06:59 A-04 Â· CROSS-SELL Cross-sell ARR added +$96K 14:06:57 A-03 Â· CHURN SENTINEL Churn risk flagged 7 DAYS EARLY 14:06:55 A-02 Â· DATA-QUALITY Records unified 18,304 14:06:54 A-01 Â· BILLING-INTEGRITY Revenue recovered +$412K 14:06:52 A-03 Â· CHURN SENTINEL Churn prevented 14 ACCTS AGENTS ACTING ON THE MODEL EVERY ROW: AN AGENT ACTING ON THE LIVING MODEL WATCH THE DEMO â DEPLOYMENT Your VPC. Or fully on-prem, air-gapped. BENCHMARK NÂº1 open-source on OpenAI MLE-Bench. NÂº1 on RelBench. Grand Master Trophy, IOAI 2026. SCALE PROVEN 9Ã10â¹ rows. $1B enterprise, production. TEAM Meta AI, LinkedIn AI, EPFL alumni. AUDIT 48 hours. Free. No setup on your side. OPEN SOURCE 1.5M+ downloads of our team's models. OUR OPEN SOURCE, USED BY ENGINEERS AT 01 Â· THE PROBLEM From data to impact still takes an army . Data engineers build the pipelines: mastering, deduping, cleaning, linking. Data scientists and PMs hunt for the opportunities and size them. ML engineers build the models and agents, tune them, and ship them. Every step is headcount, every handoff loses months, and the chain restarts for every new use case. This is the chain enterprises pay forward-deployed engineers to run by hand, one use case at a time. EXHIBIT A Â· THE CHAIN BETWEEN DATA AND IMPACT MANUAL, PER USE CASE 01 DATA ENGINEERING pipelines Â· mastering Â· dedup Â· linking 02 DISCOVERY opportunities found and sized 03 ML ENGINEERING build Â· tune Â· deploy QUARTERS TO VALUE Â· RESTARTS WITH EVERY USE CASE 02 Â· THE METHOD Not just dashboards . Outcomes . THE SPECIALIST CHAIN, PRODUCTIZED 01 Connect Agents read every system you run: CRM, ERP, ticketing, billing, warehouses, the web. Every pipeline and every mapping, agent-built. READ-ONLY, ACCESS YOU GRANT 02 Learn Records resolve into entities, entities into relationships, documents into rules. A living model of how the business actually works. CONFIDENCE-SCORED 03 Find Agents scan the model for value: revenue hiding in accounts, risk building in usage, waste sitting in operations. Every finding priced and ranked. QUANTIFIED IN $ 04 Act . Agents execute: reconcile the invoice, flag the account, brief the owner, with approvals where you want them and an audit log of everything. HUMAN-APPROVED, LOGGED UNIFORGE Â· WALKTHROUGH OPERATING Your browser does not support the video tag. 03 Â· THE PROOF Â· IN PRODUCTION SINCE 2025 Proven in the hardest room . Most AI fails in places like this: a $1B enterprise with 75 years of operating history across 35+ systems, each holding its own version of the truth. Uniforge's learning agents map the business first, record by record, rule by rule, and capture it as a living model. Only then do action agents turn that understanding into outcomes. 9Ã10â¹ ROWS LEARNED, ACROSS 35+ SYSTEMS â62% CROSS-SYSTEM CONFLICTS, IN PRODUCTION ~$20M TRAPPED VALUE SURFACED, ITEMISED 04 Â· SOVEREIGNTY Own the AI's knowledge and reasoning . Leeroo turns your systems, workflows, and institutional knowledge into a private intelligence layer inside your infrastructure. We build the engine end to end, so nothing in the stack is a black box. You choose how far inside your walls it runs. MODE A Â· STANDARD Â· YOUR CLOUD DEFAULT Runs in your VPC on AWS, Azure, or GCP. Your data never leaves your infrastructure, and frontier models are reached from inside your tenant. MODE B Â· SOVEREIGN Â· FULLY ON-PREM AIR-GAPPED Runs entirely on your own hardware with local models fine-tuned to your business. Air-gapped, zero external calls, ever. Compliance is ",
+   "email_candidates": [
+    {
+     "email": "hiring@leeroo.com",
+     "where": "https://leeroo.com/",
+     "kind": "hiring"
+    },
+    {
+     "email": "founders@leeroo.com",
+     "where": "https://leeroo.com/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "4840d63460",
+   "company": "YouShift",
+   "website": "https://www.you-shift.com/",
+   "title": "Engineering (YC Winter 2025)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. The OS for hospital workforce management YouShift uses AI to automate hospital shift scheduling, replacing legacy software and eliminating the need for full-time schedulers. And scheduling is just the beginning — we're building the future of healthcare workforce management. Artificial Intelligence, Health Tech, Healthcare, HR Tech, Operations, B2B, Human Resources, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://youshift.com/]\nYouShift - The OS for Healthcare Workforce Skip to content Stop managing your healthcare teams in spreadsheets Healthcare staff scheduling software, with AI agents coordinating the day-to-day. One record from the rule to gross pay. YouShift is healthcare staff scheduling software. One record carries the assignment from the scheduling rule through worked time to gross pay, with AI agents coordinating the day-to-day. Explore the platform Talk to our team See YouShift from your perspective. Choose the role that best matches how you work to explore the features that matter most to you. Clinician Clinicians Manager Managers Executive Healthcare executives Availability Ask in your own words One app Everything on your phone Shift swaps Swap without the group chat Pay See your pay before payday Availability Ask in your own words One app Everything on your phone Shift swaps Swap without the group chat Pay See your pay before payday Make your priorities part of every schedule. Tell YouShift what matters to you with a voice note from your phone, whether itâs for one day or every week, and it uses your availability and preferences to build your next schedule. Your schedule, requests, and pay, all in one app. Check your schedule, request time off, pick up or swap a shift, and review your pay without switching between tools. Swap a shift without a group chat. Offer your shift to the team or trade directly with a colleague. YouShift checks rest, hours, and eligibility before either schedule changes. Check your pay before payroll runs. See how your recorded hours, differentials, and incentives add up, and flag anything wrong while thereâs still time to fix it. Scheduling Build a schedule that holds Licensing & credentialing Check licenses before you assign Open shifts Fill gaps without calling around Contracts From signed offer to first shift Payroll Close payroll without rebuilding it Scheduling Build a schedule that holds Licensing & credentialing Check licenses before you assign Open shifts Fill gaps without calling around Contracts From signed offer to first shift Payroll Close payroll without rebuilding it Build schedules that hold up in real life. Generate each schedule around coverage, rest rules, contract hours, and everyoneâs requests. When something changes, rebuild in seconds and catch conflicts before you publish. Check every license before you assign. Keep licenses and credentials in one record and check them as you schedule. YouShift flags upcoming expirations early, before they create a staffing problem. Fill open shifts without calling around. Post an open shift once and reach clinicians who are eligible to take it. Add an incentive when needed, then review responses with rest, hours, and eligibility already checked. From signed offer to first shift, in one flow. Draft the contract, send it for signature, then continue into licensing and credentialing without re-entering the same information. Every step stays connected through the clinicianâs first shift. Turn approved time into pay you can trace. Approved hours, differentials, and incentives become a calculation your payroll team can review line by line. Trace every amount back to the work behind it without rebuilding the pay period from separate records. CFO See where the money goes CMO & CQO Make exceptional care sustainable COO Take repetitive follow-up off your team CFO See where the money goes CMO & CQO Make exceptional care sustainable COO Take repetitive follow-up off your team See where labor costs come from. Compare labor costs by team, site, and period, then trace each total back to the schedules and worked time behind it. See what the next schedule will cost before you publish it. Give every patient the attention they deserve. Create the conditions for consistently excellent care: the right clinical capacity when demand peaks, and a workload your teams can sustain. Let agents handle the repetitive follow-up. Agents collect preference",
+   "email_candidates": [
+    {
+     "email": "info@you-shift.com",
+     "where": "https://youshift.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  }
+ ]
+}

@@ -1,0 +1,228 @@
+{
+ "leads": [
+  {
+   "id": "9c8a567b70",
+   "company": "Smooth",
+   "website": "https://smooth.sh",
+   "title": "Engineering (YC Fall 2024)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. Fast, simple, reliable AI browser agent Smooth is an AI browser agent that can perform actions autonomously on the web using mouse and keyboard. It’s the most reliable browser agent yet, while also being 5 times faster, and 7 times cheaper than any other browser agent on the market. B2B, Engineering, Product and Design, United Kingdom, Europe",
+   "site_text": "[https://www.smooth.sh/]\nSmooth — Reliable, blazing fast browser agent API Sign In Sign Up Smooth scores 92% on WebVoyager The most reliable browser agent yet Serverless browser agent API built from first principles: reliable, secure, 5x faster, 7x cheaper, and extremely scalable Start for free Request a Demo Mobile Desktop Scrape behind login Find our latest invoice from Calendly $0.03 • 20s Social media automation Automate any action on any social media $0.04 • 43s Dynamic multi-step forms Automatically get a quote from Octopus energy $0.02 • 29s QA testing Test the iPhone page on apple.com $0.02 • 35s 2 x Backed by Start automating now Smooth is a browser agent that can go to the web and perform tasks autonomously. It's the most reliable browser agent yet while also being 7x cheaper and 5x faster. State-of-the-art reliability Smooth outperforms all leading alternatives. Whether scraping, testing, or automating workflows - it runs without flaking. Blazing fast Smooth is exceptionally fast. It can perform many tasks in superhuman time, and it's 5x faster then browser-use. Massively cheaper Smooth uses small and efficient AI models, making it 7x more affordable than browser-use. Enterprise-grade security End-to-end encryption, enterprise-grade standards, and zero-trust access controls keep your data protected in transit and at rest. Production-ready Engineered for stability, monitored in real time, and battle-tested under load so you can ship to production with zero guesswork. Infinitely scalable & serverless From one-off runs to millions of executions, Smooth scales instantly with zero infrastructure management. Plug & play Get your API key and integrate seamlessly into your application. Get your free API key Sign up, grab your API key, and you're ready to go — no credit card required. Launch a task Fire off a task in seconds with a single API call. Watch your agent work Sitback and relax while Smooth does all the legwork. We handle the hard stuff, so that you don't have to Instant browser spin-up, proxy rotation, persistent sessions, auto-CAPTCHA solvers, and more. Start for free Built for developers No fluff, no lock-in — just a clean API, clear docs, and tooling that plays nice with your existing stack. Run your first browser task in 4 lines of code. from smooth import SmoothClient smooth_client = SmoothClient( api_key = “cmzr-YOUR_API_KEY“ ) task = smooth_client.run( “Go to google flights and find the cheapest flight from London to Paris today“ ) print ( f “Live URL: { task.live_url() } “ ) print ( f “Agent response: { task.result() } “ ) Frequently Asked If you have any questions, please do not hesitate to reach to our team. How is Smooth different from other browser agents? Smooth uses small and efficient models that make it faster and cheaper to run, while also being more reliable. It leads the leaderboard of WebVoyager (92%) while also being 5x faster and 7x cheaper than Browser Use. How fast is Smooth? Smooth is 5x faster than Browser Use and it's faster than humans at many tasks. The average task duration of a WebVoyager task is 1.4 min with Smooth vs 7.5 min with Browser Use. We are actively making Smooth even faster, stay tuned. How much cheaper is Smooth? Smooth is 7x cheaper than Browser Use. The cost to run the full WebVoyager benchmark is $38 vs $250 with Browser Use. This is because we use small and efficient models that reduce costs and increase speed, while also increasing reliability. Can I test the Smooth APIs before subscribing to a paid plan? Yes! We have a free plan that includes free welcome credits. Just sign up, and get your free API key. What level of support do you provide? Users on the Free and Starter plans can join the Discord server for community support. Growth and Enterprise users have access to 24/7 dedicated support and direct connection with the founders. Can we deploy Smooth on-prem? Yes! Depending on requirements, we can deploy single-tenant clusters, BYOC, or on-prem. How can I contact",
+   "email_candidates": [
+    {
+     "email": "contact@circlemind.co",
+     "where": "https://www.smooth.sh/",
+     "kind": "generic"
+    },
+    {
+     "email": "grahamthecoder@gmail.com",
+     "where": "GitHub commits (circlemind-ai)",
+     "kind": "personal",
+     "name": "Graham",
+     "commits": 11
+    },
+    {
+     "email": "pincoluca1@gmail.com",
+     "where": "GitHub commits (circlemind-ai)",
+     "kind": "personal",
+     "name": "Luca Pinchetti",
+     "commits": 16
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "9ca30c7d12",
+   "company": "Moonset Health",
+   "website": "https://www.moonsethealth.com/",
+   "title": "Engineering (YC Fall 2024)",
+   "location": "Seattle, WA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing… B2B, Sales, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.moonsethealth.com/]\nMoonset Health: AI Scribe Built for Hospice and Home Health Login Book a demo Book a demo Unburden your care team. Moonset captures and transcribes visits in the background, on any device. Your hospice and home health team charts less and cares more. Book a demo Chat with us Built to work with the systems your team already uses PointClickCare MatrixCare Homecare Homebase Netsmart WellSky Hospice Tools Axxess How it works Intelligence built for you. We built Moonset Health to help you grow caseload capacity and improve documentation compliance while delivering excellent patient care. We're always developing with a focus on SNF, Home Health, and Hospice. 50,000 + Hours saved for clinicians 3 Critical gaps caught per note 87 % Average reduction in IDG prep time How it works We handle the hard things so you can focus on care. Admit 01 Moonset’s admissions product handles your intake, from reviewing eligibility to preparing prep documentation. Care 02 No keyboard or screen between the caregiver and patient. Moonset runs silently while your clinician focuses on the visit. Review 03 Decline trends, LCD eligibility, IDG prep, compliance suggestions, and more help with fast review and sign-off. Optimize 04 Moonset writes completed charts back to most EHRs and surfaces patterns across visits — informing IDG prep, staffing, and care plans. Admit 01 Care 02 Review 03 Optimize 04 01 · Admit Moonset’s admissions product handles your intake, from reviewing eligibility to preparing prep documentation. Moonset has become an essential part of how we stay survey-ready. During a recent survey, they asked for access to 12 of our patients and we didn’t hesitate to open up our entire EMR. That’s how confident we are in the quality and detail of our documentation. Moonset gives our nurses the tools to document thoroughly and consistently, so when surveyors show up, our charts speak for themselves. Director of Nursing I haven't charted this little time-wise since nursing school… It's making me a better nurse because I now know what to look and ask for… I'm floored. This is divine intervention. I can't imagine going back to any other way of charting. Laurie Phillips Hospice RN I am so pleased with this program and it has helped me so much with my charting. God bless you guys for producing such an incredible program!! I have increased my caseload by more than three patients and I'm still getting everything done. I love this program — it's amazing. Mia Coffey Hospice RN It's 10x better than Voice-to-Text… I consider it an essential already, it makes my job much more fun without as much mental strain… It's a life-changer. Can we keep this forever? Audrey Hanson Hospice RN 01 / 04 How we work Getting you results without the complexity. Our three-step process takes you from launching Moonset to seeing results with close support at every stage. Book a free demo 01 Discovery & Assessment We review your team's templates, compliance needs, and prepare a roll-out plan. 02 Training & Launch Alongside custom templates, your team will be trained to begin using Moonset from day one. 03 Support We're always a message away for your team in case they need any additional support. “Everyone is super happy with the product. We interviewed multiple companies, not all are the same. Spent hours on this but none of the other products were up to Moonset's standard.” Case study How a 5-star hospice reclaimed time and boosted census Horizon Hospice uses Moonset to give nurses 1–2 hours back each day, reduce the mental burden of documentation, and create room to care for more patients. “Moonset stood out because it combined clinical understanding with exceptional user experience, airtight security, and a level of simplicity that made adoption seamless for our team.” 2 hours Time saved Per nurse, per day Read the case study FAQs Have more questions? Check out additional information on our dedicated FAQs page , or email us at hello@moonsethealth.com",
+   "email_candidates": [
+    {
+     "email": "hello@moonsethealth.com",
+     "where": "https://www.moonsethealth.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "9e35622158",
+   "company": "Hestus, Inc.",
+   "website": "https://www.hestus.co",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. An AI-powered CAD software Hestus is AI-powered CAD software that speeds up hardware development. While engineers are typically quick at coming up with initial design concepts, they are bogged down getting from idea to the final design due to countless tedious and repetitive tasks. We are building CAD software that automates these mundane tasks and speeds up the design execution process, while letting engineers spend more time on the creative part of the design process. B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.hestus.co/]\nHestus â Autocomplete for CAD ↑ Top ↓ End 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 A B C D A B C D Auto complete for CAD Less clicking. More designing. 2.5 x faster, 4 x fewer clicks. Try it for free Available for Autodesk Fusion on Mac and Windows. Main view Two centerlines, one keypress. Hestus reads the sketch as you draw it. A fresh rectangle appears and it offers both centerlines. One key places them as construction lines. On the right, the same two lines take nine inputs. Suggested centerlines Cycle to the suggestion you want. Or ignore it. Hestus usually has more than one idea. Tap through its suggestions until you land on the one you intended, then press Enter. Here that is the mirror to four circles, symmetry constraints included. Keep drawing instead and we get out of your way. Quad mirror Quietly used by 5,000 engineers. Here's what some of them have said. R R.W. · Manufacturing Manager I plugged it in... it's pretty slick. I start a drawing and itâs right thereâitâs in line with what I would do naturally or normally... very, very easy. J J.C. · Retired 3D Printing Hobbyist It's scary how dependent I have become on Sketch Helper, it is such a time-saver. K K.F. · Founder and CEO only about 1/3 of my time is spent actually solving problems or evaluating the design... I can only click so fast. C C.S. · Mechanical Engineer I'll just throw lines down and pick the Hestus solution that makes the most sense afterwards O O.L. · Mechanical Engineer, Founder I am fast with coming up with a concept but then... making sure design is ready for manufacturing takes lots effort. Hestus recommendations make it streamlined. R R.W. · Manufacturing Manager I plugged it in... it's pretty slick. I start a drawing and itâs right thereâitâs in line with what I would do naturally or normally... very, very easy. J J.C. · Retired 3D Printing Hobbyist It's scary how dependent I have become on Sketch Helper, it is such a time-saver. K K.F. · Founder and CEO only about 1/3 of my time is spent actually solving problems or evaluating the design... I can only click so fast. C C.S. · Mechanical Engineer I'll just throw lines down and pick the Hestus solution that makes the most sense afterwards O O.L. · Mechanical Engineer, Founder I am fast with coming up with a concept but then... making sure design is ready for manufacturing takes lots effort. Hestus recommendations make it streamlined. T T.S. · Freelance CAD Educator Using Hestus AI with my Fusion 360 projects has helped me... take complex RC aircraft projects from concept to finished model. A A.K. · Product Design Engineer It intuitively automates repetitive constraints and handles symmetry instantly, saving me countless manual clicks so I can focus on the actual design. S S.M. · Founder and CEO Hestus is more critical now than ever as engineers are moving faster from design to manufactured parts. M M.P. · Mechanical Engineering Student The boost that features like mirror and dangling point gave to my design capabilities was exactly what I needed to win my first CAD hackathon. T T.S. · Freelance CAD Educator Using Hestus AI with my Fusion 360 projects has helped me... take complex RC aircraft projects from concept to finished model. A A.K. · Product Design Engineer It intuitively automates repetitive constraints and handles symmetry instantly, saving me countless manual clicks so I can focus on the actual design. S S.M. · Founder and CEO Hestus is more critical now than ever as engineers are moving faster from design to manufactured parts. M M.P. · Mechanical Engineering Student The boost that features like mirror and dangling point gave to my design capabilities was exactly what I needed to win my first CAD hackathon. A A It lives where you already work. Hestus runs inside the CAD you already use. Nothing new to learn, nothing to export, and no juggling part files. Mac and Windows · available now SolidWorks Sign up for the alpha release Works inside your preferred",
+   "email_candidates": [
+    {
+     "email": "jobs@hestus.co",
+     "where": "https://www.hestus.co/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "a6c5d6f0b4",
+   "company": "Juno",
+   "website": "https://junocompanion.com/",
+   "title": "Engineering (YC Spring 2026)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. AI Health Assistant for Chronic Illness Juno is an AI personal health assistant for the 1B+ people living with chronic illness. Launched in October, Juno now supports 300,000+ patients globally. Healthcare, Consumer Health and Wellness, United Kingdom, Europe",
+   "site_text": "[https://junocompanion.com/]\nJuno: AI Symptom Tracker & Health Assistant for Chronic Illness Skip to content Example report Download How it works Community Media Blog FAQ Example report Download Juno Your personal health assistant for chronic illness Track symptoms, spot health patterns and create clear reports to share with your doctor. Download Juno HSA/FSA eligible Chronic illness doesn’t stop between appointments. Juno keeps track of the weeks in between, so you don’t have to remember it all. How it works Juno listens, keeps track and helps you bring the full picture to every appointment. 1. Talk to Juno 2. Spot your patterns 3. Come prepared 1. Talk to Juno Anything new for migraines? Juno Yes, a few. Here’s what’s new. Use your voice or type, any time. Get up-to-date advice on your condition Learn which treatments might help Vent and get emotional support 2. Spot your patterns Juno noticed a pattern Headaches came after short nights After less than 6 hours’ sleep 5 headaches After 7 hours or more 1 headache Last 4 weeks · a clue to discuss with your doctor Juno keeps track for you. Say “I had a headache last Tuesday” and Juno logs it on the right day. Over time, it shows you what keeps happening together, like headaches after short nights. 3. Come prepared Doctor summary Last 3 months Headaches on 14 days, mostly after short nights New medicine started in May 2 questions to ask Ready to share Your doctor gets the short version. Before an appointment, Juno turns the last few months into one page: what changed, how often, and what you want to ask. Symptoms Medications Questions for my doctor Share it however suits you. Send it from your phone, or print it and bring it along. Built for your condition From autoimmune and chronic pain conditions to complex and rare ones. If you’re living with it day to day, Juno can help. You don’t need a diagnosis. Many people use Juno while they work with their clinicians toward answers. See all 8,869 conditions → Autoimmune and inflammatory Lupus, multiple sclerosis, Crohn’s, ulcerative colitis, psoriatic arthritis and more. Chronic pain Fibromyalgia, migraines, arthritis, CRPS, endometriosis and more. Complex and rare ME/CFS, long COVID, POTS, Ehlers-Danlos, MCAS and thousands of rare diseases. Digestive and hormonal IBS, gastroparesis, PCOS and more. Still looking for answers Keep a clear record while you work toward a diagnosis. Try the symptom tracker Built with doctors and patients Shaped by input from hundreds of doctors and more than 1,000 patient interviews. Dr Maureen Emeagi Lead Medical Advisor GP partner in the UK and medtech founder. Dr Parivrudh Sharma Medical Advisor Doctor and health-data scientist, Imperial MSc. Dr Dun Jack Fu Medical Advisor Ophthalmologist and AI lead at Moorfields, UCL lecturer. Mathilde Collin Strategic Advisor Co-founded Front; now building the KORA AI child-safety benchmark. Meet the advisory board → Hear from our community Becky Living with MS Paula Living with chronic illness Community member Using Juno every day @healwithgracee Watch on Instagram @jennaxhealth Watch on Instagram @diploma.duck Watch on Instagram @fusionexercisephysiology Watch on Instagram @shessosavvy_ Watch on Instagram @wendyfromnorthernireland Watch on Instagram @healwithgracee Watch on Instagram @jennaxhealth Watch on Instagram @shessosavvy_ Watch on Instagram @diploma.duck Watch on Instagram @fusionexercisephysiology Watch on Instagram @jaylat1d Watch on Instagram @shessosavvy_ Watch on Instagram ★★★★★ App Store Such an incredible help I was recently diagnosed with MS, and Juno has been a lifesaver. It helps me track everything from sleep to pain and remember what to tell my doctor. Lvhb ★★★★★ App Store Anxiety killer Facing a doctor and needing to be assertive is hard. Juno helps me put questions into words and think more clearly about pacing. Ginmail ★★★★★ App Store Game changer It feels like having someone who understands chronic illness with me all the time. Juno logs symp",
+   "email_candidates": [
+    {
+     "email": "team@juno-chat.com",
+     "where": "https://junocompanion.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "ac72b9e7e2",
+   "company": "Beglaubigt.de",
+   "website": "https://beglaubigt.de/en-us",
+   "title": "Engineering (YC Fall 2024)",
+   "location": "BY, Germany",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. The legal back-office for European founders - the incorporation API… Beglaubigt.de is building the digital back-office for European founders. Our German brand Beglaubigt.de is the market-leading platform for digital company formations and notarizations - reducing GmbH incorporations from 6–8 weeks to as little as 3 days. Through Germany's first fully automated incorporation API, we power the formation flows of partners like Qonto, Holvi, and Sevdesk. We're now expanding the stack into ongoing business operations: registered addresses, trade registrations, bookkeeping, and the full legal back-office. B2B, Legal, Germany, Europe",
+   "site_text": "[https://beglaubigt.de/en-us]\nEurope’s First Digital Notary Already over 25,000 Beglaubigt.de customers Rated 4.9 out of 5 stars on Google Trustpilot NOTARIZE NOW Your company in the best hands. Start a company Get a business address Digital bookkeeping Certified translation Notarize documents Experienced experts by your side. Submit an inquiry → or by phone - Tel: +49 89 38038332 Trustpilot Why 25,000 customers trust us Your own company in 48 hours Partnerships with market leaders Over 75% time savings 100% legally compliant & GDPR-compliant Excellent customer support We serve every industry. Startup Trade & e-commerce Skilled trades Services or simply submit a non-binding inquiry → Beglaubigt.de is committed to adhering to the highest national and international security and data protection standards. Legally compliant Your company deserves legal certainty – in line with BeurkG, GNotKG and HGB. EU servers Your data deserves EU-level protection – processed exclusively in accordance with GDPR Art. 44 et seq. SSL Your data deserves technical security – protected in accordance with GDPR Art. 32 (TLS/SSL). GDPR Your data deserves transparency – therefore we fully comply with GDPR and the German Federal Data Protection Act (BDSG). Over 25,000 business customers worldwide trust Beglaubigt.de Rated 4.7 out of 5 on Turn ideas into a company. We handle the bureaucracy. Start your company without paperwork — we handle all registrations to bookkeeping. Your GmbH Incorporation Commercial Register Business Address Bookkeeping Ready to get started? Simply submit a non-binding request → The incorporation is carried out with licensed notaries and authorities. Processing times may vary. Incorporation process completed in under 7 days 1 2 3 4 Company information We collect all relevant information digitally and automatically verify it for completeness and plausibility. Incorporation online or on-site Full coordination of the notary appointment and all required documents – digitally or on-site. Business bank account in record time Direct integration with partner banks for fast account opening. All official registrations Automated registration with the commercial register, tax office, and other authorities. GET STARTED NOW What our customers say who incorporated with Beglaubigt.de Our public reviews are our hallmark. Trustpilot \"We incorporated our GmbH entirely digitally – no paperwork, no stress. Beglaubigt.de made the entire process incredibly simple.\" Mathias Klenk, CEO Midlane.com GET STARTED NOW REQUEST A QUOTE Trustpilot Our team by your side With over 25,000 customers per year, our notary, legal, and tax specialists have seen and resolved virtually every use case. Simply submit an inquiry → or get informed by phone +49 89 38038332 Frequently asked questions about Beglaubigt.de How secure are my data and documents? The protection of your sensitive corporate, identity, and incorporation data is our highest priority at Beglaubigt.de. We process only the information that is legally required for notarization, certification, and registry registration – and safeguard it in accordance with current technical and organizational standards. Technical Security • End-to-end encrypted data transmission (TLS) • Storage on servers within the EU • Role- and permission-based access controls • Regular security updates and monitoring Legal Framework Our processes are aligned with: • GDPR (General Data Protection Regulation) • BeurkG (German Notarisation Act) • GNotKG (Court and Notary Costs Act) • GwG (German Anti-Money Laundering Act – identity verification & compliance) In addition to technical safeguards, Beglaubigt.de relies on clear organizational security standards. Access to personal data is restricted exclusively to authorized personnel and is governed by a strict role- and permission-based access concept. All team members and partners are contractually bound to confidentiality and receive regular training on data protection, IT security, and complian",
+   "email_candidates": [
+    {
+     "email": "info@beglaubigt.de",
+     "where": "https://beglaubigt.de/en-us",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "b06b5ab97c",
+   "company": "Waydev",
+   "website": "https://waydev.co/",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "Bucharest, Romania; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 13. Engineering intelligence for AI transformation Waydev maps AI velocity across the SDLC — built on DORA, SPACE, and DX — turning developer tool data into board-ready evidence of adoption, impact, and ROI. AIOps, Artificial Intelligence, Analytics, AI, AI Assistant, B2B, Productivity, Romania, Europe, Remote, Fully Remote",
+   "site_text": "[https://waydev.co/]\nProductivity Insights: SPACE Framework, DX and DORA metrics - Waydev Backed by Y Combinator experience featured in TechCrunch Learn more Market Leader in Software Engineering Intelligence (G2 Crowd’s Summer & Spring 2026) Learn more Platform Features View All See Live Demo Solutions Use Cases For Compare Waydev Customers Customer Stories Learn how we’re helping companies find success with Waydev Schedule a demo Schedule a personalized demo call Product Tour Explore Waydev’s product and feature set Documentation Learn how easy your can apply Waydev into your company \"We would look at the burndown charts but after Waydev came, we were able to get a little bit deeper.\" Abhijit Khasnis CTO at TATA Health Read the Story » \"I like that Waydev gives me a bird’s eye view of my engineering team’s efficiency and productivity.\" Susheel Daswani Head of Engineering at Citi Ventures Read the Story » \"We’re already seeing that in the past three months productive have gone up 30%\" Alex Solo Director of Engineering at Sovos Read the Story » Blog Enterprise Docs Pricing Resources Company Resources Blog More Company Resources Blog Login Login V1 Login V2 Get a Free Trial Using AI to Optimize Performance – Alex Circei in TechCrunch The AI-Native Engineering Intelligence Platform Understand the impact and ROI of AI across your organization. Powered by DORA, SPACE, DX, and CAFE(S) to measure the productivity of agents and builders. Request a Demo or I’d like to learn… request a POC apply DORA, SPACE, DX how to measure Agents Impact how to measure the AI Transformation ROI why engineering leaders choose Waydev Backed by Y Combinator ❮ ❚❚ ❯ DORA, SPACE, and DX on autopilot. AI measures, flags what matters, and turns it into goals leadership can track. Trusted by FORTUNE 500 enterprise companies Read Story Read Story Read Story Read Story Read Story Read Story “By 2027, the use of developer productivity insight platforms by software engineering organizations to increase developer productivity will rise to 50%.” – Market Guide to Software Engineering Intelligence Platforms Talk to a consultant Small team 10 – 50 Engineers Medium Team 50 – 500 Engineers Demo with an expert 500 – 5000 Engineers WHAT CAN WAYDEV HELP WITH? Observe. Measure. Optimize. Gain visibility into engineering work and understand the alignment with business initiatives. Measure organization-level efficiencies, and start optimizing your development process with the world’s most loved software engineering intelligence platform (G2). +22% Accelerate Time to Market 2.2X Accelerated Velocity +28% Faster Cycle Time -21% Less Unplanned Work +15% Coding Days per week -28% Decrease in Code Churn +32% Faster Code Deployed +24% Increase in Features Delivered Waydev is Niche Player in Gartner® Magic Quadrant™ for Developer Productivity Insight Platforms G2 Grid® for Software Development Analytics Tools our recent awards SEE LIVE DEMO Executives Turn data into valuable business insights Engineering Managers Make better decisions based on data Product Leaders Use data to improve your product strategy Contributors Keep track of your own performance Waydev Integrations We integrate with your engineering toolstack to create a single source of truth Request a Demo Call or Request a POC WHY WAYDEV Transform your data into actionable insights—no extra effort required. Waydev transforms how you manage engineering performance, offering real-time insights powered by data from your tools—completely eliminating the need for manual work from your team. Health Understand insights in real-time, reduce engineering cycle time and increase your development speed. Delivery Improve efficiencies, speed up product development and drive up productivity. Planning No more guessing, get granular visibility to manage your team’s better with objective data. Talk to a consultant Demo with an expert 500 – 5000 Engineers Medium Team 50 – 500 Engineers Small team 10 – 50 Engineers EXECUTIVE REPORTS (C-LEVEL",
+   "email_candidates": [
+    {
+     "email": "contact@waydev.co",
+     "where": "https://waydev.co/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "b16fde3112",
+   "company": "BetterBasket",
+   "website": "http://www.betterbasket.com",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Smart grocery pricing with AI BetterBasket provides grocery retailers with AI agents for pricing, competitive intelligence and promotion optimization, with the aim of helping teams boost revenue, manage margin targets and automate decisions using real-time data across operations. Artificial Intelligence, B2B, Analytics, Food & Beverage, Retail, B2B, Analytics, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://betterbasket.com/]\nBetterBasket - The AI platform for grocery merchandising. Login Speak to an expert Backed by Y Combinator The AI platform for grocery merchandising Everyday pricing, promotional pricing and assortment made smarter. Speak to an expert Ask Athena where to act next. Choose a question and find your next opportunity. Where am I overpriced on everyday items? Help me create a promo for Thanksgiving What is missing in my assortment? Ask Athena anything... Growing with BetterBasket Built for outcomes. Backed by results. BetterBasket helps pricing teams improve lift, margin, accuracy, and speed across categories, banners, and stores. View case studies 6 % Margin Uplift On optimized SKUs vs. baseline, normalized for market trends. 14 % More Revenue On promo campaigns vs baseline. 2.3M + Catalog Coverage Skus Within reach of every category review. 20 hrs Saved Per Week Per Store On competitor and cost monitoring, price decisions, and category reviews. “ “ BetterBasket helps us quickly identify pricing opportunities and make better everyday pricing decisions without all the manual work. Glenn Cunningham Senior Director of Center Store Village Super Market Everyday pricing Optimize every regular price with confidence. Price elasticity Weekly competitive data Margin targets Unit velocity Zone pricing Cost changes Set your goals and let Athena identify where to raise, lower, or hold prices, with projected revenue, margin, and unit impact before anything goes live. Once changes are live, each cycle improves the next set of moves. Optimize everyday pricing Barilla Penne Rigate 16 oz NJ zone Category: Pasta · UPC: 07680800240 · Cost: $2.74 Price history Item performance You $3.50 $3.29 $2.89 $2.99 $3.09 $3.12 $3.19 You $3.50 $3.29 $2.89 $2.99 $3.09 $3.12 $3.19 COMPETE You're 21% above the zone low — $2.99 matches Walmart, closes the Whole Foods gap, and projects +14% units without missing margin target. Change price $3.50 Try $ 4W Revenue $3,500 $3,699 4W Margin 21.9% 8.6% 4W Units 1000 1237 Change price $3.50 Try $ 4W Revenue $3,500 $3,699 4W Margin 21.9% 8.6% 4W Units 1000 1237 Reject Accept Promotional pricing Know which promotions actually work. Incrementality Cannibalization Promo lift Halo effects ROI Post-promo analysis Athena factors in promo elasticity, cannibalization, and the trade funds your wholesalers offer, then builds campaigns that lift revenue, drive traffic, and grow baskets. Optimize promotions Thanksgiving Feast Promo NJ zone Time period: Nov 16 – Nov 27, 2026 · No. of items: 85 Revenue lift $ +$42,800 Revenue lift % +31.8% Margin % 23.6% Promo spend $18.6k Total revenue $168,400 Projected vs actual Item-level performance Category split Strategy Revenue lift % Margin % Projected Actual Projected Actual Assortment Build the assortment your shoppers actually want. Category health Assortment gaps Brand benchmarking Competitor landscape Recommendations SKU velocity Understand category performance, benchmark brands and competitors, and uncover assortment opportunities. Athena helps category teams understand what's driving performance and where changes may improve the category. Manage your assortment Grocery Pantry Spices Past 8 weeks Category Health Average Total SKUs 312 +4 vs prev Revenue $268,420 +2.1% vs prev Margin 33.6% -0.6% vs target Units Sold 18,420 +186 vs prev Performance Competitor Landscape Brand Landscape Recommendations 3 Preferences Revenue by Brand Brand Price Tier Variety Revenue Margin Units By descending performance McCormick Badia Spice Islands Simply Organic Tone's Morton & Bassett La Flor Lawry's Goya Frontier Co-op 1– 10 of 10 8 weeks · Revenue trend Wk 8 Wk 9 Wk 10 Wk 11 Wk 12 Wk 13 Wk 14 Wk 15 $0k $6.5k $13k $19k $26k $32k Work smarter with Athena The AI assistant every grocery team needs. Ask Athena Onboard Athena From intent to action Ask in plain language. Athena translates it into real pricing decisions and executes them instantly. Operate at scale Make changes across ent",
+   "email_candidates": [
+    {
+     "email": "founders@betterbasket.ai",
+     "where": "https://betterbasket.com/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "b2269dc1fd",
+   "company": "Karumi",
+   "website": "https://www.karumi.ai/",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "Unspecified",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. The Waymo of Personalized demos Karumi is an AI agent that joins a live video call with your prospects to deliver personalized product demos, 24/7, in any language. It bridges the gap between your landing page and your sales team by engaging visitors at the peak of their interest, turning curiosity into conversion. For those not ready to talk to sales but eager to explore, Karumi offers the next generation of interactive, self-guided demos. B2B, Sales, Unspecified",
+   "site_text": "[https://karumi.ai/]\nKarumi — AI Agent That Demos Your Product Live Talk to sales Solutions Marketing Every visitor gets a demo. Not a form Sales Give your SEs their calendar back Onboarding & Support A dedicated CSM for every user Enablement Ramp up your team on the product, on demand Company Customers Enterprise Blog Research Try AI demo Talk to sales Y Backed by Y Combinator Let your product sell itself onboard support show teach sell itself sell itself Karumi is an AI agent that knows your product end to end and runs it live for whoever is asking. Try AI demo now 4.9 /5 . Read Karumi reviews on G2 (opens in a new tab) 12 JAN FEB MAR APR MAY JUN JUL AUG SEPT OCT 7000 6000 5000 4000 3000 2000 1000 AI Agent Simon m. CEO at Unison IQ Lucy P CTO at Quantiscope Shota Q. Founder at HIA Labs On-demand Product Demo Multi-Language Support Connect with your CRM Let me show you the product No human on the other side! No human on the other side! 102,023 Product demo delivered 38% Conversion rate 26% Activation We’re getting engagement metrics that far surpass anything we’ve seen so far, well beyond what videos deliver. And we’re getting incredibly rich data on prospects that we simply never had before. Guido Ramirez Director @ Workday Trusted by Case Study Case Study Case Study \"Since we implemented Karumi, we started to go for hyperscale as a company.\" Frank Sondors CEO @ Salesforge See Agent In Action \"Onboarding used to mean one of us sitting with each team to get them going. Now every team gets that on demand, and we're not the bottleneck.\" Bernard Aceituno Co-Founder & President @ StackAI Read the Case Study \"Up to 40 minutes with the demo agent before they ever talk to sales. Reps walk in already knowing what each prospect cares about, and close faster.\" Dulan Perera Director, Growth @ Re-Leased See Agent In Action Find your job-specific version Don't show your product like it's 1995 Marketing Every visitor gets a live walkthrough instead of a form. Replace the static video and the request-demo form. Every visitor gets a live walkthrough instead of a form. Live demo on every product page Live demo on every landing page Know which features visitors ask about More top of the funnel See the use case Sales It warms your leads and makes your AEs more efficient. Prospects arrive already product-aware Transcript & questions land in your CRM Faster sales cycle See the use case Onboarding & Support Guide every new signup through their first week. Answers product questions on demand A dedicated CSM for every user Fewer tickets, faster activation See the use case Next evolution of interactive videos It's a video call , not a video 01 The link a visitor clicks 02 2 seconds, it's sharing its screen 0:02 live 03 Speak, type, interrupt 04 You’re notified, recording sent RECORDED Deep product knowledge Product knowledge is what makes us unique Scanning & learning your product 24/7 Karumi maps your whole product and stays in sync as you ship Learn more about our product It shows up in any interface Your product, in whichever interface your user is already in Chat with live video Video call Copilot on your rep's call Chat widget Slack Video generation Always in-sync with your CRM. Transcripts, analysis, and next steps are logged directly into your CRM, ready for your team to follow up. See all integrations Giulia R. Italian Duration: 19 mins Time: 04:23AM Mateo C. Spanish Duration: 15 mins Time: 10:45AM Status: Active Lukas M. German Duration: 28 mins Time: 06:03AM Samuel O. English Duration: 34 mins Time: 13:33AM Camille D. French Duration: 45 mins Time: 02:01 Enterprise-ready Secure, private, and reliable 99.9% Availability High-availability infrastructure designed to prevent downtime and ensure performance. Lowest latency in the market Optimized data routing for the fastest possible response times across all regions. RBAC & Encryption Enterprise-grade security featuring Role-Based Access Control and data protection. Testimonials What others say",
+   "email_candidates": [
+    {
+     "email": "founders@karumi.ai",
+     "where": "https://karumi.ai/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "b6e7028750",
+   "company": "Macadamia",
+   "website": "https://macadamialabs.com",
+   "title": "Engineering (YC Winter 2025)",
+   "location": "Ghent, Flanders, Belgium",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. AI Agents for Complex Engineering Projects Macadamia builds AI agents for complex engineering projects. They automate both engineering & business processes, to automate away all low-leverage work. It integrates with all engineering data sources, technical documentation, and third-party software tools. Macadamia serves customers in mechanical engineering, manufacturing, and construction. B2B, Engineering, Product and Design, Belgium, Europe",
+   "site_text": "[https://macadamialabs.com/]\nMacadamia | AI Agents for Industrial Engineering Automation Macadamia Open menu Backed by Y Combinator Automate Industrial Engineering Automate your engineering and back-office processes, with expert AI agents, designed for Engineering Firms. CAD Technician CAD Technician Safety Engineer QA Inspector Cost Estimator Data Entry Clerk Equipment Specifications P-101: Centrifugal Pump, 150 GPM V-201: Vertical Vessel, 500 gal E-301: Shell & Tube HX, 100 ft² CV-102: Globe Valve, 3\" 150# AutoCAD - P&ID Drawing Initializing canvas... Active Layers Process Equipment Instruments Annotations Export DWG AI Generating... Generate AutoCAD designs, verify dimension accuracy, cross-reference P&IDs with equipment lists, and flag inconsistencies in technical documentation. Enterprise-grade security. Macadamia is audited and certified by industry-leading third party standards. SOC 2 Type 2 GDPR Work with your favorite tools. Our agents integrate with any software you already use.",
+   "email_candidates": [
+    {
+     "email": "founders@macadamialabs.com",
+     "where": "https://macadamialabs.com/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "b8a5ec5c69",
+   "company": "Allus AI",
+   "website": "https://allus.ai",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "Atlanta, GA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. Transforming manufacturing with our next-gen Vision Foundation Model Allus builds next-gen vision foundation models that bring real intelligence to manufacturing. Enabling factories to see, understand, and improve production in real time. Machine Learning, SaaS, Computer Vision, Manufacturing, AI, Industrials, Manufacturing and Robotics, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.allus.ai/]\nAllus AI — Industrial Intelligence for Manufacturing Backed by Industrial Intelligence {{ heroSubline }} See, understand and act on {{ rotWord }} Observe. Connect. Guide. Request a Demo → Explore the Models → {{ s.label }} {{ s.progress }} {{ activeSceneKicker }} {{ activeSceneTitle }} Person Equipment Material Time Runs on {{ r.label }} {{ r.note }} How it works Connect video and plant data. Put context to work. Inputs {{ c.label }} {{ pulseIn }} {{ ringA }} 01 · Core model AllusONE Sees the work. Reasons in your terms. {{ st.k }} {{ st.label }} 02 · Time AllusFlow Video → steps & timing 03 · Edge AllusEdge Runs on your hardware {{ pulseOut }} Outputs {{ c.label }} Operational priorities Safety. Quality. Delivery. Cost. What your teams work to improve each shift. {{ pr.kicker }} {{ pr.value }} {{ pr.label }} Solutions Intelligence for everyday plant operations. Four floor problems. One model system. {{ s.num }} {{ s.domain }} {{ s.title }} {{ s.note }} → {{ s.progress }} {{ activeSolution.domain }} {{ activeSolution.outcome }} Explore → Industries Same capabilities. Your language. Read the customer stories → {{ ind.num }} {{ ind.title }} {{ ind.summary }} Why Allus What sets it apart. {{ w.num }} {{ w.title }} {{ w.note }} Compliance Security and reliability are core. SOC 2 Type II A3 Member Trust Center Before you ask Hardware, data, decisions. {{ q.q }} + {{ q.a }} Next step Fewer deviations. Better performance. Bring a workload and a boundary. Request a Demo → Start a Pilot →",
+   "email_candidates": [
+    {
+     "email": "contact@allus.ai",
+     "where": "https://www.allus.ai/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  }
+ ]
+}

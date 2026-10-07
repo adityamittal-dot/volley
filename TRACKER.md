@@ -1,19 +1,20 @@
 # Tracker
 
-_Updated 2026-10-06T19:38:06Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-07T06:27:52Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 129 · **Sent:** 129 · **Replies:** 11 (9%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 129 · **Sent:** 129 · **Replies:** 12 (9%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
-| new | 263 |
+| new | 255 |
 | skipped | 2 |
-| no_contact | 479 |
+| no_contact | 549 |
 | low_fit | 217 |
-| sent | 51 |
-| followup_1 | 46 |
+| researching | 75 |
+| sent | 36 |
+| followup_1 | 60 |
 | followup_2 | 13 |
-| replied | 11 |
+| replied | 12 |
 | bounced | 8 |
 
 ## Reply rate by angle
@@ -22,13 +23,13 @@ _Updated 2026-10-06T19:38:06Z UTC. Full table: [data/tracker.csv](data/tracker.c
 |---|---|---|
 | medvault | 54 | 5 |
 | basepair | 39 | 2 |
-| canopy | 36 | 4 |
+| canopy | 36 | 5 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 117 | 10 |
+| role | 117 | 11 |
 | short | 12 | 1 |
 
 ## Replies
@@ -39,6 +40,7 @@ _Updated 2026-10-06T19:38:06Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **Complir** —  <contact@complir.io> replied 2026-10-06
 - **Unsiloed AI** — André Castro <andre@unsiloed.ai> replied 2026-10-05
 - **winkjs** —  <contactus@graype.in> replied 2026-09-29
+- **Gotchacode** — Vinit Kumar <vinitkme@icloud.com> replied 2026-10-07
 - **Frostrek AI** —  <contact@frostrek.com> replied 2026-10-01
 - **Xero** —  <careers@xero.com> replied 2026-09-30
 - **ColoredCow** — Vaibhav Rathore <vaibhav@coloredcow.com> replied 2026-10-01
@@ -71,6 +73,6 @@ _Updated 2026-10-06T19:38:06Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-06 | Pyza Labs | sourav@pyzalabs.com | medvault | sent |
 | 2026-10-06 | EdisonOS | cs@edisonos.com | medvault | sent |
 | 2026-10-06 | ActiveSphere | career@activesphere.com | canopy | sent |
-| 2026-10-06 | Gotchacode | vinitkme@icloud.com | canopy | sent |
+| 2026-10-06 | Gotchacode | vinitkme@icloud.com | canopy | replied |
 | 2026-10-06 | 91social | social@91social.com | medvault | sent |
 | 2026-10-06 | Loop Subscriptions | hiring@loopwork.co | medvault | sent |
