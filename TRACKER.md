@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-08T10:04:46Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-08T15:45:18Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 165 · **Sent:** 165 · **Replies:** 16 (10%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 166 · **Sent:** 166 · **Replies:** 17 (10%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,18 +10,17 @@ _Updated 2026-10-08T10:04:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 2 |
 | no_contact | 578 |
 | low_fit | 319 |
-| queued | 1 |
 | sent | 70 |
 | followup_1 | 59 |
 | followup_2 | 12 |
-| replied | 16 |
+| replied | 17 |
 | bounced | 8 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 79 | 6 |
+| medvault | 80 | 7 |
 | canopy | 47 | 7 |
 | basepair | 39 | 3 |
 
@@ -29,8 +28,8 @@ _Updated 2026-10-08T10:04:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 137 | 14 |
-| short | 28 | 2 |
+| role | 137 | 15 |
+| short | 29 | 2 |
 
 ## Replies
 
@@ -47,6 +46,7 @@ _Updated 2026-10-08T10:04:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **Xero** —  <careers@xero.com> replied 2026-09-30
 - **ColoredCow** — Vaibhav Rathore <vaibhav@coloredcow.com> replied 2026-10-01
 - **HivarSoft** — Hitesh Kumar <dev.hitesh.k@gmail.com> replied 2026-10-05
+- **Pocket** —  <hey@heypocket.com> replied 2026-10-08
 - **Izinga Software Private Limited** —  <hello@robustest.com> replied 2026-10-08
 - **xPay** —  <hello@xpaycheckout.com> replied 2026-10-08
 - **Greenzie** — Charles Brian Quinn <cbq@greenzie.com> replied 2026-10-06
@@ -55,6 +55,7 @@ _Updated 2026-10-08T10:04:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-08 | Hopit | arkid@hopit.ai | medvault | sent |
 | 2026-10-08 | Globussoft Technologies | sumit@globussoft.com | medvault | sent |
 | 2026-10-08 | AgileHead | jeswinpk@agilehead.com | canopy | sent |
 | 2026-10-08 | Ionage | careers@ionage.in | medvault | sent |
@@ -67,7 +68,7 @@ _Updated 2026-10-08T10:04:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-08 | GattyWorks | hello@gattyworks.com | canopy | sent |
 | 2026-10-08 | DeepKlarity | info@deepklarity.com | medvault | sent |
 | 2026-10-07 | BetterBasket | founders@betterbasket.ai | canopy | sent |
-| 2026-10-07 | Pocket | hey@heypocket.com | medvault | sent |
+| 2026-10-07 | Pocket | hey@heypocket.com | medvault | replied |
 | 2026-10-07 | Moonset Health | hello@moonsethealth.com | medvault | sent |
 | 2026-10-07 | Avent | careers@aventindustrial.com | medvault | sent |
 | 2026-10-07 | Hyperspell | david@hyperspell.com | canopy | sent |
@@ -79,4 +80,3 @@ _Updated 2026-10-08T10:04:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-07 | Cashfree Payments | developers@cashfree.com | medvault | sent |
 | 2026-10-07 | Smooth | grahamthecoder@gmail.com | canopy | sent |
 | 2026-10-07 | Stilta | oskar@stilta.com | medvault | sent |
-| 2026-10-07 | Juno | team@juno-chat.com | medvault | sent |

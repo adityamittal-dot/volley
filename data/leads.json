@@ -20961,7 +20961,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Hopit team,\n\nYour site says the system takes in expert corrections and tests every change before it ships.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for bad model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship or entry-level role I can start right away. Does the team take on an engineering intern?",
+   "delivered_at": "2026-10-08T15:44:57Z",
    "lint": [],
+   "message_id": "<179147429463.2038.2562037163369110342@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-08T15:44:57Z",
    "subject": "AI internship at Hopit"
   },
   "emails": [],
@@ -20990,7 +20994,7 @@
   },
   "score": 8.5,
   "source": "github_orgs",
-  "status": "queued",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/hopit-ai",
   "website": "https://hopit.ai",
@@ -36765,6 +36769,7 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "replied_at": "2026-10-08T15:44:28Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "MedVault's approach to processing user-uploaded content and generating AI-backed summaries mirrors Pocket's transcription-to-summary pipeline for voice recordings.",
@@ -36781,7 +36786,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "replied",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/pocket",
   "website": "https://heypocket.com/now",
