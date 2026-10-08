@@ -1,0 +1,260 @@
+{
+ "leads": [
+  {
+   "id": "0c00fe50ef",
+   "company": "DeepKlarity",
+   "website": "https://deepklarity.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Jupyter Notebook, Python. Topics: agent-skills, agentic-ai, agentic-framework, computervision, datascience, harness-engineering, jupyter-notebook, machine-learning, nlp, python",
+   "site_text": "[https://deepklarity.com/]\nDeepKlarity | AI Engineering Studio Engineering Intelligence That Works . We build agentic systems, multimodal pipelines, and self-healing infrastructure. Small team. Deep expertise. Start a Project â See Our Work Services What we build . Agentic Systems Multimodal Workflows Composable Architecture Self-Healing Systems Sovereign Deployment Evaluation Frameworks Agentic Systems Autonomous AI that reasons, plans, and executes complex workflows without constant supervision. Unlike simple chatbots, agentic systems break down complex goals into steps, use tools, and adapt when things go wrong. They maintain context across long-running tasks and know when to ask for help. // Multi-step reasoning Â· Task decomposition Â· Tool orchestration See it in action: Self-Healing Fashion Intelligence â Sensor-to-Code Automation â Document Intelligence Engine â Voice Sales Guidance System â AskQL â About We build systems that work . No impressive demos that fail on real data. No research that never ships. Human ingenuity and AI capability, woven together. Meet the team â Our philosophy â Antipatterns What we see go wrong . AI projects stumble on predictable problems. We've built our process specifically to help you avoid them. Runaway costs No caching. No monitoring. Token bills that explode and blow the budget. Our approach: We model costs upfront and optimize from day one. Vendor lock-in Hardcoded to one provider. Switching means rewriting everything. Our approach: We build provider-agnostic so you can swap models without rewriting. Security gaps Prompt injection open. Data leaking to third parties. Compliance ignored. Our approach: We build security in from the start â auditor-ready. Unmaintainable systems Works today. Six months later, a black box no one dares touch. Our approach: We write code your team can own, extend, and maintain. Approach How we work . Find what works. Build it right. We'd rather tell you no than build something that won't work. We test with your data. Your actual production data, not curated samples. If it breaks there, it breaks everywhere. Genuinely ready to run. Clean APIs. Monitoring from day one. No 'we'll clean this up later' code. We stay close after deploy. Production surfaces things nobody anticipated. We fix them with you. Not everything needs AI. If simpler works, we'll tell you. We're not here to sell complexity. Case Studies Results we've shipped . Self-Healing Fashion Intelligence Sensor-to-Code Automation AI Creative at Scale Document Intelligence Engine AI Assignment Grader Voice Sales Guidance System AskQL 30Ã faster data ingestion Fashion & Retail Agentic AI Automated trend detection across 100+ data sources Fashion designers were manually consuming 100+ blogs, news sites, fashion shows, and fast-fashion catalogs daily to build intuition about trending colors, materials, and silhouettes. 100+ data sources 30Ã faster ingestion Zero maintenance Agentic Systems Multimodal Workflows Self-Healing Systems Read case study â All projects â Labs Where we go deep . We explore hard problems before they become client requirements. What we learn here â the failures, the breakthroughs â shapes the systems we build. Physical intelligence Robotics Ã AI Teaching machines to understand and act in physical environments. Edge inference, real-time adaptation, safety-critical systems. Edge inference Vision-language loops Adaptive motion Real-time safety â Infrastructure for agents Agent OS Building the orchestration layer for autonomous agents â browser control, inter-agent communication, reliable tool use. Browser automation Computer use APIs Inter-agent protocols MCP orchestration â Spatial computing meets intelligence VR / XR Ã AI AI-native interfaces for Meta Quest and XR displays. Generative 3D, spatial understanding, voice and gesture interaction. Meta Quest Generative 3D Spatial reasoning Voice + gesture â Open source Â· from the Agent OS lab Harness ",
+   "email_candidates": [
+    {
+     "email": "info@deepklarity.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "kartik@deepklarity.com",
+     "where": "https://deepklarity.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "harshmondal69@gmail.com",
+     "where": "GitHub commits (harshmondal)",
+     "kind": "personal",
+     "name": "Harsh Mondal",
+     "commits": 6
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "49a9cddb43",
+   "company": "Codemancers",
+   "website": "https://www.codemancers.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, Remote",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Expert web development using Ruby, Javascript and DevOps. Languages: JavaScript, Ruby, TypeScript. Topics: rails, ruby, ruby-on-rails, survey-app, survey-form, survey-solutions, surveys, surveys-management",
+   "site_text": "[https://www.codemancers.com/]\nCodemancers – AI-first Engineering & Product Consulting Blog Services Our Work Products Portfolio Talk to Us Address 2nd Floor, Zee Plaza, No. 1678, 27th Main Rd, Sector 2, HSR Layout, Bengaluru, Karnataka 560102 Contact [email protected] +91-9731601276 Follow us Y Combinator 2019 🏆 Government AI Hackathon Winner AI-First Engineering & Product Consulting Studio For 14+ years, we've been building products, developing high-performance web applications, modernizing legacy systems, and now implementing end-to-end AI for startups that need to move faster and enterprises that can't afford to break things. Let's Talk → By the numbers 14+ Years of building software 120+ Projects 10+ Industries served 12+ Countries serving global clients What clients say “ Codemancers isn't just a dev shop, they're a true strategic partner. From day one, they brought not only technical expertise but also a deep sense of ownership and alignment with our values. We came to them looking for quality talent and guidance to help us build better products and they delivered far beyond expectations. Their team integrated seamlessly with ours, communicated brilliantly, and proactively tackled challenges as if they were part of our internal crew. One standout moment was during the rebuild of our management systems. With almost no documentation, they rolled up their sleeves, met with end users and mapped out every edge case to help us design a vastly improved system. ” Renaldi Tjahaya Director of IT and CRM Loyalty, Kawan Lama Group Seven ways we make AI work for your business Each offering is designed to fit where you are right now and grow with you. AI Readiness Audit Know exactly where AI will win for you A 2–3 week diagnostic that maps every AI opportunity across your stack, scored by business impact vs effort. You get a prioritized roadmap, a prototype for your top 2 use cases, and an executive deck your CTO can present to leadership. AI Cost Optimization Get more from every AI dollar We audit your models, prompts, and infrastructure costs, then fix what is quietly draining your budget MVP in a Week From product discussion to live product in 7 days We extract the core, strip the noise, and ship something real. Ideal for founders and PMs who need to validate before committing to a full build. AI Governance and Security Safe, compliant, and yours to control AI that meets your security standards, satisfies compliance requirements, and keeps your team in full control of every decision. We build the guardrails in from the start so compliance never becomes a blocker. Chief AI Officer As A Service The AI voice your boardroom needs Build vs buy, AI roadmap, technical due diligence. We show up when the decisions actually matter. Legacy Modernization Rebuild aging systems without stopping the business Done at scale: 1,000+ store retail platform, zero downtime, no docs to start from. We turn your liability into a foundation for AI. AI Maintenance and Support Your AI systems, always healthy Model drift, output degradation, performance dips. We monitor, retrain, and tune so your AI investment keeps delivering ROI long after launch. Straight From the Team Quick hits on YouTube, deeper dives on the blog: what we've been building and learning lately. Latest shorts View channel → Codemancers · YouTube HTTP Just Added Its First New Method in 20 Years Did HTTP really just get a new method after nearly two decades?For years, developers have had to choose between GET and POST when dealing with complex query ... Watch short Codemancers · YouTube We Built an AI Assistant That Sorts Your Day by 9 AM. Tomorrow, we build this live. 👇Most of us lose the first 30 minutes of the day jumping between Slack, calendar and email. In this live tech talk, Sibtain (A... Watch short Codemancers · YouTube Your PDF's are costing you 2x the tokens. Is Claude eating your tokens? Your PDFs might be the reason.When Claude reads a PDF, it doesn't just process the text. It ",
+   "email_candidates": [
+    {
+     "email": "hello@codemancers.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "sujay@codemancers.com",
+     "where": "GitHub commits (codemancers)",
+     "kind": "personal",
+     "name": "sujay-sp",
+     "commits": 1
+    },
+    {
+     "email": "prabhusujay@gmail.com",
+     "where": "GitHub commits (codemancers)",
+     "kind": "personal",
+     "name": "SujayPrabhu96",
+     "commits": 8
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "0a13aba8a0",
+   "company": "IoTReady",
+   "website": "http://www.iotready.co",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go, Python, Shell. Topics: bash, cli, forgejo, gitea, rest-api",
+   "site_text": "[https://iotready.com/]\nIoTReady Skip to content Traceable Quality Colour theme System Light Dark Talk to us Menu Talk to us ERPs repeat the lies we tell them. IoTReady captures the truth as it happens. We track inventory, assets and people across factories, warehouses and retail. 5M+ Assets $9B+ Inventory 2500+ Locations Talk to us See your industry Four layers replace paper and Excel, one at a time. You don't need all four on day one. Your ERP and your floor disagree We hear it from every kind of customer: on SAP, on Tally, with no SOPs and with McKinsey-designed SOPs. The stock in the system is not the stock on the shelf. What the ERP is told A quantity typed in from memory, hours after the event A batch number copied from a handwritten note A dispatch confirmed because the paperwork was signed Variance discovered at the next stock count What we capture The identity read off the item itself, at the moment it moved The quantity measured: weight, dimensions, temperature The operator, the location and the time, attached automatically Variance flagged at the dock, while it can still be fixed Three steps to traceability Define what to track Which SKUs, batches, assets or people need a record, and what \"true\" means for each one. List the inventory categories or assets in scope Agree the fields that make a record true: identity, quantity, context Pick an identification technology QR, RFID, BLE, NFC, UWB or GPS. We will tell you which one suits the asset in front of you. Match the technology to the environment: line speed, range, cost per tag Pilot on one line or one dock before it is everywhere Go live The business rules engine starts writing records to your ERP, whether SAP, Zoho, ERPNext or whatever you already run, the day the readers go live. Wire the reader to the rules engine and point it at your ERP Adapt the rules yourself as the workflow changes: most customers use about twenty lines of Python on the dashboard A crate from scan to goods receipt in under three seconds A farmer sells leafy vegetables at a BigBasket collection centre. The crate is scanned, weighed and validated in under three seconds, and the goods receipt posts itself. The model Identity, quantity, context Get all three right at the moment the goods move and the record is true. Miss one and you are back to reconciling spreadsheets. Identity A QR, RFID or NFC mark on the crate, pallet, carton or SKU unit - single-use or multi-use, read off the item itself. Quantity Weight from the RS232 scale already bolted to your floor, from 100 g to 100 tonnes, with moisture-loss estimation for the geography and the season. Context Supplier, operator, site and time, carried by an offline-first mobile app and a business-rules engine that syncs to SAP, Zoho, ERPNext and others. Identity + Quantity + Context = Truth Solutions Three things to track, one discipline All solutions Solution Inventory Management ERPs repeat the lies we tell them. We capture the truth at the source instead. Solution Asset Tracking Two components: something that moves, and something that anchors it. Solution People Tracking Who is on site, which zone they are in, and how they find their way around it. Industries Receiving, processing, dispatching - every one of them All industries Ecommerce Quick Commerce Dark stores move faster than any ERP can follow, so the record has to be made at the dock while the crate is still there. Manufacturing Snacks & Sweets Short shelf life, batch recall exposure and weight-based yield, all of which need the record made on the line. Manufacturing Heavy Manufacturing Large parts, long cycles and expensive tooling, where knowing where a thing is matters as much as knowing how many there are. Energy Solar Every module carries a serial for twenty-five years of warranty, so the trail is a contractual requirement and the only question is what it costs to capture. Logistics Coldchain The stock record and the temperature record belong together, because a reading you cannot tie",
+   "email_candidates": [
+    {
+     "email": "hello@iotready.co",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "f137fc9333",
+   "company": "Sanchaya | ಸಂಚಯ",
+   "website": "https://sanchaya.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Kannada Sanchaya - Is a platform to build various research and development projects with the help of technology. Languages: HTML, JavaScript, TypeScript. Topics: fonts, fontsource, heritage, inscriptions, kannada, kannada-font, kannada-fonts, kannada-karnataka-history, kannada-revival-fonts, karnata-fonts, karnata-kittel, karnataka, karnataka-dynasties, karnataka-education, karnataka-history, karnataka-kings-timeline, language-technology, ocr, ocr-training, revival-typeface, sanchaya-fonts, typefaces",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "info@sanchaya.org",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "11bb49aaa6",
+   "company": "SendX",
+   "website": "http://sendx.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore ",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Lead Generation + Email Marketing Automation Platform. Languages: Java, JavaScript, PHP, Shell. Topics: agent-skills, ai-skill, claude, compliance, deliverability, email-automation, email-copywriting, email-marketing, sendpost, sendx",
+   "site_text": "[https://www.sendx.io/]\nSendX: Email Marketing Software | Unlimited Sends, AI Deliverability Switch Products SendX Email software to send campaigns, build lists, and automate marketing Current SendPost Reach your customers' inboxes on time, every time with Email API + SMTP Relay Switch Products SendX Email software to send campaigns, build lists, and automate marketing Current SendPost Reach your customers' inboxes on time, every time with Email API + SMTP Relay Book a demo Try it free Product Features Grow your list Forms Landing Pages Popups Create & send Newsletter Campaigns AI Editor Drip Campaigns A/B Split Test Automate & segment Visual Workflows Audience Management Segmentation Deliver & measure Managed Deliverability Email Analytics Inbox Testing View all Features Addons Auto Warmup Email List Cleaning Read, Skimmed And Glanced Franchise Support Dynamic Sender Bot Open/Click Tracker Custom Reply View all Addons Powered by SendPost SendPost AI-powered deliverability engine that ensures your emails land in the inbox. Explore SendPost Industries Creators & Media Newsletters Publishers Authors & Bloggers Business Ecommerce SaaS Local Businesses Gaming Casinos iGaming Resources Learn Email Strategy Email Deliverability Email Automation Email Design Email List Building Newsletters Compare Tools & Pricing Case Studies Blog Guides Developers SendX API Docs SendPost API Docs Knowledge Base Pricing Ask AI Log In Book a demo Try it free Send unlimited emails. Land in the inbox. That's it. Email marketing software trusted by 3,000+ businesses to deliver over 4.4 billion emails. Our AI sending engine monitors sender reputation, adjusts throttling automatically, and maintains 95â98% inbox placement rates â so you never have to think about deliverability. Start Free 14 Day Trial No credit card required. Cancel any time. Sending at scale? Let's talk Rated 4.6/5 on G2 and Capterra The complete email platform Everything you need to create, send, and optimize your email campaigns More opens & clicks Automate your workflow Turn traffic into signups Capture leaving visitors Target the right people See what's working Reliable transactional email Build with our API Personalize at scale Newsletter Campaigns Create and send beautiful emails that actually get opened, read, and clicked. Drag-and-drop email builder with no coding required Responsive templates that look great on any device Smart sending times based on recipient behavior Personalization that goes beyond just first names Spam testing to ensure deliverability Explore Newsletter Campaigns Visual Workflows Set up powerful automation sequences that nurture leads and drive conversions. Visual workflow builder with drag-and-drop interface Trigger-based automation for timely engagement Conditional logic to personalize customer journeys Multi-channel sequences including email, SMS, and more Performance analytics to optimize your workflows Explore Visual Workflows Landing Pages Create high-converting landing pages without any coding or design skills. Drag-and-drop page builder with responsive design Pre-designed templates for quick deployment Custom domains and SSL certificates A/B testing capabilities to optimize conversion rates Seamless integration with your email campaigns Explore Landing Pages Popups Capture more leads with customizable forms and targeted popups. Customizable form fields and validation rules Behavior-triggered popups based on user actions Exit-intent technology to reduce bounce rates Mobile-friendly designs that work on all devices Direct integration with your email lists Explore Popups Segmentation Organize and segment your audience for targeted, effective campaigns. Advanced segmentation based on behavior and demographics Automated list cleaning and maintenance Custom fields for detailed subscriber information Tag-based organization for flexible grouping GDPR and compliance tools built-in Explore Segmentation Email Analytics Gain insights into campaign performance",
+   "email_candidates": [
+    {
+     "email": "hello@sendx.io",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "6f3974cd0c",
+   "company": "Janaagraha",
+   "website": "https://www.janaagraha.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python, TypeScript",
+   "site_text": "[https://www.janaagraha.org/]\nJanaagraha - Transforming quality of life in India’s cities and towns Janaagraha's Urban Conclave | 18 March 2026 | See details Janaagraha's Urban Conclave | 18 March 2026 | See details Get Involved What We Do Planning and Design Decentralised Participatory Governance State Capacities Who We Work With Conclave 2026 About Theory of Change Culture Codes Donors Recognition Annual Reports Journey In the news People Resources Get Involved Transforming quality of life in India’s cities and towns We strengthen how cities are planned, designed, governed, and funded — so they work for everyone who calls them home. Get Involved Learn More Planning and Design Decentralised Participatory Governance State Capacities Our cities are struggling Cities are engines of economic prosperity. They attract migrants seeking hope, better opportunities, and a more secure tomorrow. By 2050, 814 million Indians will call cities home—nearly double today’s urban population. Yet the pace of urbanisation has outpaced our ability to govern cities effectively. Sustainable Change Requires Systemic Thinking Cities need to go beyond quick fixes to address the root causes of urban challenges. Efforts to improve infrastructure and services in cities must be supported by efforts to improve the systems that deliver them. This includes laws, policies, institutions, processes, capacities, and frameworks. We call this City-Systems Thinking Learn more about our Theory of Change Better cities for a better India Our work builds trust and engagement between governments, councillors, and citizens. It helps them discover and implement ways of working together to build inclusive and vibrant neighbourhoods and cities. Better cities for a better India Our work builds trust and engagement between governments, councillors, and citizens. It helps them discover and implement ways of working together to build inclusive and vibrant neighbourhoods and cities. 01 Planning and Design Placing people at the heart of how cities are shaped — with roads, public spaces, and neighbourhoods that work for all. Learn more 02 Decentralised Participatory Governance Deepening democracy at the local level — through empowered city governments, engaged citizens, and capable councillors. Learn more 03 State Capacities Strengthening finances and capacities so cities can deliver on the promise of what they can be. Learn more WHAT THEY ARE SAYING ABOUT US JEB BRUGMANN Founding Partner, The Next Practice Having worked with hundreds of cities around the world I have never seen an organisation as effective and speedy as Janaagraha in analysing the challenges of their city’s growth, developing solutions, mobilising the local citizenry and supporting local action. The Janaagraha model combines the roles of a think-tank, a capacity-building organisation and a grassroot movement, which in most cities are split into separate organisations that struggle to coordinate efforts. Janaagraha generates fresh, pragmatic solutions through a truly inter-disciplinary and multi-sectoral approach, and it promotes its solutions boldly with a spirit of entrepreneurship and unjaded conviction. It puts the power of fresh, objective, practical thinking in the hands of citizens. Janaagraha in Numbers Janaagraha in Numbers Platforms for participation catalysed for 1.6 million citizens in 2,900 urban poor settlements in Odisha INR 120 crores allocated by Bengaluru through MyCityMyBudget in FY 2020-21 15,000+ financial statements published by 4,300+ cities on CityFinance.in My City My Responsibility A Handbook for Active Citizenship A ready reckoner that is designed to help individuals become active citizens, regardless of their experience or expertise. Learn more My City My Responsibility A Handbook for Active Citizenship A ready reckoner that is designed to help individuals become active citizens, regardless of their experience or expertise. Learn more Collaborative Action for Collective Good Access Resou",
+   "email_candidates": [
+    {
+     "email": "info@janaagraha.org",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "7191b6dee1",
+   "company": "nighthack",
+   "website": "https://nighthack.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Nighthack Technology Private Limited. Languages: Python, TypeScript",
+   "site_text": "[https://www.nighthack.in/]\nResearch And Prototyping | Nighthack Labs Consulting top of page We help you in transition of your ideas to Scalable Products If you have something seemingly improbable to solve, we have the expertise to solve it Get Started Curating the perfect solution for your business Production ready on bleeding edge. We have formed a continuous partnership with over 14 companies over the last 10 years with teams that primarily compose of hackers and problem solvers Cloud Analytics Modernization ETL Pipelines, Multi-stage model evaluations, Data segmentation, analytics and Customized Business intelligence insights Versatility in Application Enterprise ready from MVP. Solid programming stacks with a detailed understanding of your business requirements. Data Science Acceleration Domain Specific analysis and exploration of data to build models that get the work done - deployed at scale! Full Product Experience Not just software - A complete Product Consulting experience is what we bring to the table. Currently serving as the tech team of many startups. Unprecedented Velocity. Impeccable Reliability. Our primary work is with founders and startups who have an idea which needs the right execution. We won't shy away from any problem statement, any stack or any scale which builds the best product. We definitely don't believe in coding a \"software\" but rather building the right Product. ​ ​ We also work with well established companies as a prototyping and research arm taking up fringe problems for quick solutions and also challenging statements in existing systems to aid scaling and optimization. ​ Challenge us ... We are the solution experts! Learn More We Take Pride in Our Numbers 10 Years of Partnerships 18 Business Partners 44 Products in Production 16 Countries World Wide 5 Industry Awards Tech Stack Frontend Backend Black -Box Blockchain Deployment bottom of page\n\n[https://www.nighthack.in/careers]\nCareers | NightHack Labs top of page Join a career you'll love It's not just a job, it is a career! ​ At nighthack we ensure you always have challenging problems to solve and good solutions to engineer. Furthermore, you always have the option to work on your own funded product. ​ Be a part of the expert consulting group. Advice and collaborate on cutting edge research and prototyping projects. Learn Product engineering and best practices and get your hands dirty with bleeding edge technologies... Work from Anywhere Work from a beach, or home or a vacation spot Perks Performance Bonuses, Weekend hackathons, Side projects Flexible Stack Everyone has freedom to try any stack to solve the problem given Flexible Hours Work in the day, work in the night, work in the evening - you decide Build your Own Mentorship to take your idea to a product while you work with us ̶C̶u̶t̶t̶i̶n̶g̶ Bleeding Work with the technology that will build the future, today... Current Vacancies We post very specific jobs and recruit the right fit of candidates with the right passion and drive Our Annual Holiday Sale Add information about the promotion here. Click to edit the text and any details about the sale you want users to know. Shop Now Think you got what it takes? We are looking for creative minds to solve complex problems and work with the latest and greatest tech bottom of page\n\n[https://www.nighthack.in/contact-3]\nContact | NightHack Labs top of page So, What do you have in mind? Contact Us Let's Get in touch and discuss your next product, explore the possibilities and turn your vision into reality together Address # 6, Lewis Workspace, Jayamahal, CBD, Benson Town, Beng aluru, 560046 Email Info@nighthack.in Phone Coming Soon bottom of page\n\n[https://www.nighthack.in/about]\nOur story | NightHack Labs top of page The Product Studio We Just don't code.... We Create Reliable products! Our DNA runs in building prototypes which become the backbone of large scale applications. Over the last 10 years, our expertize in the best software practices and ",
+   "email_candidates": [
+    {
+     "email": "careers@nighthack.in",
+     "where": "job posting",
+     "kind": "hiring"
+    },
+    {
+     "email": "info@nighthack.in",
+     "where": "https://www.nighthack.in/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "874e2f7633",
+   "company": "Gahan AI",
+   "website": "https://gahanai.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Gahan AI is an all weather autonomous driving company focusing on of-road vehicles. Languages: C++, Python",
+   "site_text": "[https://gahanai.com/]\nGahan AI — Full Stack 360 RADAR–Camera Perception. Built for Bharat. India's Only Production-Ready Indigenous Radar Full Stack 360 RADAR — Camera Perception. Built for Bharat. The DRWIG radar platform delivers automotive-grade mmWave perception for automotive ADAS, smart infrastructure, and industrial automation — engineered for Indian roads, weather, and scale. TRL-8 certified — ready for production deployment Texas Instruments' only Indian automotive radar partner 10 patents · 10 TB India-specific training data Pre-Order DRWIG Explore Platform 360° Perception TRL-8 Certified Scroll Built in Bharat Driving Autonomy for India Indigenously Built Hardware Sensor and AI Software 300M+ Vehicles in India By 2030 projection 90%+ Radar Import Dependency India imports almost all sensors ₹4,500Cr Annual Import Bill Radar sensors alone 2027 India ADAS Mandate Bharat NCAP compulsion Trusted by India's Leading Automotive & Defence Organisations Quest Global Renesas Electronics Corporation Mercedes-Benz R&D India Tata Motors Navajna Technologies Deep Terrain AI Sciffer Analytics IIT Bombay Delby Technologies Quest Global Renesas Electronics Corporation Mercedes-Benz R&D India Tata Motors Navajna Technologies Deep Terrain AI Sciffer Analytics IIT Bombay Delby Technologies The Platform Meet DRWIG Automotive-grade Radar With Indigenous Genius. A full-stack mmWave radar platform — from silicon to software — designed and built in India. DRWIG-Auto 77 GHz FMCW radar for automotive ADAS. 4D point-cloud perception with India-specific ML models trained on 10 TB of local road data. AEC-Q100 qualified. DRWIG-Infra Smart infrastructure radar for traffic management, pedestrian detection, and smart city applications. IP67-rated for all Indian weather conditions. DRWIG-Industrial High-precision radar for industrial automation, perimeter security, and logistics. Operates in extreme dust, humidity, and temperature conditions. Full Platform Specifications Industry Verticals Built for Every Critical Sector One indigenous radar platform. Three industries. Engineered to operate where foreign sensors fail. Defence Indigenous radar for border surveillance, perimeter security, and unmanned systems. Fully sovereign, no foreign dependency — critical for national security applications. Perimeter & border surveillance UAV and drone detection DRDO-aligned specifications 100% indigenous supply chain Automotive Automotive-grade 77 GHz radar for passenger vehicles, commercial trucks, and two-wheelers. Validated on Indian roads — monsoons, dust storms, heterogeneous traffic. Aligned with India's 2027 ADAS mandate. 77 GHz FMCW mmWave radar AEC-Q100 compliant India-specific ML perception 2027 ADAS mandate ready Industrial Robotics High-precision radar sensing for autonomous mobile robots, warehouse automation, and factory floor safety. Operates through dust, smoke, and extreme temperatures where cameras and LiDAR fail. AMR & AGV navigation Factory floor safety zones IP67-rated for harsh environments Real-time obstacle detection Why Gahan AI The Numbers That Matter Built on years of deep research, real-world validation, and strategic partnerships at the frontier of Indian mobility. 10 Patents Filed Protecting core IP 10 TB Training Data India-specific radar datasets TRL-8 Technology Readiness System complete & qualified #1 TI India Radar Partner Automotive radar partner Growing Market Opportunity Targeting automotive OEMs, defence integrators, and smart city projects. India's 2027 ADAS mandate creates an immediate $2B+ indigenous sensor market. Active OEM Qualification In active qualification with Tata Motors and Ather Energy for passenger car and two-wheeler ADAS programmes. Defence procurement pipeline established. Production-Ready Today Unlike academic radar projects, DRWIG is TRL-8: system complete and qualified for deployment. No lab-only technology — real hardware, real performance. The Problem India Imports 90%+ of Its Radar Sensors Every radar ",
+   "email_candidates": [
+    {
+     "email": "info@gahanai.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "hr@gahanai.com",
+     "where": "https://gahanai.com/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "63268fff2c",
+   "company": "Settlin",
+   "website": "https://settlin.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python. Topics: collage, formik, material-ui, mongodb, mongodb-backup, react, react-dropzone, react-select",
+   "site_text": "[https://settlin.in/]\nBuy/Sell Flats, Villas, Houses from Best Broker in Bangalore | Settlin Buy or Sell property easily with Settlin Settl - in or Settl - it. Search to Sale-deed Search/List Visit Legal & Loan ✔︎ Settled Try AI Search Beta ₹ 3,000 cr+ Worth homes sold 8,000 + Satisfied customers 2 Lakh + Professional visits 4.6 /5 Google ratings Find Your Perfect Property Discover a wide range of properties tailored to your needs and budget Apartments Find the best suitable Apartment House Search vaastu compliant houses Villa Luxurious villas available for you Apartments Find the best suitable Apartment House Search vaastu compliant houses Villa Luxurious villas available for you How it works? Buy Property Sell Property Discovery and Visits (Cyclical till bought) Update Preferences Share Feedback Shortlist Visit Settlement and Documentation Meeting Token MOU Legal & Loan Closure Available Now Download our mobile app Get the Settlin app for seamless property browsing, instant notifications, and exclusive deals right at your fingertips. 🏠 Browse properties anywhere 🔔 Real-time notifications 📱 Request for a property visit GET IT ON Google Play Download on the App Store ★★★★★ 4.6/5 rating 10k+ downloads Guest , Curious? Find answers to common questions about our real estate services. Can't find what you're looking for? Contact us directly. General FAQs What is Settlin? Settlin is a comprehensive real estate platform that helps you buy and sell properties in Bengaluru. We provide end-to-end services including property search, legal verification, home loan assistance, and complete documentation support. Which areas does Settlin cover? We cover the entire Bengaluru metropolitan area including popular locations like Koramangala, HSR Layout, Indiranagar, Whitefield, Electronic City, JP Nagar, Banashankari, and others. How is Settlin different from other real estate platforms? Unlike traditional platforms that just list properties and provides you leads, Settlin provides end-to-end deals. Settlin is an E-broker (not classified) and takes care of everything, end-to-end, at your fingertips and doorsteps. It provides verified properties with complete legal checks, assisted visits, price analysis, and end-to-end transaction support. We focus on quality over quantity and ensure transparency throughout the process. Do I need to pay anything upfront? No, there are no upfront payments. For buyers, you pay only after successful property registration. For buyers, its Zero Brokerage with documentation, verification, loan everything on the house. For sellers, you pay only after the deal is closed and only if the buyer is brought by Settlin. Are you RERA registered? Yes, we are RERA registered. Our registration number is PRM/KA/RERA/1251/446/AG/180205/001849. This ensures we operate under regulatory compliance and maintain transparency in all transactions. Do you have a mobile app? Yes, we have mobile apps available for both Android and iOS. You can download them from Google Play Store and Apple App Store to track your property search, get real-time updates, and communicate with our team. How can I track my property search progress? Our app and web platform provide real-time updates on your property search, visit schedules, documentation progress, and transaction status. You'll always know where things stand. What if I need support outside business hours? While our office hours are standard business hours, you can always reach us at +91-95-9003-9003, or drop us a call back request, or reachout to your Relationship manager, for urgent matters. We also provide support through our app and email for non-urgent queries. Quick Contact For immediate assistance, call us at +91-95-9003-9003 or check out our pricing and services. View Pricing Service Areas About Us Still Have Questions? Our team is here to help you with any specific questions about buying or selling property in Bangalore. +91-95-9003-9003 Start Property Search Hot Projects for you 1 of 6 Sho",
+   "email_candidates": [
+    {
+     "email": "career+webapp@settlin.in",
+     "where": "https://settlin.in/",
+     "kind": "personal"
+    },
+    {
+     "email": "hello@settlin.in",
+     "where": "https://settlin.in/",
+     "kind": "generic"
+    },
+    {
+     "email": "escalation@settlin.in",
+     "where": "https://settlin.in/contact",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "5f2be7f1b9",
+   "company": "Qzip Blockchain Technologies",
+   "website": "https://www.qzip.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Noida, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "QZip Blockchain Technology Solutions. Languages: Go, Java, Protocol Buffer",
+   "site_text": "[https://qzip.in/]\nQzip.in",
+   "email_candidates": [
+    {
+     "email": "mail@kaveribanerjee.in",
+     "where": "https://qzip.in/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Noida · active GitHub org, no posting"
+  }
+ ]
+}

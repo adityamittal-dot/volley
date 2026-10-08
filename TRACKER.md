@@ -1,19 +1,20 @@
 # Tracker
 
-_Updated 2026-10-07T20:02:21Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-08T06:47:02Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 154 · **Sent:** 154 · **Replies:** 14 (9%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 154 · **Sent:** 154 · **Replies:** 15 (10%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
-| new | 255 |
+| new | 307 |
 | skipped | 2 |
-| no_contact | 553 |
+| no_contact | 571 |
 | low_fit | 263 |
-| sent | 60 |
+| researching | 75 |
+| sent | 59 |
 | followup_1 | 59 |
 | followup_2 | 13 |
-| replied | 14 |
+| replied | 15 |
 | bounced | 8 |
 
 ## Reply rate by angle
@@ -21,7 +22,7 @@ _Updated 2026-10-07T20:02:21Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | Angle | Sent | Replies |
 |---|---|---|
 | medvault | 70 | 5 |
-| canopy | 45 | 6 |
+| canopy | 45 | 7 |
 | basepair | 39 | 3 |
 
 ## Reply rate by subject style
@@ -29,7 +30,7 @@ _Updated 2026-10-07T20:02:21Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | Style | Sent | Replies |
 |---|---|---|
 | role | 135 | 13 |
-| short | 19 | 1 |
+| short | 19 | 2 |
 
 ## Replies
 
@@ -46,6 +47,7 @@ _Updated 2026-10-07T20:02:21Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **Xero** —  <careers@xero.com> replied 2026-09-30
 - **ColoredCow** — Vaibhav Rathore <vaibhav@coloredcow.com> replied 2026-10-01
 - **HivarSoft** — Hitesh Kumar <dev.hitesh.k@gmail.com> replied 2026-10-05
+- **Izinga Software Private Limited** —  <hello@robustest.com> replied 2026-10-08
 - **Greenzie** — Charles Brian Quinn <cbq@greenzie.com> replied 2026-10-06
 
 ## Latest 25 emails
@@ -70,7 +72,7 @@ _Updated 2026-10-07T20:02:21Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-07 | Leeroo | founders@leeroo.com | canopy | replied |
 | 2026-10-07 | Sparkles | bekirov.aida@gmail.com | canopy | sent |
 | 2026-10-07 | Karnival | contact@karnival.com | medvault | sent |
-| 2026-10-07 | Izinga Software Private Limited | hello@robustest.com | canopy | sent |
+| 2026-10-07 | Izinga Software Private Limited | hello@robustest.com | canopy | replied |
 | 2026-10-07 | Practo | hireme@practo.com | medvault | sent |
 | 2026-10-07 | smallcase | work@smallcase.com | medvault | sent |
 | 2026-10-07 | nilenso | careers@nilenso.com | canopy | sent |

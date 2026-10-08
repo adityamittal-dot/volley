@@ -1,0 +1,233 @@
+{
+ "leads": [
+  {
+   "id": "bc43922a28",
+   "company": "Canarys Automations",
+   "website": "https://www.ecanarys.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Canarys is GitHub Verified Partner, Microsoft Gold Partner on DevOps and Cloud, DevOps FastTrack Partner, providing services to customers in India, APAC, USA.. Languages: JavaScript, Python",
+   "site_text": "[https://ecanarys.com/]\nCanarys | Agentic AI Engineering & CAR Framework | DevOps Canarys — Agentic AI Engineering & CAR Framework Agentic AI · CAR Framework · DevOps · Engineering · Consulting Engineering certainty for the AI era. 30 years of engineering depth. Agentic AI delivery today. The Canarys Automation Resilience (CAR) framework directly translates to Business Resilience — so your technology investments compound, not expire. See the CAR Framework Explore Services 5× Engineering Productivity per person, via Agentic AI 3–5% Cost Reduction delivering more with fewer resources per engagement 35% Faster Delivery vs. traditional approach 440+ Hours Freed per engagement — reinvested 30+ Years in engineering 5,00+ Global clients served Top Ranked GitHub APAC Partner 2024 85%+ Client retention rate 01 — About Built different. By design. “We don’t arrive with a catalog. We embed, adapt, and deliver — every time.” Canarys is a boutique Agentic AI engineering firm with 30 years of delivery depth. We combine enterprise-grade partner credentials with the agility and consultative depth that large SIs cannot offer. A Fortune 100 technology company — with every resource a large SI has — chose us for their Agentic AI journey. The leading large SI now routes that work through us as a preferred partner. 2× Project throughput — same team, AI leverage +80% Revenue per person via Agentic AI Fortune 100 Enterprise clients choose our boutique for AI 4 CAR pillars — all production-ready today 02 — Partners Tier-one ecosystem. Strategic Partner · APAC Top Ranked Gold Partner · DevOps Silver Solutions Partner Certified PSP FastTrack Partner Security Partner GitHub APAC Channel Partner of the Year — 2024 Ranked number one globally and number one in Asia for GitHub certifications. Recognised at GitHub Universe, San Francisco. GitHub 2025 Growth Services & Channel Partner of the Year Selected by GitHub executives for strategic vision and transformative client outcomes across the enterprise ecosystem. Microsoft DevOps Partner of the Year — Finalist 2017 & 2018 Microsoft Gold Partner for DevOps, Cloud Platform, and Application Development across India, APAC, and USA. Curated Startup Ecosystem Alongside tier-one partners, we maintain a curated, effectiveness-tested startup ecosystem — bringing emerging AI tooling to enterprise problems faster than any catalog-driven SI. Where large SIs can’t go, startups trust us. AI / ML Tooling DevSecOps Observability Test Intelligence Low-Code Infrastructure AI Value Stream Analytics 03 — CAR Framework Automation Resilience is Business Resilience. Engineering certainty Faster design. No rework. Translates to → Shorter time-to-market. Lower cost of change. Pipeline intelligence Self-optimising delivery. Translates to → Fewer outages. Predictable release cadence. Self-healing quality Test suites that heal themselves. Translates to → Higher release confidence. Lower defect cost. Proactive support Issues fixed before customers see them. Translates to → Protected revenue. Stronger NPS. Design → Engineer → Test → Support Full lifecycle · All pillars production-ready D 01 CAR-D Design AI agents that generate, validate, and iterate on interface designs. Compress design-to-handoff without sacrificing quality. E 02 CAR-E Engineering CI/CD agents that optimise pipelines, predict failures, and auto-remediate before issues escalate. T 03 CAR-T Testing Sense · Spot · Heal · Flow. Four agents keeping test automation intelligent, self-healing, and always current. S 04 CAR-S Support Anomaly detection, failure prediction, auto-generated patches — before issues reach customers. Smartify — not rip-and-replace. We make existing investments smarter — self-healing, disciplined, long-lived. We surface blind spots and resolve them. Systems that last. Value you can measure. 04 — Services 30 years deep. AI native now. Every service practice we have built over three decades is now amplified by the CAR framework — making our existing strengths",
+   "email_candidates": [
+    {
+     "email": "devopstools@ecanarys.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "9e5b0efec0",
+   "company": "Deplexo",
+   "website": "https://deplexo.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Deploy and manage websites, APIs, and bots on Deplexo.. Languages: CSS, Go. Topics: documentation, example-code, example-project, examples",
+   "site_text": "[https://deplexo.com/]\nDeplexo: Free App Hosting for Developers | Deploy from GitHub Deplexo Sign in From your repository to production From git push to a live app. Connect your repository. Deplexo builds your code and gives your app an HTTPS address. Your next release starts with a push. Deploy for free View plans Free tier · No credit card required Deploy with your AI agent Explore MCP Deplexo Deploy and manage your apps. Try a sample project. DEPLEXO Dashboard storefront-api Projects / storefront-api storefront-api running Redeploy storefront-api.de.deplexo.com Open sample app Resources Live CPU 0.12 vCPU 0.5 vCPU limit Memory 186 MB 512 MB limit Deployment complete Live deploy 100 % Queued Clone Build Swap Start Live Health check passed · https://storefront-api.de.deplexo.com 4.5 s Starting application on port 3000 5.0 s Checking application health… 5.5 s Health check passed · https://storefront-api.de.deplexo.com Recent deployments View all Ready feat: add order webhooks main · 9f3c2a1 Current Ready perf: cache product images main · 4be81d0 Stop app Open sample app Builds for your stack Node.js Python Go Ruby Rust Java PHP Elixir Static sites Any Dockerfile runtimes detected 10 runtimes detected git hosts over OAuth 4 git hosts over OAuth config files required 0 config files required to run one app $0 to run one app How it works A push is all it takes. Connect your repository once. Each push builds your code and brings the next version online. 0 1 acme / storefront-api Repository connected Connect a repository Choose the repos you want to share. GitHub, GitLab, Bitbucket, and Codeberg connect over OAuth, with access you can revoke from one screen. 0 2 git push origin main Image built Push your code A push starts a build using your Dockerfile. Or choose automatic detection and let Deplexo generate one for your framework. 0 3 storefront-api.de.deplexo.com Health check passed Go live Once healthy, your app gets its own HTTPS subdomain. Follow build and runtime logs in the dashboard, and roll back to a previous successful build. Deplexo MCP Your agent. Your next deployment. Connect Claude Code, Cursor, or another MCP client to Deplexo. Deploy from Git, check progress, and read logs from the same conversation. Connect your agent Sign in through your browser. Review and approve access, and disconnect any time. Claude Code Cursor MCP clients Deplexo MCP Example conversation How is my latest deployment doing? storefront-api is running. Build complete. Health check passed. Built on Model Context Protocol. Included on every plan The parts you would otherwise script yourself. Isolation, routing, logs, and webhooks come with every app. Secure by default Every app runs in its own isolated container, so one app cannot see another's files or processes. Auto subdomains Each web service is routed to its own subdomain with HTTPS as soon as the first deploy is healthy. There is no DNS to configure. Resource limits Every container has hard CPU, memory, disk, and bandwidth caps set by your plan, so each app stays within its assigned limits. Outgoing webhooks Deployment events are sent as signed webhooks to any URL you choose, including Discord and Slack. Real-time logs Build output and container logs stream to the dashboard while they are written. You never need to SSH into a server. OAuth, no PATs Git hosts connect over OAuth and only see the repos you grant. Personal access tokens are never needed. Before you commit Where it stops today. Better to read the limits here than to find them in production. One instance per app Each app runs as a single container with fixed CPU and memory. There is no autoscaling or load-balanced pool yet. No managed databases We don't provision Postgres, MySQL, or Redis. Point your app at a hosted database and store the credentials as env vars. One data volume per app The container filesystem is read-only. Your app can write to one persistent volume, mounted at /data by default and sized by your plan's disk limit",
+   "email_candidates": [
+    {
+     "email": "contact@deplexo.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "dbaaa6aca1",
+   "company": "Syook",
+   "website": "http://syook.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We develop next gen ERP solutions based on indoor location. Languages: JavaScript, TypeScript",
+   "site_text": "[https://www.syook.com/]\nReal Time Location System (RTLS) & Agentic AI | Syook | Industry 4.0 | IoT top of page Partner with us to automate business process with RTLS solution. Click to visit the New Partner Portal→ Contact Us No-Code RTLS Platform for business process automation With complete real-time visibility Enhance Safety Amplify Productivity Ensure Compliance From real-time visibility to intelligent action. Maayaa, our AI layer, reads your SOPs and operational documents to recommend the right next step — every time. Calculate RoI Book a free demo PARTNERS & CUSTOMERS NO-CODE Build your own rules and workflows Address any use case within minutes by building your rules and workflows without a single line of code INTELLIGENCE LAYER From visibility to intelligent recommendations Real-time location data tells you what is happening on your shop floor, your site, your facility. But knowing what is happening is only half the answer. The other half is knowing what should happen next- and that lives inside your SOPs, safety policies, equipment manuals, and compliance documents. Maayaa is the agentic AI layer that closes that gap. It reads your operational knowledge - every SOP, every policy, every manual - and combines it with InSite's live data to recommend the right next action. Your team approves. The system acts. Every recommendation is cited, logged, and audit-ready.. The result: faster, safer decisions across safety, compliance, productivity, and capex Safety A contractor enters a hazardous zone without a valid Permit-to-Work. Maayaa cross-references the EHS SOP, alerts the supervisor, and recommends an immediate stop-work - with the exact policy clause attached. Your team approves. The system logs everything for audit. Productivity An asset's utilization drifts outside the operating window defined in your SOP. Maayaa checks the maintenance manual and CMMS history, then recommends either a service work-order or a reallocation. Your supervisor approves. Downtime drops, throughput rises. Capex Across multiple facilities, a class of assets is over-deployed in some zones and under-deployed in others. Maayaa reads the SOPs that govern minimum coverage, compares them against live deployment data, and recommends a reallocation that defers a capex purchase. Your team approves. The savings flow straight to the bottom line. Human-in-the-loop today. Built to operate autonomously for trusted workflows tomorrow. MICRO TO MACRO Global coverage for your assets Access to every hierarchy of location information OPERATE FROM FIELD Perform on-field operations via InSite mobile app. Manage on-field or remote operations with agility. Manage on the go MARKETPLACE Digitize your business with an exclusive marketplace 4 Add Ons Group 269 Add Ons 6 Add Ons 4 Add Ons 1/3 Explore Marketplace DEPLOYING SOLUTIONS GLOBALLY Made for the world 4X 25% 40% 20 + 5K + Average ROI Increased Efficiency Increased Safety Locations Deployed Assets Tracked Unprecedented Velocity. Impeccable Quality USE CASES Solutions designed for various use cases Implemented by Fortune 500 companies. Out of the box solution to help your business achieve its peak potential and operational excellence People Management Syook’s people management solution allows you to monitor the movement of people and their location within the facility or geofenced area Explore use case > Asset Management Syook’s asset management solution enables users to monitor all their assets on a digital dashboard and reduces the time spent searching for assets. Explore use case > Truck-in Truck-out ™ Syook’s Truck-in Truck-out ™ solution enables users to monitor the movement of trucks and their location within the facility or geofenced areas on a digital dashboard. Explore use case > Explore more use cases TESTIMONIALS Why our customers love us “Syook provides us with complete real-time visibility inside our factory which enables us to ensure the safety of our workers and gives us an idea of their whereabouts.",
+   "email_candidates": [
+    {
+     "email": "tech@syook.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "info@syook.com",
+     "where": "https://www.syook.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "careers@syook.com",
+     "where": "https://www.syook.com/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "2f56cf80df",
+   "company": "YellowSense Technologies Pvt Ltd",
+   "website": "https://yellowsense.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, INDIA",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Jupyter Notebook, Python",
+   "site_text": "[https://yellowsense.in/]\nYellowsense Technologies - Deep Tech & Industrial Security Enterprise AI Solutions Securing the Future of Intelligent Enterprise Deep tech solutions for fraud prevention, industrial security, and enterprise intelligence. Where Deep Tech Meets Real-World Impact Yellowsense Technologies is a Bengaluru-based deep tech company building AI-driven solutions for industries that demand precision, security, and reliability. From detecting industrial faults before they cause downtime, to stopping financial fraud in real-time, to safeguarding enterprises from cyber threats â we combine cutting-edge machine learning with domain expertise to solve problems that matter. Industrial AI Fraud Prevention Cybersecurity Voice AI Our Solutions Deep Tech & Cybersecurity Comprehensive solutions for fraud prevention, industrial fault detection, and enterprise security. DETECT FRAUD IN REAL-TIME Fraud Detection AI-powered transaction monitoring and behavioral analysis to prevent financial fraud before it happens. Learn more PREDICT FAILURES BEFORE THEY OCCUR Industrial Fault Detection Advanced sensing solutions for real-time fault detection and predictive maintenance in industrial systems. Learn more SECURE DATA ENVIRONMENTS Confidential Clean Rooms Secure, compliant data environments for sensitive data processing with advanced privacy controls. Learn more NATURAL VOICE SYNTHESIS TTS Model Advanced text-to-speech AI model delivering natural, human-like voice synthesis for enterprise applications. Learn more ADVANCED DATA PROTECTION Encryption & Security Platform Enterprise-grade encryption solutions with advanced cryptographic protocols for secure data storage, transmission, and access control. Learn more INTELLIGENT DOCUMENT AUTOMATION Document Processing Advanced AI that restores, extracts, and summarizes data from low-quality scans and complex legal documents. Learn more SMART GOVERNMENT WORKFLOWS eTappal Automation AI/ML-powered system for automated analysis, categorization, and digital routing of administrative documents. Learn more AUTOMATED COMPLIANCE MONITORING Compliance Monitoring System AI-driven system for real-time compliance monitoring and risk management across regulatory frameworks. Learn more BIOMETRIC SECURITY Contactless Fingerprint Authentication AI-powered SDK for secure, contactless fingerprint authentication using standard smartphone cameras. Learn more AI-POWERED IDENTITY ASSURANCE Face Liveness Detection AI-powered liveness verification to prevent spoofing attacks during identity authentication. Learn more MARITIME INTELLIGENCE Naval Innovation Solutions Cutting-edge AI and secure communication technologies for naval defense and maritime operational efficiency. Learn more UNIFIED DATA INTEGRATION NSWS Schema Sync Dashboard A comprehensive dashboard for the National Single Window System (NSWS) to streamline schema synchronization and data consistency. Learn more AI-POWERED NUTRITION INTELLIGENCE Nutrition AI Platform AI-driven nutrition analysis for personalized and population-scale health insights. Learn more INTEGRATED INDUSTRIAL SOLUTIONS TASCO Solutions Advanced integrated solutions for water management, energy efficiency, and AI-driven compliance. Learn more Trusted by Industry Leaders About Us Pioneering the Future of Industrial Security Yellowsense Technologies is a forward-focused deep tech company delivering intelligent solutions for industrial security and efficiency. We combine advanced AI with robust cybersecurity to protect and optimize your operations. Our mission is to solve complex industrial challenges through technology that prevents fraud and detects faults before they impact operations, helping businesses operate securely and efficiently. 50+ Enterprise Clients 99.9% Detection Accuracy 100M+ Media Analyzed 24/7 Real-time Monitoring Our Values What Drives Us Forward Trust & Security Building trustworthy AI systems that protect against digital threats and fraud. Innovation First Pus",
+   "email_candidates": [
+    {
+     "email": "yellowsensetech@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "hr@yellowsense.in",
+     "where": "https://yellowsense.in/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "cc25c4b464",
+   "company": "Lets Flo",
+   "website": "https://letsflo.co",
+   "title": "Software Engineering (no public opening)",
+   "location": "London - Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: CoffeeScript, JavaScript, TypeScript",
+   "site_text": "[https://www.letsflo.co/]\nLets Flo | Get products online faster (without the chaos) What's studio chaos actually costing you? Calculate your Studio Tax Calculate your Studio Tax Calculate your Studio Tax Product Flo Ai Learn Book demo Next event: The Collective - October 22, 2026 | Manhattan, NYC Book demo Next event: The Collective - October 22, 2026 | Manhattan, NYC Book demo Next event: The Collective - October 22, 2026 | Manhattan, NYC Shoot smarter. Launch faster. Shoot smarter. Launch faster. Turn studio chaos into flow. Turn studio chaos into flow. Lets Flo gives e-commerce studios total visibility - from sample to site - so every product launches faster and every team works in sync. Lets Flo gives e-commerce studios total visibility - from sample to site - so every product launches faster and every team works in sync. Book demo Watch video The problem and solution When every shoot lives in a spreadsheet, chaos creeps in. When every shoot lives in a spreadsheet, chaos creeps in. Lost samples Lost samples Missed deadlines Missed deadlines Endless status check-ins Endless status check-ins Teams working blind Teams working blind Studios built on spreadsheets and emails canât keep up with modern e-commerce. Thereâs a better way to run a studio - one where everything connects. Studios built on spreadsheets and emails canât keep up with modern e-commerce. Thereâs a better way to run a studio - one where everything connects. Production Planner Production Planner Production Planner Sample Orders Sample Orders Sample Orders Re-edit/ Reshoot Re-edit/ Reshoot Re-edit/ Reshoot Post Production Tracker Post Production Tracker Post Production Tracker Stock Tracker Stock Tracker Stock Tracker Stock report Stock report Stock report Product Range Product Range Product Range Studio resource planner Studio resource planner Studio resource planner Content report Content report Content report Copywriting Tracker Copywriting Tracker Copywriting Tracker Call Sheets Call Sheets Call Sheets Outfit Tracker Outfit Tracker Outfit Tracker Set Lists Set Lists Set Lists Shoot Guidelines Shoot Guidelines Shoot Guidelines Studio Budget Tracker Studio Budget Tracker Studio Budget Tracker Model details Model details Model details Today, the worldâs leading fashion and retail brands run on Lets Flo. Today, the worldâs leading fashion and retail brands run on Lets Flo. Built by people whoâve lived studio chaos. Built by people whoâve lived studio chaos. Lets Flo was born inside the Burberry studio - created by producers, stylists, and ops teams who needed order fast. Lets Flo was born inside the Burberry studio - created by producers, stylists, and ops teams who needed order fast. The impact of Lets Flo on Boden's operations was profound. Claire Gibbon Director of creative studios Content availability saw a remarkable improvement from 46% to 96%. Additionally, more efficient sample management processes led to a 50% reduction in sample orders Read more 96% Content improvement 50% reduction in sample orders Our product ranges are famous for their details and versatility. Andrew Stellakis IT and Operations Director | Lyle & Scott For content teams, that means producing lots of variations of content. Lets Floâs software offers a level of organisation and product categorisation that helps us maintain our reputation. Read more The impact of Lets Flo on Boden's operations was profound. Claire Gibbon Director of creative studios Content availability saw a remarkable improvement from 46% to 96%. Additionally, more efficient sample management processes led to a 50% reduction in sample orders Read more 96% Content improvement 50% reduction in sample orders Lets Flo doesnât compare to any tool weâve used before: Rima Shah Production Lead | Frasers Group Without Lets Flo our process would stay the same and not evolve, so we wouldnât be able to scale up how much content we shoot, and the quality of our content would decline. Read more 500 Images p",
+   "email_candidates": [
+    {
+     "email": "bruno.m@letsflo.co",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "00acd1fb75",
+   "company": "NovaLabs.in",
+   "website": "https://www.saitejabandaru.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Where builders unite to turn bold ideas into open-source products that shape what’s next.. Languages: JavaScript, Python",
+   "site_text": "[https://www.saitejabandaru.com/]\nSai Teja Bandaru — Data Scientist & AI Researcher Skip to main content",
+   "email_candidates": [
+    {
+     "email": "saitejabandaru.in@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "saitejaroyal2311@gmail.com",
+     "where": "https://www.saitejabandaru.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "f3128ecd43",
+   "company": "Ongraph Technologies",
+   "website": "http://www.ongraph.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Noida, IN",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, PHP, Ruby",
+   "site_text": "[https://www.ongraph.com/]\nOnGraph: Web & App Development Company for Digital Innovation Services Startups Enterprise Mobile App Development iOS Android Flutter Cross Platform App Development React Native Ionic Flutter Startup IT Solutions Market Research Software Development Enterprise IT Solutions Web Web App Development PHP Java ROR Python Development VueJs Angular React NodeJs Ecommerce & CMS Magento Marketplace WordPress Shopify Emerging Technologies Artificial Intelligence Chatbot AI Voice Agents Enterprise Product Engineering Solution Startups Enterprise Industries we serve HRMS Market Research Food Banking Telecom Media and Entertainment Fitness E-Learning Solutions Artificial Intelligence AI Voice Agents AI Voice Agents for Healthcare Cloud Computing Blockchain Marketplace Technical & Operations Staffing Software Support Enterprise Product white label Solutions PROJECT MANAGEMENT PANEL MANAGEMENT TOOL AI Customer Assistant Character AI Platform Dating App OTT App Taxi App Home Services App Food Delivery App Case Studies Why OnGraph About Us Blog Career Contact Us schedule a meeting Meet Experts - 30 Mins AI First Digital Innovation for Modern Businesses AI. Mobile. Web. Cloud. Analytics. Web3. Blockchain. Crypto. Bespoke solutions to drive growth. Consult with us AWS Consulting Partner Odoo Consulting Partner Mira AI Consulting Partner 300+ Developers 500+ Customers 1140 Projects Delivered 96% Retention rate Shaping the Future with Scalable, Intelligent, AI-Powered Solutions At OnGraph, we help businesses accelerate growth through AI-powered solutions, digital transformation services, and ready-to-deploy white-label platforms. Whether you’re modernizing legacy systems, launching scalable SaaS products, or integrating intelligent automation — we have the expertise to deliver. With 17+ years of global experience, our team of in-house AI engineers, solution architects, and product specialists has empowered clients across industries and geographies. From strategy to deployment, we deliver enterprise-grade web and mobile applications that drive measurable business outcomes. Our approach is agile, transparent, and built on proven frameworks — ensuring faster time-to-market, consistent quality, and full alignment with your vision. Let’s build what’s next — together. LEARN MORE ABOUT ONGRAPH GET AN ESTIMATE 18 Years of empirical understanding Trusted by 218 Customers Globally Do you have an Idea? We have an Expert Team! AI Development Get custom AI software tailored to your business goals. Start today. AI Voice Agent Your platform for making ultra-realistic AI Phone Calls White Label Solutions Ready to launch, AI Powered Mobile App Solutions Market Research Solutions AI Powered Market Research Tech Solutions Blockchain Development Build Smart Blockchain and Web3 Solutions view all services OUR INDUSTRIES With the help of our wide range of services in various domains. We have successfully covered various companies globally. In our time frame, we have designed several apps for different companies that have benefited from it and can scale their business to new heights. We will be happy to do the same for your business and help you realize the true potential of your business with our cost-effective services. Banking Market Research Custom e-learning solutions Fitness app development solutions Food HRMS Our Recent Projects Look at how businesses have leveraged our services to excel at what they do. We are excited to add you to our list of happy clients. Pirkx Health & Wellness Portal Pirkx is a comprehensive platform dedicated to companies, employees, and people working in today’s \"Gig Economy\". It aims at making everything rewarding in a corporate or business set-up. DevOps Agile Methodology View Case Study GradReady An Online Learning Portal With GradReady we created a advanced online learning platform built on Ruby On Rails. OnGraph employed next-gen technological stack & modern architecture to achieve GradReady's vision DevOps",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Noida · active GitHub org, no posting"
+  },
+  {
+   "id": "7eb8584f67",
+   "company": "Faveo",
+   "website": "https://www.faveohelpdesk.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, INDIA",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Faveo Helpdesk provides an automated support solution for businesses of all sizes, streamlining customer service operations. . Languages: PHP. Topics: customer-support, helpdesk, helpdesk-ticketing, invoice, license-management, saas-billing, software-licensing, ticketing-system",
+   "site_text": "[https://www.faveohelpdesk.com/]\nHelpdesk and Servicedesk Software | ITSM, AI and RMM Skip to content Home Bhanu S 2026-09-28T17:27:24+05:30 Great customer service starts here-with AI Streamline support operations with Faveo’s multi-channel ticketing system and intelligent AI-powered automations for exceptional service at every touchpoint. A comprehensive, self-hosted & cloud-based ITIL/ITSM solution enhanced with Agentic AI to help organisations of all sizes manage incidents, assets, and more. Powerful, AI-Driven Servicedesk Management 14-day free trial. No credit card required. FREE SIGN UP GET A FREE DEMO Explore Advanced AI Features AI Agent AI Bot AI Assistant AI Agent Smart AI Agent That Works 24/7 Manages up to 45% of queries end-to-end, improving overall agent productivity. Personalize AI personality, tone, and escalation rules to align with your brand across helpdesk or servicedesk operations. Connect with customers across channels and smoothly hand off to live agents when needed. Explore AI Agents AI Bot No-Code AI Chatbot Builder Create smart, reusable conversation flows for common customer interactions. Automate conversations to deliver consistent engagement across channels. Call APIs to create tickets, register users, update records, and more. Explore AI Bots AI Assistant AI Assistant That Enhances Support Productivity Automates tasks like reply suggestions, ticket summaries, and knowledge base article generation to help agents respond faster. Analyzes customer sentiment, requester activity, and ticket details to automatically prioritize issues. Searches knowledge base instantly, translates messages, and prevents tickets from reopening on simple replies. Discover More Powerful Features Connect seamlessly Omni-Channel Integration Connect seamlessly across all channels with our omni-channel integration support software, empowering efficient customer engagement and streamlined support. With Faveo’s Omni-Channel Integration, customers can effortlessly interact with businesses using their preferred communication channels Unlimited Agents Unlimited and Affordable Unlock unlimited user access at an affordable rate with Faveo, empowering your entire team to deliver exceptional customer support. Faveo’s unlimited and affordable pricing model empowers businesses of all sizes to provide top-notch assistance, leaving both customers and your team satisfied. Flexible Self-Hosted and Cloud Based Choose the flexibility that suits your business – Self-hosted for full control over your data or Cloud version for hassle-free server management, both with Faveo. Tailor the platform to your specific requirements, integrate seamlessly with existing systems, and ensure full compliance with your data policies. Let us handle the technical aspects, while you focus on delivering exceptional customer service. Tailor-Made to Perfection Customizable Customize Faveo to your exact specifications, empowering you with a ticketing tool that perfectly suits your unique requirements. Faveo’s customized software seamlessly integrates with your existing tools and software, amplifying your team’s efficiency and productivity. Enjoy a personalized experience that streamlines your support operations and empowers your agents to deliver exceptional customer service like never before. See Why 5000+ Businesses Trust Faveo Learn How Faveo Helpdesk Can Make Your Customer Happy Sign Up ELEVATE SUPPORT EXCELLENCE Faveo Helpdesk Join the ranks of businesses that trust Faveo Helpdesk for a seamless, customizable, and efficient client service solution. Monitor queries, manage SLAs, and generate tailored reports to elevate your support operations. Our software is not just a tool; it’s a partner in your journey towards client satisfaction and operational excellence. Empower, Automate, Excel Faveo Service Desk Ensure ITIL/ITSM compliance to keep your team organized and customer service on point. From seamless asset management to efficient ticketing, automation, and robust",
+   "email_candidates": [
+    {
+     "email": "careers@faveohelpdesk.com",
+     "where": "https://www.faveohelpdesk.com/contact-us/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "61021e8610",
+   "company": "Quintype Technologies India Ltd",
+   "website": "https://www.quintype.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Ruby",
+   "site_text": "[https://www.quintype.com/]\nQuintype: Best CMS Partner for Digital Newsrooms Scale Your Publishing Business Without the Technology Hassle 300+ global publishers have grown their pageviews and monetized content with our AI-assisted Digital Experience Platform Schedule a Demo Managing 1.5 Bn+ Monthly Pageviews for 300+ Global Publishers Publishing Content Management System A headless publishing CMS to empower content creators to deliver high-quality experiences to their audiences Innovative Storytelling Workflow Management Omnichannel Distribution SEO & Performance Content Insights Syndication & Newswires Explore More Features Publishing Content Management System Build an engaging and interactive community by allowing the audience to share their thoughts and experiences in 150+ languages, including vernacular/regional languages Commenting and reactions AI-driven Moderation with built-in toxicity detection Shadow banning Support for Citizen Journalism (UGC integrates with CMS) Custom & Responsive themes & designs Drop-in embed code for any website SSO Integration Explore More Features Publishing Content Management System Be part of the elite members of the publishers' tribe that invest in subscriptions as their most important revenue priority. Explore Multiple Monetization Models Coupons and Campaigns Access Controls and Special Features Simplified Subscription Settings Advanced Analytics and Actionable Insights Payment Gateways Explore More Features API Integrations Existing tech stack investments leveraged with Quintype’s out-of-the-box integrations for over 100+ tools and platforms. Explore All Integrations Testimonials Experience Quintype’s Publishing Platform Through Our Customers' Eyes The Quint “ Quintype gives us a huge advantage in our mobile-first news environment. The platform is built for agility on mobile. No need for plugins. ” Ritu Kapur Co-Founder and Managing Director, The Quint Sakal “ Quintype, enabled us to reduce our TCO by 35% while helping us 3X our website traffic with 100M monthly page views. ” Swapnil Malpathak Business Head, Sakal Digital #Swarajya “ Metype helps our team to engage with our young audience while ensuring high-quality conversations through their toxicity meter. ” Amarnath Govindarajan Chief Digital Officer, Swarajya Deccan Herald “ Quintype's News CMS platform aligned perfectly with our editorial team's criteria, including efficient workflow management. ” Sitaraman Shankar CEO of The Printers Mysore and Editor of Deccan Herald Mi Morelia “ To us, working with local news feels like racing in Formula 1 and I am sure the team of MiMorelia are the best drivers, but we needed the fastest car possible. With quintype I am confident we have found it. We now have a fast and responsive website, which will serve a better experience to our readers. Big thumbs up to the entire Quintype team. ” Juan Carlos de Guerrero Osio Laris Founder, Mimorelia.com Success Stories Sakal How SAKAL Soared to 14M Users and 40% Cost Cut after Quintype Learn More Deccan Herald The smooth sailing story of how Deccan Herald Migrated 2 Million Stories to Quintype Without a Traffic Dip Learn More CDO Magazine The Quintype Strategy of Driving a 60% Page View Spike for CDO Magazine Learn More Discover How Modern Publishers Are Building More Efficient Newsrooms with AI Schedule a Demo Quintype is a leading AI-powered digital experience platform (DXP) that empowers publishers to create, distribute and monetise their content. Products Newsroom CMS Website Builder Mobile Apps New Commenting System Paywall Management Support Help Docs Developer Docs Status Terms Company About Us Partners Careers Contact Us Privacy Consulting Comparisons vs WordPress vs Drupal vs Blox Digital vs Naviga © 2025 Quintype Technologies India Ltd. All rights reserved. Quintype is a leading AI-powered digital experience platform (DXP) that empowers publishers to create, distribute and monetise their content. Products Newsroom CMS Website Builder Mobile App",
+   "email_candidates": [
+    {
+     "email": "devops@quintype.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "careers@quintype.com",
+     "where": "https://www.quintype.com/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "39a8ae1860",
+   "company": "Ather Energy Ltd",
+   "website": "https://atherenergy.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, IN",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: C, R",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "opensource@atherenergy.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  }
+ ]
+}

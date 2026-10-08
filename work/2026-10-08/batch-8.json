@@ -1,0 +1,344 @@
+{
+ "leads": [
+  {
+   "id": "b58285a162",
+   "company": "Signzy",
+   "website": "https://signzy.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, JavaScript, Python",
+   "site_text": "[https://www.signzy.com/]\nSignzy – Global Identity Verification and Compliance Platform World’s Top Fintech Companies 🎉 Know more → 1B+ Users Verified World’s Top Fintech Companies 🎉 Know more → 1B+ User Verified API Marketplace Identity Verification Verify people using government IDs, reliable data, and advanced liveness checks Database Biometric Document Business Verification Verify business legitimacy with registered docs, gov databases, and UBO checks Database Document UBO Background Check Fight fraudsters by checking criminal records, device ownership, phone records, and more Criminal Screening Email Phone Credit Check business credibility with deep risk analysis and bank statement evaluations Risk Assessment Bank Statement Fraud Detection Verify users through bank account, AML and PEP checks, and facial recognition AML Screening Bank Account Verification Data Breach Deepfake Fraud U.S. Stack KYC , KYB , AML suites , and much more — wherever you grow, our U.S. APIs keep you quick and compliant View All APIs Middle East Stack From KYC to UBO and trade license checks , explore powerful APIs built for MENA’s identity and business needs View All APIs India Stack Explore KYC , KYB , vehicle RC checks, and more — trusted APIs for seamless identity and business verification View All APIs Solutions Our Innovations For Use Cases For Industries One Touch KYC Launch global KYC flows with OCR, liveness checks, and deepfake detection, all through a single, customizable API. Transaction Monitoring Detect suspicious transactions in real time using AI-powered pattern recognition and dynamic rule engines built for compliance teams. Contract 360 Digitize and manage the entire contract lifecycle with secure e-signatures, dynamic templates, and audit-ready workflows. Mule Shield Prevent mule fraud with AI-generated Trust Scores - trained on 200+ risk signals from device, transaction, and identity data. No Code Platform Design and deploy compliant onboarding journeys without writing code. Drag, drop, and launch with our pre-built, modular components. Agentic CKYC Automate CKYC search, validation, upload, and monitoring through one AI-native infrastructure layer. Resources Blogs Insights that decode compliance, demystify KYC, and track the future of fintech Regulations Glossary Explore global laws, acts, and compliance frameworks simplified for financial institutions and compliance teams. General Glossary Your go-to guide for fintech, banking, and compliance terminology. Customer Stories Read how global banks and NBFCs use Signzy to simplify compliance and reduce risk at scale. Video Library Watch product demos, expert conversations, and customer stories in one place. API Reference Docs Get complete API specs, guides, and errors to integrate faster and smarter Our Company About Us Who we are, what drives us, and why the world's top FIs trust Signzy. Partners Building smarter solutions, together. Discover how we collaborate and scale. Events Where Signzy meets the world. See where we're speaking, showcasing, or shaking things up. Book a Demo Your browser does not support the video tag. Online Identity Verification The Global Standard for Securing User Journeys We enable global companies to verify, onboard and monitor users. Every step covered, Every risk managed. Explore Solutions Trusted by 500+ Global Companies Trusted by 500+ Global Companies SIGN UP First impressions last. Make yours seamless. Our sign-up solution verifies phone numbers, emails, and device ownership in real time, ensuring only genuine users get through. It transforms first interactions into trusted relationships with intelligent, invisible checks that secure every step — instantly. USER VERIFICATION Relations are built on trust, and trust is built on knowledge. Our verification solutions provide the knowledge you need to ensure every relationship is founded on authenticity and security. With robust identity and business verification, you can confidently build trust and redu",
+   "email_candidates": [
+    {
+     "email": "connect@signzy.com",
+     "where": "https://www.signzy.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "5a487ebda3",
+   "company": "Infragistics",
+   "website": "http://www.infragistics.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Sofia, Montevideo, Tokyo, London, Bangalore, Cranbury",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Ignite UI and Ignite UI for Angular repositories are located here: https://github.com/IgniteUI. Languages: C#, TeX",
+   "site_text": "[https://www.infragistics.com/]\nInfragistics UI Controls and Tools For Developers and UX Pros Skip to content Live Demo from Reveal: How AI is changing embedded analytics workflows Save my Seat Ã Popular Searches Data grid Charts Licensing and pricing MCP server setup License keys Search In Products Documentation Forums Blogs Jump To Free trials and downloads Release notes Submit a support request Product life cycle Can't find it? Ask our engineers directly 24x5 support from the team that builds the controls. Contact Us My Account Start Free Trial Start Free Trial Trusted by 2M+ developers and enterprises worldwide Enterprise UI Components, Accelerated by AI One enterprise UI platform across Angular, React, Blazor, Web Components, WPF and Windows Forms â with the fastest data grid on the market , AI-grounded development, and open-source libraries your teams can adopt on day one. Start Free Trial 300+ Components Across Web & Desktop 100+ Modern Web Components 50+ Free OSS Components WCAG 2.1 AA Accessible 24x5 Support Fleet Management â Ignite UI Data Grid Launch full size Fluid at Scale 100K+ Rows at 60 FPS Built for Massive Data Millions of Rows Select a framework to explore components and samples: Angular React Web Components Blazor Windows Forms WPF Trusted by industry leaders 2M+ Developers 35+ Years in Business 300+ Components Fortune 500 Trusted WCAG 2.1 AA Accessible 24x5 Support One vendor and one support relationship across your entire application portfolio â modern web and desktop, covered by a single product. Rated 4.7/5 on G2 â â â â â 10,000+ enterprise developers trust us Read reviews on G2 Security & Compliance Why Infragistics Three Things Other Libraries Canât Give You We donât compete on component count. We compete on the components enterprise applications live or die on, and on how well your team, and your AI, can build with them. The Fastest Data Grid Render, scroll, sort and edit 100,000+ rows at a steady 60 FPS, and millions of rows through enterprise virtualization. Performance stops being a feature you have to negotiate away. AI-Grounded Development Your AI. Your IDE. Your standards. Our APIs. MCP servers and Agent Skills feed agents live, versioned component APIs and your own design tokens â so generated code compiles and matches your design system. Enterprise UI, Production-Ready Dock Manager, pivot grids, spreadsheets, query builders and financial charting. Each one is a multi-quarter build if your team owned it, and a multi-quarter maintenance burden after that. We ship them production-ready, so thatâs budget and roadmap time back for the app itself. Developer Tools Meet the Industryâs Fastest Data Grid Grids that hold 60 FPS at 100,000+ rows, so performance never becomes a product tradeoff, with advanced virtualization, live updates and hundreds of built-in data features. Render and interact with 100,000+ rows without compromise Enterprise-grade virtualization AI-assisted app development with Agent Skills + MCP Consistent component APIs across Angular, React, Blazor and Web Components Start Free Trial Launch full size Thousands of Updates/sec 100K + Rows @ 60 FPS Your AI Coding Assistant, Grounded in Real APIâs AI coding assistants are only as good as the context they have. Ignite UI's MCP toolchain gives GitHub Copilot, Cursor, Claude Code, and other AI agents live, accurate access to your component APIs , eliminating hallucinated props, wrong imports, and broken scaffolds. CLI MCP server igniteui-cli Â· MCP Â· STDIO Give your AI the power to scaffold, configure, and extend your Ignite UI project from the command line. The Ignite UI CLI MCP Server turns natural language prompts into CLI commands, letting agents create components, modules, and project structures that follow enterprise architecture conventions. Theming MCP server igniteui-theming Â· MCP Connect your AI agent directly to your design system. The Theming MCP Server gives agents real-time access to your token lib",
+   "email_candidates": [
+    {
+     "email": "team@infragistics.com",
+     "where": "https://www.infragistics.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "sales-europe@infragistics.com",
+     "where": "https://www.infragistics.com/about-us/contact-us",
+     "kind": "personal"
+    },
+    {
+     "email": "japansalesgroup@infragistics.com",
+     "where": "https://www.infragistics.com/about-us/contact-us",
+     "kind": "personal"
+    },
+    {
+     "email": "eseasales@infragistics.com",
+     "where": "https://www.infragistics.com/about-us/contact-us",
+     "kind": "personal"
+    },
+    {
+     "email": "aunz@infragistics.com",
+     "where": "https://www.infragistics.com/about-us/contact-us",
+     "kind": "personal"
+    },
+    {
+     "email": "registrations@infragistics.com",
+     "where": "https://www.infragistics.com/about-us/contact-us",
+     "kind": "personal"
+    },
+    {
+     "email": "kdinev@infragistics.com",
+     "where": "GitHub commits (IgniteUI)",
+     "kind": "personal",
+     "name": "Konstantin Dinev",
+     "commits": 20
+    },
+    {
+     "email": "sstoychev@infragistics.com",
+     "where": "GitHub commits (IgniteUI)",
+     "kind": "personal",
+     "name": "Stamen Stoychev",
+     "commits": 10
+    },
+    {
+     "email": "rkaraivanov@infragistics.com",
+     "where": "GitHub commits (IgniteUI)",
+     "kind": "personal",
+     "name": "Radoslav Karaivanov",
+     "commits": 2
+    },
+    {
+     "email": "chronos.stz@gmail.com",
+     "where": "GitHub commits (IgniteUI)",
+     "kind": "personal",
+     "name": "Stamen Stoychev",
+     "commits": 11
+    },
+    {
+     "email": "mkirova@infragistics.com",
+     "where": "GitHub commits (IgniteUI)",
+     "kind": "personal",
+     "name": "Maya",
+     "commits": 2
+    },
+    {
+     "email": "borislav.traikov@gmail.com",
+     "where": "GitHub commits (IgniteUI)",
+     "kind": "personal",
+     "name": "Borislav Traykov",
+     "commits": 3
+    },
+    {
+     "email": "sim.simeonoff@gmail.com",
+     "where": "GitHub commits (IgniteUI)",
+     "kind": "personal",
+     "name": "Simeon Simeonoff",
+     "commits": 5
+    },
+    {
+     "email": "mmekaru@infragistics.com",
+     "where": "GitHub commits (IgniteUI)",
+     "kind": "personal",
+     "name": "IG-Mori",
+     "commits": 1
+    },
+    {
+     "email": "mkamiishi@infragistics.com",
+     "where": "GitHub commits (IgniteUI)",
+     "kind": "personal",
+     "name": "Mihoko Kamiishi",
+     "commits": 1
+    },
+    {
+     "email": "jsakamoto@infragistics.com",
+     "where": "GitHub commits (IgniteUI)",
+     "kind": "personal",
+     "name": "jsakamotoIGJP",
+     "commits": 2
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "9e89f6f20c",
+   "company": "Intellicar",
+   "website": "http://intellicar.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: C, CMake",
+   "site_text": "[https://www.intellicar.in/]\nIntellicar | Advanced IoT Solutions for Fleet and EV Management GET STARTED Welcome to Intellicar Get IoT Ready In Minutes We deliver innovative technology to optimize mobility, improve efficiency, and drive smarter decisions across fleets, electric vehicles, and battery ecosystems. GET STARTED Trusted by Tailored Solutions for Every Industry We design customized solutions to address the unique challenges of diverse industries, delivering precision, efficiency, and measurable results. Fleet Management Optimize fleet performance with real-time tracking, driver insights, and proactive maintenance.  EV Manufacturers Enhance vehicle capabilities with advanced diagnostics, data-driven R&D tools, and remote updates.  Battery Manufacturers Monitor battery health, extend lifecycle, and gather critical performance data for innovation.  Battery Swapping Deploy, monitor, and control battery pack assets seamlessly across your entire network for optimal life cycle management  Financial Institutions Assess risk, track assets, and support leasing programs with reliable, data-backed insights.    Powerful Features for Smarter Mobility We offer advanced features designed to optimize mobility, enhance performance, and deliver actionable insights for seamless operations. Track vehicle and battery packs with real time accuracy  We guarantee <2s latency and unlimited data throughput from your smart assets. Predict potential failures using AI-based analytics  Embed AI algorithms in our dedicated edge environment of the hardware for faster insights and actions. Control vehicle functions remotely for added security  Control door lock/unlock, lights, horns, buzzers, battery pack mosfets. Simplified operations with integrated IoT solutions  Get your vehicles, infrastructure and applications to work together cohesively . We merge advanced technology with deep industry expertise to deliver unparalleled value and innovation. Data Reliability Ensure complete data reliability with lossless transmission and low latency Seamless Integration Gain seamless integration with a comprehensive full-stack platform Scalable Architecture Benefit from scalable, flexible, and resilient architecture built for future growth Watch video Testimonials What they say about us Real stories, genuine experiences, and inspiring testimonials from people who love what we do. \"A game-changing boost\" “Since adopting Intellicar's solutions, we've seen a game-changing boost in our fleetefficiency with an 8% increase in daily trips, better battery health, and real-time monitoring that safeguards against fraud, improved driver behaviour and enhanced operational reliability, making them an indispensable partner in our success story.” Anurag Kumar Lead, Product - BluSmart \"Very reliable and dependable\" Intellicar’s full-stack IoT capabilities have enabled us to scale our IoT operations and asset management with precision and speed. Their technical and support competencies are very reliable and dependable. Tanushree Bhattacharya AVP Partnerships & SCM - Battery Smart \"Innovative, customer-centric, and sustainable mobility solutions.\" Intellicar’s platform has empowered MG to collect granular data on battery health,driving patterns, and vehicle performance, enabling iterative design improvements.Intellicar’s solutions will remain integral to MG’s commitment to providing innovative, customer-centric, and sustainable mobility solutions. Sameer Jindal Director - MG Motors India \"Improved service operations\" MBSI has leveraged Intellicar’s real-time APIs, charging reports and geofence tools to significantly improve service operations, warranty claims, driver training and partner hub operations. Avadhut Kamble Head of After Sales - MBSI \"Invaluable partner in our mission\" “At Vidyut, an EV financing company, having access to precise and reliable data is crucial to our operations. Intellicar’s IoT solutions have been a game-changer for us, especially in trackin",
+   "email_candidates": [
+    {
+     "email": "info@intellitech.com",
+     "where": "https://www.intellicar.in/",
+     "kind": "generic"
+    },
+    {
+     "email": "careers@intellicar.in",
+     "where": "https://www.intellicar.in/company-pages/careers",
+     "kind": "hiring"
+    },
+    {
+     "email": "contact@intellicar.in",
+     "where": "https://www.intellicar.in/company-pages/contact-us",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "5bbbd97541",
+   "company": "Urban Ladder",
+   "website": "https://www.urbanladder.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go, HTML, JavaScript, Markdown, Ruby",
+   "site_text": "[https://www.urbanladder.com/]\nBuy Furniture Online: Upto 70% off in this Festive Season Nearest Store - Nearest Store - Additional up to â¹10,000 off. Use code EXTRA10K | Limited-time deal âShop now! Gift Cards Become a Franchisee Help Home Interiors Business Furniture Repair Services Suggestions and links related to your search appear below this field and update as you type. New Arrivals Deal Zone Sofas & Recliners Living Bedroom Dining & Kitchen Mattresses Study Storage Furniture Lighting & Decor Furnishing Urban Ladder â Furniture and Home DÃ©cor What you are looking for? Shop by Category Latest Arrivals Dining Sets Sofas Lounge Chairs Sofa Cum Beds Shoe Racks Coffee Tables Bookshelves Beds Study Tables Wardrobes Chest of Drawers TV Units Sideboards Recliners Mattresses Shop by Categories Latest Arrival Lounge Chairs Sofas Chest of Drawers Beds Sideboards Sofa Cum Beds Mattresses Coffee Tables Bedside Tables Wardrobes Study Chairs TV Units Bar Furnitures Recliners Outdoor Shoe Racks Lamps Bookshelves Home Decors Study Tables Wall Decors Dressing Tables Carpets Dining Sets Cushion Covers Additional Discounts and Offers Up to â¹4,000 * Instant discount on HDFC credit and debit card EMI transactions Up to â¹3,500 Instant Discount on ICICI Bank Credit Card EMI Transactions Get 10% Instant Discount up to â¹3,500 on SBI Card EMI Transactions. Extra â¹1,000 Off on Orders Above â¹15,000. Use Code FESTIVE1000 Extra â¹1,800 Off on Orders Above â¹20,000. Use Code FESTIVE1800 Extra â¹3,000 Off on Orders Above â¹30,000. Use Code FESTIVE3000 Extra â¹6,000 Off on Orders Above â¹75,000. Use Code FESTIVE6000 Extra â¹12,000 Off on Orders Above â¹1,50,000. Use Code FESTIVE12000 Gift voucher worth up to â¹7000* on Orders above â¹1,00,000 Gift voucher worth up to â¹15,000* on Orders above â¹2,00,000 5% Instant Savings on Reliance SBI Co-branded Cards* New Arrivals New Arrivals Deal Zone Deal Zone Top Categories Shop The Look Shop The Look Toledo Collection Toledo Collection Explore All Stores Explore All Stores Modular Kitchens, Wardrobes & More Decor for Every Corner Decor for Every Corner Nearest Store - Nearest Store - Download Our App The Company More Information Address Download Our App Download Our App Download Our App The Company Help Blog Privacy Policy The Company Help Blog Privacy Policy The Company Help Blog Privacy Policy More Information Fees and Payments Contact Us Shipping & Delivery Visit Us Terms and Conditions Buy In Bulk Warranty, Return and Refund More Information Fees and Payments Contact Us Shipping & Delivery Visit Us Terms and Conditions Buy In Bulk Warranty, Return and Refund More Information Fees and Payments Contact Us Shipping & Delivery Visit Us Terms and Conditions Buy In Bulk Warranty, Return and Refund Address Reliance Retail Limited, 3rd Floor, Court House, Lokmanya Tilak Marg, Dhobi Talao, Mumbai, Maharashtra, India - 400002 CIN: U01100MH1999PLC120563 Address Reliance Retail Limited, 3rd Floor, Court House, Lokmanya Tilak Marg, Dhobi Talao, Mumbai, Maharashtra, India - 400002 CIN: U01100MH1999PLC120563 Address Reliance Retail Limited, 3rd Floor, Court House, Lokmanya Tilak Marg, Dhobi Talao, Mumbai, Maharashtra, India - 400002 CIN: U01100MH1999PLC120563 Popular Furniture Categories Beds , King Size Bed , Queen Size Bed , Single Bed , Sofa Set , Recliners , Sofa cum Bed , Coffee Table , Chair , Study Chair , Study Table , Dining Table Set , Dining Chair , Office Table , Office Chair , Wardrobe , Bookshelves , Shoe Rack , Chest of Drawers Popular Decor Categories Home Decor , Carpets , Mirrrors , Lighting , Study Lamps , Table Lamps , Floor Lamps , Ceiling Lights , Festive Lights , Wall Lights , Wall Decor , Wall Art , Wall Mirror , Wall Clocks , Bedsheets , Quilt , Cushion Cover , Showpiece , Artificial Plant , Photo Frame , Vase , Bathroom Accessories , Bath Mat Popular Brands Urban Ladder , Bluewud , Duroflex , HOME LIFESTYLEZ Delivering In Bengaluru , Mumbai , Delhi ... More Terms of us",
+   "email_candidates": [
+    {
+     "email": "hello@urbanladder.com",
+     "where": "https://www.urbanladder.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "e406d34719",
+   "company": "Unilog software",
+   "website": "https://unilogcorp.com",
+   "title": "Backend Developer Internship",
+   "location": "Hyderabad",
+   "source": "unstop",
+   "posted_at": "2026-10-07T09:40:44Z",
+   "posting": "Unilog is hiring for the role of Backend Developer Intern! Responsibilities of the Intern: Develop backend features using Java and Spring Boot. Build and integrate REST APIs. Work with PostgreSQL and gain exposure to Elasticsearch / Solr. Learn and work with Docker, Kubernetes, and CI/CD. Write unit tests and maintain clean, reliable code. Debug issues and participate in code reviews. Collaborate with developers, QA, and DevOps teams. Effectively use AI tools such as GitHub Copilot and Cursor for development and learning. Requirements: Strong fundamentals in Java and OOP. Good understanding of Data Structures & Algorithms. Basic knowledge of SQL and REST APIs. Strong problem-solving and analytical skills. Familiarity with Git/GitHub. Willingness to learn Spring Boot, PostgreSQL, Elasticsearch, Docker, and Kubernetes.",
+   "site_text": "[https://www.unilogcorp.com/]\nUnilog: AI-Native B2B Product Content and Commerce CX1 Platform Choose next-gen connected product content and commerce capabilities that drive your growth in the digital marketplace. eCommerce Transform your business website into a revenue-generating asset. PIM Manage and share your product content across your digital footprint with one easy-to-use tool. Product Content Expand your product catalog with our library of over 18 million actively managed SKUs. Connect Meet our growing integration hub for seamless harmonization to your business systems. Why Connected Content and Commerce? Learn why hundreds of independent businesses partner with Unilog to help them sell more online. WHY CCC? Industries Find your industry and learn how our purpose-built solutions can help you grow. Plumbing Offer your customers an online extension of your plumbing showroom. PVF Get more out of every transaction for your pipe, valves, and fittings (PVF) supplies. HVAC & HVACR Create a next-level eCommerce shopping experience purpose-built for HVAC and HVACR. Industrial Supply Provide an endless aisle of SKUs with an eCommerce experience built for industrial supply. Safety & Sanitation Deliver trustworthy product content for your safety and sanitation business. Electrical Give your eCommerce site the spark it needs with custom solutions for electrical sales. Retail Hardware & Home Improvement Create new opportunities for growth with connected solutions built for specialty retailers. Construction Materials Share your construction product catalog across your sales channels with ease. Pharma & Medical Tackle customer demands with up-to-date pharma and medical products at your fingertips. Why Connected Content and Commerce? It’s more than a set of tools – We work closely with industry experts to understand the unique challenges of scaling your online catalog. WHY CCC? Customers Learn more about the types of businesses we serve. Manufacturers Create exceptional online shopping experiences for buyers – whether they are on your own site or your trading partners’ sites. Wholesale Distribution Transform how your business operates with a modern eCommerce platform built for B2B sales. Retail/Showroom Reach new customers with a digital extension of your in-store shopping experience. Why Connected Content and Commerce? We listen to our clients and continuously refine our products to help companies grow. WHY CCC? Resources Explore how Unilog helps you get the most out of your products and services. Partners and Membership Learn about our network of industry and solution partners. Services and Support From implementation to ongoing maintenance, learn how our Unilog specialists can help. Case Studies See how we helped these independent businesses boost their online sales. Blog Hub Stay on top of recent news, industry trends, product updates, new features, and more. Events Check out our calendar of upcoming Unilog events as well as other worthwhile industry association events. White Papers Access our featured selection of Unilog white papers and guides. Literature Learn more about the features and value of our Unilog products and services. Technical Training (LMS) Access our comprehensive library of product training materials from our Unilog specialists. In the News We’re making headlines in B2B eCommerce. Press Releases Read the latest news releases from Unilog. Webinars Watch live or on-demand webinars to explore industry insights and Unilog products Careers Join our team and help build the technology powering modern B2B commerce. Why Connected Content and Commerce? Knowledge is power – See how connected systems ensure that your online business is running smoothly. WHY CCC? x x Open Close Get Started AI-Native B2B Product Content and Commerce Better Product Content. Stronger Commerce. One Connected Platform. Explore the Platform Schedule a Demo Trusted by: Why Connected Matters When Product Content, Commerce, and Systems Are Disconnected",
+   "email_candidates": [
+    {
+     "email": "info@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "generic"
+    },
+    {
+     "email": "u003einfo@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "aung.latt@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "joe.bennett@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "u003ejoe.bennett@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "info@cimm2.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "generic"
+    },
+    {
+     "email": "rebecca.deno@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "u003erebecca.deno@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "bryanna.vickers@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "u003ebryanna.vickers@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "brian.lombardo@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "u003ebrian.lombardo@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "adam.cusumano@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "u003eadam.cusumano@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "nrebecca.deno@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "ben.stump@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "u003eben.stump@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "nicole.tomiak@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "u003enicole.tomiak@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "bill.patterson@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "u003ebill.patterson@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "nicole.chapla@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "u003enicole.chapla@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "matthew.bauer@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "u003ematthew.bauer@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "scott.frymire@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    },
+    {
+     "email": "u003escott.frymire@unilogcorp.com",
+     "where": "https://www.unilogcorp.com/resources/blog-posts/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  }
+ ]
+}
