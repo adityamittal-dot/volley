@@ -1,0 +1,88 @@
+{
+  "leads": [
+    {
+      "id": "03e37e489c",
+      "relevant": true,
+      "summary": "Dot is an AI data analyst that answers business questions from a company's data warehouse, usually in Slack, Microsoft Teams, email or its web app, and shows the query and sources behind each answer.",
+      "stack": ["SQL", "dbt", "LookML", "Slack", "Microsoft Teams"],
+      "hook": "The posting says Dot learns from existing dbt metrics and LookML models, and works from the tables, SQL and docs already in the customer's stack.",
+      "angle": "medvault",
+      "angle_reason": "Dot is an LLM product that answers questions over structured company data with traceable output, which matches MedVault's LLM pipeline with a fixed output schema and a mockable model client.",
+      "fit": 7,
+      "region": "europe",
+      "people": [],
+      "contact_email": "hi@getdot.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "2b6f1a013d",
+      "relevant": true,
+      "summary": "PRINCEPS is a YC S26 insurance company that underwrites SLA breach, GPU residual value and outage risk for data centers, neoclouds and AI labs.",
+      "stack": [],
+      "hook": "The careers page says the founding engineer will build the pricing kernel, the exposure data pipeline and the paper itself, and that the team is small and senior.",
+      "angle": "medvault",
+      "angle_reason": "The founding engineer role is backend work on a pricing system and data pipeline in a fintech-style domain, and MedVault's Django backend handles sensitive per-user data with auth and queryset-level isolation.",
+      "fit": 3,
+      "region": "us",
+      "people": [
+        {"name": "Conrad Frøyland Moe", "role": ""},
+        {"name": "Anya Trofimova", "role": ""},
+        {"name": "Wilhem Hector", "role": ""}
+      ],
+      "contact_email": "careers@princeps.dev",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "d2a523708d",
+      "relevant": false,
+      "summary": "Roboflow is a computer vision platform where companies build, deploy and monitor vision AI models for tasks like defect detection, inventory tracking and safety monitoring, including edge inference on devices.",
+      "stack": ["JavaScript", "Node.js", "Linux", "NVIDIA Jetson"],
+      "hook": "The posting says the existing codebase is mostly JavaScript and Node.js, and that the Enterprise team supports an edge Jetson inference pipeline.",
+      "angle": "medvault",
+      "angle_reason": "Roboflow's Agent and workflow products are AI features on a full-stack product, and MedVault shows an AI feature shipped end to end, from model-call pipeline to an authenticated Django API.",
+      "fit": 3,
+      "region": "us",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "d2ae3ee943",
+      "relevant": true,
+      "summary": "OpenCall is an AI phone and text assistant for medical practices that answers calls, books appointments into the practice's system, and runs follow-up and billing workflows for staff.",
+      "stack": [],
+      "hook": "The site says sensitive calls hand off to human staff with the transcript, next steps and sentiment already in the sidebar.",
+      "angle": "medvault",
+      "angle_reason": "Both are AI products in healthcare admin: MedVault's safety-constrained LLM output and per-user data isolation map onto OpenCall's patient-facing intake and booking workflows.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "ask@opencall.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "d78500501e",
+      "relevant": true,
+      "summary": "Homebase provides rent-to-own and instalment property financing in Vietnam and Southeast Asia for home buyers and homeowners, and offers investment products tied to property.",
+      "stack": [],
+      "hook": "The site says buyers can move into a home with 8% down and pay monthly under its rent-to-own model.",
+      "angle": "medvault",
+      "angle_reason": "Homebase is a fintech handling sensitive identity and payment data for buyers and investors, which is where MedVault's JWT auth, per-user isolation and data-privacy work apply.",
+      "fit": 5,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

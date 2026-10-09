@@ -1,0 +1,52 @@
+{
+  "emails": [
+    {
+      "id": "fe33ef99cf",
+      "subject": "SDE intern at Innerkore",
+      "body": "Hi Innerkore team,\n\nYour Qwen3 address parser turns messy Indian addresses into structured JSON off a 4.37M-record dataset you built yourself.\n\nI built MedVault, which runs lab reports through a Gemini pipeline into a fixed JSON schema with a fallback parser for bad model output: https://medvault-xor.vercel.app\n\nI'm based in Noida and could work out of your Delhi office.\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {"decision": false, "reason": "", "gap_terms": []}
+    },
+    {
+      "id": "3dd9585e04",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Crest team,\n\nYour site says your AI forecasting tool just went live, and a customer credits you with wiring EasyEcom orders straight into Zoho invoices.\n\nForecasting and parsing lab reports both come down to pulling reliable structure out of messy input. I built MedVault, which runs lab reports through a Gemini pipeline into a fixed JSON schema with a fallback parser for bad model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {"decision": false, "reason": "", "gap_terms": []}
+    },
+    {
+      "id": "a4f976430b",
+      "subject": "SDE intern at Botle",
+      "body": "Hi Botle team,\n\nShopping List AI's \"AI-driven list generation\" and Checklist AI's \"AI prompt generation\" are both sitting right on your homepage.\n\nYour tools are wiring AI output into a specific UI flow, at a smaller scale than what I built. MedVault runs lab reports through a Gemini pipeline into a fixed JSON schema with a fallback parser for bad model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {"decision": false, "reason": "", "gap_terms": []}
+    },
+    {
+      "id": "0b63f6ba3f",
+      "subject": "SDE intern at Spring Edge",
+      "body": "Hi Bishnoi,\n\nYour site says one API covers SMS, RCS, voice and WhatsApp, with DLT-compliant routing across India and 85+ countries.\n\nRouting messages across carriers and routing model output into a strict schema are close to the same backend problem. I built MedVault, a Django REST backend with JWT auth and per-user isolation that runs lab reports through a Gemini pipeline into a fixed JSON schema: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {"decision": false, "reason": "", "gap_terms": []}
+    },
+    {
+      "id": "d2ae3ee943",
+      "subject": "SDE intern at Opencall",
+      "body": "Hi Opencall team,\n\nYour site says sensitive calls get handed off to a human with the transcript, next steps and sentiment already sitting in the sidebar.\n\nKeeping LLM output safe and structured in a healthcare flow is close to what you're doing on the call side. I built MedVault, which runs lab reports through a Gemini pipeline into a fixed JSON schema with safety rules that block anything like a diagnosis: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {"decision": false, "reason": "", "gap_terms": []}
+    },
+    {
+      "id": "16eeb622f9",
+      "subject": "SDE intern at LiveKit",
+      "body": "Hi LiveKit team,\n\nYour Voice AI quickstart wires STT, LLM and TTS into one gateway with multilingual turn detection, and you're hiring across a fully remote team for it.\n\nBoth come down to keeping an LLM call reliable inside a bigger pipeline. I built MedVault, which runs a Gemini pipeline behind one mockable client with a fixed JSON schema and a fallback parser for bad model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {"decision": false, "reason": "", "gap_terms": []}
+    },
+    {
+      "id": "03e37e489c",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi GetDot team,\n\nYour posting says Dot learns straight from a company's existing dbt metrics and LookML models instead of needing new ones built for it.\n\nBoth are about getting a trustworthy, structured answer out of an LLM sitting on top of someone else's data. I built MedVault, which runs lab reports through a Gemini pipeline into a fixed JSON schema, with a fallback parser for when the model doesn't follow it: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {"decision": false, "reason": "", "gap_terms": []}
+    },
+    {
+      "id": "e993f72862",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi ReactWise team,\n\nAsk Vera reads a lab's experimental data, literature and proprietary datasets to support a campaign, which is a lot of unstructured scientific text to reason over.\n\nSame shape of problem, just medical instead of chemical. I built MedVault, which runs lab reports through a Gemini pipeline into a fixed JSON schema with a fallback parser for bad model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {"decision": false, "reason": "", "gap_terms": []}
+    }
+  ]
+}

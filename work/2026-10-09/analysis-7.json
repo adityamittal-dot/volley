@@ -1,0 +1,207 @@
+{
+  "leads": [
+    {
+      "id": "437d5828af",
+      "relevant": false,
+      "summary": "The site text describes ION Network Solutions, a Luxembourg IT firm with about 20 staff, which does not look like the financial-software company behind the Noida posting.",
+      "stack": [],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "Nothing in the posting or site matches a specific project; MedVault's Django REST backend is the nearest fit for a generic developer role.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "website describes a different company (ion.lu, Luxembourg IT firm)"
+      ]
+    },
+    {
+      "id": "0ed98684fa",
+      "relevant": false,
+      "summary": "Dataiku sells an enterprise platform for building, deploying and governing AI, covering analytics, machine learning and AI agents.",
+      "stack": [
+        "Jupyter",
+        "SQL",
+        "LLMs"
+      ],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "Dataiku's LLM Mesh and agent governance overlap with MedVault's LLM pipeline, but the role is senior-only.",
+      "fit": 2,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "d0005724c3",
+      "relevant": false,
+      "summary": "Fresh Prints makes custom merch for sororities, fraternities and clubs, with an online design tool and retail shop.",
+      "stack": [],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "The role is a recruiting internship with no engineering content, so no project is a real match.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0c36f7b0dd",
+      "relevant": true,
+      "summary": "Ramco makes enterprise software (global payroll, ERP, aviation MRO and logistics) for 800+ customers in 50 countries.",
+      "stack": [
+        "Java",
+        "Python",
+        "C#",
+        "C++",
+        "React",
+        "Angular"
+      ],
+      "hook": "your press release on the Safran Helicopter Engines MoU for engine data integration for helicopter operators",
+      "angle": "medvault",
+      "angle_reason": "Ramco's SDE1 role asks for backend API work in Python and debugging of functional and non-functional issues, which MedVault's Django REST backend with JWT auth covers.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "77c3cf9ba4",
+      "relevant": false,
+      "summary": "Precisely sells unified data management software (integration, data quality, governance, location intelligence, MDM) positioned as AI-ready data for large enterprises.",
+      "stack": [
+        "Linux",
+        "Oracle",
+        "SQL Server",
+        "DB2",
+        "Azure",
+        "GCP",
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "hook": "",
+      "angle": "canopy",
+      "angle_reason": "The role is root-cause debugging across product and user code, closest to Canopy's code analysis work, though it is a support role rather than engineering.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "e62ae8e4b7",
+      "relevant": false,
+      "summary": "Canara Bank is an Indian public-sector bank offering savings, current, term deposit and payroll banking products.",
+      "stack": [],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "A clerical banking apprenticeship has no engineering content; MedVault's per-user data isolation is the nearest banking-adjacent fit.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "8f794f7dd2",
+      "relevant": false,
+      "summary": "ClickUp is a converged AI workspace combining tasks, docs, chat, calendar and enterprise search, with AI agents and automations.",
+      "stack": [
+        "Salesforce",
+        "NetSuite",
+        "Workato",
+        "MuleSoft",
+        "MCP"
+      ],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "The GTM role centres on LLM-based automation and agents, which matches MedVault's LLM pipeline, but the role is senior-level.",
+      "fit": 2,
+      "region": "us",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "b69c7cafab",
+      "relevant": true,
+      "summary": "Netlight is a digital consultancy with about 2,200 consultants across 16 offices, placing consultants on software, cloud, data and AI work for client projects.",
+      "stack": [],
+      "hook": "your posting says you tailor each consultant's role to their strengths instead of predefined roles",
+      "angle": "medvault",
+      "angle_reason": "Netlight staffs full-stack and backend consultants on client projects, and MedVault is a Django REST backend with JWT auth and per-user isolation.",
+      "fit": 4,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "16eeb622f9",
+      "relevant": true,
+      "summary": "LiveKit is an open-source framework and cloud platform for building, deploying and observing real-time voice, video and AI agents, with telephony and SIP integrations.",
+      "stack": [
+        "Python",
+        "Node.js",
+        "TypeScript",
+        "WebRTC"
+      ],
+      "hook": "your Voice AI quickstart's AgentSession wires STT, LLM and TTS models through one gateway with multilingual turn detection",
+      "angle": "medvault",
+      "angle_reason": "LiveKit's agents run LLM calls inside a realtime pipeline, close to MedVault's Gemini prompting pipeline with schema-constrained output and a mockable LLM client.",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {
+          "name": "Russ d'Sa",
+          "role": "Co-founder, CEO"
+        },
+        {
+          "name": "David Zhao",
+          "role": "Co-founder, CTO"
+        }
+      ],
+      "contact_email": "recruiting@livekit.io",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "e993f72862",
+      "relevant": true,
+      "summary": "ReactWise sells data-driven optimization software for chemical process development, with an AI copilot (Ask Vera), a no-code platform and a lab automation API.",
+      "stack": [],
+      "hook": "your Ask Vera copilot reads experimental data, literature and proprietary datasets to support campaigns",
+      "angle": "medvault",
+      "angle_reason": "Ask Vera is an LLM copilot over experimental data, close to MedVault's schema-constrained LLM pipeline over lab reports.",
+      "fit": 6,
+      "region": "europe",
+      "people": [],
+      "contact_email": "info@reactwise.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}
