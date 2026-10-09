@@ -1,17 +1,17 @@
 # Tracker
 
-_Updated 2026-10-09T08:03:32Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-09T10:01:43Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 166 · **Sent:** 166 · **Replies:** 18 (11%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 172 · **Sent:** 172 · **Replies:** 18 (10%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
 | new | 286 |
 | skipped | 2 |
-| no_contact | 617 |
-| low_fit | 319 |
-| researching | 75 |
-| sent | 69 |
+| no_contact | 626 |
+| low_fit | 377 |
+| queued | 2 |
+| sent | 75 |
 | followup_1 | 59 |
 | followup_2 | 12 |
 | replied | 18 |
@@ -21,7 +21,7 @@ _Updated 2026-10-09T08:03:32Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 80 | 7 |
+| medvault | 86 | 7 |
 | canopy | 47 | 8 |
 | basepair | 39 | 3 |
 
@@ -29,8 +29,8 @@ _Updated 2026-10-09T08:03:32Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 137 | 16 |
-| short | 29 | 2 |
+| role | 140 | 16 |
+| short | 32 | 2 |
 
 ## Replies
 
@@ -57,6 +57,12 @@ _Updated 2026-10-09T08:03:32Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-09 | ReactWise | info@reactwise.com | medvault | sent |
+| 2026-10-09 | GetDot | hi@getdot.ai | medvault | sent |
+| 2026-10-09 | Spring Edge | bishnoi.balwant@springedge.com | medvault | sent |
+| 2026-10-09 | Botle | botleapps@gmail.com | medvault | sent |
+| 2026-10-09 | Crest | neil@getcrest.ai | medvault | sent |
+| 2026-10-09 | Innerkore Technologies | admin@innerkore.com | medvault | sent |
 | 2026-10-08 | Hopit | arkid@hopit.ai | medvault | sent |
 | 2026-10-08 | Globussoft Technologies | sumit@globussoft.com | medvault | sent |
 | 2026-10-08 | AgileHead | jeswinpk@agilehead.com | canopy | sent |
@@ -76,9 +82,3 @@ _Updated 2026-10-09T08:03:32Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-07 | Hyperspell | david@hyperspell.com | canopy | sent |
 | 2026-10-07 | RealResponse | jobs@realresponse.com | medvault | sent |
 | 2026-10-07 | AutoSitu | founders@autositu.com | medvault | sent |
-| 2026-10-07 | Hashnode | hey@hashnode.com | canopy | sent |
-| 2026-10-07 | Saturn | careers@heysaturn.com | medvault | sent |
-| 2026-10-07 | Comena | jiehua.wu@comena.ai | medvault | sent |
-| 2026-10-07 | Cashfree Payments | developers@cashfree.com | medvault | sent |
-| 2026-10-07 | Smooth | grahamthecoder@gmail.com | canopy | sent |
-| 2026-10-07 | Stilta | oskar@stilta.com | medvault | sent |
