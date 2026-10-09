@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-09T10:01:43Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-09T15:24:19Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 172 · **Sent:** 172 · **Replies:** 18 (10%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 174 · **Sent:** 174 · **Replies:** 19 (11%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,18 +10,17 @@ _Updated 2026-10-09T10:01:43Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 2 |
 | no_contact | 626 |
 | low_fit | 377 |
-| queued | 2 |
 | sent | 75 |
 | followup_1 | 59 |
 | followup_2 | 12 |
-| replied | 18 |
-| bounced | 8 |
+| replied | 19 |
+| bounced | 9 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 86 | 7 |
+| medvault | 88 | 8 |
 | canopy | 47 | 8 |
 | basepair | 39 | 3 |
 
@@ -29,8 +28,8 @@ _Updated 2026-10-09T10:01:43Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 140 | 16 |
-| short | 32 | 2 |
+| role | 140 | 17 |
+| short | 34 | 2 |
 
 ## Replies
 
@@ -52,16 +51,19 @@ _Updated 2026-10-09T10:01:43Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **Izinga Software Private Limited** —  <hello@robustest.com> replied 2026-10-08
 - **xPay** —  <hello@xpaycheckout.com> replied 2026-10-08
 - **Greenzie** — Charles Brian Quinn <cbq@greenzie.com> replied 2026-10-06
+- **Loop Subscriptions** —  <hiring@loopwork.co> replied 2026-10-09
 
 ## Latest 25 emails
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-09 | LiveKit | recruiting@livekit.io | medvault | sent |
+| 2026-10-09 | Opencall | ask@opencall.ai | medvault | sent |
 | 2026-10-09 | ReactWise | info@reactwise.com | medvault | sent |
 | 2026-10-09 | GetDot | hi@getdot.ai | medvault | sent |
 | 2026-10-09 | Spring Edge | bishnoi.balwant@springedge.com | medvault | sent |
 | 2026-10-09 | Botle | botleapps@gmail.com | medvault | sent |
-| 2026-10-09 | Crest | neil@getcrest.ai | medvault | sent |
+| 2026-10-09 | Crest | neil@getcrest.ai | medvault | bounced |
 | 2026-10-09 | Innerkore Technologies | admin@innerkore.com | medvault | sent |
 | 2026-10-08 | Hopit | arkid@hopit.ai | medvault | sent |
 | 2026-10-08 | Globussoft Technologies | sumit@globussoft.com | medvault | sent |
@@ -80,5 +82,3 @@ _Updated 2026-10-09T10:01:43Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-07 | Moonset Health | hello@moonsethealth.com | medvault | sent |
 | 2026-10-07 | Avent | careers@aventindustrial.com | medvault | sent |
 | 2026-10-07 | Hyperspell | david@hyperspell.com | canopy | sent |
-| 2026-10-07 | RealResponse | jobs@realresponse.com | medvault | sent |
-| 2026-10-07 | AutoSitu | founders@autositu.com | medvault | sent |
