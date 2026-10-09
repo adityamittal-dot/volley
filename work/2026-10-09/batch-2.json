@@ -1,0 +1,235 @@
+{
+ "leads": [
+  {
+   "id": "00bb6928fe",
+   "company": "Hi! ImCodeMan",
+   "website": "http://www.imcodeman.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, TypeScript. Topics: api, boilerplate, boilerplate-template, nodejs, nse, nseindia, stock-market, typedoc, typescript, typescript-template, webpack",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "hi.imcodeman@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "0b63f6ba3f",
+   "company": "Spring Edge",
+   "website": "https://www.springedge.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Send voice messages and text sms using APIs. Languages: JavaScript, PHP, Python, Ruby. Topics: node, nodejs, sms-api, sms-client, sms-gateway",
+   "site_text": "[https://www.springedge.com/]\nSpringEdge - Business Communication APIs for SMS, RCS, Voice & WhatsApp Skip to main content SMS, Voice & WhatsApp APIs for Every Business Reach customers instantly through SMS, RCS, Voice, and WhatsApp — all from one platform. Send OTPs, transactional alerts, promotional campaigns, and automated voice calls with enterprise-grade reliability and real-time delivery tracking. Get Started Communicate better with your users Spring Edge empowers businesses with fast, reliable, and intelligent messaging solutions. Trusted for delivering seamless customer communication through WhatsApp, SMS, and voice channels. Start conversations that matter the most. SMS & RCS Send transactional SMS, OTPs, and RCS messages through a single API. DLT-compliant, carrier-grade delivery with real-time analytics and smart routing across India and 85+ countries. Explore SMS Voice Calls Automate outbound voice calls, IVR menus, and click-to-call workflows with text-to-speech in 15+ languages. Broadcast alerts, reminders, and surveys to thousands simultaneously. Explore More WhatsApp APIs Integrate the official WhatsApp Business API to send template messages, rich media, and interactive buttons. Build chatbots, automate support, and engage 2 billion+ users securely. Explore APIs Trusted by Businesses Across The Globe Powering millions of messages daily for startups, enterprises, and government organisations. From OTP authentication to bulk marketing campaigns, SpringEdge delivers every message with speed and precision. Instant SMS Messaging Send fast, reliable SMS alerts, OTPs, and promotional messages at scale. Reach your customers instantly with high delivery rates and smart routing. WhatsApp Business API Engage customers on their favorite messaging app with verified WhatsApp communication. Automate support, send updates, and personalize conversations securely. RCS Marketing Campaigns Run rich, interactive campaigns with branded RCS messages featuring images, buttons, and actions. Upgrade your traditional SMS to a dynamic, app-like experience. Voice Call Broadcasting Deliver pre-recorded voice messages to thousands in seconds. Perfect for alerts, reminders, and multilingual outreach with real-time reporting. Virtual Numbers Use dedicated virtual numbers for two-way messaging, missed call campaigns, and tracking. Enhance customer interaction while maintaining privacy and control. API & Integrations Easily integrate messaging into your apps, CRMs, and workflows with powerful APIs. Extend functionality with chatbots, webhooks, analytics, and third-party integrations. Why Choose SpringEdge A Communication Platform Built for Developers and Businesses SpringEdge (also written as Spring Edge) combines enterprise-grade infrastructure with developer-friendly APIs so you can integrate SMS, RCS, Voice, and WhatsApp into your applications in minutes. Our platform handles millions of messages daily with direct carrier connectivity, intelligent failover routing, and 99.9% uptime SLA — backed by a dedicated support team in Bangalore. Read More Easy Integration Spring Edge's ingenious cross platform APIs are easy to integrate with any technology platform with industry standards to send SMS text or voice message. Multi Channel Connectivity We provide messaging and voice communications using multiple channels to bring the most reliable platform powered by InstantAlerts. Robust Web Application Enable business voice and SMS text communication with our highly scalable web interface. Send instant messages or bulk SMS using API or web-based platform. 24/7 Support Spring Edge strives to provide best in the industry services to clients. Our technical support engineers are available at any instant to address your SMS and voice related queries. Send Your First SMS in Minutes SpringEdge APIs are designed to be simple to use, powerful in production, and endlessly scalable. Integrate programmable SMS, voice, and WhatsApp messaging into any application wit",
+   "email_candidates": [
+    {
+     "email": "contact@springedge.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "bishnoi.balwant@springedge.com",
+     "where": "GitHub commits (spring-edge)",
+     "kind": "personal",
+     "name": "Bishnoi Balwant",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "248c9bfa4e",
+   "company": "Ampyard",
+   "website": "https://www.ampyard.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Simplify Work. Amplify Outcomes.. Languages: Python, TypeScript. Topics: cli-tool, llm-agents, llm-tools, llms, quality-assurance, quality-strategy, test-pyramid, test-report, test-report-visualization, test-traceability, unified-test-report, unified-testing",
+   "site_text": "[https://www.ampyard.com/]\nHome | Ampyard Welcome to the future of work Simplify work. Amplify outcomes. We make work-life better for people, bring results, and have a blast learning from our adventures together! Learn more Our Services 10+ Years Experience 50+ Projects Delivered 8+ Client Partners 5+ Products Built Trusted by Industry Leaders We've had the privilege of working with amazing companies across the globe Our Services How can we be awesome together? Explore our range of services designed to help your business thrive. Technology Consulting Struggling with wicked technology problems? Partner with us to solve your wicked technology problems, no matter what tech stack you run on. We specialize in developing AI solutions, including agentic AI and model-based systems. Learn more Agility Consulting Feel the pressure to build muscles to gracefully respond to market changes? Partner with us to become nimble at a sustainable pace. Learn more DevOps Consulting Want a power-up in your software delivery? Partner with us to shorten your delivery lead time without stressing yourselves. Learn more AI Trainings Ready to empower your team with cutting-edge AI expertise? Partner with us for tailored training programs that demystify AI, from foundational concepts to advanced applications. Learn more View All Services What Our Clients Say Don't just take our word for it â hear from some of our amazing clients \"We had the opportunity to engage Vivek to lead two transformative workshop series for our teams: Become a Tech-Savvy Engineering Leader and the Gen AI Challenge. The Tech-Savvy Engineering Leader workshop curated specifically to address the organization's technology context, had a particularly strong impact â the participants went on to win recognition awards within the India organization.\" M Manish Solanki Director, Siemens \"Technically Kamal was always striving to better the products he was working on with passion. His teamwork was always to the forefront, constantly helping those around him and working to find solutions. His curiosity to improve and introduce improvements was constantly refreshing and he was just a great presence to work with. He is a great asset to any project he is involved with.\" J Jennifer Conlon Greenfinch Technology, Ireland \"I worked with many Coaches on Agile since last 10 year including consultants (India & France) from top consulting companies and Vivek was one of the best among them. He has long way to go on his Agile journey and I wish best for him. Thank you Vivek for your contribution to make my Tribe successful in its transformation\" R Rupesh Gaur Societe Generale Global Solution Systems",
+   "email_candidates": [
+    {
+     "email": "info@ampyard.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "caliberoviv@gmail.com",
+     "where": "GitHub commits (ampyard)",
+     "kind": "personal",
+     "name": "vivganes",
+     "commits": 58
+    },
+    {
+     "email": "notify.kamalraj@gmail.com",
+     "where": "GitHub commits (ampyard)",
+     "kind": "personal",
+     "name": "trycatchkamal",
+     "commits": 11
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "f73fb631c7",
+   "company": "TMK Computers",
+   "website": "https://www.tmkcomputers.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Technology startup focused on building software and hardware solutions for businesses and consumers. Languages: C#, Java, Python, Shell. Topics: agent-framework, agent-orchestration, agent-runtime, agentic-ai, ai-agent-platform, ai-agents, ai-infrastructure, ci-cd, devops, docker, enterprise-ai, human-in-the-loop, mcp, model-gateway, multi-agent-systems, rag, tool-calling",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "info@tmkcomputers.in",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "4ce5a1e6e3",
+   "company": "SETNEXT.AI",
+   "website": "https://setnext.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "SetNext is a contemporary company dedicated to crafting NextGen AI where dreams are transformed into computational reality. A Next Gen AI Startup. Languages: Java, Python",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "admin@setnext.ai",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "3dd9585e04",
+   "company": "Crest",
+   "website": "https://www.getcrest.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Never run out of stock again. Languages: Python, Shell",
+   "site_text": "[https://www.getcrest.ai/]\nStay In Stock Always - #1 Inventory planning Tool Every order fulfilled, on time. Eliminate overstocking and under-stocking with Crest. Built by supply-chain experts, it brings the same technology used by large global brands to power fast-growing startups. In short, we make supply meet demand, and then help you grow both. Our newest interactive AI forecasting tool is now live! 🚀 Try for Free Product Pricing Industry Customer Stories About Blog Login Talk to Us Get started with Crest Four key questions answered by Crest What to order Get accurate demand and days to stock out. Automate purchase planning so you can always have what you need for your next sales cycle. When to order Have up-to-date inventory, storage, sales velocity, and demand. Get timely order suggestions so you're never left guessing. How much to stock Get inventory requirements for every node, for every SKU. So you avoid out-of-stock situations, even during demand spikes. Where to place Our tool suggests how to move stock within your supply chain. So you'll always have products available across cities. STOCKOUTS CASH RECOVERY CYCLE REVENUE 0 % Reduction in out-of-stock 25 Days Reduction in cash recovery time 15 % Growth in revenue The proof is in the pudding As Co-founders, we had zero clue on the real time stock levels in our warehouse. It felt like a battle to manually update invoices from EasyEcom to Zoho, so that at least some data points can be tracked. While we had already implemented Crest I had no clue that they could make this API integration work for us and exactly the way we wanted it to work. Thank you team Rahul Vishwakarma & Yogesh Byahatti for identifying the problem and being so quick with the solution, kudos to the amazing team you have. Kirti Goel Co-founder , P-TAL Automated Invoice Reconciliation Channel wise Sales Classification D2C brands face issues with supply chain management and high growth startups are not equipped to run their demand forecast manually. Crest automates all the workflows and helps brands predict high demand periods and be ready to cater to customer demands. It has a direct impact on the revenue readiness of a company and that's the value we see Crest unlocking for many companies in the future. Rahul and team have built a robust product with years of their experience distilled into the workflows. Diksha Pande Co-founder , Samosa Party upto 95% Demand Fulfilment < 3% Daily Stock-out Read story Crest has helped us to design, automate and integrate workflows to consolidate demand across the D2C platform and multiple Ecom channels with high accuracy. I think the team's execution speed and customer first thinking sets them apart in industry. Abhinav Gupta Director -NPD/Supply -Operation Mosaic Wellness Centralised Data Pipeline Sales Tracking Visibility Before Crest AI, keeping track of our inventory across Unicommerce, Amazon warehouses, and retail stores was a complete headache. We had to manually gather data for every store and city, which took forever. But with Crest AI, everything’s automated, we now get real-time visibility into both past trends and current inventory, hassle-free. It didn’t stop there. Store space optimization was another challenge, but Crest AI automated it too, helping us maximize space effortlessly. Surya Theja Gummadi Senior Manager, Inventory Inventory Visibility Space Optimization We have close to 1000 styles, and managing inventory manually was becoming difficult. Crest has really helped us bring down our out-of-stock rate, I’d say by around 20 - 25%. What I liked is that it doesn’t just rely on past sales, but also considers sales events, seasonality, and marketing spends. Even things like vendor constraints - minimum order quantities or how fabric gets used across sizes, we’re able to factor those in, which makes it a better fit for how we actually work as a clothing brand. Amit Saibannavar Co-Founder, ADRO Decrease in Lead Time Reduction in Stockouts Things your spr",
+   "email_candidates": [
+    {
+     "email": "neil@getcrest.ai",
+     "where": "https://www.getcrest.ai/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "8f4f24707b",
+   "company": "Madgeek",
+   "website": "https://www.madgeek.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Madgeek is a software agency renowned for its expertise in developing tailored enterprise tools and e-commerce solutions. . Languages: JavaScript, TypeScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "hello@madgeek.in",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "bac0946fd8",
+   "company": "Undash-cop Private Limited",
+   "website": "https://www.undash-cop.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, JavaScript, Python, TypeScript",
+   "site_text": "[https://undash-cop.com/]\nUndash-cop - Proven Delivery. AI Built In.",
+   "email_candidates": [
+    {
+     "email": "info@undash-cop.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "d0fce20020",
+   "company": "Vidya Mantra EduSystems Pvt. Ltd.",
+   "website": "https://www.vidyamantra.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Delhi, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Dockerfile, JavaScript, PHP",
+   "site_text": "[https://www.vidyamantra.com/]\nVidya Mantra | An EdTech Company – Moodle Partner, AWS Partner, Complete end to end EdTech solutions Home Home Moodle Services Moodle Hosting KTS Plans Saas Plans Cloud Plans Moodle Mobile App Other Moodle Services Other Sevices Online Learning Platform Skill Development Solutions E-learning Advisory Company About Us Careers Client Portal Blogs Contact Us Vidya Mantra An EdTech company, creating knowledge since 2008 Our Offerings From designing and development of adequate e-learning solution to realisation of its defined benefits, we have got you covered. Online Learning Platform We create compelling portals with a goal to empower e-learning enthusiasts all around the globe. Software development Content development Managed hosting Learn More Skill Development Solution We provide a full length of training services from designing the content to delivering it. Training solution Course / module development Learn More E-learning Advisory We manage complete e-learning roadmap of our clients and assure their e-learning success. E-learning Consulting 24*7 support services Learn More Our Products reflects our values KeyToSchool Vidya Mantra, formerly a Moodle partner in US as well as India, offer several Moodle services globally through KeyToSchool such as, hosting, development, support, Integration, Moodle theme, training, custom branding and much more. Since its inception KeyToSchool has proved itself to be the best LMS hosting portal with a recent clientele of more than 30,000 clients. Learn More Congrea Launched in 2017, Congrea is a new generation, open source, scalable online virtual classroom environment. It has been specifically curated to enable educators to impart their knowledge in a seamless manner. Congrea has been packaged with several value added features such as, audio-video interaction, chat, poll, quiz, collaborative editor and much more. Learn More Covering all the major sectors We have been serving our services in various sectors through our expertise in e-learning and skilled team of professionals. EDUCATION CORPORATE GOVERNMENT NGO'S INDIVIDUALS Managing your e-learning roadmap since our inception! Stage 1 Analysis and Identification We start our project with deep analysis on the requirements of our clients followed by the identification on steps that need to be taken to achieve the desired result. Stage 2 Design and Development Keeping all the technical requirements in mind, we skilfully design and develop customised e-learning solution that really works. Stage 3 Implementation and Integration We design highly compatible and dynamic solution that get fits in any infrastructure. Also, our fully managed hosting service enable our clients to save time and money. Stage 4 Realization of Benefits We focus on training the team of our client so that they are able to utilise the solution in such a way that it allows them to assure their e-learning success. Stage 5 Throughout Support We offer our advisory service to support our clients during their e-learning journey. Moreover, our support team assures 24*7 support to ensure that our clients have best e-learning experience. Listen from our clients The comments below are just a sample of the 30,000 clients worldwide who transformed their business with us. I’m so happy to have found Vidya Mantra! I joined ISKCON (Hare Krishna Movement) in 1974, and have been using Moodle since 2008…..mostly on my own, which meant I was very frustrated with both admin and teaching duties. Due to some difficulty with my own site and upgrades from Moodle 1 to 2, I searched for another Moddle host and found Vidya Mantra — the perfect fit for me. DHRUVA MAHARAJA DASA Vidya Mantra has been an outstanding partner in supporting our learning portal to serve the professional development needs of our members. From extremely reliable performance (99.99% uptime) to quick, helpful and timely technical support when we seek to expand our offerings, this is a company that has b",
+   "email_candidates": [
+    {
+     "email": "hr@vidyamantra.com",
+     "where": "https://www.vidyamantra.com/careers/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting"
+  },
+  {
+   "id": "cad8b0f4c0",
+   "company": "Peoplebox",
+   "website": "https://www.peoplebox.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Helping high-growth startups achieve their goals!. Languages: HCL, Ruby, TypeScript",
+   "site_text": "[https://www.peoplebox.ai/]\nAI Talent Management Software To Improve Performance | Peoplebox Skip to main content Skip to footer Products Talent Management Performance Management Reviews, goals, calibration, and compensation in one platform Performance Review 1:1 Org Chart OKR / Goals Align every team to company priorities in real time Check-ins Business Reviews Employee Engagement Catch engagement problems before they become exit interviews Engagement Surveys People Insights 360 Feedback Honest multi-rater feedback that drives real development AI Talent Acquisition Text to Apply Let candidates apply via text in seconds and capture more qualified applicants ATS A unified applicant tracking system to manage your entire hiring pipeline Resume Screening Screen thousands of resumes in minutes AI Interview Structured interviews at scale, zero recruiter time Customers Resources Resources Blog Insights on performance, engagement, and hiring Webinars Live and on-demand sessions with HR leaders Ebook and Guides Practical resources for every stage of talent management Product Tour Guided walkthroughs of every Peoplebox feature Talent Lab Research and benchmarks from real talent data Recent Article Best AI Interview Tools for Hiring Teams in 2026 (Compared) Abhinav Chugh 24 MIN READ The Free 360 Degree Review Template: Competencies, Rating Scale, and Questions Biswashree Roy 0 MIN READ Pricing Log in Book a Demo Human-Like AI for Hiring and Managing Talent Conduct AI-powered interviews, manage performance reviews, track OKRs, and handle compensation – all from one platform . Request a Demo Take a Product Tour Trusted by 600+ companies building high-performance cultures Case study Case study What Does Peoplebox.ai Do? Peoplebox.ai is an AI-powered Talent platform that combines human-like AI with configurable workflows to automate hiring, performance management, and employee growth. Nova Human-like AI interviews and employee conversations Hire AI Chat Conversation AI Skill Assessment Resume screening First-round interviews Onboarding Conversation Engagement Onboarding Check-in calls Grow Career Growth Conversation Skill Assessments Hire in days not weeks. Stay connected from hire to exit. Explore Now Talent Management Platform All-in-one platform - OKRs to Compensation Performance reviews 1:1 management Career development (IDPs) Compensation planning Competency frameworks Continuous feedback Engagement surveys Goals and OKRs Reduce admin time. Eliminate spreadsheets. Explore Now Experience Peoplebox.ai Nova AI Talent Management Nova AI Talk to Nova Right Away OTP modal trigger button Nova will call you in ~30 seconds and conduct a real interview for the role you selected. Talent Management Experience Peoplebox in action Explore Talent Management See how forward-thinking HR teams run performance, growth, and retention—all in one platform. Key Stages of Talent Lifecycle From Hire to High Performance Powered by AI AI runs interviews, performance, and engagement - seamlessly across the talent lifecycle. Hire Perform Grow Retain AI Sourcing & Outreach Nova identifies candidates on LinkedIn and job boards, then reaches out with personalized messages based on the role. No recruiter time spent on outbound. Resume Screening Upload 500 resumes. Nova scores each against your requirements in minutes and shows you why each candidate passed or failed. No black-box decisions. Phone Interviews Nova calls candidates and conducts natural phone screens - complete with pauses, follow-up questions, and adaptive conversation. Scales to 100+ calls per day. Candidates consistently ask if they were speaking to a real person. Video Interviews Async video interviews with AI evaluation of responses, tone, and communication skills. Candidates respond on their schedule. Nova flags top performers for human review. AI Chat Conversation Nova meets every candidate on their channel of choice - text, chat, call, or video - pre-screening and qualifying them in real time, 24/7",
+   "email_candidates": [
+    {
+     "email": "makers@peoplebox.ai",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  }
+ ]
+}

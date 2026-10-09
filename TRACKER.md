@@ -1,19 +1,20 @@
 # Tracker
 
-_Updated 2026-10-08T20:01:22Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-09T06:38:23Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 166 · **Sent:** 166 · **Replies:** 17 (10%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 166 · **Sent:** 166 · **Replies:** 18 (11%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
-| new | 307 |
+| new | 286 |
 | skipped | 2 |
-| no_contact | 578 |
+| no_contact | 617 |
 | low_fit | 319 |
-| sent | 70 |
+| researching | 75 |
+| sent | 69 |
 | followup_1 | 59 |
 | followup_2 | 12 |
-| replied | 17 |
+| replied | 18 |
 | bounced | 8 |
 
 ## Reply rate by angle
@@ -21,14 +22,14 @@ _Updated 2026-10-08T20:01:22Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | Angle | Sent | Replies |
 |---|---|---|
 | medvault | 80 | 7 |
-| canopy | 47 | 7 |
+| canopy | 47 | 8 |
 | basepair | 39 | 3 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 137 | 15 |
+| role | 137 | 16 |
 | short | 29 | 2 |
 
 ## Replies
@@ -47,6 +48,7 @@ _Updated 2026-10-08T20:01:22Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **ColoredCow** — Vaibhav Rathore <vaibhav@coloredcow.com> replied 2026-10-01
 - **HivarSoft** — Hitesh Kumar <dev.hitesh.k@gmail.com> replied 2026-10-05
 - **Pocket** —  <hey@heypocket.com> replied 2026-10-08
+- **GattyWorks** —  <hello@gattyworks.com> replied 2026-10-09
 - **Izinga Software Private Limited** —  <hello@robustest.com> replied 2026-10-08
 - **xPay** —  <hello@xpaycheckout.com> replied 2026-10-08
 - **Greenzie** — Charles Brian Quinn <cbq@greenzie.com> replied 2026-10-06
@@ -65,7 +67,7 @@ _Updated 2026-10-08T20:01:22Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-08 | Pantelwar | baldeep.singh@pantelwar.com | medvault | sent |
 | 2026-10-08 | Urban Morph | sathya@urbanmorph.com | medvault | sent |
 | 2026-10-08 | nighthack | careers@nighthack.in | medvault | sent |
-| 2026-10-08 | GattyWorks | hello@gattyworks.com | canopy | sent |
+| 2026-10-08 | GattyWorks | hello@gattyworks.com | canopy | replied |
 | 2026-10-08 | DeepKlarity | info@deepklarity.com | medvault | sent |
 | 2026-10-07 | BetterBasket | founders@betterbasket.ai | canopy | sent |
 | 2026-10-07 | Pocket | hey@heypocket.com | medvault | replied |

@@ -1,0 +1,236 @@
+{
+ "leads": [
+  {
+   "id": "921af6173b",
+   "company": "Chimple Learning",
+   "website": "https://chimple.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We believe education needs a reboot right about now. At Chimple, we are open to any ideas that will radically improve learning.. Languages: HTML, TypeScript",
+   "site_text": "[https://www.chimple.org/]\nChimple Learning | Free Gamified Foundational Learning, Literacy & Numeracy App | Proven Results | India & Global top of page Joyful Learning, Measurable Impact! Empowering children everywhere to read, write and count, through play. For children aged 3 - 8 years. Try it now Schools & Partners Recognised | Trusted | Proven Finalist, $15 Million Global Learning XPRIZE One of five teams globally recognised for enabling children to self-learn literacy and numeracy. LiftEd EdTech Accelerator Supported by Michael & Susan Dell Foundation, Reliance Foundation, and UBS Foundation. Trusted by partners and governments Including Bharti Airtel Foundation, Central Square Foundation, and multiple State Governments in India. Proven results Independent studies across India and Tanzania show measurable gains in foundational learning. Partner With over 15+ Organizations that Trust Chimple Learning To play, press and hold the enter key. To stop, release the enter key. What Learning Feels Like with Chimple “When I do it right, Chimple laughs and if I get it wrong, Chimple feels sad. That makes me want to do it right again.” Class 1 Student, Uttar Pradesh Built for Joy Backed by Impact Chimple is a gamified, adaptive learning platform for children aged 3–8. ​ It builds foundational literacy and numeracy through interactive games aligned with the school curriculum, in multiple languages, online or offline. Learn More Joy isn’t a Bonus It’s the Method Together, these models create a continuous learning loop between school and home At-School Model Teachers use the Chimple Class App on Tabs to engage students in personalised lessons & track progress through dashboards Learn More At-Home Model Children continue learning on their parents’ phones through assigned games and guided nudges on WhatsApp Learn More Working Across Systems Not Around Them Chimple partners with governments, nonprofits, and education enablers to strengthen foundational learning at scale. Our programmes operate across multiple Indian states and have been tested internationally, ensuring solutions are locally grounded yet globally informed Our Philosophy bottom of page\n\n[https://www.chimple.org/about]\nAbout Chimple Learning top of page Chimple Learning was Founded in 2015 With a Single Belief ​ That every child, regardless of where they are born or how much their family earns, deserves a joyful, effective start to learning. That belief became a mission, and that mission became an app. An initiative of Sutara Learning Foundation, a non-profit rooted in Bengaluru, Chimple Learning was built not for the child who already has every advantage, but for the one who has very few. The child in a low-resource classroom. The child in a village with no school nearby. The child whose parents may never have had the chance to learn themselves. For that child, Chimple was designed to be something remarkable in its simplicity: a free app that any 4-year-old can open, and learn from, entirely on their own Chimple is a finalist in the Global Learning XPRIZE competition. ​ The competition challenged teams from around the world to develop open-source, scalable software that will enable children in developing countries to teach themselves basic reading, writing and arithmetic within 15 months. ​ With the help of UNESCO, a field trial of Chimple software was conducted for 15 months, during which children aged 7-10 showed impressive learning gains. Every child is born curious. Chimple is built to make sure that curiosity never goes to waste. Chimple is a free, game-based learning app for children in the grades 1-3, aged 3–8. It is designed to teach reading, writing, and mathematics through joyful, self-directed play. A child can pick up a device, open Chimple, and begin learning entirely on their own. No instructions needed. No teacher required. No internet necessary. Built on rigorous research in early childhood education and backed by an independent Randomized Controlled Trial, ",
+   "email_candidates": [
+    {
+     "email": "hi@chimple.org",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "3b5ff4ce11",
+   "company": "YANTRAVISION SOFTWARE PVT LTD",
+   "website": "https://www.yantravision.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: C, Python, Verilog",
+   "site_text": "[https://www.yantravision.com/]\nYantraVision — Machine Vision & AI Engineering Solutions YantraVision ✕ Solutions 🖨️ Printing 🔍 LUMA Print Inspection Guide 📦 Packaging 🧵 Textile 🌾 Agriculture 🏷️ LUMA Label Inspection 🔤 LUMA Text Proofing 🦅 Falcon Sorting Platform Engineering Services ⚙️ AI Product Engineering 🚀 AI Acceleration 🔁 AI Model Porting Company 🏢 About YantraVision 📅 Events 💼 Careers 🔩 OEM Solutions Industrial Vision Systems Machine Intelligence. See. Think. Act. Print · Textile · Agri · Recycling Explore Solutions → AI Engineering Services We've built our own. Now we build yours. Consult · Build · Port · Lifecycle Explore Services → Products Purpose-Built Vision Platforms Two product families. One mission: eliminate defects at production speed. 🔵 LUMA Series Printing Quality Partner 🏷️ LUMA Label Inspection 100% label presence, placement, barcode grade and artwork verification. 🔤 LUMA Proof Reader OCR-based master artwork comparison. Zero mis-print tolerance. Print inspection guide: proof vs inline inspection → ⚡ Falcon Series Sorting Platform 🦅 Falcon Platform High-speed FPGA-accelerated bulk sorting. Sub-2ms latency. 5–20 m/sec material speed. Click to explore → Industries Vision Intelligence Across Every Vertical Domain-tuned systems for industries where quality has zero tolerance. 🖨️ Printing High-speed print quality and web inspection at 300–600+ m/min across labels, cartons and continuous webs. Click to explore → 📦 Packaging Full packaging chain inspection — substrate web, print quality and fill-level / seal integrity via SWIR. Click to explore → 🧵 Textile Fibre sorting for cotton and recycled cotton, plus fabric web defect detection at full production speed. Click to explore → 🌾 Agriculture Precision optical sorting for grains, pulses, nuts and spices — up to 1.5 T/hr per chute with RGB + SWIR detection. Click to explore → ← Back 🦅 Falcon Sorting Platform OEM Sorting Platform Falcon Sorting Platform Hard real-time bulk sorting intelligence for machine builders Overview The Falcon Sorting Platform is YantraVision's FPGA-powered optical sorting system that delivers hard real-time bulk sorting decisions in under 2 milliseconds. Built on a three-layer architecture — custom FPGA hardware, configurable multi-spectral sensing (RGB, SWIR, NIR), and the Clever Sight AI engine — Falcon serves OEM machine builders deploying sorting lines across agriculture, recycling, textiles, and minerals. The Platform — Three Layers 📷 Sensing Sensing Layer Configurable cameras and illumination — RGB, SWIR, NIR, and combinations. → ⚙️ FPGA Core FPGA Core Hard real-time, <2ms cycle. Custom boards, YantraVision IP. → ← 🧠 CSE Clever Sight Engine Analyzes data, auto-tunes parameters continuously. The FPGA Core The central claim of Falcon is hard real-time processing. Every pixel from every line scan is processed within a deterministic cycle of under 2 milliseconds — no operating system, no scheduling jitter, no unpredictability. The FPGA boards are custom-designed and manufactured by YantraVision — built specifically for the harsh conditions of industrial sorting lines: vibration, dust, heat, and continuous 24/7 operation. The firmware and processing algorithms running on them are entirely YantraVision IP. Falcon FPGA processing boards — custom-designed and manufactured by YantraVision PC-based systems introduce OS jitter — they cannot guarantee the microsecond-level timing that precise ejection valve control demands. DSP boards are the previous generation: purpose-built but throughput-limited, unable to keep pace with modern line speeds. Falcon is what comes next. Feature PC-based DSP Falcon FPGA Latency Variable / jitter Limited <2ms deterministic Throughput Moderate Limited High — line speed Hardware Off-shelf Off-shelf Custom, YantraVision IP Harsh environment ready ✗ Partial ✓ AI feedback loop (CSE) ✗ ✗ ✓ Contaminant capture + audit ✓ ✗ ✓ The Sensing Layer Bulk sorting is not one problem. Sorting rice is different from sorting PET fla",
+   "email_candidates": [
+    {
+     "email": "kamalesh@yantravision.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "jobs@yantravision.com",
+     "where": "https://www.yantravision.com/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "4b95b13b42",
+   "company": "Tvast",
+   "website": "https://tvast.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "A technology company building the next age health tech. Languages: C++, TypeScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "admin@tvast.in",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "c9a55996b1",
+   "company": "Synup",
+   "website": "http://synup.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Infrastructure For Digital Marketing Providers. Languages: Python, Ruby",
+   "site_text": "[https://synup.com/]\nSynup Listing & Reputation Management Tools & API New in Synup Plan a campaign with Sydekick Plan a campaign with Sydekick Keep campaign goals, steps and approvals together. See what’s new What’s new → The AI agent for local marketing. Sydekick turns insights into action across listings, reviews, social, SEO and AI Search - without adding more work for your team. Start free trial Contact Sales 14-day free trial • $50 in AI credits • Cancel anytime ai.synup.com Trusted by the top brands Stop clicking. Just ask. Old way 1 message New way One agent and all the marketing surfaces it operates on Sydekick · the agent Weekly listings audit Every Monday, 9:00 AM Run now Skills Teach it a repeatable task. Weekly local posts Draft 44 posts 2 Rewrite in each store's voice 3 Publish to Playbooks Multi-step jobs across every location. Google Business Profile Slack HubSpot A Apple Business Connect Integrations Plugs into the tools you already use. Synup · marketing suite Ember Coffee Roasters Live on 47 directories Google Business Profile Apple Maps Bing Places Listings Accurate profiles across every directory. ★★★★★ Tripadvisor · Hayes Valley “The cold brew here is unreal.” V ★★★★★ Vitals · 2h ago ★★★★☆ Facebook · 5h ago Review Monitoring Track reviews from every source live. Thanks for stopping by Ember Coffee today. Mind leaving a quick review? ember.co/r/4kt Opens on hg Review Generation Turn happy customers into reviews. EC Hayes Valley Cold brew season starts today. Social Schedule and publish across locations. Local pack #3 1 Ritual Coffee 4.6 ★ 2 Ember Coffee Roasters 4.8 ★ 3 Andytown Coffee 4.5 ★ SEO Rank higher in local search results. ember.co/locations/ hayes-valley Hayes Valley 0.4 mi Fillmore 1.2 mi Mission 2.8 mi Locator & Pages Store locators and local landing pages. ChatGPT “cold brew in hayes valley” Locals point to Ember Coffee Roasters on Linden St. ember.co Also cited in Claude Gemini AEO New Get cited by AI answer engines. Built for agencies Everything you need to run marketing across clients & locations Manage every client, keep each brand separate, and put your name on all of it. Scroll to explore all 9 All clients Clients · 24 RD Rosewood BB Bloom & Bean NW NorthWest VF VitaFit RD Rosewood Dental 45 Locations 4.6★ Avg rating 98% Listings live 12 To review Command center Multi-client command center Run every client from one place — each with its own context. Learn more Branding settings Upload logo SVG or PNG · shown everywhere Brand color Custom domain https:// acmeagency.co White-label Pixel-perfect white-labeling Your brand, your domain, your colors — no Synup anywhere. Learn more acmeagency.co A Acme Agency Dashboard Reviews Reports Welcome back Your visibility this month 1.2k Profile views 86 Calls 4.7★ Rating Client portal Fully customizable client portal Give clients a branded portal that looks like yours. Learn more June performance B Monthly report Rosewood Dental · June 2026 Auto Send to client 1st monthly Reporting Automated branded client reporting Sydekick builds and sends client-ready reports on schedule. Learn more Brand profile BB Bloom & Bean Café · warm & playful Tone of voice Friendly Warm Local No emoji Memory: Always mention the seasonal roast. Never discount below 10%. Sign off “See you soon ☕”. Brand voice Per-client brand voice & context Each client keeps its own voice, memory, and rules. Learn more Team & access AL Ana López ana@agency.co Admin JM Jon Meyer jon@agency.co Editor Rosewood Dental Bloom & Bean VitaFit — billing Team & roles Team seats, roles & permissions Add your team with scoped, per-client access. Learn more Deploy agent VF VitaFit 3 surfaces Listings 45 locations Reviews Auto-reply on Deploy to VitaFit Deploy Deploy Sydekick across client surfaces Put Sydekick to work on every client's listings, reviews, and pages. Learn more API reference POST /v2/locations 200 OK curl -X POST api.synup.com \\ -H \"Authorization: Bearer ••••\" -d '{ \"client\": \"rosewood\" }' ",
+   "email_candidates": [
+    {
+     "email": "hello@synup.com",
+     "where": "https://synup.com/contact",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "b27ad8673e",
+   "company": "Bitloka Solutions",
+   "website": "https://bitloka.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript",
+   "site_text": "[https://bitloka.com/]\nBitloka Solutions Be part of our story. Sky is the limit \"Customer Delight\" epitomizes our journey, encapsulating our purpose: ensuring unparalleled satisfaction among our clientele. Our cloud solution optimizes performance, scalability, and efficiency through state-of-the-art technology. We deliver adaptable, dependable, secure services tailored to evolving client requirements. A dedicated team of UX specialists and adept technologies deliver cutting-edge solutions, ensuring exceptional performance across the technology stack. We're committed to crafting innovative solutions that enhance education, streamline communication, optimize cloud infrastructure bolster observability, and leverage GenAI's power. Building a high-performance team and core competencies is vital for growth. We recruit diverse talent and foster a collaborative learning culture. Through targeted training, we align strengths with objectives, enhancing innovation. < > About Founded by IT professionals with over 50 years of combined experience in management and technical roles across Education, Insurance, Finance, and Data Center Applications, our team has worked with global leaders like HP, IBM, Tech Mahindra, Wipro, and BMC. Our flagship platform, CampusTrack, offers a user-friendly solution for all educational stakeholders, addressing diverse needs with simplicity and power. Bitloka has since evolved beyond EdTech, integrating LMS, Cloud services, Observability, and Generative AI features. Cloud Leveraging Kubernetes in conjunction with leading cloud hosting services, our team excels in orchestrating the deployment, management, and scaling of applications, capitalizing on the inherent advantages of cloud-native technologies. Our adept approach ensures enhanced flexibility, scalability, and resilience. Streamlining and automating software deployment processes Orchestrating containerized applications with Kubernetes Utilizing cloud services (Digital Ocean, AWS, etc.) for scalability and reliability Employing Infrastructure as Code tools like Terraform for efficient management Expertise in implementing CI/CD pipelines (GitHub / GitHub Actions / Docker / Kubernetes / Helm) Integration with tools like Github Actions for real-time deployment and automation Commitment to enhancing operational efficiency and delivering robust solutions for clients' evolving needs. Connect Effective communication is vital for engagement and collaboration in educational institutions. Features like SMS, email, notifications, chat, and chatbots ensure seamless connectivity by enabling instant alerts, formal communication, real-time collaboration, and automated reminders. Timely notifications and interactive chatbots further enhance support with 24/7 assistance, event updates, and critical information sharing. Connectivity: Ensures engagement with SMS, email, notifications, chat, and chatbots SMS Communication: Enables instant alerts for attendance, exams, and critical updates Email Channel: Facilitates formal communication, document sharing, and two-way interaction Timely Notifications: Delivers updates on events, deadlines, and reminders via web and mobile Real-Time Chat: Enhances collaboration among students, teachers, parents, and administrators Interactive Chatbot: Provides instant support, FAQs, and onboarding assistance 24/7 Event Reminders: Automates alerts for schedules, deadlines, and academic activities EdTech Experience the future of education management with CampusTrack — a flexible solution for your institution's success. An Umbrella app that can handle institutes at all levels. Flagship product serving 100,000+ students A simple yet powerful, and extensible platform for stakeholders of an Educational Institution - Students, Parents, Academia, and Management A cloud based solution with cutting edge technologies Key Features: Handle Admissions, Attendance, Fees Transactions, Exams, Performance, Generate marks card, Generate reports, Manage Assets, Cal",
+   "email_candidates": [
+    {
+     "email": "contact@bitloka.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "c71db2b49c",
+   "company": "BhallaLab",
+   "website": "https://ncbs.res.in/bhalla",
+   "title": "Software Engineering (no public opening)",
+   "location": "NCBS Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "BhallaLab at NCBS Bangalore. Languages: C++, JavaScript, Python",
+   "site_text": "[https://www.ncbs.res.in/faculty/bhalla]\nProf. Upinder S. Bhalla | NCBS Menu close × Call Us close × Home Research Faculty Prof. Upinder S. Bhalla Prof. Upinder S. Bhalla Prof. Upinder S. Bhalla Computational and Experimental approaches to Memory and Plasticity When we remember things, we activate an extensive array of events in the brain. Sensory input triggers whole-brain activity, which cascades through networks of brain cells. A torrent of electrical and chemical signals is launched in each cell, giving rise to changes in structures and connections between cells. We have four major ongoing projects: A synaptic atlas to exhaustively map and model synaptic signaling in memory, aging, and disease. Informatics and analysis of neuropsychiatric disorders using the CALM-Brain data resource, a multimodal brain data resource from Indian patients. Sequential computation in the brain, focussing on time cells in the hippocampus and how salient events are organized. Whole human (and primate) brain imaging using ultrasound 1. We are developing a synaptic signaling atlas using high-throughput mass-spectrometry, kinomics, and fluorescence data to measure the time-course of responses of thousands of proteins following stimulation. We also deploy AI to digest the literature and add to an open database of annotated, computer-executable experiment definitions: FindSimWeb . In silico, we model neural computations across scales. We build a range of models of synapses in health and disease using an array of tools we have developed to manage, access, and analyze the data. We use the data and models to examine what processes underlie the overlapping cell and network dysfunction in aging, psychiatric disease, and neurodevelopmental disorders. 2. To ask how these signalling phenomena lead to system-wide function and disorders, we participate in the activities of the Centre for Brain and Mind ( CBM ). We provide the informatics platform for the CALM-Brain database which collates the unique multimodal and longitudinal dataset arising from this study. We are analyzing this rich dataset to explore how biomarkers may span the space of neuropsychiatric disorders. 3. A key aspect of memory is the ability to relate events that occur in sequences, such as landmarks, music, movements, or words in a sentence. We study how such sequences are formed during learning, how sequences cause changes in cells and connections, and how molecular and electrical signals encode and sustain memories. In vivo, we use 2-photon imaging of hippocampal activity in mice to see how time is encoded during rhythmic stimuli and separated stimuli. We can literally watch brain activity during learning, to see how sequences in the real world map to sequences in the brain. We find that time is encoded through sequences of activity but is highly dependent on the task demands. 4. We coordinate a consortium of researchers developing methods for ultrasound brain imaging in humans and primates. Our partners are in IIT Madras, NIMHANS and IISc. In recent years we have also performed studies on input-output properties of the CA3-CA1 circuit of the hippocampus, with particular attention to Excitatory-Inhibitory balance and synaptic plasticity. In vitro, we use optogenetics in mouse brain slice to deliver precise patterned stimuli to the hippocampal network while monitoring responses. We have characterized heterogeneity and stochasticity in memory processes, and have explored how single cells can detect mismatches in sequences of spatiotemporal input patterns. Simulation Tool Development. Many of the above projects combine experiments and multiscale modeling spanning molecules to networks. To carry out these simulations, we have developed a major simulation tool called MOOSE , the Multiscale Object Oriented Simulation Environment, in collaboration with Subhasis Ray at CHINTA. We have also developed Jardesigner , a web-based interface for building and running detailed neuronal models including elec",
+   "email_candidates": [
+    {
+     "email": "bhallalab@ncbs.res.in",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "comms@ncbs.res.in",
+     "where": "https://www.ncbs.res.in/contact-us",
+     "kind": "personal"
+    },
+    {
+     "email": "sciedu@ncbs.res.in",
+     "where": "https://www.ncbs.res.in/contact-us",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "a4f976430b",
+   "company": "Botle",
+   "website": "https://botle.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Botle Innovations. Languages: HTML, TypeScript",
+   "site_text": "[https://botle.in/]\nBotle - Open Source Tools for Everyone Open Source • Free Forever • Community Driven Open Source Tools For Everyone We believe powerful tools should be accessible to all. Our AI-assisted open source applications empower developers, creators, and everyday users to do more without barriers. Explore Tools Star on GitHub 100 % Open Source 6 + Free Tools 0 $ Forever Free 📊 My Dashboard 🛒 Shopping List AI 📅 Day Planner AI ✅ Checklist AI 🔖 Mark IT 🖥️ StandBy Screen Scroll to explore Why Choose Us Built Different, Built Better Our tools are designed with modern principles that put users first Privacy First Your data stays yours. No tracking, no ads, no selling your information. Ever. Lightning Fast Optimized for performance. Our tools load instantly and run smoothly on any device. Community Driven Built by developers, for everyone. Contribute, suggest, and help shape our tools. AI-Assisted Smart features powered by AI to help you work smarter, not harder. Cross Platform Use on any device — web, mobile, or desktop. Your data syncs seamlessly. 100% Open Source Fully transparent. Inspect, modify, and contribute to every line of code. Our Tools Powerful Apps, Zero Cost Beautiful, functional tools designed to simplify your digital life 📊 Web App My Dashboard A powerful data visualization hub for tracking personal and professional KPIs with beautiful card-based UI. ✓ Custom modular layout ✓ Multiple dashboards ✓ Statistical trends View Details 🤖 AI-Powered 🛒 Web App Shopping List AI An intelligent, family-centric inventory and grocery management application. Never forget an item again. ✓ AI-driven list generation ✓ Predictive tracking ✓ Family sharing ✓ Price comparison View Details 🤖 AI-Powered 📅 Web App Day Planner AI Context-aware activity planning for vacations, events, and daily routines. Stay organized during high-stakes events. ✓ AI-driven scheduling ✓ Group sharing ✓ Status tracking ✓ Itinerary management View Details 🤖 AI-Powered ✅ Web App Checklist AI The ultimate task-management tool powered by intelligent templates. Blueprint any process and ensure nothing falls through. ✓ AI prompt generation ✓ Pre-built templates ✓ Clone & share lists ✓ Progress tracking View Details ⭐ Featured 🔖 Chrome Extension Mark IT A high-performance Chrome extension for advanced bookmark organization. Manage large volumes of web resources effortlessly. ✓ Spaces & Groups ✓ Drag-and-drop UI ✓ Import/Export ✓ Instant search View Details 🖥️ Web App StandBy Screen Enhancing the pre-meeting experience with interactive engagement tools. Set a professional tone from minute zero. ✓ Countdown timers ✓ Welcome interfaces ✓ Agenda displays ✓ Clean, professional UI View Details Tool Name Join the Movement Built by the Community, For the Community Botle is more than just tools — it's a movement. We believe that technology should empower everyone, not just those who can afford it. Every contribution, every suggestion, every line of code makes our tools better for millions of users worldwide. 🌍 Accessible to All Free forever, in every language, for everyone. 🤝 Collaborative Spirit Every voice matters. Shape the future with us. 💡 Innovation Driven Cutting-edge features powered by AI and community insights. Contribute on GitHub contribution.js const botle = { mission : \"Open source for everyone\" , tools : [ \"My Dashboard\" , \"Shopping List AI\" , \"Day Planner AI\" , \"Checklist AI\" , \"Mark IT\" , \"StandBy Screen\" ], aiPowered : true , cost : 0 , forever : true , contribute () { return \"Make the world better 🌍\" ; } }; Ready to Get Started? Join thousands of users who trust Botle tools for their daily productivity needs. It's free, it's open source, and it's made with love. Explore All Tools",
+   "email_candidates": [
+    {
+     "email": "botleapps@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "sivakumarvemula@hotmail.com",
+     "where": "GitHub commits (BotleApps)",
+     "kind": "personal",
+     "name": "Siva Kumar Vemula",
+     "commits": 49
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "ab69d5386b",
+   "company": "Nodics",
+   "website": "http://www.nodics.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Enterprise Micro-Services Management Framework. Languages: JavaScript, TypeScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "himkar.dwivedi@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "aece7942fe",
+   "company": "Archives at NCBS",
+   "website": "https://archives.ncbs.res.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Projects at Archives at NCBS. Languages: Ruby, SCSS, TypeScript",
+   "site_text": "[https://archives.ncbs.res.in/]\nHome | Archives at NCBS Skip to main content Apply! PAST Cohort 2: Inviting proposals that document the culture and practice of science and technology in India. Archives, Ethics and the Law in India \"Archives, Ethics and the Law in India: A Guidebook for Archivists in India\" is perhaps one of the first of its kind in India, and is a collaboration with the Milli Archives Foundation. To learn more, click the link in top menu or head to https://ethics-law.archives.ncbs.res.in/! Launched on Mon, Jan 23, 2023. Layer Ajith Kumar's field notes from 1982-83, written on Braille paper sourced from a church in the US. Kumar used this paper since it worked as good non-blotting paper and other resources were limited. The notes are for studies on how four species of tree living mammals (Bonnet monkeys, lion-tailed macaques, Nilgiri langurs and giant squirrels) co-exist and compete for same resources in the Anamalai Hills, Tamil Nadu. MS-005_1_1_1_1, Archives at NCBS. Nudge Excerpt from Veronica Rodrigues' letter to the Dean at TIFR on Feb 11 1990 where she protests against the asymmetric use of personal titles for women scientists (and not for male scientists) in official correspondence. NI-001_1_2_1_9, Archives at NCBS Inebriometer KS Krishnan's adaptation of the inebriometer, a fractionating system for Drosophila mutants and measuring response to anaesthetics. AT-002-01, Archives at NCBS Overview of the Archives The Archives at NCBS is a public collecting centre for the history of science in contemporary India. 1876 The oldest archives entry 100+ Collections 400K+ Objects 700+ Subjects 40+ Terabytes of data Summary of Events 17 Apr 2025 Archives Open Day: School Edition \"Art, Origami, Quiz and more!\" ...Includes History of Science Quiz, archive tours, and art and origami workshops for children [Read More] 14 May 2025 Archives Research Fellow Talk: Abhinav Tyagi \"Revisiting the “Green Revolution”: Statecraft of Cultivating Modernity\" ...Archives research fellow talk drawing on the MS Swaminathan Papers... [Read More] 22-23 May 2025 Archives Workshop \"Archiving like a Feminist Workshop\" ...Two-day workshop on intersection of feminist practices and archival practices, ending with a performance by Shruti Vishwanath, Hearing Herstories, Singing Sisterhood... [Read More] 27 Jun 2025 Archives Research Fellow Talk: Mansi Dhingra \"What can archiving teach you about the archive?\" ...Archives research fellow talk drawing on new oral history interviews with members of the Puroik community in Arunachal Pradesh... [Read More] 7-9 Jul 2025 Oral History Workshop: Lauren Kata \"Listening toward Archiving\" ...Listening toward Archiving: Talk and Workshop on Oral History Metadata Assessment and Planning Tool... [Read More] 11-18 Jul 2025 Obaid Siddiqi Lectures 2025: S Preetha Nair \"On Janaki Ammal, museum-zoo-garden complex, and taking science to women in south India\" ...On Janaki Ammal, museum-zoo-garden complex, and taking science to women in south India... [Read More] 13 Aug 2025 Archives Public Lecture Series \"Revisiting the Narmada: Nandini Oza and Shripad Dharmadhikary\" ...Their joint talk, \"Revisiting the Narmada: On Memory, Accountability and Resistance”, will reflect on how archives and history are not just memories or chronicles of past events.... [Read More] 24 Sep 2025 Archives Public Lecture Series \"Voices From the Lab and the Field\" ...How do we represent those who peopled Indian agrarian history?.... [Read More] 29 Oct 2025 Archives Public Lecture Series \"Independent India's Promise of 'People's Health\" ...The talk traces how public health policies and programs evolved over time in response to national and international priority setting.... [Read More] 4 Nov 2025 Scholar-in-Residence Talk \"Colours of Coexistence: Ravi Sankaran and Endangered Bird Conservation in India\" ...Based on the Ravi Sankaran Papers at the Archives at NCBS, I will explore his vision for human-bird coexistence.... [Read More] 21 Nov 2025 Ar",
+   "email_candidates": [
+    {
+     "email": "archives-dev@ncbs.res.in",
+     "where": "job posting",
+     "kind": "other"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "0e223d3359",
+   "company": "Supersek-Labs",
+   "website": "https://supersek.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Open-source security research, tools, and frameworks by SUPERSEK.. Languages: JavaScript, Python",
+   "site_text": "[https://supersek.com/]\nSupersek | Deep-Dive Security Consulting",
+   "email_candidates": [
+    {
+     "email": "pushpak@supersek.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "leads": [
+  {
+   "id": "20b5153306",
+   "company": "TechVerito Software Solutions LLP",
+   "website": "https://www.techverito.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune, Maharashtra",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go, TypeScript",
+   "site_text": "[https://www.techverito.com/]\nTechVerito | AI-First Engineering, Real Outcomes Who we are What we do Life at TechVerito Insights Blogs Case Studies TV Network Join us Contact us Who we are What we do Life at TechVerito Insights TV Network Contact us Join us See our AI work Book a discovery call 0+ Consultants 0+ Industries 0+ Projects AI-Powered Knowledge Management, Live in Slack We built an AI-powered Slack integration for a franchise organization's Intelligent Knowledge Assistant, letting teams ask questions, analyze documents, and access org-specific knowledge without leaving the tool they already live in. Secure, multi-tenant, and built for scale. KNOW MORE More AI work, already shipped Explore all case studies Logistics AI-Driven Business Analytics for Intelligent 3PL Decision-Making Third-Party Logistics (3PL) businesses operate in a data-heavy environment, managing shipments, inventory, billing, carriers, and operational performance across multiple warehouses and customers. While data is abundant, extracting timely and actionable insights remains a challenge. TechVerito partnered with a business analytics provider serving 3PL companies to build an AI-powered analytics platform that enables warehouse owners and logistics operators to ask business questions in plain English and receive accurate, production-grade insights without needing to understand SQL, schemas, or complex reporting tools. This case study highlights how we delivered a secure, scalable, LLM-enabled analytics platform tailored specifically to the operational realities of the 3PL domain. View case study Education AI Tutor for Personalized Learning Support A B2B EdTech platform set out to elevate the learning experience for both students and teachers by delivering engaging, interactive educational content. As digital learning environments grow, students increasingly consume lessons through videos, interactive modules, and virtual classrooms, making on-demand academic support more important than ever. To address this need, the platform introduced an AI Tutor, an intelligent assistant designed to help students clarify doubts instantly while also supporting teachers in lesson preparation and instructional planning. View case study Retail Real-Time Retail Fraud Identification & Prevention Platform Online retail transactions happen in milliseconds, but fraud can cause damage that lasts far longer. From abusive purchasing patterns to repeat return fraud, merchants need a way to identify suspicious activity before a transaction is completed, not after the loss has already occurred. TechVerito partnered with a retail fraud solutions provider to build a real-time fraud identification and prevention platform. The solution helps merchants proactively detect abusive transactions, reduce business risk, and protect revenue without slowing down the checkout experience. View case study Our AI Offerings From LLM-powered products to the governance and data foundations they run on: here's where our AI work actually lives today. LLM & Agent Engineering Building products powered by LLMs and task-specific agents, including conversational interfaces, automated report generation, and reasoning over unstructured input. See it in a real product Enterprise Knowledge & RAG Retrieval-augmented systems that let teams ask questions in plain English and get answers grounded in your own documents, data, and org-specific knowledge. See it in a real product AI-Native Product Builds End-to-end product work where models, UX, and backend are designed together from day one, not AI bolted on to an existing product as an afterthought. How we approach it AI-Assisted Modernization Using AI-assisted tooling to speed up the unglamorous parts of legacy modernization (code comprehension, test generation, and incremental migration) without a risky big-bang rewrite. How we approach it Security & Governance PII redaction, prompt-injection controls, and governance patterns suited to regulated and high-trus",
+   "email_candidates": [
+    {
+     "email": "hello@techverito.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "3fc5ac22d6",
+   "company": "Entelligentsia",
+   "website": "https://entelligentsia.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python, Shell, Tree-sitter Query",
+   "site_text": "[https://entelligentsia.in/]\nEntelligentsia - Elite Engineering for Select Partnerships",
+   "email_candidates": [
+    {
+     "email": "hello@entelligentsia.in",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "545b52133a",
+   "company": "Kayra Solutions",
+   "website": "http://www.kayrasolutions.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Delhi",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Java",
+   "site_text": "[http://www.kayrasolutions.com/]\n",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting"
+  },
+  {
+   "id": "6821a28e1b",
+   "company": "ZoomCar India Pvt. ltd.",
+   "website": "http://www.zoomcar.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Kotlin, Ruby. Topics: android, android-design-language, android-networking-library, canvas, cli, design-language, design-language-framework, design-thinking, design-tools, dls, kotlin-android, kotlin-library, library, network-client, retrofit-wrapper, retrofit2, starter-kit, user-experience, user-interface, vuejs, webpack, zcui",
+   "site_text": "[https://www.zoomcar.com/]\nZoomcar Self Drive Car Rentals in India | Book Online",
+   "email_candidates": [
+    {
+     "email": "info@zoomcar.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "a35ccbbdca",
+   "company": "HyperVerge",
+   "website": "http://hyperverge.co",
+   "title": "Software Engineering (no public opening)",
+   "location": "Palo Alto, Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, Objective-C, Swift",
+   "site_text": "[https://hyperverge.co/]\nPassive Liveness & Face Authentication | Digital KYC Solutions + Identity Verification Face Authentication Video KYC OCR Software Know Your Business Anti-Money Laundering Underwriting AI Deepfake Detection Document Verification Fraud Detection Industries + Banks Gaming Crypto Insurance Marketplaces Logistics and eCommerce Customer Pricing Resources + Academy Blog Glossary About Us Solutions + Identity Verification Face Authentication Video KYC OCR Software Know Your Business Anti-Money Laundering Underwriting AI Deepfake Detection Document Verification Fraud Detection Industries + Banks Gaming Crypto Insurance Marketplaces Logistics and eCommerce Customer Pricing Resources + Academy Blog Glossary About Us Solutions + Identity Verification Face Authentication Video KYC OCR Software Know Your Business Anti-Money Laundering Underwriting AI Deepfake Detection Document Verification Fraud Detection Industries + Banks Gaming Crypto Insurance Marketplaces Logistics and eCommerce Customer Pricing Resources + Academy Blog Glossary About Us Solutions + Identity Verification Face Authentication Video KYC OCR Software Know Your Business Anti-Money Laundering Underwriting AI Deepfake Detection Document Verification Fraud Detection Industries + Banks Gaming Crypto Insurance Marketplaces Logistics and eCommerce Customer Pricing Resources + Academy Blog Glossary About Us Solutions + Identity Verification Face Authentication Video KYC OCR Software Know Your Business Anti-Money Laundering Underwriting AI Deepfake Detection Document Verification Fraud Detection Industries + Banks Gaming Crypto Insurance Marketplaces Logistics and eCommerce Customer Pricing Resources + Academy Blog Glossary About Us Solutions + Identity Verification Face Authentication Video KYC OCR Software Know Your Business Anti-Money Laundering Underwriting AI Deepfake Detection Document Verification Fraud Detection Industries + Banks Gaming Crypto Insurance Marketplaces Logistics and eCommerce Customer Pricing Resources + Academy Blog Glossary About Us Solutions + Identity Verification Face Authentication Video KYC OCR Software Know Your Business Anti-Money Laundering Underwriting AI Deepfake Detection Document Verification Fraud Detection Industries + Banks Gaming Crypto Insurance Marketplaces Logistics and eCommerce Customer Pricing Resources + Academy Blog Glossary About Us Book a demo India Phillippines Vietnam Nigeria Indonesia US AI-Powered eKYC & Customer Onboarding Platform No head turns. No OTPs. Just a selfie. Book a demo Powering 500+ Enterprises Your browser does not support the video tag. Built for Scale. Proven Across Geographies. HyperVerge runs production Al across millions of verifications every day, supporting high-volume digital journeys across global markets. Your browser does not support the video tag. Patented Tech US-patented eKYC & identity verification 2B + identity verifications processed Millions of verifications handled daily Built for Every BFSI Use Case Digital Banks Compliant onboarding with realtime deepfake detection Lending & BNPL Accelerate approvals with automated income insights and document intelligence Fintech & eWallets Frictionless liveness and database checks for retail, SME & merchant onboarding Insurance Automate insurance document capture, detect tampering, and verify customer identity seamlessly Government Our onboarding solutions have been tested at scale to support Government and Public Sector Built to Verify Every Demographic, Without Bias Faster Verification Verify users and businesses in seconds, not days. Lower Fraud & Risk Detect deepfakes and forgery attempts before they reach your system. Faster Underwriting Automate financial assessments to approve loans with stronger risk visibility. Globally Compliant Workflows aligned to regional regulations, with auditability and control built in. Everything You Need to Onboard & Verify - in One Stack Plug-and-play, compliance-ready modules User Onboarding an",
+   "email_candidates": [
+    {
+     "email": "contact@hyperverge.co",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "184d61edca",
+   "company": "Tap Engineering",
+   "website": "https://tapinvest.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Dart, Go",
+   "site_text": "[https://tapinvest.in/]\nTap Invest â Fixed Income Investments - Bonds, Invoice Discounting, Asset Leasing and structured products Home to your fixed income investments Invest seamlessly with transparency, control, and real-time insights Explore products Home to your fixed income investments Invest seamlessly with transparency, control, and real-time insights Explore products FUTURE OF FINANCE Designed for savvy investors Hero product ultra ultra ultra Crafted for the pros Crafted for the pros Crafted for the pros Asset Leasing Asset Leasing Asset Leasing Invoice discounting Invoice discounting Invoice discounting Fixed deposit Fixed deposit Fixed deposit Pre IPO Pre IPO Pre IPO digtial gold digtial gold digtial gold Digital silver Digital silver Digital silver Download app Explore products 4.5 â App Rating 4.5 â App Rating 100k+ Users 100k+ Users â¹1500 Cr+ Raised â¹1500 Cr+ Raised 11-15% XIRR 11-15% XIRR Building India's largest fixed income ecosystem Loved and trusted by 100k + users IN PARTNERSHIP WITH BONDSCANNER We have partnered with BondScanner to make investing in listed bonds simpler, more transparent, and more accessible for every investor We have partnered with BondScanner to make investing in listed bonds simpler, more transparent, and more accessible for every investor Visit Media Mentions & Features Fixed asset investment platform Tap Invest secures $2 million funding Tap Capital Targets â¹2,000 Crore Deployment in FY26 ClearTax and Tap Invest join forces to simplify tax management for investors Podcast Featured Decoding Indiaâs Fixed Income Market ft. Nishchay Nath Decoding Indiaâs Fixed Income Market ft. Nishchay Nath Learn more Backed by the best Angel Investor Angel Investor Kunal Shah @cred Kashyap Shah @Creditstar Bipin Preet Singh @Mobikwik Mandeep Manocha @Cashify Angel Investor Kunal Shah @cred Kashyap Shah @Creditstar Bipin Preet Singh @Mobikwik Mandeep Manocha @Cashify Institutional Investors Institutional Investors Institutional Investors\n\n[https://tapinvest.in/about]\nTap Invest Here's how it all started Tap Invest was born from a simple observation: India saves, but India doesn't invest well. The founders come from different middle class background but with a very familiar and shared experience. Where oneâs father has been slogging through the years to give their kidâs the best exposure to a mother who started a lifetime of a hustle, building wealth piece by piece saving from earnings to fund education and marriages. Money was always tight. Tap Invest was born from a simple observation: India saves, but India doesn't invest well. The founders come from different middle class background but with a very familiar and shared experience. Where oneâs father has been slogging through the years to give their kidâs the best exposure to a mother who started a lifetime of a hustle, building wealth piece by piece saving from earnings to fund education and marriages. Money was always tight. But there was something that defined the experience: watching savings erode. Fixed deposits that once returned 12% gradually collapsed to 5%. The same bank issued NCDs yielded 13% which only the select could access. This disparity was stark. Watching a life's work, 30 years of discipline and sacrifice left on the table because the infrastructure didn't exist. That feeling became the fuel for Tap Invest. But there was something that defined the experience: watching savings erode. Fixed deposits that once returned 12% gradually collapsed to 5%. The same bank issued NCDs yielded 13% which only the select could access. This disparity was stark. Watching a life's work, 30 years of discipline and sacrifice left on the table because the infrastructure didn't exist. That feeling became the fuel for Tap Invest. Building India's largest fixed income ecosystem Loved and trusted by 100k + users Our Mission Our Mission Our Mission Debt is India's answer. India is a country of savers people who understand the value of pre",
+   "email_candidates": [
+    {
+     "email": "developer@tapinvest.in",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "d4f588963b",
+   "company": "WCode",
+   "website": "https://wcodes.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Encode with words. Languages: C++, HTML, PHP, Shell",
+   "site_text": "[https://wcodes.org/]\nWCode - Digital Words digital words Guest WCode Account Appearance System Light Dark Encode Decode Time Text Number Phone Email Location URL Date Auto Data to encode \\ / Error Check Encode to WCode Encoded WCode Copy Speak Share Save Swap Saved Codes & History Clear All History digital words v1.1.1.1 v1.1.1 2026 Oct 07 14:00:00 UTC This web app requires anonymous cookies and various third-party services to function properly. By continuing to use WCode you are agreeing to its cookie & privacy policies . \\ Word 1 Word 2 Word 3 / e.g. \\ apple banana cherry / An encoding schema where digital data is mapped to a sequence of simple, unique nouns. 1,024 Words: Base-1024 dictionary of common nouns. Each word encodes 10 bits of data. Error Detection: Optional CRC-8 checksum verification protects against transcription mistakes. About: wcode.codes/about Grokipedia: WCode — Grokipedia WordList: wcode.codes/wordlist FAQ: wcode.codes/faq Terms of use: wcode.codes/terms Privacy policy: wcode.codes/policy Disclaimer: The content and encoding tools are provided for general information and communication purposes. Please verify decoded data independently before relying on it and take reasonable steps to limit any loss. To the extent permitted by law, WCode is not liable for loss or damage arising from use of or reliance on encoded messages. by Ujjwal Singh Copyright © 2026 WCode 0\n\n[https://wcodes.org/about]\nMore information about WCode - WCodes digital words Error! System Light Dark ⌂ \\ About home Location Video Downloads FAQ In pictures Pitch Use cases Applications About Patents Adoption Bug report Changelog Comparison Data set Features Feedback Guidelines Implementations License Logo Presentation Roadmap Source code Technology Timeline User guide WordList About project About site About me Clientele Media WCodes are readable by humans . To decode data though, a computer is still required. This makes it possible for WCodes to be: – manually entered into a computer via a keyboard. – relayed to another person over voice, print or, handwritten and electronic text-messages. – short and simple, compared to the original data. As in the example above Original: Digits 10 – Nine Eight Zero One Two Three Four Five Six Seven WCode: Nouns 4 – Cat Apple Mango Tomato – memorizable; at least: small portions of a long code — which aids manual entry. For WCodes to be efficient: it is recommended that a set of 2 n popular, unique and phonetically distinct nouns be used for the words of a WCode. See: WordList & Guidelines for details. In the present implementation: 1K (i.e. 1024) words are used; as such, technically, it is a form of Base-1024 (or simply: Base-K) encoding. About me ► ▲ Updated: 2024 May 21 to be announced to be announced © 2026 WCode\n\n[https://wcodes.org/about_me]\nWeb links of the creator of WCode - Ujjwal Singh - WCodes digital words Error! System Light Dark ⌂ \\ About me home Location Video Downloads FAQ In pictures Pitch Use cases Applications About Patents Adoption Bug report Changelog Comparison Data set Features Feedback Guidelines Implementations License Logo Presentation Roadmap Source code Technology Timeline User guide WordList About project About site About me Clientele Media intro I am Ujjwal Singh from Nepal living in Bangalore, India email [email protected] blog ujnotes.com linkedIn linkedin.com/in/ujLion résumé stackoverflow.com/cv/ujjwal stackOverflow stackoverflow.com/users/483588 facebook fb.com/ujjwalsinghx instagram ujLion twitter ujLion ◄ About About project ► ▲ Updated: 2026 Sep 29 to be announced © 2026 WCode",
+   "email_candidates": [
+    {
+     "email": "hello@wcodes.org",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "306ee5ca9b",
+   "company": "Aadvik TekLabs",
+   "website": "https://www.aadviklabs.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Aadvik TekLabs is a technology solution provider company specialised in Embedded IoT, Web and Mobile Applications and Platform Development",
+   "site_text": "[https://www.aadviklabs.com/]\nAadvik Teklabs Services Platforms Industries Solutions Let's Talk Remarkable Engineering Product ! Gearup your Innovation Progress Virtuality becomes reality ! Industries we work with Smart Home & Buildings Smart Metering Heating & Ventilation Industrial Machinery Industrial IoT EV Supply Equipment Smart Farming Wearables & Sensor Teach Consumer Electronics Smart Home & Buildings Smart Metering Heating & Ventilation Industrial Machinery Industrial IoT EV Supply Equipment Smart Farming Wearables & Sensor Teach Consumer Electronics About us Aadvik TekLabs is a team of visionary innovators redefining business through AR, VR, MR, and AIoT technologies . Our mission is to harness AIoT and vision technologies to solve business challenges and deliver cutting-edge solutions. Our experienced team specializes in Embedded Systems, AR/VR/MR , and serves industries like Energy, T&D, Lighting, and Industrial Machinery. What We Do ? We build innovative and intelligent business platforms across Web, Mobile, and Digital Platforms, leveraging the latest technology stacks— including AI, ML, IoT, Cloud, Blockchain, and more. We are driven by a vision to create a better world through cutting-edge, impactful, and future-ready solutions. 01 Embedded Design & Development Services 02 Cloud And Mobility Solutions 03 AI & Machine Learning 04 Wireless Connectivity Enablement 05 Web Application Development 06 Mobile App Solutions 07 UI-UX Designing 08 AR/VR Based Solutions 09 3D Model Creation 10 Technology Consulting 11 Regulatory & Certification Support 12 3D Modeling & Mechanical Designs At Aadvik TekLabs , we combine deep domain expertise with technology leadership to develop impactful, future-ready solutions. How we Work We believe that great digital products are the result of thoughtful strategy , human-centered design, and close collaboration with our clients. Our process is designed to deliver innovative, scalable, and user-focused solutions while keeping communication transparent and expectations aligned every step of the way. 01 Idea Creation 02 PoC Validation 03 Prototyping 04 System Designing 05 MFG Release Our Values Our values are the foundation of everything we do. They guide our decisions, define our culture, and shape the way we work with clients and each other. Work Smart Ownership Integrity Create value Be Adroit Why us ? Whether you're scaling operations, enhancing customer experiences, or driving digital transformation, we are the ideal partner to meet your technological needs—fully aligned with your business goals. Comprehensive Approach Industry Experience Affordable Services Deep tech Expertise Agile & Adaptive team Inherent Quality Services Connect with us !! Let us know how we can collaborate to create something valuable for your business . Services AI & Machine Vision Web Technologies Embedded & IoT Mechanical Design Certification Testing Simulation Analysis Branding & Creativity Technology Consulting Industries Smart Farming Smart Metering Industrial IoT EVSE Equipment Consumer Electronics Heating & Ventilation Smart Home & Buildings Wearables & Sensor Tech Solutions MongoVault Aadvik JobDesk Aadvik Pharma Platform Demo CRM-SyncMaster Blogs & Write-ups Company About Us Careers Contact © 2025 All Rights Reserved. Aadvik Teklabs Private Limited Privacy Policy Terms & Conditions Sitemap\n\n[https://www.aadviklabs.com/solutions/crm-jobs/]\nAadvik Teklabs Services Platforms Industries Solutions Let's Talk Smart Candidate Pipeline & Kanban Tracking Publish jobs across multiple hiring channels with a single click. Keep every requisition, application, and hiring workflow synchronized from one intelligent recruitment platform. Free Demo View Pricing Automated Job Posting From application to onboarding, manage every candidate journey through a centralized recruitment pipeline. Gain complete visibility, improve collaboration, and accelerate hiring. Free Demo View Pricing The Future of Hiring, Automated by Aadvik",
+   "email_candidates": [
+    {
+     "email": "info@aadviklabs.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "enquire@aadviklabs.com",
+     "where": "https://www.aadviklabs.com/lets-talk-contact/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "9d92ce22b2",
+   "company": "Regalium",
+   "website": "https://www.regalium.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Koramangala, Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "An inheritance of the future — a development of unparalleled luxury and innovation in the heart of Bengaluru, India. Languages: Go, Protocol Buffer, Rust",
+   "site_text": "[https://www.regalium.com/]\nRegalium",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "384e9b4cb3",
+   "company": "Silicon",
+   "website": "https://meetsilicon.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Silicon for data engineers: metrics in YAML next to your dbt models, a CLI, and checks on every PR before a change breaks a dashboard.. Languages: Shell",
+   "site_text": "[https://meetsilicon.com/]\nSilicon | The Data Partner for High-Growth Startups Log in Book a call Your Silicon data team This week Stripe and HubSpot connected Mon MRR and churn defined with finance Tue Board dashboard shipped Wed Broken orders model fixed before the 9am report Thu Q3 board pack In progress Monthly metrics review Thu, 10:00 Our work Answers Alerts The data partner for high-growth startups Silicon partners with high-growth startups to build and maintain their data foundation. Our AI analytics platform runs on that foundation, and anyone in the company can ask it a question in plain English and see where each answer comes from. Your companyâs data in one place Key metrics defined with each team Dashboards and an AI analyst in Slack Live in about ten weeks, maintained after Talk to Sujay 30-minute call with the founder Companies with an existing data team can use the platform on its own . Works with the stack you already run. dbt Snowflake BigQuery Databricks Redshift Postgres ClickHouse GitHub Slack dbt Snowflake BigQuery Databricks Redshift Postgres ClickHouse GitHub Slack dbt Snowflake BigQuery Databricks Redshift Postgres ClickHouse GitHub Slack Problem What companies usually try first High-growth startups need reliable numbers well before a data team fits the budget. Each of these works for a while. 01 Keep running on spreadsheets Every team exports its own numbers, so sales and finance end up with different revenue for the same month. Someone loses Monday morning to the weekly report, and the board deck gets checked by hand the night before. 58 % of leaders say key business decisions are based on inaccurate or inconsistent data most of the time. Source: DevPro Journal 02 Hire a data team Eventually the right call. A first data hire usually spends their early months building infrastructure before anyone sees a dashboard, and experienced data engineers are slow to find. $ 150 k average total pay for one data engineer in the US. Source: Built In, Data Engineer salaries, 2026 03 Buy a dashboard tool Looker or Metabase will chart whatever you give them. Someone still has to get the data into shape first and fix it when a field changes upstream, which brings you back to hiring. 65 days median time to hire a senior data engineer at a US company, from opening the role to a signed offer. Source: KORE1, Time to fill a data engineer role Silicon takes on that work as your data partner. The foundation we build stays in place as your team grows. How the data partnership works â Somebody at your company is already doing data work. Usually itâs an ops lead or someone in finance, in spreadsheets, late in the evening, on top of their actual job. Weâd rather they didnât have to. Two ways to work with us Start from where your company is today We can build and maintain your companyâs data for you, with the platform included. Or, if you already have a data team, they can use the platform on its own. No data team We do the work Data partnership We build your companyâs data foundation and maintain it as the company grows. Your team has dashboards and the AI analyst from launch, both built on the Silicon platform. Your teamâs part Explain how the business runs, sign off each key metric, and tell us what you need next. How the data partnership works â Priced after discovery Â· monthly or annual A typical start Depends on how many tools you run Weeks 1â2 Discovery We map where your data lives and which numbers your leadership team relies on. You get a written plan and a quote. Weeks 3â8 Build We bring your companyâs data into one place and define each key metric with the person who runs that team. Weeks 7â10 Launch Dashboards for each team and the AI analyst in Slack, all built on those definitions. After launch Maintain New tools, new metrics, requests from any team, and fixes when something in your data changes. metrics/net_revenue.yml 1 # Reviewed in pull request #318 2 metrics: 3 - name: net_revenue 4 l",
+   "email_candidates": [
+    {
+     "email": "founder@meetsilicon.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "jhashivam2020@gmail.com",
+     "where": "GitHub commits (meetsilicon)",
+     "kind": "personal",
+     "name": "shivamdev-lgtm",
+     "commits": 4
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  }
+ ]
+}

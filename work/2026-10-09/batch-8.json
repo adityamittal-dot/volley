@@ -1,0 +1,189 @@
+{
+ "leads": [
+  {
+   "id": "03e37e489c",
+   "company": "GetDot",
+   "website": "https://getdot.ai",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Berlin, Berlin, Germany; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. Your AI Data Analyst Our mission is to help everybody in an organization to take data-driven decisions, by democratizing access to trusted high-quality data and metrics. **Chat with your Data Warehouse** Answer most business questions instantly 24/7. Data teams can focus on deep work, not on answering easy questions about dashboards. Dot understands your existing data stack: tables, SQL queries, documentation, DBT metrics or LookML are its learning material. Users can interact via Slack, Teams or our native web app. ➡️ https://getdot.ai/ SaaS, B2B, Analytics, Enterprise, AI, B2B, Analytics, Germany, Europe, Remote, Fully Remote",
+   "site_text": "[https://www.getdot.ai/]\nDot Â· Your Data Team, Scaled by AI Login GetÂ Started Dot, your AI Data Analyst Dot answers data questions for your team. Empower everyone to get instant, actionable insights. Start for Free Book a Demo Trusted by 100+ top teams Get insights where you work: Slack, Microsoft Teams, and email. Designed for data teams that move fast Anyone can ask in Slack, Teams, email or the app. Ryan Sales @Dot pipeline by stage? 1 reply Sarah Ops Dot late orders today? 1 reply from Dot Priya Marketing Orders with SPRING20? Dot replied Root cause analysis in minutes, not days. Why did conversion drop? 3.4% Feb â0.6 Mobile checkout Mobile â0.2 Paid social Social â0.1 Other 2.5% Mar Reports and alerts sent only when it matters. Dot APP 8:00 AM Signups drop below 1,000, now 912 (threshold 1,000) 912 Accuracy you can measure on questions you trust. 64% 68% 72% 76% 80% 84% 88% 92% 16/25 questions 17/25 questions 18/25 questions 19/25 questions 20/25 questions 21/25 questions 22/25 questions 23/25 questions â² 7 vs baseline Q3 revenue $4.12M Active users 1,284 Every answer shows its work down to the query and its sources. margin by product line? Hardware 41.2 % Accessories 33.5 % Services 24.8 % df_margin SQL fct_orders marts Margin definition org note Learns your definitions with your approval. revenue should exclude refunds notes/revenue.md Merged Needs review â Refunds are included. + Refunds are excluded. Enterprise-grade security with every query traced. SOC 2 Type II GDPR Zero data retention Query history \"user\":\" ana@acme.com \" SELECT country, COUNT(*) FROM orders \"user\":\" ryan@acme.com \" SELECT stage, SUM(amount) FROM deals Read how Dot helps great companies be smarter, faster 18x ROI â The self-service ability for our least technical and furthest operational stakeholders to answer questions by themselves has increased dramatically since implementing Dot. â Impact study Marina Begovic Analytics Manager at Choco 12,000h+ saved â At Duolingo, we really believe in making data-informed decisions. This means that we want our data to be accessible to all of our employees (Duos), regardless of technical background. â Impact study Lavanya Aprameya Senior Software Engineer at Duolingo 10x ROI â Team members could just ask Dot a question in Slack and get the answer within seconds. The first time it happened, a lot of us were honestly amazed. â Impact study Jeff Albenberg Director of Software Engineering, Emerge â¬800K found â We could have cut the funnel by age, by gender, by cohort, by dozens of dimensions. We just never had the time to do it systematically. Now we can. â Impact study Claire Bertrand Data and Analytics Lead, KRY Benchmarked on 450+ financial analysis tasks from Adyen You can train Dot to get better. Add instructions, examples, and business rules with Dot's context agent. Hours of analysis in seconds. Dot vs trained human analysts at Adyen on standardized tasks. 3 Easy 72 Hard 378 1 DABStep Â· 450+ multi-step financial analysis tasks by Adyen & HuggingFace. 2 Google Data Science Agent Â· ~52% weighted overall (Nov 2025). 3 Human baseline from DABStep : 62% accuracy with 3+ hrs of work on easy tasks. Dot connects to your tools Connect with no-code integrations or Dot's API. View all integrations + Get your AI Analyst now. Start for Free\n\n[https://www.getdot.ai/integrations/microsoft-teams]\nAsk Data Questions in Microsoft Teams Â· Dot Login GetÂ Started Microsoft Teams Get answers in Teams, and put numbers on what your chats discuss. Try Dot with Microsoft Teams Read the docs 01 Ask Dot in Teams In chats and channels. Admins choose what data each channel sees. See which sites miss same-day shipping Activity Chat Teams Calendar O Operations Posts Today Sarah Chen 9:41 AM Dot Which sites miss same-day shipping most? Dot 9:42 AM 9 steps Â· 56s Â· Access online Leeds , at 14%, mostly on Mondays. Source : shipments . Same-day orders missed, last month Leeds 14% Rotterdam 3.6% Lyon 2.9% Pozn",
+   "email_candidates": [
+    {
+     "email": "hi@getdot.ai",
+     "where": "https://www.getdot.ai/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "2b6f1a013d",
+   "company": "PRINCEPS",
+   "website": "https://princeps.dev",
+   "title": "Engineering (YC Summer 2026)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. AI-native insurance company for the compute economy PRINCEPS is the first purpose-built insurance company for the trillion-dollar compute buildout. We underwrite SLA, GPU residual value, and outage risk, and price the coverage that unlocks cheaper financing for data centers and neoclouds. Artificial Intelligence, Fintech, Machine Learning, Insurance, Fintech, Insurance, United Kingdom, Europe",
+   "site_text": "[https://www.princeps.dev/]\nPRINCEPS BOOK A DEMO CONRAD FRØYLAND MOE ANYA TROFIMOVA WILHEM HECTOR BACKED BY INVESTORS AND FOUNDERS FROM PRINCEPS UNDERWRITING THE INTELLIGENCE AGE BACKED BY INVESTORS AND FOUNDERS FROM PRINCEPS DEVELOPMENT, INC\n\n[https://www.princeps.dev/contact]\nPRINCEPS HAVE A RISK TO PLACE? LOOKING FOR CAPACITY? TALK TO UNDERWRITING. EMAIL contact@princeps.dev LINKEDIN linkedin.com/company/princepsdev\n\n[https://www.princeps.dev/careers]\nPRINCEPS PRICE WHAT HAS NEVER BEEN PRICED. Princeps is a YC S26 company. We underwrite risk for the compute economy from San Francisco. The team is small and senior; every hire sets the standard for the ones after. GTM / OUTREACH — 2X SAN FRANCISCO OR REMOTE — FULL-TIME — TWO POSITIONS Open the market. Find the operators, neoclouds, and labs carrying uninsured compute risk, get us in the room, and turn conversations into bound policies. You are direct, relentless, and comfortable selling something that has never been sold before. APPLY — CAREERS@PRINCEPS.DEV FOUNDING UNDERWRITER / ACTUARY SAN FRANCISCO — FULL-TIME Build pricing models for risks with no loss history: GPU fleet interruption, SLA breach, model-output liability. You have priced hard things before — specialty lines, cat risk, credit — and want to do it where the actuarial tables don't exist yet. APPLY — CAREERS@PRINCEPS.DEV FOUNDING ENGINEER SAN FRANCISCO — FULL-TIME Build the pricing kernel, the exposure data pipeline, and the paper itself. Small surface, high stakes. You should be comfortable owning systems end to end and working directly with underwriting. APPLY — CAREERS@PRINCEPS.DEV",
+   "email_candidates": [
+    {
+     "email": "contact@princeps.dev",
+     "where": "https://www.princeps.dev/contact",
+     "kind": "generic"
+    },
+    {
+     "email": "careers@princeps.dev",
+     "where": "https://www.princeps.dev/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "d2a523708d",
+   "company": "Roboflow",
+   "website": "https://roboflow.com",
+   "title": "Full Stack Engineer (Enterprise)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Level: Senior. Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow simplifies building and using computer vision models. Today, over 1M+ developers, including those from half the Fortune 100, use Roboflow’s machine learning open source and hosted tools. That includes counting cells to accelerate cancer research, improving construction site safety , digitizing floor plans , preserving coral reef populations , guiding drone flight , and much more . Roboflow is supported by great customers and investors, having raised over 63 million from Y Combinator, Google Ventures, Craft Ventures, Sam Altman, Lachy Groom, amongst other leading software investors. Roboflowers are passionate builders who value ownership, accountability, and a bias toward action. We're curious, hands-on with new tech, and prefer showing our work over talking about it. Many of us have a founder mindset and thrive in our high-autonomy environment. What You'll Do As a member of the Enterprise team, you'll be tasked with creating new features and making improvements anywhere in the Roboflow product. We're looking for technical generalists that aren’t afraid to dive into a new stack or toolchain if the need arises (but JavaScript and Node.js make up the brunt of the existing codebase). You will also help support and make improvements to our enterprise Jetson inference pipeline, so a solid foundation in Linux is highly desirable. The Enterprise team forms close relationships with Enterprise customers to deeply understand their needs and advance their usage and success with Roboflow. You should expect to frequently be on-site with customers, doing factory tours, and building features needed to make prospective and current customers successful in Computer Vision with Roboflow. As a member of the Enterprise team, you will also partner closely with the Field Engineering team. Not only to understand and expand partnerships with customers, but to identify opportunities to make the Field Engineers more efficient in collecting visual data and delivering insights to customers based on that data. Most of the things we work on are parts of the core product (which is an end-to-end pipeline for building computer vision projects spanning from image ingestion to annotatio",
+   "site_text": "[https://roboflow.com/]\nRoboflow: AI for the physical world Visual Intelligence Summit: Oct 22 in San Francisco Get your ticket AI for the physical world. Try Roboflow Agent Trusted at scale Over half the Fortune 100 and 80,000 organizations go from idea to production. Vehicle manufacturing Rivian Windows and doors Pella Food manufacturing Chobani Rail and logistics BNSF Railway customer story Manufacturing American Woodmark Building materials USG Corporation customer story Component manufacturing Patrick Industries Healthcare products Outcomes Collaborative robotics Peer Robotics customer story Vehicle manufacturing Windows and doors Food manufacturing Rail and logistics Manufacturing Building materials Component manufacturing Healthcare products Collaborative robotics Outcomes Zero blind spots. Stronger margins. Roboflow turns images, videos, and streams into intelligence. Explore all industries CPG Catch defects Manufacturing Predict maintenance Warehousing Improve safety Logistics Gain visibility Energy & utilities Inspect infrastructure Robotics Guide machines Healthcare Verify prescriptions Food processing Check specifications CPG Catch defects Manufacturing Predict maintenance Warehousing Improve safety Logistics Gain visibility Energy & utilities Inspect infrastructure Robotics Guide machines Healthcare Verify prescriptions Food processing Check specifications Customers Companies are putting vision AI to work on their hardest jobs. See customer stories BNSF Intermodal yard — container inventory in motion Roboflow is helping us immediately realize value from state-of-the-art computer vision technology. BNSF, the largest freight operator in North America, moves 4.8 million carloads a year. Vision AI now runs their intermodal yard inventory and inspects train wheels automatically, across thousands of miles of network. Read story about BNSF USG Plant floor — edge inference on production line With Roboflow, we were able to create a highly accurate model, based on data we own. USG, the largest manufacturer of gypsum products, runs edge-optimized vision AI across a network of more than 50 manufacturing sites to prevent unplanned downtime and keep quality consistent. Read story about USG Pella Assembly line — defect detection overlay Roboflow has been instrumental in accelerating our deployment of innovative AI solutions. Pella, one of the largest window and door makers in the U.S., is putting vision AI on its production lines to spot defects earlier and cut waste. Platform The leading end-to-end platform for vision AI Over 2M developers build with roboflow. Plans start at $0. Get Started Agent Get into production today See the world, understand what's happening, and take action. Explore Agent Defect: Solder Bridge I need to find defects in PCB boards Workflows Build powerful vision applications Combine models, orchestrate actions, update databases, and plug into industrials systems. Explore Workflows Inputs image Object Detection Model odysseus-vceuf/yellow-vial-caps… cap_detector Motion Detection machine_motion ByteTrack Tracker cap_tracker Motion Sample motion_sample Line Counter cap_line_counter Tracker Label Builder tracker_label_builder Buffer motion_history Line Count Sample line_count_sample Buffer line_count_history Cap Speed Monitor cap_speed_monitor Email Notification stoppage_email_alert Roboflow Vision Events vision_events_stoppage Outputs Deploy Run wherever you need Process live video or images with high-speed vision inference, in the cloud or edge. Explore Deploy network / analytics 3 sites · 7d Ohio ↑ 6.8 Defects / 1k Basel ↓ 2.1 Defects / 1k Singapore → 1.9 Defects / 1k network defects / 1k 3.6 Ohio +4.7 above median Analyze Turn image into insights Query events from every camera, see what your AI sees, and react immediately. Explore Deploy Events Last 24h 128,480 predictions 312 flagged Dashboard API Agents 00:00 06:00 12:00 18:00 Annotate AI-powered data labeling Annotate thousands of images in minutes usin",
+   "email_candidates": [
+    {
+     "email": "operations@roboflow.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "peter@roboflow.com",
+     "where": "GitHub commits (roboflow)",
+     "kind": "personal",
+     "name": "Peter Robicheaux",
+     "commits": 1
+    },
+    {
+     "email": "joao@roboflow.com",
+     "where": "GitHub commits (roboflow)",
+     "kind": "personal",
+     "name": "João Marcos Cardoso Ramos da Silva",
+     "commits": 1
+    },
+    {
+     "email": "anorell@roboflow.com",
+     "where": "GitHub commits (roboflow)",
+     "kind": "personal",
+     "name": "Alex Norell",
+     "commits": 1
+    },
+    {
+     "email": "sachin@roboflow.com",
+     "where": "GitHub commits (roboflow)",
+     "kind": "personal",
+     "name": "Sachin Agarwal",
+     "commits": 1
+    },
+    {
+     "email": "brad@roboflow.com",
+     "where": "GitHub commits (roboflow)",
+     "kind": "personal",
+     "name": "Brad Dwyer",
+     "commits": 4
+    },
+    {
+     "email": "franklin@roboflow.com",
+     "where": "GitHub commits (roboflow)",
+     "kind": "personal",
+     "name": "Franklin Cappadora",
+     "commits": 1
+    },
+    {
+     "email": "iuri@roboflow.com",
+     "where": "GitHub commits (roboflow)",
+     "kind": "personal",
+     "name": "Iuri de Silvio",
+     "commits": 1
+    },
+    {
+     "email": "atnikhil06@gmail.com",
+     "where": "GitHub commits (roboflow)",
+     "kind": "personal",
+     "name": "NIKHIL",
+     "commits": 6
+    },
+    {
+     "email": "a.aswanth0707@gmail.com",
+     "where": "GitHub commits (roboflow)",
+     "kind": "personal",
+     "name": "A Aswanth Raj",
+     "commits": 3
+    },
+    {
+     "email": "im.marvel.harisson@gmail.com",
+     "where": "GitHub commits (roboflow)",
+     "kind": "personal",
+     "name": "Marvel Harisson",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "d2ae3ee943",
+   "company": "Opencall",
+   "website": "https://opencall.ai",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "Unspecified",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. Practice admin run by AI OpenCall makes medical practices more profitable and enables owners and operators of their rollups to hit their KPIs. Healthcare, B2B, Unspecified",
+   "site_text": "[https://opencall.ai/]\nOpenCall AI – AI‑Powered Phone Calls & Sales Acceleration AI System Context AI that talks, texts and gets it done OpenCall turns every call and text into booked patients while automating workflows from front desk to back office. Try it out! Trusted by practices across healthcare You know the bottleneck. Let's break it. Missed calls, voicemails, and manual follow-ups cost your practice patients and staff time. OpenCall answers instantly, books directly into your system, and kicks off the workflows your team usually has to chase. Cuts labor costs by over 90% Scales instantly without adding staff Handle more with OpenCall 100% Fewer missed calls 01 Teams reclaim patient conversations that used to die in voicemail. 25% Recall lift 02 Automated follow-up fills overdue appointments without extra headcount. $20k Per-location monthly lift 03 Typical practice locations unlock about $20k in booked care once OpenCall is live. Inside the operating system A command center at your fingertips See every call, text, booking, and workflow in one place. OpenCall plugs into your existing tools so front desk and back office stay perfectly in sync. 01 Intake without wait Voice AI answers, verifies insurance, and captures reason for visit across voice, SMS, and web. 02 Escalate with context Human teams step into licensed or sensitive moments with transcripts, next steps, and sentiment in the sidebar. 03 Close the loop Appointments, reminders, and billing notes sync back into the stack automatically. Home Home Tuesday, March 31, 2026 · 72 locations Today Last 7 days Last 2 weeks Last 30 days Last 3 months Last 6 months Calls today 2,847 14 live now · 312 this hour Texts today 804 89 in progress Faxes today 142 7 being processed Tasks today 23 4 urgent · 847 resolved Revenue today $284.7k Across all locations Collections today $1.14M ↑ 16.3% vs prior month Today's Schedule Time Patient Provider Type Status 9:00 AM Angela Johnson Dr. Sarah Chen Cleaning confirmed 9:30 AM Carlos Reynolds Dr. James Osei Ortho consult confirmed 10:00 AM Michael Lee Dr. Kevin Pham Eye exam scheduled 10:30 AM Priya Ahmad Dr. Maria Lopez Skin check confirmed 11:00 AM Ben Foster Lisa Park, RDH Hygiene checked-in 1:00 PM Susan Nakamura Dr. Kevin Pham Follow-up scheduled 2:00 PM Henry Mendez Dr. Sarah Chen New patient confirmed 3:00 PM Jasmine Williams Dr. Maria Lopez Follow-up scheduled Tasks needing attention Task Assigned to Priority Due Review disputed balance — R. Patel Maria (Billing) high Apr 1 Attorney flag — pause all contact D. Martinez Tom (Compliance) urgent Today Approve settlement > $2k — K. Thompson Dr. Chen (Manager) high Apr 1 Cease and desist received — S. Nguyen Tom (Compliance) urgent Mar 31 Recent activity View all → Mar 31 8:42 AM Call In Angela Johnson — Patient called to confirm cleaning appointment 3:18 Handled Mar 31 9:15 AM Call In Carlos Reynolds — Patient called about Invisalign cost and payment options 5:47 Handled Mar 31 10:14 AM Call Out Angela Johnson — Reminder call for tomorrow's crown prep — confirmed 0:42 Handled Mar 31 9:45 AM Call Out Frank Garcia — Reminder call for tomorrow's root canal — voicemail, SMS sent 0:38 Handled Mar 31 10:42 AM Call In Raj Patel — Patient called disputing $1,184 balance — transferred to billing 4:12 Transferred Mar 31 11:22 AM Call In Unknown Caller — New caller asking about office hours and location 2:08 Handled Mar 29 11:00 AM Call Out Susan Nakamura — Recall outreach — left voicemail for annual eye exam 0:45 Handled Mar 30 2:10 PM Call Out Michael Lee — Post-op follow-up — patient reports recovery on track 2:55 Handled Mar 28 3:28 PM Call Out Jasmine Williams — Collections call — negotiated $308/mo payment plan, enrolled auto-pay 8:14 Handled Mar 28 2:00 PM Call Out Keisha Thompson — Collections call — negotiated 60% settlement, pending manager approval 6:31 Handled Mar 30 9:18 AM Call Out Henry Mendez — Referral follow-up — booked new patient visit Apr 5 with Dr. Chen 4:45 Handled Mar ",
+   "email_candidates": [
+    {
+     "email": "ask@opencall.ai",
+     "where": "https://opencall.ai/",
+     "kind": "personal"
+    },
+    {
+     "email": "sarah.johnson@gmail.com",
+     "where": "https://opencall.ai/blog",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "d78500501e",
+   "company": "Homebase",
+   "website": "http://www.gethomebase.com/",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam; Ho Chi Minh City, Vietnam",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. Personalized rent-to-own real estate financing using technology in SEA Homebase provides Rent-To-Own real estate financing for buyers in Southeast Asia - the only alternative to inflexible/high-interest rate (12%+) mortgages in the region. We strive to provide more innovative, compelling, and empathetic solutions for those who aspire to own a home. Homebase was founded in 2019 in Singapore and is backed by Y Combinator, VinaCapital Ventures, Class 5 Global, Pegasus Technology Ventures, 1982 Ventures, Iterative VC and Antler, as well as the founders and executives at disruptive real estate financing companies including Opendoor, Zerodown, 99.co and Divvy Homes. Fintech, Proptech, Real Estate and Construction, Housing and Real Estate, Vietnam, Southeast Asia",
+   "site_text": "[https://www.homebase.com.vn/]\nHomebase Nâng cao giá trị cuộc sống Á Châu, đột phá tương lai thị trường Tài chính & Bất động sản Homebase cung cấp các sản phẩm tài chính dễ tiếp cận giúp người dùng có thể đầu tư cũng như sở hữu bất động sản theo cách tốt nhất cho bản thân. Giải thưởng của Homebase Plug & Play Center (2020) Y Combinator (2021) KPMG & HSBC (2022) Wealth & Finance International (2022) HOMEBASE OVERVIEW Chúng tôi có thể hỗ trợ bạn gì hôm nay? Bất kể bạn đang có nhu cầu sở hữu nhà hoặc đầu tư tìm kiếm lợi nhuận từ bất động sản, chúng tôi đều có thể hỗ trợ bạn DÀNH CHO NGƯỜI MUA NHÀ Mua bất kỳ bất động sản nào chỉ cần trả trước từ 8% lãi suất Tìm căn nhà lý tưởng và dọn vào chỉ với 8% tiền đặt cọc Thanh toán hàng tháng và xây dựng quyền sở hữu theo thời gian Mua nhà Mức hỗ trợ lên tới 80% Nhận hỗ trợ lên tới 80% giá trị bất động sản Dễ tham gia Không yêu cầu giấy tờ phức tạp hay chứng minh thu nhập nghiêm ngặt so với hình thức vay truyền thống Dành cho cả người nước ngoài và trong nước Hỗ trợ tài chính cho cả công dân nước ngoài và công dân Việt Nam DÀNH CHO NHÀ ĐẦU TƯ Tạo ra thu nhập thụ động hàng tháng - không cần đầu tư vốn Bạn có thu nhập ổn định trong năm vừa qua? Có thêm dòng tiền thụ động hàng tháng bằng cách hỗ trợ người mua nhà tiếp cận khoản vay ngân hàng. An toàn và không yêu cầu vốn Kiếm thu nhập thụ động Thu nhập thụ động hằng tháng cao Kiếm thêm 5 - 30 triệu VND thu nhập thụ động hàng tháng Không yêu cầu vốn Bạn không cần bỏ ra một đồng vốn nào để tham gia Không rủi ro Đầu tư an toàn với bất động sản được đăng ký dưới tên của bạn DÀNH CHO CHỦ NHÀ Nhận khoản tiền lên đến 80% giá trị hiện tại ngôi nhà của bạn Một giải pháp thay thế hợp tình hơn cho khoản vay thế chấp nhà. Trả góp hàng tháng. Tìm hiểu thêm Mức hỗ trợ lên tới 80% Nhận hỗ trợ lên tới 80% giá trị bất động sản Dễ tham gia Không yêu cầu giấy tờ phức tạp hay chứng minh thu nhập nghiêm ngặt so với hình thức vay truyền thống Dành cho cả người nước ngoài và trong nước Hỗ trợ tài chính cho cả công dân nước ngoài và công dân Việt Nam DÀNH CHO NHÀ ĐẦU TƯ Tạo ra thu nhập thụ động hàng tháng - không cần đầu tư vốn Bạn có thu nhập ổn định trong năm vừa qua? Có thêm dòng tiền thụ động hàng tháng bằng cách hỗ trợ người mua nhà tiếp cận khoản vay ngân hàng. An toàn và không yêu cầu vốn Kiếm thu nhập thụ động Thu nhập thụ động hằng tháng cao Kiếm thêm 5 - 30 triệu VND thu nhập thụ động hàng tháng Không yêu cầu vốn Bạn không cần bỏ ra một đồng vốn nào để tham gia Không rủi ro Đầu tư an toàn với bất động sản được đăng ký dưới tên của bạn Được dẫn dắt bởi các nhà đầu tư hàng đầu thế giới và trên 50 nhà đầu tư khác Câu chuyện từ khách hàng của chúng tôi MỞ KHOÁ VÔN Hành trình kinh doanh Airbnb của bà Phương MUA TRẢ GÓP Hành trình nuôi vịt của bà Oanh MỞ KHOÁ VỐN Hành trình sở hữu nhà của ông Jonee Homebase trên báo Homebase Offering Empathetic Homebuying Instalment Process Vietnam Investment Review ĐỌC THÊM Homebase Raises $30M To Help More People Become Property Owner Forbes Vietnam ĐỌC THÊM Homebase Seeks To Shake Up Real Estate Buying In Vietnam Vietcetera ĐỌC THÊM Vietnam Proptech Firm Takes Home $30M In YC-Backed Round TEACHINASIA ĐỌC THÊM Giới thiệu bạn tham gia và nhận ngay hoa hồng ưu đãi Bạn biết người mua nhà không có khả năng vay ngân hàng hay nhà đầu tư muốn kiếm thêm thu nhập thụ động? Chúng tôi sẽ trả bạn 0.5% để bạn giới thiệu họ đến với chúng tôi!* Liên hệ ngay *Giới thiệu thành công chỉ hợp lệ khi người được giới thiệu ký kết thoả thuận Hợp Tác Đầu Tư Hiện thức hóa giấc mơ sở hữu bất động sản Sở hữu ngôi nhà mơ ước Kiếm thu nhập thụ động\n\n[https://www.homebase.com.vn/about-vn/]\nHomebase - Về chúng tôi Trao quyền sở hữu nhà ở tại Đông Nam Á Homebase là một trong những công ty PropTech hàng đầu Đông Nam Á, được các nhà đầu tư hàng đầu thế giới hậu thuẫn. Chúng tôi tạo ra ảnh hưởng tích cực đến hàng triệu người bằng cách giúp họ đạt được giấc mơ sở hữu nhà của mình. 20+ Thành phố 20,000+ Khách hàng Chặng đường phát triển 2019 Homebase được thành l",
+   "email_candidates": [
+    {
+     "email": "contact@gethomebase.com",
+     "where": "https://www.homebase.com.vn/contact-vn/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  }
+ ]
+}
