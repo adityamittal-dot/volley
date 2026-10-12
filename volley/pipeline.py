@@ -45,8 +45,11 @@ _GOOD_SIGNAL_SOURCES = ("github_orgs", "funding_news")
 # hn_hiring 16/81, jobicy 2/10, internshala 3/30, unstop 8/86, funding_news 0/25 (no address on the article:
 # now India-hub rounds get the blind founder guess, see heuristic), arbeitnow 0/13, simplify 1/167. Simplify and
 # Arbeitnow list large companies behind ATS forms with no reachable person, so they only fill what's left.
-SOURCE_YIELD = {"github_orgs": 2, "hn_hiring": 1, "funding_news": 1, "unstop": -1, "internshala": -1,
-                "arbeitnow": -3, "simplify": -4}
+# Replies per sent email (Sep 29 - Oct 12, 183 sends): hn_hiring 4/21, github_orgs 9/57, yc_hiring 6/88. A real
+# posting got 20% vs 10% with none, India 20% vs US 7%: YC's directory (mostly US, no posting) ranks last
+# among the good sources unless research finds a YC job posting (research.find_people).
+SOURCE_YIELD = {"github_orgs": 2, "hn_hiring": 2, "funding_news": 1, "unstop": -1, "internshala": -1,
+                "yc_hiring": -1, "arbeitnow": -3, "simplify": -4}
 YC_BATCH = re.compile(r"\b(?:Winter|Summer|Spring|Fall|[WSXF])\s?'?(\d{2}|\d{4})\b")
 US_LOC = re.compile(r"\b(usa|united states|u\.s\.|america / canada|canada)\b")
 INDIA = re.compile(r"\b(india|bangalore|bengaluru|hyderabad|pune|mumbai|chennai|kolkata|ahmedabad|jaipur|"
@@ -199,6 +202,24 @@ def discover(leads, s, p):
     for l in fresh[KEEP_NEW:]:
         del leads[l["id"]]
     log(f"discover: {len(raw_leads)} postings, {added} new leads, {min(len(fresh), KEEP_NEW)} kept in the pool")
+
+
+# no_contact leads worth a second research pass with the people finder (founders via YC, engineers via
+# GitHub). Big-company boards (Simplify, Arbeitnow, remote boards) had no reachable person and stay out.
+RECONTACT_SOURCES = {"yc_hiring", "github_orgs", "hn_hiring", "funding_news", "unstop", "internshala", "ats_boards",
+                     "manual"}
+
+
+def recontact(leads, s):
+    """Put up to `recontact_per_day` never-retried no_contact leads back in the pool, analyst-approved ones
+    (fit >= min_fit, dropped only for want of an address or a slot) first. Returns how many."""
+    pool = [l for l in leads.values() if l["status"] == "no_contact" and not l.get("recontacted")
+            and l["source"] in RECONTACT_SOURCES]
+    pool.sort(key=lambda l: ((l.get("research") or {}).get("fit") or 0, l.get("priority", 0), l.get("score", 0)),
+              reverse=True)
+    for l in pool[:s.get("recontact_per_day", 0)]:
+        l["status"], l["recontacted"] = "new", store.iso()[:10]
+    return min(len(pool), s.get("recontact_per_day", 0))
 
 
 # ---------- research + writing ----------
@@ -380,14 +401,21 @@ def sync(leads, box):
     return failed
 
 
+def _company(lead):
+    return lead.get("domain") or re.sub(r"[^a-z0-9]", "", lead["company"].lower())
+
+
 def followups(leads, s, p, mode, box, unsynced=()):
     if store.now().weekday() not in s["send_days"]:
         return
     d1, d2 = s["followup_days"]
     sig = brain.signature(p)
+    answered = {_company(l) for l in leads.values() if l["status"] in ("replied", "interview", "offer", "rejected")}
     for lead in leads.values():
         e = lead.get("email") or {}
         if lead["status"] not in ("sent", "followup_1") or not e.get("sent_at"):
+            continue
+        if _company(lead) in answered:   # someone there answered (e.g. the founder, while we also asked an engineer)
             continue
         if lead["id"] in unsynced:   # couldn't check for a reply or bounce: never follow up blind
             log(f"follow-up held for {lead['company']}: mailbox sync failed")

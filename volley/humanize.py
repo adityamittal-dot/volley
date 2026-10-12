@@ -38,7 +38,7 @@ STRUCTURE = {
 }
 
 
-def scan(subject, body, max_words=110, max_links=1, style="role", company=""):
+def scan(subject, body, max_words=95, max_links=1, style="role", company=""):
     issues = []
     text = f"{subject}\n{body}"
     for pattern in BANNED:
@@ -80,7 +80,8 @@ def subject_style(lead_id):
     """A/B test on first-touch subjects, fixed per lead so a re-run picks the same one. 'role' is the formal
     '<Role> – <Name>'; 'short' is '<role> at <Company>', under 45 characters (student-outreach data: subjects
     under 30 characters open ~14 points better than long ones, and identical subjects read as automated)."""
-    return SUBJECT_STYLES[int(lead_id[-2:], 16) % 2] if re.fullmatch(r".*[0-9a-f]{2}", lead_id or "") else "role"
+    # Concluded 2026-10-12 after 183 sends: role 19/144 replies (13%), short 3/39 (8%). Every lead gets 'role'.
+    return "role"
 
 
 def style_of(subject, p=None):

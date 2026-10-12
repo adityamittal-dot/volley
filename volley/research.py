@@ -25,7 +25,8 @@ GENERIC_LOCAL = {"info", "hello", "hi", "contact", "support", "help", "team", "a
                  "partnerships", "partners", "partner", "marketing", "events", "community", "feedback",
                  "compliance", "grievance", "dpo", "investors", "ir", "accounts", "finance", "enquiries",
                  "inquiries", "enquiry", "business", "bd", "care", "customercare", "service", "orders",
-                 "webmaster", "postmaster", "mail", "email", "contactus", "career", "recruitment", "recruiter"}
+                 "webmaster", "postmaster", "mail", "email", "contactus", "career", "recruitment", "recruiter",
+                 "dev", "developer", "developers", "engineering", "tech", "it", "git", "github", "ops", "devops"}
 HIRING_LOCAL = {"careers", "career", "jobs", "hiring", "recruiting", "recruitment", "recruiter", "talent",
                 "founders", "hr", "people"}
 JOB_BOARD_HOSTS = ("greenhouse.io", "lever.co", "ashbyhq.com", "workable.com", "wellfound.com", "linkedin.com",
@@ -214,7 +215,9 @@ def research(lead):
         pages, site_emails, orgs = crawl_site(website)
         for e, where in site_emails.items():
             candidates.setdefault(e, {"where": where, "kind": classify(e, domain)})
-    for org in list(orgs)[:2]:
+    if lead.get("source") == "github_orgs" and lead.get("url", "").startswith("https://github.com/"):
+        orgs.add(lead["url"].rstrip("/").rsplit("/", 1)[1])   # the org the lead came from, even if the site doesn't link it
+    for org in sorted(orgs, key=lambda o: o not in (lead.get("url") or ""))[:2]:
         for e, v in github_emails(org, domain).items():
             candidates.setdefault(e, {"where": f"GitHub commits ({org})", "kind": classify(e, domain),
                                       "name": v["name"], "commits": v["commits"]})
@@ -232,12 +235,17 @@ def research(lead):
     lead["candidates"] = clean
     lead["site"] = "\n\n".join(f"[{u}]\n{t}" for u, t in pages)[:14000]
     lead["github_orgs"] = sorted(orgs)
+    # No person on the site: look up founders (YC) and engineers (GitHub org) by name.
+    if not any(v["kind"] in ("personal", "hiring") for v in clean.values()):
+        find_people(lead)
     return lead
 
 
 def guess_email(name, domain, known):
     """Infer the company's address pattern from a known personal address, else first@domain."""
-    parts = [p for p in re.sub(r"[^a-z ]", "", name.lower()).split() if p]
+    import unicodedata
+    name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+    parts = [p for p in re.sub(r"[^a-z ]", "", name.lower().replace("-", "")).split() if p]
     if not parts or not domain:
         return None
     first, last = parts[0], parts[-1] if len(parts) > 1 else ""
@@ -256,3 +264,111 @@ def guess_email(name, domain, known):
                (kname == "first" and re.fullmatch(r"[a-z]+", local) and local not in GENERIC_LOCAL):
                 return f"{pattern}@{domain}"
     return f"{first}@{domain}"
+
+
+# ---------- people: who actually works there ----------
+# A named person replies about twice as often as a role inbox (Sep 29-Oct 12: 18% vs 10% of 183 sends), and
+# most no_contact leads had a site but no address on it. These find names, and only then guess an address.
+
+ENG_YC_ROLE = re.compile(r"\b(eng|engineer|developer|software|backend|frontend|full[- ]?stack|ml|ai|data)\b", re.I)
+JUNIOR_YC = re.compile(r"new grad|intern|any|0|1 year", re.I)
+
+
+def yc_profile(url):
+    """Founders (name, title, LinkedIn) and engineering job postings from a ycombinator.com/companies page."""
+    m = re.match(r"https?://(?:www\.)?ycombinator\.com/companies/([a-z0-9-]+)", url or "")
+    if not m:
+        return [], []
+    r = _get(f"https://www.ycombinator.com/companies/{m.group(1)}")
+    page = re.search(r'data-page="([^"]+)"', r.text) if r else None
+    if not page:
+        return [], []
+    import html
+    import json
+    try:
+        props = json.loads(html.unescape(page.group(1)))["props"]
+    except (ValueError, KeyError):
+        return [], []
+    founders = [{"name": f["full_name"], "role": f.get("title") or "Founder", "source": "YC profile",
+                 "linkedin": f.get("linkedin_url") or ""}
+                for f in (props.get("company") or {}).get("founders") or [] if f.get("full_name")]
+    jobs = [{"title": j["title"].strip(), "url": "https://www.ycombinator.com" + j["url"],
+             "location": j.get("location") or "", "experience": j.get("minExperience") or "",
+             "visa": j.get("visa") or ""}
+            for j in props.get("jobPostings") or []
+            if ENG_YC_ROLE.search(f"{j.get('role')} {j.get('title')}") and JUNIOR_YC.search(j.get("minExperience") or "")]
+    return founders, jobs
+
+
+def github_members(org, domain, limit=5):
+    """Public members of the company's GitHub org: engineers who could refer. Their profile email is
+    used when it's on the company domain; otherwise only the name comes back."""
+    headers = {"Accept": "application/vnd.github+json"}
+    if os.environ.get("GITHUB_TOKEN"):
+        headers["Authorization"] = f"Bearer {os.environ['GITHUB_TOKEN']}"
+    people = []
+    try:
+        r = session.get(f"https://api.github.com/orgs/{org}/public_members?per_page={limit}", headers=headers,
+                        timeout=15)
+        for m in (r.json() if r.ok else [])[:limit]:
+            u = session.get(f"https://api.github.com/users/{m['login']}", headers=headers, timeout=15)
+            u = u.json() if u.ok else {}
+            if not u.get("name"):
+                continue
+            email = (u.get("email") or "").lower()
+            people.append({"name": u["name"], "role": "Engineer", "source": f"GitHub member ({org})",
+                           "email": email if domain and email.endswith("@" + domain) else ""})
+    except (requests.RequestException, ValueError):
+        pass
+    return people
+
+
+def known_pattern(domain, known):
+    """The company's address shape if a person-looking address on its domain is already known."""
+    for addr in known:
+        local, _, host = addr.partition("@")
+        if host != domain or local in GENERIC_LOCAL:
+            continue
+        if re.fullmatch(r"[a-z]+\.[a-z]+", local):
+            return "first.last"
+        if re.fullmatch(r"[a-z]\.[a-z]+", local):
+            return "f.last"
+        if re.fullmatch(r"[a-z]{2,}", local):
+            return "first"
+    return None
+
+
+def find_people(lead):
+    """Add named people (and, where safe, their addresses) to lead['candidates'] / lead['people'].
+    Founders get a first@domain guess when the domain takes mail; engineers only when the company's
+    address pattern is already known from a real address, since a wrong guess bounces."""
+    domain = lead.get("domain") or domain_of(lead.get("website") or "")
+    cands = lead.setdefault("candidates", {})
+    people = []
+    founders, jobs = yc_profile(lead.get("url"))
+    people += founders
+    if jobs and re.search(r"Engineering \(YC|no public opening", lead.get("title") or ""):
+        j = next((j for j in jobs if re.search(r"intern|new grad|junior|graduate", j["title"], re.I)), jobs[0])
+        lead["title"], lead["url"] = j["title"], j["url"]
+        lead["description"] = (f"YC job posting: {j['title']} ({j['location']}; experience: {j['experience']}; "
+                               f"{j['visa']}). " + (lead.get("description") or ""))[:2000]
+    for org in (lead.get("github_orgs") or [])[:1]:
+        people += github_members(org, domain)
+    if not domain or not has_mx(domain):
+        lead["people"] = people
+        return lead
+    pattern = known_pattern(domain, cands)
+    for p in people:
+        if p.get("email"):
+            cands.setdefault(p["email"], {"where": p["source"], "kind": "personal", "name": p["name"],
+                                          "role": p["role"]})
+            continue
+        founder = re.search(r"founder|ceo|cto", p["role"], re.I)
+        if not founder and not pattern:
+            continue
+        guess = guess_email(p["name"], domain, cands.keys())
+        if guess and guess not in cands:
+            cands[guess] = {"where": f"pattern guess ({p['source']})", "kind": "guessed", "name": p["name"],
+                            "role": p["role"]}
+    lead["people"] = people
+    return lead

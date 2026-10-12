@@ -427,6 +427,9 @@ _UNSTOP_OPPORTUNITIES = ("internships", "jobs")
 _UNSTOP_TERMS = (
     "software engineer", "backend", "full stack", "python", "react",
     "ai engineer", "sde", "node", "software developer", "fresher", "graduate engineer",
+    # added 2026-10-12: more of India's paid entry-level engineering roles
+    "software intern", "machine learning", "data science", "frontend", "django", "devops", "sdet",
+    "qa automation", "java developer", "golang", "generative ai", "android developer", "flutter", "web developer",
 )
 
 
@@ -507,19 +510,26 @@ def fetch_unstop():
 
 _INTERNSHALA_CITIES = ("delhi", "gurgaon", "noida", "greater-noida", "ghaziabad", "faridabad")
 _INTERNSHALA_CATS = ("computer-science", "software-development", "web-development", "python-django",
-                     "full-stack-development", "backend-development", "machine-learning")
+                     "full-stack-development", "backend-development", "machine-learning",
+                     # added 2026-10-12, each verified to list Delhi roles: more of NCR's paid listings
+                     "javascript-development", "react-js-development", "node-js-development", "data-science",
+                     "artificial-intelligence-ai", "front-end-development", "software-testing", "devops",
+                     "flutter-development")
 _INTERNSHALA_PAGES = (
     [f"https://internshala.com/{kind}/{cat}-{noun}-in-{city}/"
      for city in _INTERNSHALA_CITIES
      for kind, noun in (("fresher-jobs", "jobs"), ("internships", "internship"))
      for cat in _INTERNSHALA_CATS]
     # the biggest lists run past one page of 50
-    + [f"https://internshala.com/{kind}/computer-science-{noun}-in-{city}/page-2/"
+    + [f"https://internshala.com/{kind}/{cat}-{noun}-in-{city}/page-{n}/"
        for city in ("delhi", "gurgaon", "noida")
-       for kind, noun in (("fresher-jobs", "jobs"), ("internships", "internship"))]
+       for kind, noun in (("fresher-jobs", "jobs"), ("internships", "internship"))
+       for cat in ("computer-science", "software-development", "web-development")
+       for n in (2, 3)]
     # remote internships from anywhere in India, same pay floor
     + [f"https://internshala.com/internships/work-from-home-{cat}-internships/"
-       for cat in ("computer-science", "software-development", "web-development")]
+       for cat in ("computer-science", "software-development", "web-development", "python-django",
+                   "machine-learning", "full-stack-development")]
 )
 _INTERNSHALA_FLOOR = {"year": 800000, "month": 25000}   # overridden by settings.priority via fetch_all
 _AGO_RE = re.compile(r"(\d+|a|few)\s*(hour|day|week|month)s?\s*ago|just now|today", re.I)
@@ -586,7 +596,7 @@ def fetch_internshala():
 
 _GH_NCR = ("noida", "gurgaon", "gurugram", "delhi", "new delhi", "ghaziabad", "faridabad", "ncr")
 _GH_HUBS = ("bangalore", "bengaluru", "hyderabad", "pune", "mumbai", "chennai", "india")
-_GH_PAGES = 10           # rotate through the first 10 pages (500 orgs; the search API's cap is 1000) per location
+_GH_PAGES = 20           # rotate through all 20 pages (1000 orgs, the search API's cap) per location
 _GH_ORG_CAP = 320        # org detail lookups per run (2 API calls each; Actions' token allows 1000/hour)
 _GH_PUSH_CUTOFF_SECONDS = 365 * 86400
 _KNOWN_URLS = set()      # lead URLs already in leads.json (set by fetch_all): skipped before any lookup
@@ -635,7 +645,9 @@ def fetch_github_orgs():
     ncr, hubs, seen = [], [], set()
     for cities, out in ((_GH_NCR, ncr), (_GH_HUBS, hubs)):
         for city in cities:
-            for page in sorted({1 + day % _GH_PAGES, 1 + (day + _GH_PAGES // 2) % _GH_PAGES}):
+            # NCR gets three slices a day, the other hubs two: the whole list comes round in about a week.
+            step = 3 if out is ncr else 2
+            for page in sorted({1 + (day * step + k * _GH_PAGES // step) % _GH_PAGES for k in range(step)}):
                 for login in _gh_search(city, page, headers):
                     if login not in seen and f"https://github.com/{login}" not in _KNOWN_URLS:
                         seen.add(login)
@@ -694,11 +706,18 @@ _FUNDING_FEEDS = (
     "https://inc42.com/tag/funding/feed/",
     "https://economictimes.indiatimes.com/tech/funding/rssfeeds/78570540.cms",
     "https://yourstory.com/feed",
+    # Google News search as a proxy for publishers with no working feed of their own (VCCircle, Moneycontrol,
+    # ET Startups): verified 2026-10-12, ~50 current items a day. Links are Google redirects, so the article
+    # isn't fetched; research finds the company's site by name.
+    "https://news.google.com/rss/search?q=startup+raises+funding+india+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=(gurugram+OR+noida+OR+delhi)+startup+raises+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=site:vccircle.com+raises+when:3d&hl=en-IN&gl=IN&ceid=IN:en",
 )
 _FUNDING_PATTERN = re.compile(r"\b(raises|raised|secures|bags|nets|picks up|funding|seed round|pre-seed|series [a-e])\b", re.I)
 # Not a startup round: IPOs, rights issues, acquisitions, VC funds closing, round-ups, "to raise" plans.
 _FUNDING_SKIP = re.compile(r"\b(ipo|drhp|rights issue|acqui|stake|fund (i|ii|iii|iv|v)\b|first close|corpus|"
-                           r"this week|funding and acquisitions|weekly|report|to raise|in talks|mutual fund|debt fund|new funds?\b|enters)", re.I)
+                           r"this week|funding and acquisitions|weekly|report|to raise|in talks|mutual fund|debt fund|new funds?\b|enters|"
+                           r"universit|college|institute|government|ministry)", re.I)
 _FUNDING_SPLIT = re.compile(r"\s+(raises|raised|secures|bags|nets|picks up)\b", re.I)
 _FUNDING_ROUND_IN = re.compile(r"\b(?:round|funding|investment)\s+in\s+(.+)$", re.I)
 _FUNDING_DESCRIPTOR = re.compile(
@@ -763,6 +782,8 @@ def fetch_funding_news():
             continue
         for item in root.findall(".//item"):
             title = strip_html(item.findtext("title") or "")
+            if "news.google.com" in feed_url:
+                title = re.sub(r"\s+-\s+[^-]+$", "", title)   # "Acme raises $5M - Inc42" -> drop the publisher
             if not title or not _FUNDING_PATTERN.search(title) or _FUNDING_SKIP.search(title):
                 continue
             try:
@@ -780,7 +801,7 @@ def fetch_funding_news():
             link = (item.findtext("link") or "").strip()
             raw = (item.findtext(_CONTENT_NS) or "") + " " + (item.findtext("description") or "")
             text = strip_html(raw)
-            if len(text) < 1200 and link:   # a teaser only: read the article for the city and the site
+            if len(text) < 1200 and link and "news.google.com" not in link:   # a teaser only: read the article for the city and the site
                 try:
                     raw = _get(link).text
                     text = strip_html(raw)
@@ -803,9 +824,13 @@ def fetch_funding_news():
 ATS_BOARDS = {
     "lever": {"100ms": "https://www.100ms.live", "cred": "https://cred.club", "epifi": "https://fi.money",
               "fampay": "https://famapp.in", "hevodata": "https://hevodata.com", "meesho": "https://meesho.com",
-              "paytm": "https://paytm.com", "zeta": "https://zeta.tech"},
+              "paytm": "https://paytm.com", "zeta": "https://zeta.tech", "mindtickle": "https://www.mindtickle.com"},
     "greenhouse": {"inmobi": "https://www.inmobi.com", "newton": "https://www.newtonschool.co",
-                   "truecaller": "https://www.truecaller.com"},
+                   "truecaller": "https://www.truecaller.com",
+                   # added 2026-10-12, each verified with India openings
+                   "groww": "https://groww.in", "highradius": "https://www.highradius.com",
+                   "zenoti": "https://www.zenoti.com", "druva": "https://www.druva.com",
+                   "hackerrank": "https://www.hackerrank.com", "observeai": "https://www.observe.ai"},
     "ashby": {"atlan": "https://atlan.com", "ditto": "https://joinditto.in", "leap": "https://leapscholar.com",
               "sarvam": "https://www.sarvam.ai", "signoz": "https://signoz.io", "spotdraft": "https://www.spotdraft.com"},
     "workable": {"leena-ai": "https://leena.ai"},

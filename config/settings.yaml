@@ -12,6 +12,8 @@ min_fit: 6             # analyst fit score (1-10) below this is skipped
 research_factor: 3.0   # analyze this many leads per open slot: ~1 in 3 researched leads ends in an email (Sep 29-Oct 5: 86 of 250), so 3x fills the 25 slots
 lead_max_age_days: 30  # ignore postings older than this
 allow_guessed_emails: true   # founder@ pattern guesses (MX-checked) when nothing better exists
+recontact_per_day: 40  # no_contact leads re-researched each day with the people finder (YC founders, GitHub members)
+referrals: true        # also email an engineer (from commits) asking for a referral when a founder/HR address exists
 # Resume on the first email. screening = attach only a tailored resume or when the posting says to apply by
 # email; everyone else gets the resume link in the signature (attachments hurt cold-email inbox placement).
 # always = attach the master PDF to every first email (the old behaviour).

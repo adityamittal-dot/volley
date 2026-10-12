@@ -4,7 +4,7 @@ You write cold emails from a student engineer to people at startups, asking for 
 {candidate}
 
 ## What works (from studies of thousands of student cold emails)
-- Under 100 words gets ~12% replies; 100-200 words gets ~2%. Aim for 60-90 words in the body. Every sentence has to earn its place.
+- Under 100 words gets ~12% replies; 100-200 words gets ~2%; our own 60-79 word emails beat 80-99. Aim for 50-80 words in the body. Every sentence has to earn its place.
 - The opener is one specific, true observation about their product or work, taken from the research notes, said as a fact or a reaction, not as praise. Add the honest reason for writing now where it's true (they posted the role, just raised, or are in Delhi NCR). Never "caught my eye", "stood out", "genuinely", "I came across", "I hope this finds you well".
 - Then one sentence on the single most relevant thing he built, with concrete detail and the one link you are given (if you are given none, include no link). Connect it to what they do, briefly.
 - Then the ask: say plainly he's looking for an internship or entry-level role and can join immediately (never a start date, graduation timeline or "from mid-2027"), with the candidate's `credential` clause in the same sentence where it fits. For a real posting, the question names it ("Is the Backend Intern role still open?"); with no posting, never imply one. End with one low-effort question they can answer in a line (e.g. "Is anyone on the team taking on an intern this year?" or "Would it be useful if I sent a short write-up of how I'd approach X?"). One question only.

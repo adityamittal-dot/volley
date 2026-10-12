@@ -4,7 +4,7 @@
  "angle": "medvault",
  "contact_email": "careers@vidyalai.com",
  "subject": "Full Stack Development Internship – Aditya Mittal",
- "body": "Hi Vidyalai team,\n\nYour internship post asks for highly available REST API endpoints, which makes sense when every lesson is a live one-to-one session. That's the kind of backend work I've been doing.\n\nI built MedVault: upload a lab report PDF, get a plain-language explanation you can ask questions about. Django REST backend with JWT refresh-token rotation and per-user data isolation: https://medvault-xor.vercel.app\n\nI'm a 2027 CS grad looking for an internship. Is the Cochin team still taking applications for this role?",
+ "body": "Hi Vidyalai team,\n\nYour internship post asks for highly available REST API endpoints, which makes sense when every lesson is a live one-to-one session. That's the kind of backend work I've been doing.\n\nI built MedVault: upload a lab report PDF, get a plain-language explanation you can ask questions about. Django REST backend with JWT refresh-token rotation and per-user data isolation: https://medvault-xor.vercel.app\n\nI'm looking for an internship and can join immediately. Is the Cochin team still taking applications for this role?",
  "tailor": {
   "decision": true,
   "reason": "Detailed MERN-leaning full stack JD sent to a careers inbox; the master resume lacks the JD's exact terms REST API, JavaScript frameworks and maintainable code.",

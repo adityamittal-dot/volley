@@ -23,7 +23,10 @@ prompt (fill in N and the date):
 > `work/<date>/batch-N.json`. For every lead in the batch file write one analysis object with exactly these
 > keys: id, relevant (bool), summary, stack (list), hook, angle, angle_reason, fit (int 1-10), region,
 > people (list of {name, role}), contact_email, contact_name, contact_role, red_flags (list, empty if none).
-> contact_email must be copied exactly from that lead's email_candidates or be "". Save `{"leads": [...]}` to
+> contact_email must be copied exactly from that lead's email_candidates or be "". Prefer a named person
+> (founder/CTO, then an engineer, then HR/recruiter) over a role inbox; candidates of kind "guessed" are
+> pattern guesses for a named founder and rank below any real address. For a lead with `"referral": true`
+> pick the engineer most active in the commits. Save `{"leads": [...]}` to
 > `work/<date>/analysis-N.json`. Do not browse the web. Reply only "done N".
 
 When all are done, run `python -m volley check` once. Fix any **analysis** problems it lists yourself
@@ -42,8 +45,9 @@ priority first — Delhi NCR leads that pay well come before everything else.
 Load the `cold-email-humanizer` skill (`.claude/skills/cold-email-humanizer/SKILL.md`) and follow it for
 every email. Use `config/profile.yaml` for facts about the candidate (never invent anything) and the
 project link for the chosen angle as the one link in the body. Never put GitHub, the portfolio or
-LinkedIn in the body (the signature has them). Write each subject in the lead's `subject style` from the
-shortlist (`role` or `short`; it's an A/B test, so don't switch styles).
+LinkedIn in the body (the signature has them). Every subject is `<Role> – Aditya Mittal` (the shortlist's
+`subject style` is always `role` now). Leads marked `REFERRAL ASK` go to an engineer, not the hiring
+person: follow the skill's referral section (ask for a pointer, not a job).
 
 For a Delhi NCR lead (priority >= 1), add one short line that the candidate is based in Noida and can work
 from their office — don't force it if the email already reads naturally without it. For a lead with no

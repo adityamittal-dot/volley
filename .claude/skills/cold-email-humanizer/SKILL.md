@@ -9,9 +9,10 @@ Each email goes to one real person who gets dozens of these. It should read like
 himself in five minutes because he actually looked at their company.
 
 ## Shape (evidence below; `volley check` enforces the hard parts)
-- **Body 60-95 words**, 3-4 short paragraphs of 1-2 sentences. Student-outreach data: under 100 words got
-  ~12% replies, 100-200 got ~2%, 200-300 got 0.3%. Founders triage on a phone and read three lines.
-- **Greeting:** `Hi <first name>,` if the shortlist gives a name, else `Hi <Company> team,`.
+- **Body 50-80 words** (`check` rejects over 95), 3 short paragraphs of 1-2 sentences. Our own sends to
+  Oct 12: 60-79 words got 13% replies, 80-99 got 10%. Founders triage on a phone and read three lines.
+- **Greeting:** `Hi <first name>,` whenever the shortlist gives a name, else `Hi <Company> team,`. Emails to
+  a named person got 18% replies vs 10% without (57 vs 126 sends), so never drop a name you have.
 - **Opener = observation + why now.** One specific, true thing about their product, a technical choice, a
   launch, or a line in the posting, said plainly as a fact or a reaction, not as praise. Where it's true,
   add the honest reason you're writing now: they posted the role, just raised, or are in Noida/Gurgaon/Delhi.
@@ -29,14 +30,39 @@ himself in five minutes because he actually looked at their company.
     that asked about a specific opening (Xero, Uncountable) got answers.
   - no posting (GitHub org, funding news, YC directory): ask if they take interns ("Does the team take on an
     engineering intern?"). Never imply a posting exists.
-- **Subject:** the shortlist gives each lead a `subject style` (an A/B test, tracked in TRACKER.md):
-  - `role`: `<Role> – Aditya Mittal`. `<Role>` is Title Case, 2-6 words, ending in Internship, Intern,
-    Engineer, Developer, Role or Position: the posting's title when it's a clean role name ("Full Stack
-    Development Internship"), otherwise "Software Engineering Internship". Never the feed's noise
-    ("Engineering (YC Summer 2016)", "See posting").
-  - `short`: `<role> at <Company>`, 3-7 words, under 45 characters, sentence case, e.g. `Backend internship
-    at Quill`, `SDE intern at Frostrek`. Must name the role and the company.
-  - Both: no hook, pun, "+", emoji, colon, "Opportunity", "Application", "Quick question" or "RE:".
+- **Subject:** `<Role> – Aditya Mittal`. The A/B test is over: this style got 19 replies from 144, the short
+  `<role> at <Company>` style 3 from 39. `<Role>` is Title Case, 2-6 words, ending in Internship, Intern,
+  Engineer, Developer, Role or Position: the posting's title when it's a clean role name ("Full Stack
+  Development Internship"), otherwise "Software Engineering Internship". Never the feed's noise
+  ("Engineering (YC Summer 2016)", "See posting"). No hook, pun, "+", emoji, colon, "Opportunity",
+  "Application", "Quick question" or "RE:".
+- **Real posting first.** Emails that named a real opening got 20% replies vs 10% for "do you take interns".
+  When the shortlist's `role posted` is a real title (a YC job posting counts), name it in the question.
+
+## Referral asks (shortlist says `REFERRAL ASK`)
+The recipient is an engineer at the company (found through their commits or the GitHub org), not the
+person who hires. The company's founder or hiring inbox gets the normal email the same day, so this one
+must not read as a second application. Same rules and length, but:
+- Open with something specific from *their* work where the research gives it (a repo, the part of the
+  product their commits touch), else the company's product.
+- The ask is for a pointer, not a job: "Would you be open to passing my name to whoever hires interns, or
+  telling me who that is?" One question only.
+- Don't flatter or claim to know them. No "I know you're busy".
+- Never end a sentence right after a link with a period: `check` reads it as part of the URL.
+```
+Subject: Software Engineering Internship – Aditya Mittal      (REFERRAL ASK, engineer from commits)
+
+Hi Karan,
+
+Saw your commits on the sync worker in the open-source SDK; batching writes per tenant is a neat fix.
+
+I built MedVault, a Django backend with a Gemini pipeline and a fallback parser for bad model output:
+https://medvault-xor.vercel.app
+
+I just finished an SDET internship at Basepair and can join immediately.
+
+Would you be open to passing my name to whoever hires interns at Acme, or telling me who that is?
+```
 - No sign-off, no signature, no mention or link of resume/GitHub/portfolio/LinkedIn (the signature adds them
   and carries the resume link; a PDF is attached only when the posting asked for email applications).
 
@@ -58,7 +84,7 @@ himself in five minutes because he actually looked at their company.
 
 ## Examples
 ```
-Subject: Software Engineering Internship – Aditya Mittal      (style: role, a GitHub org with no posting)
+Subject: Software Engineering Internship – Aditya Mittal      (a GitHub org with no posting)
 
 Hi Maya,
 
@@ -72,7 +98,7 @@ I'm a final-year CS student, just finished an SDET internship at Basepair, and c
 Does the team take on an engineering intern?
 ```
 ```
-Subject: Backend internship at Quill      (style: short, a real posting)
+Subject: Backend Engineering Internship – Aditya Mittal      (a real posting)
 
 Hi Rishi,
 

@@ -55,6 +55,7 @@ def prepare():
         log(f"prepare: today's batch already exists, only synced and sent follow-ups")
         return
     pipeline.discover(leads, s, p)
+    log(f"recontact: {pipeline.recontact(leads, s)} no_contact leads back in the pool for the people finder")
 
     # Leads from a batch the routine never finished go back into the pool.
     for l in leads.values():
@@ -89,8 +90,10 @@ def research_batch(leads, s, slots):
         if l["status"] == "new" and _name(l["company"]) in emailed:
             l["status"], l["note"] = "skipped", "already emailed under another listing"
     want = math.ceil(slots * s["research_factor"])
+    # Retried no_contact leads go ahead of fresh ones of the same tier: most were already rated a good fit.
+    retry = today()
     pool = sorted((l for l in leads.values() if l["status"] == "new"),
-                  key=lambda l: (l.get("priority", 0), l["score"]), reverse=True)
+                  key=lambda l: (l.get("priority", 0), l.get("recontacted") == retry, l["score"]), reverse=True)
     batch = []
     for lead in pool:
         if len(batch) >= want:
@@ -109,7 +112,31 @@ def research_batch(leads, s, slots):
             continue
         lead["status"], lead["batch"] = "researching", today()
         batch.append(lead)
+        ref = referral_split(lead, s)
+        if ref:
+            leads[ref["id"]] = ref
+            batch.append(ref)
     return batch
+
+
+def _is_engineer(v):
+    return v.get("where", "").startswith(("GitHub", "pattern guess (GitHub")) and v["kind"] in ("personal", "guessed")
+
+
+def referral_split(lead, s):
+    """A company with both a decision-maker/hiring address and an engineer's address gets two emails: the
+    usual one, and a referral ask to the engineer (commit authors got the best reply rate, 5 of 31). The
+    engineer's addresses move to a sibling lead `<id>-ref` so each thread is tracked on its own."""
+    if not s.get("referrals") or lead.get("referral"):
+        return None
+    eng = {e: v for e, v in lead["candidates"].items() if _is_engineer(v)}
+    rest = {e: v for e, v in lead["candidates"].items() if e not in eng}
+    if not eng or not any(v["kind"] in ("personal", "hiring", "guessed", "generic") for v in rest.values()):
+        return None
+    lead["candidates"] = rest
+    ref = {k: v for k, v in lead.items() if k not in ("site", "research", "contact", "email")}
+    ref.update(id=lead["id"] + "-ref", candidates=eng, referral=True, site=(lead.get("site") or ""))
+    return ref
 
 
 def write_batch(batch):
@@ -127,6 +154,7 @@ def write_batch(batch):
                 "site_text": (l.pop("site", "") or "")[:SITE_CHARS],
                 "email_candidates": [{"email": e, **v} for e, v in l.get("candidates", {}).items()],
                 "pay": l.get("pay"), "priority": l.get("priority", 0), "priority_note": l.get("priority_note", ""),
+                "referral": bool(l.get("referral")),
             })
         (day / f"batch-{n // CHUNK + 1}.json").write_text(json.dumps({"leads": chunk}, indent=1, ensure_ascii=False))
 
@@ -205,12 +233,14 @@ def shortlist(day=None, show=True):
         used.add(contact["email"])
         ok, why = tailor.eligibility(lead, a, contact)
         rows.append({"id": lid, "company": lead["company"], "fit": a["fit"], "angle": a["angle"],
+                     "referral": bool(lead.get("referral")),
                      "subject_style": humanize.subject_style(lid),
                      "contact": contact, "tailor_eligible": ok, "tailor_note": why,
                      "priority": lead.get("priority", 0), "priority_note": lead.get("priority_note", ""),
                      "pay": lead.get("pay")})
     rank = pipeline.CONFIDENCE_RANK
-    rows.sort(key=lambda r: (r["priority"], r["fit"], rank.get(r["contact"]["confidence"], 0)), reverse=True)
+    rows.sort(key=lambda r: (r["priority"], r["fit"], not r["referral"], rank.get(r["contact"]["confidence"], 0)),
+              reverse=True)
     backlog = sum(1 for l in leads.values() if l["status"] == "queued")
     rows = rows[:max(0, s["daily_new"] - store.delivered_on(leads, day) - backlog)]
     if show:
@@ -218,7 +248,7 @@ def shortlist(day=None, show=True):
             a, c = analysis[r["id"]], r["contact"]
             pay = f"{r['pay']['max'] / 100000:g} LPA" if r["pay"] and r["pay"]["period"] == "year" \
                 else f"₹{r['pay']['max']:,}/mo" if r["pay"] else "?"
-            print(f"\n## {r['id']} | {r['company']} | fit {r['fit']} | angle {r['angle']} | "
+            print(f"\n## {r['id']} | {r['company']}{' | REFERRAL ASK' if r['referral'] else ''} | fit {r['fit']} | angle {r['angle']} | "
                   f"priority {r['priority']} ({r['priority_note'] or '-'}) | pay {pay}\n"
                   f"to: {c.get('name') or '?'} <{c['email']}> ({c.get('role') or '?'}; {c['confidence']})\n"
                   f"role posted: {batch[r['id']]['title']}\nwhat they do: {a['summary']}\n"
