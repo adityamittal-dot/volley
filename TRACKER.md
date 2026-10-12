@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-12T06:45:12Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-12T08:00:11Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 174 · **Sent:** 174 · **Replies:** 19 (11%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 174 · **Sent:** 174 · **Replies:** 21 (12%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -13,23 +13,23 @@ _Updated 2026-10-12T06:45:12Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | researching | 75 |
 | sent | 18 |
 | followup_1 | 70 |
-| followup_2 | 58 |
-| replied | 19 |
+| followup_2 | 56 |
+| replied | 21 |
 | bounced | 9 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 88 | 8 |
+| medvault | 88 | 9 |
 | canopy | 47 | 8 |
-| basepair | 39 | 3 |
+| basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 140 | 17 |
+| role | 140 | 19 |
 | short | 34 | 2 |
 
 ## Replies
@@ -38,6 +38,7 @@ _Updated 2026-10-12T06:45:12Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **InfoHawk** — James <james@infohawk.com> replied 2026-09-29
 - **CABLE** — Theo <theo@cable.energy> replied 2026-10-07
 - **Stripe** — rishikej-stripe <rishikej@stripe.com> replied 2026-10-06
+- **GroMo** —  <contact@gromo.in> replied 2026-10-12
 - **Leeroo** —  <founders@leeroo.com> replied 2026-10-07
 - **Complir** —  <contact@complir.io> replied 2026-10-06
 - **Unsiloed AI** — André Castro <andre@unsiloed.ai> replied 2026-10-05
@@ -52,6 +53,7 @@ _Updated 2026-10-12T06:45:12Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **Izinga Software Private Limited** —  <hello@robustest.com> replied 2026-10-08
 - **xPay** —  <hello@xpaycheckout.com> replied 2026-10-08
 - **Greenzie** — Charles Brian Quinn <cbq@greenzie.com> replied 2026-10-06
+- **Srapsware** — Shiv Singh <shiv@srapsware.com> replied 2026-10-12
 - **Loop Subscriptions** —  <hiring@loopwork.co> replied 2026-10-09
 
 ## Latest 25 emails

@@ -14883,6 +14883,7 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Gurugram · YC",
+  "replied_at": "2026-10-12T07:59:04Z",
   "research": {
    "angle": "basepair",
    "angle_reason": "Basepair's production OAuth fixes, distributed systems reliability work, and security defect resolution apply to building trustworthy financial transaction handling at GroMo's scale.",
@@ -14899,7 +14900,7 @@
   },
   "score": 9.5,
   "source": "yc_hiring",
-  "status": "followup_2",
+  "status": "replied",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/gromo",
   "website": "https://www.gromo.in",
@@ -55611,6 +55612,7 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "Noida · active GitHub org, no posting",
+  "replied_at": "2026-10-12T08:00:05Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "Srapsware builds Django REST backends, LLM-powered platforms, and security-focused products; Aditya's MedVault project (Gemini API, Django REST, user isolation, auth) matches their AI/SaaS/backend stack.",
@@ -55639,7 +55641,7 @@
   },
   "score": 14.0,
   "source": "github_orgs",
-  "status": "followup_2",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/srapsware",
   "website": "https://srapsware.com",
