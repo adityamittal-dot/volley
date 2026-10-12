@@ -1,0 +1,128 @@
+{
+ "leads": [
+  {
+   "id": "3f4a814e7f",
+   "company": "Morphle Labs",
+   "website": "https://morphlelabs.com",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "Bengaluru, KA, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 65. Robotic Automation for cancer diagnostics - Robotic Microscopes &… Hardware, Robotics, Health Tech, Medical Devices, Automation, Healthcare, Medical Devices, India, South Asia",
+   "site_text": "[https://morphlelabs.com/]\nMorphle Labs Inc. | Robotic Microtome | Whole Slide Image Scanner & More... Morphle Labs Solving bottlenecks in Cancer Diagnostics ROBOTOME World's first, High Throughput Robotic Microtome Learn More Schedule Demo Automates Requisition Data Entry Queues RoboReq Learn More Optical Character Recognition backed by modern Neural Nets 40 Slides per hour Affordable Variants Explore Variants Get Quote Schedule Demo Next-gen Microscope Slide Scanners fully integrated ultra-fast viewer & more Digital Pathology Digital Pathology Next-gen Microscope Slide Scanners fully integrated ultra-fast viewer & more 40 Slides per hour Affordable Variants Explore Variants Get Quote Schedule Demo Research & Education Anatomical Pathology Derm Path HE 40x HE 40x ER 40x ER 40x PR 40x PR 40x Ki67 40x Ki67 40x Her2n 40x Her2n 40x derm 40x derm 40x hE 100x hE 100x LBC 40x LBC 40x Cyto 40x Cyto 40x Cyto 100x Cyto 100x Malaria 40x Hemat 40x Hemat 100x Hemat 100x Pinch / Scroll to Zoom Drag to Pan + 40x - + 40x - + 40x - + 40x - + 40x - + 40x - + 40x - + 40x - + 40x - + 40x - + 40x - + 40x - Options for every use-case 100 Slides / Hr MorphoLens 400 Enterprise-grade scanner for TAT-sensitive high volume Get Quote Learn More > 400 Slide batch True 40x · 0.22 µm/pixel Highest-throughput scanner in the lineup. 100+ slides/hr, stainer-rack compatible , near-zero rescan rate. - MorphoLens 240 Fast tissue scanner for high volume Get Quote Learn More > 240 Slide batch True 40x · 0.22 µm/pixel Meant for high volumes labs with Histopath, IHCs & Cytopath. Integrated workflows & image storage - MorphoLens 6 Perfect for scanning upto 100 slides a day Get Quote Learn More > 6 Slide batch True 40x · 0.22 µm/pixel All the goodness packed with a smaller batch size. Optimum for scanning upto 100 slides a day. - MorphoLens 1 Small footprint tissue & cytology scanner Get Quote Learn More > Single Slide batch True 40x · 0.22 µm/pixel Tiny footprint & surprisingly affordable. Perfect for research projects. 100x Oil & 40x HemoLens 1 Specially designed for Hemat - PBS, BMA & more Get Quote Learn More > Single Slide batch Dual Obj 100x Oil & 40x Intended for Digital Microscopy of PBS, BMA, CSF, Urine & other applications demanding 100X Performance is our Passion ... Un-solving the Obvious A team of Product Geeks & Tough Engineers defying the Impossible, one boundary at a time. [ 25+ Patents filed ] Quality has no finish line. Pursuit of Higher Quality is the Ultimate Purpose ! ‍ Customer Success is a Lifestyle Choice. Risk Free returns on our scanners, 24x7 support and more.. ‍ ... Your Success is our Responsibility ! Dr. Ingerlisa Mattoch - Digitizing a solo Dermatopathology Practice \"The Morphle team has been exceptional in helping me install, optimize, and incorporate my scanner into our workflow. We have the MorphoLens 6 in house. As background on my role, I am a sole Dermatopathologist and serve numerous large dermatology practices and other private practitioners in northern Colorado. I review approx. 120-150 slides per day (99% Dermpath).\" \"The team has been exceptional in helping me install and incorporate my scanner into our workflow. The digital slides are of superior resolution and scanning time is also short. On average, we can scan 6 sets of slides in 8-10 minutes. I have worked on many Digital Pathology platforms & the scans from Morphle are by far the best from a resolution and quality perspective.\" The digital slides - not only are they of superior resolution, but the scanning time is also as short as possible. Working together with my histology team, and the development team at Morphle, we have developed a protocol that allows for routine skin biopsies, such as primary punch and shave biopsies, to be scanned in ~1 minute each. Excision sections (larger tissue) scan at about 2 minutes per slide. On average, we can scan 6 sets of slides in 8-10 minutes. The process for loading and scanning the slides is extremely intuitive and training my sta",
+   "email_candidates": [
+    {
+     "email": "contact@morphlelabs.com",
+     "where": "https://morphlelabs.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "hr@morphlelabs.com",
+     "where": "https://morphlelabs.com/about/contact",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "0a6716b3b5",
+   "company": "WarpBuild",
+   "website": "https://www.warpbuild.com",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Accelerate software development with WarpBuild's 10x faster CI infra. Accelerate software development with WarpBuild. Get 2x faster, up to 90% cheaper CI in 30 seconds using WarpBuild for Github Actions. Developer Tools, Generative AI, SaaS, Productivity, DevOps, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.warpbuild.com/]\nWarpBuild - 2x faster, 50% cheaper Github Actions runners Fast CI for humans and agents. High-performance GitHub Actions runners - 2x faster, 50% cheaper. Drop-in replacement for your team and its agents. Zero config. Get Started Free Schedule Demo No credit card required · 2-minute setup Remote Docker builders Build and push Docker images with blazing fast remote builders Managed or in your cloud Deploy in our managed cloud or your own secure infrastructure MacOS, Windows, and Linux Full compatibility across all major operating systems x86-64 and ARM64 support Support for both x86-64 and ARM64 architectures Unlimited concurrency Scale infinitely with no limits on parallel jobs Get Started in Minutes One-line change to your workflow file. No complex setup or migration required. // WarpBuild CI Blazing Fast Github Actions Runners 2x faster builds with optimized runners, caching, and incremental builds. Fully maintenance free. Highlights On AWS, GCP, Azure Disk Snapshots Quickstart Flexible Deployment Managed cloud or your own AWS, GCP, Azure VPC. Secure Ephemeral VMs, complete isolation, no code access. Built for scale Unlimited job concurrency, fast local caching, and tools designed to support collaboration for 1000s of developers. Incremental Builds Reduce build times and improve efficiency with full disk snapshots. Unlimited concurrency Scale to thousands of parallel jobs per workflow. Blazing fast caching 3-10x faster caching for artifacts and container layers. Linux, MacOS, Windows Support for all OSes and architectures Static IPs (BYOC Only) Setup static IPs for security sensitive runner allowlists. Available with Bring Your Own Cloud deployments. // CI in the AI era Your agents ship faster than your CI AI made writing code cheap. It did nothing to make building and testing it cheap. The bottleneck moved from the keyboard to the runner queue. CI built for AI velocity 01 Agents write more code Coding assistants turn ideas into review-ready branches in minutes. Output per engineer goes up; the number of changes in flight goes up with it. 02 Every change is a pipeline Each PR, each push, each rebase and retry fans out into the full build and test matrix. Velocity upstream lands as load downstream. 03 CI becomes the queue Agents don't stop at 6pm. When runner capacity is capped, work waits on compute instead of on people, and the feedback loop stretches. 04 The bill tracks the agents Minutes billed at GitHub-hosted rates now scale with how much code you generate, not with how many engineers you hired. 2x faster builds on every runner 50% lower cost per minute 0 queue time with instant autoscaling See how WarpBuild keeps up // Enterprise Enterprise ready by design, battle-tested at scale Connect only the products you need. Enterprise grade security, compliance, and support. Schedule a Call Bring Your Own Cloud Data never leaves your perimeter with BYOC deployments on AWS, GCP, Azure. Data Residency Pin any data you choose to a specific region and eliminate cloud ingress and egress costs with region-specific infrastructure . SOC2 Type 2 compliant Read more about our security practices and our SOC2 report 24x7 Support 24x7 support and SLA guarantees for uninterrupted operations. No LLM Data Retention Zero data retention agreement with LLM providers so your data is never used for training models. SSO and Access Controls Connect with your IDP for easy user management and controls. What Our CI Customers Say Run times went down from ~25 mins to ~9 mins Even bazel cache load time was faster by 30% Wow. These macOS runners are a LOT faster than GiHub's. Previous builds would take 30 mins, now they're done in 8! Going from GitHub standard runners to your cheapest runners will save 30-40% time off the average workflow at half the price, and the workflow I care most about is staying the same price but 60% time savings. Thanks to Warp we're building our nextjs landing page with Github Actions (for Cloudflare P",
+   "email_candidates": [
+    {
+     "email": "deathbullet@gmail.com",
+     "where": "GitHub commits (WarpBuilds)",
+     "kind": "personal",
+     "name": "Darshan Chaudhary",
+     "commits": 6
+    },
+    {
+     "email": "abhihota025@gmail.com",
+     "where": "GitHub commits (WarpBuilds)",
+     "kind": "personal",
+     "name": "Abhijit Hota",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "0db165269f",
+   "company": "Infinite",
+   "website": "https://infinite.net",
+   "title": "Engineering (YC Winter 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 4. Global B2B Stablecoin Processor Infinite is a stablecoin payment processor. We offer businesses turnkey APIs and SDKs to instantly move money anywhere in the world at a fraction of the cost of traditional solutions. Developer Tools, Payments, B2B, Compliance, Fintech, Payments, United States of America, America / Canada",
+   "site_text": "[https://infinite.net/]\nInfinite | AI-native payments and compliance for global business Skip to main content Close menu Platform Infinite Accounts Accounts Accounts Wallet Account Rails Payment Rails Transfer Routes Infinite Pay Products Payouts Payins Links Invoicing Infinite Agents Agentic Payments Compliance AI Embedded Compliance Managed Compliance Solutions Crossborder Payments Mass Payments Prefunding Neobanks Treasury Management Correspondent Banking Stablecoin Compliance Agentic Commerce Resources Funds Flow First Party Third Party Developers Documentation ↗ Coverage Help Center ↗ Blog Learn Events All resources Company About Customers Partners Careers News Pricing The AI-native payments layer for global business Real USD accounts at partner banks, payments on SWIFT, US rails, stablecoins and FX, and compliance that vets a business once for the network. Book a demo → Partner with us → Infinite Accounts Managed global accounts → Infinite Agents Managed compliance AI → Processing on Infinite Launch accounts under your brand. Demo Open the account in your brand. How platforms launch accounts → app.avenli.example /onboarding Sample Avenli Verification Verification for Business Individual Company Compliance Addresses Details Ownership Documents Review Company Information 100 % complete Legal Name * Business Type * LLC Corporation Partnership Industry Classification * Wholesale trade Software Other Powered by Infinite Collect missing information → Illustrative preview for the fictional Avenli platform on a reserved example domain. All names and values are fictional. Demo controls change the preview only and submit no information or payment. 01 Onboard your customer → 02 Collect missing information → 03 Request a payment → Explore the demo Move money on the same network. Payments Screened, converted, settled. How corridor liquidity works → Built for businesses that move money. Use cases → Payment providers Hold USD, collect by wire, pay out globally. → Neobanks and fintechs USD accounts under your brand. → Mass payments Pay many countries from one balance. → Agentic Commerce Agents pay within enforced limits. Our team previously built and scaled payments at Know the business. See the full picture. Infinite Agents One case holds the evidence. Book a demo → Partner with us → Compliance AI assembles the evidence. Human-approved policy governs outcomes; judgment calls go to named analysts. Trust Center ↗ System status ↗ Asked in every evaluation. FAQ Ask an AI about Infinite ChatGPT / Claude / Perplexity / Gemini Can non-US businesses get a USD account on Infinite? − Yes. A business that clears onboarding gets a USD account with its own routing numbers. Eligibility depends on entity type and jurisdiction. Which countries and currencies does Infinite support today? + Businesses onboard from the US and the markets listed on Stablecoin Compliance . Payments run on US rails, SWIFT, USDC and USDT, with FX into EUR, GBP, MXN and BRL. How is Infinite different from wires, ACH, or SWIFT? + It runs on top of them: one API, and each transfer routes across your rails . Stablecoin legs settle in seconds. Can I integrate Infinite with just the API? + Yes. The REST API is the full surface; MCP and the CLI sit on top of it. How do I get started with Infinite? + Book a 30-minute demo on your flows; there is no self-serve signup. Onboarding brings sandbox keys and an engineer, then you go live. Book a demo Let’s map your accounts and payment routes.\n\n[https://infinite.net/blog]\nResource Hub | Infinite Skip to main content Close menu Platform Infinite Accounts Accounts Accounts Wallet Account Rails Payment Rails Transfer Routes Infinite Pay Products Payouts Payins Links Invoicing Infinite Agents Agentic Payments Compliance AI Embedded Compliance Managed Compliance Solutions Crossborder Payments Mass Payments Prefunding Neobanks Treasury Management Correspondent Banking Stablecoin Compliance Agentic Commerce Resources Funds Flow First Party Third ",
+   "email_candidates": [
+    {
+     "email": "careers@infinite.dev",
+     "where": "https://infinite.net/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "0ecf66effb",
+   "company": "Hypercubic",
+   "website": "https://www.hypercubic.ai/",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Agentic AI for Mainframe Operations and Modernization Hypercubic is an AI-native platform for mainframe operations and modernization. We help enterprises understand and modernize their mission-critical legacy systems. About 70% of the Fortune 500 companies still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more. These systems, originally built in the 1960s–90s, still power trillions in global infrastructure today but have become increasingly opaque as original developers retire or leave the workforce. We are pioneering a new class of intelligence capable of understanding, reasoning about, and rebuilding the world’s foundational infrastructure. Learn more at hypercubic.ai B2B, United States of America, America / Canada",
+   "site_text": "[https://www.hypercubic.ai/]\nCOBOL & Mainframe Modernization With Agentic AI | Hypercubic Introducing Hopper — The first agentic development environment for the mainframe. Read More → Hypercubic EN Demo Request Demo Accelerate Mainframe and COBOL Modernization with Agentic AI Request Demo → Built for mission-critical systems. Today’s top enterprises and governments trust Hypercubic to transform their critical mainframe infrastructure. The top mainframe teams use Hypercubic for Tribal Knowledge Preservation Verified Mainframe Transformation Legacy System Understanding Business Logic Extraction Mainframe Operations Continuity Expert Knowledge Capture Tribal Knowledge Preservation Verified Mainframe Transformation Legacy System Understanding Business Logic Extraction Mainframe Operations Continuity Expert Knowledge Capture Tribal Knowledge Preservation Verified Mainframe Transformation Legacy System Understanding Business Logic Extraction Mainframe Operations Continuity Expert Knowledge Capture Built by leading minds behind the world's most advanced AI and technology Hypercubic accelerates mainframe operations and modernization. The best-in-class agentic AI platform to understand, operate, and transform the world's most critical infrastructure. Hypercubic Platform An end-to-end ecosystem for industrial-scale mainframe operations and modernization. 01 / DISCOVER HyperDocs Transform opaque COBOL codebases into living, searchable documentation and ensure the continuity of your mission-critical systems. System Inventory Living Documentation Dependency Mapping Learn More → 02 / PRESERVE HyperTwin Capture how your best engineers debug and operate legacy systems then make their expertise available 24/7 across the entire team. Expert Workflow Capture AI-driven Interviews Digital Twins Learn More → 03 / OPERATE Hopper The first agentic mainframe terminal. Natural language interface for the mainframe environment. Automate system operations and execute mission-critical workflows at scale. Natural Language Terminal Incident Triage Production Operations Learn More → 04 / TRANSFORM HyperLoop High-velocity modernization engine. Re-engineer legacy systems into modern architectures in months, not years. Behavioral Equivalence Code Migration Auditable Provenance Learn More → Cut mainframe modernization time and cost. Deploy to the cloud you already trust. Mainframe-Native AI Built for the institutions that cannot afford to be wrong. Accelerate Modernization Out-of-the-box AI cannot operate or modernize a mainframe. Hypercubic makes it possible — to understand, operate, and modernize the mainframe safely. Institutional Memory Decades of legacy code. Experts about to retire. Hypercubic captures both — preserving institutional knowledge before it walks out the door. Sovereign by Default Runs entirely inside your VPC or on-prem. Your model, your keys. Zero data egress, immutable audit trails, no model training on your data. Engineered for Critical Infrastructure Modernization If your core systems run on mainframes, Hypercubic is designed for you. Financial Services $3T+ in daily transactions on mainframes Explore → Insurance Policy and claims logic modernization Explore → Government Citizen-facing infrastructure on z/OS Explore → Manufacturing Production control and ERP systems Explore → Defense Mission-critical system documentation Explore → Airlines Reservation and operations systems on TPF Explore → Telecommunications Network control and billing logic Explore → Healthcare Claims and patient record systems on COBOL Explore → Oil & Gas Core infrastructure logic extraction Explore → Logistics Supply chain architecture modernization Explore → Retail Inventory and POS mainframe systems Explore → Utilities Grid management and billing infrastructure Explore → View all industries → Insights Read More → Aug 18, 2026 Hypercubic Raises $5.3M to Build the Future of Mainframe Modernization We’re announcing that Hypercubic has raised $5.3 million in seed funding",
+   "email_candidates": [
+    {
+     "email": "team@hypercubic.ai",
+     "where": "https://www.hypercubic.ai/",
+     "kind": "generic"
+    },
+    {
+     "email": "u003eteam@hypercubic.ai",
+     "where": "https://www.hypercubic.ai/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "1128d48fb2",
+   "company": "Numen",
+   "website": "https://www.numen.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 18. Engineering a future without cancer deaths. Machine Learning, Biotech, Healthcare, Diagnostics, AI, Healthcare, Diagnostics, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.numen.com/]\nNumen Skip to main content Engineering a future without cancer deaths. Infrastructure that drives cancer mortality towards 0. Rapid at-home diagnostics Streamlined high volume health data collection Proprietary models for earlier intervention & better outcomes /About us We're a San Francisco based team of top experts in bioscience , engineering , ML , and design , obsessed with solving the hardest problem in human health . Get in touch. contact@numen.com Open roles LAUNCHING SOON",
+   "email_candidates": [
+    {
+     "email": "contact@numen.com",
+     "where": "https://www.numen.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  }
+ ]
+}

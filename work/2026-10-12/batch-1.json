@@ -1,0 +1,260 @@
+{
+ "leads": [
+  {
+   "id": "598c8d5ad6",
+   "company": "Flam",
+   "website": "https://flamapp.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "AI for internet beyond videos. Languages: Kotlin, Python, TypeScript",
+   "site_text": "[https://flamapp.ai/en-US]\nAI for the internet beyond videos | Flam Series B $40M Led by QED Investors and backed by Shah Rukh Khan Read the announcement Series B $40M Led by QED Investors and backed by Shah Rukh Khan Read the announcement English Contact Us Get Demo AI for the internet beyond videos AI models and products for interactive content Get Demo Interactive streaming formats Three AI-native formats built to change every piece of content on the internet Flicks Airboards Visual Agents Swap character, products or scene One video holds multiple variations, switch with zero latency < 10ms Switching latency AI compression 60% lower asset size Explore High fidelity 3D streaming on camera interface Stream 3D content like videos, interact with Touch, voice & haptic feedback 300 ms Time to first buffer App less infra No app download Explore Flam Visual Agents for human like communication Hyperreal person from one image, talk with natural expressions in 60+ languages 800 ms Latency Photoreal Visual avatars Explore Interactive streaming formats Three AI-native formats built to change every piece of content on the internet Flicks Swap character, products or scene One video holds multiple variations, switch with zero latency < 10ms Switching latency AI compression 60% lower asset size Explore Airboards High fidelity 3D streaming on camera interface Stream 3D content like videos, interact with Touch, voice & haptic feedback 300 ms Time to first buffer App less infra No app download Explore Visual Agents Flam Visual Agents for human like communication Hyperreal person from one image, talk with natural expressions in 60+ languages 800 ms Latency Photoreal Visual avatars Explore Our family of models Frontier intelligence built for human machine interactions Our models were built on a simple belief: the most powerful interactions aren't transactional — they're creative, tactile, and alive Fable 2.0 Flow matching diffusion transformer model for product animations and 3D content Fantom 1.0 Identity preserving video synthesis model from single face image & audio Falcon 1.0 26B parameter Mixture-of-Experts (MoE) large language model Finesse 1.0 Non auto-regressive speech synthesis engine supporting multilingual TTS in 60+ languages Forge 1.0 SOTA video editing model for object, character and environment swapping Prompt-Powered Creation Cut weeks to seconds with prompt-driven Flam generation with our AI models Cut weeks to seconds with prompt-driven Flam generation with our AI models Enter a prompt ··· Create an interactive ad for a perfume. Surreal, realistic, rocks, 3D render Text Node 1:1 1K Direction 1 ··· Image Node 1:1 1K Direction 2 ··· Image Node 1:1 1K Text Image Layers Audio 3D Motion Edit Node Undo Redo | Zoom Out Zoom In Reset Zoom | Layers Styles Omni-channel distribution for massive scale to create Flams from text & images Omni-channel distribution Integrate and distribute over any channel Web Embed Seamless Native Integration Embed your visual agent directly into your website with a simple snippet. LINK Access via Sharable Links Distribute your Flam through a link that launches across digital ads, social media, SMS, emails. CODES Launch with Flam Codes Add Flam code to your physical distribution channels like outdoor ads, CTV, Retail store, events Powering the next wave of content\n\n[https://flamapp.ai/en-US/blog/series-b]\nSeries B $40M Led by QED Investors and backed by Shah Rukh Khan Read the announcement Series B $40M Led by QED Investors and backed by Shah Rukh Khan Read the announcement English Contact Us Get Demo Series B Funding Announcement Share September 18, 2026 Flam raises $40 million in Series B led by QED Investors With over 100 enterprise customers, Flam is using its Series B to build the infrastructure for a new era of AI-powered, interactive content. Flam has raised USD $40 million in a Series B funding round led by QED Investors. The round also included Claypond Capital, Martin Chavez, Olivier Pomel, Venky Ha",
+   "email_candidates": [
+    {
+     "email": "amit@flamapp.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "9398b8500a",
+   "company": "MicroPyramid",
+   "website": "https://micropyramid.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Hyderabad, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "AI, ML, AWS, devops, reactjs, Angular, Salesforce consulting company.. Languages: Python. Topics: 2fa, ats, django, django-job-portal, django-project, job, job-portal, job-search, jobs, mfa, open-source, python, recruiting, security, sveltekit, u2f",
+   "site_text": "[https://micropyramid.com/]\nAI Agents, Modernization & MVP Development | MicroPyramid AI agents, modernization & production-ready MVPs For US startups and SMBs: experienced Python engineers who put AI agents into production on the systems you already run, upgrade aging Django and Python apps before they fall out of support, and turn prototypes into software that holds up. Book a Free Discovery Call See our work 12 + years experience 50 + projects delivered You own all code & IP “Ashwin and MicroPyramid have consistently and professionally delivered to my ever-changing specifications… quick to deliver and with in-depth knowledge of the industry.” BRIAN BERRY · OWNER, JDB TECHNOLOGY SOLUTIONS Intentport LIVE Voice & text AI agents for websites BottleCRM Open-source, self-hosted CRM DiscoveredBy Brand visibility across AI engines RunCode One-click cloud dev environments BUILT BY MICROPYRAMID · INTENTPORT, LIVE intentport.com VOICE + TEXT A concierge built and run for you A concierge for your website. Intentport Concierge talks and types with your visitors. It answers from your catalogue and policies, compares the options, books the visit, and hands your team the lead with the whole conversation behind it. Tell us about your site → See it work English العربية Русский Deutsch Nederlands Visit booked · Tue 9:30 Answered · delivery in 4 weeks Ava · Atlas concierge Checking systems… II EN ES AR DE VOICE + TEXT I need an e-bike for commuting, under $2,000. Ask, or tap to talk… CONNECTED TO THE BUSINESS SYSTEMS Catalogue Inventory · ERP Calendar CRM Illustration: Intentport's own site with its concierge running. The conversation is an example. What We Do Best Most teams start with one of these three. We still build web, mobile and SaaS products end to end: see all services . 01 / 03 AI Agents in Production Agents that do real work inside the systems you already run: your app, your CRM, your documents. Built with evaluations, audit trails and cost controls, so they hold up after the pilot. First step: Agent Pilot Sprint 02 / 03 Modernization & Upgrades Upgrade aging Django, Python and cloud infrastructure before it falls out of support, without a risky rewrite. Tests go in first, then the upgrade, then a cutover you can roll back. Performance and cloud cost get fixed along the way. First step: Upgrade Assessment 03 / 03 Prototype to Production Built a prototype with Lovable, Bolt, Cursor or a freelancer? We make it production-grade: security, data access rules, tests, monitoring and an architecture that can grow. Or we build the MVP properly from day one. First step: Production-Readiness Audit Who We Work With We don't work with everyone. We work best with these four types of teams. SMB SaaS Companies You have a live product and a backlog your team cannot get through. You need experienced technical judgment without growing headcount. Support-Heavy Businesses You have a large docs, FAQ, or ticket footprint. A RAG-based assistant can answer common questions from your own knowledge base, with citations, and hand the rest to your team. Django & Python Products Your product is built on Django or Python and needs modernization, a performance overhaul, a security audit, or rescue from accumulated technical debt. Startups With Traction You have early validation and need a long-term technical partner for the next stage, someone accountable, not just a pair of hands. How We Engage We don't lead with open-ended retainers. Every engagement starts with a focused, fixed-scope first step: low risk and a clear deliverable. Agent Pilot Sprint For AI Agents in Production One workflow built and running on your own data An evaluation set that measures accuracy before launch Cost per task and a production rollout plan Upgrade Assessment For Modernization & Upgrades Version, dependency and end-of-life audit An upgrade path with test gaps and risks called out A cost and speed review of your cloud bill and slowest pages Production-Readiness Audit For Prototype ",
+   "email_candidates": [
+    {
+     "email": "hello@micropyramid.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "ashwin@micropyramid.com",
+     "where": "GitHub commits (micropyramid)",
+     "kind": "personal",
+     "name": "Ashwin Kumar",
+     "commits": 27
+    },
+    {
+     "email": "kamil.turek@hotmail.com",
+     "where": "GitHub commits (micropyramid)",
+     "kind": "personal",
+     "name": "Kamil Turek",
+     "commits": 6
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "3246c27ad0",
+   "company": "Bison Infosolutions",
+   "website": "https://bison.co.in",
+   "title": "Computer Hardware & Network Engineer",
+   "location": "West Delhi",
+   "source": "unstop",
+   "posted_at": "2026-10-10T11:22:01Z",
+   "posting": "About the Company Bison Infosolutions is building dependable technology solutions and supporting businesses with practical, responsive IT services. The company values stable infrastructure, thoughtful troubleshooting, strong documentation, and professional support that keeps teams productive. Responsibilities Monitor network and system performance, maintain asset and service records, and document recurring issues and their solutions. Provide clear technical assistance to employees and explain solutions in a professional, user-friendly manner. Install, configure, maintain, and troubleshoot desktops, laptops, printers, operating systems, and related hardware. Set up and support wired and wireless networks, routers, switches, access points, and basic network security controls. Diagnose hardware failures, connectivity issues, operating system errors, and user access problems, resolving incidents within agreed timelines. Coordinate with vendors for repairs, replacements, warranties, and installation support when required. Requirements Relevant experience in computer hardware maintenance, desktop support, network administration, or infrastructure operations. Practical knowledge of Windows environments, computer assembly, peripheral devices, LAN/WAN concepts, TCP/IP, DNS, DHCP, and common connectivity troubleshooting. Ability to work methodically, prioritize support requests, and maintain accurate technical documentation. Strong communication, problem-solving, and customer-service skills. The role is based in New Delhi and follows a full-time, in-office work arrangement. Compensation: ₹20,000–₹25,000 per month. This is a full-time opportunity for a hands-on professional who can help maintain reliable hardware and network operations.",
+   "site_text": "[https://bison.co.in/]\nBison Infosolutions | IT Solutions & BISON SOFT Skip to content Strength in Technology. Excellence in Service. Sales: +91 92125 22725 Menu ☰ YOUR BUSINESS. OUR TECHNOLOGY EXPERTISE. IT that works. Support that stays. Bring your software, cloud and IT infrastructure together with a technology partner who understands your business. Explore our solutions ↗ Talk to Bison → Software licensing / Cloud services / IT support INTRODUCING BISON SOFT Small tools. Everyday impact. Meet the tools and software built by Bison to make everyday tasks easier. FREE WINDOWS SOFTWARE Bison Browser Process Kill Discover BISON SOFT ↗ Platforms we help your business work with 01 / BUSINESS SOLUTIONS The right technology. The right people behind it. Choose the software and services you need, with guidance from setup through ongoing support. TallyPrime Accounting software, licensing, renewals and implementation support. Explore solution ↗ BUSY Accounting Licensing and deployment for your business accounting and inventory. Explore solution ↗ Google Workspace Business email, collaboration and administration for your team. Explore solution ↗ Cloud hosting Access Tally and BUSY remotely with hosting tailored to your requirements. Explore solution ↗ Backup & recovery Protect business data with cloud backup and recovery planning. Explore solution ↗ Server AMC & care Lenovo server coverage, maintenance and infrastructure support. Explore solution ↗ 02 / DEVELOPED BY BISON BISON SOFT Practical tools and software, brought together in one place. Find a utility for today and discover what comes next. Browse BISON SOFT ↗ 01 / BY BISON Free Tools ↗ 02 / BY BISON Paid Tools ↗ 03 / BY BISON Free Software ↗ 04 / BY BISON Paid Softwares ↗ 03 / THE BISON APPROACH Understand your business. Then build the solution. From a single office to a growing team, we help you choose, deploy and maintain technology that fits the way you work. Get to know Bison → 01 Listen & assess Start with your workflows, priorities and existing systems. 02 Implement with care Connect licensing, setup and deployment into a practical plan. 03 Stay involved Support, maintenance and renewals keep your technology manageable. LET’S TALK What does your business need next? Discuss a new requirement, renewal or support request with our team. Contact Bison ↗\n\n[https://bison.co.in/about.php]\nAbout Bison Infosolutions Skip to content Strength in Technology. Excellence in Service. Sales: +91 92125 22725 Menu ☰ ABOUT BISON Technology expertise. A commitment to service. Bison Infosolutions brings business software, cloud services and IT support together for individuals, SMEs and growing enterprises across India. WHO WE ARE A practical partner for your everyday IT. We support the technology behind your business: computers and servers, licensed software, email, cloud hosting, networks and data protection. Our work starts with understanding your requirements. We recommend a suitable solution, help put it in place and provide support as your needs change. Our work, at a glance Software licensing, renewals and implementation Cloud hosting, backup and collaboration Hardware procurement and infrastructure support Annual maintenance and server care BISON SOFT tools and software development OUR FOUNDER Balvinder Singh Bison Founder, Bison Infosolutions Balvinder leads Bison with a focus on practical technology, responsible advice and dependable service. His experience spans IT, literature and social service. Our guiding principle remains: Strength in Technology, Excellence in Service. LET’S TALK What does your business need next? Discuss a new requirement, renewal or support request with our team. Contact Bison ↗\n\n[https://bison.co.in/contact.php]\nContact Bison Infosolutions Skip to content Strength in Technology. Excellence in Service. Sales: +91 92125 22725 Menu ☰ CONTACT BISON Let’s talk about your next requirement. Speak to our team about software, cloud services, renewals or technical support",
+   "email_candidates": [],
+   "pay": {
+    "period": "month",
+    "min": 20000,
+    "max": 25000
+   },
+   "priority": 1,
+   "priority_note": "Delhi · ₹25,000/mo"
+  },
+  {
+   "id": "97672ee684",
+   "company": "InterviewReady",
+   "website": "https://interviewready.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "Hyderabad, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We upskill technical professionals so they can build production-grade AI applications.. Languages: Java, JavaScript, TypeScript. Topics: ai, cache, fault-tolerance, llm, scalability, system-design, transformer",
+   "site_text": "[https://interviewready.io/]\nInterviewReady | System Design & AI Engineering Courses Sign in Start Prep Interview Scheduled? We will help you crack it. Under pressure, you don't rise to the occasion. You fall to the highest level of preparation. Start Prep Enroll Now Student testimonials 5+ Years active Learners joined Videos watched Trusted by Engineers at top tech companies Job Relevant Courses Our courses are designed for working professionals looking to build real-world engineering capabilities. AI Mock Interviews Make the real interview feel familiar. 45-minute system-design simulation 45-minute coding simulation 30-minute behavioral simulation Launch AI Mock Interview 360 Interview Preparation Specialized courses on software engineering that help learn, practice and ace interviews. Trusted by over 26,000 engineers. Used By Engineers Worldwide View All Testimonials Helped me improve my engineering skills and think of the bigger picture. Maybe keep the pdfs of all chapters at the beginning? Bhavya Ratra Software Engineer at Airboxr I like to revise the InterviewReady course every week. I maybe addicted now! Himanshu Sawarkar Technical Lead at Infinite Computer Solutions Overall, an informative course with interesting topics and in-depth explanation in a short amount of time. Shalin Shah Software Engineer at Grab, Singapore There is a good list of content that is easy to understand and well-explained. Raj Kumar Maurya Full Stack Developer The videos were really helpful to understand not just the basics but the complicated system design architectures also. Devashish Nyati Software Engineer at Google Doing this course helped me increase my knowledge related to how systems really work and make them more efficient. With this course I cracked ServiceNow! Varun Manchandani Software Engineer at ServiceNow Frequently Asked Questions Everything you need to know about the product and billing. Are the courses for Software Engineers? How is the content different from the free resources available on the Internet? Where can I resolve my doubts? What will happen at the end of this course? What should I know before I start? Start Preparing for your Dream Job today! The most comprehensive Interview prep platform ever built Start Prep Enroll Now\n\n[https://interviewready.io/blog]\nSystem Design & Distributed Systems Blog | InterviewReady Sign in Start Prep Our blog System Design & Distributed Systems Blog Read by engineers from Most Recent Most Liked Vector Databases vs. Relational Databases: Key Differences and Use Cases What are the key differences between vector databases and relational databases? This blog looks at their unique features, use cases, and limitations to help you choose the right database. Gaurav Sen Dec 11, 2024 · 2 min read Scaling Memcached to 1,000,000,000 QPS - Replication vs. Data Sharding When scaling out caches or database servers, we need to decide how to spread out our data. Should we spread it into separate shards, or club them together in replicas? In this blog, we learn the diffe... Gaurav Sen Oct 25, 2024 · 3 min read System Design of a ticket booking system How does a ticket booking system manage thousands of concurrent requests to different events in real time? This blog explains how booking systems ensure exactly-once consistency guarantees with differ... Gaurav Sen Sep 21, 2024 · 4 min read Pass or Fail: How are technical interviews scored? This is how interviewers score software developers during interviews, on coding, problem-solving and communication. Gaurav Sen Aug 28, 2024 · 2 min read Google's PlanetScale Tracing System - Dapper Dapper is Googles engineering solution to the problem of - How do we trace petabytes of request data generated every day. This blog dives into what Dapper offers, and why it is an engineering marvel. Gaurav Sen Jul 21, 2024 · 3 min read System Design Components Cheatsheet This is a table of system design components and their corresponding example technologies. This table comes i",
+   "email_candidates": [
+    {
+     "email": "contact@interviewready.io",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "eede782255",
+   "company": "PolyMage Labs",
+   "website": "https://www.polymagelabs.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Code and library generation infrastructure for ML/AI and HPC. Languages: C++, Python",
+   "site_text": "[https://www.polymagelabs.com/]\nHome: PolyMage Labs - Compilers for Artificial Intelligence Home Technology PolyBlocks Code Transformations PolyBlocks Performance PolyBlocks Documentation Expertise Engaging with us Testimonials Team Career Contact slide1 slide-2 slide-3 slide-4 slide-5 slide-6 PolyMage Labs is a deep-technology software startup building advanced compilers and code generators to accelerate computations from the domain of Artificial Intelligence. We enable AI programming frameworks and languages to effectively target and exploit high-performance AI hardware. PolyMage Labs was incubated as a startup by the Foundation for Science Innovation and Development (FSID) (SID) at the Indian Institute of Science (IISc). It is recognized as a startup as part of the Startup India initiative of the Government of India. Technologies PolyBlocks Documentation arXiv paper on Polyblocks Twitter Feed IN THE PRESS We’re building an open software ecosystem for advanced AI hardware, accelerated by our partnership with Polymage on a state-of-the-art AI compiler Tenstorrent Inc. Jan 2026 Polymage Labs ties up with US-based Tenstorrent to develop AI compiler The Week Jan 2026 This IISc-Incubated Startup Offers Compiler Building Blocks For AI Analytics India Mag Feb 2021 Interview with EE Times at HiPEAC 2026 TESTIMONIALS Tenstorrent is committed to providing an easy-to-use software ecosystem, and our collaboration with Polymage Labs is a giant leap forward. Seeing unmodified PyTorch code fully compiled for Tenstorrent devices and run effortlessly with near-peak performance on our hardware is a big win for developers. Our joint work directly addresses one of the hardest problems in AI hardware and makes our platform significantly more accessible. Stan Sokorac, Senior Fellow, AI Hardware & Software at Tenstorrent Inc. Dec 2025 The Polymage and Tenstorrent teams have built a state-of-the-art AI compiler for Tenstorrent hardware with advanced code-generation and optimization capabilities. Nick Smith, Senior Principal Engineer at Tenstorrent Inc. Dec 2025 We partnered with PolyMage Labs to solve core compiler technical challenges together using MLIR and its polyhedral abstractions. PolyMage Labs, with its unique and internationally recognized leading expertise in compiler infrastructure for ML/AI, was able to obtain highly promising results in a short period of time. Sean Lie (Co-Founder, Chief Hardware Architect, Cerebras Systems Inc.) Nov 2020 Get in touch info@polymagelabs.com Contact Us EPF Form 5A Follow us linkedin twitter © 2026 PolyMage Labs Scroll Up MENU Home Technology PolyBlocks Code Transformations PolyBlocks Performance PolyBlocks Documentation Expertise Engaging with us Testimonials Team Career Contact\n\n[https://www.polymagelabs.com/people-all/]\nTeam: PolyMage Labs - Compilers for Artificial Intelligence Home Technology PolyBlocks Code Transformations PolyBlocks Performance PolyBlocks Documentation Expertise Engaging with us Testimonials Team Career Contact Team The team that drives our technology Uday Bondhugula Founder, CEO, and CTO Uday Bondhugula Founder, CEO, and CTO Uday Bondhugula is the founder, CEO, and CTO at PolyMage Labs and a professor of computer science at the Indian Institute of Science (IISc) , in Bangalore, India. His research interests lie in the areas of high-performance computing, compilers, polyhedral framework, automatic parallelization, and high-performance systems/accelerators for deep learning and artificial intelligence. He received his Ph.D. from the Ohio State University in 2008 and his Bachelor’s in Computer Science from the Indian Institute of Technology, Madras, in 2004. He is the original author and maintainer of Pluto , a source-to-source loop parallelization and optimization tool based on the polyhedral framework. He recently received the ACM SIGPLAN Most Influential Paper award for his PLDI 2008 paper on polyhedral optimization for parallelism and locality. As a visiting researcher at the Goo",
+   "email_candidates": [
+    {
+     "email": "info@polymagelabs.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "uday@polymagelabs.com",
+     "where": "https://www.polymagelabs.com/people-all/",
+     "kind": "personal"
+    },
+    {
+     "email": "careers@polymagelabs.com",
+     "where": "https://www.polymagelabs.com/people-all/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "9e7c3f961b",
+   "company": "Codebrahma",
+   "website": "https://codebrahma.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We build Reactive frontends (React & React Native). Languages: JavaScript, Rust, TypeScript",
+   "site_text": "[https://codebrahma.com/]\nBest ReactJS and React Native Consultancy in Bay Area Codebrahma Work Process FAQ Blog Contact We build your React & React Native frontend We take your design files & api docs. And give you a fast mobile and browser app. You focus on your backend business logic! React & React Native We have been building on React / React Native for 8 years now, and we absolutely love its declarative and functional philosophy. We strongly believe that a good react codebase is conducive for rapid UI iteration Our Featured Work Rippling Codebrahma built the complete browser and mobile app for this fast growing Parker Conrad startup, currently valued at $250 million Serverless Codebrahma helped serverless implement their new design in Gatsby, in a sharp deadline for press release date More work WE ARE ALL EARS Whether it's a code review or a project, that you want to discuss or just want to say hello, We would love to hear from you. We cordially welcome your ideas, suggestions, and reviews regarding our work.\n\n[https://codebrahma.com/blog]\nLatest Blog Posts | Codebrahma Codebrahma Work Process FAQ Blog Contact Latest Blog Posts How to Secure API Keys in React Apps Web Security \"Learn essential strategies to secure API keys in React applications to prevent unauthorized access and data breaches.\" # best-practices # security # web-development Read Post ReactJS Custom Hooks for Event Handling Web Development \"Learn how to create custom ReactJS hooks for event handling, improving code reusability, performance, and maintenance.\" # best-practices # performance # web-development Read Post ReactJS Event Handling: Best Practices Web Development \"Learn best practices for event handling in ReactJS, from synthetic events to performance optimizations and custom hooks for efficient interaction management.\" # best-practices # performance # web-development Read Post Atomic Design: React Component Structure Guide Web Development \"Learn how to structure your React components using Atomic Design principles for better organization, reusability, and scalability.\" # best-practices # performance # web-development Read Post ESLint Setup for React Projects: Step-by-Step Web Development \"Learn how to set up ESLint in React projects step-by-step to ensure code quality, catch errors early, and enforce best practices.\" # best-practices # performance # web-development Read Post React State Management: Core Concepts Web Development \"Explore essential concepts of React state management, including local and global state, built-in tools, and best practices for efficient applications.\" # best-practices # performance # web-development Read Post React Mouse Event Handling: Best Practices, Tips & Examples Web Development \"Discover best practices for handling mouse events in React, including performance tips, common mistakes, and advanced techniques for interactivity.\" # best-practices # performance # web-development Read Post Publish Expo React Native App to App Stores Web Development \"Learn how to publish your Expo React Native app to app stores with this comprehensive guide covering preparation, building, and submission.\" # best-practices # mobile # web-development Read Post older posts › oldest posts »\n\n[https://codebrahma.com/contact]\nContact Us – Get in Touch With Us Codebrahma Work Process FAQ Blog Contact Contact Mail : hello@codebrahma.com Phone : +1 484 506 0634 or drop in for some Green Tea 156 2nd Street, San Francisco Or leave us a msg :)",
+   "email_candidates": [
+    {
+     "email": "anand@codebrahma.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "hello@codebrahma.com",
+     "where": "https://codebrahma.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "asaran234@gmail.com",
+     "where": "GitHub commits (codebrahma)",
+     "kind": "personal",
+     "name": "asaran97",
+     "commits": 32
+    },
+    {
+     "email": "kamesh@codebrahma.com",
+     "where": "GitHub commits (codebrahma)",
+     "kind": "personal",
+     "name": "Kameshwaran Sachithanantham",
+     "commits": 25
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "4150cf13e6",
+   "company": "Rigi",
+   "website": "https://rigi.club",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Create.Share.Earn. Languages: TypeScript. Topics: aws, cdk, cdn, cloudfront, cloudfront-functions, edge, image-processing, image-transformation, lambda, sharp, terraform",
+   "site_text": "[https://rigi.club/]\nRigi TV - Instant Entertainment Instant Entertainment, Anytime, Anywhere! Quick, captivating, and endlessly scroll-worthy content at your fingertips. Download Now Operation Thunder GENRES Suspense WATCH Dilwala Bodyguard GENRES Romance, Drama WATCH Badle Ka Khel GENRES Thriller, Drama WATCH Miss Raichandâs Secret Love GENRES Thriller, Drama WATCH Ex Se Inteqaam GENRES Thriller, Drama WATCH Dead Wife Is Online GENRES Thriller, Drama WATCH Mera Husband: Hero Ya Fraud? GENRES Romance WATCH SERIES YOU MUST WATCH Badle Ka Khel 1000 Crore Ki Galti Bandra Boy Show me Love Dilwala Bodyguard Ex se Inteqaam Meri Biwi Gold Digger\n\n[https://rigi.club/about-us]\nRigi TV - About Us What We Do? Rigi TV brings you a nonstop stream of quick, captivating, and scroll-worthy videosâperfect for instant entertainment anytime, anywhere. Designed to hook and uplift, it's your daily dose of fun, right at your fingertips. ð¥ð±",
+   "email_candidates": [
+    {
+     "email": "swapnil@plaza.club",
+     "where": "job posting",
+     "kind": "other"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "91933fcef1",
+   "company": "Preimage",
+   "website": "https://preimage.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "3D Reconstruction Cloud Platform. Languages: C++, JavaScript, Python, TypeScript",
+   "site_text": "[https://www.preimage.ai/]\nPreimage - 3D AI for the Built World Capture, Build & Track Smarter Preimage turns 360° videos and drone footage into detailed, measurable 3D spaces you can explore, analyze, and share. Whether you're building, renovating, selling, or managing sites, Preimage's 3D models & AI analytics help teams reduce site visits, track progress, and maintain accurate, up-to-date site documentation, all from a single platform. Try It Yourself Explore Solutions Put the Power of Preimage in Action Capture, visualize, and analyze in 3D on the Preimage Platform. Try it Now Trusted By 100+ organizations across the world 360° to 3D Virtual Tours & Street View Seamlessly navigable, beautiful 3D tours with spatial awareness & measurements Learn More Site Visual Progress Analytics Analyze site conditions through measurable 3D scans, comparisons, and AI reports. Learn More Aerial Photogrammetry & 3D Mapping Accurate maps and analytics for large sites using drone photogrammetry & Lidar Learn More As-Builts, Surveys, BIM & GIS Analytics BIM, CAD, and GIS outputs & analytics in industry-standard formats Learn More Our Products Unlock new possibilities in architecture, design, construction, and real estate with Preimage’s AI-powered 3D capture and virtual walkthrough platform. From rapid documentation, analytics to immersive collaboration, our tools deliver measurable efficiency and actionable insights. Request a Demo Explore Solutions Our Investors Industries and Use Cases Discover how Preimage powers a wide range of industries—from construction and interior design to property digitization and visual documentation. Our versatile platform adapts seamlessly to diverse workflows, enabling faster, smarter decisions across the built world. Sales & Marketing Insights Boost property visibility and engagement with virtual tours and viewer analytics to provide rich, data-driven presentations for prospective buyers and stakeholders. Learn More Urban Planning & Surveys Enable efficient urban development and infrastructure projects with drone-based surveys, 3D mapping, and GIS insights to support zoning, planning, and smart city initiatives. Learn More Progress Reporting & Visual Documentation Track construction progress and deviations from plan and schedule with 3D visualizations, timelines and comprehensive reports. Enhance facility management with visual documentation for ongoing operations. Learn More Property Digitization Convert physical spaces into accurate digital models with 3D scanning and point cloud technology, enabling seamless asset management, design, property inspections, and building renovations. Learn More Interior Design Create stunning visualizations and precise as-built models for interior design projects using high-quality 3D scans. Streamline workflows, enhance client engagement, and align stakeholders with accurate spatial data and custom layouts. Learn More Engineering Services Enhance your workflows with custom-built 3D solutions tailored to your use case, our GIS solutions and compliance reports enhance infrastructure management, accuracy, and collaboration. Learn More Construction Optimize construction workflows with land surveys, progress tracking, and seamless BIM integration for efficient planning, design, and on-site execution. Learn More Commercial Real Estate Enhance planning and operations of commercial properties like offices, retail spaces, hotels, data centers, and industrial facilities with 3D and BIM models, drawings, and reports to ensure compliance and streamline operations. Learn More Supported By Get in Touch Request demos , give feedback, or ask away! India BHIVE Workspace, 27th Main Rd, Sector 2, HSR Layout, Bengaluru 560102 United States 16192, Coastal Highway, Lewes, DE 19958 Email hello@preimage.ai Thank you! Your message has been received! Oops! Something went wrong while submitting the form.\n\n[https://www.preimage.ai/blog]\nPreimage's Blog & Resources Preimage's Blog & Resources Stay update",
+   "email_candidates": [
+    {
+     "email": "hello@preimage.ai",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "c1a26f8e69",
+   "company": "Deva Lab",
+   "website": "https://devalab.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "Hyderabad",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Research lab | ML4Molecular Science | Computational Chemistry I AI4Healthcare. Languages: Jupyter Notebook, Python. Topics: cheminformatics, ddi, drug-discovery, drug-drug-interaction, gnn, graph-neural-network, molecular-property-prediction, pna, pytorch, pytorch-geometric, pytorch-lightning, smiles",
+   "site_text": "[https://devalab.org/]\nParked Domain name on Hostinger DNS system Registered at If this is your domain, you can manage it in your Hostinger account. Manage domain Start your online journey Build your website today Launch your business with WordPress or Website Builder using AI tools, templates, and reliable hosting. Get Web hosting Prompt your website Chat with AI to build a complete website - with CRM, booking forms, and more. Horizons handles code, design, and copy so you can launch instantly. Get Horizons Power your projects with VPS Get full control with dedicated resources. Scale apps, websites, and workloads on secure VPS hosting. Get VPS hosting Find similar domains Explore available alternatives and secure the domain that works best for your brand. Search domains Look professional with email Create a business email that matches your domain. Build your brand with a professional email address like info@example.com . Create email",
+   "email_candidates": [
+    {
+     "email": "devalab@iiit.ac.in",
+     "where": "job posting",
+     "kind": "other"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "ec40374fa2",
+   "company": "AutoVRse",
+   "website": "https://autovrse.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: C#, JavaScript, TypeScript",
+   "site_text": "[https://www.autovrse.com/]\nEnterprise VR, XR Training & AI Safety Training Platform | AutoVRse AI-Powered AR & VR Enterprise Platform AI-Powered AR & VR Enterprise Platform AI-Powered AR & VR Enterprise Platform Immersive training and field guidance for high-precision industries Immersive training and field guidance for high-precision industries Immersive training and field guidance for high-precision industries Schedule a demo Schedule a demo Trusted by 100+ companies & institutions 250+ Large scale deployments 250+ Large scale deployments 250+ Large scale deployments 100+ Enterprise customers 100+ Enterprise customers 100+ Enterprise customers 300K+ Trained workers 300K+ Trained workers 300K+ Trained workers Trusted by industry leaders, loved by modern VR trainersâ HEAVY INDUSTRY warehouse Master high-risk operations safely through immersive training scenarios. Read Case Study 40+ VR modules created 55+ Plants deployed 65K+ Workers trained in VR Trusted by industry leaders, loved by modern VR trainersâ Mastering high-risk operations safely through immersive training scenarios 40+ VR modules created 55+ Plants deployed 65K+ Workers trained in VR Read Case Study Perfect assembly operations and maintenance procedures without disrupting the production line 4 Fulfilment centres running the pilot 50+ VR modules to be deployed 1500+ Workers VR trained in less than 1 month Read Case Study Mastering high-risk operations safely through immersive training scenarios 40+ VR modules created 55+ Plants deployed 65K+ Workers trained in VR Read Case Study Perfect assembly operations and maintenance procedures without disrupting the production line 4 Fulfilment centres running the pilot 50+ VR modules to be deployed 1500+ Workers VR trained in less than 1 month Read Case Study Mastering high-risk operations safely through immersive training scenarios 40+ VR modules created 55+ Plants deployed 65K+ Workers trained in VR Read Case Study Perfect assembly operations and maintenance procedures without disrupting the production line 4 Fulfilment centres running the pilot 50+ VR modules to be deployed 1500+ Workers VR trained in less than 1 month Read Case Study Mastering high-risk operations safely through immersive training scenarios 40+ VR modules created 55+ Plants deployed 65K+ Workers trained in VR Read Case Study Perfect assembly operations and maintenance procedures without disrupting the production line 4 Fulfilment centres running the pilot 50+ VR modules to be deployed 1500+ Workers VR trained in less than 1 month Read Case Study Trusted by industry leaders, loved by modern VR trainersâ HEAVY INDUSTRY warehouse Master high-risk operations safely through immersive training scenarios. Read Case Study 40+ VR modules created 55+ Plants deployed 65K+ Workers trained in VR Traditional training is broken Traditional training is broken Traditional training is broken The modern enterprise is plagued with challengesâeven traditional VR training companies canât solve a few of them The modern enterprise is plagued with challengesâeven traditional VR training companies canât solve a few of them The modern enterprise is plagued with challengesâeven traditional VR training companies canât solve a few of them Passive learning just doesnât work Passive learning just doesnât work Modern tools and procedures are too complex for traditional training; manuals and videos don't build real skills. Modern tools and procedures are too complex for traditional training; manuals and videos don't build real skills. Some machines never shut down Some machines never shut down Can't stop production for training. Can't risk mistakes on critical equipment. Can't scale expert knowledge fast enough Can't stop production for training. Can't risk mistakes on critical equipment. Can't scale expert knowledge fast enough A global workforce needs local solutions A global workforce needs local solutions Need to deliver consistent training across locations, la",
+   "email_candidates": [
+    {
+     "email": "development@autovrse.in",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "email@gmail.com",
+     "where": "https://www.autovrse.com/resources/blogs",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  }
+ ]
+}

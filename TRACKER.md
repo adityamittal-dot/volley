@@ -1,18 +1,19 @@
 # Tracker
 
-_Updated 2026-10-09T19:35:55Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-12T06:45:12Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
 **Emailed:** 174 · **Sent:** 174 · **Replies:** 19 (11%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
-| new | 286 |
+| new | 251 |
 | skipped | 2 |
-| no_contact | 626 |
+| no_contact | 700 |
 | low_fit | 377 |
-| sent | 75 |
-| followup_1 | 59 |
-| followup_2 | 12 |
+| researching | 75 |
+| sent | 18 |
+| followup_1 | 70 |
+| followup_2 | 58 |
 | replied | 19 |
 | bounced | 9 |
 
@@ -77,8 +78,8 @@ _Updated 2026-10-09T19:35:55Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-08 | nighthack | careers@nighthack.in | medvault | sent |
 | 2026-10-08 | GattyWorks | hello@gattyworks.com | canopy | replied |
 | 2026-10-08 | DeepKlarity | info@deepklarity.com | medvault | sent |
-| 2026-10-07 | BetterBasket | founders@betterbasket.ai | canopy | sent |
+| 2026-10-07 | BetterBasket | founders@betterbasket.ai | canopy | followup_1 |
 | 2026-10-07 | Pocket | hey@heypocket.com | medvault | replied |
-| 2026-10-07 | Moonset Health | hello@moonsethealth.com | medvault | sent |
-| 2026-10-07 | Avent | careers@aventindustrial.com | medvault | sent |
-| 2026-10-07 | Hyperspell | david@hyperspell.com | canopy | sent |
+| 2026-10-07 | Moonset Health | hello@moonsethealth.com | medvault | followup_1 |
+| 2026-10-07 | Avent | careers@aventindustrial.com | medvault | followup_1 |
+| 2026-10-07 | Hyperspell | david@hyperspell.com | canopy | followup_1 |

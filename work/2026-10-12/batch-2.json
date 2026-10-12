@@ -1,0 +1,340 @@
+{
+ "leads": [
+  {
+   "id": "f0fe8f4726",
+   "company": "Exotel",
+   "website": "https://exotel.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Java, JavaScript, TypeScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "opensource@exotel.in",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "6014b77acb",
+   "company": "Reverie Language Technologies",
+   "website": "http://www.reverieinc.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Go Multilingual With Reverie Language Gateway. Languages: Go, JavaScript, Kotlin, Python, Swift",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "infra@reverieinc.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "44a2ca3182",
+   "company": "Probots",
+   "website": "https://www.probots.co.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Sai Plaza, #28 & 33, 1st, Outer Ring Rd, Naagarabhaavi, Bengaluru, Karnataka 560091",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Embedded Electronics. Languages: C++, TypeScript",
+   "site_text": "[https://probots.co.in/]\nProbots - Largest DIY Electronics, Robotics & Engineering Parts Buy Online Store Buy Online India The store will not work correctly when cookies are disabled. Skip to Content Sign In Create an Account Toggle Nav My Cart (+91) 8929839098 info@probots.co.in Compare Products ☰ SHOP ALL CATEGORIES Enclosures & Cases SBC & Dev Boards Wireless & IoT Sensors Robotics & Drones Blog About Us Services Contact Us Shop by Category Embedded Engineering Design | R&D | Prototype | Production We offer Specialised Design Services Agile Turnkey Project Development Contact Us ProMax Industrial Electronics IP65 Switches with Indicator Lights Signal Generators and Measuring Tools Sensors & Controllers Partner for your Electrical Manufacturing Projects Order Online Rapid Prototyping Tools Kick Start your Next Electronics Prototype with the latest Development & Evaluation Boards - Arduino, Raspberry Pi, NodeMCU, Sipeed FPGAs. Online Store Electronics Development End to End Turnkey Projects Experience in Wireless, IoT & AI Devices Microcontroller Firmware Development CONTACT US Order Online DIY Electronics Modules Every Part for your Next Electronics Project 100+ Development Boards 500+ Sensors Modules 100+ Motor Drivers 100+ BLE WiFi Boards Top Quality Tools & Equipment Shop Online for the Latest Electronics Tools Soldering Stations, Multimeters Oscilloscopes Workbench Tools Benchtop Power Supplies Crimping Tools & Dies Circuit & PCB Designing Contract Manufacturing Firmware Development End to End Turnkey Projects ARDUINO & RASPBERRY PI Official Raspberry Pi AI HAT+ 13 TOPS ₹9,749.00 ₹ 8261.86 + 1487.13 GST As low as ₹9,359.04 ₹ 7931.39 + 1427.65 GST Add to Compare Official Raspberry Pi AI HAT+ 26 TOPS ₹14,999.00 ₹ 12711.02 + 2287.98 GST As low as ₹14,399.04 ₹ 12202.58 + 2196.46 GST Add to Compare EasyCAP USB 2.0 Audio Video Capture Adapter RCA to USB Converter ₹349.00 ₹ 295.76 + 53.24 GST As low as ₹321.08 ₹ 272.1 + 48.98 GST Add to Compare Waveshare Raspberry Pi 5 UPS Module 5V 6A Power Expansion Board Uninterruptible Power Supply ₹4,599.00 ₹ 3897.46 + 701.54 GST As low as ₹4,369.05 ₹ 3702.58 + 666.46 GST Add to Compare 52 PI Raspberry Pi 5 Active Cooler with 5mm Copper Heat Pipe and PWM Fan ₹3,699.00 ₹ 3134.75 + 564.26 GST As low as ₹3,514.05 ₹ 2978.01 + 536.04 GST Add to Compare Argon ONE V3 M.2 NVMe PCIe Aluminum Case for Raspberry Pi 5 with Active Cooling ₹7,559.00 ₹ 6405.93 + 1153.07 GST As low as ₹7,181.05 ₹ 6085.64 + 1095.42 GST Add to Compare Dual NVMe SSD & AI Accelerator DIY Building Kit Case for Raspberry Pi 5 ₹12,599.00 ₹ 10677.12 + 1921.88 GST As low as ₹11,969.05 ₹ 10143.26 + 1825.79 GST Add to Compare Raspberry Pi 5 Aluminum Alloy U-Shaped Heat Pipe CPU Cooler Case Kit ₹6,669.00 ₹ 5651.69 + 1017.3 GST As low as ₹6,335.55 ₹ 5369.11 + 966.44 GST Add to Compare Argon NEO 5 M.2 NVMe PCIe Case for Raspberry Pi 5 - Aluminum Enclosure with Active Cooling & NVMe Support ₹6,365.00 ₹ 5394.07 + 970.93 GST As low as ₹6,046.75 ₹ 5124.36 + 922.38 GST Add to Compare Geekworm X1202-C1 Metal Case for Raspberry Pi 5 & X1202 UPS Shield ₹2,649.00 ₹ 2244.92 + 404.09 GST As low as ₹2,437.08 ₹ 2065.32 + 371.76 GST Add to Compare Order Electronics Parts Online The Latest Microcontrollers, Sensors , Components, Tools and more 10,000+ SKUS Ready to Ship thorughout India Plastic Enclosure, Boxes & Cases for Electronics POSINA 12 Way Modular Electrical Distribution Box with Transparent Door ₹899.00 ₹ 761.86 + 137.13 GST Add to Compare POSINA 8 Way Modular Electrical Distribution Box ₹749.00 ₹ 634.75 + 114.26 GST As low as ₹689.08 ₹ 583.97 + 105.11 GST Add to Compare POSINA 6 Way Electrical Distribution Enclosure ₹499.00 ₹ 422.88 + 76.12 GST As low as ₹459.08 ₹ 389.05 + 70.03 GST Add to Compare IP65 Waterproof 75x50x30mm Electronic opaque Top Enclosure ₹179.00 ₹ 151.69 + 27.3 GST As low as ₹171.84 ₹ 145.63 + 26.21 GST Add to Compare IP65 Waterproof 75x50x30mm Electronic Transparent Enclosure ₹199.00 ₹ 168.64 + 30.36 GST As low as ₹183.0",
+   "email_candidates": [
+    {
+     "email": "pratheekn91@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "info@probots.co.in",
+     "where": "https://probots.co.in/",
+     "kind": "generic"
+    },
+    {
+     "email": "contact@domain.com",
+     "where": "https://probots.co.in/",
+     "kind": "generic"
+    },
+    {
+     "email": "pratheek@probots.co.in",
+     "where": "https://probots.co.in/contact",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "82386fd416",
+   "company": "Velocity",
+   "website": "https://velocity.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: CSS, JavaScript, Python",
+   "site_text": "[https://www.velocity.in/]\nVelocity | eCommerce Growth Platform for D2C Brands in India Signup Add Velocity to your eCommerce brand's growth We empower bold, digital-first brands with cutting-edge products across smart capital, fast logistics, hassle-free payments, and innovative AI-powered products. Apply Now Join 5,000+ D2C brands growing with Velocity POWERING INDIA'S FASTEST GROWING ECOMMERCE BRANDS AND SELLERS Products that accelerate your brand’s growth Products to boost your e-commerce growth We’ve built high-performance products for exponential growth, so ambitious eCommerce founders can scale faster, operate smarter, and grow sustainably. Finance Raise up to ₹10 cr in 4 days Explore Card Up to 50 days of credit period, with 5x higher limits Explore Shipping Ship your products with confidence and speed Explore Vani AI Put all customer interactions on autopilot by deploying AI agents Explore Insights Make data-driven decisions for your eCommerce brand Explore We partner with select, fast-growing, performance-driven businesses and help them scale 84% Customer Satisfaction 1.6x Growth within 6 months of funding ₹1500Cr+ Funds disbursed 78% Repeat CustomeRS 5000+ D2C brands and eCommerce sellers Who do we work with? Ambitious founders We look for visionary founders with the hunger to grow, make bold decisions, and redefine categories. Digital-first businesses Velocity is purpose-built for digital-first businesses with a strong online presence and sizable online revenues. Customer-led brands We love working with brands obsessed with product excellence and customer delight. Adoption Mindset Our products are best suited for brands who are open to new technological advancements. our offerings We have something for everybody Term Loans Scalable terms loans with fixed monthly repayments. Best suited for businesses with Predictable Cashflow Overdraft A line of credit that is available on demand. Best suited for businesses with Ad Hoc Capital Requirement Revenue based financing Flexible financing with repayments linked directly to your revenues. Best suited for businesses with Variable Cashflow our customers Who is it for? D2C brands and ecommerce sellers. Any platform — Shopify, WooCommerce, Amazon or your own stack. eCommerce brands Finance your marketing, inventory, and cash cycle while you scale, and ship smarter and reduce RTOs. SaaS Power your infrastructure, customer acquisition, and recurring revenue scale with flexible working capital. Edtech Fund course creation, expand outreach, and automate student support with capital and AI voice tools. Restaurants Support new outlet launches, delivery logistics, and staff costs with capital, and improve order confirmations. Why choose Velocity? We obsess over how to help your business grow as much as you do. With Velocity, you get access to innovative products and an exclusive ecosystem created specifically to support your growth! SPEED Operate at lightning fast speed with Velocity’s products CONVENIENCE The convenience you deserve with our flexible solutions DATA ANALYTICS Insights & intelligence for better control over your business products ECOSYSTEM Leverage an ecosystem of partners to further unlock growth SPEED Operate at a lightning-fast speed Swift access to financing in under 4 days Fastest shipping for your brand powered by intelligent systems Lightning-fast support from a dedicated account manager “Velocity is the partner you can rely on as your business scales up. We were able to close the funding within 72 hours with them. Amazing team to work with.” Amit Sarda Soulflower CONVENIENCE The convenience and flexibility you deserve Completely digital process throughout your end-to-end financing process Simplified shipping operations Manage multiple couriers from one dashboard, backed by a dedicated account manager and proactive support team. Growth capital that scales through tailored financing solutions and smart payment apps \" Velocity's prompt and reliable financial assis",
+   "email_candidates": [
+    {
+     "email": "developers@velocity.in",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "hello@velocity.in",
+     "where": "https://www.velocity.in/",
+     "kind": "generic"
+    },
+    {
+     "email": "abhiroop@velocity.in",
+     "where": "https://www.velocity.in/about/",
+     "kind": "personal"
+    },
+    {
+     "email": "atul@velocity.in",
+     "where": "https://www.velocity.in/about/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "5c6464a300",
+   "company": "CRUx",
+   "website": "https://www.crux-bphc.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Hyderabad",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "The Programming & Computing Club of BITS Pilani, Hyderabad Campus. Languages: C++, Svelte, TypeScript",
+   "site_text": "[https://www.crux-bphc.com/]\nCRUx BPHC - Home CRUx . arrow_downward Projects Members & Alumni Blog CRUx . The Programming and Computing Club of BITS Pilani, Hyderabad Campus Dedicated to bettering computing skill on campus by developing open-source software, promoting Competitive Programming and participating in CTF events. Meet the team Mudit, Varun, Karthik, Shreyash, Penty, Tanay, Voora, Namit, Pranav, Kishan, Advik, Eshaan, Anurag, Lokesh and more... © 2024 CRUx. Made by CRUx Members\n\n[https://www.crux-bphc.com/blog]\nCRUx BPHC - Blog Projects Members & Alumni Blog Blog ICPC 2024-25 Registrations Open! By Shantanu Pandey - 10/13/2024 Registrations for the 2024-25 season of ICPC are now open! CTF Inductions (2024-25 Sem 1) By Karthik Prakash - 9/2/2024 Our inductions for CTFs are now open! Development Inductions (2024-25 Sem 1) By Karthik Prakash - 8/26/2024 Our inductions for development and UI / UX are now open! Competitive Coding Inductions By Varun Reddy Padala - 8/24/2024 Going forward, we'll be changing how inductions to our Competitive Coding division work. © 2024 CRUx. Made by CRUx Members",
+   "email_candidates": [
+    {
+     "email": "crux@hyderabad.bits-pilani.ac.in",
+     "where": "job posting",
+     "kind": "other"
+    },
+    {
+     "email": "tobitkjoshy@gmail.com",
+     "where": "GitHub commits (crux-bphc)",
+     "kind": "personal",
+     "name": "hans772",
+     "commits": 11
+    },
+    {
+     "email": "abhay.ayyasola@gmail.com",
+     "where": "GitHub commits (crux-bphc)",
+     "kind": "personal",
+     "name": "Abhay Aysola",
+     "commits": 4
+    },
+    {
+     "email": "wheatgreaser3000@gmail.com",
+     "where": "GitHub commits (crux-bphc)",
+     "kind": "personal",
+     "name": "wheatgreaser3000",
+     "commits": 21
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "ce213ac31a",
+   "company": "Hyderabad Python User Group",
+   "website": "https://www.hydpy.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "Hyderabad",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Hyderabad Python User Group. Languages: HTML, JavaScript, Python. Topics: community-driven, community-project, hyderabad, india, jekyll, python",
+   "site_text": "[https://www.hydpy.org/]\nHydPy - Home PyConf Hyderabad 2026 is happening on March 14-15! Grab your tickets and find more details on the official website . Hyderabad Python User group Community driven group for promoting python in Hyderabad. GIVE A TALK REQUEST A TALK BECOME VENUE PARTNER What we do? Monthly Talk Events & Project Nights These are longish presentations (about an hour) about topics of interest to the community. Often we also have lightning talks (5-15 minutes) also. If you have something you'd like to share with everyone, drop a line to the organizers! Additionally, we organize project nights sometimes, where we get a chance to sit down with other Python developers of all experience levels to push your project forward, get help with a particular trouble spot, share expertise, or do whatever else you like. More Info PyConf Hyderabad PyConf Hyderabad is the regional conference for the community that uses and develops the open-source Python Programming Language. The Conference is a tribute to the community and the people who have made the community special. We organize this conference every year with an array of Talks and Keynote Speakers from around the country. Check out the PyConf Hyderabad Website to know more. More Info More Info More Info Frequently Asked What is this site about? HydPy.org is the official home page of the Hyderabad Python User Group. Here, you will find all the information about the group - past and upcoming activities/workshops, meetup events, blogs and discussion forums. How will this site help me? This site is useful for anybody who wants to learn more about Python or share their knowledge about Python. People are welcome to discuss their projects and seeks and provide help to other Python enthusiasts. Do you have a list of links that I can subscribe to? Yes, below are the links. Mailing List GitHub Facebook Page Meetup Group Page Telegram Group Invitation Neither do I have any knowledge of Python nor am I a Python enthusiast. Can I still subscribe? Yes, subscription will help you to receive the updates about the upcoming workshop or activities conducted by the group. What kind of activities would this group help to promote? Anything and everything related to Python. Can I participate and deliver sessions? Of course, you can. Just subscribe to the above links and get in touch with us. Session topics should be relevant to Python Programming Language and technologies related to it. Our Sponsors Other Python Promoters About Hyderabad Python User group is growing and active Python user community in Hyderabad. We believe in 'Come for the Language, Stay for the Community!' Social Links github meetup facebook x-twitter telegram linkedin instagram Our Mailing List hydpy@python.org\n\n[https://www.hydpy.org/about/]\nHydPy - About More About Our Group Hyderabad Python User group is growing and active Python user community in Hyderabad. We believe in \"Come for the Language, Stay for the Community!\" Meet other local Python developers, learners, employers, and enthusiasts of all kinds. All skill levels are welcome: if you are interested in Python, we are interested in you! In addition to meeting face-to-face, and the email mailing list, you can stay connected using social page given in footer. Interested in volunteering? Please join our Telegram group for more conversations. Other Python Promoters About Hyderabad Python User group is growing and active Python user community in Hyderabad. We believe in 'Come for the Language, Stay for the Community!' Social Links github meetup facebook x-twitter telegram linkedin instagram Our Mailing List hydpy@python.org",
+   "email_candidates": [
+    {
+     "email": "hydpy@python.org",
+     "where": "job posting",
+     "kind": "other"
+    },
+    {
+     "email": "bsaraswat45@gmail.com",
+     "where": "GitHub commits (HydPy)",
+     "kind": "personal",
+     "name": "Bharat Saraswat",
+     "commits": 8
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "f3a391994f",
+   "company": "ARC-BPHC",
+   "website": "https://arc-bphc.netlify.app/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Hyderabad",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Automation and Robotics Club, BITS Pilani Hyderabad Campus. Languages: TypeScript",
+   "site_text": "[https://arc-bphc.netlify.app/]\nARC BPHC The Automation and Robotics Club of BITS Pilani, Hyderabad Campus Meet the team The Automation and Robotics Club (ARC) is a part of the Technical Senate of BITS Pilani, Hyderabad Campus. If inquisitiveness and innovation are your assets, then you've found the right place for yourself. What We Do We take up promising challenges, workshops and projects which combine the aspects of electronics, mechanics and programming. The only prerequisite to joining us - the desire to quench curiosity and express yourself Find Us Here Scan a code, join the channel, and you'll hear about every workshop, and event we're conducting. Stay up to date and follow us on IG. Instagram @arc_bphc Build logs, event photos and everything we ship. Enthusiasts Group ARC Enthusiasts 2k26 Announcements, sessions and open calls, first-hand. GitHub arc-bphc Source for our projects, this site included.\n\n[https://arc-bphc.netlify.app/blog/]\nBlog Filter l298n hc-05 matlab image processing guide control systems humanoid robotics ai tesla xiaomi ubuntu windows dualboot amazon irobot warehouse robotics embedded systems arduino neovim linux nvchad robotic fabrics actuators sensors ros2 getting started github service artificial intelligence entertainment healthcare soft robots Latest Posts An Introduction to Git: Version Control for Everyone 7/14/2025 A beginner's guide to understanding Git, its features, and how to get started with version control. Understanding Control Systems: A Basic Manual 7/10/2025 Placeholder description Setting Up Neovim with NvChad on Ubuntu 6/9/2025 A beginner-friendly guide to installing and configuring Neovim using the powerful NvChad setup on Ubuntu. Dual-Booting Ubuntu 22.04 with Windows 11 6/7/2025 A step-by-step guide to safely install Ubuntu 22.04 alongside Windows 11 for a flexible dual-boot setup. Getting Started with ROS 2 Humble 6/7/2025 A step-by-step guide to install and begin using ROS 2 Humble on Ubuntu, ideal for robotics beginners and enthusiasts. Building a Line Follower Robot 6/6/2025 Learn how to build and program a simple line-following robot using basic sensors and Arduino. iRobot 9/29/2022 Amazon's Acquiring of iRobot and their history with robotics. Robotic Fabrics 9/29/2022 A textile integrated with sensors and actuators, allowing it to sense its environment. LaTTe by Microsoft 8/25/2022 Progress on Scrapping the Android Emulator. CyberOne by Xiaomi 8/25/2022 A humanoid robot designed to be a general and capable platform for industrial applications and research. Sanbot 8/25/2022 A multi-purpose, AI-powered service robot series featuring advanced perception, mobility, and interactive capabilities. Soft Robotics 8/25/2022 A look into the world of soft robotics — flexible, compliant robots inspired by living organisms.",
+   "email_candidates": [
+    {
+     "email": "arc@hyderabad.bits-pilani.ac.in",
+     "where": "job posting",
+     "kind": "other"
+    },
+    {
+     "email": "bhashyatt@gmail.com",
+     "where": "GitHub commits (arc-bphc)",
+     "kind": "personal",
+     "name": "Yash Bhatt",
+     "commits": 31
+    },
+    {
+     "email": "pratyushpriyadarshiofficial@gmail.com",
+     "where": "GitHub commits (arc-bphc)",
+     "kind": "personal",
+     "name": "realpratz",
+     "commits": 4
+    },
+    {
+     "email": "gogo.june2005@gmail.com",
+     "where": "GitHub commits (arc-bphc)",
+     "kind": "personal",
+     "name": "aten2005",
+     "commits": 10
+    },
+    {
+     "email": "aravgupta28@gmail.com",
+     "where": "GitHub commits (arc-bphc)",
+     "kind": "personal",
+     "name": "Insomniac-Robot",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "5e532d64b3",
+   "company": "coding.Studio();",
+   "website": "https://codingstudio.co.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Hyderabad",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "The Programming Club of VBIT. Languages: JavaScript, Python",
+   "site_text": "[https://www.codingstudio.co.in/]\nHome- coding.Studio(); while ( this . isAlive ()){ this . keepCoding (); } /* Welcome to the coolest forum of VBIT! */ #include &ltfun.h> Learn \"Omnium rerum summa eruditione\" The core of our mission, is to never stop learning. We believe in Learning as being the highest of all achivements. Challenge \"The ultimate measure of an individual is not when they stand in moments of comfort and glory, but when they stand at times of challenge and discomfort.\" We strongly believe in pushing ourselves beyond our comfort zones and reaching for the stars. Innovate The only way to discover the limits of the possible is to go beyond them into the impossible. We,the Family of coding.Studio(), apply what we learn, to solve real-time challenges by building real and professional products. Follow us Click on any of these platforms to connect and contribute with us. © Copyright 2025, codingStudio(); Vignana Bharathi Institute of Technology . All rights reserved.\n\n[https://www.codingstudio.co.in/about.html]\nAbout - coding.Studio(); /* What is c.S(); */ History of c.S(); Having a programming club never felt like a necessity in VBIT. There were well-established forums already present, which had their “wings” in the computer science domain, and they were doing a great job. But there was always one thing missing, an active coding culture in the college. Up Until 2018, “Coding” in VBIT was considered as an activity that’s just a part of a so-called technical event, less than 0.1% of the student population were familiar with Competitive Programming, Open Source Contribution. Terms like Data Structures and Algorithms were only limited to Academics of the Computer Science Department. Something amazing happened on 27th October 2018, something not as amazing as newton's discovery of gravity or as the Invention of the Turing machine ( you really thought we wouldn’t have an Alan reference? ) but something that never happened before in VBIT. Under the guidance of Dr. Pradeep Mallick, the then HOD of CSE department and Mr. M. Venkateshwara Rao, HOD of IT department, and full-fledged support of Mr. V. Sridhar Reddy, the Programming Club of VBIT was established and was named “ coding.Studio( ); “ coding.Studio( ); was founded by 4 students as it’s initial executive members. Kunal Dubey and Sanath Swaroop from IT Dept as the Development Executives, and Kaustubh Eppalapalli and Yashwanth Allakky of CSE Dept, as the Programming Executives. coding.Studio( ); is one of its kind in every way, be it the name, the marketing style, the structure of the forum, aim, fundamentals etc. After having their first ever recruitments on 17th December, 2018, coding.Studio( ); announced its first tenure members on 3rd January, 2019. With a lot of ideas, enthusiasm, and a small hope of doing something great, coding.Studio( ); began the journey to inculcate Coding Culture in VBIT. The 6th of Feb was a special day as it has launched its flagship event “codeCraft” and for the first time, students of VBIT were introduced to the notion of Competitive Programming. Post codeCraft, many students began to code. Not because they had to prepare for their exams or because they had to submit an assignment, but because it was fun. Solving problems through Computer Science somewhat started to seep into VBIT. Then came March 4th, 2019. The day that would forever be remembered, the day when coding.Studio( ); had set its impression on the whole VBIT, the day when Team coding.Studio(); had won Smart India Hackathon. People started to recognize the existence of c.S( ); Faculty began to believe in the aim of the club and lot of students were inspired by the team and also began to look up to them. coding.Studio( ); was no longer just a forum in VBIT, it became an assembly of geeks. It became a go-to place for VBIT’s best coders and developers, as it continues to be even now. coding.Studio( ); then went on to become this exciting place, where people strive to bring a change",
+   "email_candidates": [
+    {
+     "email": "exec@codingstudio.co.in",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "chandra.dkiran@outlook.com",
+     "where": "GitHub commits (coding-Studio-vbit)",
+     "kind": "personal",
+     "name": "chandrakiran343",
+     "commits": 21
+    },
+    {
+     "email": "pranchal.agarwal@gmail.com",
+     "where": "GitHub commits (coding-Studio-vbit)",
+     "kind": "personal",
+     "name": "Pranchal15",
+     "commits": 3
+    },
+    {
+     "email": "nnsrijann@gmail.com",
+     "where": "GitHub commits (coding-Studio-vbit)",
+     "kind": "personal",
+     "name": "srija9",
+     "commits": 4
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "3f210dd469",
+   "company": "Rsquared Academy",
+   "website": "https://www.rsquaredacademy.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: R. Topics: collinearity-diagnostics, customer-analytics, customer-segmentation, descriptive-statistics, eda, linear-models, logistic-regression-models, regression, rfm-analysis, rstats, segmentation, stepwise-regression, summary-statistics",
+   "site_text": "[https://www.rsquaredacademy.com/]\nLearn R for Data Science Online | Rsquared Academy Master Data Science with R Learn from Aravind Hebbali, author of R packages universities use — data wrangling, visualization & modeling. Get Started! Meet Your Instructor Self Paced Learn from experts. Anytime, anywhere, on any device and on your schedule. Interactive Tutorials Interactive tutorials help build your skills and learn new concepts. 24 X 7 Support 24 X 7 on demand support and personalized guidance. Projects Projects and case studies to hone and showcase your skill sets. Popular Courses Data Science with R - Self Paced Self paced online course with 24 x 7 support. Gain expertise in data wrangling, visualization and machine learning using R. R $99 Introduction to R A beginners guide to the R ecosystem. Get an introduction to R & Rstudio. Learn how to install packages and get help in R. R Free Import Data into R Learn to read data into R from flat/delimited files, excel spreadsheets and other commercial softwares. R Free Data Wrangling with dplyr Get an introduction to the grammar of data manipulation using dplyr. Learn to select, filter, mutate and summarize data. R Free More Courses Data Science with R Certification Course Prepare for a data science career by mastering data wrangling, visualization, modeling & communication. Learn the fundamental tools such as R, SQL, Command Line, and Git. Enroll Today! How it Works Our personalized approach is designed to ensure that you achieve your learning goals and advance your career. Student advisor gets in touch with you. Student advisor will give an overview of our learning platform and talk to you to clarify doubts, answer your questions and understand your learning goals. Get Access to your course repository. Our learning management system will give you lifetime access to all course related resources such as videos, slides, interactive tutorials, quiz and assignments. Learn anytime, anywhere and on your schedule. Learn at a pace that suits you. We use the drip model and release new course modules every week. You can learn anytime, anywhere and on any device. Practice and sharpen your skills. Each module of the course includes interactive tutorials, quiz, assignments and case studies that help sharpen your skills and aid in building your project portfolio. Got stuck..No problem, student advisor is available 24 X 7 Whether it is query related to the course or otherwise, we got your back. Our experts are availabe 24 X 7 to answer your queries. You can raise a ticket on the platform and we will resolve it at the earliest. Build your portfolio by solving case studies. Our student advisors will work with you to build a portfolio of projects to showcase your newly mastered skills. The project include a mix of real world and simulated case studies identified and developed by our experts. Claim your certification for a more rewarding career. You have mastered the skills, built your portfolio. Earn a valued certificate and get help in crafting a professional CV as well as resources and guidance for interviews. Data Science Training for Corporate Teams Train your employees to use analytics and data science to solve business problems through our exclusive batches and offers. Learn More The Rsquared Advantage Anytime, Anywhere Highly interactive learning experience on any device, anytime and anywhere. Learn at your own pace from our bite sized videos, interactive tutorials and projects. Lifetime Access Get lifetime access to all the course content and the flexibility to interact with faculty and mentors. Also get access to upgraded content and latest webinars at no additional cost Blended Learning We offer a unique blend of interactive and self paced course content to enhance your learning experience and maximize the learning outcome from our courses Faculty Assistance The faculty are just an email, phone call or chat away and we provide 24 X 7 technical support and query resolution. In addition, w",
+   "email_candidates": [
+    {
+     "email": "pkgs@rsquaredacademy.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "books@rsquaredacademy.com",
+     "where": "https://www.rsquaredacademy.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "hebbali.aravind@gmail.com",
+     "where": "GitHub commits (rsquaredacademy)",
+     "kind": "personal",
+     "name": "Aravind Hebbali",
+     "commits": 54
+    },
+    {
+     "email": "rsquaredin@gmail.com",
+     "where": "GitHub commits (rsquaredacademy)",
+     "kind": "personal",
+     "name": "rsquaredin",
+     "commits": 66
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  },
+  {
+   "id": "2fa6158eaf",
+   "company": "Rsquared Academy Publication",
+   "website": "https://rsquared-academy.thinkific.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, R",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "courses@rsquaredacademy.com",
+     "where": "job posting",
+     "kind": "other"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting"
+  }
+ ]
+}

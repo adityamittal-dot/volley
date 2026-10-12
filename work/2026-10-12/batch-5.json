@@ -1,0 +1,434 @@
+{
+ "leads": [
+  {
+   "id": "15f90b1816",
+   "company": "Tailscale",
+   "website": "https://tailscale.com",
+   "title": "Software Engineer, AI Enablement",
+   "location": "UK",
+   "source": "jobicy",
+   "posted_at": "2026-10-11T08:39:50Z",
+   "posting": "Level: Senior. Thank you for considering Tailscale . If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital. About the Role We're seeking a talented and motivated full-time Software Engineer, AI Enablement to help Tailscale's engineering organization get the most out of AI-assisted development. You'll join a small, high-leverage team reporting to our co-founder, working alongside our first AI enablement engineer to build the tools, workflows, and practices that help every engineer at Tailscale build faster and more safely with AI. This is a foundational role — you'll have real latitude to shape what AI enablement means here as we scale, with direct visibility into how the whole engineering org adopts these tools. Key Responsibilities Partner with engineering leadership and Tailscale's technical staff to define and drive our internal AI-enablement roadmap. Work closely with the team building Aperture by Tailscale, our AI gateway used both internally and offered as a product. Build and iterate on the tools, workflows, and shared practices that help engineers get real value from coding agents — and evaluate new models and tools, making clear calls on what we adopt. Partner with engineering and non-engineering teams to fin",
+   "site_text": "[https://tailscale.com/]\nTailscale | Secure Connectivity for AI, IoT & Multi-Cloud See everything you missed at TailscaleUp. Read the recap → The best secure connectivity platform for the AI era A Zero Trust identity-based connectivity platform that replaces your legacy VPN, SASE, and PAM and connects remote teams, multi-cloud environments, CI/CD pipelines, Edge & IoT devices, and AI workloads. Start connecting devices Contact sales Business VPN Secure internal access to apps and data, anywhere. Privileged Access Auditable access to SSH, K8s, databases, and more. Securing AI Bring AI usage into focus with Aperture. Infra access Direct access to infra. No bastions required. Zero Trust networking Enforce least privilege with identity-based access. Product Business VPN Remote access for your global team Replace your clunky legacy VPN Infrastructure access to wherever your resources live, including Kubernetes clusters Connect SaaS and third-party apps without public exposure Works whether you’re in one or multi-cloud Connect remote teams Product Business VPN Remote access for your global team Replace your clunky legacy VPN Infrastructure access to wherever your resources live, including Kubernetes clusters Connect SaaS and third-party apps without public exposure Works whether you’re in one or multi-cloud Connect remote teams 50,000 businesses choose Tailscale 1,000+ hours saved with fewer connectivity issues. Read case study 25x headcount growth without dedicated IT resources for config or onboarding. Read case study 90% reduction in internal support requests. Read case study Easy, secure, identity-based access to anything Tailscale deploys quickly and enables Zero Trust access to any resource on your network. From CI/CD runners across multi-cloud environments, to SaaS tools and infrastructure, Tailscale connects it all, seamlessly. IT Security DevOps Engineering Installation takes minutes Get started in minutes. Integrations apply policies to your teams at scale. Switching is easy Cross-platform and infrastructure agnostic to give the flexibility you need. Bridge hybrid environments Across clouds or on-prem, Tailscale’s mesh overlay network connects it all. Developer approved, But don’t just take our word for it. @sharathpatali Sharath Patali Setting up a mesh VPN on all my devices was so damn easy thanks to @Tailscale. A tightly sealed network of remote devices with almost no configuration and also ease of adding a new device to the mesh is just what I wanted. Amazing work @Tailscale! @LiamJKeegan Liam Keegan Uhh this is sweet! Redirecting SSL authentication to Tailscale to handle it for you eliminates the need to manage PKI at scale, or go through the nightmare of changing keys out when someone leaves. And, EVERYTHING is protected, regardless of where the workload lives. AWESOME! MP @moderat10n Michael P. After installing @Tailscale on a bunch of machines on my home network (Linux x86 + aarch64, MacOS, Windows) I've just ventured out. Had to restart the process but holy moly, just SSH'ed into my boxes, building code and pushing configs around like I'm home. Amazing. Converted TL @tessalau Tessa Lau Just paid for @Tailscale. Installed it on our robots; so far so good. Compared to OpenVPN: * Serverless * Always on * Same config in office & field * Scales to large # devices * GUI-based ACL w/SSO * Fixed IPs, DNS-friendly * Dead simple config+use @morgallant Morgan Gallant The beauty of @Tailscale is that they enable people to make their own personal internet, for free in most cases. It’s this weird paradigm shift, since you have to actively work to make applications insecure rather than the other way around. @johnrlynch John Lynch If you deal with servers in any way drop everything and get this. VPN nirvana. @Tailscale https://tailscale.com @devilmonastery Michael R. @Tailscale busts double nat (travel router -> plane wifi) and connects me to my home server so I can silence a prometheus humidity alert (can’t really add water to t",
+   "email_candidates": [
+    {
+     "email": "francois@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Francois Marier",
+     "commits": 5
+    },
+    {
+     "email": "yaruk@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "yaruk-byte",
+     "commits": 1
+    },
+    {
+     "email": "mazdak.nasab@gmail.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Mazdak Nasab",
+     "commits": 3
+    },
+    {
+     "email": "james@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "James Tucker",
+     "commits": 3
+    },
+    {
+     "email": "bradfitz@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Brad Fitzpatrick",
+     "commits": 6
+    },
+    {
+     "email": "claus@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Claus Lensbøl",
+     "commits": 1
+    },
+    {
+     "email": "alexvaliushko@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Alex Valiushko",
+     "commits": 3
+    },
+    {
+     "email": "fromberger@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "M. J. Fromberger",
+     "commits": 1
+    },
+    {
+     "email": "fran@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Fran Bull",
+     "commits": 1
+    },
+    {
+     "email": "alexc@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Alex Chan",
+     "commits": 5
+    },
+    {
+     "email": "anton@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Anton Tolchanov",
+     "commits": 2
+    },
+    {
+     "email": "gesa@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Gesa Stupperich",
+     "commits": 4
+    },
+    {
+     "email": "mario@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Mario Minardi",
+     "commits": 2
+    },
+    {
+     "email": "jsanderson@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "James 'zofrex' Sanderson",
+     "commits": 1
+    },
+    {
+     "email": "amal@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Amal Bansode",
+     "commits": 1
+    },
+    {
+     "email": "adriano@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Adriano Sela Aviles",
+     "commits": 1
+    },
+    {
+     "email": "raj@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "rajsinghtech",
+     "commits": 3
+    },
+    {
+     "email": "danni@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Danni Popova",
+     "commits": 1
+    },
+    {
+     "email": "noel@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Noel O'Brien",
+     "commits": 1
+    },
+    {
+     "email": "zachb@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Zach Buchheit",
+     "commits": 1
+    },
+    {
+     "email": "max@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "mcoulombe",
+     "commits": 2
+    },
+    {
+     "email": "percy@tailscale.com",
+     "where": "GitHub commits (tailscale)",
+     "kind": "personal",
+     "name": "Percy Wegmann",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": ""
+  },
+  {
+   "id": "0b2e21a2a4",
+   "company": "Peakflo",
+   "website": "https://peakflo.co",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Singapore, Singapore",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 45. Agentic workflows that automate your back‑office operations Peakflo, with its Agentic Workflows and one-click ERP integrations, helps finance teams eliminate manual work across the entire invoice-to-cash, procure-to-pay, travel and expense reimbursement, and operations. 100+ businesses—from scale-ups to enterprises, use Peakflo each to: ✅ Save 1000 man-hours/month on finance ops ✅ Get paid faster on customer invoices by 15-25 days ✅ Cut vendor bill payment time by 50% ✅ Automate three-way matching Fintech, SaaS, B2B, Fintech, Payments, Singapore, Southeast Asia, Remote, Partly Remote",
+   "site_text": "[https://peakflo.co/]\nAgentic workflows that automate and execute your back-office operations. Agentic workflows that automate and execute your business operations Peakflo's Agentic Workflows integrate seamlessly with your finance and operations processes, continuously learning from your workflows to automate tasks, enhance accuracy, and accelerate decision-making. Schedule a Demo Trusted By Global Enterprises Across Industries What businesses can achieve with Peakflo Agentic Workflow 4X acceleration in process performance 40% reduction in operational cost 30% improvement in decision accuracy Pre-Built Templates Choose from a library of pre-built workflow templates fully loaded with domain specific expertise for finance, HR, procurement, and more that lets you get started in minutes. Build Your Own Workflow No need to map it all out manually. Simply upload a screen recording or describe the AS-IS flow of your business process, Peakflo AI will analyze it and generate a draft workflow for you. Fine-tune, optimize, and launch—your ops, your way. Multi-Channel Process Triggers Peakflo doesn't ask your team to change platforms, it meets them where they are. Connect your everyday tools—Slack, ERP, HRM, CRM, Calendly, and more— so workflows can start automatically, from any touchpoint. AI Browser Agents Peakflo AI agents can browse internal web apps and browser-based systems, makes decisions and takes action, just like a human would. AI agent just logs in and gets the job done. Voice AI Agents Automate calls without lifting a finger for collections, follow-ups, reminders, or survey responses powered by human-like voice agents. Gen AI-Powered Reports Forget dashboards that require manual input. Our generative AI creates reports from real-time data across your systems. Knowledge Base Insights Our AI agents can instantly search and understand vast data sources, turning static, complex information into actionable insights. Agents use this knowledge to make informed decisions and power workflows with confidence. Self-Evaluation & Continuous Optimization Peakflo's agentic system uses LLM-as-Judge, enabling agents to evaluate their own workflow output and optimize based on your success criteria. Agents test different workflow patterns, identify the best-performing one, and auto-apply it, making each execution smarter than the last. See Peakflo’s Agentic Workflows in action below with a few real-world use cases. Autonomous Finance Workflows, Tailored to Your Industry Peakflo helps global businesses across industries eliminate manual finance work, accelerate receivables and payables, and streamline payment cycles—without changing how you work or increasing headcount. Food & Beverage F&B businesses face rising financial pressures and manual inefficiencies. Peakflo's AI-powered automation streamlines invoicing, payments, and reconciliation—cutting costs and boosting efficiency so teams can focus on growth. Explore more Manufacturing Logistics companies face complex payments and compliance. Peakflo's AI-powered AP automation simplifies vendor onboarding, invoice checks, and cross-border payments—cutting errors, costs, and back-office strain. Explore more Logistics Manufacturers face complex supply chains, heavy paperwork, and strict compliance. Peakflo's AI automation streamlines 3-way matching, tax validation, and vendor collaboration—reducing errors, delays, and manual work across the procure-to-pay cycle. Explore more IT & Services IT and service firms struggle with budget gaps, manual entry, and complex approvals. Peakflo's AI automation enforces budgets, auto-codes GLs, flags duplicates, and streamlines AP—cutting costs and boosting audit-ready efficiency. Explore more Why Peakflo's Agentic Workflows Automate at Scale Peakflo's Agentic Workflows bring expert-level automation to finance and operations teams, handling high-volume, complex workflows with precision—eliminating manual bottlenecks and reducing overhead. Intelligent AI with Deep C",
+   "email_candidates": [
+    {
+     "email": "info@peakflo.co",
+     "where": "https://peakflo.co/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "4d8374de35",
+   "company": "Authologic",
+   "website": "https://authologic.com",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "Warsaw, Masovian Voivodeship, Poland; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 44. Stripe for online identity verification Authologic is an orchestration and aggregation layer for local KYC & AML methods. We allow businesses to check the identity of their clients online using video/biometrics, banking data, and government issued digital IDs. Our API allows a flexible definition of verification scenarios based on the risk profile of the client or risk involved in the given process. B2B, Engineering, Product and Design, Poland, Europe, Remote, Fully Remote",
+   "site_text": "[https://authologic.com/]\nIdentity Infrastructure to Boost Your KYC Conversion Rates New The EUDI & Wallet Playground: test real wallet flows in your browser for free. Try it now eID-Native Identity Infrastructure Authologic verifies every user with the best available method automatically — from EUDI and Apple, Google & Samsung Wallet to biometrics and document-based verification. Built for humans. Ready for AI Agents. Get started Contact Sales AI threats & eIDAS 2.0 — the identity landscape just changed. AI fraud is accelerating . Governments are issuing digital IDs. Apple, Google, and Samsung are making them easy to carry. eIDAS 2.0 is redrawing the compliance map across Europe. Your users expect it to be seamless. Your compliance team expects it to be secure. Authologic makes it seamless, secure, and simple. Physical Documents Deepfakes broke document verification. 44% of fraud now involves AI-generated content. Synthetic identities. Fabricated documents. Faces that don't exist. Gen-1 eIDs Every new market is another integration nightmare. New country. New eID scheme. New vendor. New contract. New compliance requirements. New maintenance overhead. Next Gen Identity Wallets eIDAS 2.0 makes them mandatory across Europe. Built on open standards. Designed for privacy. Ready for humans and AI agents alike. The organisations that integrate now won't be scrambling in 2027. eID-Native Identity Infrastructure Meet OmniID. One Platform that connects the past, present, and future of identity. Physical Documents Gen-1 eIDs Next Gen Identity Wallets Verify Identity One API. Every wallet. Every eID. Every market. The internet needs a new identity layer that can deliver proof of human, age verification, and authenticated access that works for both people and machines. Authologic provides clarity, elegance and efficiency to the ID verification, payment or authentication process by reducing this insane complexity to a single button. Every attribute. One call. Pull attributes from multiple sources in a single request. Exactly what you need — nothing more, nothing less. Data that doesn't linger Set your own retention rules. We purge what you no longer need — clean by default, auditable by design. Privacy by proof, not promise Zero Knowledge Proofs verify age and humanity without exposing the underlying data. The verification happens. The data never leaves. Compliance as architecture Built to eIDAS 2.0, GDPR, and EU cybersecurity standards. Compliance isn't an afterthought — it's the architecture. Certificates & Licenses ISO 27001 Information Security ISO 9001 Quality Management ISO 22301 Business Continuity PCI DSS Payment Security GDPR Data Protection PSD2 AIS Payment Security Every eID. One connection. The fastest way to every eID. Every EU member state is getting a digital identity wallet. Private wallets are multiplying. Legacy eIDs aren't going anywhere. One integration handles all of it. Contact Sales See coverage Everything you need for modern identity verification. Customize verification flows, improve conversion, and support identity methods globally — all in one platform . OmniPanel gives you real-time visibility into every verification. Branding Our UI. Your branding. Customize every pixel of the verification flow to match your brand. Themes, colors, and copy — all configurable. Custom themes Brand colors Personalized copy Theme builder Analytics Conversion rates up. Errors down. Measure eID performance with real-time OmniPanel analytics. No more blurry photos or manual checks. Coverage Global support for eIDs. Wallets, BankIDs, national eIDs — unified through one platform and a single API. MyGovID Diia Slovak eID MojeID mObywatel ATK e-ID karte ID-kaart DigiD LuxTrust OneID Cartão de Cidadão DNIe SPID FranceConnect+ SwissID ID Austria itsme IDIN Personalausweis FINeID Mit-ID MinID Freja eID MyGovID Diia Slovak eID MojeID mObywatel ATK e-ID karte ID-kaart DigiD LuxTrust OneID Cartão de Cidadão DNIe SPID FranceConnect+ SwissID ID Au",
+   "email_candidates": [
+    {
+     "email": "contact@authologic.com",
+     "where": "https://authologic.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "kontakt@authologic.com",
+     "where": "https://authologic.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "rebecca@gmail.com",
+     "where": "https://authologic.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "jaroslaw.sygitowicz@authologic.com",
+     "where": "https://authologic.com/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "aleksander.wasiak@authologic.com",
+     "where": "https://authologic.com/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "bartlomiej.kuban@authologic.com",
+     "where": "https://authologic.com/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "dominika.cepek@authologic.com",
+     "where": "https://authologic.com/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "olga.medras@authologic.com",
+     "where": "https://authologic.com/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "florentyna.frend@authologic.com",
+     "where": "https://authologic.com/blog",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "a4aa9b7291",
+   "company": "Tandem",
+   "website": "https://tandemspace.com/",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 22. AI-native office leasing broker Tandem is an AI-native office leasing platform. We’re using technology to unlock an easier leasing process. Our AI co-pilot provides a white-glove-quality B2B office search experience, with a fraction of the human labor typically required. Today we’re serving three primary markets — NY, SF and BOS. We’ve helped more than 500 companies find great office space and have seen double-digit month-over-month growth. Real Estate, B2B, Proptech, B2B, Office Management, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://tandemspace.com/]\nTandem | Lease office space at startup speed Sign up Browse offices Saved Tour cart Negotiate Move-in Office Leasing 101 FAQ Sign up Log in Lease office space at startup speed Full-market access. Next-day tours. Expert negotiation. Start my search A smarter way to find & lease office space See the entire market Every available office — across landlords, broker listings, and off-market opportunities — brought together in one place. Tandem Apollo AI Move faster From shortlist to site visit, we coordinate every conversation and follow-up — so you're not chasing emails or juggling calendars. Sign with confidence Live market insight and hands-on guidance — so you know when to move forward, when to negotiate, and when to walk away. Tandem is free for tenants You can browse, evaluate, and tour spaces with no commitment or obligation. Like a traditional broker, we get paid by the landlord when a lease is signed. Frequently Asked Questions “The value prop of Tandem was just so much better. The options that they presented to us are just that much more inviting, spacious, and exciting to work at.” Dan Mandelman , General Manager “Obviously, the World Trade Center is an iconic location. The team basically said, “When can we start?” Bryn Edwards , Chief of Staff “We saw the price point of all the listings on Tandem coupled with how beautiful and spacious the spaces were, it was perfect .” Ben Baker , Software Engineer “The value prop of Tandem was just so much better. The options that they presented to us are just that much more inviting, spacious, and exciting to work at.” Dan Mandelman , General Manager “Obviously, the World Trade Center is an iconic location. The team basically said, “When can we start?” Bryn Edwards , Chief of Staff “We saw the price point of all the listings on Tandem coupled with how beautiful and spacious the spaces were, it was perfect .” Ben Baker , Software Engineer Luc Kylie Kate Sophie Luc Kylie Kate Sophie Peter Rafi Lean on our local experts You'll work with a dedicated, local team (SF, NYC, BOS) who know the buildings, the landlords, & the market — and stays with you from first tour through signing. Create a free account to browse offices Share what you're looking for & unlock immediate access to browse inventory. Start your search\n\n[https://tandemspace.com/about]\nAbout Us | Tandem | Lease Office Space At Startup Speed Sign up Browse offices Saved Tour cart Negotiate Move-in Office Leasing 101 FAQ Sign up Log in Legacy office search runs on memory. We run it on data. We built Tandem because finding the right office space shouldn't depend on who you know. Start my search The problem There are thousands of offices in a city and no single view of them. What exists instead are the memories of a few hundred people, each carrying their own map of a market that changes every week. The result: you're seeing only what your broker chooses to show you, prioritized only as much as your deal size warrants, with no way to verify you're getting a fair shake. How Tandem works On paper, Tandem is a brokerage like any other: same license, same person meeting you in the lobby. The difference: Tandem agents are powered by an agentic brain that never stops watching the market. You see the whole market on day one, get the same attention whether you're 3,000 or 30,000 square feet, and finish about 6x faster, at no cost to you. 500+ companies have found their office with Tandem Meet our team Rafael Sands CEO, Co-founder Brendan Suh COO, Co-founder Noah Hurley Engineering German Pardo Engineering Sophie Frank Operations Lucas Hyman Operations Peter Sellick Operations Rafael Segistan Engineering Ethan Rosenberg Operations Kylie Cragun Operations Kate Lytchakov Operations Ian Ostberg Operations Come do your best work with us We're rebuilding how companies find office space. We're looking for passionate builders & operators who want to transform one of the world's oldest industries. View open roles\n\n[https://",
+   "email_candidates": [
+    {
+     "email": "info@tandem.space",
+     "where": "https://tandemspace.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "adf224e833",
+   "company": "Spott",
+   "website": "https://spott.io",
+   "title": "Engineering (YC Winter 2025)",
+   "location": "Leuven, Flanders, Belgium",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 50. AI-native ATS/CRM for recruiting firms Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption. Spott combines everything recruiting firms need, from a full ATS & CRM to AI agents across the entire workflow, into one AI-native solution. It enables recruiters to focus on what matters most and close more placements. Artificial Intelligence, SaaS, B2B, HR Tech, Enterprise Software, B2B, Recruiting and Talent, Belgium, Europe",
+   "site_text": "[https://spott.io/]\nSpott | AI-native ATS & CRM for Recruiting firms Read More Backed by The AI-native workspace for agency recruiters Spott redefines what an ATS & CRM can do in the AI era. Make more placements, faster. Book a demo Start for free Candidates Matching Pipeline Reporting Migrated off Jobadder Migrated off Bullhorn Migrated off Mercury Migrated off Loxo Migrated off Vincere Migrated off Hubspot Migrated off Carerix Migrated off Recruit CRM Your ATS was built to store data. Not understand it. Spott is built from the ground up with AI at the core, redefining what’s possible. Level up your workflow and make more placements, faster. Recruiting, without limits. Book a demo Integrated ATS & CRM AI-native platform Business growth and analytics Entreprise-ready foundation One easy-to-use system All the essentials of your current applicant tracking system & recruitment CRM combined into a single user-friendly workspace, without ever having to switch tools. Clickless experience Customisable attributes and views Adaptable to your workflow Engineered from scratch with AI at the core Spott is recruitment agency software with AI purpose-built to speed up your workflow and help you make better decisions, faster. Note taker & VOIP support Personalized outreach campaigns Powerful Candidate-Job matching Auto-updating candidate profiles Focused on the revenue side of your business Our recruitment platform helps you open more conversations with the right candidates and clients, and convert them faster. Contact detail enrichment Speculative presentations On-brand candidate presentations Advanced analytics & dashboards Built to scale, built for agencies Spott is built for agencies running multiple clients, pipelines, and revenue models across exec search, perm, temp, and contracting, without slowing down as they grow. Role-based access controls Full support for Teams in Analytics Performant at 1M+ candidate records White-glove migration with no data loss Discover Customer Stories “Spott has been a game-changer. Powerful AI and a team that truly listens.” Peter henry Managing director You’ll be live on Spott in 4 weeks. 01 Week One Once we receive your data from your existing ATS, our team handles the initial mapping and ensures everything aligns smoothly. Your team keeps working as usual. 02 Week Two and Three We sit together with your team for specific questions. All you data is migrated to our dedicated migration environment. Your data is validated, checked and rechecked. 03 Week Four The final migration is ready for review. Once approved, we transfer everything into Spott with zero downtime and no surprises. A fresh final export ensures nothing is missed. Find out how Spott compares to your current tool. See why others switch. Spott vs Bullhorn Spott vs Loxo Spott vs Vincere Spott vs JobAdder Spott vs Recruiterflow Spott vs Recruit CRM Spott vs Ezekia See all comparisons Referral · Tom → Lisa V. New candidate · Sara K. New vacancy · Head of Sales, NYC BD signal · Quantix raised Series B Job post online Email sent CV formatted Invoice paid Reminder set Interview scheduled Confirmed Sara K. → TechCorp · Thu 2:00 PM Shortlist sent 5 candidates Head of Sales → hiring manager Match found 94% fit Sara K. → Senior PM, New York Placement closed $30k fee Maxim D. @ Quantix · invoiced Next step suggested Decision Advance Emma V. to final round Follow-up drafted Ready 3 days idle → nudge to David M. \"It makes the whole process feel effortless.\" The speed at which you can share top candidates with clients is crazy. It makes the whole process feel effortless, and honestly, I love it. Savanna McKellar Mcilwain Solutions \"Our pipeline is more predictable.\" Spott gave us visibility we never had. We can see what drives placement & retainer fees, where bottlenecks form and how to act sooner. Our pipeline is more predictable and our decisions more confident. Mark Maynard March consultants \"The AI matching stood out immediately.\" When we started using",
+   "email_candidates": [
+    {
+     "email": "hello@spott.io",
+     "where": "https://spott.io/",
+     "kind": "generic"
+    },
+    {
+     "email": "manu@spott.io",
+     "where": "https://spott.io/about-us",
+     "kind": "personal"
+    },
+    {
+     "email": "cv@spott.io",
+     "where": "https://spott.io/careers",
+     "kind": "personal"
+    },
+    {
+     "email": "info@spott.io",
+     "where": "https://spott.io/contact",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "b24f1a06d6",
+   "company": "Infinia",
+   "website": "https://www.infiniaweb.com/",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "Montevideo, Montevideo Department, Uruguay",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 28. Move money programmatically - built for developers Infinia enables fintechs, businesses, and banks to bridge stablecoins with local payment rails as well as create local currency virtual accounts in emerging markets. Serving Stripe/Bridge, Jeeves, Ramp, among other tier1 companies. Payments, Cryptocurrency, Fintech, Payments, Uruguay, Latin America, Remote, Partly Remote",
+   "site_text": "[https://www.infinia.xyz:443/]\nInfinia | Global Money Movement and Account Infrastructure Global Money Movement and Account Infrastructure Connect traditional clearing rails with digital ledger technology to automate cross-border payouts, collections, and multi-currency virtual accounts. Book a Demo Explore Docs Trusted by leading companies Our numbers 9 + Markets with named virtual accounts 200 + Countries you can send payments to Explore global coverage 100 % Real time money Real time money movement programmable 1 API Unified Infrastructure collect, convert, KYC, and pay in local currencies Our Solution Compliance and Regulatory Complexity, Solved Natively. Every high-growth market operates under its own distinct KYC, KYB, and banking mandates. Navigating this fragmented landscape shouldn't mean drowning in operational overhead or slowing down your global velocity. Infiniaâs infrastructure absorbs this friction with a unified API. We handle local regulatory guardrails and banking requirements natively, ensuring your enterprise remains bulletproof and compliant without the structural burden. Built-in Compliance. Global expansion on a single API Global Payments Infrastructure Connect to real-time local clearing networks (like PIX, SPEI, and Transferencias 3.0) with embedded multi-market virtual accounts and automated on/off-chain FX netting engines. Collect and disburse 24/7 without trapped liquidity. Virtual Accounts Local Banking Infrastructure. Multi-Currency Power. Deploy multi-country Banking-as-a-Service capabilities instantly without the friction, extreme costs, or legal delays of establishing physical local entities. Automatically issue and manage robust, multi-currency virtual accounts that allow your platform to hold local balances, orchestrate complex corporate treasuries, and seamlessly segment user wallets across emerging markets via a single unified API. Learn more Disburse Real-time Payouts at Scale. Deliver high-throughput disbursements to merchants, partners, suppliers, or end-users in real time. Bypass traditional correspondent banking delays and hidden intermediary charges with automated, round-the-clock atomic settlement that optimizes cash flow. Learn more Collect Accept Payments Locally. Settle Globally. Give your users the freedom to pay using their preferred local methodsâfrom real-time instant bank networks (like PIX, SPEI, and Transferencias 3.0) to alternative digital rails. Collect local fiat currencies seamlessly without the friction, overhead, or time required to establish standalone local corporate entities. Learn more Open Issuance Platform Connect to real-time local clearing networks (like PIX, SPEI, and Transferencias 3.0) with embedded multi-market virtual accounts and automated on/off-chain FX netting engines. Collect and disburse 24/7 without trapped liquidity. Learn more Industries Engineered for Global Scale Fintechs & Neobanks Embed multi-currency accounts, global liquidity networks, and programmable financial logic natively inside your application through a single software layer. Global Marketplaces Coordinate complex multi-sided payouts, automate 24/7 client reconciliation, and streamline cross-border vendor ledgering split-second fast. Digital Wallets Power frictionless, high-throughput digital wallet architectures with instant on/off-ramps, automated compliance, and real-time cross-border settlement. Backed & Trusted By Insights Latest product announcements, strategic insights & company news View all Insights Infinia Expands Programmable Money OS to Support LATAM and UK Stablecoins Backed by Bain Capital Ventures and Variant Fund, the Y Combinator alumnus integrates BRLA, MXNB, and TGBP among others into its compliance-first infrastructure to eliminate cross-border FX friction and trapped liquidity. Read the article Open Standard and Infinia Partner to Bring Open USD (OUSD) Infrastructure to Emerging Markets Infinia acts as the translation layer connecting local banking grids wit",
+   "email_candidates": [
+    {
+     "email": "info@infiniaweb.com",
+     "where": "https://www.infinia.xyz:443/contact-sales",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "c479d0da6d",
+   "company": "Open",
+   "website": "https://open.cx",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "Amman, Amman Governorate, Jordan",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 21. Enterprise AI customer support Open is an AI-powered, all-in-one customer support and communication platform — used in production by: Print.com, Mollie.com, Viva.com, More.com, Orderchamp.com, OneCarNow.com, and other major enterprise companies. We specialize in solving and automating complex support cases across email, web, phone, SMS, and WhatsApp. We’re a research-based company currently working on releasing Support-Bench, the world’s most comprehensive AI customer support benchmark. Our team consists of +3 programming language builders, a nationwide cybersecurity competition winner at age 16, and a dentist. Generative AI, Customer Service, Customer Support, Conversational AI, AI Assistant, B2B, Engineering, Product and Design, Jordan, Middle East and North Africa, Remote, Partly Remote",
+   "site_text": "[https://www.open.cx/]\nOpen - The unified AI customer support platform Introducing the world's first self-building SaaS The first self-building SaaS Read more Extraordinary customer experiences with AI agents Resolve 77% of support across chat, email, voice, and outbound, instantly, and still personal. Learn more See how it works New App Builder · September 16, 2026 Watch the launch Used every day by the world's best companies Read case study Read case study Read case study Read case study Read case study Read case study Read case study Read case study Read case study Automate and unify support A single AI engine, powerful, and shared across every channel. Consistent and relied on by the most mission-critical enterprises in the world. One brain, every channel Voice, chat, email, WhatsApp, Slack, social. Your AI agent shows up consistent and contextual everywhere your customers reach you, no per-channel rebuilds. Workflows that take action From refunds to account changes to escalations, the agent doesn't just chat, it calls your APIs and gets the job done. Knowledge that stays fresh Auto-ingest your docs, learn from every resolved ticket, and roll back any change with one click. Works with any helpdesk Zendesk, Intercom, Salesforce, HubSpot, Freshdesk, Twilio Flex, or Open's own. It sits on top of the stack you already run. No migration. Six agents, one platform Unify your customer experience with AI. Inbound Agent Frontline support across every channel: chat, voice, email, WhatsApp, and social. It resolves issues end-to-end, not just answers them. Outbound Agent Multi-channel outbound for sales, marketing, and proactive support. It reaches out before your customers have to. Assist Agent A copilot for your human team. It fills fields, summarizes conversations, and suggests the next best reply. QA Agent QA on everything. It scores every conversation, AI and human, against your standards, automatically. Customer Understanding Agent Analyzes the voice of your customers across every conversation: trends, sentiment, and what to fix next. Apps Agent Extend Open by prompting. Describe the flow or feature you need, and it builds it into your workspace. Hear it straight from the teams running on Open See all stories Featured story How FareHarbor scaled global tour operator support with Open How TicketSwap hit an all-time high CSAT with Open How Mollie handles 250K+ businesses with full compliance How MoneyGram supports 55M customers across 200+ countries The 2 million dollar guarantee. You're protected for your entire first 120 days. Not 100% satisfied? We refund every dollar of Open spend, up to $2 million back. Learn more about the guarantee Apply once. Done. Submit a 30-second application. The moment your subscription goes live, you're protected. No metrics negotiation, no contractual back-and-forth. Run Open in production Use Open on real customer traffic for up to 120 days. No metrics to hit, no targets to chase, just run it on the work that matters. Refund, no questions Not 100% satisfied within 120 days? Tell us once and we wire every dollar of Open spend back, up to $2 million. No lock-in, ever Walk away any time. Your data, workflows, knowledge, and instructions are yours, exportable in open formats you can actually use elsewhere. A real team behind it Not a Discord channel. You get named solutions engineers, AI trainers, and a project lead who own your deployment end-to-end. Security on day one SOC 2 Type II and ISO 27001 certified, GDPR-aligned, HIPAA- and PCI-ready. Your data is encrypted, isolated to your tenant, and never trains shared models.\n\n[https://www.open.cx/about-open]\nAbout Open - AI That Actually Works | Open Introducing the world's first self-building SaaS The first self-building SaaS Read more About Open Building AI that doesn't disappoint 77% automation. Actually solves problems. Join the team A note from the founder Mo Gharbat CEO Companies handle customer communication with specialized teams. Support agents ",
+   "email_candidates": [
+    {
+     "email": "muhammadtabaza@gmail.com",
+     "where": "GitHub commits (opencx-labs)",
+     "kind": "personal",
+     "name": "Mohammad Tabaza",
+     "commits": 40
+    },
+    {
+     "email": "tabaza@open.cx",
+     "where": "GitHub commits (opencx-labs)",
+     "kind": "personal",
+     "name": "Mohamed Tabaza",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "c97b5ea589",
+   "company": "Turing College",
+   "website": "https://www.turingcollege.com/",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "Vilnius, Vilnius County, Lithuania",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 50. AI-driven online tech school for busy professionals Turing College is an online AI-driven school for busy professionals. We upskill & reskill in data science & AI, analytics, marketing and programming in 3-12 months with 1on1 support and flexibility. Education, Education, Lithuania, Europe, Remote, Partly Remote",
+   "site_text": "[https://www.turingcollege.com/]\nTuring College - Top Online Courses For Busy People Skip to main content Earn €500 when a friend you refer enrols, and help them kickstart their future. Join affiliate programme More EN Log in Apply now Learn new tech skills. Get ready for your next job. Do more in the role you have. Build the tools your team needs. Move into data and AI roles. Select your programme Live in Germany? Explore Bildungsgutschein funding 4.9/5 Global learners, now working as: Karolina Miniotaitė Business Data Analyst Martynas Udras Manager, SaaS Risk Fortune Uwha Senior Reporting & Analysis Specialist Justė Gavienė Decision Scientist Luca Vassos IT Software Engineer Indrė Rimkevičienė Decision Scientist Karolina Miniotaitė Business Data Analyst Martynas Udras Manager, SaaS Risk Fortune Uwha Senior Reporting & Analysis Specialist Justė Gavienė Decision Scientist Luca Vassos IT Software Engineer Indrė Rimkevičienė Decision Scientist Karolina Miniotaitė Business Data Analyst Martynas Udras Manager, SaaS Risk Fortune Uwha Senior Reporting & Analysis Specialist Justė Gavienė Decision Scientist Luca Vassos IT Software Engineer Indrė Rimkevičienė Decision Scientist Karolina Miniotaitė Business Data Analyst Martynas Udras Manager, SaaS Risk Fortune Uwha Senior Reporting & Analysis Specialist Justė Gavienė Decision Scientist Luca Vassos IT Software Engineer Indrė Rimkevičienė Decision Scientist Our Senior Team Leads and mentors bring experience from companies and universities including: The companies and institutions mentioned have no institutional affiliation or official partnership with Turing College. AI keeps changing. Your learning should keep up. Behind our programmes are professionals with years of experience in the fields they teach. Their full-time job at Turing College is to create and update the curriculum, evaluating new tools and methods and turning relevant developments into material and projects you learn from. They also work with our Senior Team Leads and learners to understand what needs changing, so your learning keeps pace with how the work is done today. Meet our education team Build it. Explain it. Make it better. Put what you're learning to work in projects. In live 1-on-1 reviews, walk an experienced professional through what you've built and why you made those decisions. Together, discuss what works, what needs improving and how to approach it. How it works See what our learners have built From a Chrome extension that explains Korean nuance in YouTube videos to an interactive site for exploring marathon results, see how our learners turn their knowledge and ideas into working applications. Marathon Berlin Stats An interactive site that turns school race results into runner cards, comparisons and charts for families. Building with AI Agents Tomasz Kornicki wae. A Chrome extension that explains the Korean nuance and cultural references that YouTube subtitles miss. AI Engineering Gain Choe A11yAudit Checks health content and patient portals for accessibility barriers, then suggests practical fixes. AI for Business Claudia Bassier Re:store A concept donation shop linking six climate tipping points to real organisations slowing the crisis. Building with AI Agents Nanda Dias Plantopia A plant-health agent that asks clarifying questions before it suggests a diagnosis and a treatment plan. AI Engineering Felix Bögge Digital client intake A mobile app that collects accident details and documents for law firms before the first consultation. AI for Business Rasim Baybars Oddities & Household Supplies A dark-fantasy online shop designed to feel like browsing the inventory of an old fantasy video game. Building with AI Agents Florian Eisler Card Battle Auto-Balancer A team of AI agents runs thousands of simulated battles to balance a card game's stats automatically. AI Engineering Oleg Reva CAUSALITY A scenario lab that turns a what-if question into a small causal model, with the evidence behind it. Building with ",
+   "email_candidates": [
+    {
+     "email": "study@turingcollege.com",
+     "where": "https://www.turingcollege.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "lukas@turingcollege.com",
+     "where": "https://www.turingcollege.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "2579472d8a",
+   "company": "QuestDB",
+   "website": "https://questdb.com/",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. High-performance time series database QuestDB is a high-performance open source database for the most demanding workloads. Native support for Parquet, Iceberg and SQL keeps your data portable, AI-ready, without vendor lock-in. QuestDB is designed from the ground up to operate as close to the hardware as possible - eliminating ingestion bottlenecks and lowering overall hardware requirements. QuestDB powers mission-critical infrastructure for companies in Capital Markets, Crypto, Space Exploration, Energy and Robotics/Physical AI. Developer Tools, Analytics, Open Source, Time Series, B2B, Infrastructure, United Kingdom, Europe, Remote, Partly Remote",
+   "site_text": "[https://questdb.com/]\nQuestDB | Low-latency time-series database on open formats 14:23:45.098 14:23:45.098 14:23:45.098 14:23:45.098 14:23:45.098 14:23:45.098 14:23:45.098 Enterprise 4.0 Read The live stream and the complete record, unified. The live stream and the complete record, unified. QuestDB ingests millions of events per second, computes on live data in milliseconds, and keeps years of history queryable. One SQL engine spanning messaging, stream processing, and tiered storage. Free Enterprise Trial Live Demo Powering critical data workloads at leading companies globally 19M Rows/sec/server ingestion 220M Rows/sec streamed to Arrow 2.3s To stream 500M rows 32ms First Arrow batch 19M Rows/sec/server ingestion 220M Rows/sec streamed to Arrow 2.3s To stream 500M rows 32ms First Arrow batch Published QWP benchmark results on QuestDB v10.0 Capital Markets Aerospace & Robotics Energy & Infrastructure Capital markets Explore capital markets Modernize the market data stack. Never drop a tick. Capture large volumes of market data and trades, act on them in real time, and query the same complete history for pre-trade signals, research, TCA, risk, P&L, surveillance, and compliance. Standard SQL and open formats keep every team connected to the record. Market data & research Pre-trade analysis TCA & markouts Intraday risk & P&L Surveillance & compliance Explore capital markets 01 Capture every event once Ingest ticks, orders, executions, and transactions at market speed. Durability, deduplication, and out-of-order correction are built in. 02 Act before the moment passes Compute intraday risk and P&L, evaluate surveillance conditions, and publish results while the market is moving. 03 Investigate with the full record Run TCA, markouts, post-trade analysis, compliance, and historical research in SQL, then open the same data through Apache Parquet, Iceberg and Arrow. Critical market infrastructure runs on QuestDB Case study “ A time series database truly built by developers for developers ” Read story “ QuestDB enables exceptional transaction throughput performance ” Read story “ QuestDB has been an excellent fit for our production trading analytics ” Read story 7,000+ Queries/second at national scale for 90M users Capital markets Explore capital markets Modernize the market data stack. Never drop a tick. Capture large volumes of market data and trades, act on them in real time, and query the same complete history for pre-trade signals, research, TCA, risk, P&L, surveillance, and compliance. Standard SQL and open formats keep every team connected to the record. Market data & research Pre-trade analysis TCA & markouts Intraday risk & P&L Surveillance & compliance Explore capital markets 01 Capture every event once Ingest ticks, orders, executions, and transactions at market speed. Durability, deduplication, and out-of-order correction are built in. 02 Act before the moment passes Compute intraday risk and P&L, evaluate surveillance conditions, and publish results while the market is moving. 03 Investigate with the full record Run TCA, markouts, post-trade analysis, compliance, and historical research in SQL, then open the same data through Apache Parquet, Iceberg and Arrow. Critical market infrastructure runs on QuestDB Case study “ A time series database truly built by developers for developers ” Read story “ QuestDB enables exceptional transaction throughput performance ” Read story “ QuestDB has been an excellent fit for our production trading analytics ” Read story 7,000+ Queries/second at national scale for 90M users One engine. The full data lifecycle. Act on what is happening. Learn from everything that happened. Capture 01 01 Capture Ingest millions of ordered and out-of-order events without pre-aggregation. Compute 02 02 Compute Transform, enrich, and aggregate events as they arrive, then publish results in real time. Query 03 03 Query Run temporal SQL across live and historical data with predictable low latency. Retain 04 04",
+   "email_candidates": [
+    {
+     "email": "javier.ramirez.gomara@gmail.com",
+     "where": "GitHub commits (javier)",
+     "kind": "personal",
+     "name": "javier ramírez",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  },
+  {
+   "id": "30ae78ab54",
+   "company": "Strive Math",
+   "website": "https://www.strivemath.com/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Singapore, Singapore; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 13. Online Coding School for Kids 8-16 Strive Math is an online coding & math school for kids (8-16). We help students start and commit to their coding and math journeys by making the subjects fun and exciting. We focus, above all else, on making the process of learning joyful. - Our mission is to make education more joyful and meaningful. We teach coding, math and custom STEM courses to kids aged 8 to 16, and build the tools to support teachers to deliver engaging learning experiences. - We believe we can only make education joyful if we ourselves are joyful, so creating a fun and exciting work environment is one of our core values. We’re a remote-first company with teachers and employees from South Africa, Singapore, India, the USA, and the Philippines. - We’re a well-funded startup backed by YCombinator and early investors of Spotify and Facebook. Education, Education, Singapore, Southeast Asia, Remote, Fully Remote",
+   "site_text": "[https://www.strivemath.com/]\nStrive Math | Coding and Math School for Kids Strive is partnering with KrisFlyer to offer exclusive benefits for new students! Learn more at singaporeair.com → Try a class Coding Mathematics AI Coding Holiday Bootcamps Blog Your kid's coding journey starts here. 1-on-1 coding classes tailored to your kid's skill-level and interests. Expert teachers that kids love. Learn to code real-world projects like games, apps and animations. Your phone number Phone Try a class For ages 8-16 Curriculum brought to you by a team from 1-on-1 coding classes with syllabus tailored to your kid's skill-level and interests. Expert teachers that kids love. Learn to code real-world projects like games, apps and animations. Curriculum brought to you by a team from Strive has given my son a solid coding foundation and set him up for his future studies. Ari Sarker - President Mastercard Asia, Dad at UWC SEA Ari Sarker - President Mastercard Asia, Dad at UWC SEA Strive has given my son a solid coding foundation and set him up for his future studies. I found my passion for coding because of Strive. I've never been so excited about a class. Ness, 13 - Singapore American School Ness, 13 - Singapore American School I found my passion for coding because of Strive. I've never been so excited about a class. I didn't know much about coding before I started Strive - but now I really love it. Imogen, 11 - UWC SEA Dover Imogen, 11 - UWC SEA Dover I didn't know much about coding before I started Strive - but now I really love it. Captivating teachers that make learning a joy. Our teachers aren't just highly-qualified coding experts: they're equally skilled at breaking problems down and empathizing with beginners. We've tried many different coding schools, but Strive's teachers are of a completely different caliber. They really understand kids. Dianne - Singapore American School Mom Personalised classes that create committed kids. Kids get to choose projects that excite them, and are guided at the perfect pace and depth for their experience. I've tried other coding classes, which were boring. Strive is fun because I get to build things I'm really interested in. Vikram, 9 - NPS International School Learn by doing - not viewing. You didn't learn to ride a bike by listening to someone talk about it. At Strive, kids don’t passively listen. They actively engage and learn by doing while getting instant feedback on their mistakes. Nothing (other than gaming) has held my daughter’s attention like Strive. Yen - UWC SEA Mom 4 Levels | 1 Joyful Journey to Coding Mastery For kids ages 7-10 Headstart Learn the basic concepts behind computational thinking and how to code in block-based language See Detailed Syllabus For kids ages 10+ Foundations Understand fundamental coding concepts & how coding skills are applied in the real world See Detailed Syllabus Fluency Conceptualise, write and implement code independently. See Detailed Syllabus Mastery Code complex programmes/Code at a first year university level See Detailed Syllabus See Full Curriculum Trusted by Students & Parents Kaavya , Age 15 Singapore American School One of the first students globally to create an NFT Coded 20+ games and apps \" Strive inspired me to take computer science at school. I feel as though my coding knowledge has influenced my everyday life! \" What they coded: Play student testimonial Neil , Age 15 Tanjong Katong Secondary School Received A Direct School Admissions Offer with his Strive Coding Portfolio \" When I grow up, I want to work in the field of math and science. That's why I love learning how to code with Strive because they combine math and coding, making the learning very easy to visualize and to understand. \" What they coded: Play student testimonial Imogen , Age 11 UWC SEA Dover Learning university-level math and coding. Coding portfolio of 20+ projects \" Strive has given me an advantage at school in math and coding. \" What they coded: Play student testimonial .",
+   "email_candidates": [
+    {
+     "email": "hello@strivemath.com",
+     "where": "https://www.strivemath.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC"
+  }
+ ]
+}
