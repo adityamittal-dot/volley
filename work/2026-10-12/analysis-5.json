@@ -1,0 +1,201 @@
+{
+  "leads": [
+    {
+      "id": "15f90b1816",
+      "relevant": false,
+      "summary": "Zero-trust mesh networking product that connects people, devices and cloud workloads, and sells Aperture, an AI gateway, as a product.",
+      "stack": [],
+      "hook": "Posting says the role reports to a co-founder and works with the team building Aperture, their AI gateway.",
+      "angle": "canopy",
+      "angle_reason": "Security-focused infrastructure; Canopy's dependency analysis is the nearest technical match, but the posted role is senior-only.",
+      "fit": 2,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0b2e21a2a4",
+      "relevant": true,
+      "summary": "Agentic workflow automation for finance and back-office operations (invoice-to-cash, procure-to-pay, expense reimbursement) for 100+ businesses.",
+      "stack": [
+        "LLM-as-judge",
+        "generative AI agents"
+      ],
+      "hook": "Site says agents use LLM-as-Judge to score their own workflow output and auto-apply the best-performing pattern.",
+      "angle": "medvault",
+      "angle_reason": "Their LLM-as-judge output checking is the same kind of model-output control MedVault's schema-bound Gemini pipeline applies.",
+      "fit": 6,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "4d8374de35",
+      "relevant": true,
+      "summary": "Identity verification layer for KYC and AML that lets businesses verify clients through eIDs, wallets, biometrics and documents behind one API.",
+      "stack": [],
+      "hook": "Site says every new country's eID is another integration, and their one API covers all of them.",
+      "angle": "medvault",
+      "angle_reason": "Identity and personal-data handling is auth and privacy work; MedVault's JWT auth and per-user isolation are the closest match.",
+      "fit": 6,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a4aa9b7291",
+      "relevant": true,
+      "summary": "AI-assisted office leasing marketplace for tenants in NY, SF and Boston, where the landlord pays the broker fee.",
+      "stack": [],
+      "hook": "Site says Tandem Apollo coordinates every follow-up after a shortlist, so tenants stop chasing emails.",
+      "angle": "medvault",
+      "angle_reason": "Its AI co-pilot drafts and coordinates follow-ups, the same LLM workflow pattern MedVault's pipeline uses.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {
+          "name": "Rafael Sands",
+          "role": "CEO, Co-founder"
+        },
+        {
+          "name": "Brendan Suh",
+          "role": "COO, Co-founder"
+        },
+        {
+          "name": "Noah Hurley",
+          "role": "Engineering"
+        },
+        {
+          "name": "German Pardo",
+          "role": "Engineering"
+        }
+      ],
+      "contact_email": "info@tandem.space",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "adf224e833",
+      "relevant": true,
+      "summary": "AI-native ATS and CRM software for recruiting and staffing firms, with AI agents for matching, outreach and pipeline work.",
+      "stack": [],
+      "hook": "Site says a migration from another ATS goes live in four weeks with zero downtime.",
+      "angle": "medvault",
+      "angle_reason": "Spott's AI matching and agents are model-driven features, the area MedVault's schema-bound Gemini pipeline covers.",
+      "fit": 5,
+      "region": "europe",
+      "people": [],
+      "contact_email": "cv@spott.io",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "b24f1a06d6",
+      "relevant": false,
+      "summary": "Payments infrastructure that bridges stablecoins with local payment rails and issues multi-currency virtual accounts for fintechs and banks in emerging markets.",
+      "stack": [],
+      "hook": "Site says collections and payouts settle 24/7 over PIX, SPEI and Transferencias 3.0.",
+      "angle": "medvault",
+      "angle_reason": "Payments fintech; MedVault's privacy-first fintech design is the nearest match, but the business is crypto-linked.",
+      "fit": 2,
+      "region": "americas",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "c479d0da6d",
+      "relevant": true,
+      "summary": "AI customer-support platform that automates support across chat, email, voice and WhatsApp for enterprise customers such as Mollie and Print.com.",
+      "stack": [
+        "LLM agents",
+        "Twilio"
+      ],
+      "hook": "Their Apps Agent builds a described flow into a customer's workspace from a plain prompt.",
+      "angle": "medvault",
+      "angle_reason": "Open's inbound and QA agents need the same schema-bound LLM output and safety rules that MedVault's Gemini pipeline enforces.",
+      "fit": 7,
+      "region": "middle_east",
+      "people": [
+        {
+          "name": "Mo Gharbat",
+          "role": "CEO, founder"
+        },
+        {
+          "name": "Mohamed Tabaza",
+          "role": "engineer (GitHub commit author)"
+        }
+      ],
+      "contact_email": "tabaza@open.cx",
+      "contact_name": "Mohamed Tabaza",
+      "contact_role": "engineer (GitHub commit author)",
+      "red_flags": []
+    },
+    {
+      "id": "c97b5ea589",
+      "relevant": true,
+      "summary": "Online AI-driven school for working professionals, teaching data science, AI, analytics and programming in 3-12 months.",
+      "stack": [],
+      "hook": "Site says each learner's project gets a live 1-on-1 review with an experienced professional.",
+      "angle": "medvault",
+      "angle_reason": "Its AI-focused curriculum is the closest to MedVault's LLM work, though the site shows no product-engineering hiring.",
+      "fit": 3,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "2579472d8a",
+      "relevant": true,
+      "summary": "Open-source time-series database with SQL over Parquet, Iceberg and Arrow, used in capital markets, aerospace and energy.",
+      "stack": [
+        "SQL",
+        "Apache Parquet",
+        "Apache Arrow",
+        "Apache Iceberg"
+      ],
+      "hook": "Site cites 19M rows/sec per server ingestion in a published QWP benchmark on v10.0.",
+      "angle": "canopy",
+      "angle_reason": "A developer-infrastructure database; Canopy's PostgreSQL-backed analysis pipeline and parsing/graph work are the nearest backend match.",
+      "fit": 5,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "30ae78ab54",
+      "relevant": true,
+      "summary": "Online 1-on-1 coding and math classes for kids aged 8-16, run by a remote-first team of 13 that also builds tools for teachers.",
+      "stack": [],
+      "hook": "Posting says you build the tools that help teachers run engaging lessons, not just teach kids to code.",
+      "angle": "medvault",
+      "angle_reason": "Strive holds data on children aged 8-16, so MedVault's per-user isolation and privacy-first design matter more than the LLM work.",
+      "fit": 5,
+      "region": "asia",
+      "people": [],
+      "contact_email": "hello@strivemath.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

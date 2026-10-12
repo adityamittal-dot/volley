@@ -1,0 +1,124 @@
+{
+  "emails": [
+    {
+      "id": "9398b8500a",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Ashwin,\n\nIntentport's concierge books the visit and hands your team the lead with the full conversation behind it, which means someone downstream still has to trust what a model produced.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship or entry-level role, can join immediately. Does MicroPyramid take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "eede782255",
+      "subject": "Software engineering intern at PolyMage",
+      "body": "Hi Uday,\n\nCompiling unmodified PyTorch straight to Tenstorrent devices means the compiler has to resolve the same call structure the original code relied on, without the author rewriting anything for it.\n\nI built Canopy, a static analyzer that parses a repo in 10 languages into a call graph and marks unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does PolyMage take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "ace2ffddef",
+      "subject": "Founding engineer at Superset",
+      "body": "Hi Kiet,\n\nYour posting says the work runs from the pty and stream transport up to the UI, all in TypeScript, and that new hires usually ship in their first week.\n\nI built Canopy, which parses a repo in 10 languages into a call graph and marks unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship or entry-level role, can join immediately. Is the Founding Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "f628b8b61f",
+      "subject": "Software engineering intern at nao Labs",
+      "body": "Hi Christophe,\n\nYour nao test demo publishes context reliability as 9/11 tests passing, right next to a 100% answer rate, which is an honest way to show when the agent is guessing.\n\nI built Canopy, which parses a repo in 10 languages into a call graph and only turns the AI chat loose on computed results, never raw guesses: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does nao Labs take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "e3361ca5a8",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi KugelAudio team,\n\nYour SDK calls client.connect() to prewarm the connection before generate(), and the site lists a 91ms median time to first audio, which only works if the pipeline keeps that order every time.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does the team take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "c479d0da6d",
+      "subject": "Software engineering intern at Open",
+      "body": "Hi Mohamed,\n\nYour Apps Agent builds a described flow straight into a customer's workspace from a plain prompt, which means the output has to hold to a schema the workspace can actually run.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does Open take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "0ecf66effb",
+      "subject": "Software engineering intern at Hypercubic",
+      "body": "Hi Hypercubic team,\n\nHyperDocs turning opaque COBOL into searchable documentation with dependency mapping is the same problem as resolving calls across files without a compiler to lean on.\n\nI built Canopy, which parses a repo in 10 languages into a call graph and marks unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does Hypercubic take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "e41ed3d777",
+      "subject": "Software engineering intern at Sitefire",
+      "body": "Hi Sitefire team,\n\nRunning the same brand prompt across ChatGPT, Gemini, Perplexity and Claude and reporting what each one says only works if you can trust the model's answer isn't garbled.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does Sitefire take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "358c3c4b00",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Aglide team,\n\nKeeping credentials off the end-user's browser for apps with no SAML or SCIM support means the identity layer is doing real work underneath, not just a login page.\n\nI built MedVault, a Django backend with JWT auth, refresh-token rotation, and per-user isolation at the queryset level: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship or entry-level role, can join immediately. Does Aglide take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "5ab68f68c0",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Scalar Field team,\n\nTaking an agent from thesis to backtest to a live portfolio means every step in between has to produce output the next step can actually parse, not just a plausible paragraph.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does Scalar Field take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "715bd673e1",
+      "subject": "Software engineering intern at Protex AI",
+      "body": "Hi Protex AI team,\n\nFusing camera detections with WMS, MES and EHS data for root-cause analysis only holds up if every source feeding that pipeline is normalized the same way.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does Protex AI take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "1128d48fb2",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Numen team,\n\nYour homepage says the site is still marked launching soon, and the pitch is high-volume health data feeding proprietary models for earlier intervention, which only holds up if one malformed record can't quietly break a model downstream.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship or entry-level role, can join immediately. Does Numen take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    }
+  ]
+}

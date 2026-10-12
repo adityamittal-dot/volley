@@ -1,0 +1,211 @@
+{
+  "leads": [
+    {
+      "id": "358c3c4b00",
+      "relevant": true,
+      "summary": "Aglide lets security and IT teams put apps with no SAML or SCIM support behind their existing identity provider, so MFA, conditional access and audit logs apply to them. Its customers include fintechs and media companies.",
+      "stack": [
+        "SAML",
+        "SCIM"
+      ],
+      "hook": "Your site says credentials are never exposed to end-users or their browser for apps that have no SAML or SCIM support.",
+      "angle": "medvault",
+      "angle_reason": "Aglide's identity and access-control product sits on the same auth layer as MedVault, which uses JWT with refresh-token rotation and per-user isolation.",
+      "fit": 6,
+      "region": "europe",
+      "people": [],
+      "contact_email": "contact@aglide.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "455eea2948",
+      "relevant": true,
+      "summary": "PaletteHQ is a SaaS platform that calculates B2B sales commissions automatically from CRM, billing and accounting data, replacing spreadsheets. Its users are sales, finance and operations teams.",
+      "stack": [],
+      "hook": "Your posting says non-technical customers can implement it in a day and pull data from CRMs and billing systems like Stripe, Xero and NetSuite.",
+      "angle": "medvault",
+      "angle_reason": "PaletteHQ is a B2B SaaS backend that turns connected financial data into rule-driven calculations, which is the API and backend work MedVault demonstrates.",
+      "fit": 5,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "5ab68f68c0",
+      "relevant": true,
+      "summary": "Scalar Field is building an agentic trading platform where users create financial agents that research data, backtest strategies, monitor market events and trigger trades. The site itself shows only a title, so this comes from the posting.",
+      "stack": [],
+      "hook": "Your posting describes agents that go from thesis to backtest to live portfolio in one place, with trades triggered when conditions are met.",
+      "angle": "medvault",
+      "angle_reason": "Scalar Field's user-created agents that research data and act on it match MedVault's Gemini pipeline with a fixed output schema and safety rules.",
+      "fit": 6,
+      "region": "other",
+      "people": [
+        {
+          "name": "Ramakant",
+          "role": "co-founder; led engineering teams at Microsoft"
+        }
+      ],
+      "contact_email": "info@scalarfield.io",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "641726e2d6",
+      "relevant": true,
+      "summary": "SAMMY Labs compiles statutes, case law and internal policy into deterministic legal engines that run through an app or API, with every output cited. Its customers are regulated industries such as insurance, financial services, healthcare and legal.",
+      "stack": [],
+      "hook": "Your careers page says 'Not an LLM wrapper' and that every output can be traced to the statute and precedent that produced it.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's call-graph resolution marks unresolved calls as external instead of guessing, the same deterministic, traceable design SAMMY's legal engines need.",
+      "fit": 5,
+      "region": "europe",
+      "people": [],
+      "contact_email": "careers@sammylabs.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "715bd673e1",
+      "relevant": true,
+      "summary": "Protex AI runs computer-vision monitoring on existing CCTV in ports, logistics and manufacturing to flag safety and compliance risks. Its reporting feeds health-and-safety teams' audits and weekly meetings.",
+      "stack": [
+        "machine learning",
+        "computer vision"
+      ],
+      "hook": "Your site says the platform plugs into existing CCTV and fuses camera detections with WMS, MES and EHS data for root-cause analysis.",
+      "angle": "medvault",
+      "angle_reason": "Protex turns written safety rules into automated audits, the same rules-plus-model pipeline MedVault runs, and its privacy-preserving camera monitoring matches MedVault's data-privacy focus.",
+      "fit": 6,
+      "region": "europe",
+      "people": [],
+      "contact_email": "info@protex.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "75f18c054e",
+      "relevant": true,
+      "summary": "Silurian builds and customizes foundation models that simulate Earth systems, starting with weather, for energy, insurance, agriculture and logistics customers. It also publishes open-source tooling such as radrs, a NEXRAD reader.",
+      "stack": [
+        "Python",
+        "Rust",
+        "xarray"
+      ],
+      "hook": "Your radrs post describes a Rust core for NEXRAD Level 2 loading with a Python xarray-compatible interface, released in September 2026.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's multi-language parsing behind one analyzer interface is the same design problem as radrs, a Rust parser exposed through a Python interface.",
+      "fit": 4,
+      "region": "us",
+      "people": [
+        {
+          "name": "Jayesh Gupta",
+          "role": "Chief Executive Officer; co-creator of ClimaX, co-author of Aurora"
+        },
+        {
+          "name": "Gregory Studer",
+          "role": "Founding Engineer"
+        },
+        {
+          "name": "Cristian Bodnar",
+          "role": "Scientific Advisor; lead co-author of Aurora"
+        },
+        {
+          "name": "Alexandre Tilmant",
+          "role": "Chief Business Officer"
+        },
+        {
+          "name": "Dhruvit Patel",
+          "role": "Founding Research Scientist"
+        }
+      ],
+      "contact_email": "contact@silurian.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "9b490c7b66",
+      "relevant": true,
+      "summary": "Healia sells a benefit that lets employers cover the out-of-pocket costs of employees who enroll in a spouse's health plan, aimed at dual-income families. It also manages the claims process.",
+      "stack": [],
+      "hook": "Your site says a health plan analysis takes under 2 minutes and shows household costs side by side.",
+      "angle": "medvault",
+      "angle_reason": "Healia handles family health costs and claims for employers, a health-data product like MedVault built on a Django REST backend with per-user data isolation.",
+      "fit": 5,
+      "region": "us",
+      "people": [],
+      "contact_email": "careers@healiahealth.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "9f59b4d4d4",
+      "relevant": true,
+      "summary": "Rhem makes a tabletop home robot for fall detection, health readings and family check-ins, with AI agents that browse websites and make phone calls for an aging parent. A family app shares recorded updates among relatives.",
+      "stack": [],
+      "hook": "Your site says Rhem's agents browse websites and make phone calls to book appointments, call the pharmacy and order essentials.",
+      "angle": "medvault",
+      "angle_reason": "Rhem's AI agents working on family health data are close to MedVault's LLM pipeline for health records, with the same privacy constraints.",
+      "fit": 4,
+      "region": "us",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a5864ddfb5",
+      "relevant": true,
+      "summary": "Cerrion sells video-AI agents that watch existing or provided cameras on manufacturing lines and flag issues such as jams, misplaced product and blockages in real time. Its customers include food and beverage, glass and tableware producers.",
+      "stack": [
+        "computer vision",
+        "deep learning"
+      ],
+      "hook": "Your site describes a Pepsi supplier running 500 bottles a minute that now detects a fallen bottle before it blocks the line.",
+      "angle": "medvault",
+      "angle_reason": "Cerrion turns a continuous model feed into rule-bound alerts for a domain user, a pattern MedVault uses with its fixed output schema and safety rules; the match is loose.",
+      "fit": 4,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "ace2ffddef",
+      "relevant": true,
+      "summary": "Superset is a source-available IDE for running many coding agents in parallel, such as Claude Code and Codex, across local, cloud and remote machines. The posting says tens of thousands of engineers use it.",
+      "stack": [
+        "TypeScript",
+        "SSH"
+      ],
+      "hook": "Your posting says the work runs from the pty and stream transport up to the UI, all TypeScript, and that new hires often ship in their first week.",
+      "angle": "canopy",
+      "angle_reason": "Superset is a developer tool with a TypeScript transport-to-UI stack, and Canopy is a developer tool that maps codebase architecture and grounds its AI chat in computed results.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {
+          "name": "Kiet Ho",
+          "role": "hiring contact named in the posting (title not stated)"
+        }
+      ],
+      "contact_email": "kiet@superset.sh",
+      "contact_name": "Kiet Ho",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}
