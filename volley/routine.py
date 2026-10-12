@@ -215,6 +215,7 @@ def shortlist(day=None, show=True):
     day = day or today()
     s = settings()
     leads = store.load()
+    pipeline.guess_brake(leads, s)
     batch, analysis = _load(day, "batch-*.json"), _load(day, "analysis-*.json")
     used = {(l.get("contact") or {}).get("email") for l in leads.values() if l["status"] != "researching"}
     emailed = _emailed_names(leads)

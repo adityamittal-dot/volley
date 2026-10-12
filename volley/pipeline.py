@@ -224,9 +224,31 @@ def recontact(leads, s):
 
 # ---------- research + writing ----------
 
+BOUNCE_BRAKE = 0.04   # risky address kinds stop when more than 4% of the last 7 days' first emails bounced
+# What bounced up to Oct 13: 7 of 10 were generic inboxes copied from a site (hello@/team@/contact@: 7 of 50
+# sent, 14%), 1 a pattern guess. Site footers often list an inbox nobody set up.
+RISKY_KINDS = {"guessed", "generic"}
+
+
+def guess_brake(leads, s):
+    """While the recent bounce rate is high, stop emailing guessed addresses and generic inboxes found on a
+    site (an address the posting itself gives is still used): at 40 emails a day a bad week would cost the
+    Gmail account its inbox placement. Mutates and returns s."""
+    since = (store.now() - timedelta(days=7)).isoformat()
+    recent = [l for l in leads.values() if (l.get("email") or {}).get("delivered_at", "") >= since[:19]]
+    bounced = sum(1 for l in recent if l["status"] == "bounced")
+    if len(recent) >= 20 and bounced / len(recent) > BOUNCE_BRAKE and s["allow_guessed_emails"]:
+        log(f"bounce brake: {bounced}/{len(recent)} bounced in 7 days, guessed and generic site inboxes off")
+        s["allow_guessed_emails"] = False
+    return s
+
+
 def pick_contact(lead, analysis, s):
     candidates = lead.get("candidates", {})
     chosen = analysis.contact_email.strip().lower()
+    if chosen in candidates and not s["allow_guessed_emails"] and candidates[chosen]["kind"] in RISKY_KINDS \
+            and candidates[chosen]["where"] != "job posting":
+        chosen = ""
     if chosen in candidates:
         v = candidates[chosen]
         kind = "posting" if v["where"] == "job posting" else "commit" if "GitHub" in v["where"] else v["kind"]
@@ -248,6 +270,7 @@ def process(leads, s, p, slots):
     """Research and write emails for the top leads until `slots` emails are queued."""
     if slots <= 0:
         return 0
+    guess_brake(leads, s)
     emailed = {(l.get("contact") or {}).get("email") for l in leads.values() if l.get("contact")}
     pool = sorted((l for l in leads.values() if l["status"] == "new"), key=lambda l: l["score"], reverse=True)
     budget = math.ceil(slots * s["research_factor"])

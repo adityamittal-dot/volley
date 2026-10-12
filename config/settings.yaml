@@ -5,11 +5,11 @@
 # send  = volley sends them itself.
 mode: draft
 
-daily_new: 25          # new first-touch emails per day (raise to 30 once Gmail deliverability holds up)
+daily_new: 40          # new first-touch emails per day (25 until Oct 13; supply was the limit, not the cap). Bounce brake: pipeline.guess_brake
 send_days: [0, 1, 2, 3, 4]   # Mon-Fri (0 = Monday)
 followup_days: [4, 10] # follow-up #1 and #2, days after the first email
 min_fit: 6             # analyst fit score (1-10) below this is skipped
-research_factor: 3.0   # analyze this many leads per open slot: ~1 in 3 researched leads ends in an email (Sep 29-Oct 5: 86 of 250), so 3x fills the 25 slots
+research_factor: 3.0   # analyze this many leads per open slot: ~1 in 3 researched leads ends in an email (Sep 29-Oct 5: 86 of 250), so 3x fills the slots
 lead_max_age_days: 30  # ignore postings older than this
 allow_guessed_emails: true   # founder@ pattern guesses (MX-checked) when nothing better exists
 recontact_per_day: 40  # no_contact leads re-researched each day with the people finder (YC founders, GitHub members)

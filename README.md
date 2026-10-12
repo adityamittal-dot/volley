@@ -1,6 +1,6 @@
 # volley
 
-Finds startups that are hiring, works out who to email and what to say, and sends ~30 short, researched cold emails a day asking for an internship or entry-level role. Follow-ups, reply tracking, a progress tracker, and resume tailoring when (and only when) it pays off.
+Finds startups that are hiring, works out who to email and what to say, and sends up to 40 short, researched cold emails a day asking for an internship or entry-level role. Follow-ups, reply tracking, a progress tracker, and resume tailoring when (and only when) it pays off.
 
 **NCR priority:** the candidate is based in Noida, so Delhi NCR (Gurgaon/Gurugram, Noida, Delhi) leads that pay well are pushed to the front — `config/settings.yaml`'s `priority` block sets the pay floor/target (₹8/10 LPA, ₹25k/40k stipend). This includes niche startups that never post an opening: GitHub orgs based in NCR that are still actively shipping, and NCR startups that just closed a funding round.
 
@@ -60,7 +60,7 @@ python -m venv .venv && .venv/bin/pip install -r requirements.txt
 
 ## Volume and cost
 
-25 new emails per weekday. Sep 29 - Nov 10 is 31 weekdays: ~775 first emails plus follow-ups. The routine reads ~50 leads/day with Haiku and writes ~25 emails with Sonnet, roughly $0.50-0.75 of credits a day. Everything else runs free on Actions. After `credits_until` (2026-11-10) no new batches are prepared; follow-ups and reply tracking keep running.
+Up to 40 new emails per weekday (25 until Oct 13). The routine reads ~120 leads/day with Haiku and writes up to 40 emails with Sonnet, roughly $0.80-1.20 of credits a day. If more than 4% of the last week's first emails bounce, guessed addresses and generic site inboxes (hello@, team@: 7 of the first 10 bounces) are switched off automatically until it recovers. Everything else runs free on Actions. After `credits_until` (2026-11-10) no new batches are prepared; follow-ups and reply tracking keep running.
 
 Fallback: set `engine: api` in `config/settings.yaml` plus an `ANTHROPIC_API_KEY` secret and the prepare run does the whole thing through the Claude API instead (Haiku analyst, Sonnet writer, hard daily budget cap).
 
