@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-12T10:05:15Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-12T18:04:26Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 183 · **Sent:** 183 · **Replies:** 22 (12%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 186 · **Sent:** 186 · **Replies:** 22 (12%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,27 +10,26 @@ _Updated 2026-10-12T10:05:15Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 2 |
 | no_contact | 705 |
 | low_fit | 435 |
-| queued | 3 |
-| sent | 26 |
+| sent | 28 |
 | followup_1 | 70 |
 | followup_2 | 56 |
 | replied | 22 |
-| bounced | 9 |
+| bounced | 10 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 95 | 10 |
-| canopy | 49 | 8 |
+| medvault | 96 | 10 |
+| canopy | 51 | 8 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 144 | 19 |
-| short | 39 | 3 |
+| role | 145 | 19 |
+| short | 41 | 3 |
 
 ## Replies
 
@@ -61,12 +60,15 @@ _Updated 2026-10-12T10:05:15Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-12 | Numen | contact@numen.com | medvault | sent |
+| 2026-10-12 | Hypercubic | team@hypercubic.ai | canopy | sent |
+| 2026-10-12 | Superset | kiet@superset.sh | canopy | sent |
 | 2026-10-12 | Protex AI | info@protex.ai | medvault | sent |
 | 2026-10-12 | Scalar Field | info@scalarfield.io | medvault | sent |
 | 2026-10-12 | Aglide | contact@aglide.com | medvault | sent |
 | 2026-10-12 | Sitefire | info@sitefire.ai | medvault | sent |
 | 2026-10-12 | Open | tabaza@open.cx | medvault | sent |
-| 2026-10-12 | KugelAudio | jobs@kugelaudio.com | medvault | sent |
+| 2026-10-12 | KugelAudio | jobs@kugelaudio.com | medvault | bounced |
 | 2026-10-12 | nao Labs | christophe.blefari@gmail.com | canopy | sent |
 | 2026-10-12 | PolyMage Labs | uday@polymagelabs.com | canopy | sent |
 | 2026-10-12 | MicroPyramid | ashwin@micropyramid.com | medvault | sent |
@@ -83,6 +85,3 @@ _Updated 2026-10-12T10:05:15Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-08 | AgileHead | jeswinpk@agilehead.com | canopy | sent |
 | 2026-10-08 | Ionage | careers@ionage.in | medvault | sent |
 | 2026-10-08 | Syook | careers@syook.com | medvault | sent |
-| 2026-10-08 | Roro | hr@roro.io | medvault | sent |
-| 2026-10-08 | YellowSense Technologies Pvt Ltd | hr@yellowsense.in | medvault | sent |
-| 2026-10-08 | Pantelwar | baldeep.singh@pantelwar.com | medvault | sent |
