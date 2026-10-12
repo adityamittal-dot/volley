@@ -14,7 +14,8 @@ import dns.resolver
 import requests
 from bs4 import BeautifulSoup
 
-from .sources import extract_emails
+from . import ats
+from .sources import extract_emails, remember_boards
 from .store import domain_of
 
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
@@ -99,8 +100,10 @@ def classify(email, domain):
 
 
 def crawl_site(website, max_pages=5):
-    """Return (pages: [(url, text)], emails: {email: where}, github_orgs: set)."""
+    """Return (pages: [(url, text)], emails: {email: where}, github_orgs: set). Job-board links seen on
+    the way are collected in crawl_site.boards for the ATS registry."""
     pages, emails, orgs = [], {}, set()
+    crawl_site.boards = set()
     home = _get(website)
     if not home:
         text = _jina(website)
@@ -126,6 +129,7 @@ def crawl_site(website, max_pages=5):
             time.sleep(0.3)
 
     for r in queue:
+        crawl_site.boards |= ats.detect_boards(r.text)
         soup = BeautifulSoup(r.text, "html.parser")
         for a in soup.find_all("a", href=True):
             href = a["href"].strip()
@@ -213,6 +217,9 @@ def research(lead):
     pages, orgs = [], set()
     if website:
         pages, site_emails, orgs = crawl_site(website)
+        if crawl_site.boards:
+            lead["ats_boards"] = sorted(f"{k}:{s}" for k, s in crawl_site.boards)
+            remember_boards(crawl_site.boards, lead["company"], website)
         for e, where in site_emails.items():
             candidates.setdefault(e, {"where": where, "kind": classify(e, domain)})
     if lead.get("source") == "github_orgs" and lead.get("url", "").startswith("https://github.com/"):

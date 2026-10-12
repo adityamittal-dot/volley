@@ -6,6 +6,10 @@ ones, isolating failures per source so one broken API doesn't kill the rest.
 """
 
 import html
+import json
+import random
+import urllib.parse
+import xml.etree.ElementTree as ET
 import os
 import re
 import time
@@ -13,6 +17,7 @@ from datetime import datetime, timezone
 from urllib.parse import quote, urlparse
 
 import requests
+from bs4 import BeautifulSoup
 
 TIMEOUT = 25
 
@@ -865,19 +870,54 @@ def _ats_jobs(kind, slug):
     return []
 
 
-def fetch_ats_boards():
-    leads = []
+# Boards found on companies' own sites while researching them (research.crawl_site): {"kind:slug": {company,
+# website, found}}. Committed with the rest of data/, so the list grows by itself every day.
+ATS_REGISTRY = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "ats_boards.json")
+
+
+def _registry():
+    try:
+        with open(ATS_REGISTRY) as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return {}
+
+
+def remember_boards(boards, company, website):
+    reg = _registry()
+    new = {f"{k}:{s}" for k, s in boards} - set(reg) - {f"{k}:{s}" for k, b in ATS_BOARDS.items() for s in b}
+    if not new:
+        return
+    for key in new:
+        reg[key] = {"company": company, "website": website, "found": normalize_date(int(time.time()))[:10]}
+    with open(ATS_REGISTRY, "w") as f:
+        json.dump(reg, f, indent=1, sort_keys=True)
+
+
+def _all_boards():
+    """(kind, slug, company, website): the hand-picked boards, then every discovered one."""
     for kind, boards in ATS_BOARDS.items():
         for slug, website in boards.items():
-            try:
-                jobs = _ats_jobs(kind, slug)
-            except (requests.RequestException, ValueError, KeyError):
-                continue
-            company = urlparse(website).netloc.removeprefix("www.").split(".")[0].title()
-            for title, loc, url, posted_at, desc in jobs:
-                if _ATS_INDIA.search(loc) and _ENG_TITLE.search(title):
-                    leads.append(_lead(company, title, desc, url, website, loc, posted_at, "ats_boards"))
-            time.sleep(0.2)
+            yield kind, slug, urlparse(website).netloc.removeprefix("www.").split(".")[0].title(), website
+    for key, v in _registry().items():
+        kind, _, slug = key.partition(":")
+        yield kind, slug, v.get("company") or slug.title(), v.get("website") or ""
+
+
+def fetch_ats_boards():
+    from . import ats
+    leads = []
+    for kind, slug, company, website in _all_boards():
+        if kind == "darwinbox":   # behind a Cloudflare bot check: recorded, never readable without a browser
+            continue
+        try:
+            jobs = _ats_jobs(kind, slug) if kind in ATS_BOARDS else ats.board_jobs(kind, slug)
+        except (requests.RequestException, ValueError, KeyError, TypeError):
+            continue
+        for title, loc, url, posted_at, desc in jobs:
+            if _ATS_INDIA.search(loc) and _ENG_TITLE.search(title):
+                leads.append(_lead(company, title, desc, url, website, loc, posted_at, "ats_boards"))
+        time.sleep(0.2)
     return leads
 
 
@@ -960,6 +1000,345 @@ def fetch_simplify():
     return leads
 
 
+# ---------------------------------------- yc india / linkedin / hasjob / reddit --
+# Added 2026-10-13, each live-tested: YC's own India+hiring search (51 companies), LinkedIn's guest job search
+# (capped at 8 searches a run), Hasjob's feed, and hiring posts on Indian startup subreddits.
+
+_YC_ALGOLIA_RE = re.compile(r'window\.AlgoliaOpts\s*=\s*(\{.*?\});', re.S)
+
+
+def _yc_algolia_creds():
+    r = _get("https://www.ycombinator.com/companies")
+    m = _YC_ALGOLIA_RE.search(r.text)
+    if not m:
+        raise RuntimeError("could not find window.AlgoliaOpts on /companies page")
+    opts = json.loads(m.group(1))
+    return opts["app"], opts["key"]
+
+
+def fetch_yc_india():
+    app_id, api_key = _yc_algolia_creds()
+    params = urllib.parse.urlencode({
+        "facetFilters": json.dumps([["regions:India"], ["isHiring:true"]]),
+        "hitsPerPage": 200,
+    })
+    body = {"requests": [{"indexName": "YCCompany_production", "params": params}]}
+    r = SESSION.post(
+        f"https://{app_id.lower()}-dsn.algolia.net/1/indexes/*/queries",
+        headers={
+            "X-Algolia-API-Key": api_key,
+            "X-Algolia-Application-Id": app_id,
+            "Content-Type": "application/json",
+        },
+        json=body, timeout=TIMEOUT,
+    )
+    r.raise_for_status()
+    hits = r.json()["results"][0].get("hits", [])
+
+    leads = []
+    for h in hits:
+        slug = h.get("slug", "")
+        batch = h.get("batch") or ""
+        title = f"Engineering (YC {batch})" if batch else "Engineering (YC)"
+        parts = []
+        if h.get("one_liner"):
+            parts.append(h["one_liner"])
+        if h.get("long_description"):
+            parts.append(h["long_description"])
+        extra = ", ".join((h.get("tags") or []) + (h.get("industries") or []))
+        if extra:
+            parts.append(extra)
+        desc = " ".join(parts)
+        url = f"https://www.ycombinator.com/companies/{slug}" if slug else ""
+        leads.append(_lead(
+            h.get("name", ""), title, desc, url, h.get("website", ""),
+            h.get("all_locations", ""), None, "yc_hiring", yc=True,
+        ))
+    return leads
+
+
+# ---------------------------------------------------------------- 2. LinkedIn --
+# Guest (unauthenticated) job search API: no login needed, but aggressively rate
+# limited, so this stays well under budget (hard cap below) with randomized sleeps
+# and a single 429 retry.
+
+_LI_KEYWORDS = ("software engineer intern", "software developer fresher", "backend intern", "python developer intern")
+_LI_LOCATIONS = ("Noida, Uttar Pradesh, India", "Gurugram, Haryana, India", "New Delhi, Delhi, India", "India")
+# A bare "Delhi" matched Delhi Township, Ohio in testing: full names, and anything outside India is dropped.
+_LI_INDIA = re.compile(r"india|noida|gurugram|gurgaon|delhi|bengaluru|bangalore|mumbai|pune|hyderabad|chennai|remote", re.I)
+_LI_MAX_REQUESTS = 8
+_LI_MAX_DETAIL_FETCHES = 15
+_LI_TRACKING_PARAMS = ("position", "pageNum", "refId", "trackingId", "trk")
+
+
+def _li_clean_url(url):
+    if not url:
+        return ""
+    parsed = urlparse(url)
+    return f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+
+
+def _li_search(keywords, location):
+    url = (
+        "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+        f"?keywords={quote(keywords)}&location={quote(location)}&f_TPR=r604800&start=0"
+    )
+    try:
+        r = _get(url)
+    except requests.RequestException as e:
+        if getattr(e, "response", None) is not None and e.response.status_code == 429:
+            time.sleep(20)
+            r = _get(url)
+        else:
+            raise
+    return BeautifulSoup(r.text, "html.parser").select(".base-card")
+
+
+def _li_detail_description(job_id):
+    try:
+        r = _get(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}")
+    except requests.RequestException:
+        return ""
+    soup = BeautifulSoup(r.text, "html.parser")
+    d = soup.select_one(".description__text")
+    return d.decode_contents() if d else ""
+
+
+def fetch_linkedin():
+    leads = []
+    seen_urls = set()
+    requests_made = 0
+    detail_fetches = 0
+
+    combos = [(k, loc) for k in _LI_KEYWORDS for loc in _LI_LOCATIONS]
+    random.shuffle(combos)
+
+    for keywords, location in combos:
+        if requests_made >= _LI_MAX_REQUESTS:
+            break
+        requests_made += 1
+        try:
+            cards = _li_search(keywords, location)
+        except requests.RequestException:
+            continue
+
+        for c in cards:
+            title_el = c.select_one(".base-search-card__title")
+            company_el = c.select_one(".base-search-card__subtitle")
+            loc_el = c.select_one(".job-search-card__location")
+            link_el = c.select_one("a.base-card__full-link") or c.select_one("a")
+            time_el = c.select_one("time")
+
+            href = _li_clean_url(link_el.get("href") if link_el else "")
+            loc_text = loc_el.get_text(strip=True) if loc_el else location
+            if not href or href in seen_urls or not _LI_INDIA.search(loc_text) or re.search(r", (OH|US)\b|United States", loc_text):
+                continue
+            seen_urls.add(href)
+
+            urn = c.get("data-entity-urn", "")
+            job_id = urn.split(":")[-1] if urn else ""
+
+            desc = ""
+            if job_id and detail_fetches < _LI_MAX_DETAIL_FETCHES:
+                desc = _li_detail_description(job_id)
+                detail_fetches += 1
+                time.sleep(random.uniform(3, 6))
+
+            posted_at = normalize_date(time_el.get("datetime")) if time_el else None
+            leads.append(_lead(
+                company_el.get_text(strip=True) if company_el else "",
+                title_el.get_text(strip=True) if title_el else "",
+                desc, href, "", loc_el.get_text(strip=True) if loc_el else location,
+                posted_at, "linkedin",
+            ))
+
+        time.sleep(random.uniform(3, 6))
+
+    return leads
+
+
+# ----------------------------------------------------------------- 3. Hasjob --
+
+_ENG_TITLE_RE = re.compile(
+    r"engineer|developer|\bsde\b|software|backend|frontend|full[- ]?stack|\bml\b|machine learning|"
+    r"\bai\b|data scien|devops|\bsre\b|programmer|technical", re.I,
+)
+_ATOM_NS = "{http://www.w3.org/2005/Atom}"
+
+
+def fetch_hasjob():
+    r = _get("https://hasjob.co/feed")
+    root = ET.fromstring(r.content)
+
+    leads = []
+    for entry in root.findall(f"{_ATOM_NS}entry"):
+        title = (entry.findtext(f"{_ATOM_NS}title") or "").strip()
+        if not _ENG_TITLE_RE.search(title):
+            continue
+        link_el = entry.find(f"{_ATOM_NS}link")
+        url = link_el.get("href") if link_el is not None else ""
+        location = entry.findtext(f"{_ATOM_NS}location") or ""
+        content = entry.findtext(f"{_ATOM_NS}content") or ""
+        published = entry.findtext(f"{_ATOM_NS}published") or entry.findtext(f"{_ATOM_NS}updated")
+        posted_at = normalize_date(published)
+
+        # company name: hasjob entries have no explicit <author> for the org; the
+        # first bold link in the content body is the posting company's name/site.
+        company = ""
+        website = ""
+        name_match = re.search(r'<strong>\s*<a href="([^"]+)">([^<]+)</a>', content)
+        if name_match:
+            website = name_match.group(1)
+            company = strip_html(name_match.group(2))
+        if not company:
+            # fall back to the URL's org slug, e.g. hasjob.co/<org>/<id>
+            path_parts = [p for p in urlparse(url).path.split("/") if p]
+            if path_parts:
+                company = path_parts[0]
+
+        leads.append(_lead(company, title, content, url, website, location, posted_at, "hasjob"))
+    return leads
+
+
+# ------------------------------------------------------------- 4. Reddit hiring --
+
+_REDDIT_UA = "volley/0.1 (job search script)"
+_REDDIT_FEEDS = (
+    ("developersIndia", "hiring"),
+    ("StartUpIndia", "hiring OR intern"),
+    ("indianstartups", "hiring OR intern"),
+)
+_REDDIT_HIRING_RE = re.compile(r"\[hiring\]|\bhiring\b|looking for.*intern|we('| a)re hiring", re.I)
+_REDDIT_FOR_HIRE_RE = re.compile(
+    r"\[for\s*hire\]|looking for (a |an )?(job|role|opportunit|referral)|seeking (a |an )?"
+    r"(job|role|opportunit)|open to work|fresher.*(looking|seeking)|2025 grad|2026 grad|"
+    r"as a .*(dev|engineer).*(looking|what)", re.I,
+)
+
+def _reddit_session():
+    s = requests.Session()
+    s.headers.update({"User-Agent": _REDDIT_UA})
+    return s
+
+
+def _reddit_get(session, url):
+    last_exc = RuntimeError(f"gave up fetching {url}")
+    for attempt in range(2):
+        try:
+            r = session.get(url, timeout=TIMEOUT)
+            if r.status_code == 429:
+                last_exc = requests.HTTPError("429 Too Many Requests", response=r)
+                time.sleep(20)
+                continue
+            r.raise_for_status()
+            return r
+        except requests.RequestException as e:
+            last_exc = e
+    raise last_exc
+
+
+def fetch_reddit_hiring():
+    session = _reddit_session()
+    leads = []
+    seen = set()
+
+    for sub, query in _REDDIT_FEEDS:
+        url = (
+            f"https://www.reddit.com/r/{sub}/search.rss"
+            f"?q={quote(query)}&restrict_sr=1&sort=new&t=month"
+        )
+        try:
+            r = _reddit_get(session, url)
+            root = ET.fromstring(r.content)
+        except (requests.RequestException, ET.ParseError):
+            continue
+
+        for entry in root.findall(f"{_ATOM_NS}entry"):
+            title = entry.findtext(f"{_ATOM_NS}title") or ""
+            if _REDDIT_FOR_HIRE_RE.search(title) or not _REDDIT_HIRING_RE.search(title) \
+                    or not _ENG_TITLE_RE.search(title) or re.search(r"commission|sales|marketing|unpaid", title, re.I):
+                continue
+
+            link_el = entry.find(f"{_ATOM_NS}link")
+            post_url = link_el.get("href") if link_el is not None else ""
+            if not post_url or post_url in seen:
+                continue
+            seen.add(post_url)
+
+            author = entry.findtext(f"{_ATOM_NS}author/{_ATOM_NS}name") or ""
+            content = entry.findtext(f"{_ATOM_NS}content") or ""
+            published = entry.findtext(f"{_ATOM_NS}published") or entry.findtext(f"{_ATOM_NS}updated")
+            posted_at = normalize_date(published)
+
+            text = strip_html(content)
+            website = ""
+            url_match = re.search(r'href="(https?://(?!www\.reddit\.com|external-preview\.redd\.it|preview\.redd\.it|i\.redd\.it)[^"]+)"', content)
+            if url_match:
+                website = url_match.group(1)
+
+            company_match = re.search(r"\bat\s+([A-Z][\w.&-]*(?:\s+[A-Z][\w.&-]*){0,2})\b", title)
+            company = company_match.group(1) if company_match else (author or "")
+
+            leads.append(_lead(company, title, content, post_url, website, "India", posted_at, "reddit"))
+
+        time.sleep(random.uniform(8, 12))
+
+    return leads
+
+
+# ------------------------------------------------------------ 5. GitHub hiring --
+# GitHub search for issues/discussions naming India + hiring/intern returns no
+# real signal (checked live: 0 hits for a 30-day title search), and the curated
+# "Indian startups hiring" repos found via repo search are either generic
+# resource lists (job-board links, not individual companies) or web-app
+# projects with no parseable README table -- not real per-company postings.
+# This fetcher is implemented but documented as a no-op; see report.
+
+
+# ------------------------------------------------------------- portfolio --
+# Startups backed by India-focused investors (Antler India, Peak XV Surge, Stellaris, LetsVenture, Titan
+# Capital; see portfolio.py). Small, funded, often no posting: like funding_news they're cold-emailed with
+# "do you take interns". Portfolios change slowly and ~85 detail pages are read, so this runs on Mondays only.
+
+def fetch_portfolio():
+    if datetime.now(timezone.utc).weekday() != 0 and not os.environ.get("VOLLEY_PORTFOLIO_NOW"):
+        return []
+    from .portfolio import fetch_portfolios
+    leads = []
+    for row in fetch_portfolios():
+        site = row.get("website") or ""
+        if not site or site in _KNOWN_URLS:
+            continue
+        leads.append(_lead(row["company"], "Software Engineering (no public opening)",
+                           f"Backed by {row['investor']}. {row.get('description') or ''}", site, site,
+                           row.get("location") or "India", None, "portfolio"))
+    return leads
+
+
+# ---------------------------------------------------------------- manual --
+# Leads collected by hand or in a logged-in browser (LinkedIn / X hiring posts, which no keyless API serves):
+# data/manual_leads.json is a list of {company, title, url, website, location, description, emails, posted_at}.
+# Each entry is picked up once (its url is then a known lead).
+
+MANUAL_LEADS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "manual_leads.json")
+
+
+def fetch_manual():
+    if not os.path.exists(MANUAL_LEADS):
+        return []
+    with open(MANUAL_LEADS) as f:
+        items = json.load(f)
+    leads = []
+    for it in items:
+        if not it.get("company") or it.get("url") in _KNOWN_URLS:
+            continue
+        leads.append(_lead(it["company"], it.get("title") or "Software Engineering Internship", it.get("description") or "",
+                           it.get("url") or "", it.get("website") or "", it.get("location") or "India",
+                           normalize_date(it.get("posted_at")), "manual",
+                           extra_email_text=" ".join(it.get("emails") or [])))
+    return leads
+
+
 # --------------------------------------------------------------- runner --
 
 _SOURCES = {
@@ -976,6 +1355,12 @@ _SOURCES = {
     "funding_news": fetch_funding_news,
     "simplify": fetch_simplify,
     "ats_boards": fetch_ats_boards,
+    "yc_india": fetch_yc_india,
+    "linkedin": fetch_linkedin,
+    "hasjob": fetch_hasjob,
+    "reddit": fetch_reddit_hiring,
+    "manual": fetch_manual,
+    "portfolio": fetch_portfolio,
 }
 
 

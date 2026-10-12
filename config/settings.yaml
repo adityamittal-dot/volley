@@ -64,4 +64,10 @@ sources:
   github_orgs: true    # niche NCR startups with no posted opening, found by GitHub org location
   funding_news: true   # recently-funded Indian startups (Entrackr, Inc42, ET, YourStory); NCR ones get priority
   ats_boards: true    # Lever/Greenhouse/Ashby/Workable boards of Indian startups (sources.ATS_BOARDS)
+  yc_india: true       # YC's own search: India-based companies marked hiring (yc_hiring's feed is mostly US)
+  linkedin: true       # LinkedIn guest job search, NCR + India, max 8 searches a run
+  hasjob: true         # hasjob.co feed (Indian tech jobs)
+  reddit: true         # [Hiring] posts on r/developersIndia, r/StartUpIndia, r/indianstartups
+  manual: true         # data/manual_leads.json: hiring posts collected in the browser (LinkedIn, X)
+  portfolio: true      # Monday: India VC/accelerator portfolios (Antler, Surge, Stellaris, LetsVenture, Titan)
   simplify: false      # 1 email from 167 researched leads (ATS-only big companies)

@@ -40,7 +40,7 @@ def lead_domain(raw):
     return ""
 
 
-_GOOD_SIGNAL_SOURCES = ("github_orgs", "funding_news")
+_GOOD_SIGNAL_SOURCES = ("github_orgs", "funding_news", "portfolio")
 # How often a source's researched leads end in a sent email (25 Sep - 5 Oct): github_orgs 23/86, yc_hiring 51/188,
 # hn_hiring 16/81, jobicy 2/10, internshala 3/30, unstop 8/86, funding_news 0/25 (no address on the article:
 # now India-hub rounds get the blind founder guess, see heuristic), arbeitnow 0/13, simplify 1/167. Simplify and
@@ -48,7 +48,7 @@ _GOOD_SIGNAL_SOURCES = ("github_orgs", "funding_news")
 # Replies per sent email (Sep 29 - Oct 12, 183 sends): hn_hiring 4/21, github_orgs 9/57, yc_hiring 6/88. A real
 # posting got 20% vs 10% with none, India 20% vs US 7%: YC's directory (mostly US, no posting) ranks last
 # among the good sources unless research finds a YC job posting (research.find_people).
-SOURCE_YIELD = {"github_orgs": 2, "hn_hiring": 2, "funding_news": 1, "unstop": -1, "internshala": -1,
+SOURCE_YIELD = {"manual": 3, "github_orgs": 2, "hn_hiring": 2, "funding_news": 1, "portfolio": 1, "unstop": -1, "internshala": -1,
                 "yc_hiring": -1, "arbeitnow": -3, "simplify": -4}
 YC_BATCH = re.compile(r"\b(?:Winter|Summer|Spring|Fall|[WSXF])\s?'?(\d{2}|\d{4})\b")
 US_LOC = re.compile(r"\b(usa|united states|u\.s\.|america / canada|canada)\b")
@@ -206,7 +206,7 @@ def discover(leads, s, p):
 
 # no_contact leads worth a second research pass with the people finder (founders via YC, engineers via
 # GitHub). Big-company boards (Simplify, Arbeitnow, remote boards) had no reachable person and stay out.
-RECONTACT_SOURCES = {"yc_hiring", "github_orgs", "hn_hiring", "funding_news", "unstop", "internshala", "ats_boards",
+RECONTACT_SOURCES = {"portfolio", "linkedin", "hasjob", "reddit", "yc_hiring", "github_orgs", "hn_hiring", "funding_news", "unstop", "internshala", "ats_boards",
                      "manual"}
 
 
