@@ -2254,9 +2254,25 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy is a developer tool that caches analysis by commit hash and checks git ls-remote before cloning, which is the same kind of CI-cost and repeat-work problem WarpBuild sells against.",
+   "fit": 7,
+   "hook": "your 'CI in the AI era' section says each PR, push and rebase fans out into the full build and test matrix, so velocity upstream lands as load downstream",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "GitHub Actions",
+    "Docker",
+    "AWS",
+    "GCP",
+    "Azure"
+   ],
+   "summary": "WarpBuild sells faster, cheaper GitHub Actions runners and remote Docker builders that run in its cloud or the customer's own VPC, aimed at engineering teams and their coding agents."
+  },
   "score": 5.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "no_contact",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/warpbuild",
   "website": "https://www.warpbuild.com",
@@ -2406,9 +2422,22 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Their LLM-as-judge output checking is the same kind of model-output control MedVault's schema-bound Gemini pipeline applies.",
+   "fit": 6,
+   "hook": "Site says agents use LLM-as-Judge to score their own workflow output and auto-apply the best-performing pattern.",
+   "people": [],
+   "region": "asia",
+   "stack": [
+    "LLM-as-judge",
+    "generative AI agents"
+   ],
+   "summary": "Agentic workflow automation for finance and back-office operations (invoice-to-cash, procure-to-pay, expense reimbursement) for 100+ businesses."
+  },
   "score": 5.9,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "no_contact",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/peakflo",
   "website": "https://peakflo.co",
@@ -3069,9 +3098,23 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault's Django REST backend with JWT auth and per-user isolation is the closest match to an API-first payments product, though the company is excluded as a stablecoin/crypto business.",
+   "fit": 4,
+   "hook": "your FAQ says the REST API is the full surface and MCP and the CLI sit on top of it",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "REST API",
+    "MCP",
+    "CLI"
+   ],
+   "summary": "Infinite is a B2B payments processor that moves money through stablecoins, US rails, SWIFT and FX, and offers USD accounts, payouts and compliance APIs to businesses."
+  },
   "score": 5.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2025)",
   "url": "https://www.ycombinator.com/companies/infinite",
   "website": "https://infinite.net",
@@ -3301,9 +3344,21 @@
    }
   },
   "company": "Hypercubic",
+  "contact": {
+   "confidence": "generic",
+   "email": "team@hypercubic.ai",
+   "found_on": "https://www.hypercubic.ai/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 3. Agentic AI for Mainframe Operations and Modernization Hypercubic is an AI-native platform for mainframe operations and modernization. We help enterprises understand and modernize their mission-critical legacy systems. About 70% of the Fortune 500 companies still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more. These systems, originally built in the 1960s–90s, still power trillions in global infrastructure today but have become increasingly opaque as original developers retire or leave the workforce. We are pioneering a new class of intelligence capable of understanding, reasoning about, and rebuilding the world’s foundational infrastructure. Learn more at hypercubic.ai B2B, United States of America, America / Canada",
   "domain": "hypercubic.ai",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Hypercubic team,\n\nHyperDocs turning opaque COBOL into searchable documentation with dependency mapping is the same problem as resolving calls across files without a compiler to lean on.\n\nI built Canopy, which parses a repo in 10 languages into a call graph and marks unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does Hypercubic take on engineering interns?",
+   "lint": [],
+   "subject": "Software engineering intern at Hypercubic"
+  },
   "emails": [],
   "found_at": "2026-10-02T05:56:34Z",
   "github_orgs": [],
@@ -3313,9 +3368,23 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy's cross-file call-graph resolution and multi-language parsing solve the same dependency-mapping problem HyperDocs describes for COBOL code.",
+   "fit": 7,
+   "hook": "your HyperDocs page says it turns opaque COBOL codebases into living, searchable documentation with dependency mapping",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "COBOL",
+    "z/OS",
+    "TPF"
+   ],
+   "summary": "Hypercubic builds an agentic AI platform for mainframe operations and modernization, documenting, operating and migrating legacy COBOL systems for large enterprises in banking, insurance and government."
+  },
   "score": 5.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Fall 2025)",
   "url": "https://www.ycombinator.com/companies/hypercubic",
   "website": "https://www.hypercubic.ai/",
@@ -3728,9 +3797,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Their AI agents personalise outreach at scale from scraped data, the same kind of LLM pipeline with a fixed output format that MedVault uses.",
+   "fit": 5,
+   "hook": "Your posting splits the work cleanly: AI handles lead scoring and personalisation, humans take the calls.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "An outbound sales service with offices in London and Cape Town that builds custom AI agents and scraping tools, then pairs them with human SDRs to book meetings for B2B software companies in traditional industries."
+  },
   "score": 5.4,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Spring 2025)",
   "url": "https://www.ycombinator.com/companies/throxy",
   "website": "https://throxy.com/",
@@ -3745,9 +3824,21 @@
    }
   },
   "company": "Numen",
+  "contact": {
+   "confidence": "generic",
+   "email": "contact@numen.com",
+   "found_on": "https://www.numen.com/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 18. Engineering a future without cancer deaths. Machine Learning, Biotech, Healthcare, Diagnostics, AI, Healthcare, Diagnostics, United States of America, America / Canada, Remote, Partly Remote",
   "domain": "numen.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Numen team,\n\nYour homepage says the site is still marked launching soon, and the pitch is high-volume health data feeding proprietary models for earlier intervention, which only holds up if one malformed record can't quietly break a model downstream.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship or entry-level role, can join immediately. Does Numen take on engineering interns?",
+   "lint": [],
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-10-01T06:15:10Z",
   "github_orgs": [],
@@ -3757,9 +3848,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault handles sensitive health data with per-user isolation and safety rules that forbid diagnosis, which is the nearest experience to Numen's health data pipeline and ML models.",
+   "fit": 6,
+   "hook": "your homepage describes 'streamlined high volume health data collection' feeding 'proprietary models for earlier intervention', and the site is still marked 'launching soon'",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": "Numen is a San Francisco team building rapid at-home diagnostics and high-volume health data collection, with proprietary ML models aimed at earlier cancer intervention. The site says it is launching soon."
+  },
   "score": 5.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Engineering (YC Summer 2023)",
   "url": "https://www.ycombinator.com/companies/numen",
   "website": "https://www.numen.com",
@@ -4366,9 +4467,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault is a health-data LLM pipeline with safety rules and data-privacy isolation, which lines up with Seal's AI working over regulated batch records.",
+   "fit": 5,
+   "hook": "Your Neil demo attaches batch records, timestamps and procedures as sources for each investigation.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "An all-in-one GxP workspace for regulated life-science and manufacturing companies, where an AI assistant called Neil configures and runs quality and batch workflows. The site lists 50+ regulated companies as customers."
+  },
   "score": 5.4,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2020)",
   "url": "https://www.ycombinator.com/companies/seal-2",
   "website": "https://seal.run",
@@ -4794,9 +4905,19 @@
   "posted_at": "2026-10-11T08:39:50Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Security-focused infrastructure; Canopy's dependency analysis is the nearest technical match, but the posted role is senior-only.",
+   "fit": 2,
+   "hook": "Posting says the role reports to a co-founder and works with the team building Aperture, their AI gateway.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "Zero-trust mesh networking product that connects people, devices and cloud workloads, and sells Aperture, an AI gateway, as a product."
+  },
   "score": 6.0,
   "source": "jobicy",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineer, AI Enablement",
   "url": "https://jobicy.com/jobs/155051-software-engineer-ai-enablement",
   "website": "https://tailscale.com",
@@ -6629,9 +6750,19 @@
   "posted_at": "2026-10-09T07:28:52Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "hook": "",
+   "people": [],
+   "region": "india",
+   "stack": [],
+   "summary": "Packaged food company (Cheerios, Blue Buffalo, Old El Paso) with 30,000+ employees. This posting is a non-engineering AI and automation analyst role."
+  },
   "score": 7.5,
   "source": "unstop",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Associate D&T Analyst – AI & Automation",
   "url": "https://unstop.com/jobs/associate-dt-analyst-ai-automation-general-mills-1768042",
   "website": "https://generalmills.com",
@@ -8672,9 +8803,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "A developer-infrastructure database; Canopy's PostgreSQL-backed analysis pipeline and parsing/graph work are the nearest backend match.",
+   "fit": 5,
+   "hook": "Site cites 19M rows/sec per server ingestion in a published QWP benchmark on v10.0.",
+   "people": [],
+   "region": "europe",
+   "stack": [
+    "SQL",
+    "Apache Parquet",
+    "Apache Arrow",
+    "Apache Iceberg"
+   ],
+   "summary": "Open-source time-series database with SQL over Parquet, Iceberg and Arrow, used in capital markets, aerospace and energy."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2020)",
   "url": "https://www.ycombinator.com/companies/questdb",
   "website": "https://questdb.com/",
@@ -9880,9 +10026,26 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Praja is a consumer app that needs an auth-backed API; MedVault's JWT auth and Django REST backend are the nearest work, though Praja's Flutter stack is not one the candidate has shipped.",
+   "fit": 3,
+   "hook": "your site describes a hometown 'neighborhood circle' and fan circles for Andhra and Telangana politicians",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Dart",
+    "Flutter",
+    "JavaScript",
+    "Ruby",
+    "n8n",
+    "Redash"
+   ],
+   "summary": "Praja is a local social network app in India for neighborhood posts and politician and celebrity fan circles. Its careers page says it is not currently hiring."
+  },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/praja",
   "website": "https://praja.app",
@@ -10730,9 +10893,22 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "A Thinkific-hosted course site is a web product with user accounts, and MedVault's JWT auth and per-user isolation is the closest match, though the org lists no roles.",
+   "fit": 2,
+   "hook": "your courses are hosted on rsquared-academy.thinkific.com",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "JavaScript",
+    "R"
+   ],
+   "summary": "GitHub org linked to Rsquared Academy, with its courses on a Thinkific site. The given text has no site copy beyond the platform URL."
+  },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/rsquaredacademy-publications",
   "website": "https://rsquared-academy.thinkific.com/",
@@ -11160,9 +11336,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Strive holds data on children aged 8-16, so MedVault's per-user isolation and privacy-first design matter more than the LLM work.",
+   "fit": 5,
+   "hook": "Posting says you build the tools that help teachers run engaging lessons, not just teach kids to code.",
+   "people": [],
+   "region": "asia",
+   "stack": [],
+   "summary": "Online 1-on-1 coding and math classes for kids aged 8-16, run by a remote-first team of 13 that also builds tools for teachers."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/strive-math",
   "website": "https://www.strivemath.com/",
@@ -11540,9 +11726,29 @@
   "posted_at": "2026-10-10T11:22:01Z",
   "priority": 1,
   "priority_note": "Delhi · ₹25,000/mo",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "No real overlap: this is a hardware and network support role, and Canopy's static-analysis work does not map to it.",
+   "fit": 1,
+   "hook": "Your posting asks for documented fixes for recurring issues, which the site's 'Support that stays' pitch also stresses.",
+   "people": [
+    {
+     "name": "Balvinder Singh",
+     "role": "Founder"
+    }
+   ],
+   "region": "india",
+   "stack": [
+    "Windows",
+    "TCP/IP",
+    "DNS",
+    "DHCP"
+   ],
+   "summary": "Bison Infosolutions is an IT services firm that sells business software licences, cloud hosting and IT support, and it also publishes small Windows utilities under BISON SOFT."
+  },
   "score": 12.5,
   "source": "unstop",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Computer Hardware & Network Engineer",
   "url": "https://unstop.com/jobs/computer-hardware-network-engineer-bison-infosolutions-1768651",
   "website": "https://bison.co.in",
@@ -12221,9 +12427,25 @@
    }
   },
   "company": "Aglide",
+  "contact": {
+   "confidence": "generic",
+   "email": "contact@aglide.com",
+   "found_on": "https://www.aglide.com/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 6. Connect every disconnected app to your SSO. Our mission is to secure access to every enterprise application. Aglide SSO lets security and IT teams connect non-standard and legacy apps - from banking portals to social media logins - directly to their existing identity provider (Okta, Entra, OneLogin, Ping, etc.), with no need for app-side integration. Once connected, these apps behave like any other IdP-managed service: policies like MFA, Conditional Access, RBAC, and audit logging just work, and end users access them through SSO only. Customers use Aglide to secure both individual apps (e.g., legacy banking portals, Discord, Squarespace) and sensitive shared accounts (e.g., AWS root, social media). Our agentic identity technology means Aglide works with any app out of the box - no integration catalog, no custom scripting. Today, companies from public fintechs like Gemini to media companies like The Motley Fool rely on Aglide’s zero-trust, end-to-end encrypted platform to complete their identity stack. B2B, United Kingdom, Europe, Remote, Partly Remote",
   "domain": "aglide.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Aglide team,\n\nKeeping credentials off the end-user's browser for apps with no SAML or SCIM support means the identity layer is doing real work underneath, not just a login page.\n\nI built MedVault, a Django backend with JWT auth, refresh-token rotation, and per-user isolation at the queryset level: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship or entry-level role, can join immediately. Does Aglide take on engineering interns?",
+   "delivered_at": "2026-10-12T10:04:26Z",
+   "lint": [],
+   "message_id": "<179179946518.2107.6531224987597391965@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-12T10:04:26Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [],
@@ -12233,9 +12455,22 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Aglide's identity and access-control product sits on the same auth layer as MedVault, which uses JWT with refresh-token rotation and per-user isolation.",
+   "fit": 6,
+   "hook": "Your site says credentials are never exposed to end-users or their browser for apps that have no SAML or SCIM support.",
+   "people": [],
+   "region": "europe",
+   "stack": [
+    "SAML",
+    "SCIM"
+   ],
+   "summary": "Aglide lets security and IT teams put apps with no SAML or SCIM support behind their existing identity provider, so MFA, conditional access and audit logs apply to them. Its customers include fintechs and media companies."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2023)",
   "url": "https://www.ycombinator.com/companies/aglide",
   "website": "https://aglide.com",
@@ -13376,9 +13611,30 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Your Spring AI posts on structured output and chat memory cover the same LLM problems as MedVault's fixed JSON output schema and tolerant parser, though the stack is Java.",
+   "fit": 2,
+   "hook": "your July 2026 Spring AI series on chat memory and structured output, which covers keeping conversation history across LLM calls",
+   "people": [
+    {
+     "name": "Siva",
+     "role": "owner and software engineer (blog author)"
+    }
+   ],
+   "region": "india",
+   "stack": [
+    "Java",
+    "Spring Boot",
+    "Spring AI",
+    "OpenAI",
+    "Hugo"
+   ],
+   "summary": "SivaLabs is a personal tech blog by Siva, a software engineer who writes about Spring Boot, Spring AI and career topics. No company product or open role is listed."
+  },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/sivalabs",
   "website": "https://sivalabs.in",
@@ -13432,9 +13688,29 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "₹25,000/mo",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "The internship is backend APIs, auth and databases; MedVault is a Django REST API with JWT auth and per-user data isolation.",
+   "fit": 5,
+   "hook": "your 'Project-First' internship tracks promise verified proof of work across 8+ tech domains",
+   "people": [],
+   "region": "other",
+   "stack": [
+    "HTML",
+    "MongoDB",
+    "MySQL",
+    "PHP",
+    "Python",
+    "Node.js",
+    "Express",
+    "React",
+    "Git"
+   ],
+   "summary": "Codeatrix runs mentor-guided, project-based virtual internships across tech domains. Its listed work-from-home backend internship covers APIs, databases and server-side logic."
+  },
   "score": 13.0,
   "source": "internshala",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Backend Development Internship",
   "url": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-codeatrix1791778942",
   "website": "https://codeatrix.com/",
@@ -14499,9 +14775,26 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Their learning platform is a web app with student accounts and support tickets, closer to MedVault's Django REST backend than to Canopy's analyzer. No engineering roles are listed.",
+   "fit": 2,
+   "hook": "your course platform releases new modules every week on a drip model and offers 24x7 advisor support",
+   "people": [
+    {
+     "name": "Aravind Hebbali",
+     "role": "instructor, author of R packages"
+    }
+   ],
+   "region": "india",
+   "stack": [
+    "R"
+   ],
+   "summary": "Online R and data science education company that sells self-paced courses, certification and corporate training, with instructor Aravind Hebbali."
+  },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/rsquaredacademy",
   "website": "https://www.rsquaredacademy.com/",
@@ -14532,9 +14825,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MedVault turns lab report PDFs into a fixed structured schema with a tolerant parser for messy model output, which is close to Morphle's OCR-based requisition data entry.",
+   "fit": 5,
+   "hook": "your RoboReq section says requisition data entry is automated with OCR 'backed by modern Neural Nets', and I built a pipeline that turns lab report PDFs into validated structured output",
+   "people": [],
+   "region": "india",
+   "stack": [],
+   "summary": "Morphle Labs builds robotic microtomes, whole-slide microscope scanners and RoboReq requisition-data software for cancer diagnostics labs and pathology practices."
+  },
   "score": 5.3,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2020)",
   "url": "https://www.ycombinator.com/companies/morphle-labs",
   "website": "https://morphlelabs.com",
@@ -14824,9 +15127,27 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Rigi's backend runs on AWS Lambda APIs and CDN image pipelines, and MedVault's Django REST API with auth is the closest backend service in the candidate's work.",
+   "fit": 4,
+   "hook": "Your GitHub org's topics include CloudFront functions and sharp image transformation on Lambda at the edge.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "TypeScript",
+    "AWS",
+    "CDK",
+    "CloudFront",
+    "Lambda",
+    "Terraform",
+    "sharp"
+   ],
+   "summary": "Rigi TV is a short-form video entertainment app with series such as Badle Ka Khel and Dilwala Bodyguard. Its GitHub org (tagline Create.Share.Earn) works on AWS CDK, CloudFront and Lambda image processing."
+  },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Rigi-club",
   "website": "https://rigi.club",
@@ -15450,9 +15771,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Payments need authenticated, per-account data isolation and tight data privacy, which MedVault's JWT auth and queryset-level isolation demonstrate.",
+   "fit": 4,
+   "hook": "Your posting frames the product as turning Africa's cash economy into real-time digital payments for businesses.",
+   "people": [],
+   "region": "africa",
+   "stack": [],
+   "summary": "A fintech that digitises cash-based payments and runs digital wallets for businesses in southern Africa, headquartered in Namibia and Zambia with a team of about 40."
+  },
   "score": 5.4,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/jabu",
   "website": "http://www.gojabu.com",
@@ -15660,9 +15991,22 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Probots runs a web store with a backend, and MedVault's Django REST API with JWT auth is the closest backend match, though embedded work is outside the candidate's projects.",
+   "fit": 2,
+   "hook": "your site lists embedded electronics design, firmware development and turnkey projects as services",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "C++",
+    "TypeScript"
+   ],
+   "summary": "Online store for DIY electronics, robotics parts and dev boards, which also sells embedded engineering design, prototyping and turnkey development services."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Probots-Electronics",
   "website": "https://www.probots.co.in/",
@@ -15844,9 +16188,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "PaletteHQ is a B2B SaaS backend that turns connected financial data into rule-driven calculations, which is the API and backend work MedVault demonstrates.",
+   "fit": 5,
+   "hook": "Your posting says non-technical customers can implement it in a day and pull data from CRMs and billing systems like Stripe, Xero and NetSuite.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "PaletteHQ is a SaaS platform that calculates B2B sales commissions automatically from CRM, billing and accounting data, replacing spreadsheets. Its users are sales, finance and operations teams."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/palettehq",
   "website": "https://palettehq.com/en",
@@ -16661,9 +17015,19 @@
   "posted_at": "2026-10-09T19:05:22Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "hook": "",
+   "people": [],
+   "region": "india",
+   "stack": [],
+   "summary": "This is an individual engineer's 'looking for work' post in a Hacker News hiring thread, not a company hiring for a role."
+  },
   "score": 13,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "See posting",
   "url": "https://news.ycombinator.com/item?id=50025234",
   "website": "",
@@ -17398,9 +17762,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Identity and personal-data handling is auth and privacy work; MedVault's JWT auth and per-user isolation are the closest match.",
+   "fit": 6,
+   "hook": "Site says every new country's eID is another integration, and their one API covers all of them.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "Identity verification layer for KYC and AML that lets businesses verify clients through eIDs, wallets, biometrics and documents behind one API."
+  },
   "score": 5.9,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "no_contact",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/authologic",
   "website": "https://authologic.com",
@@ -17578,9 +17952,28 @@
   "posted_at": "2026-10-10T10:31:17Z",
   "priority": 1,
   "priority_note": "recently funded",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "A D2C retail expansion has little engineering overlap; MedVault's Django REST backend is the nearest backend work, but the match is weak.",
+   "fit": 2,
+   "hook": "your Series C announcement on growing from about 20,000 stores to 2 lakh and adding sunscreens and serums",
+   "people": [
+    {
+     "name": "Swagatika Das",
+     "role": "cofounder"
+    },
+    {
+     "name": "Gaurav Agarwal",
+     "role": "cofounder"
+    }
+   ],
+   "region": "india",
+   "stack": [],
+   "summary": "Nat Habit is an ayurvedic personal-care D2C brand that just raised a Series C to expand offline retail. The text describes no software product or engineering role."
+  },
   "score": 9.0,
   "source": "funding_news",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (recently funded)",
   "url": "https://inc42.com/buzz/d2c-brand-nat-habit-raises-%e2%82%b9142-cr-to-scale-offline-expansion/",
   "website": "https://nathabit.in",
@@ -18991,9 +19384,19 @@
   "posted_at": "2026-10-12T05:13:09Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Their AI translation product is LLM-based, the closest match to MedVault's LLM pipeline, but the role itself is not one the candidate can take.",
+   "fit": 1,
+   "hook": "The only open role is a freelance Japanese-to-English translator position, not an engineering job.",
+   "people": [],
+   "region": "asia",
+   "stack": [],
+   "summary": "A translation company offering human, AI and machine translation across 200+ languages. The open role is for freelance Japanese-to-English translators of engineering papers, not a software job."
+  },
   "score": 5.5,
   "source": "himalayas",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Freelance Translators - Japanese to English - Engineering",
   "url": "https://himalayas.app/companies/ulatus/jobs/freelance-translators-japanese-to-english-engineering",
   "website": "https://ulatus.com",
@@ -19653,9 +20056,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Flam's Falcon LLM and Visual Agents are AI products shipped to end users, and MedVault's Gemini pipeline with a fixed output schema and a mockable LLM client is the closest production-AI match in the candidate's work.",
+   "fit": 5,
+   "hook": "Your Visual Agents page cites 800 ms latency for photoreal talking avatars in 60+ languages.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Kotlin",
+    "Python",
+    "TypeScript"
+   ],
+   "summary": "Flam builds AI models and interactive content formats (Flicks, Airboards, Visual Agents) for video-like content. The site reports a $40M Series B and over 100 enterprise customers."
+  },
   "score": 16.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/homingos",
   "website": "https://flamapp.com",
@@ -20141,9 +20558,25 @@
    }
   },
   "company": "Scalar Field",
+  "contact": {
+   "confidence": "generic",
+   "email": "info@scalarfield.io",
+   "found_on": "https://scalarfield.io/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 3. Your Agentic Trading Desk — Building the next era of agentic… We’re building the agentic trading desk for the new operating system of markets. I used to be a trader at Tower Research and Goldman Sachs, and I’m building Scalar Field with my co-founder Ramakant, who led engineering teams at Microsoft. We’ve both spent our careers at the intersection of finance and technology, and we’re using that experience to rethink how markets are analyzed, tested, and traded in the age of agents. Scalar Field is built around a simple belief: over the next few years, agents will not just help people research markets — they will actively participate in them. They will monitor news, parse filings, track sentiment, test hypotheses, rebalance portfolios, and execute trades. They will turn ideas into strategies, and strategies into live portfolios. But today’s financial infrastructure was not built for that world. Terminals are dashboards. Backtesting tools are fragmented. Execution systems are separate. Market data is hard to unify. And most platforms still assume the human is the only decision-maker. Scalar Field changes that. We’re building an agentic trading platform where users can create financial agents that research data, backtest strategies, monitor market events, and trigger trades when specific conditions are met. The long-term vision is agentic ETFs: portfolios created, managed, and rebalanced by agents around any idea, narrative, event, or market signal. Scalar Field lets users go from thesis to backtest to live portfolio in one place. It is infrastructure for the agentic trading era. Fintech, Unspecified",
   "domain": "scalarfield.io",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Scalar Field team,\n\nTaking an agent from thesis to backtest to a live portfolio means every step in between has to produce output the next step can actually parse, not just a plausible paragraph.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does Scalar Field take on engineering interns?",
+   "delivered_at": "2026-10-12T10:04:42Z",
+   "lint": [],
+   "message_id": "<179179947991.2107.18281673924998162943@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-12T10:04:42Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [],
@@ -20153,9 +20586,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Scalar Field's user-created agents that research data and act on it match MedVault's Gemini pipeline with a fixed output schema and safety rules.",
+   "fit": 6,
+   "hook": "Your posting describes agents that go from thesis to backtest to live portfolio in one place, with trades triggered when conditions are met.",
+   "people": [
+    {
+     "name": "Ramakant",
+     "role": "co-founder; led engineering teams at Microsoft"
+    }
+   ],
+   "region": "other",
+   "stack": [],
+   "summary": "Scalar Field is building an agentic trading platform where users create financial agents that research data, backtest strategies, monitor market events and trigger trades. The site itself shows only a title, so this comes from the posting."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Spring 2025)",
   "url": "https://www.ycombinator.com/companies/scalar-field",
   "website": "https://www.scalarfield.io/",
@@ -20776,9 +21224,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "CRUx builds open-source software, the closest of this batch to Canopy's developer-tools work, but the club has no open roles to apply to.",
+   "fit": 2,
+   "hook": "your blog's ICPC 2024-25 registrations and CTF inductions posts",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "C++",
+    "Svelte",
+    "TypeScript"
+   ],
+   "summary": "Programming and computing club of BITS Pilani Hyderabad that builds open-source software and runs competitive programming and CTF events. It is a student club with no open roles."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/crux-bphc",
   "website": "https://www.crux-bphc.com",
@@ -21195,9 +21657,39 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "The club says it builds real products, the nearest match to Canopy's developer tooling, but it is a student club with no open roles.",
+   "fit": 1,
+   "hook": "your codeCraft event, which introduced VBIT students to competitive programming",
+   "people": [
+    {
+     "name": "Kunal Dubey",
+     "role": "founding Development Executive"
+    },
+    {
+     "name": "Sanath Swaroop",
+     "role": "founding Development Executive"
+    },
+    {
+     "name": "Kaustubh Eppalapalli",
+     "role": "founding Programming Executive"
+    },
+    {
+     "name": "Yashwanth Allakky",
+     "role": "founding Programming Executive"
+    }
+   ],
+   "region": "india",
+   "stack": [
+    "JavaScript",
+    "Python"
+   ],
+   "summary": "Programming club of Vignana Bharathi Institute of Technology focused on competitive programming, open source and building real products, known for its codeCraft event. It is a student club with no open roles."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/coding-Studio-vbit",
   "website": "https://codingstudio.co.in",
@@ -21731,9 +22223,25 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "A language gateway is an API-fronted backend service, which matches the Django REST API with JWT auth and per-user isolation in MedVault.",
+   "fit": 3,
+   "hook": "your GitHub posting pitches the Reverie Language Gateway as the way to go multilingual",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Go",
+    "JavaScript",
+    "Kotlin",
+    "Python",
+    "Swift"
+   ],
+   "summary": "Bengaluru language technology company whose GitHub posting pitches the Reverie Language Gateway for making products multilingual. No website text was available."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/reverieinc",
   "website": "http://www.reverieinc.com",
@@ -22939,9 +23447,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy's call-graph resolution marks unresolved calls as external instead of guessing, the same deterministic, traceable design SAMMY's legal engines need.",
+   "fit": 5,
+   "hook": "Your careers page says 'Not an LLM wrapper' and that every output can be traced to the statute and precedent that produced it.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "SAMMY Labs compiles statutes, case law and internal policy into deterministic legal engines that run through an app or API, with every output cited. Its customers are regulated industries such as insurance, financial services, healthcare and legal."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2025)",
   "url": "https://www.ycombinator.com/companies/sammy-labs",
   "website": "https://www.sammylabs.com",
@@ -25471,9 +25989,25 @@
    }
   },
   "company": "Protex AI",
+  "contact": {
+   "confidence": "generic",
+   "email": "info@protex.ai",
+   "found_on": "https://www.protex.ai/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 5. Computer vision that makes the industrial workplace, safer Tl;dr: We’re building software that monitors existing cameras in the port, logistics, and manufacturing industries to ensure compliance and identify safety issues. At Protex AI, we’re on a mission to protect the industrial workforce! We’re building a proactive computer vision tool for workplace safety - empowering industrial Health and Safety (HS) teams to identify risk and danger before it becomes a problem. 🤕 The Problem: Keeping people safe at work is extremely hard. In the U.S. alone, there were over 5,000 deaths in the workplace in 2019, mainly in the heavy industry space. Serious workplace injuries cost U.S. businesses circa $62 Billion annually. Until now, safety has been reactive, someone has to get injured, and in some cases fatally before something is done about it. ✅ Problem Solved: Protex AI’s platform uses privacy-preserving camera monitoring software to provide companies with an always-on guardian angel, protecting their workforce. The platform plugs into existing CCTV infrastructure and enables HS teams to flexibly translate their document-based safety rules into the real world. Protex AI takes these rules and autonomously audits the customer’s facility to identify areas of high risk and non-compliance. HS teams can access this data via a reporting engine and use it in weekly safety meetings, external safety audits, insurance discussions, and legal claims. The tool integrates seamlessly with existing safety workflows to augment data produced by any manual incident logging system in place. Industrial Workplace Safety, Machine Learning, B2B, B2B, Supply Chain and Logistics, Ireland, Europe, Remote, Partly Remote",
   "domain": "protex.ai",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Protex AI team,\n\nFusing camera detections with WMS, MES and EHS data for root-cause analysis only holds up if every source feeding that pipeline is normalized the same way.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does Protex AI take on engineering interns?",
+   "delivered_at": "2026-10-12T10:04:57Z",
+   "lint": [],
+   "message_id": "<179179949376.2107.12648043683812491051@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-12T10:04:57Z",
+   "subject": "Software engineering intern at Protex AI"
+  },
   "emails": [],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [],
@@ -25483,9 +26017,22 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Protex turns written safety rules into automated audits, the same rules-plus-model pipeline MedVault runs, and its privacy-preserving camera monitoring matches MedVault's data-privacy focus.",
+   "fit": 6,
+   "hook": "Your site says the platform plugs into existing CCTV and fuses camera detections with WMS, MES and EHS data for root-cause analysis.",
+   "people": [],
+   "region": "europe",
+   "stack": [
+    "machine learning",
+    "computer vision"
+   ],
+   "summary": "Protex AI runs computer-vision monitoring on existing CCTV in ports, logistics and manufacturing to flag safety and compliance risks. Its reporting feeds health-and-safety teams' audits and weekly meetings."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/protex-ai",
   "website": "https://www.protex.ai",
@@ -25557,6 +26104,7 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "replied_at": "2026-10-12T10:00:48Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "Their model evaluation and ETL work for startups matches MedVault's LLM pipeline with a fixed output schema.",
@@ -25572,7 +26120,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/nighthack",
   "website": "https://nighthack.in",
@@ -26152,9 +26700,44 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy's multi-language parsing behind one analyzer interface is the same design problem as radrs, a Rust parser exposed through a Python interface.",
+   "fit": 4,
+   "hook": "Your radrs post describes a Rust core for NEXRAD Level 2 loading with a Python xarray-compatible interface, released in September 2026.",
+   "people": [
+    {
+     "name": "Jayesh Gupta",
+     "role": "Chief Executive Officer; co-creator of ClimaX, co-author of Aurora"
+    },
+    {
+     "name": "Gregory Studer",
+     "role": "Founding Engineer"
+    },
+    {
+     "name": "Cristian Bodnar",
+     "role": "Scientific Advisor; lead co-author of Aurora"
+    },
+    {
+     "name": "Alexandre Tilmant",
+     "role": "Chief Business Officer"
+    },
+    {
+     "name": "Dhruvit Patel",
+     "role": "Founding Research Scientist"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "Python",
+    "Rust",
+    "xarray"
+   ],
+   "summary": "Silurian builds and customizes foundation models that simulate Earth systems, starting with weather, for energy, insurance, agriculture and logistics customers. It also publishes open-source tooling such as radrs, a NEXRAD reader."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2024)",
   "url": "https://www.ycombinator.com/companies/silurian",
   "website": "https://silurian.ai/",
@@ -28927,9 +29510,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Vani runs customer conversations with AI agents, and MedVault's Gemini pipeline with a fixed JSON output schema and safety rules is the same kind of LLM feature.",
+   "fit": 4,
+   "hook": "Vani AI puts customer interactions on autopilot with AI agents for eCommerce brands",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "CSS",
+    "JavaScript",
+    "Python"
+   ],
+   "summary": "Fintech and logistics platform for D2C and eCommerce brands in India, offering term loans, overdrafts, revenue-based financing, shipping and Vani, an AI agent product for customer interactions."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Velocity-Engineering",
   "website": "https://velocity.in",
@@ -30584,9 +31181,30 @@
   "posted_at": "2026-10-11T23:00:35Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "hook": "",
+   "people": [],
+   "region": "europe",
+   "stack": [
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "AWS CloudFormation",
+    "Ansible",
+    "Jenkins",
+    "GitHub Actions",
+    "GitLab CI",
+    "PostgreSQL",
+    "Python"
+   ],
+   "summary": "Posting is for a DevOps engineer doing client CI/CD and infrastructure work, requiring multi-year experience and German C1. The website is an unrelated electronics storefront template."
+  },
   "score": 6,
   "source": "arbeitnow",
-  "status": "researching",
+  "status": "low_fit",
   "title": "DevOps Engineer (m/w/d)",
   "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/devops-engineer-munich-369656",
   "website": "https://ictdigital.com",
@@ -31642,9 +32260,24 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Preimage's AI reports on scan data are a generate-an-explanation-from-structured-data product, which is what MedVault's Gemini pipeline does with lab reports.",
+   "fit": 5,
+   "hook": "Your site-progress product produces AI reports from 3D scans and tracks deviations from plan and schedule.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "C++",
+    "JavaScript",
+    "Python",
+    "TypeScript"
+   ],
+   "summary": "Preimage turns 360 video and drone footage into measurable 3D models and AI analytics for construction, real estate and urban planning teams. Its site lists Bengaluru and Delaware addresses and says it has 100+ organizations as customers."
+  },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/preimage-ai",
   "website": "https://preimage.ai",
@@ -32098,9 +32731,25 @@
    }
   },
   "company": "MicroPyramid",
+  "contact": {
+   "confidence": "guessed",
+   "email": "ashwin@micropyramid.com",
+   "found_on": "pattern guess",
+   "name": "Ashwin",
+   "role": "named in a client testimonial, title not stated"
+  },
   "description": "AI, ML, AWS, devops, reactjs, Angular, Salesforce consulting company.. Languages: Python. Topics: 2fa, ats, django, django-job-portal, django-project, job, job-portal, job-search, jobs, mfa, open-source, python, recruiting, security, sveltekit, u2f",
   "domain": "micropyramid.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Ashwin,\n\nIntentport's concierge books the visit and hands your team the lead with the full conversation behind it, which means someone downstream still has to trust what a model produced.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship or entry-level role, can join immediately. Does MicroPyramid take on engineering interns?",
+   "delivered_at": "2026-10-12T10:01:44Z",
+   "lint": [],
+   "message_id": "<179179930122.2107.14047950211779847169@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-12T10:01:44Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [
    "hello@micropyramid.com"
   ],
@@ -32114,9 +32763,31 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "MicroPyramid sells Django/Python upgrades and production AI agents, which matches MedVault's Django REST backend with JWT auth and its LLM output pipeline.",
+   "fit": 7,
+   "hook": "Your Intentport page says the concierge books visits and hands the team the lead with the full conversation behind it.",
+   "people": [
+    {
+     "name": "Ashwin",
+     "role": "named in a client testimonial, title not stated"
+    }
+   ],
+   "region": "india",
+   "stack": [
+    "Python",
+    "Django",
+    "AWS",
+    "React",
+    "Angular",
+    "SvelteKit"
+   ],
+   "summary": "MicroPyramid is a services firm that builds AI agents, Django/Python upgrades and MVPs for US startups and SMBs, and it also ships its own products such as Intentport, BottleCRM and RunCode."
+  },
   "score": 13.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/MicroPyramid",
   "website": "https://micropyramid.com",
@@ -32524,9 +33195,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Employee records and policy answers need per-user isolation and privacy, the same concerns MedVault handles for health data in an LLM pipeline.",
+   "fit": 5,
+   "hook": "Your AI Companion answers policy questions and shows a 'Show sources' link under each answer.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "An HRIS for globally distributed companies, with an AI companion that answers policy questions from company documents and automates admin work. It is a London-based SaaS company with about 48 staff."
+  },
   "score": 5.4,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/humaans",
   "website": "https://humaans.io",
@@ -32753,9 +33434,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "InterviewReady's AI mock interviews are an LLM product for engineers, the same category as MedVault's LLM explanation pipeline.",
+   "fit": 5,
+   "hook": "Your AI Mock Interviews include a 45-minute system-design simulation alongside coding and behavioral rounds.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Java",
+    "JavaScript",
+    "TypeScript"
+   ],
+   "summary": "InterviewReady sells system-design and AI-engineering courses and an AI mock-interview product to working engineers, and it publishes a distributed-systems blog. It is an education company, not a job board."
+  },
   "score": 12.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/InterviewReady",
   "website": "https://interviewready.io",
@@ -33274,9 +33969,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Healia handles family health costs and claims for employers, a health-data product like MedVault built on a Django REST backend with per-user data isolation.",
+   "fit": 5,
+   "hook": "Your site says a health plan analysis takes under 2 minutes and shows household costs side by side.",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": "Healia sells a benefit that lets employers cover the out-of-pocket costs of employees who enroll in a spouse's health plan, aimed at dual-income families. It also manages the claims process."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/healia",
   "website": "https://www.healiahealth.com/",
@@ -34164,9 +34869,22 @@
   "posted_at": "2026-10-09T15:25:40Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "The PhD asks for Python and PyTorch and an AI background, which is close to MedVault's LLM pipeline, but it requires a master's degree the candidate does not have.",
+   "fit": 2,
+   "hook": "",
+   "people": [],
+   "region": "europe",
+   "stack": [
+    "Python",
+    "PyTorch"
+   ],
+   "summary": "Aarhus University's electrical and computer engineering institute is hiring a three-year onsite PhD in physical AI, with a 1 November 2026 deadline. The role requires a relevant master's degree."
+  },
   "score": 10.0,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "See posting",
   "url": "https://news.ycombinator.com/item?id=50021883",
   "website": "https://ece.au.dk",
@@ -34592,9 +35310,26 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Codebrahma ships client-facing web and mobile apps on top of backend APIs, and MedVault is a Django REST API with JWT auth behind a user-facing app, the closest split in the candidate's work.",
+   "fit": 5,
+   "hook": "Your site lists the complete Rippling browser and mobile app build and a Gatsby project delivered against a press-release deadline for Serverless.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "React",
+    "React Native",
+    "TypeScript",
+    "JavaScript",
+    "Rust",
+    "Gatsby"
+   ],
+   "summary": "Codebrahma is a React and React Native consultancy that builds client frontends from design files and API docs, and its site cites a complete browser and mobile app built for Rippling."
+  },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Codebrahma",
   "website": "https://codebrahma.com",
@@ -34752,9 +35487,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Rhem's AI agents working on family health data are close to MedVault's LLM pipeline for health records, with the same privacy constraints.",
+   "fit": 4,
+   "hook": "Your site says Rhem's agents browse websites and make phone calls to book appointments, call the pharmacy and order essentials.",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": "Rhem makes a tabletop home robot for fall detection, health readings and family check-ins, with AI agents that browse websites and make phone calls for an aging parent. A family app shares recorded updates among relatives."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Fall 2026)",
   "url": "https://www.ycombinator.com/companies/rhem-labs",
   "website": "https://rhem.ai",
@@ -36001,9 +36746,36 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Its AI co-pilot drafts and coordinates follow-ups, the same LLM workflow pattern MedVault's pipeline uses.",
+   "fit": 5,
+   "hook": "Site says Tandem Apollo coordinates every follow-up after a shortlist, so tenants stop chasing emails.",
+   "people": [
+    {
+     "name": "Rafael Sands",
+     "role": "CEO, Co-founder"
+    },
+    {
+     "name": "Brendan Suh",
+     "role": "COO, Co-founder"
+    },
+    {
+     "name": "Noah Hurley",
+     "role": "Engineering"
+    },
+    {
+     "name": "German Pardo",
+     "role": "Engineering"
+    }
+   ],
+   "region": "us",
+   "stack": [],
+   "summary": "AI-assisted office leasing marketplace for tenants in NY, SF and Boston, where the landlord pays the broker fee."
+  },
   "score": 5.9,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2024)",
   "url": "https://www.ycombinator.com/companies/tandem-2",
   "website": "https://tandemspace.com/",
@@ -36162,9 +36934,22 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Cerrion turns a continuous model feed into rule-bound alerts for a domain user, a pattern MedVault uses with its fixed output schema and safety rules; the match is loose.",
+   "fit": 4,
+   "hook": "Your site describes a Pepsi supplier running 500 bottles a minute that now detects a fallen bottle before it blocks the line.",
+   "people": [],
+   "region": "europe",
+   "stack": [
+    "computer vision",
+    "deep learning"
+   ],
+   "summary": "Cerrion sells video-AI agents that watch existing or provided cameras on manufacturing lines and flag issues such as jams, misplaced product and blockages in real time. Its customers include food and beverage, glass and tableware producers."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Summer 2022)",
   "url": "https://www.ycombinator.com/companies/cerrion",
   "website": "https://www.cerrion.com/",
@@ -37203,9 +37988,26 @@
   "posted_at": "2026-10-11T17:09:31Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Reeeliance wants Python, SQL and AWS or Azure pipeline work with data-compliance concerns; MedVault's Django backend and per-user data isolation are the closest match.",
+   "fit": 7,
+   "hook": "the posting says the junior role builds pipelines for lakehouse and IoT streaming setups for manufacturing, banking and insurance clients",
+   "people": [],
+   "region": "europe",
+   "stack": [
+    "Python",
+    "SQL",
+    "Git",
+    "AWS",
+    "Azure",
+    "SAP"
+   ],
+   "summary": "Reeeliance is a Hamburg-based data consultancy for data management, analytics, DataOps and SAP and cloud migration. Its junior data engineer role builds ETL/ELT pipelines for multinational clients."
+  },
   "score": 7.5,
   "source": "arbeitnow",
-  "status": "researching",
+  "status": "no_contact",
   "title": "Junior Data Engineer",
   "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-186381",
   "website": "https://reeeliance.com",
@@ -38132,9 +38934,21 @@
    }
   },
   "company": "Superset",
+  "contact": {
+   "confidence": "posting",
+   "email": "kiet@superset.sh",
+   "found_on": "job posting",
+   "name": "Kiet Ho",
+   "role": ""
+  },
   "description": "Superset (YC P26) | Founding Engineer, Founding Design Engineer | San Francisco | ONSITE | Full-time | $175K-$225K + 1.0-1.5% equity | https://superset.sh/careers We're building a self-improving IDE for running coding agents in parallel. Tens of thousands of engineers use it as their main IDE, at companies like Netflix, DoorDash and Wix. It's source-available: https://github.com/superset-sh/superset We're 4 people, including 3 ex-YC CTOs. The work goes from the pty and stream transport up to the UI, all TypeScript. You'd own big features end to end and likely ship something in your first week. Interviews: a 15 min call, 1 hr TypeScript, 1 hr system design, then a week with us in SF. We tell you where you stand within 48 hours of each step. Email me: kiet@superset.sh",
   "domain": "superset.sh",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Kiet,\n\nYour posting says the work runs from the pty and stream transport up to the UI, all in TypeScript, and that new hires usually ship in their first week.\n\nI built Canopy, which parses a repo in 10 languages into a call graph and marks unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship or entry-level role, can join immediately. Is the Founding Engineer role still open?",
+   "lint": [],
+   "subject": "Founding engineer at Superset"
+  },
   "emails": [
    "kiet@superset.sh"
   ],
@@ -38151,9 +38965,27 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Superset is a developer tool with a TypeScript transport-to-UI stack, and Canopy is a developer tool that maps codebase architecture and grounds its AI chat in computed results.",
+   "fit": 8,
+   "hook": "Your posting says the work runs from the pty and stream transport up to the UI, all TypeScript, and that new hires often ship in their first week.",
+   "people": [
+    {
+     "name": "Kiet Ho",
+     "role": "hiring contact named in the posting (title not stated)"
+    }
+   ],
+   "region": "us",
+   "stack": [
+    "TypeScript",
+    "SSH"
+   ],
+   "summary": "Superset is a source-available IDE for running many coding agents in parallel, such as Claude Code and Codex, across local, cloud and remote machines. The posting says tens of thousands of engineers use it."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "queued",
   "title": "Founding Engineer, Founding Design Engineer",
   "url": "https://news.ycombinator.com/item?id=50000038",
   "website": "https://www.superset.sh/",
@@ -38419,9 +39251,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Spott's AI matching and agents are model-driven features, the area MedVault's schema-bound Gemini pipeline covers.",
+   "fit": 5,
+   "hook": "Site says a migration from another ATS goes live in four weeks with zero downtime.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "AI-native ATS and CRM software for recruiting and staffing firms, with AI agents for matching, outreach and pipeline work."
+  },
   "score": 5.9,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2025)",
   "url": "https://www.ycombinator.com/companies/spott",
   "website": "https://spott.io",
@@ -39627,9 +40469,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Payments fintech; MedVault's privacy-first fintech design is the nearest match, but the business is crypto-linked.",
+   "fit": 2,
+   "hook": "Site says collections and payouts settle 24/7 over PIX, SPEI and Transferencias 3.0.",
+   "people": [],
+   "region": "americas",
+   "stack": [],
+   "summary": "Payments infrastructure that bridges stablecoins with local payment rails and issues multi-currency virtual accounts for fintechs and banks in emerging markets."
+  },
   "score": 5.9,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2023)",
   "url": "https://www.ycombinator.com/companies/infinia",
   "website": "https://www.infiniaweb.com/",
@@ -43153,9 +44005,21 @@
   "posted_at": "2026-10-10T09:00:51Z",
   "priority": 0,
   "priority_note": "₹30,000/mo",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "The internship is Python application work, and MedVault is the candidate's Python/Django backend project, but the company is an agency.",
+   "fit": 3,
+   "hook": "",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Python"
+   ],
+   "summary": "Zenotalent is a recruitment and engineering-training firm offering talent sourcing, courses, CV review and interview prep. It posts a remote 6-month Python internship with a Rs 30,000 monthly stipend."
+  },
   "score": 14.0,
   "source": "unstop",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Python Internship",
   "url": "https://unstop.com/internships/python-internship-zenotalent-1768693",
   "website": "https://zeno-talent.com",
@@ -43326,9 +44190,25 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Both are health-related ML work, but Deva Lab is a research lab with no product or hiring signal, so the match is topical only.",
+   "fit": 1,
+   "hook": "Your GitHub topics show graph neural network work (PNA) on molecular property prediction, but the site does not confirm a product.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Python",
+    "PyTorch",
+    "PyTorch Geometric",
+    "PyTorch Lightning",
+    "Jupyter Notebook"
+   ],
+   "summary": "The only web presence found is a parked Hostinger domain, so the business cannot be confirmed from the text. The GitHub org describes a research lab working on graph neural networks for molecular property prediction and drug-drug interaction."
+  },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/devalab",
   "website": "https://devalab.org",
@@ -43774,9 +44654,25 @@
    }
   },
   "company": "Open",
+  "contact": {
+   "confidence": "commit",
+   "email": "tabaza@open.cx",
+   "found_on": "GitHub commits (opencx-labs)",
+   "name": "Mohamed Tabaza",
+   "role": "engineer (GitHub commit author)"
+  },
   "description": "Team size: 21. Enterprise AI customer support Open is an AI-powered, all-in-one customer support and communication platform — used in production by: Print.com, Mollie.com, Viva.com, More.com, Orderchamp.com, OneCarNow.com, and other major enterprise companies. We specialize in solving and automating complex support cases across email, web, phone, SMS, and WhatsApp. We’re a research-based company currently working on releasing Support-Bench, the world’s most comprehensive AI customer support benchmark. Our team consists of +3 programming language builders, a nationwide cybersecurity competition winner at age 16, and a dentist. Generative AI, Customer Service, Customer Support, Conversational AI, AI Assistant, B2B, Engineering, Product and Design, Jordan, Middle East and North Africa, Remote, Partly Remote",
   "domain": "open.cx",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Mohamed,\n\nYour Apps Agent builds a described flow straight into a customer's workspace from a plain prompt, which means the output has to hold to a schema the workspace can actually run.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does Open take on engineering interns?",
+   "delivered_at": "2026-10-12T10:03:24Z",
+   "lint": [],
+   "message_id": "<179179940109.2107.16246852156600516679@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-12T10:03:24Z",
+   "subject": "Software engineering intern at Open"
+  },
   "emails": [],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [
@@ -43788,9 +44684,31 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Open's inbound and QA agents need the same schema-bound LLM output and safety rules that MedVault's Gemini pipeline enforces.",
+   "fit": 7,
+   "hook": "Their Apps Agent builds a described flow into a customer's workspace from a plain prompt.",
+   "people": [
+    {
+     "name": "Mo Gharbat",
+     "role": "CEO, founder"
+    },
+    {
+     "name": "Mohamed Tabaza",
+     "role": "engineer (GitHub commit author)"
+    }
+   ],
+   "region": "middle_east",
+   "stack": [
+    "LLM agents",
+    "Twilio"
+   ],
+   "summary": "AI customer-support platform that automates support across chat, email, voice and WhatsApp for enterprise customers such as Mollie and Print.com."
+  },
   "score": 5.9,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/open",
   "website": "https://open.cx",
@@ -44592,9 +45510,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "A marketplace that matches customers to providers runs on a backend with accounts, auth and per-user data, which is what the MedVault Django API covers.",
+   "fit": 4,
+   "hook": "Your Butler page turns a free-text request like 'two vegetarians' into real chef prices instantly.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "A private chef marketplace where customers book a chef for home dinners and events, with a new Butler assistant that quotes prices from a free-text request. The posting places it in London with a team of 12."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/yhangry",
   "website": "http://www.yhangry.com",
@@ -45006,9 +45934,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Its AI-focused curriculum is the closest to MedVault's LLM work, though the site shows no product-engineering hiring.",
+   "fit": 3,
+   "hook": "Site says each learner's project gets a live 1-on-1 review with an experienced professional.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "Online AI-driven school for working professionals, teaching data science, AI, analytics and programming in 3-12 months."
+  },
   "score": 5.9,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/turing-college",
   "website": "https://www.turingcollege.com/",
@@ -45732,9 +46670,23 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Their agents read documents and write validated fields to an ERP, close to MedVault's LLM extraction pipeline that returns a fixed JSON schema.",
+   "fit": 4,
+   "hook": "Your AgenticOps line says agents read documents and write to the ERP, so the client team only handles exceptions.",
+   "people": [],
+   "region": "americas",
+   "stack": [
+    "FaceTec",
+    "ML scoring models",
+    "Open Finance APIs"
+   ],
+   "summary": "A SaaS platform for Latin American banks, fintechs and retailers that digitises loan origination and account opening with AI scoring, fraud checks, biometric ID and e-signing. It says it is live with 30 clients in 9 countries."
+  },
   "score": 5.4,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/digi",
   "website": "https://www.digitech.la/",
@@ -46321,9 +47273,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy is a Python tool built on the ast module, the kind of Python work this community discusses, but the group has no roles to apply to.",
+   "fit": 1,
+   "hook": "your monthly talks and project nights, and the PyConf Hyderabad 2026 page on hydpy.org",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "HTML",
+    "JavaScript",
+    "Python"
+   ],
+   "summary": "Hyderabad Python User Group, a volunteer community that runs monthly talks, project nights and the regional PyConf Hyderabad conference. It is not a hiring company."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/HydPy",
   "website": "https://www.hydpy.org",
@@ -46651,9 +47617,21 @@
   "posted_at": "2026-10-12T05:32:00Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "The role automates business workflows with AI agents, and MedVault's LLM pipeline is the closest AI work, but the role is non-engineering.",
+   "fit": 3,
+   "hook": "",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Shopify"
+   ],
+   "summary": "GoKwik is a D2C eCommerce growth platform with checkout, engagement and conversion tools for brands. Its AI internship is mainly P&L analysis, growth planning and Shopify audits."
+  },
   "score": 9.0,
   "source": "unstop",
-  "status": "researching",
+  "status": "low_fit",
   "title": "AI Internship",
   "url": "https://unstop.com/internships/ai-internship-gokwik-1768410",
   "website": "https://gokwik.co",
@@ -46995,9 +47973,28 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "A B2B product that ships client SDKs and a backend for many customer apps is closest to MedVault's Django API with auth and per-tenant isolation.",
+   "fit": 5,
+   "hook": "Your homepage says viewers start swiping away after 400ms, and you test against 24,000+ Android devices.",
+   "people": [
+    {
+     "name": "Michael",
+     "role": "founder, spent 6 years at YouTube building the infrastructure behind Shorts"
+    },
+    {
+     "name": "Neil",
+     "role": "founder, previously scaled a SaaS company from 0 to $6M ARR as employee #1"
+    }
+   ],
+   "region": "other",
+   "stack": [],
+   "summary": "A two-person company that sells a full video stack to consumer apps: client SDKs, video infrastructure, recommendations and monetization. Its site lists customer apps such as Reco and Shredder."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/shortkit",
   "website": "https://www.shortkit.dev",
@@ -50521,9 +51518,25 @@
    }
   },
   "company": "KugelAudio",
+  "contact": {
+   "confidence": "hiring",
+   "email": "jobs@kugelaudio.com",
+   "found_on": "https://www.kugelaudio.com/en/careers",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 4. Kugel is an on-prem Voice AI model supporting 30+ languages Kugel is an enterprise-ready TTS model, available on-prem, with a focus on 30+ languages and low latency. B2B, Infrastructure, Germany, Europe",
   "domain": "kugelaudio.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi KugelAudio team,\n\nYour SDK calls client.connect() to prewarm the connection before generate(), and the site lists a 91ms median time to first audio, which only works if the pipeline keeps that order every time.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does the team take on engineering interns?",
+   "delivered_at": "2026-10-12T10:02:51Z",
+   "lint": [],
+   "message_id": "<179179936981.2107.3599512330175946807@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-12T10:02:51Z",
+   "subject": "Software Engineering Internship – Aditya Mittal"
+  },
   "emails": [],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [],
@@ -50533,9 +51546,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Their pitch is EU-hosted, GDPR-compliant voice AI that never trains on customer content, which matches medvault's privacy-first handling of sensitive health data and per-user isolation.",
+   "fit": 7,
+   "hook": "your SDK example calls client.connect() to prewarm the connection before generate(), and your site lists a 91 ms median time to first audio.",
+   "people": [],
+   "region": "europe",
+   "stack": [
+    "Python",
+    "TypeScript",
+    "Pipecat",
+    "LiveKit"
+   ],
+   "summary": "Builds a text-to-speech voice AI model sold as an API and as on-prem deployment, hosted in the EU for GDPR-bound customers."
+  },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Spring 2026)",
   "url": "https://www.ycombinator.com/companies/kugelaudio",
   "website": "https://kugelaudio.com/en",
@@ -50580,9 +51608,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Captive actuarial output has to be auditable and numerically reliable, the same bar medvault meets with schema-validated model output and per-user data isolation; fintech is in medvault's domain list.",
+   "fit": 5,
+   "hook": "your site prices a 5-year pro forma at 0.216% of TIV and offers a free desirability study with no account.",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": "Builds actuarial and modeling software for corporate captive insurers, covering feasibility studies, reserving, pricing and solvency modeling."
+  },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Spring 2026)",
   "url": "https://www.ycombinator.com/companies/huscarl",
   "website": "https://www.huscarl.io/",
@@ -50882,9 +51920,25 @@
    }
   },
   "company": "Sitefire",
+  "contact": {
+   "confidence": "generic",
+   "email": "info@sitefire.ai",
+   "found_on": "https://sitefire.ai/",
+   "name": "",
+   "role": ""
+  },
   "description": "Team size: 2. Marketing suite for the agentic web Sitefire (YC W26) helps brands market their products to agents. They create content and tools that get their products discovered and used by AI agents (ChatGPT, OpenClaw). Sitefire identifies which content drives AI visibility, and automatically creates it. The teams using Sitefire execute on-page and off-page actions to deliver measurable top-line growth. Artificial Intelligence, Analytics, Marketing, B2B, Marketing, Germany, Europe",
   "domain": "sitefire.ai",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Sitefire team,\n\nRunning the same brand prompt across ChatGPT, Gemini, Perplexity and Claude and reporting what each one says only works if you can trust the model's answer isn't garbled.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does Sitefire take on engineering interns?",
+   "delivered_at": "2026-10-12T10:03:55Z",
+   "lint": [],
+   "message_id": "<179179943296.2107.14329332381119799388@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-12T10:03:55Z",
+   "subject": "Software engineering intern at Sitefire"
+  },
   "emails": [],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [],
@@ -50894,9 +51948,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Their AI Monitoring runs brand prompts across several LLMs and reports the answers, close to the Gemini prompting pipeline with a fixed output schema in medvault.",
+   "fit": 6,
+   "hook": "your AI Monitoring tracks brand mentions across ChatGPT, Gemini, Perplexity and Claude, and your Source Analytics page lists the domains driving AI visibility.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "Marketing analytics and content tool that tracks how ChatGPT, Gemini, Perplexity and Claude mention brands, and generates content meant to earn those citations."
+  },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/sitefire",
   "website": "https://sitefire.ai",
@@ -51698,9 +52762,27 @@
   "posted_at": "2026-10-01T16:44:38Z",
   "priority": 0,
   "priority_note": "",
+  "research": {
+   "angle": "",
+   "angle_reason": "",
+   "fit": 3,
+   "hook": "",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "React",
+    "TypeScript",
+    "Python",
+    "FastAPI",
+    "AWS Lambda",
+    "Aurora PostgreSQL",
+    "PostGIS"
+   ],
+   "summary": "Uses vehicle-mounted cameras and computer vision to detect urban blight, and gives city governments maps and reports for code enforcement. The only open role is mid to senior level."
+  },
   "score": 7,
   "source": "hn_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Full Stack Product Engineer (Design & Geospatial)",
   "url": "https://news.ycombinator.com/item?id=49924016",
   "website": "https://citydetect.com",
@@ -51827,9 +52909,24 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Their AI model turns sensor input into structured control decisions, the closest analogue to medvault's pipeline that forces model output into a fixed schema, though the domain is far apart.",
+   "fit": 4,
+   "hook": "your news page says you joined the MTC's AURA programme on 14 Sept 2026 to test welding robots ahead of commercial deployment.",
+   "people": [
+    {
+     "name": "Max Ahrens",
+     "role": "Founder & CEO, AI Lead"
+    }
+   ],
+   "region": "europe",
+   "stack": [],
+   "summary": "Builds an AI vision and control layer that lets industrial welding robots plan and weld parts without programming, installed on existing robot cells."
+  },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/tekton-dynamics",
   "website": "https://www.tekton-dynamics.com",
@@ -52776,9 +53873,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "AutoVRse runs a multi-customer enterprise platform with an AI-powered training product, and MedVault's JWT auth and per-user data isolation are the closest backend fit, though the text shows no AI overlap.",
+   "fit": 4,
+   "hook": "Your warehouse case study says a pilot across four fulfilment centres trained 1,500+ workers in VR in under a month.",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "C#",
+    "JavaScript",
+    "TypeScript"
+   ],
+   "summary": "AutoVRse sells an enterprise AR/VR training platform for heavy industry, with immersive modules for high-risk operations and assembly. Its site reports 300K+ trained workers and 100+ enterprise customers."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/AutoVRse-Enterprise",
   "website": "https://autovrse.in",
@@ -53363,9 +54474,25 @@
    }
   },
   "company": "PolyMage Labs",
+  "contact": {
+   "confidence": "personal",
+   "email": "uday@polymagelabs.com",
+   "found_on": "https://www.polymagelabs.com/people-all/",
+   "name": "Uday Bondhugula",
+   "role": "Founder, CEO, and CTO"
+  },
   "description": "Code and library generation infrastructure for ML/AI and HPC. Languages: C++, Python",
   "domain": "polymagelabs.com",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Uday,\n\nCompiling unmodified PyTorch straight to Tenstorrent devices means the compiler has to resolve the same call structure the original code relied on, without the author rewriting anything for it.\n\nI built Canopy, a static analyzer that parses a repo in 10 languages into a call graph and marks unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does PolyMage take on engineering interns?",
+   "delivered_at": "2026-10-12T10:01:58Z",
+   "lint": [],
+   "message_id": "<179179931617.2107.1773569175974894569@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-12T10:01:58Z",
+   "subject": "Software engineering intern at PolyMage"
+  },
   "emails": [
    "info@polymagelabs.com"
   ],
@@ -53377,9 +54504,29 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "PolyMage's compiler work is analysis and transformation over program structure, which matches Canopy's multi-language analyzer and deterministic cross-file call-graph resolution.",
+   "fit": 6,
+   "hook": "Your Tenstorrent collaboration compiles unmodified PyTorch code for Tenstorrent devices, per the testimonials on your site.",
+   "people": [
+    {
+     "name": "Uday Bondhugula",
+     "role": "Founder, CEO, and CTO"
+    }
+   ],
+   "region": "india",
+   "stack": [
+    "C++",
+    "Python",
+    "MLIR",
+    "PyTorch"
+   ],
+   "summary": "PolyMage Labs builds compilers and code generators that let AI frameworks target high-performance AI hardware, including a PyTorch-to-Tenstorrent compiler. It is an IISc-incubated startup in Bengaluru."
+  },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "sent",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/polymage-labs",
   "website": "https://www.polymagelabs.com",
@@ -53759,9 +54906,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy's multi-language analyzer is the closest match to a company whose code spans Java, JavaScript and TypeScript, though the given text does not say what that code does.",
+   "fit": 3,
+   "hook": "your GitHub org lists Java, JavaScript and TypeScript as its languages",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "Java",
+    "JavaScript",
+    "TypeScript"
+   ],
+   "summary": "Company in Bengaluru with an active GitHub org. The given text has no website copy or posting details, so the product is not described."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/exotel",
   "website": "https://exotel.in",
@@ -54038,9 +55199,26 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy maps repo call graphs and analyzes GitHub repositories, the same code-to-repository reasoning TraceRoot needs to root-cause failures against source and commit history.",
+   "fit": 9,
+   "hook": "your site says a background coding agent investigates production traces in Daytona sandboxes against GitHub code and recommends fixes down to the commit, file and line.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Python",
+    "TypeScript",
+    "npm",
+    "OpenTelemetry",
+    "Daytona",
+    "GitHub"
+   ],
+   "summary": "Open-source observability layer for AI agents that traces production runs, flags failures with LLM judges, and proposes verified code fixes against the connected GitHub repo."
+  },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "no_contact",
   "title": "Engineering (YC Summer 2025)",
   "url": "https://www.ycombinator.com/companies/traceroot-ai",
   "website": "https://traceroot.ai",
@@ -54404,9 +55582,26 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Limrun gives coding agents remote build and test tooling for mobile code, the same developer-tooling space that Canopy's repo analysis and cached clone pipeline sit in.",
+   "fit": 5,
+   "hook": "Your demo shows 'Sync complete in 323ms' before xcodebuild starts on a remote instance.",
+   "people": [],
+   "region": "us",
+   "stack": [
+    "Swift",
+    "React Native",
+    "Xcode",
+    "Appium",
+    "Maestro",
+    "Detox"
+   ],
+   "summary": "Remote Xcode, iOS and Android simulators that coding agents in any cloud sandbox can use to build, test and demo mobile apps. Customers named on the site include Replit and Rork."
+  },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Spring 2026)",
   "url": "https://www.ycombinator.com/companies/limrun",
   "website": "https://lim.run",
@@ -54693,9 +55888,23 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "The club's TypeScript site is a student project rather than a product; Canopy is the nearest match, but the club has no open roles.",
+   "fit": 1,
+   "hook": "your blog's ROS 2 Humble install guide and line follower robot build post",
+   "people": [],
+   "region": "india",
+   "stack": [
+    "TypeScript",
+    "ROS 2",
+    "Arduino"
+   ],
+   "summary": "Automation and Robotics Club of BITS Pilani Hyderabad that runs workshops and projects combining electronics, mechanics and programming, and publishes build guides on its blog. It is a student club with no open roles."
+  },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/arc-bphc",
   "website": "https://arc-bphc.netlify.app/",
@@ -55483,9 +56692,25 @@
    }
   },
   "company": "nao Labs",
+  "contact": {
+   "confidence": "commit",
+   "email": "christophe.blefari@gmail.com",
+   "found_on": "GitHub commits (getnao)",
+   "name": "Christophe Blefari",
+   "role": "Co-founder & Engineering"
+  },
   "description": "Team size: 2. Open Source Analytics Agent nao is an open source framework to build and deploy analytics agent. Create the context of your analytics agent with nao-core cli: data, metadata, modeling, rules, etc. Deploy a UI for anyone to chat with your agent and run analytics on your data. Analytics, Open Source, AI, B2B, Analytics, France, Europe",
   "domain": "getnao.io",
   "domain_mx": true,
+  "email": {
+   "body": "Hi Christophe,\n\nYour nao test demo publishes context reliability as 9/11 tests passing, right next to a 100% answer rate, which is an honest way to show when the agent is guessing.\n\nI built Canopy, which parses a repo in 10 languages into a call graph and only turns the AI chat loose on computed results, never raw guesses: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair, where I fixed a production OAuth race condition, and I'm looking for an internship I can start immediately. Does nao Labs take on engineering interns?",
+   "delivered_at": "2026-10-12T10:02:26Z",
+   "lint": [],
+   "message_id": "<179179934303.2107.6120486129178986586@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-12T10:02:26Z",
+   "subject": "Software engineering intern at nao Labs"
+  },
   "emails": [],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [
@@ -55497,9 +56722,42 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Canopy's AI chat is grounded only in computed analysis results, the same reliability problem nao addresses with context files for its analytics agent.",
+   "fit": 8,
+   "hook": "your nao test demo publishes context reliability as 9/11 tests passing, shown next to a 100% answer rate.",
+   "people": [
+    {
+     "name": "Claire",
+     "role": "Co-founder & CEO"
+    },
+    {
+     "name": "Mateo",
+     "role": "Engineering"
+    },
+    {
+     "name": "Stan",
+     "role": "Engineering"
+    },
+    {
+     "name": "Christophe Blefari",
+     "role": "Co-founder & Engineering"
+    }
+   ],
+   "region": "europe",
+   "stack": [
+    "BigQuery",
+    "dbt",
+    "Looker",
+    "Claude",
+    "Notion API"
+   ],
+   "summary": "Open-source framework for building analytics agents: teams write data, dbt and metric context as files, then deploy a chat UI that queries their warehouse."
+  },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "sent",
   "title": "Engineering (YC Spring 2025)",
   "url": "https://www.ycombinator.com/companies/nao-labs",
   "website": "https://getnao.io/",
@@ -56060,9 +57318,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Child health and insurance data under HIPAA-style rules is the same privacy and data-isolation problem MedVault is built around.",
+   "fit": 3,
+   "hook": "Your intake flow is an online survey, and then a therapist calls within 24 hours.",
+   "people": [],
+   "region": "us",
+   "stack": [],
+   "summary": "Matches families of autistic children with ABA therapists, with in-home and clinic options, and offers care providers a platform for scheduling and billing to run independent practices. The site says it works with most insurance and is HIPAA compliant."
+  },
   "score": 5.4,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Winter 2023)",
   "url": "https://www.ycombinator.com/companies/finni-health",
   "website": "https://www.finnihealth.com/",
@@ -56097,9 +57365,28 @@
   "posted_at": "2026-10-11T11:44:52Z",
   "priority": 1,
   "priority_note": "recently funded",
+  "research": {
+   "angle": "canopy",
+   "angle_reason": "Zetwerk runs an in-house manufacturing operating system, and Canopy's cross-file dependency analysis is the closest project, but the link is weak.",
+   "fit": 2,
+   "hook": "",
+   "people": [
+    {
+     "name": "Amrit Pratik Acharya",
+     "role": "co-founder"
+    },
+    {
+     "name": "Srinath Ramakkrushnan",
+     "role": "co-founder"
+    }
+   ],
+   "region": "india",
+   "stack": [],
+   "summary": "Zetwerk is a Bengaluru manufacturing platform that sources parts across industries. The lead is an IPO filing news item, not a job posting, and the company is large."
+  },
   "score": 9.0,
   "source": "funding_news",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Software Engineering (recently funded)",
   "url": "https://entrackr.com/news/zetwerk-raises-fresh-issue-size-to-rs-2830-cr-ofs-component-up-49-in-rhp-12666122",
   "website": "https://zetwerk.com",
@@ -56126,9 +57413,19 @@
   "posted_at": null,
   "priority": 0,
   "priority_note": "YC",
+  "research": {
+   "angle": "medvault",
+   "angle_reason": "Their AI workers have to produce auditable, controlled outputs for finance, the same validation and safety-rules work as medvault's fixed-schema LLM pipeline; fintech is in medvault's domain list.",
+   "fit": 5,
+   "hook": "your reconciliation demo shows 312 of 341 transactions matched (91.5%) and an evidence_pack.zip written for each run.",
+   "people": [],
+   "region": "europe",
+   "stack": [],
+   "summary": "Builds AI workers that run finance back-office work such as reconciliation and invoice handling by operating existing ERP and finance systems, with audit trails."
+  },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "researching",
+  "status": "low_fit",
   "title": "Engineering (YC Fall 2025)",
   "url": "https://www.ycombinator.com/companies/zalos",
   "website": "https://www.zalos.ai/",
