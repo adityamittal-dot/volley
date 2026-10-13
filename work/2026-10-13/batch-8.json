@@ -1,0 +1,283 @@
+{
+ "leads": [
+  {
+   "id": "dff9bef780",
+   "company": "QA Lens",
+   "website": "http://www.qalens.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go, TypeScript",
+   "site_text": "[https://www.qalens.com/]\nQALens | QA Engineering Community QALens QA engineering community Ocean Ocean Sunset Violet Forest Theme Contact Menu Ocean Ocean Sunset Violet Forest Theme Home Sessions Blogs Katas Responses Tools Corr docs About Author About Experience Impact Speaking Profile Contact Project · Community QALens I’m Atmaram Naik. I founded QA Lens to share lessons from around 20 years in software engineering, quality leadership, and building automation tools. Explore sessions, articles, practical exercises, and Corr documentation, from testing foundations to AI-assisted engineering. 37 Published pieces Corr (JPL) Open-source tool Discord + Patreon Community qalens.role $ founder + author + maintainer $ content: sessions, blogs, katas, tools $ product: Corr — test data + service virtualization DSL Latest sessions Recent talks and community sessions for testers and automation engineers. Journey of Journey Programming Language There are so many programming languages out there yet Journey Programming language written in Rust tries to attempt to solve some regular problems in testing Aug 27, 2023 ABCs of Security Testing A brief introduction about some of the basic security testing that you must have for all your Testing Jul 24, 2023 Test data Strategy for Test Automation - With various frameworks Flutter community already has a great package called flutter_driver, yet in some scenarios using flutter_driver could be limiting. There comes flutter_appiun_driver with all power of Appium along with support for flutter. I will demonstrate a simple use case with the modified counter app (the modification is to accommodate the use case). The session is centered around the demonstration of use-case, code when to use it with the help of a small, compact, and full-fledged automation suit. Jun 9, 2023 Fixtures in playwright Make your playwright test much orgnised and dry using Fixtures. Jan 18, 2023 Explore the Corr docs Corr is an open-source tool with its own programming language (JPL) for test data creation and service virtualization, authored and maintained by me. Read the docs Meet the founder Atmaram Naik is an engineering and quality leader with around 20 years in software. He leads 35+ QE professionals at Sedin Technologies, co-founded Sedstart, and builds open source tools including Corr and Journey Programming Language. I also work on allwright.dev and explore agentic testing and resilient automation through current R&D. About Author\n\n[https://www.qalens.com/blogs]\nBlogs — QALens | QALens QALens QA engineering community Ocean Ocean Sunset Violet Forest Theme Contact Menu Ocean Ocean Sunset Violet Forest Theme Home Sessions Blogs Katas Responses Tools Corr docs About Author About Experience Impact Speaking Profile Contact Community Blogs Opinionated essays and practical breakdowns from QA and software quality work in the field. 13 entries Logical Fallacies in Debate When you are debating or are in an argument you often feel this argument or point of looks flawed, philosophers have patterned those flaws into fallacies this article will brief you about some of famous fallacies Sep 8, 2026 Beyond billable hours - QA Innovation What do you do with a QA organization that has more capacity than customer work? This is the story of how we turned idle bench time into a training ground, an internal product called Sedstart, and eventually a different kind of services conversation. Sep 2, 2026 Inertia in Software Development A physics idea applied to software - how code, process, leadership, and organizational inertia quietly slow engineering teams down, and how to get moving again. Sep 1, 2026 How Agentic AI is changing testing landscape Generative AI already changed how we write tests. Agentic AI is going further, operating across the whole testing lifecycle from understanding requirements to authoring, validating, and repairing tests, in both coded and no-code automation. Aug 22, 2026 Chakra The Series - Locator - S1E2 - The art of ",
+   "email_candidates": [
+    {
+     "email": "contact@atmnk.in",
+     "where": "https://www.qalens.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "dff9bef780-ref",
+   "company": "QA Lens",
+   "website": "http://www.qalens.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go, TypeScript",
+   "site_text": "[https://www.qalens.com/]\nQALens | QA Engineering Community QALens QA engineering community Ocean Ocean Sunset Violet Forest Theme Contact Menu Ocean Ocean Sunset Violet Forest Theme Home Sessions Blogs Katas Responses Tools Corr docs About Author About Experience Impact Speaking Profile Contact Project · Community QALens I’m Atmaram Naik. I founded QA Lens to share lessons from around 20 years in software engineering, quality leadership, and building automation tools. Explore sessions, articles, practical exercises, and Corr documentation, from testing foundations to AI-assisted engineering. 37 Published pieces Corr (JPL) Open-source tool Discord + Patreon Community qalens.role $ founder + author + maintainer $ content: sessions, blogs, katas, tools $ product: Corr — test data + service virtualization DSL Latest sessions Recent talks and community sessions for testers and automation engineers. Journey of Journey Programming Language There are so many programming languages out there yet Journey Programming language written in Rust tries to attempt to solve some regular problems in testing Aug 27, 2023 ABCs of Security Testing A brief introduction about some of the basic security testing that you must have for all your Testing Jul 24, 2023 Test data Strategy for Test Automation - With various frameworks Flutter community already has a great package called flutter_driver, yet in some scenarios using flutter_driver could be limiting. There comes flutter_appiun_driver with all power of Appium along with support for flutter. I will demonstrate a simple use case with the modified counter app (the modification is to accommodate the use case). The session is centered around the demonstration of use-case, code when to use it with the help of a small, compact, and full-fledged automation suit. Jun 9, 2023 Fixtures in playwright Make your playwright test much orgnised and dry using Fixtures. Jan 18, 2023 Explore the Corr docs Corr is an open-source tool with its own programming language (JPL) for test data creation and service virtualization, authored and maintained by me. Read the docs Meet the founder Atmaram Naik is an engineering and quality leader with around 20 years in software. He leads 35+ QE professionals at Sedin Technologies, co-founded Sedstart, and builds open source tools including Corr and Journey Programming Language. I also work on allwright.dev and explore agentic testing and resilient automation through current R&D. About Author\n\n[https://www.qalens.com/blogs]\nBlogs — QALens | QALens QALens QA engineering community Ocean Ocean Sunset Violet Forest Theme Contact Menu Ocean Ocean Sunset Violet Forest Theme Home Sessions Blogs Katas Responses Tools Corr docs About Author About Experience Impact Speaking Profile Contact Community Blogs Opinionated essays and practical breakdowns from QA and software quality work in the field. 13 entries Logical Fallacies in Debate When you are debating or are in an argument you often feel this argument or point of looks flawed, philosophers have patterned those flaws into fallacies this article will brief you about some of famous fallacies Sep 8, 2026 Beyond billable hours - QA Innovation What do you do with a QA organization that has more capacity than customer work? This is the story of how we turned idle bench time into a training ground, an internal product called Sedstart, and eventually a different kind of services conversation. Sep 2, 2026 Inertia in Software Development A physics idea applied to software - how code, process, leadership, and organizational inertia quietly slow engineering teams down, and how to get moving again. Sep 1, 2026 How Agentic AI is changing testing landscape Generative AI already changed how we write tests. Agentic AI is going further, operating across the whole testing lifecycle from understanding requirements to authoring, validating, and repairing tests, in both coded and no-code automation. Aug 22, 2026 Chakra The Series - Locator - S1E2 - The art of ",
+   "email_candidates": [
+    {
+     "email": "naik.atmaram@gmail.com",
+     "where": "GitHub commits (qalens)",
+     "kind": "personal",
+     "name": "Atmaram Naik",
+     "commits": 36
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "546aef0faf",
+   "company": "SG Apps",
+   "website": "https://sg-app.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Mumbai India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: EJS, HTML, TypeScript. Topics: config, deta-micros, deta-space, github-config, hackathon, space",
+   "site_text": "[https://sg-app.com]\nTitle: SG Apps - Development & Design\n\nURL Source: https://sg-app.com/\n\nMarkdown Content:\n## Building secure, modern applications with attention to detail\n\nWe create thoughtfully designed web and mobile applications that prioritize security, user experience, and performance. Every project is built with modern technologies and undergoes rigorous testing to ensure reliability.\n\n![Image 1: Postily screenshot](https://wsrv.nl/?url=https://postily.sg-app.com/og-image.png?maxage=15d)\n\n### Postily\n\nSocial media that actually works for creators. A platform built for creators, not corporations. Get verified for free, earn from your content, and never pay a subscription. Fair monetization, completely free access, and real identity verification.\n\n[Visit Live Site](https://postily.social/?utm_source=sg-apps)\n\n![Image 2: ServerBay screenshot](https://serverbay.sg-app.com/logo.png)\n\n### ServerBay\n\nCompare specs, prices, and features from multiple options of VPS and Dedicated servers all in one place.\n\n[Visit Live Site](https://serverbay.sg-app.com/?utm_source=sg-apps)\n\n![Image 3: VibedIn screenshot](https://vibedin.sg-app.com/images/og-image.png)\n\n### VibedIn\n\nA modern profile discovery platform that connects people based on shared interests and experiences. Features advanced search capabilities, real-time filtering, and an intuitive interface for finding and connecting with like-minded individuals.\n\nTypeScript Bun ElysiaJS React React Router\n\n[Visit Live Site](https://vibedin.sg-app.com/?utm_source=sg-apps)\n",
+   "email_candidates": [
+    {
+     "email": "sancho@sg-app.com",
+     "where": "GitHub commits (sanchogodinhoapps)",
+     "kind": "personal",
+     "name": "Sancho Godinho",
+     "commits": 19
+    },
+    {
+     "email": "sanchogodinho98@gmail.com",
+     "where": "GitHub commits (sanchogodinhoapps)",
+     "kind": "personal",
+     "name": "Sancho Godinho",
+     "commits": 36
+    },
+    {
+     "email": "sanchogodinhoapps@gmail.com",
+     "where": "GitHub commits (sanchogodinhoapps)",
+     "kind": "personal",
+     "name": "SG Apps",
+     "commits": 16
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "34ddd13371",
+   "company": "CyberChimps",
+   "website": "http://cyberchimps.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, JavaScript, PHP",
+   "site_text": "[https://cyberchimps.com/]\nCyberChimps | Responsive WordPress Theme | Starter Templates ↓ Skip to Main Content See Pricing → Menu Trusted by 30,000+ WP Users Everything You Need to Launch a Fast, Good-looking WordPress Website. Build faster, stunning WordPress sites with Responsive Pro and Starter Templates. Get instant access to 100+ customizable, SEO-optimized templates, and AI content-writing tools. Get Responsive pro See All Templates Totally Free • No Credit Card Required• Instant Download Responsive theme 20K+ Active Installs Rated 4.7/5 Starter Templates 100+ pre-designed templates 10K+ Active Installs Addons for Elementor 85+ Elementor Pro Widgets Pre-designed Sections Block Editor Addons 50+ Gutenberg Blocks Readymade Patterns Everything You Get With Responsive Pro A fast, reliable, SEO-friendly base Responsive theme + Pre-designed website templates + Advanced Elementor and Gutenberg widgets for drag-and-drop design. Powered by Responsive Theme Build on a Fast, Reliable Foundation Launch websites on a lightweight WordPress framework built for speed, flexibility, and long-term growth. Faster-loading websites that perform better SEO-friendly foundation for stronger visibility Flexible layouts for any type of website Responsive Starter Templates Skip the Design Grind Start with 100+ professionally designed templates and launch polished websites in a fraction of the time. Launch beautiful websites much faster Templates for business, blogs, stores, and more Spend less time designing from scratch Responsive Addons for Elementor Customize Elementor Pages Without Limits Use advanced Elementor widgets, ready-made sections, and flexible controls to build premium websites faster. Add advanced widgets beyond default Elementor Build pages faster with ready-made sections Get more design control without coding Responsive Blocks Build Faster With Modern Blocks Create clean, flexible WordPress pages using advanced Gutenberg blocks built for speed and simplicity. Add powerful blocks beyond default Gutenberg Build flexbox layouts without coding Lightweight blocks for faster websites Pre-designed WordPress Website Templates Elementor & Gutenberg Website Templates Optimized for Conversion & SEO Customize in minutes with drag-and-drop blocks and widgets. Use AI to write or edit search-optimized content. View Template Landscaping View Template Portfolio View Template Real Estate View Template Marketing Landing Page View Template Electrician View Template Local Bakery View All Templates 100+ ready-to-import website starter templates. New templates added regularly. ✨ 100+ Premium Starter Templates inside Launch a pixel-perfect WordPress website in 10 minutes. Responsive Pro gives you 100+ premium starter templates, an AI-powered content writer, and advanced customizer controls —giving you more freedom to create, customize, and launch your website without waiting on content or design approvals. Explore Responsive Pro 30-day money-back guarantee · cancel anytime Active Theme Installs 0 K+ Starter Templates Intalled 0 K+ Rated on WordPress.org 0 /5 Blazing Fast Performance We designed Responsive Theme and all our plugins to load fast using minified assets, and optimized database queries. Infact, the codebase is not just valid, but uses best practice HTML/CSS to help search bots crawl your site easily. Speed Grade 0 Speed Score 0 % Performance Grade 0 Launch Ecommerce Stores In A Flash Customize every aspect of your online store. Make it look exactly how you want it. Use Responsive theme’ s deep integration with WooCommerce. 20+ Modules to build fully functional Product pages. 40+ Pre-built WooCommerce Templates. 50+ Templates that can be used for specific kind of pages. 5+ WooCommerce Cart checkout options. Seamless Integration with Popular Plugins Cyberchimps products are completely compatible and tested to work with top Page Builders, Forms, WooCommerce, Caching & SEO plugins. ✨ Built For Agency Profitability Stop Building WordPress Websites F",
+   "email_candidates": [
+    {
+     "email": "sharma842nikhil@gmail.com",
+     "where": "GitHub commits (cyberchimps)",
+     "kind": "personal",
+     "name": "Nikhil",
+     "commits": 42
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "7844070a6e",
+   "company": "Geminus Tech Pvt Ltd",
+   "website": "https://www.geminustech.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: PHP",
+   "site_text": "[https://www.geminustech.com/]\nGeminus Tech Realize Your Vision With Our Expertise Your Product Partner Explore Services Product Engineering Kubernetes Explore Services Expertise Dimensions We Work in We operate at the confluence of strategy, innovation, and technical rigor. Guiding ideas from conception to realization with clarity and foresight. Product Services We tackle challenges across the entire development lifecycle. Discovery-Ideation-Design Quality Engineering DevSecOps Development Modernisation See all Domains Our work spans a wide array of domains, defined by acumen, intent, and impact. Network SoC Storage management Device Drivers Kubernetes & Cloud Native Open Stack AI & ML Cyber Security Space See all Ideation to Design to Development User-centricity is key in our product development. Our skilled design team crafts intuitive experiences , ensuring our products meet users' needs effectively. Define Strategies Craft MVP Product Design Branding Design it well Teams Meet Our Team We’re a collective of innovators, problem-solvers, and doers driven by curiosity and a constant wish to build better. Leadership Deepak Tawri Co-Founder Rahul Soman Co-Founder Abhishek Mukherjee Consulting Architect Omkar Kulkarni Director of Engineering Shalini Chaudhari Business Strategy & Growth Leader Nitesh Gothe Lead Product Designer Purushottam Thakar Senior director engineering and operations Blogs Blogs & Articles Insights created by the minds behind our work. View All EEE: How networks save power when idle How networks save power when idle: In the office where we work, the meeting rooms have a smart feature. By Yogesh Sawant • 16.06.2026 Contact Send Your Inquiry Home / Technologies / Industries / Services / About us / Leadership / Blogs / Privacy / Careers / Contact us EMAIL contact@geminustech.com Social ADDRESS 5th Floor, Neel Square Sanghavi Kesari Road, Aundh, Pune Maharashtra, India-411007 © 2025 - All rights reserved\n\n[https://www.geminustech.com/careers]\nGeminus Tech Home | Careers Because People Make the Difference We took chances on people who didn’t fit boxes and that’s been our biggest reward. - Deepak Tawri (Co-founder) We took chances on people who didn’t fit boxes and that’s been our biggest reward. - Deepak Tawri (Co-founder) Life With Us Openings We Care We care for your health, learning, stability, and balance. Because thriving people build thriving teams. Latest at Geminus Diwali celebration Games and activities We celebrated Diwali with a bang, filled with employee-led activities, games, and moments that brought the whole team together in true festive spirit and celebrations that lit up the workplace with energy and laughter. 1 / 4 The environment here is filled with warmth and a real sense of belonging. There’s always someone ready to guide or help when you need it. It truly feels like a team that has your back. I also feel that I’m contributing to something meaningful here. Saee Purkar UX designer Openings Ready to Transform Your Digital Presence? Reach out to us today to discuss your specific needs and discover how our expertise can empower your organization. Contact Us Home / Technologies / Industries / Services / About us / Leadership / Blogs / Privacy / Careers / Contact us EMAIL contact@geminustech.com Social ADDRESS 5th Floor, Neel Square Sanghavi Kesari Road, Aundh, Pune Maharashtra, India-411007 © 2025 - All rights reserved\n\n[https://www.geminustech.com/company/leadership]\nGeminus Tech Home | Company | Leadership They Lead by example “We are stubborn on vision. We are flexible on details.” — Jeff Bezos “We are stubborn on vision. We are flexible on details.” — Jeff Bezos Meet Our Team We’re a collective of innovators, problem-solvers, and doers driven by curiosity and a constant wish to build better. Deepak Tawri Co-Founder Deepak Tawri Co-Founder Deepak ia a co-founder with the vision to provide cost effective, high quality services to emerging technology companies building innovative products. Deepak",
+   "email_candidates": [
+    {
+     "email": "contact@geminustech.com",
+     "where": "https://www.geminustech.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "7844070a6e-ref",
+   "company": "Geminus Tech Pvt Ltd",
+   "website": "https://www.geminustech.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: PHP",
+   "site_text": "[https://www.geminustech.com/]\nGeminus Tech Realize Your Vision With Our Expertise Your Product Partner Explore Services Product Engineering Kubernetes Explore Services Expertise Dimensions We Work in We operate at the confluence of strategy, innovation, and technical rigor. Guiding ideas from conception to realization with clarity and foresight. Product Services We tackle challenges across the entire development lifecycle. Discovery-Ideation-Design Quality Engineering DevSecOps Development Modernisation See all Domains Our work spans a wide array of domains, defined by acumen, intent, and impact. Network SoC Storage management Device Drivers Kubernetes & Cloud Native Open Stack AI & ML Cyber Security Space See all Ideation to Design to Development User-centricity is key in our product development. Our skilled design team crafts intuitive experiences , ensuring our products meet users' needs effectively. Define Strategies Craft MVP Product Design Branding Design it well Teams Meet Our Team We’re a collective of innovators, problem-solvers, and doers driven by curiosity and a constant wish to build better. Leadership Deepak Tawri Co-Founder Rahul Soman Co-Founder Abhishek Mukherjee Consulting Architect Omkar Kulkarni Director of Engineering Shalini Chaudhari Business Strategy & Growth Leader Nitesh Gothe Lead Product Designer Purushottam Thakar Senior director engineering and operations Blogs Blogs & Articles Insights created by the minds behind our work. View All EEE: How networks save power when idle How networks save power when idle: In the office where we work, the meeting rooms have a smart feature. By Yogesh Sawant • 16.06.2026 Contact Send Your Inquiry Home / Technologies / Industries / Services / About us / Leadership / Blogs / Privacy / Careers / Contact us EMAIL contact@geminustech.com Social ADDRESS 5th Floor, Neel Square Sanghavi Kesari Road, Aundh, Pune Maharashtra, India-411007 © 2025 - All rights reserved\n\n[https://www.geminustech.com/careers]\nGeminus Tech Home | Careers Because People Make the Difference We took chances on people who didn’t fit boxes and that’s been our biggest reward. - Deepak Tawri (Co-founder) We took chances on people who didn’t fit boxes and that’s been our biggest reward. - Deepak Tawri (Co-founder) Life With Us Openings We Care We care for your health, learning, stability, and balance. Because thriving people build thriving teams. Latest at Geminus Diwali celebration Games and activities We celebrated Diwali with a bang, filled with employee-led activities, games, and moments that brought the whole team together in true festive spirit and celebrations that lit up the workplace with energy and laughter. 1 / 4 The environment here is filled with warmth and a real sense of belonging. There’s always someone ready to guide or help when you need it. It truly feels like a team that has your back. I also feel that I’m contributing to something meaningful here. Saee Purkar UX designer Openings Ready to Transform Your Digital Presence? Reach out to us today to discuss your specific needs and discover how our expertise can empower your organization. Contact Us Home / Technologies / Industries / Services / About us / Leadership / Blogs / Privacy / Careers / Contact us EMAIL contact@geminustech.com Social ADDRESS 5th Floor, Neel Square Sanghavi Kesari Road, Aundh, Pune Maharashtra, India-411007 © 2025 - All rights reserved\n\n[https://www.geminustech.com/company/leadership]\nGeminus Tech Home | Company | Leadership They Lead by example “We are stubborn on vision. We are flexible on details.” — Jeff Bezos “We are stubborn on vision. We are flexible on details.” — Jeff Bezos Meet Our Team We’re a collective of innovators, problem-solvers, and doers driven by curiosity and a constant wish to build better. Deepak Tawri Co-Founder Deepak Tawri Co-Founder Deepak ia a co-founder with the vision to provide cost effective, high quality services to emerging technology companies building innovative products. Deepak",
+   "email_candidates": [
+    {
+     "email": "yatish@geminustech.com",
+     "where": "GitHub commits (geminustech)",
+     "kind": "personal",
+     "name": "Yatish Devadiga",
+     "commits": 11
+    },
+    {
+     "email": "devadigayatish@gmail.com",
+     "where": "GitHub commits (geminustech)",
+     "kind": "personal",
+     "name": "Yatish Devadiga",
+     "commits": 6
+    },
+    {
+     "email": "monica.dahitule@gmail.com",
+     "where": "GitHub commits (geminustech)",
+     "kind": "personal",
+     "name": "Monika Dahitule",
+     "commits": 17
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "a482220dbc",
+   "company": "Netcore Cloud",
+   "website": "https://netcorecloud.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Mumbai, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Experience The Infinite. Languages: Objective-C, Swift",
+   "site_text": "[https://netcore.ai/]\nNetcore - #1 Agentic Marketing Platform Dive into the future of AI Agents in Marketing at Agentic Marketing 2026! Platform Products Customer Engagement Email Product Discovery CPaaS Customer Data Platform Product Experience Personalization Channels App Push Web Push In-App Web WhatsApp Email Voice SMS RCS Netcore Advantage Switch to Netcore Migrate smarter with a seamless transition Why Netcore? Discover modern MarTech built for what's next Agentic Marketing Platform Explore the platform – all agents with guardrails and business context executing at scale Solutions E-commerce Turn browsers into buyers, buyers into regulars Retail Connect store aisles and screens seamlessly BFSI Earn trust with secure, compliant engagement Automotive Move enquiries from showroom to ownership Media & Entertainment Keep audiences watching, reading, subscribing Travel & Hospitality Fill bookings, bring travellers back again EdTech Lift enrolments, keep learners on track Startup Scale engagement fast, without scaling cost ISV Embed engagement into your product, ship faster Customers Resources Learn Learn Agentic Marketing Blog Ebooks Podcasts Webinars Videos Guides & Whitepapers Interactive Product Demos Inbox Commerce Demos Demo Center Tools Company About Us Careers Newsroom Contact Support Documentations Raise a ticket Pricing Support Log in Request a Demo Agentic Marketing platform that co-owns your Outcomes Customer LTV CRM Revenue Retention Rate Channel ROI Reactivation Rate Search-to-Purchase Rate Repeat Purchase Rate Move from engaging customers to growing revenue, retention, and lifetime value. Request a Demo → Trusted by 6500+ Brands ★★★★★ 4.7/5.0 ★★★★★ 4.7/5.0 Trusted by 6500+ Brands Turn every customer intent into revenue Unify Customer Data Turn Engagement to Revenue Improve conversions with Search Maximize Reach on SMS, RCS, WhatsApp Unlock more revenue from email Know your customer Unify customer signals across every touchpoint to power personalized experiences, increase conversions, and maximize lifetime value. Explore CDP Personalize and Engage Build personalized journeys that adapt in real time across app and web to drive conversions, strengthen retention, and grow revenue. Explore CE Convert Every Shopper Use our agentic commerce platform to turn every shopper intent, every interaction, and every moment of attention into revenue. Explore Unbxd Maximize Message Reach Reach every customer across WhatsApp, RCS, and SMS while maximizing deliverability, engagement, and revenue from every conversation. Explore CPaaS Unlock Email Revenue Turn email into your highest-converting channel with inbox visibility optimisation, adaptive throughput, and 3-second delivery. Explore Email Agents Built for Outcomes Agents handling every marketing task with customer context that turns engagement into lifetime value. Audience Agent Turns a simple prompt into a live audience. Shopping Agent Turns intent into recommendations and checkout. Content Agent Generates on-brand creative for every channel. Insights Agent Finds what's breaking in your journeys. Scheduler Agent Finds the best time and channel for every customer. Decisioning Agent Chooses the best offer, channel, and product in real time. Audience Agent Turns a simple prompt into a live audience. Shopping Agent Turns intent into recommendations and checkout. Content Agent Generates on-brand creative for every channel. Insights Agent Finds what's breaking in your journeys. Scheduler Agent Finds the best time and channel for every customer. Decisioning Agent Chooses the best offer, channel, and product in real time. Audience Agent Turns a simple prompt into a live audience. Shopping Agent Turns intent into recommendations and checkout. Content Agent Generates on-brand creative for every channel. Insights Agent Finds what's breaking in your journeys. Scheduler Agent Finds the best time and channel for every customer. Decisioning Agent Chooses the best offer, channel, and product ",
+   "email_candidates": [
+    {
+     "email": "delight@netcorecloud.com",
+     "where": "https://netcore.ai/",
+     "kind": "personal"
+    },
+    {
+     "email": "engage@netcorecloud.com",
+     "where": "https://netcore.ai/contact-us/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "a482220dbc-ref",
+   "company": "Netcore Cloud",
+   "website": "https://netcorecloud.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Mumbai, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Experience The Infinite. Languages: Objective-C, Swift",
+   "site_text": "[https://netcore.ai/]\nNetcore - #1 Agentic Marketing Platform Dive into the future of AI Agents in Marketing at Agentic Marketing 2026! Platform Products Customer Engagement Email Product Discovery CPaaS Customer Data Platform Product Experience Personalization Channels App Push Web Push In-App Web WhatsApp Email Voice SMS RCS Netcore Advantage Switch to Netcore Migrate smarter with a seamless transition Why Netcore? Discover modern MarTech built for what's next Agentic Marketing Platform Explore the platform – all agents with guardrails and business context executing at scale Solutions E-commerce Turn browsers into buyers, buyers into regulars Retail Connect store aisles and screens seamlessly BFSI Earn trust with secure, compliant engagement Automotive Move enquiries from showroom to ownership Media & Entertainment Keep audiences watching, reading, subscribing Travel & Hospitality Fill bookings, bring travellers back again EdTech Lift enrolments, keep learners on track Startup Scale engagement fast, without scaling cost ISV Embed engagement into your product, ship faster Customers Resources Learn Learn Agentic Marketing Blog Ebooks Podcasts Webinars Videos Guides & Whitepapers Interactive Product Demos Inbox Commerce Demos Demo Center Tools Company About Us Careers Newsroom Contact Support Documentations Raise a ticket Pricing Support Log in Request a Demo Agentic Marketing platform that co-owns your Outcomes Customer LTV CRM Revenue Retention Rate Channel ROI Reactivation Rate Search-to-Purchase Rate Repeat Purchase Rate Move from engaging customers to growing revenue, retention, and lifetime value. Request a Demo → Trusted by 6500+ Brands ★★★★★ 4.7/5.0 ★★★★★ 4.7/5.0 Trusted by 6500+ Brands Turn every customer intent into revenue Unify Customer Data Turn Engagement to Revenue Improve conversions with Search Maximize Reach on SMS, RCS, WhatsApp Unlock more revenue from email Know your customer Unify customer signals across every touchpoint to power personalized experiences, increase conversions, and maximize lifetime value. Explore CDP Personalize and Engage Build personalized journeys that adapt in real time across app and web to drive conversions, strengthen retention, and grow revenue. Explore CE Convert Every Shopper Use our agentic commerce platform to turn every shopper intent, every interaction, and every moment of attention into revenue. Explore Unbxd Maximize Message Reach Reach every customer across WhatsApp, RCS, and SMS while maximizing deliverability, engagement, and revenue from every conversation. Explore CPaaS Unlock Email Revenue Turn email into your highest-converting channel with inbox visibility optimisation, adaptive throughput, and 3-second delivery. Explore Email Agents Built for Outcomes Agents handling every marketing task with customer context that turns engagement into lifetime value. Audience Agent Turns a simple prompt into a live audience. Shopping Agent Turns intent into recommendations and checkout. Content Agent Generates on-brand creative for every channel. Insights Agent Finds what's breaking in your journeys. Scheduler Agent Finds the best time and channel for every customer. Decisioning Agent Chooses the best offer, channel, and product in real time. Audience Agent Turns a simple prompt into a live audience. Shopping Agent Turns intent into recommendations and checkout. Content Agent Generates on-brand creative for every channel. Insights Agent Finds what's breaking in your journeys. Scheduler Agent Finds the best time and channel for every customer. Decisioning Agent Chooses the best offer, channel, and product in real time. Audience Agent Turns a simple prompt into a live audience. Shopping Agent Turns intent into recommendations and checkout. Content Agent Generates on-brand creative for every channel. Insights Agent Finds what's breaking in your journeys. Scheduler Agent Finds the best time and channel for every customer. Decisioning Agent Chooses the best offer, channel, and product ",
+   "email_candidates": [
+    {
+     "email": "arjun.singh@netcorecloud.com",
+     "where": "GitHub commits (NetcoreSolutions)",
+     "kind": "personal",
+     "name": "arjun-singh-nc",
+     "commits": 42
+    },
+    {
+     "email": "bhaskar.gangabattina@netcorecloud.com",
+     "where": "GitHub commits (NetcoreSolutions)",
+     "kind": "personal",
+     "name": "Bhaskar Gangabathina",
+     "commits": 12
+    },
+    {
+     "email": "jobin.kurian@netcorecloud.com",
+     "where": "GitHub commits (NetcoreSolutions)",
+     "kind": "personal",
+     "name": "Jobin Kurian",
+     "commits": 60
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "489c401b71",
+   "company": "Brucira",
+   "website": "https://www.brucira.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Mumbai, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Design agency that specilizes in Product Design and Branding.. Languages: JavaScript",
+   "site_text": "[https://www.brucira.com]\nTitle: Brucira | Global design and development agency\n\nURL Source: https://www.brucira.com/\n\nMarkdown Content:\n[Brucira Wins at India’s Best Design Awards 2026 Read Blog](https://blog.brucira.com/indias-best-design-awards-2026-two-wins-one-team/)\n\n[](https://www.brucira.com/uk)\n\n[Work](https://www.brucira.com/uk/work)\n\n[Services](https://www.brucira.com/uk/services)\n\n[![Image 9: Strategy](https://www.brucira.com/img/icons/menu-icons/strategy.svg) #### Strategy The driving force behind innovation & long-term success.](https://www.brucira.com/uk/services/product-strategy)[![Image 10: Brand & Campaign](https://www.brucira.com/img/icons/menu-icons/brand-campaign.svg) #### Brand & Campaign Brands and Campaigns that leave audiences wanting more.](https://www.brucira.com/uk/services/brands-and-campaign)[![Image 11: Product](https://www.brucira.com/img/icons/menu-icons/product.svg) #### Product Creating innovative, functional products that deliver.](https://www.brucira.com/uk/services/product-design)[![Image 12: Engineering](https://www.brucira.com/img/icons/menu-icons/engineering.svg) #### Engineering Scalable, reliable, and intuitive technology solutions.](https://www.brucira.com/uk/services/engineering)\n\n[Research](https://www.brucira.com/#)[Software Architecture](https://www.brucira.com/#)[UI/UX Auditing](https://www.brucira.com/#)[Product Strategy](https://www.brucira.com/#)[Creative Strategy](https://www.brucira.com/#)[Marketing and Competitive Analysis](https://www.brucira.com/#)\n\n[About](https://www.brucira.com/uk/about)\n\n[Clients](https://www.brucira.com/uk/clients)\n\n[](https://www.brucira.com/uk)\n\n[Future](https://www.brucira.com/uk/future)\n\n[CONTACT](https://www.brucira.com/uk/contact)\n\n[CONTACT](https://www.brucira.com/uk/contact)\n\n[Work](https://www.brucira.com/uk/work)[About](https://www.brucira.com/uk/about)Services[Clients](https://www.brucira.com/uk/clients)[Awards](https://www.brucira.com/uk/awards)[Future](https://www.brucira.com/uk/future)\n\n[Contact Us](https://www.brucira.com/uk/contact)\n\n![Image 13](https://www.brucira.com/img/home-showreel-poster.webp)[Video 10](https://vz-1d9ceac4-89b.b-cdn.net/67223776-2882-4334-a9de-354033b4b699/play_1080p.mp4)[Video 11](https://www.brucira.com/)\n\n[Yoga Bar saw a 100% boost in average conversion rate following Brucira's web redesign •](https://www.brucira.com/case-studies/yogabar)[Brucira wins Foxglove Award for Best Visual Design for their work with Oppo •](https://www.brucira.com/uk/awards)\n\nBrucira partners with Kwikpay to design their distinctive logo\n\n•\n\n[Yoga Bar saw a 100% boost in average conversion rate following Brucira's web redesign •](https://www.brucira.com/case-studies/yogabar)[Brucira wins Foxglove Award for Best Visual Design for their work with Oppo •](https://www.brucira.com/uk/awards)\n\nBrucira partners with Kwikpay to design their distinctive logo\n\n•\n\n[Yoga Bar saw a 100% boost in average conversion rate following Brucira's web redesign •](https://www.brucira.com/case-studies/yogabar)[Brucira wins Foxglove Award for Best Visual Design for their work with Oppo •](https://www.brucira.com/uk/awards)\n\nBrucira partners with Kwikpay to design their distinctive logo\n\n•\n\n[Yoga Bar saw a 100% boost in average conversion rate following Brucira's web redesign •](https://www.brucira.com/case-studies/yogabar)[Brucira wins Foxglove Award for Best Visual Design for their work with Oppo •](https://www.brucira.com/uk/awards)\n\nBrucira partners with Kwikpay to design their distinctive logo\n\n•\n\n# W\n\ne\n\nh\n\ne\n\nl\n\np\n\nr\n\na\n\nm\n\np\n\nu\n\np\n\nd\n\ne\n\ns\n\ni\n\ng\n\nn\n\nc\n\na\n\np\n\na\n\nc\n\ni\n\nt\n\ny\n\n,\n\ns\n\np\n\ne\n\ne\n\nd\n\nu\n\np\n\np\n\nr\n\no\n\nd\n\nu\n\nc\n\nt\n\nd\n\ne\n\nv\n\ne\n\nl\n\no\n\np\n\nm\n\ne\n\nn\n\nt\n\n,\n\na\n\nn\n\nd\n\ni\n\nm\n\np\n\nr\n\no\n\nv\n\ne\n\nb\n\no\n\nt\n\nt\n\no\n\nm\n\nl\n\ni\n\nn\n\ne\n\n.\n\n![Image 14](https://www.brucira.com/img/clients/zepto.svg)\n\n![Image 15](https://www.brucira.com/img/clients/oppo.svg)\n\n![Image 16](https://www.brucira.com/img/clients/walmart.svg)\n\n![Image 17](https://www.brucira.com/img/clients/razorpay.sv",
+   "email_candidates": [
+    {
+     "email": "akshay.n@brucira.com",
+     "where": "GitHub commits (brucira)",
+     "kind": "personal",
+     "name": "akshay-brucira",
+     "commits": 16
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "1c1329b6ba",
+   "company": "NFN Labs",
+   "website": "https://www.nfnlabs.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Chennai",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Kotlin. Topics: nfnlabs-android, nfntech",
+   "site_text": "[https://nfnlabs.in/]\nNFN Labs - AI Native Product Studio NFN Labs - AI Native Product Studio NFN Labs - AI Native Product Studio NFN Labs Work Services Pricing Company Blog LET'S TEAM UP LET'S TEAM UP NFN Labs Company Services PRICING BLOG WORK LET'S TEAM UP NFN Labs Company Services PRICING BLOG WORK LET'S TEAM UP W E S H I P P R O D U C T S . W h i l e y o u f o c u s o n y o u r b u s i n e s s . W E S H I P P R O D U C T S . W h i l e y o u f o c u s o n y o u r b u s i n e s s . W E S H I P P R O D U C T S . W h i l e y o u f o c u s o n y o u r b u s i n e s s . Most founders waste months and money managing designers, developers, and missed expectations. NFN Labs is the AI-native product studio that takes the outcome off your plate. From concept to live product, faster and leaner than building in-house. 100+ products shipped. 15 years of judgement. Most founders waste months and money managing designers, developers, and missed expectations. NFN Labs is the AI-native product studio that takes the outcome off your plate. From concept to live product, faster and leaner than building in-house. 100+ products shipped. 15 years of judgement. Most founders waste months and money managing designers, developers, and missed expectations. NFN Labs is the AI-native product studio that takes the outcome off your plate. From concept to live product, faster and leaner than building in-house. 100+ products shipped. 15 years of judgement. teams we've collaborated with WHy founders choose NFN labs over hiring in-house WHy founders choose NFN labs over hiring in-house Speed, Quality, and scale Ship your first version in weeks, not quarters. No ramp-up time, no onboarding drag. Products that users actually want to use - tested, refined, and ready before they go live. Avoid costly redesigns with user-tested designs that convert. Built to grow with you. When you get traction, the architecture won't hold you back. Scale confidently with future-proof architecture that grows with you. Products we Shipped view all view all NFN Labs Work Services Pricing Company Blog LET'S TEAM UP LET'S TEAM UP NFN Labs Company Services PRICING BLOG WORK LET'S TEAM UP NFN Labs Company Services PRICING BLOG WORK Get in touch SaaS22 Design â¢ DEVelopment spendflo DESIGN â¢ DEVelopment Happysales Design â¢ DEVelopment Moviebuff DESIGN â¢ DEVelopment sportwalk dESIGN â¢ DEVelopment WebsiteChat dESIGN â¢ DEVelopment qube development Studioinfiniti dESIGN â¢ DEVelopment databrain Design orocorp development kaching Design â¢ DEVelopment bounce development breadcrumb DEsign â¢ DEVelopment Avalara DEsign â¢ DEVelopment SaaS22 Design â¢ DEVelopment spendflo DESIGN â¢ DEVelopment Happysales Design â¢ DEVelopment Moviebuff DESIGN â¢ DEVelopment sportwalk dESIGN â¢ DEVelopment WebsiteChat dESIGN â¢ DEVelopment qube development Studioinfiniti dESIGN â¢ DEVelopment databrain Design orocorp development kaching Design â¢ DEVelopment bounce development breadcrumb DEsign â¢ DEVelopment Avalara DEsign â¢ DEVelopment WHO WE ARE NFN Labs is an AI-native product studio. We've shipped 100+ products across SaaS, D2C, healthcare, and logistics - not by executing specs, but by thinking through problems the way a product company does. We bring the design, engineering, strategy, and AI muscle. You bring the vision and the business. You focus on your idea and business, we take care of everything else. NFN Labs is an AI-native product studio. We've shipped 100+ products across SaaS, D2C, healthcare, and logistics - not by executing specs, but by thinking through problems the way a product company does. We bring the design, engineering, strategy, and AI muscle. You bring the vision and the business. NFN Labs is an AI-native product studio. We've shipped 100+ products across SaaS, D2C, healthcare, and logistics - not by executing specs, but by thinking through problems the way a product company does. We bring the design, engineering, strategy, and AI muscle. You bring the visi",
+   "email_candidates": [
+    {
+     "email": "contact@nfnlabs.in",
+     "where": "https://nfnlabs.in/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  }
+ ]
+}

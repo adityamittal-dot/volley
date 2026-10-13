@@ -1,0 +1,17 @@
+{
+ "ashby:claimsorted": {
+  "company": "ClaimSorted",
+  "found": "2026-10-13",
+  "website": "https://claimsorted.com"
+ },
+ "ashby:rebar": {
+  "company": "Rebar",
+  "found": "2026-10-13",
+  "website": "https://withrebar.ai"
+ },
+ "lever:bluebottlecoffee": {
+  "company": "SerpApi",
+  "found": "2026-10-13",
+  "website": "https://serpapi.com"
+ }
+}

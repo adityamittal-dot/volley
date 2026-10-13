@@ -1,20 +1,22 @@
 # Tracker
 
-_Updated 2026-10-12T22:14:59Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-13T07:29:30Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
 **Emailed:** 186 · **Sent:** 186 · **Replies:** 22 (12%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
-| new | 251 |
+| new | 306 |
 | skipped | 2 |
-| no_contact | 705 |
+| no_contact | 703 |
 | low_fit | 435 |
-| sent | 28 |
-| followup_1 | 70 |
-| followup_2 | 56 |
+| researching | 120 |
+| sent | 18 |
+| followup_1 | 67 |
+| followup_2 | 57 |
 | replied | 22 |
 | bounced | 10 |
+| closed | 12 |
 
 ## Reply rate by angle
 
@@ -80,8 +82,8 @@ _Updated 2026-10-12T22:14:59Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-09 | Botle | botleapps@gmail.com | medvault | sent |
 | 2026-10-09 | Crest | neil@getcrest.ai | medvault | bounced |
 | 2026-10-09 | Innerkore Technologies | admin@innerkore.com | medvault | sent |
-| 2026-10-08 | Hopit | arkid@hopit.ai | medvault | sent |
-| 2026-10-08 | Globussoft Technologies | sumit@globussoft.com | medvault | sent |
-| 2026-10-08 | AgileHead | jeswinpk@agilehead.com | canopy | sent |
-| 2026-10-08 | Ionage | careers@ionage.in | medvault | sent |
-| 2026-10-08 | Syook | careers@syook.com | medvault | sent |
+| 2026-10-08 | Hopit | arkid@hopit.ai | medvault | followup_1 |
+| 2026-10-08 | Globussoft Technologies | sumit@globussoft.com | medvault | followup_1 |
+| 2026-10-08 | AgileHead | jeswinpk@agilehead.com | canopy | followup_1 |
+| 2026-10-08 | Ionage | careers@ionage.in | medvault | followup_1 |
+| 2026-10-08 | Syook | careers@syook.com | medvault | followup_1 |

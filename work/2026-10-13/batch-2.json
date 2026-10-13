@@ -1,0 +1,274 @@
+{
+ "leads": [
+  {
+   "id": "0e223d3359",
+   "company": "Supersek-Labs",
+   "website": "https://supersek.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Open-source security research, tools, and frameworks by SUPERSEK.. Languages: JavaScript, Python",
+   "site_text": "[https://supersek.com/]\nTitle: Supersek | Deep-Dive Security Consulting\n\nURL Source: https://supersek.com/\n\nMarkdown Content:\n## SUPERSEK: DEEP-DIVE SECURITY CONSULTING FOR  \nTHE MODERN STACK\n\nFundamentals-first offensive assessments across applications and cloud.\n\n## BEYOND THE SURFACE\n\nWe don't just scan. We understand.\n\n## FOR SECURITY BEYOND CHECKLISTS\n\nSupersek works with product and platform teams operating complex application and cloud environments—where security failures are architectural, not superficial.\n\n## OUR WORK\n\nApplication and cloud security assessments, adversarial testing, and threat modeling—focused on real attack paths and production risk.\n\n## RESEARCH-DRIVEN BY DESIGN\n\nResearch that feeds real security work.\n\n## CLARITY, DELIVERED\n\nActionable security insight, not raw data.\n\n## OUR PHILOSOPHY\n\nSecurity degrades when it becomes procedural. We focus on fundamentals, attacker perspective, and understanding systems as they actually exist in production.\n\n[](https://supersek.com/contact)\n",
+   "email_candidates": [
+    {
+     "email": "pushpak@supersek.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "0f0ed6952d",
+   "company": "Incredible",
+   "website": "https://incredible.dev",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Empowering you to create Incredible coding videos with ease.. Languages: Rust, TypeScript. Topics: collaboration, creator-tools, fast, konvajs, monorepo, mysql, next-js, nextjs, planetscale, prisma, trpc, typescript, video, video-creation",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "dev@incredible.dev",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "0f0ed6952d-ref",
+   "company": "Incredible",
+   "website": "https://incredible.dev",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Empowering you to create Incredible coding videos with ease.. Languages: Rust, TypeScript. Topics: collaboration, creator-tools, fast, konvajs, monorepo, mysql, next-js, nextjs, planetscale, prisma, trpc, typescript, video, video-creation",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "kartronics85@gmail.com",
+     "where": "GitHub commits (IncredibleDevHQ)",
+     "kind": "personal",
+     "name": "Karthic Rao",
+     "commits": 69
+    },
+    {
+     "email": "suvijsurya76@gmail.com",
+     "where": "GitHub commits (IncredibleDevHQ)",
+     "kind": "personal",
+     "name": "Suvij Surya",
+     "commits": 7
+    },
+    {
+     "email": "ashwin.mirskar@gmail.com",
+     "where": "GitHub commits (IncredibleDevHQ)",
+     "kind": "personal",
+     "name": "Pythonista7",
+     "commits": 7
+    },
+    {
+     "email": "nithinkumar5555@outlook.com",
+     "where": "GitHub commits (IncredibleDevHQ)",
+     "kind": "personal",
+     "name": "Nithin Kumar B",
+     "commits": 19
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "20b5153306",
+   "company": "TechVerito Software Solutions LLP",
+   "website": "https://www.techverito.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune, Maharashtra",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go, TypeScript",
+   "site_text": "[https://www.techverito.com/]\nTechVerito | AI-First Engineering, Real Outcomes Who we are What we do Life at TechVerito Insights Blogs Case Studies TV Network Join us Contact us Who we are What we do Life at TechVerito Insights TV Network Contact us Join us See our AI work Book a discovery call 0+ Consultants 0+ Industries 0+ Projects AI-Powered Knowledge Management, Live in Slack We built an AI-powered Slack integration for a franchise organization's Intelligent Knowledge Assistant, letting teams ask questions, analyze documents, and access org-specific knowledge without leaving the tool they already live in. Secure, multi-tenant, and built for scale. KNOW MORE More AI work, already shipped Explore all case studies Logistics AI-Driven Business Analytics for Intelligent 3PL Decision-Making Third-Party Logistics (3PL) businesses operate in a data-heavy environment, managing shipments, inventory, billing, carriers, and operational performance across multiple warehouses and customers. While data is abundant, extracting timely and actionable insights remains a challenge. TechVerito partnered with a business analytics provider serving 3PL companies to build an AI-powered analytics platform that enables warehouse owners and logistics operators to ask business questions in plain English and receive accurate, production-grade insights without needing to understand SQL, schemas, or complex reporting tools. This case study highlights how we delivered a secure, scalable, LLM-enabled analytics platform tailored specifically to the operational realities of the 3PL domain. View case study Education AI Tutor for Personalized Learning Support A B2B EdTech platform set out to elevate the learning experience for both students and teachers by delivering engaging, interactive educational content. As digital learning environments grow, students increasingly consume lessons through videos, interactive modules, and virtual classrooms, making on-demand academic support more important than ever. To address this need, the platform introduced an AI Tutor, an intelligent assistant designed to help students clarify doubts instantly while also supporting teachers in lesson preparation and instructional planning. View case study Retail Real-Time Retail Fraud Identification & Prevention Platform Online retail transactions happen in milliseconds, but fraud can cause damage that lasts far longer. From abusive purchasing patterns to repeat return fraud, merchants need a way to identify suspicious activity before a transaction is completed, not after the loss has already occurred. TechVerito partnered with a retail fraud solutions provider to build a real-time fraud identification and prevention platform. The solution helps merchants proactively detect abusive transactions, reduce business risk, and protect revenue without slowing down the checkout experience. View case study Our AI Offerings From LLM-powered products to the governance and data foundations they run on: here's where our AI work actually lives today. LLM & Agent Engineering Building products powered by LLMs and task-specific agents, including conversational interfaces, automated report generation, and reasoning over unstructured input. See it in a real product Enterprise Knowledge & RAG Retrieval-augmented systems that let teams ask questions in plain English and get answers grounded in your own documents, data, and org-specific knowledge. See it in a real product AI-Native Product Builds End-to-end product work where models, UX, and backend are designed together from day one, not AI bolted on to an existing product as an afterthought. How we approach it AI-Assisted Modernization Using AI-assisted tooling to speed up the unglamorous parts of legacy modernization (code comprehension, test generation, and incremental migration) without a risky big-bang rewrite. How we approach it Security & Governance PII redaction, prompt-injection controls, and governance patterns suited to regulated and high-trus",
+   "email_candidates": [
+    {
+     "email": "hello@techverito.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "20b5153306-ref",
+   "company": "TechVerito Software Solutions LLP",
+   "website": "https://www.techverito.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Pune, Maharashtra",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go, TypeScript",
+   "site_text": "[https://www.techverito.com/]\nTechVerito | AI-First Engineering, Real Outcomes Who we are What we do Life at TechVerito Insights Blogs Case Studies TV Network Join us Contact us Who we are What we do Life at TechVerito Insights TV Network Contact us Join us See our AI work Book a discovery call 0+ Consultants 0+ Industries 0+ Projects AI-Powered Knowledge Management, Live in Slack We built an AI-powered Slack integration for a franchise organization's Intelligent Knowledge Assistant, letting teams ask questions, analyze documents, and access org-specific knowledge without leaving the tool they already live in. Secure, multi-tenant, and built for scale. KNOW MORE More AI work, already shipped Explore all case studies Logistics AI-Driven Business Analytics for Intelligent 3PL Decision-Making Third-Party Logistics (3PL) businesses operate in a data-heavy environment, managing shipments, inventory, billing, carriers, and operational performance across multiple warehouses and customers. While data is abundant, extracting timely and actionable insights remains a challenge. TechVerito partnered with a business analytics provider serving 3PL companies to build an AI-powered analytics platform that enables warehouse owners and logistics operators to ask business questions in plain English and receive accurate, production-grade insights without needing to understand SQL, schemas, or complex reporting tools. This case study highlights how we delivered a secure, scalable, LLM-enabled analytics platform tailored specifically to the operational realities of the 3PL domain. View case study Education AI Tutor for Personalized Learning Support A B2B EdTech platform set out to elevate the learning experience for both students and teachers by delivering engaging, interactive educational content. As digital learning environments grow, students increasingly consume lessons through videos, interactive modules, and virtual classrooms, making on-demand academic support more important than ever. To address this need, the platform introduced an AI Tutor, an intelligent assistant designed to help students clarify doubts instantly while also supporting teachers in lesson preparation and instructional planning. View case study Retail Real-Time Retail Fraud Identification & Prevention Platform Online retail transactions happen in milliseconds, but fraud can cause damage that lasts far longer. From abusive purchasing patterns to repeat return fraud, merchants need a way to identify suspicious activity before a transaction is completed, not after the loss has already occurred. TechVerito partnered with a retail fraud solutions provider to build a real-time fraud identification and prevention platform. The solution helps merchants proactively detect abusive transactions, reduce business risk, and protect revenue without slowing down the checkout experience. View case study Our AI Offerings From LLM-powered products to the governance and data foundations they run on: here's where our AI work actually lives today. LLM & Agent Engineering Building products powered by LLMs and task-specific agents, including conversational interfaces, automated report generation, and reasoning over unstructured input. See it in a real product Enterprise Knowledge & RAG Retrieval-augmented systems that let teams ask questions in plain English and get answers grounded in your own documents, data, and org-specific knowledge. See it in a real product AI-Native Product Builds End-to-end product work where models, UX, and backend are designed together from day one, not AI bolted on to an existing product as an afterthought. How we approach it AI-Assisted Modernization Using AI-assisted tooling to speed up the unglamorous parts of legacy modernization (code comprehension, test generation, and incremental migration) without a risky big-bang rewrite. How we approach it Security & Governance PII redaction, prompt-injection controls, and governance patterns suited to regulated and high-trus",
+   "email_candidates": [
+    {
+     "email": "hardik@techverito.com",
+     "where": "GitHub commits (TechVerito)",
+     "kind": "personal",
+     "name": "Hardik Joshi",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "22a6f1fe28",
+   "company": "DoSelect",
+   "website": "https://doselect.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "DoSelect is a recruitment tool for companies.. Languages: JavaScript, Python",
+   "site_text": "[https://doselect.com/]\nMake smarter people decisions using skill data. | DoSelect Products CoCaller Assessments SpeechSense Interviews Contests Solutions Recruit Upskill Mobilize Deploy Certify Engage Resources Webinars Help center Content Community Employer Login Request Demo Talent Evaluation Decoded Make smarter people decisions using skill data Across the employment life cycle. Request Demo Trusted by 4000+ Clients Platform Milestones 1 Cr+ Assessments and Counting 8500 + HR Professionals benefited 4000 + Clients and Growing Your end-to-end Skill Assessment Solution DoSelect provides decision-makers with actionable skill proficiency data, allowing them to make sound business decisions across the employee lifecycle. Recruit Assess and hire talent with relevant skills. Upskill Build a customized learning path using skill data. Deploy Increase application proficiency to become deployment ready. Mobilize Enable mobility, promotion or HIPO decisions using skill data. Engage Increase talent engagement using gamified contests. Certify Improve the pass rate with practice assignments. Know More Recruit Assess and hire talent with relevant skills. Upskill Build a customized learning path using skill data. Deploy Increase application proficiency to become deployment ready. Mobilize Enable mobility, promotion or HIPO decisions using skill data. Engage Increase talent engagement using gamified contests. Certify Improve the pass rate with practice assignments. Explore solutions Features that Standout Built-in library with over 125K+ questions on diverse roles. Support for 25+ programming languages, 15 frameworks, AI/ML, Data science, UI/UX. Full stack and project-based evaluations with dedicated IDE. Insight-rich reports with code quality scores, deep code analysis, and performance insights. Assess test takers in an AI enabled proctored environment. Remote-ready self-serve platform. Reduce time to Hire Shorten the time taken to Learn Reduce time to Deploy AI Enabled Proctoring Detects instances of malpractices. TEST TAKER INTEGRITY Camera enabled. WEB SECURE Control on the browser. Built to scale Security Compliance Stability What our Clients have to Say Arjun Sivasundar PHD, L&D Leader DoSelect as a platform has grown immensely in the 3 years we have worked together. They have added new and useful features on a regular basis, improved existing features and of late have also been building quality content. Overall it has been a very successful partnership between Fractal and DoSelect. Achyuta Angadi TA Leader DoSelect has been very instrumental in streamlining our tech recruitment process at Glance. The coding assessments helped us get to the right candidates faster. Nikhil K Patil Senior Recruitment lead Given the difficulty in finding panel time for interviewing today, it made a lot of sense for us to adopt DoSelect.We assessed the candidates' skills to create a list of proven talent, and with DoSelect, we were able to reduce the number of interviews by one-third, allowing all of us to manage our time more productively. Pragya Prasad Learning Partner Relations It is a pleasure to work with DoSelect. They have helped us streamline our hiring process by eliminating manual intervention. We can simply create and share tests with the candidates. Our recruitment turnaround has become remarkably agile. It was an easy integration with our LMS and applicant tracking system through platformâs API. DoSelectâs support team has been very prompt and active in catering to all our requests. Thanks for your support, DoSelect team. We hope to continue strengthening our partnership. Request Demo Ready to use integrations Custom APIs for integration with your ATS, LMS and any other applications.\n\n[https://doselect.com/teams/request-demo/#form]\nRequest a Demo to Streamline Your Hiring | DoSelect Products CoCaller Assessments SpeechSense Interviews Contests Solutions Recruit Upskill Mobilize Deploy Certify Engage Resources Webinars Help center Content ",
+   "email_candidates": [
+    {
+     "email": "42@doselect.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "22a6f1fe28-ref",
+   "company": "DoSelect",
+   "website": "https://doselect.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "DoSelect is a recruitment tool for companies.. Languages: JavaScript, Python",
+   "site_text": "[https://doselect.com/]\nMake smarter people decisions using skill data. | DoSelect Products CoCaller Assessments SpeechSense Interviews Contests Solutions Recruit Upskill Mobilize Deploy Certify Engage Resources Webinars Help center Content Community Employer Login Request Demo Talent Evaluation Decoded Make smarter people decisions using skill data Across the employment life cycle. Request Demo Trusted by 4000+ Clients Platform Milestones 1 Cr+ Assessments and Counting 8500 + HR Professionals benefited 4000 + Clients and Growing Your end-to-end Skill Assessment Solution DoSelect provides decision-makers with actionable skill proficiency data, allowing them to make sound business decisions across the employee lifecycle. Recruit Assess and hire talent with relevant skills. Upskill Build a customized learning path using skill data. Deploy Increase application proficiency to become deployment ready. Mobilize Enable mobility, promotion or HIPO decisions using skill data. Engage Increase talent engagement using gamified contests. Certify Improve the pass rate with practice assignments. Know More Recruit Assess and hire talent with relevant skills. Upskill Build a customized learning path using skill data. Deploy Increase application proficiency to become deployment ready. Mobilize Enable mobility, promotion or HIPO decisions using skill data. Engage Increase talent engagement using gamified contests. Certify Improve the pass rate with practice assignments. Explore solutions Features that Standout Built-in library with over 125K+ questions on diverse roles. Support for 25+ programming languages, 15 frameworks, AI/ML, Data science, UI/UX. Full stack and project-based evaluations with dedicated IDE. Insight-rich reports with code quality scores, deep code analysis, and performance insights. Assess test takers in an AI enabled proctored environment. Remote-ready self-serve platform. Reduce time to Hire Shorten the time taken to Learn Reduce time to Deploy AI Enabled Proctoring Detects instances of malpractices. TEST TAKER INTEGRITY Camera enabled. WEB SECURE Control on the browser. Built to scale Security Compliance Stability What our Clients have to Say Arjun Sivasundar PHD, L&D Leader DoSelect as a platform has grown immensely in the 3 years we have worked together. They have added new and useful features on a regular basis, improved existing features and of late have also been building quality content. Overall it has been a very successful partnership between Fractal and DoSelect. Achyuta Angadi TA Leader DoSelect has been very instrumental in streamlining our tech recruitment process at Glance. The coding assessments helped us get to the right candidates faster. Nikhil K Patil Senior Recruitment lead Given the difficulty in finding panel time for interviewing today, it made a lot of sense for us to adopt DoSelect.We assessed the candidates' skills to create a list of proven talent, and with DoSelect, we were able to reduce the number of interviews by one-third, allowing all of us to manage our time more productively. Pragya Prasad Learning Partner Relations It is a pleasure to work with DoSelect. They have helped us streamline our hiring process by eliminating manual intervention. We can simply create and share tests with the candidates. Our recruitment turnaround has become remarkably agile. It was an easy integration with our LMS and applicant tracking system through platformâs API. DoSelectâs support team has been very prompt and active in catering to all our requests. Thanks for your support, DoSelect team. We hope to continue strengthening our partnership. Request Demo Ready to use integrations Custom APIs for integration with your ATS, LMS and any other applications.\n\n[https://doselect.com/teams/request-demo/#form]\nRequest a Demo to Streamline Your Hiring | DoSelect Products CoCaller Assessments SpeechSense Interviews Contests Solutions Recruit Upskill Mobilize Deploy Certify Engage Resources Webinars Help center Content ",
+   "email_candidates": [
+    {
+     "email": "ritik.sangwan@doselect.com",
+     "where": "GitHub commits (doselect)",
+     "kind": "personal",
+     "name": "ritik.sangwan",
+     "commits": 8
+    },
+    {
+     "email": "gnsubrahmanyam@doselect.com",
+     "where": "GitHub commits (doselect)",
+     "kind": "personal",
+     "name": "G Naga Subrahmanyam",
+     "commits": 10
+    },
+    {
+     "email": "iliyas.shirol@gmail.com",
+     "where": "GitHub commits (doselect)",
+     "kind": "personal",
+     "name": "Iliyas Shirol",
+     "commits": 4
+    },
+    {
+     "email": "dinesh@doselect.com",
+     "where": "GitHub commits (doselect)",
+     "kind": "personal",
+     "name": "dinesh25murali",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "b27ad8673e",
+   "company": "Bitloka Solutions",
+   "website": "https://bitloka.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript",
+   "site_text": "[https://bitloka.com/]\nBitloka Solutions Be part of our story. Sky is the limit \"Customer Delight\" epitomizes our journey, encapsulating our purpose: ensuring unparalleled satisfaction among our clientele. Our cloud solution optimizes performance, scalability, and efficiency through state-of-the-art technology. We deliver adaptable, dependable, secure services tailored to evolving client requirements. A dedicated team of UX specialists and adept technologies deliver cutting-edge solutions, ensuring exceptional performance across the technology stack. We're committed to crafting innovative solutions that enhance education, streamline communication, optimize cloud infrastructure bolster observability, and leverage GenAI's power. Building a high-performance team and core competencies is vital for growth. We recruit diverse talent and foster a collaborative learning culture. Through targeted training, we align strengths with objectives, enhancing innovation. < > About Founded by IT professionals with over 50 years of combined experience in management and technical roles across Education, Insurance, Finance, and Data Center Applications, our team has worked with global leaders like HP, IBM, Tech Mahindra, Wipro, and BMC. Our flagship platform, CampusTrack, offers a user-friendly solution for all educational stakeholders, addressing diverse needs with simplicity and power. Bitloka has since evolved beyond EdTech, integrating LMS, Cloud services, Observability, and Generative AI features. Cloud Leveraging Kubernetes in conjunction with leading cloud hosting services, our team excels in orchestrating the deployment, management, and scaling of applications, capitalizing on the inherent advantages of cloud-native technologies. Our adept approach ensures enhanced flexibility, scalability, and resilience. Streamlining and automating software deployment processes Orchestrating containerized applications with Kubernetes Utilizing cloud services (Digital Ocean, AWS, etc.) for scalability and reliability Employing Infrastructure as Code tools like Terraform for efficient management Expertise in implementing CI/CD pipelines (GitHub / GitHub Actions / Docker / Kubernetes / Helm) Integration with tools like Github Actions for real-time deployment and automation Commitment to enhancing operational efficiency and delivering robust solutions for clients' evolving needs. Connect Effective communication is vital for engagement and collaboration in educational institutions. Features like SMS, email, notifications, chat, and chatbots ensure seamless connectivity by enabling instant alerts, formal communication, real-time collaboration, and automated reminders. Timely notifications and interactive chatbots further enhance support with 24/7 assistance, event updates, and critical information sharing. Connectivity: Ensures engagement with SMS, email, notifications, chat, and chatbots SMS Communication: Enables instant alerts for attendance, exams, and critical updates Email Channel: Facilitates formal communication, document sharing, and two-way interaction Timely Notifications: Delivers updates on events, deadlines, and reminders via web and mobile Real-Time Chat: Enhances collaboration among students, teachers, parents, and administrators Interactive Chatbot: Provides instant support, FAQs, and onboarding assistance 24/7 Event Reminders: Automates alerts for schedules, deadlines, and academic activities EdTech Experience the future of education management with CampusTrack — a flexible solution for your institution's success. An Umbrella app that can handle institutes at all levels. Flagship product serving 100,000+ students A simple yet powerful, and extensible platform for stakeholders of an Educational Institution - Students, Parents, Academia, and Management A cloud based solution with cutting edge technologies Key Features: Handle Admissions, Attendance, Fees Transactions, Exams, Performance, Generate marks card, Generate reports, Manage Assets, Cal",
+   "email_candidates": [
+    {
+     "email": "contact@bitloka.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "cad8b0f4c0",
+   "company": "Peoplebox",
+   "website": "https://www.peoplebox.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Helping high-growth startups achieve their goals!. Languages: HCL, Ruby, TypeScript",
+   "site_text": "[https://www.peoplebox.ai/]\nAI Talent Management Software To Improve Performance | Peoplebox Skip to main content Skip to footer Log in Book a Demo Products Talent Management Performance Management Reviews, goals, calibration, and compensation in one platform Performance Review 1:1 Org Chart OKR / Goals Align every team to company priorities in real time Check-ins Business Reviews Employee Engagement Catch engagement problems before they become exit interviews Engagement Surveys People Insights 360 Feedback Honest multi-rater feedback that drives real development AI Talent Acquisition Text to Apply Let candidates apply via text in seconds and capture more qualified applicants ATS A unified applicant tracking system to manage your entire hiring pipeline Resume Screening Screen thousands of resumes in minutes AI Interview Structured interviews at scale, zero recruiter time Customers Resources Resources Blog Insights on performance, engagement, and hiring Webinars Live and on-demand sessions with HR leaders Ebook and Guides Practical resources for every stage of talent management Product Tour Guided walkthroughs of every Peoplebox feature Talent Lab Research and benchmarks from real talent data Recent Article The 67 Lominger Competencies: Full List, Definitions, and Clusters Biswashree Roy 16 MIN READ 8 Best Hiring Software for Franchises in 2026 Dhanya 0 MIN READ Pricing Human-Like AI for Hiring and Managing Talent Conduct AI-powered interviews, manage performance reviews, track OKRs, and handle compensation – all from one platform . Request a Demo Take a Product Tour Trusted by 600+ companies building high-performance cultures Case study Case study What Does Peoplebox.ai Do? Peoplebox.ai is an AI-powered Talent platform that combines human-like AI with configurable workflows to automate hiring, performance management, and employee growth. Nova Human-like AI interviews and employee conversations Hire AI Chat Conversation AI Skill Assessment Resume screening First-round interviews Onboarding Conversation Engagement Onboarding Check-in calls Grow Career Growth Conversation Skill Assessments Hire in days not weeks. Stay connected from hire to exit. Explore Now Talent Management Platform All-in-one platform - OKRs to Compensation Performance reviews 1:1 management Career development (IDPs) Compensation planning Competency frameworks Continuous feedback Engagement surveys Goals and OKRs Reduce admin time. Eliminate spreadsheets. Explore Now Experience Peoplebox.ai Nova AI Talent Management Nova AI Talk to Nova Right Away OTP modal trigger button Nova will call you in ~30 seconds and conduct a real interview for the role you selected. Talent Management Experience Peoplebox in action Explore Talent Management See how forward-thinking HR teams run performance, growth, and retention—all in one platform. Key Stages of Talent Lifecycle From Hire to High Performance Powered by AI AI runs interviews, performance, and engagement - seamlessly across the talent lifecycle. Hire Perform Grow Retain AI Sourcing & Outreach Nova identifies candidates on LinkedIn and job boards, then reaches out with personalized messages based on the role. No recruiter time spent on outbound. Resume Screening Upload 500 resumes. Nova scores each against your requirements in minutes and shows you why each candidate passed or failed. No black-box decisions. Phone Interviews Nova calls candidates and conducts natural phone screens - complete with pauses, follow-up questions, and adaptive conversation. Scales to 100+ calls per day. Candidates consistently ask if they were speaking to a real person. Video Interviews Async video interviews with AI evaluation of responses, tone, and communication skills. Candidates respond on their schedule. Nova flags top performers for human review. AI Chat Conversation Nova meets every candidate on their channel of choice - text, chat, call, or video - pre-screening and qualifying them in real time, 24/7. Every channel covered. Every ca",
+   "email_candidates": [
+    {
+     "email": "makers@peoplebox.ai",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "cad8b0f4c0-ref",
+   "company": "Peoplebox",
+   "website": "https://www.peoplebox.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Helping high-growth startups achieve their goals!. Languages: HCL, Ruby, TypeScript",
+   "site_text": "[https://www.peoplebox.ai/]\nAI Talent Management Software To Improve Performance | Peoplebox Skip to main content Skip to footer Log in Book a Demo Products Talent Management Performance Management Reviews, goals, calibration, and compensation in one platform Performance Review 1:1 Org Chart OKR / Goals Align every team to company priorities in real time Check-ins Business Reviews Employee Engagement Catch engagement problems before they become exit interviews Engagement Surveys People Insights 360 Feedback Honest multi-rater feedback that drives real development AI Talent Acquisition Text to Apply Let candidates apply via text in seconds and capture more qualified applicants ATS A unified applicant tracking system to manage your entire hiring pipeline Resume Screening Screen thousands of resumes in minutes AI Interview Structured interviews at scale, zero recruiter time Customers Resources Resources Blog Insights on performance, engagement, and hiring Webinars Live and on-demand sessions with HR leaders Ebook and Guides Practical resources for every stage of talent management Product Tour Guided walkthroughs of every Peoplebox feature Talent Lab Research and benchmarks from real talent data Recent Article The 67 Lominger Competencies: Full List, Definitions, and Clusters Biswashree Roy 16 MIN READ 8 Best Hiring Software for Franchises in 2026 Dhanya 0 MIN READ Pricing Human-Like AI for Hiring and Managing Talent Conduct AI-powered interviews, manage performance reviews, track OKRs, and handle compensation – all from one platform . Request a Demo Take a Product Tour Trusted by 600+ companies building high-performance cultures Case study Case study What Does Peoplebox.ai Do? Peoplebox.ai is an AI-powered Talent platform that combines human-like AI with configurable workflows to automate hiring, performance management, and employee growth. Nova Human-like AI interviews and employee conversations Hire AI Chat Conversation AI Skill Assessment Resume screening First-round interviews Onboarding Conversation Engagement Onboarding Check-in calls Grow Career Growth Conversation Skill Assessments Hire in days not weeks. Stay connected from hire to exit. Explore Now Talent Management Platform All-in-one platform - OKRs to Compensation Performance reviews 1:1 management Career development (IDPs) Compensation planning Competency frameworks Continuous feedback Engagement surveys Goals and OKRs Reduce admin time. Eliminate spreadsheets. Explore Now Experience Peoplebox.ai Nova AI Talent Management Nova AI Talk to Nova Right Away OTP modal trigger button Nova will call you in ~30 seconds and conduct a real interview for the role you selected. Talent Management Experience Peoplebox in action Explore Talent Management See how forward-thinking HR teams run performance, growth, and retention—all in one platform. Key Stages of Talent Lifecycle From Hire to High Performance Powered by AI AI runs interviews, performance, and engagement - seamlessly across the talent lifecycle. Hire Perform Grow Retain AI Sourcing & Outreach Nova identifies candidates on LinkedIn and job boards, then reaches out with personalized messages based on the role. No recruiter time spent on outbound. Resume Screening Upload 500 resumes. Nova scores each against your requirements in minutes and shows you why each candidate passed or failed. No black-box decisions. Phone Interviews Nova calls candidates and conducts natural phone screens - complete with pauses, follow-up questions, and adaptive conversation. Scales to 100+ calls per day. Candidates consistently ask if they were speaking to a real person. Video Interviews Async video interviews with AI evaluation of responses, tone, and communication skills. Candidates respond on their schedule. Nova flags top performers for human review. AI Chat Conversation Nova meets every candidate on their channel of choice - text, chat, call, or video - pre-screening and qualifying them in real time, 24/7. Every channel covered. Every ca",
+   "email_candidates": [
+    {
+     "email": "agarwalarpit22@gmail.com",
+     "where": "GitHub commits (Peoplebox)",
+     "kind": "personal",
+     "name": "Arpit Agarwal",
+     "commits": 40
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  }
+ ]
+}
