@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-13T07:29:30Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-13T08:29:53Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 186 · **Sent:** 186 · **Replies:** 22 (12%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 186 · **Sent:** 186 · **Replies:** 24 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -12,9 +12,9 @@ _Updated 2026-10-13T07:29:30Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | low_fit | 435 |
 | researching | 120 |
 | sent | 18 |
-| followup_1 | 67 |
+| followup_1 | 65 |
 | followup_2 | 57 |
-| replied | 22 |
+| replied | 24 |
 | bounced | 10 |
 | closed | 12 |
 
@@ -22,16 +22,16 @@ _Updated 2026-10-13T07:29:30Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 96 | 10 |
-| canopy | 51 | 8 |
+| medvault | 96 | 11 |
+| canopy | 51 | 9 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 145 | 19 |
-| short | 41 | 3 |
+| role | 145 | 20 |
+| short | 41 | 4 |
 
 ## Replies
 
@@ -43,8 +43,10 @@ _Updated 2026-10-13T07:29:30Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **Leeroo** —  <founders@leeroo.com> replied 2026-10-07
 - **Complir** —  <contact@complir.io> replied 2026-10-06
 - **Unsiloed AI** — André Castro <andre@unsiloed.ai> replied 2026-10-05
+- **Ionage** —  <careers@ionage.in> replied 2026-10-13
 - **nighthack** —  <careers@nighthack.in> replied 2026-10-12
 - **winkjs** —  <contactus@graype.in> replied 2026-09-29
+- **AgileHead** — Jeswin Kumar <jeswinpk@agilehead.com> replied 2026-10-13
 - **Gotchacode** — Vinit Kumar <vinitkme@icloud.com> replied 2026-10-07
 - **Frostrek AI** —  <contact@frostrek.com> replied 2026-10-01
 - **Xero** —  <careers@xero.com> replied 2026-09-30
@@ -84,6 +86,6 @@ _Updated 2026-10-13T07:29:30Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-09 | Innerkore Technologies | admin@innerkore.com | medvault | sent |
 | 2026-10-08 | Hopit | arkid@hopit.ai | medvault | followup_1 |
 | 2026-10-08 | Globussoft Technologies | sumit@globussoft.com | medvault | followup_1 |
-| 2026-10-08 | AgileHead | jeswinpk@agilehead.com | canopy | followup_1 |
-| 2026-10-08 | Ionage | careers@ionage.in | medvault | followup_1 |
+| 2026-10-08 | AgileHead | jeswinpk@agilehead.com | canopy | replied |
+| 2026-10-08 | Ionage | careers@ionage.in | medvault | replied |
 | 2026-10-08 | Syook | careers@syook.com | medvault | followup_1 |

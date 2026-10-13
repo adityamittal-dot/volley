@@ -24165,6 +24165,7 @@
   "posted_at": "2026-10-07T10:45:57Z",
   "priority": 1,
   "priority_note": "recently funded",
+  "replied_at": "2026-10-13T08:27:53Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "Ionage's CPO access control and driver payments across networks depend on multi-tenant auth and per-user data isolation, which MedVault's JWT backend implements.",
@@ -24186,7 +24187,7 @@
   },
   "score": 8.5,
   "source": "funding_news",
-  "status": "followup_1",
+  "status": "replied",
   "title": "Software Engineering (recently funded)",
   "url": "https://entrackr.com/snippets/energy-management-platform-ionage-raises-13-mn-in-pre-series-a-round-12633801",
   "website": "https://ionage.in",
@@ -36864,6 +36865,7 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "replied_at": "2026-10-13T08:28:27Z",
   "research": {
    "angle": "canopy",
    "angle_reason": "AgileHead's code-quality assessments and Chimpanzee AST library match Canopy's multi-language static analysis and call-graph work.",
@@ -36894,7 +36896,7 @@
   },
   "score": 8.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/agilehead",
   "website": "http://www.agilehead.com",
