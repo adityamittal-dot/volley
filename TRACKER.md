@@ -1,17 +1,17 @@
 # Tracker
 
-_Updated 2026-10-13T08:29:53Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-13T10:28:35Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 186 · **Sent:** 186 · **Replies:** 24 (13%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 210 · **Sent:** 210 · **Replies:** 24 (11%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
 | new | 306 |
 | skipped | 2 |
-| no_contact | 703 |
-| low_fit | 435 |
-| researching | 120 |
-| sent | 18 |
+| no_contact | 732 |
+| low_fit | 498 |
+| queued | 4 |
+| sent | 42 |
 | followup_1 | 65 |
 | followup_2 | 57 |
 | replied | 24 |
@@ -22,15 +22,15 @@ _Updated 2026-10-13T08:29:53Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 96 | 11 |
-| canopy | 51 | 9 |
+| medvault | 115 | 11 |
+| canopy | 56 | 9 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 145 | 20 |
+| role | 169 | 20 |
 | short | 41 | 4 |
 
 ## Replies
@@ -64,28 +64,28 @@ _Updated 2026-10-13T08:29:53Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-13 | Arivihan | career@arivihan.com | medvault | sent |
+| 2026-10-13 | Bloom | apply@bloom.diy | medvault | sent |
+| 2026-10-13 | Hackerrank | internship-queries@hackerrank.com | canopy | sent |
+| 2026-10-13 | Heads Up For Tails | hireme@headsupfortails.com | medvault | sent |
+| 2026-10-13 | StartxLabs | hr@startxlabs.com | medvault | sent |
+| 2026-10-13 | NFN Labs | ravi@nfnlabs.in | medvault | sent |
+| 2026-10-13 | Signzy | ankur@signzy.com | medvault | sent |
+| 2026-10-13 | SG Apps | sancho@sg-app.com | medvault | sent |
+| 2026-10-13 | eGyanam Technologies | prasad.lagas83@gmail.com | medvault | sent |
+| 2026-10-13 | MXBIT Technology Innovations Pvt Ltd | tomeanand@gmail.com | medvault | sent |
+| 2026-10-13 | MXBIT Technology Innovations Pvt Ltd | jobs@mxbit.co.in | medvault | sent |
+| 2026-10-13 | Pentafox Technologies Private Limited | shidiq@pentafox.in | medvault | sent |
+| 2026-10-13 | Mason | ashik9591@gmail.com | medvault | sent |
+| 2026-10-13 | Peoplebox | agarwalarpit22@gmail.com | medvault | sent |
+| 2026-10-13 | DoSelect | gnsubrahmanyam@doselect.com | canopy | sent |
+| 2026-10-13 | Incredible | kartronics85@gmail.com | canopy | sent |
+| 2026-10-13 | Blackcurrant Labs | sanket@blackcurrantapps.com | medvault | sent |
+| 2026-10-13 | Miftah Software | azmathasan92@gmail.com | canopy | sent |
+| 2026-10-13 | Isometrik Ai | rahul@isometrik.ai | medvault | sent |
+| 2026-10-13 | Miftah Software | miftahsoftware@gmail.com | canopy | sent |
+| 2026-10-13 | Nagu | nikhilkj24@gmail.com | medvault | sent |
+| 2026-10-13 | Segmind | shrey@segmind.com | medvault | sent |
+| 2026-10-13 | TechVerito Software Solutions LLP | hardik@techverito.com | medvault | sent |
+| 2026-10-13 | Blackflux | contact@blackflux.in | medvault | sent |
 | 2026-10-12 | Numen | contact@numen.com | medvault | sent |
-| 2026-10-12 | Hypercubic | team@hypercubic.ai | canopy | sent |
-| 2026-10-12 | Superset | kiet@superset.sh | canopy | sent |
-| 2026-10-12 | Protex AI | info@protex.ai | medvault | sent |
-| 2026-10-12 | Scalar Field | info@scalarfield.io | medvault | sent |
-| 2026-10-12 | Aglide | contact@aglide.com | medvault | sent |
-| 2026-10-12 | Sitefire | info@sitefire.ai | medvault | sent |
-| 2026-10-12 | Open | tabaza@open.cx | medvault | sent |
-| 2026-10-12 | KugelAudio | jobs@kugelaudio.com | medvault | bounced |
-| 2026-10-12 | nao Labs | christophe.blefari@gmail.com | canopy | sent |
-| 2026-10-12 | PolyMage Labs | uday@polymagelabs.com | canopy | sent |
-| 2026-10-12 | MicroPyramid | ashwin@micropyramid.com | medvault | sent |
-| 2026-10-09 | LiveKit | recruiting@livekit.io | medvault | sent |
-| 2026-10-09 | Opencall | ask@opencall.ai | medvault | sent |
-| 2026-10-09 | ReactWise | info@reactwise.com | medvault | sent |
-| 2026-10-09 | GetDot | hi@getdot.ai | medvault | sent |
-| 2026-10-09 | Spring Edge | bishnoi.balwant@springedge.com | medvault | sent |
-| 2026-10-09 | Botle | botleapps@gmail.com | medvault | sent |
-| 2026-10-09 | Crest | neil@getcrest.ai | medvault | bounced |
-| 2026-10-09 | Innerkore Technologies | admin@innerkore.com | medvault | sent |
-| 2026-10-08 | Hopit | arkid@hopit.ai | medvault | followup_1 |
-| 2026-10-08 | Globussoft Technologies | sumit@globussoft.com | medvault | followup_1 |
-| 2026-10-08 | AgileHead | jeswinpk@agilehead.com | canopy | replied |
-| 2026-10-08 | Ionage | careers@ionage.in | medvault | replied |
-| 2026-10-08 | Syook | careers@syook.com | medvault | followup_1 |
