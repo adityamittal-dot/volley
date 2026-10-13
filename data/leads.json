@@ -2325,7 +2325,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Darshan,\n\nBuilding incremental builds from full disk snapshots of ephemeral runners instead of a file cache is a neat way around cache invalidation.\n\nI built Canopy, with a commit-hash-keyed PostgreSQL cache checked against git ls-remote before cloning, the same keyed-by-commit problem for repo analysis: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Is the engineering role still open?",
+   "delivered_at": "2026-10-13T16:08:31Z",
    "lint": [],
+   "message_id": "<179190770971.2133.1342942402811156896@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-13T16:08:31Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
@@ -2367,7 +2371,7 @@
   },
   "score": 5.0,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/warpbuild",
   "website": "https://www.warpbuild.com",
@@ -15529,7 +15533,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi John,\n\nYour canvas handling 50k-plus DOM elements and turning segmentation output into interactive geometry in realtime is a different scale of UI problem than most web apps hit.\n\nI built MedVault, where every Gemini call sits behind one mockable client with a fixed JSON schema, the same constrained-output pattern your applied AI work needs: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the software engineer role still open to someone early in their career?",
+   "delivered_at": "2026-10-13T16:08:50Z",
    "lint": [],
+   "message_id": "<179190772722.2133.14653039147969219554@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-13T16:08:50Z",
    "subject": "Software Engineering Role – Aditya Mittal"
   },
   "emails": [
@@ -15572,7 +15580,7 @@
   },
   "score": 12,
   "source": "hn_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Software Engineers (Product, Applied AI, ML Infra, Data Platform)",
   "url": "https://news.ycombinator.com/item?id=49934530",
   "website": "https://withrebar.ai",
@@ -33096,7 +33104,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Victor,\n\nRunning most communication async over GitHub with a public roadmap is rare for a company selling scraping APIs at your scale.\n\nI built Canopy, a parser behind one analyzer interface across 10 languages that marks unresolved calls external instead of guessing, the same messy-input-to-structured-data problem SerpApi solves for search results: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires engineers at SerpApi, or telling me who that is?",
+   "delivered_at": "2026-10-13T16:09:14Z",
    "lint": [],
+   "message_id": "<179190775070.2133.5625626568376500584@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-13T16:09:14Z",
    "subject": "Full Stack Engineer – Aditya Mittal"
   },
   "emails": [],
@@ -33126,7 +33138,7 @@
   },
   "score": 9.0,
   "source": "hn_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "https://serpapi.com",
   "url": "https://news.ycombinator.com/item?id=49531646",
   "website": "https://serpapi.com"
@@ -52217,7 +52229,7 @@
   },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "bounced",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/pentafox-technologies",
   "website": "https://pentafox.in",
@@ -55275,7 +55287,7 @@
   },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "bounced",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/mxbit",
   "website": "http://mxbit.co.in",
@@ -62328,7 +62340,11 @@
   "domain_mx": true,
   "email": {
    "body": "Hi Tanish,\n\nYour background agent tracing a production failure back to the exact commit, file and line in connected GitHub code is the same cross-file resolution problem Canopy solves for static analysis.\n\nI built Canopy, with deterministic call-graph resolution across 10 languages that marks unresolved calls external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Is the engineering role still open?",
+   "delivered_at": "2026-10-13T16:08:16Z",
    "lint": [],
+   "message_id": "<179190769503.2133.17238981518806422359@gmail.com>",
+   "mode": "send",
+   "sent_at": "2026-10-13T16:08:16Z",
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
@@ -62444,7 +62460,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "queued",
+  "status": "sent",
   "title": "Engineering (YC Summer 2025)",
   "url": "https://www.ycombinator.com/companies/traceroot-ai",
   "website": "https://traceroot.ai",

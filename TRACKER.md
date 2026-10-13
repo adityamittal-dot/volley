@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-13T10:28:35Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-13T16:09:43Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 210 · **Sent:** 210 · **Replies:** 24 (11%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 214 · **Sent:** 214 · **Replies:** 24 (11%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,27 +10,26 @@ _Updated 2026-10-13T10:28:35Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 2 |
 | no_contact | 732 |
 | low_fit | 498 |
-| queued | 4 |
-| sent | 42 |
+| sent | 44 |
 | followup_1 | 65 |
 | followup_2 | 57 |
 | replied | 24 |
-| bounced | 10 |
+| bounced | 12 |
 | closed | 12 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 115 | 11 |
-| canopy | 56 | 9 |
+| medvault | 116 | 11 |
+| canopy | 59 | 9 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 169 | 20 |
+| role | 173 | 20 |
 | short | 41 | 4 |
 
 ## Replies
@@ -64,6 +63,10 @@ _Updated 2026-10-13T10:28:35Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-13 | SerpApi | victor@serpapi.com | canopy | sent |
+| 2026-10-13 | Rebar | john@withrebar.ai | medvault | sent |
+| 2026-10-13 | WarpBuild | deathbullet@gmail.com | canopy | sent |
+| 2026-10-13 | TraceRoot.AI | tanishsvalesha@gmail.com | canopy | sent |
 | 2026-10-13 | Arivihan | career@arivihan.com | medvault | sent |
 | 2026-10-13 | Bloom | apply@bloom.diy | medvault | sent |
 | 2026-10-13 | Hackerrank | internship-queries@hackerrank.com | canopy | sent |
@@ -74,8 +77,8 @@ _Updated 2026-10-13T10:28:35Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-13 | SG Apps | sancho@sg-app.com | medvault | sent |
 | 2026-10-13 | eGyanam Technologies | prasad.lagas83@gmail.com | medvault | sent |
 | 2026-10-13 | MXBIT Technology Innovations Pvt Ltd | tomeanand@gmail.com | medvault | sent |
-| 2026-10-13 | MXBIT Technology Innovations Pvt Ltd | jobs@mxbit.co.in | medvault | sent |
-| 2026-10-13 | Pentafox Technologies Private Limited | shidiq@pentafox.in | medvault | sent |
+| 2026-10-13 | MXBIT Technology Innovations Pvt Ltd | jobs@mxbit.co.in | medvault | bounced |
+| 2026-10-13 | Pentafox Technologies Private Limited | shidiq@pentafox.in | medvault | bounced |
 | 2026-10-13 | Mason | ashik9591@gmail.com | medvault | sent |
 | 2026-10-13 | Peoplebox | agarwalarpit22@gmail.com | medvault | sent |
 | 2026-10-13 | DoSelect | gnsubrahmanyam@doselect.com | canopy | sent |
@@ -85,7 +88,3 @@ _Updated 2026-10-13T10:28:35Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-13 | Isometrik Ai | rahul@isometrik.ai | medvault | sent |
 | 2026-10-13 | Miftah Software | miftahsoftware@gmail.com | canopy | sent |
 | 2026-10-13 | Nagu | nikhilkj24@gmail.com | medvault | sent |
-| 2026-10-13 | Segmind | shrey@segmind.com | medvault | sent |
-| 2026-10-13 | TechVerito Software Solutions LLP | hardik@techverito.com | medvault | sent |
-| 2026-10-13 | Blackflux | contact@blackflux.in | medvault | sent |
-| 2026-10-12 | Numen | contact@numen.com | medvault | sent |
