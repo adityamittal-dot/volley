@@ -1,0 +1,249 @@
+{
+  "leads": [
+    {
+      "id": "3cd5d96e1a",
+      "relevant": false,
+      "summary": "Edtech platform that sells internships, training, career guidance and mentorship to students, per its site and Internshala listing.",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "Only open role is Business Development Associate, a non-engineering job.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "376a6aa0d6",
+      "relevant": false,
+      "summary": "Sells online and offline trading courses and one-on-one trading mentorship to retail traders.",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "Only open role is Business Development Associate, a non-engineering job.",
+      "fit": 1,
+      "region": "india",
+      "people": [
+        {
+          "name": "Rohan",
+          "role": "Co-Founder"
+        },
+        {
+          "name": "Kshagun",
+          "role": "Co-Founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "5247f62bcf",
+      "relevant": false,
+      "summary": "Education consultancy that helps students and schools with university pathways in Australia, Ireland, the UK, Dubai and New Zealand.",
+      "stack": [],
+      "hook": "",
+      "angle": "",
+      "angle_reason": "Only open role is Outreach and Business Development Internship, a non-engineering job.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "internship stipend \u20b910,000-40,000/month, starts below \u20b925,000"
+      ]
+    },
+    {
+      "id": "caa225f561",
+      "relevant": true,
+      "summary": "Indian supply-chain and warehouse technology company selling workforce, BI, facility audit and logistics software to e-commerce, 3PL and D2C operators.",
+      "stack": [
+        "Node.js",
+        "NestJS",
+        "Express.js",
+        "MongoDB",
+        "MS SQL Server",
+        "Next.js",
+        "REST APIs"
+      ],
+      "hook": "Your posting asks for stored-procedure and query-tuning work in MS SQL, and your site lists six engines including Magnetiq, which runs agentic contact discovery and WhatsApp and email outreach.",
+      "angle": "canopy",
+      "angle_reason": "Canopy is backend-heavy static analysis with a PostgreSQL cache and 143 automated tests, which maps directly to their ask for clean, tested REST APIs and tuned SQL/Mongo backends.",
+      "fit": 7,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "full-time conversion pay \u20b94.5-6 LPA, below \u20b98 LPA"
+      ]
+    },
+    {
+      "id": "a09a68f2e9",
+      "relevant": true,
+      "summary": "Domain acquisition, brokerage and brand-protection firm founded in 2012; the posting describes a separate agentic-AI product team that the site does not mention.",
+      "stack": [
+        "Python",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "FastAPI",
+        "LangChain",
+        "LangGraph",
+        "OpenAI API",
+        "Anthropic API",
+        "Docker",
+        "AWS",
+        "GCP",
+        "Vercel"
+      ],
+      "hook": "Your posting says the AI-systems team ships agentic workflows in production, not just demos, with LangGraph, tool-calling and human-in-the-loop flows.",
+      "angle": "medvault",
+      "angle_reason": "MedVault is a Gemini prompting pipeline with a fixed output schema and one mockable LLM client, the same kind of LLM work this team describes.",
+      "fit": 9,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "internship stipend \u20b920,000-25,000/month, below \u20b925,000"
+      ]
+    },
+    {
+      "id": "3ac8b1d399",
+      "relevant": true,
+      "summary": "Indian custom software and web/mobile development shop, operating since 2022, that also runs professional training programmes for graduates.",
+      "stack": [
+        "HTML"
+      ],
+      "hook": "Your site lists pair programming with experienced engineers and code quality as per market standard among its core practices.",
+      "angle": "canopy",
+      "angle_reason": "They're a custom software shop that cares about code quality and pair programming, and Canopy is a multi-language backend tool with a deterministic call-graph engine and a 143-test suite that shows that same discipline.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "miftahsoftware@gmail.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "3ac8b1d399-ref",
+      "relevant": true,
+      "summary": "Indian custom software and web/mobile development shop, operating since 2022, that also runs professional training programmes for graduates.",
+      "stack": [
+        "HTML"
+      ],
+      "hook": "Your site lists pair programming with experienced engineers and code quality as per market standard among its core practices.",
+      "angle": "canopy",
+      "angle_reason": "They're a custom software shop that cares about code quality and pair programming, and Canopy is a multi-language backend tool with a deterministic call-graph engine and a 143-test suite that shows that same discipline.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Azmat Hasan",
+          "role": "engineer (8 commits on MiftahSoftware GitHub)"
+        }
+      ],
+      "contact_email": "azmathasan92@gmail.com",
+      "contact_name": "Azmat Hasan",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "e8cea6f22a",
+      "relevant": true,
+      "summary": "Gurugram-based ERP, AI, cybersecurity and cloud consulting firm (SAP, Oracle, Microsoft Dynamics) serving enterprises, founded 2016.",
+      "stack": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "Neural Networks",
+        "SAP",
+        "Oracle",
+        "Microsoft Dynamics"
+      ],
+      "hook": "Your posting lists NLP tasks such as sentiment analysis and language translation alongside neural-network work for this AI intern role.",
+      "angle": "medvault",
+      "angle_reason": "MedVault is a Python LLM pipeline with structured output and a tested client, the nearest of his projects to this Python AI and NLP internship.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "internship stipend \u20b915,000-25,000/month, below \u20b925,000"
+      ]
+    },
+    {
+      "id": "635a28b476",
+      "relevant": true,
+      "summary": "Digital engineering consultancy for cloud, DevSecOps, SRE and data platforms, serving Fortune 500 and enterprise clients, with the BuildPiper CI/CD product.",
+      "stack": [
+        "Go",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "Microservices",
+        "BuildPiper"
+      ],
+      "hook": "Site says BuildPiper covers K8s, microservice delivery, CI/CD pipelines and DORA metrics, and the GitHub org publishes Prometheus and Druid exporters.",
+      "angle": "canopy",
+      "angle_reason": "BuildPiper is a CI/CD and DevSecOps product, and Canopy is a CI-friendly developer tool that maps a repo's architecture and call graph.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "hr@opstree.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "635a28b476-ref",
+      "relevant": true,
+      "summary": "Digital engineering consultancy for cloud, DevSecOps, SRE and data platforms, serving Fortune 500 and enterprise clients, with the BuildPiper CI/CD product.",
+      "stack": [
+        "Go",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "Microservices",
+        "BuildPiper"
+      ],
+      "hook": "Site says BuildPiper covers K8s, microservice delivery, CI/CD pipelines and DORA metrics, and the GitHub org publishes Prometheus and Druid exporters.",
+      "angle": "canopy",
+      "angle_reason": "BuildPiper is a CI/CD and DevSecOps product, and Canopy is a CI-friendly developer tool that maps a repo's architecture and call graph.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Abhishek Dubey",
+          "role": "engineer (24 commits on Opstree GitHub)"
+        }
+      ],
+      "contact_email": "abhishekbhardwaj510@gmail.com",
+      "contact_name": "Abhishek Dubey",
+      "contact_role": "engineer",
+      "red_flags": []
+    }
+  ]
+}

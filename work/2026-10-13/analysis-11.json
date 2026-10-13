@@ -1,0 +1,181 @@
+{
+  "leads": [
+    {
+      "id": "4840d63460",
+      "relevant": true,
+      "summary": "YouShift sells healthcare staff scheduling software for hospitals, with AI agents coordinating shift swaps, licensing checks, contracts and payroll. New York based, team of about 10.",
+      "stack": [],
+      "hook": "Site says a shift swap is checked for rest, hours and eligibility before either schedule changes.",
+      "angle": "medvault",
+      "angle_reason": "Both are AI-assisted health-tech products where generated output has to respect hard rules, and MedVault's safety-constrained LLM pipeline and per-user data isolation map onto YouShift's rule-checked scheduling and clinician data.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Lucía Vives Martorell", "role": "Founder/CEO"},
+        {"name": "Jota Chamorro", "role": "Founder/CTO"},
+        {"name": "Adolfo Roquero Gimenez", "role": "Founder/CIO"}
+      ],
+      "contact_email": "info@you-shift.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "b06b5ab97c",
+      "relevant": true,
+      "summary": "Waydev is an engineering-intelligence SaaS that pulls data from developer tools to report DORA, SPACE and DX metrics and AI-adoption ROI to engineering leaders and executives. Romania based, team of about 13.",
+      "stack": [],
+      "hook": "Site says it connects the whole engineering toolstack into one source of truth, and that it now measures AI agents as well as human builders.",
+      "angle": "canopy",
+      "angle_reason": "Waydev turns raw developer-tool and repository data into engineering metrics, the same kind of deterministic code-analysis work Canopy does across repositories.",
+      "fit": 6,
+      "region": "europe",
+      "people": [
+        {"name": "Alex Circei", "role": "Founder"}
+      ],
+      "contact_email": "contact@waydev.co",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "f17b3ce645",
+      "relevant": true,
+      "summary": "TraceRoot is an open-source observability and improvement platform for AI agents: it traces model and tool calls, runs LLM judges, and has background coding agents propose fixes against connected GitHub code. San Francisco based, team of about 4.",
+      "stack": ["Python", "TypeScript", "OpenTelemetry", "LangGraph", "Vercel AI SDK", "GitHub", "Daytona sandboxes"],
+      "hook": "Site says its background agent investigates production traces against connected GitHub code and recommends changes down to the commit, file and line.",
+      "angle": "canopy",
+      "angle_reason": "Their agent maps production failures back to specific files and calls in GitHub code, which is Canopy's cross-file call-graph resolution and repo analysis applied to agent traces.",
+      "fit": 9,
+      "region": "us",
+      "people": [
+        {"name": "Ritwij Aryan Parmar", "role": "engineer (GitHub committer)"},
+        {"name": "Tanish Valesha", "role": "engineer (GitHub committer)"}
+      ],
+      "contact_email": "tanishsvalesha@gmail.com",
+      "contact_name": "Tanish Valesha",
+      "contact_role": "engineer (GitHub committer, most commits)",
+      "red_flags": []
+    },
+    {
+      "id": "0b2e21a2a4",
+      "relevant": true,
+      "summary": "Peakflo sells agentic workflow automation for finance and back-office operations (invoice-to-cash, procure-to-pay, expenses), with ERP integrations and AI browser and voice agents. Singapore based, about 45 people.",
+      "stack": ["LLM agents", "LLM-as-judge evaluation", "browser agents", "voice AI", "ERP integrations"],
+      "hook": "Workflow page says agents use LLM-as-Judge to score their own output and auto-apply the best-performing workflow pattern.",
+      "angle": "medvault",
+      "angle_reason": "Peakflo's finance workflows run LLM agents whose output must be checked and constrained, which is what MedVault's fixed-schema prompting, safety rules and mockable LLM client handle; fintech is in its listed domains.",
+      "fit": 6,
+      "region": "asia",
+      "people": [
+        {"name": "Saurabh Chauhan", "role": "Founder"},
+        {"name": "Dmitry Vedenyapin", "role": "Founder"}
+      ],
+      "contact_email": "saurabh@peakflo.co",
+      "contact_name": "Saurabh Chauhan",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "4d8374de35",
+      "relevant": true,
+      "summary": "Authologic is an identity-verification platform: one API that verifies users through eIDs, digital wallets, bank data and biometrics for KYC/AML and eIDAS 2.0 compliance. Warsaw based, about 44 people, remote-friendly.",
+      "stack": [],
+      "hook": "Site says its zero-knowledge proofs verify age and humanity without the underlying data leaving, and that retention rules purge data automatically.",
+      "angle": "medvault",
+      "angle_reason": "Authologic handles identity documents and eID data under GDPR, so MedVault's JWT auth, per-user queryset isolation and privacy-first handling of sensitive personal records are the closest proof.",
+      "fit": 6,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0a6716b3b5",
+      "relevant": true,
+      "summary": "WarpBuild sells faster, cheaper GitHub Actions runners and remote Docker builders, deployable in its cloud or in the customer's AWS, GCP or Azure VPC. San Francisco based, team of about 8.",
+      "stack": ["GitHub Actions", "Docker", "AWS", "GCP", "Azure"],
+      "hook": "Site says its incremental builds come from full disk snapshots of ephemeral runners rather than a file cache.",
+      "angle": "canopy",
+      "angle_reason": "Their product is CI infrastructure, and Canopy's commit-hash-keyed cache checked with git ls-remote before cloning is the same cache-invalidation-by-commit problem WarpBuild solves for build work.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {"name": "Darshan Chaudhary", "role": "engineer (GitHub committer)"},
+        {"name": "Abhijit Hota", "role": "engineer (GitHub committer)"}
+      ],
+      "contact_email": "deathbullet@gmail.com",
+      "contact_name": "Darshan Chaudhary",
+      "contact_role": "engineer (GitHub committer, most commits)",
+      "red_flags": []
+    },
+    {
+      "id": "3ef3922880",
+      "relevant": true,
+      "summary": "StartxLabs is a Faridabad software services firm building custom web and mobile apps, automation, and agentic AI and LLM systems (RAG, fine-tuning) for clients, reporting 200+ projects delivered.",
+      "stack": ["Python", "Django", "Django REST Framework", "PostgreSQL", "MySQL", "MongoDB", "LLM APIs (GPT, Claude)", "RAG"],
+      "hook": "Posting says freshers with strong Django projects are welcome and asks candidates to be able to explain their design choices.",
+      "angle": "medvault",
+      "angle_reason": "The role is Django REST API work plus LLM integration, which is the MedVault stack: a DRF backend with JWT auth, plus an LLM pipeline behind one client.",
+      "fit": 9,
+      "region": "india",
+      "people": [],
+      "contact_email": "hr@startxlabs.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "ede0273e4b",
+      "relevant": false,
+      "summary": "Coinbase is a crypto exchange and trading platform offering crypto, stock and prediction-market trading and a self-custody wallet. The posting is for an ML/full-stack role in India and asks for 2+ years of experience.",
+      "stack": ["Python", "LangGraph", "LangSmith", "Google ADK", "Vertex AI", "AWS Bedrock"],
+      "hook": "Posting asks for 2+ years shipping production ML services on LangGraph and Vertex AI; nothing to open a fresher's email with.",
+      "angle": "medvault",
+      "angle_reason": "Closest LLM-pipeline match, but the role wants 2+ years of production ML and the company is a large crypto exchange, so the angle does not change the outcome.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "e857d5fe5f",
+      "relevant": true,
+      "summary": "Heads Up For Tails is an Indian pet-care brand selling food, grooming, toys and accessories through 100+ stores in 20 cities and an online store and app. Gurugram based.",
+      "stack": ["Node.js", "MongoDB", "Express", "React"],
+      "hook": "Posting asks interns to write unit tests and help maintain CI/CD workflows alongside senior engineers.",
+      "angle": "medvault",
+      "angle_reason": "The intern work is REST APIs and user-facing backend services, and MedVault's DRF API with JWT refresh and per-user isolation is the closest backend match, though their stack is Node rather than Django.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "hireme@headsupfortails.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "124873790c",
+      "relevant": false,
+      "summary": "Typify is an education-and-placement company for engineers: it teaches functional programming (Haskell) and matches vetted developers to employers. It is hiring two mid-senior roles in San Francisco.",
+      "stack": ["Angular", "NestJS", "PostgreSQL", "Haskell"],
+      "hook": "Posting asks for guardrails and evals on shipped LLM features in a health product, for mid-senior engineers.",
+      "angle": "medvault",
+      "angle_reason": "The AI Application Engineer role is LLM features with guardrails and evals, which MedVault's safety-constrained prompting and tests cover, but the roles are mid-senior and the Angular/NestJS stack is not one the candidate has.",
+      "fit": 3,
+      "region": "us",
+      "people": [
+        {"name": "Galen", "role": "hiring contact (first name from posting email)"}
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["placement service matching developers to employers"]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "leads": [
+    {
+      "id": "dff9bef780",
+      "relevant": true,
+      "summary": "QA Lens is a QA engineering community run by Atmaram Naik, publishing sessions, blogs and katas and maintaining Corr, an open-source test-data and service-virtualization DSL. Its audience is testers and automation engineers.",
+      "stack": [
+        "Go",
+        "TypeScript",
+        "Rust",
+        "Playwright"
+      ],
+      "hook": "Corr is an open-source test-data and service-virtualization tool with its own DSL, JPL, which you wrote and maintain.",
+      "angle": "canopy",
+      "angle_reason": "Corr is a DSL with its own language, and Canopy's multi-language parsing and deterministic cross-file call resolution is the closest real work to building tooling for a custom language.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Atmaram Naik",
+          "role": "founder"
+        }
+      ],
+      "contact_email": "contact@atmnk.in",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "dff9bef780-ref",
+      "relevant": true,
+      "summary": "QA Lens is a QA engineering community run by Atmaram Naik, publishing sessions, blogs and katas and maintaining Corr, an open-source test-data and service-virtualization DSL. Its audience is testers and automation engineers.",
+      "stack": [
+        "Go",
+        "TypeScript",
+        "Rust",
+        "Playwright"
+      ],
+      "hook": "Corr is an open-source test-data and service-virtualization tool with its own DSL, JPL, which you wrote and maintain.",
+      "angle": "canopy",
+      "angle_reason": "Corr is a DSL with its own language, and Canopy's multi-language parsing and deterministic cross-file call resolution is the closest real work to building tooling for a custom language.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Atmaram Naik",
+          "role": "founder"
+        }
+      ],
+      "contact_email": "naik.atmaram@gmail.com",
+      "contact_name": "Atmaram Naik",
+      "contact_role": "founder + maintainer",
+      "red_flags": []
+    },
+    {
+      "id": "546aef0faf",
+      "relevant": true,
+      "summary": "SG Apps is a small studio that builds web and mobile apps and runs its own consumer products: Postily (a creator social platform), ServerBay (VPS comparison) and VibedIn (interest-based profile discovery).",
+      "stack": [
+        "TypeScript",
+        "Bun",
+        "ElysiaJS",
+        "React",
+        "React Router",
+        "EJS",
+        "HTML"
+      ],
+      "hook": "VibedIn is built on Bun, ElysiaJS and React Router, and Postily's pitch is free creator verification with no subscription.",
+      "angle": "medvault",
+      "angle_reason": "Postily depends on real identity verification and per-user data, and medvault's JWT auth with refresh-token rotation and per-user queryset isolation is the closest real work.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Sancho Godinho",
+          "role": "engineer (GitHub commits)"
+        }
+      ],
+      "contact_email": "sancho@sg-app.com",
+      "contact_name": "Sancho Godinho",
+      "contact_role": "engineer (GitHub commits)",
+      "red_flags": []
+    },
+    {
+      "id": "34ddd13371",
+      "relevant": true,
+      "summary": "CyberChimps sells a WordPress theme, starter template packs and Elementor/Gutenberg add-ons to website builders and agencies.",
+      "stack": [
+        "PHP",
+        "JavaScript",
+        "WordPress",
+        "Elementor",
+        "WooCommerce"
+      ],
+      "hook": "Responsive Pro bundles an AI content writer with 100+ starter templates inside WordPress and Elementor.",
+      "angle": "medvault",
+      "angle_reason": "Responsive Pro's AI content writer is an LLM feature inside a WordPress product, and medvault's Gemini prompting pipeline with a fixed JSON output schema is the nearest real build, though the stack differs.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Nikhil",
+          "role": "engineer (GitHub commits)"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "7844070a6e",
+      "relevant": true,
+      "summary": "Geminus Tech is a Pune product engineering and services firm offering discovery, design, quality engineering, DevSecOps and development, mostly in networking, cloud-native, AI/ML and cybersecurity domains.",
+      "stack": [
+        "PHP",
+        "Kubernetes",
+        "OpenStack"
+      ],
+      "hook": "Your services page lists Kubernetes & Cloud Native and OpenStack among the domains you work in.",
+      "angle": "canopy",
+      "angle_reason": "Their domain work is Kubernetes and cloud-native infrastructure, and Canopy is a backend platform with a PostgreSQL cache and OAuth that analyzes repos across 10 languages.",
+      "fit": 4,
+      "region": "india",
+      "people": [
+        {
+          "name": "Deepak Tawri",
+          "role": "co-founder"
+        },
+        {
+          "name": "Rahul Soman",
+          "role": "co-founder"
+        },
+        {
+          "name": "Abhishek Mukherjee",
+          "role": "consulting architect"
+        },
+        {
+          "name": "Omkar Kulkarni",
+          "role": "director of engineering"
+        },
+        {
+          "name": "Purushottam Thakar",
+          "role": "senior director engineering and operations"
+        },
+        {
+          "name": "Yatish Devadiga",
+          "role": "engineer (GitHub commits)"
+        },
+        {
+          "name": "Monika Dahitule",
+          "role": "engineer (GitHub commits)"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "7844070a6e-ref",
+      "relevant": true,
+      "summary": "Geminus Tech is a Pune product engineering and services firm offering discovery, design, quality engineering, DevSecOps and development, mostly in networking, cloud-native, AI/ML and cybersecurity domains.",
+      "stack": [
+        "PHP",
+        "Kubernetes",
+        "OpenStack"
+      ],
+      "hook": "Your services page lists Kubernetes & Cloud Native and OpenStack among the domains you work in.",
+      "angle": "canopy",
+      "angle_reason": "Their domain work is Kubernetes and cloud-native infrastructure, and Canopy is a backend platform with a PostgreSQL cache and OAuth that analyzes repos across 10 languages.",
+      "fit": 4,
+      "region": "india",
+      "people": [
+        {
+          "name": "Deepak Tawri",
+          "role": "co-founder"
+        },
+        {
+          "name": "Rahul Soman",
+          "role": "co-founder"
+        },
+        {
+          "name": "Abhishek Mukherjee",
+          "role": "consulting architect"
+        },
+        {
+          "name": "Omkar Kulkarni",
+          "role": "director of engineering"
+        },
+        {
+          "name": "Purushottam Thakar",
+          "role": "senior director engineering and operations"
+        },
+        {
+          "name": "Yatish Devadiga",
+          "role": "engineer (GitHub commits)"
+        },
+        {
+          "name": "Monika Dahitule",
+          "role": "engineer (GitHub commits)"
+        }
+      ],
+      "contact_email": "yatish@geminustech.com",
+      "contact_name": "Yatish Devadiga",
+      "contact_role": "engineer (GitHub commits)",
+      "red_flags": []
+    },
+    {
+      "id": "489c401b71",
+      "relevant": true,
+      "summary": "Brucira is a design and development agency doing product design, branding and engineering for clients including Zepto, Oppo, Walmart and Razorpay.",
+      "stack": [
+        "JavaScript"
+      ],
+      "hook": "Your Yoga Bar case study reports a 100% boost in average conversion rate from the web redesign.",
+      "angle": "medvault",
+      "angle_reason": "Brucira ships client-facing web products, and medvault is a shipped web app with a Django API, auth and an LLM feature.",
+      "fit": 4,
+      "region": "india",
+      "people": [
+        {
+          "name": "akshay-brucira",
+          "role": "engineer (GitHub commits)"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "1c1329b6ba",
+      "relevant": true,
+      "summary": "NFN Labs is an AI-native product studio that designs and builds software products for founders, with shipped work across SaaS, D2C, healthcare and logistics.",
+      "stack": [
+        "Kotlin",
+        "Android"
+      ],
+      "hook": "Your shipped-products list includes Spendflo, Happysales, Moviebuff and Avalara, all built as design and development projects.",
+      "angle": "medvault",
+      "angle_reason": "NFN Labs ships healthcare and AI-native products for founders, and medvault is a health-tech AI product with a Django API and auth.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a482220dbc",
+      "relevant": true,
+      "summary": "Mumbai-based agentic marketing platform (CDP, email/WhatsApp/SMS engagement, AI agents for audience, content and decisioning) serving 6500+ brands.",
+      "stack": [
+        "AI agents",
+        "CDP",
+        "email/CPaaS infrastructure",
+        "personalization"
+      ],
+      "hook": "Your platform runs a fleet of AI agents (audience, content, decisioning) on top of customer data, grounded automation that has to stay reliable at scale.",
+      "angle": "medvault",
+      "angle_reason": "MedVault is an LLM product with a fixed JSON output schema, a tolerant fallback parser, and a 47-test mockable-client suite, the same grounded-AI-in-production discipline their agent stack needs.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "delight@netcorecloud.com",
+      "contact_name": "",
+      "contact_role": "support inbox",
+      "red_flags": [
+        "no public opening, role inbox only"
+      ]
+    },
+    {
+      "id": "a482220dbc-ref",
+      "relevant": true,
+      "summary": "Mumbai-based agentic marketing platform (CDP, email/WhatsApp/SMS engagement, AI agents for audience, content and decisioning) serving 6500+ brands.",
+      "stack": [
+        "AI agents",
+        "CDP",
+        "email/CPaaS infrastructure",
+        "personalization"
+      ],
+      "hook": "Your platform runs a fleet of AI agents (audience, content, decisioning) on top of customer data, grounded automation that has to stay reliable at scale.",
+      "angle": "medvault",
+      "angle_reason": "MedVault is an LLM product with a fixed JSON output schema, a tolerant fallback parser, and a 47-test mockable-client suite, the same grounded-AI-in-production discipline their agent stack needs.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Jobin Kurian",
+          "role": "engineer (60 commits on NetcoreSolutions)"
+        }
+      ],
+      "contact_email": "jobin.kurian@netcorecloud.com",
+      "contact_name": "Jobin Kurian",
+      "contact_role": "engineer",
+      "red_flags": [
+        "no public opening, referral ask"
+      ]
+    }
+  ]
+}

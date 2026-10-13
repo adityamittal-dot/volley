@@ -1,0 +1,186 @@
+{
+ "leads": [
+  {
+   "id": "44d792a3f3",
+   "relevant": true,
+   "summary": "Runs a six-month paid fellowship that places early-career engineers, designers and AI practitioners inside government departments to work on public systems.",
+   "stack": [],
+   "hook": "Your past-cohort list includes Arivu Mitra, a WhatsApp companion for Gram Panchayat librarians in Karnataka, which the site says was built with Whatomate.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's LLM explanation pipeline, with a fixed output schema and safety rules, and its per-user data isolation match the citizen-facing AI and data-sensitivity work the fellowship describes.",
+   "fit": 8,
+   "region": "india",
+   "people": [
+    {"name": "Kailash Nadh", "role": "mentor (CTO, Zerodha)"},
+    {"name": "Rukmini S", "role": "mentor (Data for India)"},
+    {"name": "Devanshi Sihare", "role": "mentor (Head of Social Impact, TinkerLabs)"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "150906250a",
+   "relevant": false,
+   "summary": "Global management consulting firm with offices in dozens of countries; the lead is an Associate backend engineer opening in Gurugram.",
+   "stack": [],
+   "hook": "Its 2026 Technology Report leads with AI as 'the most consequential technology of our lifetimes', which is a general line rather than a product detail.",
+   "angle": "canopy",
+   "angle_reason": "Only a loose match: the posting is backend work, but Bain is a large consulting firm with no product for Canopy's static-analysis work to connect to.",
+   "fit": 2,
+   "region": "india",
+   "people": [
+    {"name": "Chuck Whitten", "role": "Global Head of Bain's digital practices"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "0a91a7ca85",
+   "relevant": false,
+   "summary": "Education company selling robotics, AI and coding curricula to K-12 schools; the posting is a part-time business development internship for school outreach.",
+   "stack": [],
+   "hook": "The internship asks the intern to pitch OLL's Robotics and AI programs to school principals and run AI awareness seminars.",
+   "angle": "canopy",
+   "angle_reason": "No engineering overlap: the role is school sales and outreach, not a project Canopy's analysis work would speak to.",
+   "fit": 1,
+   "region": "india",
+   "people": [
+    {"name": "Shreyaan Daga", "role": "founder"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": ["internship stipend below Rs 25,000/month (fixed Rs 10,000-15,000 plus incentive)"]
+  },
+  {
+   "id": "b09227d56c",
+   "relevant": true,
+   "summary": "Developer hiring and skills-assessment platform, with coding tests and the Interview and Chakra AI interviewer products used by companies to screen and interview engineers.",
+   "stack": [],
+   "hook": "The posting says interns push code to production from their first month, and the company's site says every intern batch designs its own page.",
+   "angle": "canopy",
+   "angle_reason": "HackerRank builds developer-facing evaluation tooling and code-execution products, which is close to the code-intelligence and static-analysis work in Canopy.",
+   "fit": 6,
+   "region": "india",
+   "people": [],
+   "contact_email": "internship-queries@hackerrank.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "baf03cde52",
+   "relevant": false,
+   "summary": "Designs and manufactures tunable and static RF microwave filters for defense and NASA customers, based in West Lafayette, IN; the open role is an RF hardware engineer.",
+   "stack": ["HFSS", "Keysight ADS", "Microwave Office", "Altium", "Python", "MATLAB"],
+   "hook": "Its reconfigurable microwave filters tune center frequency and bandwidth independently in real time, with tuning times under 10 microseconds.",
+   "angle": "canopy",
+   "angle_reason": "No overlap: the role is RF hardware design and the posting asks for 3+ years of experience.",
+   "fit": 1,
+   "region": "us",
+   "people": [
+    {"name": "Eric E. Hoppenjans", "role": "management, systems engineering"},
+    {"name": "Steven J. Cuppy", "role": "business development"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "154c67d4b1",
+   "relevant": false,
+   "summary": "Delhi performance marketing agency running Meta and Google ads for clients, with website development and CRO among its listed services.",
+   "stack": [],
+   "hook": "The site lists Website CRO and Website Development alongside Meta and Google Ads, so the Shopify intern would sit on the marketing side.",
+   "angle": "canopy",
+   "angle_reason": "The Shopify project intern role is marketing-facing rather than engineering, so no project maps well.",
+   "fit": 2,
+   "region": "india",
+   "people": [
+    {"name": "Ankush", "role": "team member"},
+    {"name": "Shubham", "role": "team member"},
+    {"name": "Divya", "role": "team member"},
+    {"name": "Palak", "role": "team member"},
+    {"name": "Muskan", "role": "team member"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "3182b54d9f",
+   "relevant": false,
+   "summary": "Large industrial automation company making control systems, valves, measurement instruments and industrial software; the lead is a power-project intern in Noida.",
+   "stack": [],
+   "hook": "Its site describes automation software built on 135+ years of innovation, which is company-level copy rather than a product detail.",
+   "angle": "canopy",
+   "angle_reason": "Emerson is a 1000+ person enterprise with a non-software intern role, so no project maps to the work.",
+   "fit": 1,
+   "region": "india",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "e094feaaae",
+   "relevant": true,
+   "summary": "AI assurance and product engineering firm offering LLM and agent development, AI testing and governance services to enterprises.",
+   "stack": ["Python", "PyTorch", "Hugging Face", "LoRA/QLoRA", "REST APIs", "JavaScript"],
+   "hook": "The posting asks interns to fine-tune and evaluate LLMs in Python and to develop and test AI agents, which is the same LLM pipeline work MedVault does.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Gemini prompting pipeline and mockable LLM client match the LLM and agent development this internship describes.",
+   "fit": 7,
+   "region": "india",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": ["internship stipend Rs 8,000/month, below Rs 25,000 floor"]
+  },
+  {
+   "id": "a09043cb89",
+   "relevant": false,
+   "summary": "Technology company whose stated mission is to inspire creativity and enrich life; the lead is a data analyst project intern in Gurgaon.",
+   "stack": ["Excel", "Google Sheets"],
+   "hook": "The posting asks for advanced Sheets and Excel formulas and MIS reporting, which is analyst work rather than engineering.",
+   "angle": "canopy",
+   "angle_reason": "The role is spreadsheet and reporting work and the company is a large enterprise, so no project maps to it.",
+   "fit": 2,
+   "region": "india",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "b2547be99d",
+   "relevant": true,
+   "summary": "Enterprise IT software vendor selling observability, workload automation, log management and mainframe management products (Dynatrace, Rocket, EPV, Beta LogX).",
+   "stack": ["Python", "z/OS", "IBM Z", "Dynatrace"],
+   "hook": "Its Beta LogX cross-platform product centralizes, analyzes and archives log data across complex IT environments, which is the kind of parsing and analysis work Canopy does.",
+   "angle": "canopy",
+   "angle_reason": "Their log and performance analysis products parse and analyze large system data, close to Canopy's multi-language parsing and cross-file graph resolution.",
+   "fit": 5,
+   "region": "india",
+   "people": [
+    {"name": "Ali Camat", "role": "not stated in scraped text"},
+    {"name": "Mehmet Camat", "role": "not stated in scraped text"},
+    {"name": "Barlas Solakoglu", "role": "not stated in scraped text"},
+    {"name": "Melek Ezgu", "role": "not stated in scraped text"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  }
+ ]
+}

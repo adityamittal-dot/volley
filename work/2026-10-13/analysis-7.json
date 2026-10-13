@@ -1,0 +1,183 @@
+{
+ "leads": [
+  {
+   "id": "ea052d810d",
+   "relevant": false,
+   "summary": "Landmark Group is a retail and hospitality group; the site offers only a partnership-proposal form. The lead is a funding news item about a commercial project in Gurugram.",
+   "stack": [],
+   "hook": "",
+   "angle": "medvault",
+   "angle_reason": "No product detail in the text to match; defaulting to the backend project.",
+   "fit": 2,
+   "region": "india",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "5ebd3ca4ef",
+   "relevant": true,
+   "summary": "Mesa School of Business is a Bengaluru business school and edtech company running residential programmes for undergraduates, fresh graduates and early-career professionals, built around founder-taught, project-based learning.",
+   "stack": [],
+   "hook": "your site says 58% of alumni are in founder-facing roles and the average CTC jump is 2.8X",
+   "angle": "medvault",
+   "angle_reason": "A business school has no visible software product; the closest overlap is the backend project, and it is a weak match.",
+   "fit": 3,
+   "region": "india",
+   "people": [
+    {"name": "Ankit Agarwal", "role": "Co-founder"},
+    {"name": "Varun Limaye", "role": "Co-founder"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "879b8ca4bf",
+   "relevant": false,
+   "summary": "The mesa.school site sells an online leadership course (the 'Mesa method', 18 lessons) and team enrolment. It is not the Bengaluru business school described in the funding item.",
+   "stack": [],
+   "hook": "",
+   "angle": "medvault",
+   "angle_reason": "The site is a different company from the posting, so no project match applies.",
+   "fit": 1,
+   "region": "americas",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "16988dc889",
+   "relevant": true,
+   "summary": "Leena AI builds an agentic AI platform of pre-built back-office assistants (HR, IT, finance) for enterprises, answering employee questions in Slack, Teams and Google Chat from enterprise systems and knowledge bases.",
+   "stack": ["Slack", "Microsoft Teams", "Google Chat", "Workday", "SAP", "ServiceNow", "Salesforce", "Oracle", "SharePoint", "Confluence"],
+   "hook": "your Knowledge Studio page says it connects to SharePoint, Confluence and Drive without copying content and inherits source permissions",
+   "angle": "medvault",
+   "angle_reason": "Leena's assistants answer questions over enterprise data with per-user access, which is the same problem as MedVault's grounded LLM pipeline with per-user isolation and a fixed output schema.",
+   "fit": 7,
+   "region": "india",
+   "people": [
+    {"name": "Mayank Goyal", "role": "Founder"},
+    {"name": "Adit Jain", "role": "Founder"},
+    {"name": "Anand Kumar Prajapati", "role": "Founder"}
+   ],
+   "contact_email": "mayank@leena.ai",
+   "contact_name": "Mayank Goyal",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "9095601458",
+   "relevant": true,
+   "summary": "HelloVerify is a background screening platform for employers and landlords, automating identity, court case, education, credit and employment checks with online order tracking and report delivery.",
+   "stack": [],
+   "hook": "your listing says order requests, progress status and final report delivery run as one automated flow",
+   "angle": "medvault",
+   "angle_reason": "Screening personal records with strict privacy needs matches MedVault's data privacy and per-user isolation work, though the stack overlap is unknown.",
+   "fit": 5,
+   "region": "india",
+   "people": [
+    {"name": "Karan Mirchandani", "role": "Founder"},
+    {"name": "Varun Mirchandani", "role": "Founder"}
+   ],
+   "contact_email": "karan@helloverify.ae",
+   "contact_name": "Karan Mirchandani",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "abbbbe2549",
+   "relevant": true,
+   "summary": "eGyanamTech builds Parham, a governance, risk and compliance platform for regulated organizations that tracks findings, evidence and remediation, with an AI assistant that answers from indexed policies with citations.",
+   "stack": ["Astro", "Python", "TypeScript", "HTML"],
+   "hook": "your site says Parham's AI answers from indexed policies and circulars with citations, and can run air-gapped or on-premises",
+   "angle": "medvault",
+   "angle_reason": "Parham's AI answers grounded in a customer's own documents with cited sources is the same shape as MedVault's document-grounded explanations, and both handle regulated data with per-user isolation.",
+   "fit": 6,
+   "region": "india",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "abbbbe2549-ref",
+   "relevant": true,
+   "summary": "eGyanamTech builds Parham, a governance, risk and compliance platform for regulated organizations that tracks findings, evidence and remediation, with an AI assistant that answers from indexed policies with citations.",
+   "stack": ["Astro", "Python", "TypeScript", "HTML"],
+   "hook": "your site says Parham's AI answers from indexed policies and circulars with citations, and can run air-gapped or on-premises",
+   "angle": "medvault",
+   "angle_reason": "Parham's AI answers grounded in a customer's own documents with cited sources is the same shape as MedVault's document-grounded explanations, and both handle regulated data with per-user isolation.",
+   "fit": 6,
+   "region": "india",
+   "people": [
+    {"name": "Prasad", "role": "engineer (GitHub committer, 16 commits)"},
+    {"name": "ShibanshL", "role": "engineer (GitHub committer, 8 commits)"},
+    {"name": "pradeep", "role": "engineer (GitHub committer, 4 commits)"}
+   ],
+   "contact_email": "prasad.lagas83@gmail.com",
+   "contact_name": "Prasad",
+   "contact_role": "engineer (GitHub committer, 16 commits)",
+   "red_flags": []
+  },
+  {
+   "id": "5405da7252",
+   "relevant": false,
+   "summary": "The boldandfit.com lookup returned a parked page offering the domain for sale, so the site does not show the company. The funding item describes Boldfit, a Bengaluru D2C fitness and sportswear brand that raised Rs 400 Cr in Series B.",
+   "stack": [],
+   "hook": "",
+   "angle": "medvault",
+   "angle_reason": "A D2C retail brand with no visible engineering work gives no real project match.",
+   "fit": 2,
+   "region": "india",
+   "people": [
+    {"name": "Pallav Bihani", "role": "Founder"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": ["website is a parked domain for sale, no real product shown"]
+  },
+  {
+   "id": "9ab28c14ec",
+   "relevant": true,
+   "summary": "ConnectingDots Infotech is a software services agency for startups and enterprises, covering web, native mobile, DevOps, testing and data work, plus offshore dedicated teams and fixed-price or time-and-material contracts.",
+   "stack": ["Objective-C", "TypeScript", "iOS", "Android"],
+   "hook": "your case study says you helped ULLU scale to 40M+ users",
+   "angle": "medvault",
+   "angle_reason": "They build web applications and migrate legacy systems for clients, and MedVault is a Django REST web backend with JWT auth, a comparable build.",
+   "fit": 4,
+   "region": "india",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "9ab28c14ec-ref",
+   "relevant": true,
+   "summary": "ConnectingDots Infotech is a software services agency for startups and enterprises, covering web, native mobile, DevOps, testing and data work, plus offshore dedicated teams and fixed-price or time-and-material contracts.",
+   "stack": ["Objective-C", "TypeScript", "iOS", "Android"],
+   "hook": "your case study says you helped ULLU scale to 40M+ users",
+   "angle": "medvault",
+   "angle_reason": "They build web applications and migrate legacy systems for clients, and MedVault is a Django REST web backend with JWT auth, a comparable build.",
+   "fit": 4,
+   "region": "india",
+   "people": [
+    {"name": "mrtipster49", "role": "engineer (GitHub committer, 18 commits)"},
+    {"name": "Mutlib Khan", "role": "engineer (GitHub committer, 8 commits)"}
+   ],
+   "contact_email": "mutlibyk58@gmail.com",
+   "contact_name": "mrtipster49",
+   "contact_role": "engineer (GitHub committer, 18 commits)",
+   "red_flags": []
+  }
+ ]
+}
