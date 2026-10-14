@@ -1,17 +1,17 @@
 # Tracker
 
-_Updated 2026-10-14T06:44:22Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-14T10:04:19Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 214 · **Sent:** 214 · **Replies:** 24 (11%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 218 · **Sent:** 218 · **Replies:** 24 (11%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
 | new | 203 |
 | skipped | 5 |
-| no_contact | 814 |
-| low_fit | 498 |
-| researching | 120 |
-| sent | 37 |
+| no_contact | 846 |
+| low_fit | 570 |
+| queued | 12 |
+| sent | 41 |
 | followup_1 | 72 |
 | followup_2 | 57 |
 | replied | 24 |
@@ -22,15 +22,15 @@ _Updated 2026-10-14T06:44:22Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 116 | 11 |
-| canopy | 59 | 9 |
+| medvault | 118 | 11 |
+| canopy | 61 | 9 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 173 | 20 |
+| role | 177 | 20 |
 | short | 41 | 4 |
 
 ## Replies
@@ -64,6 +64,10 @@ _Updated 2026-10-14T06:44:22Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-14 | The Vibe Company | victor@thevibecompany.co | medvault | sent |
+| 2026-10-14 | The Vibe Company | founders@thevibecompany.co | medvault | sent |
+| 2026-10-14 | Gamezop | anshgujral1997@gmail.com | canopy | sent |
+| 2026-10-14 | Droidsize | yogeshkumar180592@gmail.com | canopy | sent |
 | 2026-10-13 | SerpApi | victor@serpapi.com | canopy | sent |
 | 2026-10-13 | Rebar | john@withrebar.ai | medvault | sent |
 | 2026-10-13 | WarpBuild | deathbullet@gmail.com | canopy | sent |
@@ -85,7 +89,3 @@ _Updated 2026-10-14T06:44:22Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-13 | DoSelect | gnsubrahmanyam@doselect.com | canopy | sent |
 | 2026-10-13 | Incredible | kartronics85@gmail.com | canopy | sent |
 | 2026-10-13 | Blackcurrant Labs | sanket@blackcurrantapps.com | medvault | sent |
-| 2026-10-13 | Miftah Software | azmathasan92@gmail.com | canopy | sent |
-| 2026-10-13 | Isometrik Ai | rahul@isometrik.ai | medvault | sent |
-| 2026-10-13 | Miftah Software | miftahsoftware@gmail.com | canopy | sent |
-| 2026-10-13 | Nagu | nikhilkj24@gmail.com | medvault | sent |
