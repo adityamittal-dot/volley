@@ -1,0 +1,209 @@
+{
+  "leads": [
+    {
+      "id": "453f7689b7",
+      "relevant": true,
+      "summary": "truemetrics maps parking positions and building entrances for delivery couriers, built from sensor data on drivers' phones, and sells it to logistics firms via an SDK; it names GLS as a customer.",
+      "stack": [
+        "ML",
+        "SDK"
+      ],
+      "hook": "Your site says 15% of navigation pins are more than 70m from the real entrance, and that the SDK integrates with a few lines of code.",
+      "angle": "medvault",
+      "angle_reason": "Both handle sensitive user-device data behind an API, and MedVault's Django REST backend with per-user isolation is the closest backend match, though the product domain differs.",
+      "fit": 5,
+      "region": "europe",
+      "people": [
+        {
+          "name": "Ingo Boegemann",
+          "role": "CEO & Co-founder"
+        }
+      ],
+      "contact_email": "ingo@truemetrics.io",
+      "contact_name": "Ingo Boegemann",
+      "contact_role": "CEO & Co-founder",
+      "red_flags": []
+    },
+    {
+      "id": "461f9033ca",
+      "relevant": true,
+      "summary": "Diffuse Bio builds generative AI platforms for protein design, including RamaX binder screening and DiffuseSandbox, which gives public access to its protein models.",
+      "stack": [],
+      "hook": "Your 'Launching DSG-2mini and DiffuseSandbox' post opened public access to your latest protein generative models.",
+      "angle": "medvault",
+      "angle_reason": "Both are AI products in health and biology where model output must be constrained and validated; MedVault's Gemini pipeline with a fixed output schema and no-diagnosis safety rules is the nearest analogue.",
+      "fit": 4,
+      "region": "us",
+      "people": [],
+      "contact_email": "namrata@diffuse.bio",
+      "contact_name": "Namrata Anand",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "469eb1ae19",
+      "relevant": true,
+      "summary": "AirMyne builds machines that capture CO2 from ambient air at industrial scale, and can also capture at point-of-emissions sources, for downstream use or sequestration.",
+      "stack": [],
+      "hook": "Your site says the platform can capture directly at point-of-emissions (1-10% CO2) as well as from ambient air.",
+      "angle": "medvault",
+      "angle_reason": "Weak match: an industrial hardware company with little software surface; MedVault's Django REST backend is the closest analogue to any plant-monitoring data pipeline they run.",
+      "fit": 2,
+      "region": "us",
+      "people": [],
+      "contact_email": "mark@airmyne.com",
+      "contact_name": "Mark Cyffka",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "49b027f64b",
+      "relevant": true,
+      "summary": "SilkChart uses AI to analyze sales calls, measure playbook adoption, and give managers and reps coaching feedback, built for B2B SaaS sales teams.",
+      "stack": [],
+      "hook": "Your 'What you could have said' feature shows reps exactly how to rephrase for each call.",
+      "angle": "medvault",
+      "angle_reason": "They turn raw call transcripts into structured scorecards and coaching text with an LLM, the same job as MedVault's Gemini pipeline that turns free text into a fixed JSON schema.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "andreea@silkchart.com",
+      "contact_name": "Andreea Francis",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "4a04b1b23d",
+      "relevant": true,
+      "summary": "AthenaHQ is an AI SEO platform (GEO/AEO) that tracks how brands show up in answers from AI search engines and recommends content and citation improvements.",
+      "stack": [],
+      "hook": "Your product tracks brand mentions across 11+ major LLMs, and a customer quote reports a 2.5x increase in AI-driven organic traffic.",
+      "angle": "medvault",
+      "angle_reason": "They query many LLM providers and analyze what they cite, and MedVault keeps all LLM calls behind one mockable client and parses malformed model output.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "careers@athenahq.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "4f8164bbe5",
+      "relevant": true,
+      "summary": "Helios builds AI agents that answer, qualify and book meetings for B2B companies across WhatsApp, Instagram, calls and email, syncing each interaction to the customer's CRM.",
+      "stack": [
+        "WhatsApp Business Platform",
+        "HubSpot",
+        "Salesforce",
+        "Zendesk"
+      ],
+      "hook": "Your site says Helios answers only from the catalog, help center and price list, with a 0.85 confidence threshold and human handoff on from day one.",
+      "angle": "medvault",
+      "angle_reason": "Their agent answers customers from client-supplied content behind confidence thresholds and handoff, the same grounded-LLM pattern as MedVault's fixed-schema, safety-ruled prompting.",
+      "fit": 8,
+      "region": "americas",
+      "people": [],
+      "contact_email": "hello@usehelios.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "533ba8c2cb",
+      "relevant": true,
+      "summary": "Gym Class is a social sports platform, mainly VR basketball on Meta Quest with licensed NBA and MLB content, now expanding to mobile.",
+      "stack": [
+        "Meta Quest",
+        "iOS",
+        "Android"
+      ],
+      "hook": "Your site says GC has over 53K Quest ratings at 4.8 stars and began expanding to mobile in 2026.",
+      "angle": "medvault",
+      "angle_reason": "Weak match: a consumer VR and mobile game; the closest work I have is MedVault's user accounts and JWT auth with refresh-token rotation on a Django REST API.",
+      "fit": 3,
+      "region": "us",
+      "people": [
+        {
+          "name": "Paul Katsen",
+          "role": "Co-founder, Chief Product Officer"
+        },
+        {
+          "name": "Erik",
+          "role": "CTO"
+        }
+      ],
+      "contact_email": "paul@gymclass.com",
+      "contact_name": "Paul Katsen",
+      "contact_role": "Co-founder, Chief Product Officer",
+      "red_flags": []
+    },
+    {
+      "id": "544fb54b12",
+      "relevant": true,
+      "summary": "Hellometer uses computer vision on restaurant cameras to measure drive-thru and lobby wait times and loss prevention for quick-service restaurants.",
+      "stack": [
+        "computer vision"
+      ],
+      "hook": "Your March 2026 Loop integration turns camera footage into Uber Eats dispute evidence.",
+      "angle": "medvault",
+      "angle_reason": "Weak match: a camera-data B2B product with third-party integrations; MedVault's backend with per-user isolation and API work is the nearest overlap.",
+      "fit": 4,
+      "region": "us",
+      "people": [
+        {
+          "name": "Alex Popper",
+          "role": "Founder, CEO"
+        },
+        {
+          "name": "Alberto Rivera",
+          "role": "Co-Founder, CTO"
+        }
+      ],
+      "contact_email": "alexander@hellometer.io",
+      "contact_name": "Alex Popper",
+      "contact_role": "Founder, CEO",
+      "red_flags": []
+    },
+    {
+      "id": "56f5c4d2b7",
+      "relevant": true,
+      "summary": "Cargo is GTM infrastructure: teams declare their go-to-market as a git repository, and Cargo runs it as hosted, traced workflows that coding agents can write.",
+      "stack": [
+        "TypeScript",
+        "MCP",
+        "CLI"
+      ],
+      "hook": "Your CDK is TypeScript, and 'cargo-ai project deploy' plans the diff before it runs and can roll back to any previous state.",
+      "angle": "canopy",
+      "angle_reason": "Both are developer tools that treat a repository as the source of truth and derive structured results from it; Canopy's commit-hash-keyed cache and deterministic resolution fit a runtime built around git.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "aurelien@getcargo.io",
+      "contact_name": "Aurelien Aubert",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "584b9a9ce6",
+      "relevant": true,
+      "summary": "Syncly is AI social listening and creator discovery for fast-moving consumer brands, covering TikTok, Reels and Shorts, plus a customer-feedback product.",
+      "stack": [
+        "MCP",
+        "speech-to-text",
+        "AI vision"
+      ],
+      "hook": "Your Syncly Social MCP connector brings social intelligence into Claude and ChatGPT through remote MCP.",
+      "angle": "medvault",
+      "angle_reason": "Their 'Ask Syncly' turns plain-language questions into reports from LLM output, and MedVault's single LLM client and fixed-schema Gemini pipeline has the same shape.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "joseph@syncly.app",
+      "contact_name": "Joseph Lee",
+      "contact_role": "Founder",
+      "red_flags": []
+    }
+  ]
+}

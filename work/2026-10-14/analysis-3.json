@@ -1,0 +1,185 @@
+{
+  "leads": [
+    {
+      "id": "1a48269342",
+      "relevant": true,
+      "summary": "Eclatian sells Sito, a cloud SaaS for hospitality and F&B that replaces printed menus with a digital catalogue and a prepaid self-ordering system (Scan Pay Order). Only a GitHub org with no public opening was found.",
+      "stack": ["Java", "HTML"],
+      "hook": "Sito's Scan Pay Order flow lets guests order and pay from their phone with real-time order updates, and the site says the SaaS has been 99.99% available.",
+      "angle": "medvault",
+      "angle_reason": "A restaurant SaaS platform needs a backend with auth and per-user data isolation, which MedVault's Django REST API shows; the language overlap is weak (Java), so this is a backend-shape match only.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "info@eclatian.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "1a48269342-ref",
+      "relevant": true,
+      "summary": "Eclatian sells Sito, a cloud SaaS for hospitality and F&B that replaces printed menus with a digital catalogue and a prepaid self-ordering system (Scan Pay Order). Only a GitHub org with no public opening was found.",
+      "stack": ["Java", "HTML"],
+      "hook": "Sito's Scan Pay Order flow lets guests order and pay from their phone with real-time order updates, and the site says the SaaS has been 99.99% available.",
+      "angle": "medvault",
+      "angle_reason": "A restaurant SaaS platform needs a backend with auth and per-user data isolation, which MedVault's Django REST API shows; the language overlap is weak (Java), so this is a backend-shape match only.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {"name": "Abhideep Chakravarty", "role": "engineer (most active GitHub committer, 94 commits)"},
+        {"name": "Arun Patra", "role": "engineer (GitHub committer, 9 commits)"}
+      ],
+      "contact_email": "abhideepchakravarty@gmail.com",
+      "contact_name": "Abhideep Chakravarty",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "c2d70f20f2",
+      "relevant": false,
+      "summary": "The funding article describes Clueso as an AI video platform for business videos with MCP integrations, which raised a $10M Series A. The linked website is a musician's tour and merch site, so it is not the same company.",
+      "stack": ["AI agents", "MCP"],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "Nearest match is the LLM pipeline, but the company is not confirmed and the site does not match the posting.",
+      "fit": 2,
+      "region": "india",
+      "people": [
+        {"name": "Akash Anand", "role": "founder"},
+        {"name": "Prajwal Prakash", "role": "founder"},
+        {"name": "Neel Balar", "role": "founder"}
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["website is an unrelated musician's tour site"]
+    },
+    {
+      "id": "9b66c5ba4b",
+      "relevant": true,
+      "summary": "GreenCell Mobility (NueGo brand) deploys and operates electric buses for city and intercity transport in India and runs its own charging stations; it recently raised Rs 330 Cr in equity. No engineering role is visible.",
+      "stack": [],
+      "hook": "The funding article says investors are now backing GreenCell's operating platform layer, not just its bus assets, and the site runs its own NueGo booking flow.",
+      "angle": "canopy",
+      "angle_reason": "Fleet and operations platform software is the closest thing to Canopy's platform and backend work, but no engineering role is visible, so the match is weak.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {"name": "Devndra Chawla", "role": "managing director and CEO"}
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a4b6d6c72b",
+      "relevant": false,
+      "summary": "The funding article describes ThinkMetal as an advanced-materials startup making the SistemT1 metal additive manufacturing system. The linked website is a Shopify shop selling custom metal signs and house numbers from a small family business, so it is a different company with a similar name.",
+      "stack": [],
+      "hook": "",
+      "angle": "canopy",
+      "angle_reason": "No software product is visible, and the hardware manufacturing work does not match any project well.",
+      "fit": 1,
+      "region": "india",
+      "people": [
+        {"name": "Sabyasachi Ghosh", "role": "founder"},
+        {"name": "Arushi Sharma", "role": "founder"}
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["website is a different business (metal sign shop) with a similar name"]
+    },
+    {
+      "id": "3a7c20c074",
+      "relevant": false,
+      "summary": "CodeAsylums is a GitHub org ('an asylum for all the coders') with HTML, JavaScript and Python repos. Its website is an online-gambling and shopping spam page, so no real product can be verified.",
+      "stack": ["HTML", "JavaScript", "Python"],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "Only a GitHub org with no visible product is available; no project is a clear match.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["website is gambling spam, unrelated to the company"]
+    },
+    {
+      "id": "1b613289c9",
+      "relevant": true,
+      "summary": "automateSMB is a CRM consultancy that sets up, customizes and automates CRM and sales, service and operations processes, with AI-driven insights; its flagship product is automateCRM.",
+      "stack": ["PHP", "Scala"],
+      "hook": "A testimonial on the site says the automateCRM mobile app lets field staff work from anywhere.",
+      "angle": "medvault",
+      "angle_reason": "A CRM platform with AI insights and an API-backed mobile app is closest to MedVault's AI-over-data API with auth and per-user isolation.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {"name": "Basavraj Essae", "role": "Executive Digital Marketing"},
+        {"name": "Nilay Khatri", "role": "engineer (GitHub committer, 5 commits)"}
+      ],
+      "contact_email": "nilay@automatesmb.com",
+      "contact_name": "Nilay Khatri",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "44d792a3f3",
+      "relevant": true,
+      "summary": "Bharat Digital runs the Build for Bharat Fellowship, a six-month paid programme (January to June 2027) that places early-career engineers, designers and AI practitioners inside Indian government departments.",
+      "stack": ["MCP", "WhatsApp", "Whatomate"],
+      "hook": "The eSankhyiki MCP server, which makes India's official statistics callable by AI assistants, is one of the fellowship's past projects.",
+      "angle": "medvault",
+      "angle_reason": "Government AI and API work with LLM-facing data access maps to MedVault's LLM pipeline and Django REST backend.",
+      "fit": 7,
+      "region": "india",
+      "people": [
+        {"name": "Kailash Nadh", "role": "CTO, Zerodha (office-hours mentor)"},
+        {"name": "Rukmini S", "role": "founder, Data for India (mentor)"},
+        {"name": "Devanshi Sihare", "role": "head of social impact, TinkerLabs (mentor)"}
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "e094feaaae",
+      "relevant": true,
+      "summary": "TestAIng (AiEnsured) is an enterprise AI product engineering and testing firm offering LLM and agent development, AI governance and testing services. This posting is for a remote AI/ML intern from 1 November 2026 to April 2027.",
+      "stack": ["Python", "PyTorch", "Hugging Face", "TensorFlow", "JavaScript", "REST APIs"],
+      "hook": "The intern posting asks for LLM fine-tuning shown in a project, and the site says its AIEnsured tool pipelines back its testing work.",
+      "angle": "medvault",
+      "angle_reason": "The intern role is LLM work with evaluation and APIs, which MedVault's Gemini pipeline with a fixed output schema and mockable client covers.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["internship stipend Rs 8,000/month is below the Rs 25,000/month threshold"]
+    },
+    {
+      "id": "3d35bebc7b",
+      "relevant": true,
+      "summary": "EOXS is a small French R&D business in Caromb, run by its manager Olivier de Gheldere, working on solar energy, humidity control for wine cellars and an electric vehicle called Soraya. The posting is for a Python/Odoo fresher intern, which the website does not mention.",
+      "stack": ["Python", "Odoo"],
+      "hook": "Your site lists a humidity-control machine for wine barrel cellars and the Soraya e-car, both R&D projects.",
+      "angle": "medvault",
+      "angle_reason": "A Python intern role at a small firm lines up with MedVault's Django REST backend, but the site shows no software product and no Odoo work, so the match is thin.",
+      "fit": 4,
+      "region": "europe",
+      "people": [
+        {"name": "Olivier de Gheldere", "role": "founder (gerant)"}
+      ],
+      "contact_email": "info@eoxs.eu",
+      "contact_name": "Olivier de Gheldere",
+      "contact_role": "founder (gerant)",
+      "red_flags": []
+    }
+  ]
+}

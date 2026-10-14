@@ -1,0 +1,189 @@
+{
+  "leads": [
+    {
+      "id": "7d093e76de",
+      "relevant": true,
+      "summary": "Humwork is a marketplace that connects AI agents such as Claude Code and Cursor to verified human experts in real time through an MCP server or API. It is built for developers and teams building with AI agents.",
+      "stack": ["MCP", "API", "Claude Code", "Cursor"],
+      "hook": "Your homepage says an agent stuck in Claude Code gets matched to a verified engineer in under 30 seconds, and the fix is pushed back into its context.",
+      "angle": "canopy",
+      "angle_reason": "Humwork's MCP server plugs into Claude Code and Cursor for developers, and Canopy is a developer tool that maps code architecture from GitHub repos.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "founders@humwork.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "7fbecab2f1",
+      "relevant": true,
+      "summary": "Sirdab runs a cloud warehousing and logistics platform in Saudi Arabia and the wider MENA region, where businesses rent storage, arrange transport and manage inventory in one place. Its customers are businesses that need warehouse space and e-commerce fulfillment.",
+      "stack": ["Salla", "Zid", "Shopify"],
+      "hook": "Your site says e-commerce orders are synced in real time with stores on Salla, Zid and Shopify.",
+      "angle": "medvault",
+      "angle_reason": "Sirdab's platform is a B2B operations backend that syncs orders across external systems, which is the kind of Django REST API with per-user data isolation that MedVault implements.",
+      "fit": 5,
+      "region": "middle_east",
+      "people": [
+        {"name": "Naif Alzahri", "role": "Founder"},
+        {"name": "Abdulrahman Alnamlah", "role": "Founder"}
+      ],
+      "contact_email": "naif@sirdab.co",
+      "contact_name": "Naif Alzahri",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "807f4861a1",
+      "relevant": true,
+      "summary": "Accord sells a revenue execution platform that turns sales methodologies such as MEDDPICC into playbooks and uses AI agents to automate account research and stakeholder mapping. Its customers are sales teams and revenue operations groups.",
+      "stack": ["Salesforce", "HubSpot", "MCP"],
+      "hook": "Your Accord Intelligence agents listen to signals across the GTM stack, and all rep activity is captured and synced to Salesforce and HubSpot automatically.",
+      "angle": "medvault",
+      "angle_reason": "Accord's Accord Intelligence agents run LLM-driven research and summarization over CRM data, which is the same prompt-pipeline-to-structured-output work MedVault does with Gemini.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Ross Rich", "role": "Founder"},
+        {"name": "Ryan Rich", "role": "Founder"}
+      ],
+      "contact_email": "ross@inaccord.com",
+      "contact_name": "Ross Rich",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "8203f863e1",
+      "relevant": true,
+      "summary": "Cogram builds AI-native software for architects and engineers, covering email filing, RFIs and submittals, meeting minutes and field reports. Its customers are architecture, engineering and construction firms.",
+      "stack": ["Procore", "Deltek", "Unanet", "Microsoft Teams", "Outlook", "Autodesk"],
+      "hook": "Your RFIs and Submittals module is integrated with Procore, and your Agent answers questions over a project's documents with AI.",
+      "angle": "medvault",
+      "angle_reason": "Cogram's Agent analyzes project documents with AI and fills customer templates, which matches MedVault's pipeline of turning an uploaded PDF into a fixed-schema, plain-language explanation.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Alexander von Boetticher", "role": "Founder"},
+        {"name": "Ricardo Wölker", "role": "Founder"}
+      ],
+      "contact_email": "alexander@cogram.com",
+      "contact_name": "Alexander von Boetticher",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "842d5d4864",
+      "relevant": true,
+      "summary": "Elyos AI sells autonomous AI agents that answer calls, emails and bookings for trades and field service businesses. Its customers are operators in trades and field services.",
+      "stack": [],
+      "hook": "Your Email Agent answers every email in under two minutes and books work orders before the inbox is read.",
+      "angle": "medvault",
+      "angle_reason": "Elyos runs LLM agents that read customer messages and act on them with business rules, which is the same prompting pipeline with safety rules and structured output that MedVault uses.",
+      "fit": 6,
+      "region": "europe",
+      "people": [
+        {"name": "Adrian Johnston", "role": "Founder"},
+        {"name": "Philippa Brown", "role": "Founder"},
+        {"name": "Panos Stravopodis", "role": "Founder/CTO"}
+      ],
+      "contact_email": "panos@elyos.ai",
+      "contact_name": "Panos Stravopodis",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "865eaa8459",
+      "relevant": true,
+      "summary": "Attack Capital is a Y Combinator alumni venture studio that builds vertical AI SaaS companies in about 30 days and also runs an investment fund in YC startups. The posting describes an investment vehicle, so the engineering role is unclear.",
+      "stack": [],
+      "hook": "Your site describes a 30-day build cycle from idea to MVP, and lists HealOS, an AI healthcare agents company, in your portfolio.",
+      "angle": "medvault",
+      "angle_reason": "Attack Capital builds vertical AI SaaS in healthcare and other regulated sectors, and MedVault is an AI health-tech product with an LLM pipeline and privacy-focused backend.",
+      "fit": 3,
+      "region": "us",
+      "people": [],
+      "contact_email": "gp@attack.capital",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "869986542d",
+      "relevant": true,
+      "summary": "Blee is an AI-first marketing compliance platform that pre-reads content before publication, monitors published channels and logs every review. Its customers are legal, compliance and marketing teams.",
+      "stack": [],
+      "hook": "Blee's dashboard flags issues such as 'Deceptive Representation or Omission' in drafts before marketing publishes them, with the AI pre-reading each piece of content.",
+      "angle": "medvault",
+      "angle_reason": "Blee applies LLM review to content against written rules and keeps an audit record, which is the same rules-enforcing LLM pipeline and data-handling work MedVault covers.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Guy Shahar", "role": "Founder"}
+      ],
+      "contact_email": "guy@blee.com",
+      "contact_name": "Guy Shahar",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "894a447fd0",
+      "relevant": true,
+      "summary": "HOMLI offers online property valuations, listings and sales tools for homeowners, buyers and renters in Greece, Spain, Portugal, Italy and Belgium. Its posting says it is building a fully autonomous broker that sells homes without agents.",
+      "stack": [],
+      "hook": "Your valuation pages price Boyliagmeni at €7,186 per sqm, the top Athens neighborhood, and your site shows neighborhood-level data across markets.",
+      "angle": "medvault",
+      "angle_reason": "HOMLI's valuation and listing product is a data-heavy backend and API, closest to MedVault's Django REST backend with per-user data isolation.",
+      "fit": 4,
+      "region": "europe",
+      "people": [
+        {"name": "Antonis Mitropoulos", "role": "Founder"},
+        {"name": "Tim Ioannidis", "role": "Founder"},
+        {"name": "Nikos Legbelos", "role": "Founder"}
+      ],
+      "contact_email": "antonis@thehomli.com",
+      "contact_name": "Antonis Mitropoulos",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "8a02c06721",
+      "relevant": true,
+      "summary": "Interfaze is an AI model company building a model for deterministic tasks such as OCR, structured data extraction, classification and audio understanding, sold through an API and SDKs. Its customers are developers who need verifiable structured output.",
+      "stack": ["TypeScript", "Python", "Zod", "Vercel AI SDK", "LangChain"],
+      "hook": "Your ID-card demo returns each field with a confidence score and pixel bounding boxes, the verifiable output you pitch for building rule-based systems.",
+      "angle": "medvault",
+      "angle_reason": "Interfaze is a document-extraction model with JSON schema output, and MedVault's Gemini pipeline with a fixed JSON schema and tolerant parser solves the same structured-extraction problem.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {"name": "Yoeven D Khemlani", "role": "Founder/CEO"},
+        {"name": "Harsha Vardhan Khurdula", "role": "Founder/CTO"}
+      ],
+      "contact_email": "harsha@interfaze.ai",
+      "contact_name": "Harsha Vardhan Khurdula",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "8c31e54465",
+      "relevant": true,
+      "summary": "Reviving Mind is an in-network telehealth provider that runs collaborative care programs for Medicare seniors with chronic illness, pairing licensed providers with automated lifestyle coaching. Its customers are primary care practices and Medicare patients.",
+      "stack": [],
+      "hook": "Your CoCM pitch says time-based encounters are captured down to the second for audit-proof billing, and the registry tracks every behavioral health patient on a practice's panel.",
+      "angle": "medvault",
+      "angle_reason": "Reviving Mind is a health-tech platform that handles patient data and clinical workflows, which lines up with MedVault's health-tech, auth and data-privacy work.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Rahul Sharma", "role": "Founder"},
+        {"name": "Naina Limbekar", "role": "Founder"}
+      ],
+      "contact_email": "hello@revivingmind.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

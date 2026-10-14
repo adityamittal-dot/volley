@@ -1,0 +1,249 @@
+{
+  "leads": [
+    {
+      "id": "fc2ad81a00",
+      "relevant": false,
+      "summary": "Runs a coding-education internship where mentors teach competitive programming and DSA in person, per the posting. The website did not load, so no product could be verified.",
+      "stack": [
+        "C++",
+        "C",
+        "Java"
+      ],
+      "hook": "your posting wants in-person mentors for competitive programming and C++/Java DSA sessions, with 4 openings",
+      "angle": "canopy",
+      "angle_reason": "The role is teaching algorithms, so Canopy's graph resolution and parsing work is the nearest match, and the match is weak.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "2933c598d9",
+      "relevant": true,
+      "summary": "Online fashion retailer selling dresses, streetwear and other clothing. Its GitHub org also lists Python and TypeScript repos for d3.js charts and payment-gateway SDKs.",
+      "stack": [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Jupyter Notebook",
+        "D3.js"
+      ],
+      "hook": "your GitHub org has a payment-gateway repo and a Python SDK next to d3js-charts",
+      "angle": "medvault",
+      "angle_reason": "Their payment and API work is closest to MedVault's Django REST backend with JWT auth and per-user isolation.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "1187889916",
+      "relevant": true,
+      "summary": "Sells WHOIS and domain data services, including bulk domain lists and business and website email databases, plus free email extractor and validator tools.",
+      "stack": [],
+      "hook": "your GitHub org publishes bulk-whois-download and website-technology-stack repos",
+      "angle": "canopy",
+      "angle_reason": "Bulk domain-data processing is closest to Canopy's parsing and cached analysis pipeline, though the business sells contact lists.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no real product: site shows zero-count placeholder stats"
+      ]
+    },
+    {
+      "id": "8b31d3323a",
+      "relevant": true,
+      "summary": "Open-source tools to make Android development easier, per its GitHub org description. The website has no text to verify it.",
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "Next.js",
+        "Turborepo",
+        "Stripe",
+        "Sentry",
+        "better-auth",
+        "Fumadocs"
+      ],
+      "hook": "your org ships better-auth, content-collections and fumadocs on a Next.js and Turborepo setup",
+      "angle": "canopy",
+      "angle_reason": "Android developer tooling is a dev-tools product, which matches Canopy's static-analysis and developer-facing work.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Yogesh Kumar",
+          "role": "engineer (top committer, 64 commits)"
+        }
+      ],
+      "contact_email": "yogeshkumar180592@gmail.com",
+      "contact_name": "Yogesh Kumar",
+      "contact_role": "engineer (top committer, 64 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "a10acb3354",
+      "relevant": false,
+      "summary": "Cybersecurity product engineering and human capital development company working with IITs and NITs, per its posting. The website returned a 403, so it is unverified.",
+      "stack": [],
+      "hook": "your posting asks interns to map product capabilities to customer RFP requirements in cybersecurity",
+      "angle": "canopy",
+      "angle_reason": "Their cybersecurity product work is nearest to Canopy's security-tooling angle, though the open role is product management.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a920833791",
+      "relevant": true,
+      "summary": "GitHub org publishing React Native image gallery, preload and skeleton-loading libraries. No website text was available.",
+      "stack": [
+        "React Native",
+        "JavaScript",
+        "Objective-C",
+        "Redux"
+      ],
+      "hook": "your react-native-image-gallery and content-preload repos cover skeleton loading for image lists",
+      "angle": "canopy",
+      "angle_reason": "Their work is React Native UI libraries, which none of his projects cover, so Canopy is only the closest general engineering angle.",
+      "fit": 4,
+      "region": "india",
+      "people": [
+        {
+          "name": "Jitender",
+          "role": "engineer (4 commits)"
+        }
+      ],
+      "contact_email": "rasthana@gmail.com",
+      "contact_name": "Jitender",
+      "contact_role": "engineer (4 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "1bf88869f8",
+      "relevant": false,
+      "summary": "No verifiable business: softles.com is a parked domain listed for sale, and the GitHub org lists CSS, JavaScript and PHP.",
+      "stack": [
+        "CSS",
+        "JavaScript",
+        "PHP"
+      ],
+      "hook": "softles.com is a parked domain listed for sale rather than a live site",
+      "angle": "canopy",
+      "angle_reason": "There is no real company work to match, so Canopy is only the default general engineering angle.",
+      "fit": 1,
+      "region": "india",
+      "people": [
+        {
+          "name": "gurjarshakti",
+          "role": "engineer (top committer, 8 commits)"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no real product: website is a parked domain for sale"
+      ]
+    },
+    {
+      "id": "5acb3e580f",
+      "relevant": true,
+      "summary": "Software studio, per its GitHub org tagline 'Your vision, our code', with Dart as its only listed language. No website text was available.",
+      "stack": [
+        "Dart"
+      ],
+      "hook": "your GitHub org is Dart-only and pitches itself as 'your vision, our code'",
+      "angle": "canopy",
+      "angle_reason": "Their work is Dart software for clients, and Canopy is the closest general engineering project, though the match is weak.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Aditya Arya",
+          "role": "engineer (top committer, 8 commits)"
+        }
+      ],
+      "contact_email": "aryaadityacr7@gmail.com",
+      "contact_name": "Aditya Arya",
+      "contact_role": "engineer (top committer, 8 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "37f1628874",
+      "relevant": false,
+      "summary": "Its website is an IPL cricket streaming, fantasy and betting-odds platform, which is a gambling business. Its GitHub org publishes web starter templates.",
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "Express",
+        "Fastify",
+        "MongoDB",
+        "AWS S3"
+      ],
+      "hook": "your site is an IPL betting-odds and fantasy platform, while the GitHub org publishes Fastify and S3 starter templates",
+      "angle": "canopy",
+      "angle_reason": "Their starter-template and Fastify backend work is closest to Canopy's backend parsing, though the business is gambling.",
+      "fit": 1,
+      "region": "india",
+      "people": [
+        {
+          "name": "Mihir Kumar",
+          "role": "engineer (top committer, 40 commits)"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "05b9c22209",
+      "relevant": true,
+      "summary": "Gamezop runs a plug-and-play HTML5 gaming SDK that lets apps and websites embed casual games, quizzes, and other content without an install; it's integrated into 9,000+ products across 100+ countries.",
+      "stack": [
+        "Go",
+        "Elixir",
+        "Next.js",
+        "Node.js",
+        "Dart",
+        "Kotlin",
+        "Swift",
+        "TypeScript"
+      ],
+      "hook": "their business page says Gamezop is now embedded in over 9,000 products across 100+ countries, reaching 45 million monthly users",
+      "angle": "canopy",
+      "angle_reason": "Gamezop runs a Node/Next/Go backend serving a plug-and-play SDK to thousands of integrating products, close to the backend/platform work Canopy's call-graph analysis targets.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Yashash Agarwal",
+          "role": "Founder"
+        },
+        {
+          "name": "Gaurav Agarwal",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "anshgujral1997@gmail.com",
+      "contact_name": "Ansh Gujral",
+      "contact_role": "Engineer (GitHub committer)",
+      "red_flags": []
+    }
+  ]
+}

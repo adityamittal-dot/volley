@@ -1,0 +1,173 @@
+{
+ "leads": [
+  {
+   "id": "587f4e2946",
+   "relevant": true,
+   "summary": "Vercel is the agentic infrastructure company behind Next.js, v0 and the AI SDK, selling deployment, sandboxes, AI gateway and observability for apps and agents. This posting is for a backend-leaning software engineer building user, group and membership management services.",
+   "stack": ["TypeScript", "JavaScript", "Node.js", "AWS", "Next.js", "SQL", "NoSQL"],
+   "hook": "The posting says the team builds user, group and membership management on JavaScript/TypeScript, Node.js and AWS, with a security and reliability bar.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's JWT auth with refresh-token rotation and per-user isolation at the queryset level maps directly to the user, group and membership work this role describes.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "594e5dbd64",
+   "relevant": true,
+   "summary": "ParadeDB builds a Postgres extension that adds full-text, vector and aggregate search as a native index, so teams can avoid running a separate search system like Elasticsearch. It sells to developers and infrastructure teams who already run Postgres.",
+   "stack": ["PostgreSQL", "Rust", "Tantivy", "SQL"],
+   "hook": "The homepage benchmark says ParadeDB text search runs 119x faster than vanilla Postgres at P95 on the 28M-row Hacker News dataset.",
+   "angle": "canopy",
+   "angle_reason": "Canopy's PostgreSQL-backed cache and multi-language static analysis are close to the indexing and query work of a Postgres-native developer tool.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "hello@paradedb.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "594e5dbd64-ref",
+   "relevant": true,
+   "summary": "ParadeDB builds a Postgres extension that adds full-text, vector and aggregate search as a native index, so teams can avoid running a separate search system like Elasticsearch. It sells to developers and infrastructure teams who already run Postgres.",
+   "stack": ["PostgreSQL", "Rust", "Tantivy", "SQL"],
+   "hook": "The homepage benchmark says ParadeDB text search runs 119x faster than vanilla Postgres at P95 on the 28M-row Hacker News dataset.",
+   "angle": "canopy",
+   "angle_reason": "Canopy's PostgreSQL-backed cache and multi-language static analysis are close to the indexing and query work of a Postgres-native developer tool.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "ming.ying.nyc@gmail.com",
+   "contact_name": "Ming",
+   "contact_role": "engineer",
+   "red_flags": []
+  },
+  {
+   "id": "5bae2820eb",
+   "relevant": true,
+   "summary": "Speedy Labs sells AI agents that reconcile rebate statements and payments for food-service distributors, manufacturers and buying groups, and write true net cost back to the ERP.",
+   "stack": [],
+   "hook": "The site says every agent answer opens to the source statement lines behind it, with a short-paid Smithfield bacon line recovered as $1,240.",
+   "angle": "medvault",
+   "angle_reason": "MedVault turns uploaded documents into structured, schema-constrained AI output through a Gemini pipeline, close to reading statements and contracts for reconciliation.",
+   "fit": 6,
+   "region": "americas",
+   "people": [],
+   "contact_email": "brandon@speedylabs.ai",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "5c3162c84b",
+   "relevant": true,
+   "summary": "Glass builds clinical AI for clinicians, covering clinical decision support, ambient scribing and patient guidance, grounded in peer-reviewed medical literature and drug information.",
+   "stack": [],
+   "hook": "The site says every Glass response is grounded in peer-reviewed citations, with 40M+ PubMed citations behind the clinical agent.",
+   "angle": "medvault",
+   "angle_reason": "MedVault is a health-tech LLM pipeline with safety rules that forbid diagnosis or prescription, which is close to a clinical reasoning product.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Dereck Paul", "role": "Founder/CEO"},
+    {"name": "William Hart", "role": "Founder/CTO"}
+   ],
+   "contact_email": "william@glass.health",
+   "contact_name": "William Hart",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "71da31ee7d",
+   "relevant": true,
+   "summary": "Osium AI sells AI software that predicts materials and chemicals properties and supports R&D from formulation through scale-up for manufacturers.",
+   "stack": [],
+   "hook": "The site claims property predictions for any material or chemical in a few seconds, covering formulation through scale-up.",
+   "angle": "medvault",
+   "angle_reason": "Both are AI tools that turn technical input into domain-specific output for experts, and MedVault's schema-constrained LLM pipeline is the closest AI build the candidate has.",
+   "fit": 6,
+   "region": "europe",
+   "people": [
+    {"name": "Sarah Najmark", "role": "Founder"}
+   ],
+   "contact_email": "sarah@osium.ai",
+   "contact_name": "Sarah Najmark",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "744a77a8ab",
+   "relevant": true,
+   "summary": "Vendah runs a marketplace connecting beauty brands to individual resellers across Brazil, with embedded microcredit for sellers and a reseller site that sells kits and offers payment plans.",
+   "stack": [],
+   "hook": "The posting says GMV is growing about 30% month over month, with approximately 1,000 active sellers and a proprietary credit engine.",
+   "angle": "medvault",
+   "angle_reason": "The marketplace needs user accounts and a credit engine on top, which maps to MedVault's Django backend, JWT auth and per-user data isolation.",
+   "fit": 5,
+   "region": "americas",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "746c143dd9",
+   "relevant": true,
+   "summary": "Letterdrop sells go-to-market intelligence that surfaces which accounts are evaluating competitors and which buyers are in market, for sales and marketing teams.",
+   "stack": [],
+   "hook": "A July post on the Letterdrop blog compared buying signals with real CRM data at four B2B companies to check whether they predict competitor deals.",
+   "angle": "medvault",
+   "angle_reason": "Letterdrop is a GenAI data product, and MedVault's LLM pipeline with schema-constrained output is the closest build the candidate has.",
+   "fit": 4,
+   "region": "us",
+   "people": [
+    {"name": "Parthi Loganathan", "role": "Founder"}
+   ],
+   "contact_email": "parthi@letterdrop.com",
+   "contact_name": "Parthi Loganathan",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "74f551e319",
+   "relevant": true,
+   "summary": "Magic Patterns is an AI design tool where product teams turn prompts, PRDs and repos into high-fidelity UI on a shared canvas, then hand the chosen direction to a coding agent.",
+   "stack": [],
+   "hook": "The homepage says Magic OS takes in a PRD and repo, compares design directions side by side, and hands the winner to a coding agent.",
+   "angle": "canopy",
+   "angle_reason": "Magic Patterns ingests a repo and hands output to coding agents, and Canopy already reads GitHub repositories and maps their structure.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "75adf3e689",
+   "relevant": true,
+   "summary": "Narrative, now rebranded as Zorro, makes AI testing agents that run bug bashes and regression tests on pull requests, with plain-English tests that self-heal when the UI changes.",
+   "stack": ["MCP", "headless browsers"],
+   "hook": "The site says Zorro runs AI regression tests on pull requests and auto-heals selector changes, with no test cases to maintain.",
+   "angle": "canopy",
+   "angle_reason": "Zorro runs checks on pull requests and integrates with coding agents, the same developer-tooling space as Canopy's repository analysis and CI-style checks.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Suchit Dubey", "role": "Founder"}
+   ],
+   "contact_email": "suchit@trynarrative.com",
+   "contact_name": "Suchit Dubey",
+   "contact_role": "Founder",
+   "red_flags": []
+  }
+ ]
+}

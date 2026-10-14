@@ -1,0 +1,187 @@
+{
+ "leads": [
+  {
+   "id": "25aa7097ef",
+   "relevant": true,
+   "summary": "Skydio makes autonomous drones (X10, R10, F10) and the Skydio Command software that runs missions for public safety, asset inspection, mapping and national security customers. The posting is for robotics, drones, ML, cloud and web engineers in San Mateo or Zurich.",
+   "stack": [],
+   "hook": "Skydio Command turns drone missions into repeatable, automated operations, and this posting is explicitly hiring web and cloud engineers for that software side.",
+   "angle": "medvault",
+   "angle_reason": "Their web and cloud roles sit on the software that runs drone missions for customers, and MedVault's Django REST backend with JWT auth and per-user isolation is the closest backend work to show for that.",
+   "fit": 5,
+   "region": "us",
+   "people": [],
+   "contact_email": "careers@skydio.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "268693bc11",
+   "relevant": true,
+   "summary": "Headout sells curated tours, attractions and experiences to travellers, and its About page claims 56 million guests served across 196 countries. The open role is a Bangalore software engineer in test for web, mobile and backend automation that needs 1-2 years of experience.",
+   "stack": ["Selenium", "Playwright", "Appium", "RestAssured", "Java", "CI/CD", "Git"],
+   "hook": "Headout's About page says it is profitable on $60 million raised and runs a small team for its size, which is the kind of lean setup where one test engineer covers a lot of pods.",
+   "angle": "medvault",
+   "angle_reason": "The role is test automation for web, mobile and backend APIs, and MedVault is a Django REST API with its own 47-test suite that runs with no API key, the nearest thing to backend test work to show.",
+   "fit": 3,
+   "region": "india",
+   "people": [
+    {"name": "Varun Khona", "role": "CEO"},
+    {"name": "Rachit Watts", "role": "CTO"},
+    {"name": "Suren Sultania", "role": "COO"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "26869bfab6",
+   "relevant": true,
+   "summary": "Tank Payments builds payables automation and banking accounts for freight brokers, factors and carriers, so carriers get paid quickly and fleet spend is tracked. The posting lists a team of 10 in Austin, TX.",
+   "stack": [],
+   "hook": "Your homepage promises carriers get paid within seconds of paperwork submission, which implies a real-time payments pipeline behind the TMS integrations.",
+   "angle": "medvault",
+   "angle_reason": "Tank moves money into carrier accounts, and MedVault's JWT auth with refresh-token rotation and queryset-level per-user isolation is the same account-data isolation a payments backend needs.",
+   "fit": 5,
+   "region": "us",
+   "people": [],
+   "contact_email": "info@tankpayments.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "2b0e0b8bac",
+   "relevant": true,
+   "summary": "Coverage Cat is a licensed insurance brokerage with an AI-guided shopping flow for home, umbrella, auto and renters coverage, live in five states. The only listed role is a paused remote contract Growth Engineer that says new grads are fine.",
+   "stack": ["MCP", "OpenAPI", "AI"],
+   "hook": "Your site publishes an MCP endpoint and agent card so a shopper's own agent can compare policies through your API, which is concrete agent infrastructure.",
+   "angle": "medvault",
+   "angle_reason": "Their AI intake and agent API need a structured LLM pipeline behind a stable interface, which is what MedVault's Gemini pipeline with a fixed JSON schema and mockable client provides.",
+   "fit": 4,
+   "region": "us",
+   "people": [
+    {"name": "Max Cho", "role": "Founder"},
+    {"name": "Gabriel Botelho", "role": "Founder/CTO"}
+   ],
+   "contact_email": "gabriel@coveragecat.com",
+   "contact_name": "Gabriel Botelho",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "2ccaf683c4",
+   "relevant": false,
+   "summary": "Vahan is a recruitment and payroll service that places blue- and grey-collar workers with businesses across India, using an AI chatbot for sourcing. It sells staffing rather than a software product.",
+   "stack": ["AI chatbot"],
+   "hook": "Your site says you place about 20K workers a month and names Zomato and Dunzo as clients, which is a staffing operation rather than a product team.",
+   "angle": "medvault",
+   "angle_reason": "Vahan's AI matching of candidates to employers is LLM work, so MedVault's fixed-schema LLM pipeline is the closest match, though the business itself is a staffing agency.",
+   "fit": 2,
+   "region": "india",
+   "people": [
+    {"name": "Madhav Krishna", "role": "Founder"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": ["staffing agency, supplies workers to client businesses"]
+  },
+  {
+   "id": "31b1de4298",
+   "relevant": true,
+   "summary": "Beam sells serverless GPU compute and sandboxes for AI inference, task queues and agents, run on its own cloud or on a customer's AWS, GCP or bare metal. The listing says the team is 5 people in New York.",
+   "stack": ["Python", "TypeScript", "Go", "PyTorch", "vLLM"],
+   "hook": "Your site claims memory snapshots restore GPU containers up to 35x faster than a cold boot, and the sandbox snapshot_memory() call is the mechanism behind it.",
+   "angle": "canopy",
+   "angle_reason": "Beam is developer infrastructure that caches and restores running environments to avoid repeat work, which matches Canopy's commit-hash-keyed PostgreSQL cache that is checked before cloning.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Eli Mernit", "role": "Founder"},
+    {"name": "Luke Lombardi", "role": "Founder"}
+   ],
+   "contact_email": "eli@beam.cloud",
+   "contact_name": "Eli Mernit",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "36bbacd2d7",
+   "relevant": true,
+   "summary": "Epsilon3 sells AI-assisted procedure, execution and test-management software to aerospace, energy, defense and manufacturing teams that build complex hardware. The posting describes a fully remote US team of 12.",
+   "stack": [],
+   "hook": "Your AI section says every suggestion arrives as a proposal the operator accepts, with an audit trail, and that customer data is never used for training.",
+   "angle": "medvault",
+   "angle_reason": "Epsilon3's Ask and Suggest features answer over a customer's own records with cited output and human approval, which is the grounded, fixed-schema LLM pattern MedVault uses, with its safety rules and per-user isolation.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Laura Crabtree", "role": "Founder"},
+    {"name": "Max Mednik", "role": "Founder"}
+   ],
+   "contact_email": "laura@epsilon3.io",
+   "contact_name": "Laura Crabtree",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "385fd36e77",
+   "relevant": true,
+   "summary": "Binks sells readymade Indian ethnic wear for women, mainly stretch and fitted saree blouses sized XS to 8XL, shipped worldwide. The posting describes a zero-inventory, factory-to-consumer model out of Bengaluru.",
+   "stack": [],
+   "hook": "Your site says the proprietary sizing chart is built from measurements of 30,000 Indian women, and that the fit systems run from XS to 8XL.",
+   "angle": "medvault",
+   "angle_reason": "Binks runs a customer-facing storefront with orders, sizing and returns data, and MedVault's Django REST API with JWT auth and per-user isolation at the queryset level is the closest backend match.",
+   "fit": 5,
+   "region": "india",
+   "people": [
+    {"name": "Aamna Khan", "role": "Founder"},
+    {"name": "Raj Vardhan", "role": "Founder"}
+   ],
+   "contact_email": "aamna@getbinks.com",
+   "contact_name": "Aamna Khan",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "4272ac117e",
+   "relevant": true,
+   "summary": "Paragon AI records sales calls on Zoom, Teams, Google Meet or Webex and writes call notes, Q&A and CRM fields into Salesforce, HubSpot, Pipedrive or Zoho. The listing gives a team size of 3.",
+   "stack": [],
+   "hook": "Your site says a call recording fills every custom CRM field, from budget to decision maker, in Salesforce, HubSpot, Pipedrive or Zoho.",
+   "angle": "medvault",
+   "angle_reason": "Paragon turns unstructured call transcripts into fixed CRM fields, the same job as MedVault's Gemini pipeline that turns unstructured text into a fixed JSON schema, including its tolerant parser for malformed model output.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Max Lu", "role": "Founder"}
+   ],
+   "contact_email": "max@paragon.ai",
+   "contact_name": "Max Lu",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "4359357728",
+   "relevant": true,
+   "summary": "Vinci Games makes social multiplayer VR games for Meta Quest, including Ruffnauts, a creature-catching free-to-play title in closed beta, and Blacktop Hoops. The listing gives a team of 7, fully remote in the US.",
+   "stack": [],
+   "hook": "The posting says Ruffnauts reached 30K+ reviews at 4.9 stars in its first month of alpha early access.",
+   "angle": "medvault",
+   "angle_reason": "Multiplayer VR games need account and session backends, and MedVault's JWT auth with refresh-token rotation and per-user isolation is the nearest backend work to show, though there is no direct game overlap.",
+   "fit": 3,
+   "region": "us",
+   "people": [
+    {"name": "Nathaniel Ventura", "role": "CEO"},
+    {"name": "Maciej Szcześnik", "role": "CTO"}
+   ],
+   "contact_email": "maciej@ruffnauts.com",
+   "contact_name": "Maciej Szcześnik",
+   "contact_role": "CTO",
+   "red_flags": []
+  }
+ ]
+}

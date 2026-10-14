@@ -1,0 +1,173 @@
+{
+ "leads": [
+  {
+   "id": "f1abcdc313",
+   "relevant": true,
+   "summary": "Ahmedabad-based IT services firm that designs and builds websites, mobile apps, UI/UX and e-commerce sites for clients. The site also lists IT training and an internship registration page.",
+   "stack": [],
+   "hook": "Their site describes a numbered client process (Planning, Design, Development, Launch, Maintenance) and says they research, analyze, plan and document before building. Nothing on the site mentions Python.",
+   "angle": "medvault",
+   "angle_reason": "They build web applications for clients, and MedVault is a Django REST backend with JWT auth and per-user isolation, the closest match to their web-app work.",
+   "fit": 5,
+   "region": "india",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "9fba34b2b9",
+   "relevant": false,
+   "summary": "Indian online marketplace that lets small sellers and entrepreneurs sell to customers across the country, with pan-India logistics, payments and seller support.",
+   "stack": [],
+   "hook": "The posting is a generic 'Engineering (YC Summer 2016)' listing with no concrete role, and the website returns a 403 to the scraper, so there is no usable site text.",
+   "angle": "canopy",
+   "angle_reason": "Marketplace backend work is data- and service-heavy, and Canopy's cross-file analysis is the nearest backend work, but the posting names no role to match.",
+   "fit": 2,
+   "region": "india",
+   "people": [
+    {"name": "Vidit Aatrey", "role": "Founder/CEO"},
+    {"name": "Sanjeev Barnwal", "role": "Founder/CTO"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "537d04eea9",
+   "relevant": true,
+   "summary": "Benefits, payroll and compliance platform for startups that runs on top of Rippling, Deel, Gusto or ADP, with a 24/7 employee concierge and AI support.",
+   "stack": [],
+   "hook": "Their site says the employee Heal app has a 24/7 AI concierge and a Care Finder that answers questions like 'I need a dermatologist who speaks Spanish' with in-network results.",
+   "angle": "medvault",
+   "angle_reason": "Spine handles employees' health plans and benefits data with an AI assistant, which is close to MedVault's AI explanation of sensitive health records with privacy rules.",
+   "fit": 4,
+   "region": "us",
+   "people": [],
+   "contact_email": "onur@joinspine.ai",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "64334d114b",
+   "relevant": false,
+   "summary": "Defence and simulation software company whose cloud-agnostic distributed platform supports AI-driven mission planning, training and decision support for defence and government customers.",
+   "stack": ["Rust", "Linux"],
+   "hook": "The posting says the Rust role sits in a squad building a distributed cloud platform, and the site says Hadean was picked for NATO's DIANA Decision Superiority challenge on 14 Jul 2026.",
+   "angle": "canopy",
+   "angle_reason": "Hadean builds a distributed cloud platform, and Canopy's cross-file call-graph resolution and cached PostgreSQL pipeline are the nearest systems work, though the role is Rust and asks for 3+ years.",
+   "fit": 2,
+   "region": "europe",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "14263e0960",
+   "relevant": false,
+   "summary": "Posting is for a Founder Associate intern at an AI and spectroscopy company that aims to eliminate chick culling through in-ovo sex detection. The linked website belongs to a Dutch blinds and shutters retailer.",
+   "stack": [],
+   "hook": "The posting says their in-ovo sex-detection systems are already in use and are being scaled across an international customer base, but the website text is for a blinds company.",
+   "angle": "medvault",
+   "angle_reason": "The AI-for-spectroscopy work is closest to MedVault's AI pipeline, but the role is non-engineering and the company identity is unclear.",
+   "fit": 1,
+   "region": "europe",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": ["website is a blinds retailer, unrelated to the posting"]
+  },
+  {
+   "id": "33b727e0b8",
+   "relevant": true,
+   "summary": "AI-native incident management and on-call platform covering alerting, scheduling, incident response and post-incident retrospectives, integrated with Slack, Microsoft Teams and Jira.",
+   "stack": ["Slack", "Microsoft Teams", "Google Chat", "Jira", "MCP server"],
+   "hook": "Their site's MCP section says the Rootly MCP server plugs into your IDE so you can work an incident without leaving it, with AI root-cause suggestions alongside.",
+   "angle": "canopy",
+   "angle_reason": "Rootly ships engineer-facing tools (an IDE-connected MCP server, AI root-cause analysis), the same developer-tool space Canopy's code-intelligence work targets.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Quentin Rousseau", "role": "engineer (GitHub committer, 29 commits)"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "33b727e0b8-ref",
+   "relevant": true,
+   "summary": "AI-native incident management and on-call platform covering alerting, scheduling, incident response and post-incident retrospectives, integrated with Slack, Microsoft Teams and Jira.",
+   "stack": ["Slack", "Microsoft Teams", "Google Chat", "Jira", "MCP server"],
+   "hook": "Their site's MCP section says the Rootly MCP server plugs into your IDE so you can work an incident without leaving it, with AI root-cause suggestions alongside.",
+   "angle": "canopy",
+   "angle_reason": "Rootly ships engineer-facing tools (an IDE-connected MCP server, AI root-cause analysis), the same developer-tool space Canopy's code-intelligence work targets.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Spencer Cheng", "role": "engineer (GitHub committer)"}
+   ],
+   "contact_email": "spencerhcheng@gmail.com",
+   "contact_name": "Spencer Cheng",
+   "contact_role": "engineer (GitHub committer, 24 commits)",
+   "red_flags": []
+  },
+  {
+   "id": "4ac99fd812",
+   "relevant": false,
+   "summary": "Developer monitoring and testing platform where teams define browser checks and monitors as code (Playwright, OpenTelemetry, TypeScript, Terraform, Pulumi) and deploy them to 20+ global locations.",
+   "stack": ["TypeScript", "Playwright", "OpenTelemetry", "Terraform", "Pulumi"],
+   "hook": "Their homepage shows a Playwright checkout-flow check deployed with 'npx checkly deploy' to four regions, with the monitor alerting on failure.",
+   "angle": "canopy",
+   "angle_reason": "Checkly is developer tooling for tests and monitoring as code in CI, which matches Canopy's static analysis and CI-oriented work.",
+   "fit": 4,
+   "region": "europe",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "f491c74992",
+   "relevant": true,
+   "summary": "Code search and codebase-intelligence company whose products (Code Search, Deep Search, an MCP server and Agentic Batch Changes) give developers and AI agents cross-repository context for changes.",
+   "stack": ["SCIP", "MCP"],
+   "hook": "Their site's MCP example says a Sourcegraph-backed agent found 31 files referencing a User struct across 7 layers, where a plain agent had missed the auth middleware and admin guard.",
+   "angle": "canopy",
+   "angle_reason": "Sourcegraph gives agents cross-repo code context, the same call-graph and code-intelligence problem Canopy solves with deterministic cross-file resolution.",
+   "fit": 7,
+   "region": "us",
+   "people": [],
+   "contact_email": "stephanie.jarmak@sourcegraph.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "f491c74992-ref",
+   "relevant": true,
+   "summary": "Code search and codebase-intelligence company whose products (Code Search, Deep Search, an MCP server and Agentic Batch Changes) give developers and AI agents cross-repository context for changes.",
+   "stack": ["SCIP", "MCP"],
+   "hook": "Their site's MCP example says a Sourcegraph-backed agent found 31 files referencing a User struct across 7 layers, where a plain agent had missed the auth middleware and admin guard.",
+   "angle": "canopy",
+   "angle_reason": "Sourcegraph gives agents cross-repo code context, the same call-graph and code-intelligence problem Canopy solves with deterministic cross-file resolution.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Enrique Gonzalez", "role": "engineer (GitHub committer)"}
+   ],
+   "contact_email": "enrique@sourcegraph.com",
+   "contact_name": "Enrique Gonzalez",
+   "contact_role": "engineer (GitHub committer, 7 commits)",
+   "red_flags": []
+  }
+ ]
+}

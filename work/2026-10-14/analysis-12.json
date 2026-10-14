@@ -1,0 +1,184 @@
+{
+  "leads": [
+    {
+      "id": "ae220a313a",
+      "relevant": true,
+      "summary": "Subsets is a lifecycle growth platform that uses machine learning to find audiences, run A/B tests and automate retention campaigns for consumer subscription businesses. Its customers include The Atlantic, NBCUniversal and Daily Mail.",
+      "stack": [],
+      "hook": "Your homepage results panel shows the treatment group at 48.6% retention against 36.9% for control, a +11.7% lift.",
+      "angle": "medvault",
+      "angle_reason": "Subsets is an ML product running on subscriber data for enterprise clients, close to MedVault's AI pipeline over sensitive user records with per-user isolation.",
+      "fit": 6,
+      "region": "europe",
+      "people": [
+        {"name": "Martin Johnsen", "role": "Founder"},
+        {"name": "Oliver Brandt", "role": "Founder"},
+        {"name": "Nikolai Skelbo", "role": "Founder"}
+      ],
+      "contact_email": "martin@subsets.com",
+      "contact_name": "Martin Johnsen",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "ae2857d2c1",
+      "relevant": true,
+      "summary": "Aragorn AI builds HR data integrations that move employee data between systems such as Workday, ADP and Carta without IT involvement, with field mapping and health monitoring. It targets HR teams running payroll, benefits and equity data.",
+      "stack": ["Workday", "ADP", "Greenhouse", "Carta"],
+      "hook": "Your Integration Studio demo runs a Workday to ADP sync hourly, with a health view for failed runs and fix-and-replay.",
+      "angle": "medvault",
+      "angle_reason": "Aragorn moves payroll and benefits records between vendor APIs and file drops, the same kind of Django REST backend handling sensitive personal data that MedVault is built on.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Ed Adjei", "role": "Founder"},
+        {"name": "Gladys Adjei", "role": "Founder"}
+      ],
+      "contact_email": "ed@aragorn.ai",
+      "contact_name": "Ed Adjei",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "aed4b77eab",
+      "relevant": true,
+      "summary": "Bookboost is a hospitality engagement platform that unifies hotel guest data and automates personalised messaging across email, SMS and WhatsApp. It serves hotels in more than 20 countries and is hiring a full stack engineer in Munich.",
+      "stack": ["Angular", "TypeScript", "Node.js", "Cloudflare Workers", "AWS", "PostgreSQL", "Terraform"],
+      "hook": "Your CDP page promises one deduplicated profile per guest across 70+ PMS integrations, and your posting says you are moving services to Cloudflare Workers edge runtimes.",
+      "angle": "medvault",
+      "angle_reason": "Bookboost stores per-guest personal data and exposes it through APIs, which matches MedVault's Django REST API with JWT auth and per-user isolation at the queryset level.",
+      "fit": 5,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "af1b4a9490",
+      "relevant": true,
+      "summary": "Star is a browser-based tool where users describe a game in plain language and get a playable, editable game with hosting, multiplayer rooms and leaderboards. It targets people who want to make games without coding.",
+      "stack": ["Claude", "Gemini"],
+      "hook": "Your page says the 41,400+ games made on Star each taught the agent something about game feel, and you added live sliders for gravity and spawn rates.",
+      "angle": "medvault",
+      "angle_reason": "Star turns a natural-language prompt into an editable game through an LLM loop, the same prompt-to-structured-output work MedVault does with Gemini under a fixed schema.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Ryan Endacott", "role": "Founder"}
+      ],
+      "contact_email": "ryan@buildwithstar.com",
+      "contact_name": "Ryan Endacott",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "b13685b37f",
+      "relevant": true,
+      "summary": "Quadrant Health sells AI voice and agent software that answers patient calls, books and reschedules visits, and writes results into EHRs such as Epic and Medent for medical groups and health systems. It is an 8-person team in New York.",
+      "stack": ["Epic", "Medent"],
+      "hook": "Your Medent page says the agents run natively inside the EHR with under two-week onboarding, so every chart write-back is a live integration you maintain.",
+      "angle": "medvault",
+      "angle_reason": "Quadrant runs LLM agents that write into patient charts, the same health-data-plus-LLM problem MedVault handles with a fixed output schema and no-diagnosis safety rules.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Anin Sayana", "role": "Founder"},
+        {"name": "Krishna Gorrepati", "role": "Founder"}
+      ],
+      "contact_email": "anin@quadrant.health",
+      "contact_name": "Anin Sayana",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "bc04b17eb0",
+      "relevant": true,
+      "summary": "Sameday sells an AI phone and workflow system for home-service businesses that answers calls, texts customers, books jobs and updates the CRM and dispatch board. It is a 7-person team based in Utah.",
+      "stack": [],
+      "hook": "Your demo shows the AI rebooking 15 of 17 storm-cancelled jobs into open slots and syncing the dispatch board and CRM in the same run.",
+      "angle": "medvault",
+      "angle_reason": "Sameday's AI writes bookings into a customer's CRM from live calls, the same LLM-to-structured-action pipeline with a fixed schema and safety rules that MedVault implements.",
+      "fit": 5,
+      "region": "us",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "bd3b417802",
+      "relevant": true,
+      "summary": "Agape is a relationship wellness app that sends each couple a personalised daily question and reveals both partners' answers once both have responded. It is aimed at couples and single users, with points toward rewards.",
+      "stack": [],
+      "hook": "Your FAQ says the question sequence comes from a machine learning model that gets better over time, and that answers unlock only after both partners respond.",
+      "angle": "medvault",
+      "angle_reason": "Agape only reveals one partner's answers after both respond, the same per-user visibility rule MedVault enforces at the queryset level for sensitive health records.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Kadie Okwudili", "role": "Founder"},
+        {"name": "Ron Rogge", "role": "Founder"}
+      ],
+      "contact_email": "kadie@getdailyagape.com",
+      "contact_name": "Kadie Okwudili",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "bd66c423dd",
+      "relevant": true,
+      "summary": "Nessie syncs AI chats, agent traces, meetings and email from many tools into a shared, queryable context layer that teams and their agents can use through a CLI, MCP connector and plugins. It is a 3-person team in San Francisco.",
+      "stack": ["MCP", "CLI"],
+      "hook": "Your homepage demo pulls up a Claude Code session and checks it against the current branch, confirming PR #389 merged and deploy 142 is healthy.",
+      "angle": "canopy",
+      "angle_reason": "Nessie reconciles agent sessions against live git and PR state, and Canopy already resolves repos with git ls-remote and a commit-keyed PostgreSQL cache.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "founders@nessielabs.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "bd8c0a4f95",
+      "relevant": true,
+      "summary": "Axross provides AI-driven HVAC control for industrial facilities, using BMS data, IoT sensors and machine learning to cut HVAC energy use. It is a 10-person company with listings in Singapore and Jakarta.",
+      "stack": ["BMS integration", "IoT sensors", "machine learning"],
+      "hook": "Your architecture page splits the product into Sensor and IoT, Equipment, Control and Decision layers, with a BMS feed into a forecasting engine.",
+      "angle": "medvault",
+      "angle_reason": "Axross turns raw building sensor data into a predictive model, and MedVault is the candidate's closest work on an ML layer sitting over a Django data pipeline.",
+      "fit": 4,
+      "region": "asia",
+      "people": [
+        {"name": "David Chew", "role": "Founder"}
+      ],
+      "contact_email": "david@axross.co",
+      "contact_name": "David Chew",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "c11dae684b",
+      "relevant": true,
+      "summary": "Malama provides doula-led pregnancy and postpartum care management for Medicaid and insured mothers, with an app and an Epic-integrated HIPAA dashboard for clinical escalation. The posting is for a support engineer on its AI and operations side in San Francisco, open to new grads.",
+      "stack": ["Epic"],
+      "hook": "Your Forbes-cited dashboard escalates clinical signals in real time through an Epic integration, and this posting is for a support engineer on the AI and operations side.",
+      "angle": "medvault",
+      "angle_reason": "Malama runs AI-assisted operations on pregnancy health data, the setting MedVault is built for, including its no-diagnosis rules and per-user data isolation.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Mika Eddy", "role": "Founder"},
+        {"name": "Orlando Li", "role": "Founder"}
+      ],
+      "contact_email": "hello@heymalama.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

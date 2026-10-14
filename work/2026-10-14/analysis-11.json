@@ -1,0 +1,251 @@
+{
+  "leads": [
+    {
+      "id": "9667be790b",
+      "relevant": true,
+      "summary": "Orange Slice sells an AI spreadsheet for sales teams where each column is TypeScript that an AI agent writes and runs across rows of leads. Its SDK bundles enrichments for contact data, company data, and web research.",
+      "stack": [
+        "TypeScript"
+      ],
+      "hook": "posting says new grads are ok and the team is 2; the product is an AI that writes TypeScript columns and runs them across thousands of rows",
+      "angle": "medvault",
+      "angle_reason": "Orange Slice is an LLM product that generates code and runs it over data, which is the same kind of prompt-to-structured-output pipeline MedVault runs on Gemini.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {
+          "name": "Vihaar Nandigala",
+          "role": "Founder/CEO"
+        }
+      ],
+      "contact_email": "vihaar@orangeslice.ai",
+      "contact_name": "Vihaar Nandigala",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "9bd280cd76",
+      "relevant": true,
+      "summary": "Dart is a project management platform where teams chat with AI to create tasks and roadmaps, and assign work to AI agents such as Codex, Claude Code and Cursor.",
+      "stack": [],
+      "hook": "their site shows a lead agent that breaks a goal into a plan and hands tasks to specialist agents on one shared board",
+      "angle": "medvault",
+      "angle_reason": "Dart coordinates LLM agents on shared B2B work, the same structured-output prompting pattern MedVault uses for its model calls.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {
+          "name": "Milad Malek",
+          "role": "Founder"
+        },
+        {
+          "name": "Zack Swafford",
+          "role": "Technical Cofounder"
+        }
+      ],
+      "contact_email": "zack@dartai.com",
+      "contact_name": "Zack Swafford",
+      "contact_role": "Technical Cofounder",
+      "red_flags": []
+    },
+    {
+      "id": "9e9eab4eb8",
+      "relevant": true,
+      "summary": "Haven is a digital servicing platform for mortgage lenders and servicers, providing white-labeled borrower engagement, personalized offers and home-finance tools inside existing payment portals.",
+      "stack": [],
+      "hook": "your About page says the platform plugs into a servicer's existing stack and goes live in weeks, not months",
+      "angle": "medvault",
+      "angle_reason": "Haven handles borrower financial data for regulated lenders, which lines up with MedVault's per-user isolation and data-privacy rules on sensitive records.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {
+          "name": "Jonathan Chao",
+          "role": "Chief Executive Officer"
+        },
+        {
+          "name": "Blake Clark",
+          "role": "Chief Operating Officer"
+        },
+        {
+          "name": "Cole Murray",
+          "role": "Chief Technology Officer"
+        },
+        {
+          "name": "Stacy Ng",
+          "role": "Founding Engineer"
+        },
+        {
+          "name": "Aditya Acharya",
+          "role": "Founder"
+        },
+        {
+          "name": "Nipun Kant",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "aditya@havenservicing.com",
+      "contact_name": "Aditya Acharya",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "9f137cdea2",
+      "relevant": true,
+      "summary": "Delfino AI automates the repetitive phone calls that healthcare providers' offices make to insurance payors, such as eligibility checks, prior-authorization status and claim follow-ups.",
+      "stack": [],
+      "hook": "your site says the AI platform navigates IVRs, waits on hold and talks to a live person, then sends the answers back",
+      "angle": "medvault",
+      "angle_reason": "Delfino runs AI on healthcare administrative data, the same health-data LLM pipeline with safety rules that MedVault built.",
+      "fit": 8,
+      "region": "us",
+      "people": [],
+      "contact_email": "founders@delfino.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a2cba8ee9f",
+      "relevant": true,
+      "summary": "Antigen is an AI pentesting platform that runs nightly offensive tests against enterprise attack surfaces, delivers findings with working exploits, and opens fix pull requests for engineers to review.",
+      "stack": [],
+      "hook": "your site says every finding arrives with a working exploit and Antigen opens a PR your engineers review before anything merges",
+      "angle": "canopy",
+      "angle_reason": "Antigen's loop of finding issues in code and opening fix PRs needs code-path reasoning, which is what Canopy's cross-file call-graph resolution does for security tooling.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "founders@antigen.sh",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a41b5c3c52",
+      "relevant": true,
+      "summary": "Hypotenuse AI is an AI platform that enriches, writes and standardizes ecommerce product data and images for large retail brands.",
+      "stack": [],
+      "hook": "your bulk-generate page promises thousands of product descriptions in one click, with each client's brand voice applied",
+      "angle": "medvault",
+      "angle_reason": "Hypotenuse generates structured product content at scale from LLMs, the same kind of schema-bound model output MedVault enforces.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {
+          "name": "Joshua Wong",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "joshua@hypotenuse.ai",
+      "contact_name": "Joshua Wong",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "a587554f9c",
+      "relevant": true,
+      "summary": "Medplum is an open-source, FHIR-native developer platform for building HIPAA-compliant healthcare apps, with a provider app, APIs and workflow automation.",
+      "stack": [
+        "FHIR",
+        "npm"
+      ],
+      "hook": "your homepage says the core is Apache 2.0 open source and a healthcare app starts with npm init medplum",
+      "angle": "medvault",
+      "angle_reason": "Medplum is a healthcare developer platform on FHIR and HIPAA compliance, the same health-tech API and auth space MedVault covers with Django REST.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "careers@medplum.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a587554f9c-ref",
+      "relevant": true,
+      "summary": "Medplum is an open-source, FHIR-native developer platform for building HIPAA-compliant healthcare apps, with a provider app, APIs and workflow automation.",
+      "stack": [
+        "FHIR",
+        "npm"
+      ],
+      "hook": "your homepage says the core is Apache 2.0 open source and a healthcare app starts with npm init medplum",
+      "angle": "medvault",
+      "angle_reason": "Medplum is a healthcare developer platform on FHIR and HIPAA compliance, the same health-tech API and auth space MedVault covers with Django REST.",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {
+          "name": "Noah Silas",
+          "role": "Engineer"
+        },
+        {
+          "name": "Matt Willer",
+          "role": "Engineer"
+        },
+        {
+          "name": "Derrick Farris",
+          "role": "Engineer"
+        },
+        {
+          "name": "Philip Knott",
+          "role": "Engineer"
+        },
+        {
+          "name": "Oleg Rocklin",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "noah@medplum.com",
+      "contact_name": "Noah Silas",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "a7078bc14f",
+      "relevant": true,
+      "summary": "Feather builds AI agents for lenders that handle borrower conversations, document collection, servicing and collections across the loan lifecycle.",
+      "stack": [],
+      "hook": "your Processing Agent page says it collects missing borrower documents like pay stubs and keeps loan files moving",
+      "angle": "medvault",
+      "angle_reason": "Feather is an LLM agent product handling borrower data in fintech, which matches MedVault's LLM pipeline and per-user data isolation.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {
+          "name": "Aahan Sawhney",
+          "role": "Founder"
+        },
+        {
+          "name": "Saurabh Jain",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "aahan@featherhq.com",
+      "contact_name": "Aahan Sawhney",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "aa5fd2d825",
+      "relevant": true,
+      "summary": "Berry sells an AI customer-success agent for SaaS companies that handles onboarding, support, and renewal and expansion work across email, voice and chat.",
+      "stack": [],
+      "hook": "your Berry Workflow page says the agents go beyond Q&A and perform tasks for customers, not just answer questions",
+      "angle": "medvault",
+      "angle_reason": "Berry runs LLM agents that take actions for customers, the same LLM pipeline with a fixed output schema and mockable client that MedVault uses.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {
+          "name": "Ann Chan",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "ann@berryai.com",
+      "contact_name": "Ann Chan",
+      "contact_role": "Founder",
+      "red_flags": []
+    }
+  ]
+}
