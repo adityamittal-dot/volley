@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-14T10:04:19Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-14T13:59:27Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 218 · **Sent:** 218 · **Replies:** 24 (11%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 230 · **Sent:** 230 · **Replies:** 25 (11%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,11 +10,10 @@ _Updated 2026-10-14T10:04:19Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 5 |
 | no_contact | 846 |
 | low_fit | 570 |
-| queued | 12 |
-| sent | 41 |
+| sent | 52 |
 | followup_1 | 72 |
 | followup_2 | 57 |
-| replied | 24 |
+| replied | 25 |
 | bounced | 12 |
 | closed | 12 |
 
@@ -22,15 +21,15 @@ _Updated 2026-10-14T10:04:19Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 118 | 11 |
-| canopy | 61 | 9 |
+| medvault | 123 | 11 |
+| canopy | 68 | 10 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 177 | 20 |
+| role | 189 | 21 |
 | short | 41 | 4 |
 
 ## Replies
@@ -51,6 +50,7 @@ _Updated 2026-10-14T10:04:19Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **Frostrek AI** —  <contact@frostrek.com> replied 2026-10-01
 - **Xero** —  <careers@xero.com> replied 2026-09-30
 - **ColoredCow** — Vaibhav Rathore <vaibhav@coloredcow.com> replied 2026-10-01
+- **Hackerrank** —  <internship-queries@hackerrank.com> replied 2026-10-14
 - **HivarSoft** — Hitesh Kumar <dev.hitesh.k@gmail.com> replied 2026-10-05
 - **Pocket** —  <hey@heypocket.com> replied 2026-10-08
 - **GattyWorks** —  <hello@gattyworks.com> replied 2026-10-09
@@ -64,6 +64,18 @@ _Updated 2026-10-14T10:04:19Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-14 | Antigen | founders@antigen.sh | canopy | sent |
+| 2026-10-14 | ParadeDB | ming.ying.nyc@gmail.com | canopy | sent |
+| 2026-10-14 | AthenaHQ | careers@athenahq.ai | medvault | sent |
+| 2026-10-14 | Rootly | spencerhcheng@gmail.com | canopy | sent |
+| 2026-10-14 | Speedy Labs | brandon@speedylabs.ai | medvault | sent |
+| 2026-10-14 | Nessie | founders@nessielabs.com | canopy | sent |
+| 2026-10-14 | Medplum | noah@medplum.com | medvault | sent |
+| 2026-10-14 | Medplum | careers@medplum.com | medvault | sent |
+| 2026-10-14 | Humwork | founders@humwork.ai | canopy | sent |
+| 2026-10-14 | Sourcegraph | enrique@sourcegraph.com | canopy | sent |
+| 2026-10-14 | Sourcegraph | stephanie.jarmak@sourcegraph.com | canopy | sent |
+| 2026-10-14 | Delfino AI | founders@delfino.ai | medvault | sent |
 | 2026-10-14 | The Vibe Company | victor@thevibecompany.co | medvault | sent |
 | 2026-10-14 | The Vibe Company | founders@thevibecompany.co | medvault | sent |
 | 2026-10-14 | Gamezop | anshgujral1997@gmail.com | canopy | sent |
@@ -74,18 +86,6 @@ _Updated 2026-10-14T10:04:19Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-13 | TraceRoot.AI | tanishsvalesha@gmail.com | canopy | sent |
 | 2026-10-13 | Arivihan | career@arivihan.com | medvault | sent |
 | 2026-10-13 | Bloom | apply@bloom.diy | medvault | sent |
-| 2026-10-13 | Hackerrank | internship-queries@hackerrank.com | canopy | sent |
+| 2026-10-13 | Hackerrank | internship-queries@hackerrank.com | canopy | replied |
 | 2026-10-13 | Heads Up For Tails | hireme@headsupfortails.com | medvault | sent |
 | 2026-10-13 | StartxLabs | hr@startxlabs.com | medvault | sent |
-| 2026-10-13 | NFN Labs | ravi@nfnlabs.in | medvault | sent |
-| 2026-10-13 | Signzy | ankur@signzy.com | medvault | sent |
-| 2026-10-13 | SG Apps | sancho@sg-app.com | medvault | sent |
-| 2026-10-13 | eGyanam Technologies | prasad.lagas83@gmail.com | medvault | sent |
-| 2026-10-13 | MXBIT Technology Innovations Pvt Ltd | tomeanand@gmail.com | medvault | sent |
-| 2026-10-13 | MXBIT Technology Innovations Pvt Ltd | jobs@mxbit.co.in | medvault | bounced |
-| 2026-10-13 | Pentafox Technologies Private Limited | shidiq@pentafox.in | medvault | bounced |
-| 2026-10-13 | Mason | ashik9591@gmail.com | medvault | sent |
-| 2026-10-13 | Peoplebox | agarwalarpit22@gmail.com | medvault | sent |
-| 2026-10-13 | DoSelect | gnsubrahmanyam@doselect.com | canopy | sent |
-| 2026-10-13 | Incredible | kartronics85@gmail.com | canopy | sent |
-| 2026-10-13 | Blackcurrant Labs | sanket@blackcurrantapps.com | medvault | sent |
