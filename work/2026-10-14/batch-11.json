@@ -1,0 +1,287 @@
+{
+ "leads": [
+  {
+   "id": "9667be790b",
+   "company": "Orange Slice",
+   "website": "https://orangeslice.ai",
+   "title": "Founding Engineer",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Founding Engineer (San Francisco, CA, US / Remote (US); experience: Any (new grads ok); US citizen/visa only). Team size: 2. Agentic sales enrichment spreadsheet Orange Slice is a spreadsheet where every column is TypeScript—and AI writes it for you. Describe what you want in chat (\"find the CEO's LinkedIn and get their email\"), and we generate the code, create the columns, and run it across thousands of rows. Our fully-typed SDK has 100+ enrichments built in: LinkedIn, contact info, company data, web scraping, AI research. Columns automatically execute in dependency order. No workflow builders—just describe it or code it. B2B, Sales, United States of America, America / Canada",
+   "site_text": "[https://www.orangeslice.ai/]\nOrange Slice | Build go-to-market workflows with AI We raised $5.3M in seed funding → Orange Slice Product Book a Demo Use Cases Pricing Blog GTM library Join our Slack Log in Get started Trusted by 5,000+ sales and RevOps teams Automate any sales task with AI Find customers, enrich them with the best data, and build revenue workflows that actually survive real-world complexity Copy prompt for your AI agent Get started - it's free Find me 50 Series A fintech companies in NYC that just hired a Head of Sales ↵ to start Trusted by Case Study Use Cases What teams build with Orange Slice Start from a ready-made workflow and adapt it to your motion — or describe your own and let the agent build it. Lead Prospecting Build targeted prospect lists from conferences, VC portfolios, funding news, and local business data. Data Enrichment Fill in emails, phone numbers, firmographics, and LinkedIn profiles across your CRM. Job & Hiring Research Track hiring signals, find open roles, and surface companies growing into your ICP. Competitive Intelligence Monitor competitor pricing, launches, and funding news — with alerts when something changes. Social Media Research Find influencers and pull contacts from LinkedIn, X, Instagram, TikTok, and YouTube. E-commerce Research Research products and sellers across Shopify, Etsy, eBay, and Amazon. Track prices and top sellers. Browse all use cases Criteria 1 Criteria 2 Criteria 3 “ SaaS companies with over 200 employees that use Salesforce ” Name SaaS 200+ Emp Salesforce true true true true true true true true true true true true true true true true true true true true true true false true true false false Find Describe your ICP. Get a lead list. Tell us who you’re looking for in plain English. We’ll search the web, check every company against your criteria, and hand you a qualified list. “Find SaaS companies with over 200 employees that use Salesforce” Natural language search Multi-criteria filtering Instant export Learn more 3 agents enriching 247 / 500 Company Revenue “ Look up annual revenue ” CEO “ Who is the CEO? ” CRM “ What CRM do they use? ” Email “ Find the CEO's email ” Stripe $14.3B Patrick Collison Custom patrick@stripe.com Datadog $2.1B Olivier Pomel Salesforce olivier@datadoghq.com Figma ~$600M Dylan Field HubSpot dylan@figma.com Notion $250M Ivan Zhao Attio ivan@makenotion.com Vercel $100M Guillermo Rauch HubSpot guillermo@vercel.com Retool $120M David Hsu Salesforce david@retool.com Ramp $300M Eric Glyman Salesforce eric@ramp.com Linear searching… searching… searching… searching… Enrich Every column is an AI agent. Each column is a natural language prompt to an AI agent that browses the web and pulls live data. Add a column, describe what you need, and a fleet of agents enriches every row in parallel. “Add columns for annual revenue, CEO name, and what CRM they use” Natural language columns Live web research Parallel agents Learn more 3 action columns 4 of 6 leads processed Company Contact CRM Sync “ Push as a lead to Salesforce ” Sequence “ Add to outbound sequence ” Email “ Send personalized intro ” Stripe Patrick C. Synced Enrolled Sent Datadog Olivier P. Synced Enrolled Sent Figma Dylan F. Synced Enrolled Sent Notion Ivan Z. Synced Enrolled Queued Vercel Guillermo R. Synced Queued Queued Ramp Eric G. running… running… running… Action Columns that take action. Columns don’t just pull data — they push it. Sync leads to your CRM, enroll them in outbound sequences, or send personalized emails. Each row fires automatically. “When a lead matches, push to Salesforce, enroll in sequence, and send an intro email” CRM sync Email sequences Automated actions Learn more See it in action From prompt to pipeline in 5 minutes Data providers Integrations Works where you work Use Orange Slice right from Slack @mention Orange Slice in any channel or DM it directly. Run workflows, look up contacts, enrich leads, and approve actions — all without leaving your conversation. ",
+   "email_candidates": [
+    {
+     "email": "vihaar@orangeslice.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Vihaar Nandigala",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "9bd280cd76",
+   "company": "Dart",
+   "website": "https://www.dartai.com",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. The work and agent management platform Dart is a fully-featured project management tool that lets you chat with AI to create tasks, plan roadmaps, generate reports, and handle any other PM work. You can then use customizable agents to complete work across every role. Thousands of teams use Dart in order to chat with their tasks, plan better, and eliminate regular PM chores from their schedule, freeing up seven hours per week to focus on other work. Artificial Intelligence, Generative AI, B2B, Productivity, AI, B2B, Productivity, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.dartai.com/]\nThe Workplace for the Agent Era - Dart Dart launched on Product Hunt today âcheck it out! The workplace for the agent era Create, manage, and orchestrate agents alongside your team. Keep every handoff and result connected to the work. Sign up for free Join over 100,000 teams on Dart Your whole team in one place People and agents, working together Bring your teammates, build custom agents, and connect the agents you already use. Manage them all in Dart, with shared tasks, context, and goals. Your team Teammates, custom agents, and connected agents in one shared workspace Laurel Pike Product lead Sets priorities, assigns tasks to teammates and agents, and follows everyoneâs progress in one place Planning with Jamie Jamie Park Software engineer Builds with Codex, reviews Robâs feedback, and keeps technical decisions connected to the teamâs tasks Building with Codex Codex Coding agent Builds features and fixes bugs from assigned tasks, then shares changes with Jamie and Rob for review Building Jamieâs feature Sam Rivera Product designer Shapes the experience and reviews designs, keeping feedback and decisions alongside the teamâs work Reviewing designs with Laurel Rob Code review agent Reviews code against your teamâs standards, flags issues, and shares findings with Jamie and Sam Reviewing Codexâs changes Sara Customer support agent Drafts customer replies, spots recurring issues, and shares feedback with Laurel to guide priorities Sharing feedback with Laurel Add teammate or agent Agent integrations Bring the agents you already use Connect coding, research, and design agents to Dart, with access to models from the providers your team trusts Codex Assign coding work and review the result from the task Claude Code Delegate implementation work with repository context Cursor Send development tasks to background agents Manus Delegate research, planning, and operational work OpenClaw Connect an OpenClaw agent directly to Dart tasks Grok Delegate research, analysis, and problem-solving from a Dart task Hermes Run multi-step workflows with a learning agent Devin Hand off engineering tasks that Devin can plan, code, test, and debug Plus more models from Gemini Meta Amazon Cohere Thinking Machines Multi-agent orchestration Let agents plan, delegate and deliver together From the first brief to the final result, Dart gives agents one shared plan and the authority to carry work through to completion. A lead agent breaks down the goal and coordinates specialists along the way. People step in when their context or judgment helps. Lead agents Turn the goal into a plan, coordinate specialists, and keep execution moving Specialist agents Research, build, design, and analyze in parallel or in sequence Your team Set direction, follow progress, and step in when context or judgment adds value Research Plan Design Build Review Ship G Push notifications Search Workflow AI chat Summarize notification needs research Sara In progress Scope push notifications planning Laurel To-do Design notification settings design Sam To-do Build push notifications build Codex To-do Review notification delivery review Rob To-do Ship push notifications release Jamie To-do Summarize notification needs Properties In progress Sara Customer support agent Description Review customer feedback about missed mentions and task assignments. Summarize which updates need push notifications and share the findings with Laurel. Relationships Blocks Scope push notifications Put your first agent to work Connect an agent you already use, give it a task, and watch the result land on the plan Sign up for free Free plan Â· No credit card required Use cases Put agents to work across your company Give agents a goal and the context they need. They can run the work from start to finish, or bring people in when it helps. Product & engineering Marketing Sales Customer success Design People & HR Operations Product & engineering Marketing Sales Customer succes",
+   "email_candidates": [
+    {
+     "email": "milad@dartai.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Milad Malek",
+     "role": "Founder"
+    },
+    {
+     "email": "zack@dartai.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Zack Swafford",
+     "role": "Technical Cofounder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "9e9eab4eb8",
+   "company": "Haven",
+   "website": "http://www.havenservicing.com",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "New York City, NY, USA; New York, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. Homeownership reimagined for the 21st century. Haven is re-imagining the $11 trillion U.S. mortgage industry, with a focus on engaging the 53 million homeowners with a mortgage. The incumbent technologies used by mortgage lenders and servicers are decades old, and the borrowers who are served by them increasingly demand modern digital experiences and frictionless financial products throughout the home journey. Haven’s mission is to deliver them at a transformational scale, and to improve lives in one of the world’s largest asset classes. The company is well capitalized and backed by top fintech and mortgage venture funds and led by seasoned veterans of tech startups and financial marketplaces. Fintech, Proptech, Fintech, Credit and Lending, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://havenservicing.com/]\nEngage & retain more homeowners – Haven How it Works Use Cases Company Get a Demo Meet Haven Get the most out of MSR Drive meaningful engagement via servicing — helping you understand, educate, and convert borrowers for mortgage & beyond. Get a demo 1.4M+ homeowners 11% high-intent leads generated 11+ offer types The most effective way to retain homeowners Predict prepayment and deliver personalized offers that convert by making the tough decisions of homeownership simple and intuitive. For Servicers Improve yields on your MSR with technology that enables your recapture and cross-sell strategy. Servicers For Subservicers Win more servicing deals by offering your clients best-in-class recapture functionality. Subservicers For Lenders Ensure your LOs focus to recapture the highest-intent leads from your portfolio. Lenders Generate value with your borrowers through an all-in-one hub for home finances Understand borrower intent Anticipate your borrowers’ future plans ahead of anyone else with modules that help borrowers build a plan for their homes and their futures. Educate homeowners to drive engagement Empower your customers to make sense of their home finances, drawing them in outside of just making payments. Present personalized offers Turn payment portals into a digital marketing channel that presents personalized offers in the right place at the right time. Fully white-labeled Advance your strategy, brand, and look and feel. Have multiple brands? We support that too. We’re on a mission to make life simpler for homeowners Who we are Haven was founded on the premise that homeownership shouldn’t be complicated or stressful. Meet our team. Hear from our customers We work with mortgage companies, helping them connect with their customers more deeply than ever before. See our latest insights We’re busy creating content to help you implement our technology with clarity — and to good effect. Integration Haven integrates into your existing servicing experience Whether you service in-house or use a subservicer, launch deeper engagement with your borrowers in weeks (not months) with a platform that integrates into your existing servicing stack. See how it works\n\n[https://havenservicing.com/about/]\nLearn more about team Haven – Haven How it Works Use Cases Company Get a Demo Our mission Since our founding in 2020, we’ve made it our mission to eliminate complexity from homeownership. Why? Because we believe owning a home should make people proud, not stressed Our Story Cutting the key for better home financing There are tools out there to help homeowners get a mortgage, but after move-in, it's a complete black box. Escrow? Refis? Insurance? It can all get a little overwhelming — especially considering the home is most people's biggest financial asset. This is something we experienced ourselves as first-time buyers, inspiring us to create Haven. By connecting homeowners and mortgage companies via a modern, easy-to-use digital platform, Haven makes home financing simple and intuitive. Join team Haven 800,000+ homeowners 11% high-intent leads generated 11 offer types Meet the team unlocking new possibilities for homeowners Jonathan Chao Chief Executive Officer Blake Clark Chief Operating Officer Cole Murray Chief Technology Officer Stacy Ng Founding Engineer Daniel Kalick Director of Product Jennifer Micieli Director of Innovation Chris Hill Senior Product Designer Join team Haven We value partnership, creativity, and growth for each other and the people we serve. Join a fast-growing startup and find your place. Remote & office options Meaningful equity WFH stipend Team events & offsites Join team Haven We’re backed by leading investors\n\n[https://havenservicing.com/careers/]\nJoin a startup with big ambitions – Haven How it Works Use Cases Company Get a Demo We're Haven Join our team and help us unlock a new kind of homeownership — one that’s smarter, fairer, and all around better, for everyone involved See ope",
+   "email_candidates": [
+    {
+     "email": "aditya@havenservicing.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Aditya Acharya",
+     "role": "Founder"
+    },
+    {
+     "email": "nipun@havenservicing.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Nipun Kant",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "9f137cdea2",
+   "company": "Delfino AI",
+   "website": "https://www.delfino.ai/",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. Generative AI for administrative automation in healthcare Delfino AI helps automate the repetitive phone calls that providers' offices make to payors Generative AI, Machine Learning, Health Tech, AI, Healthcare, Healthcare IT, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.delfino.ai/]\nHome | delfino.ai top of page Delfino AI Book a Meeting Delfino AI helps automate repetitive phone calls to payors and providers ​ Watch a Demo Example Call Types that you can request: Eligibility and benefit verification Prior authorization : requirement checks, status checks Claim : status inquiry, follow-up Our AI-powered platform can navigate IVRs, wait on hold and have a conversation with a live person Just make your call request and let us take over Learn More Benefits Save time Redirect your resources to higher value add tasks Maintain knowledge Help prevent loss of knowledge as team members change Create flexibility Scale support as needed Watch a Demo How it works Make your call request Send requests with the patient information and questions you want answered by the payor (e.g., Is the provider in network?, What is the copay?) We will place the call Our AI-powered platform will call the payor to ask the requested questions We will share the answers Answers to your requested questions will be shared back with you Book a Meeting Watch a Demo Team Our leadership team has graduated from: HIPAA Compliance We use Vanta to help monitor and maintain compliance. bottom of page\n\n[https://www.delfino.ai/contact]\nContact Us | delfino.ai top of page Delfino AI Book a Meeting Contact Us San Francisco, CA 94105 founders@delfino.ai bottom of page",
+   "email_candidates": [
+    {
+     "email": "founders@delfino.ai",
+     "where": "https://www.delfino.ai/contact",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a2cba8ee9f",
+   "company": "Antigen",
+   "website": "https://antigen.sh/",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Continuous offensive security for the enterprise. Antigen is an AI adversary for the enterprise. It maps, exploits, and secures your attack surface through nightly automated offensive testing and monthly human red team assessments. Every finding is delivered with traces, reproduction steps, and remediation directly in GitHub, Linear, or the Antigen Platform. We work with companies in financial services, healthcare, retail, and government where security is trust. We're backed by Lightspeed, DST Global, and Susa Ventures. Artificial Intelligence, Cybersecurity, B2B, Engineering, Product and Design, United States of America, America / Canada",
+   "site_text": "[https://antigen.sh/]\nAntigen — AI-powered continuous pentesting Antigen Sign in Get a demo Sign in Get a demo Antigen is the AI adversary that maps, exploits, and secures your entire attack surface. Get a demo Documentation Acme Corp Security Vulnerabilities Reports Remediations Environment Asset Map Integrations Your expert Message your expert Book Office Hours Settings Account Organization Team Targets Notifications Billing Vulnerabilities Search Antigen... ⌘ K Board List Filter Open 2 Exploit reproduced by Antigen ANT-004 High severity Unsigned webhook endpoint accepts forged integration events Triaging… ANT-018 High severity GraphQL introspection exposes internal service schema Triaging… In Progress 2 Fix opened for your review ANT-021 Critical severity CI workflow exposes organization token Ready for review ANT-005 High severity Over-scoped automation tokens in CI environment Remediating… Remediated 1 Merged, re-running original exploit ANT-014 High severity Cross-tenant report access via workspace header mismatch Verified 2 Original exploit no longer works ANT-006 High severity Billing route isolation across tenant boundary Verified ANT-011 Medium severity Workspace removal leaves active sessions valid Verified Accepted Risk 0 Deliberately deferred Trusted by teams at Anyone can hack now. AI can now find and exploit vulnerabilities on its own. Meet tCell, our offensive agent. It runs the same attacks on your infrastructure, first. Chains exploits into working attacks tCell links weaknesses the way an attacker would. One small gap opens the path to the next, until it reaches something that matters. Scanners see the pieces; tCell finds the route. Probes your systems like an attacker tCell signs into accounts, moves between them, and maps your full attack surface. It hunts for cross-tenant leaks, broken isolation, and misconfigured access. It tests like someone with intent would and not like a checklist. Finds what point-in-time audits miss tCell routinely finds vulnerability missed by years of point-in-time audits. Your engineering team ships new changes daily; tCell keeps up where ordinary pentests don't. Security at the speed you ship. Point-in-time testing and continuous testing Point-in-time pentesting Vulnerabilities frozen at audit time. Weeks of setup before testing begins. You receive a PDF report 2 weeks later Patching is your team's problem Fixes are tested again 6-12 months later Continuous pentesting Probes your systems like an attacker Easy setup and onboarding Findings show up on the board in real time, as they're found. Antigen opens PRs, your engineers review and merge. Every fix is immediately retested end-to-end. Find, fix, verify The lifecycle of a vulnerability 01. Discover vulnerabilities Every finding comes with a working exploit Antigen probes your live attack surface the way an attacker would, chaining weaknesses traditional security scanners report in isolation into paths that actually reach sensitive data. Every finding arrives with a reproducible exploit attached, so instead of a backlog of hypothetical CVEs, you start with confirmed, exploitable routes. 02. Remediation and review Antigen makes your team faster Antigen writes the fix, opens a pull request with the patch, and updates your project management tool. But nothing merges on its own: the PR routes to your engineers, who review and approve before anything reaches production. Integrates with 03. Verification by pentest tCell reattempts the exploit to verify the fix In security, fixing a vulnerability often surfaces a deeper, underlying problem. Antigen runs in a loop, so after deploying the fix, tCell reattempts the exploit. If new issues are surfaced, it reopens the vulnerability with detailed logs, and writes a new patch using what it learned. Experts in the loop Each customer gets a dedicated security expert. In the platform with you A researcher works inside Antigen alongside your team. Unsigned webhook endpoint ... Hi Tyler, how can ",
+   "email_candidates": [
+    {
+     "email": "founders@antigen.sh",
+     "where": "https://antigen.sh/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a41b5c3c52",
+   "company": "Hypotenuse AI",
+   "website": "https://hypotenuse.ai/",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. AI-native Operating System for Enterprise Ecommerce Companies Hypotenuse AI is an AI-native platform for managing, creating and optimizing your ecommerce product data and content. Fortune 500 ecommerce brands use us to enrich their product data, edit images, and create high-quality product copy at scale to make their teams 10x faster. Generative AI, Machine Learning, E-commerce, AI, B2B, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.hypotenuse.ai/]\nAI-first PXM Platform for Ecommerce | Hypotenuse AI Login Book Demo Double click into the component to add or edit the content inside. The displayed links are best to edit here as it is shared with the mobile and desktop function. The system of intelligence behind ecommerce product information An AI-first PIM for ecommerce. Runs product data enrichment across your catalog, writes on-brand descriptions and perfects catalog images for SEO and GEO. Book demo Trusted by leading global brands and Fortune 500 ecommerce teams what we do One AI-native platform to manage and optimize your ecommerce products Enhance data accuracy with AI auto-enrichment Fill missing attributes and standardize data without searching and copy-pasting. Generate product descriptions in your brand voice Create thousands of SEO-optimized titles and descriptions in your brand voice, in minutes. Enhance and standardize images to studio quality Increase resolutions. Crop, clean up and apply realistic, high-quality backgrounds with AI. Track performance and optimize content Monitor product performance and keep content optimized for search and AI discovery. Built for enterprises Create on-brand content that scales with peace of mind. Bespoke brand voice Team workflows SOC 2 compliant Granular access control Built for enterprises Create on-brand content that scale with a peace of mind. Bespoke brand voice Custom workflows Data privacy & security Granular access control Enrich product attributes in a centralized repository Learn more Enrich from everywhere Fill missing product attributes using AI to search the web, UPC, and spec sheets Extract attributes from images Automatically pull specs, color, and other product details directly from images Tag and categorize Apply accurate tags and categories that align with Google, Amazon or your custom taxonomy Normalize and standardize Standardize formats and fix errors to ensure clean, reliable product information on every channel Generate and optimize product page content Learn more Bulk generate Generate thousands of unique product descriptions in one click Bespoke brand voice Apply brand guidelines and custom formatting with AI SEO best practices Optimize your product pages for traffic and conversions Localized content Localize and translate content for your global audience Enhance and standardize product images with AI Learn more Standardize images Generate and align backgrounds and shadows for a consistent, studio-quality look Frame products with precision Crop and resize with smart padding based on product shape and layout Enhance details Sharpen details, boost resolution and reduce noise for crisp and clear images Place products in lifestyle scenes Position and adapt products naturally, like shaping clothing on models or angling furniture in a room Track and monitor product performance Learn more Track ranking Monitor product rankings across Google, Amazon, Walmart and more Suggest keywords Boost rankings with our SEO keyword suggestions on a product and category level Check guidelines Use our AI guideline checker to flag inconsistencies against retailer requirements Get your products discovered by AI and search engines Visibility today goes beyond traditional SEO. Hypotenuse AI enriches your catalog with accurate product data and context-aware descriptions that highlight use cases and benefits — helping your products surface wherever customers search. Appear where buying decisions start: Integrate with your preferred commerce platforms Request demo Don’t waste time copying and pasting. Integrate directly with your commerce systems, partner marketplaces and any custom platforms — with no coding involved. “A lot of tools promise to boost productivity, but Hypotenuse AI has literally tripled our team's output, and with better quality! We were onboarding hundreds of products a week with little to no usable information, and filling in the gaps manually just wasn’t sustainable. Hypotenuse took",
+   "email_candidates": [
+    {
+     "email": "joshua@hypotenuse.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Joshua Wong",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a587554f9c",
+   "company": "Medplum",
+   "website": "https://www.medplum.com",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. API first electronic health record (EHR) that is open source Medplum makes it easy to build healthcare webapps that are compliant and interoperability ready. Our open source toolkit allows healthcare providers write apps that are HIPAA compliant, SOC2 certified and FHIR native - streamlining payor connections, health system integrations and more. Developer Tools, Open Source, Healthcare, Healthcare, Healthcare IT, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.medplum.com/]\nMedplum Skip to main content Build and run modern healthcare apps Medplum is the open source developer platform for shipping clinical software. Start with our production-ready apps, then customize them to fit your needs. Explore the Provider App Build on the Platform Start from CLI or GitHub npm init medplum git clone https://github.com/medplum/medplum.git View Our Docs Learn the fundamentals of building with Medplum Trusted by Healthcare Leaders & Innovators A platform built for healthcare complexity Build what you need—without rebuilding the foundation. Medplum provides the core primitives required to ship and operate healthcare software in production. API-first Integrate with any partner, anywhere, in any way with data share options in a variety of formats. FHIR-native Anticipate nuances and avoid costly re-writes down the line with default FHIR-standard formatted data storage. Automation-ready Streamline your operations and automate any workflow to activate, track, manage, and measure tasks of any level of complexity. Open Source Medplum's core technology is open source (Apache 2.0 license) and freely available in GitHub, so there’s never a risk of vendor lock-in. Secure & Compliant Comes with HIPAA and SOC2 compliance out of the box, follows all OWASP security guidelines, and is verified by multiple penetration tests. Scalable From MVP to IPO—and every major milestone in between—Medplum’s technology backs you up and grows with you. Solutions for all scopes and scales Medplum powers a wide range of applications on a single, standards-based platform—giving your team the flexibility to ship and evolve your end-to-end care model. Custom EHR Build the exact custom EHR your organization needs, tailored precisely to your unique workflows and specifications Gain complete control over your clinical data and operations Learn More Patient Engagement Deepen your connection with patients by creating custom, modern experiences that truly resonate Drive better health outcomes through seamless and engaging interactions Learn More Scribe & Agents Go beyond simple transcription with agentic scribes that take action, not just notes Elevate your AI capabilities to streamline operations and enhance decision-making Learn More Population Health Transform fragmented patient data into powerful insights for coordinated care delivery Our platform empowers population health teams to improve outcomes and maximize shared savings Learn More Care Management Free your care managers to focus on providing truly compassionate and personalized support Streamline administrative tasks so they can dedicate more time to what matters most: patient well-being Learn More Revenue Cycle Management Design and automate custom routing and business rules that perfectly fit your financial operations Optimize your revenue cycle for efficiency and maximum returns Learn More Connect to the healthcare ecosystem Medplum connects to common external systems while letting you build custom integrations when you need them. Labs Orders, results, and workflows that fit real operations. Medications Medication workflows and integrations designed for clinical safety. Billing & RCM Integrate financial workflows without duct-taping your system. Health Exchange Support data exchange patterns used in real-world interoperability. Plugins & Modules Extend Medplum with reusable integration components. Third-party Tools Connect CRMs, scheduling, imaging, and specialty systems. Trusted infrastructure, to meet any future you build Medplum lets your team skip the plumbing and ship what matters, getting you to market faster with a secure, compliant, and scalable foundation. 0 % System Uptime Operational reliability for mission-critical healthcare, backed by our enterprise SLA. 0 B Average API Calls per Month Handling massive scale with consistent performance across the platform. 0 M+ Custom Workflows Powering over 120 million custom workflow actions designed for your requ",
+   "email_candidates": [
+    {
+     "email": "careers@medplum.com",
+     "where": "https://www.medplum.com/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a587554f9c-ref",
+   "company": "Medplum",
+   "website": "https://www.medplum.com",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. API first electronic health record (EHR) that is open source Medplum makes it easy to build healthcare webapps that are compliant and interoperability ready. Our open source toolkit allows healthcare providers write apps that are HIPAA compliant, SOC2 certified and FHIR native - streamlining payor connections, health system integrations and more. Developer Tools, Open Source, Healthcare, Healthcare, Healthcare IT, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.medplum.com/]\nMedplum Skip to main content Build and run modern healthcare apps Medplum is the open source developer platform for shipping clinical software. Start with our production-ready apps, then customize them to fit your needs. Explore the Provider App Build on the Platform Start from CLI or GitHub npm init medplum git clone https://github.com/medplum/medplum.git View Our Docs Learn the fundamentals of building with Medplum Trusted by Healthcare Leaders & Innovators A platform built for healthcare complexity Build what you need—without rebuilding the foundation. Medplum provides the core primitives required to ship and operate healthcare software in production. API-first Integrate with any partner, anywhere, in any way with data share options in a variety of formats. FHIR-native Anticipate nuances and avoid costly re-writes down the line with default FHIR-standard formatted data storage. Automation-ready Streamline your operations and automate any workflow to activate, track, manage, and measure tasks of any level of complexity. Open Source Medplum's core technology is open source (Apache 2.0 license) and freely available in GitHub, so there’s never a risk of vendor lock-in. Secure & Compliant Comes with HIPAA and SOC2 compliance out of the box, follows all OWASP security guidelines, and is verified by multiple penetration tests. Scalable From MVP to IPO—and every major milestone in between—Medplum’s technology backs you up and grows with you. Solutions for all scopes and scales Medplum powers a wide range of applications on a single, standards-based platform—giving your team the flexibility to ship and evolve your end-to-end care model. Custom EHR Build the exact custom EHR your organization needs, tailored precisely to your unique workflows and specifications Gain complete control over your clinical data and operations Learn More Patient Engagement Deepen your connection with patients by creating custom, modern experiences that truly resonate Drive better health outcomes through seamless and engaging interactions Learn More Scribe & Agents Go beyond simple transcription with agentic scribes that take action, not just notes Elevate your AI capabilities to streamline operations and enhance decision-making Learn More Population Health Transform fragmented patient data into powerful insights for coordinated care delivery Our platform empowers population health teams to improve outcomes and maximize shared savings Learn More Care Management Free your care managers to focus on providing truly compassionate and personalized support Streamline administrative tasks so they can dedicate more time to what matters most: patient well-being Learn More Revenue Cycle Management Design and automate custom routing and business rules that perfectly fit your financial operations Optimize your revenue cycle for efficiency and maximum returns Learn More Connect to the healthcare ecosystem Medplum connects to common external systems while letting you build custom integrations when you need them. Labs Orders, results, and workflows that fit real operations. Medications Medication workflows and integrations designed for clinical safety. Billing & RCM Integrate financial workflows without duct-taping your system. Health Exchange Support data exchange patterns used in real-world interoperability. Plugins & Modules Extend Medplum with reusable integration components. Third-party Tools Connect CRMs, scheduling, imaging, and specialty systems. Trusted infrastructure, to meet any future you build Medplum lets your team skip the plumbing and ship what matters, getting you to market faster with a secure, compliant, and scalable foundation. 0 % System Uptime Operational reliability for mission-critical healthcare, backed by our enterprise SLA. 0 B Average API Calls per Month Handling massive scale with consistent performance across the platform. 0 M+ Custom Workflows Powering over 120 million custom workflow actions designed for your requ",
+   "email_candidates": [
+    {
+     "email": "matt@medplum.com",
+     "where": "GitHub commits (medplum)",
+     "kind": "personal",
+     "name": "Matt Willer",
+     "commits": 2
+    },
+    {
+     "email": "noah@medplum.com",
+     "where": "GitHub commits (medplum)",
+     "kind": "personal",
+     "name": "Noah Silas",
+     "commits": 9
+    },
+    {
+     "email": "derrick@medplum.com",
+     "where": "GitHub commits (medplum)",
+     "kind": "personal",
+     "name": "Derrick Farris",
+     "commits": 1
+    },
+    {
+     "email": "filupnot@proton.me",
+     "where": "GitHub commits (medplum)",
+     "kind": "personal",
+     "name": "Philip Knott",
+     "commits": 9
+    },
+    {
+     "email": "oleg@medplum.com",
+     "where": "GitHub commits (medplum)",
+     "kind": "personal",
+     "name": "Oleg Rocklin",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  },
+  {
+   "id": "a7078bc14f",
+   "company": "Feather",
+   "website": "https://featherhq.com",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "Seattle, WA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Voice AI The platform powering human like phone calls at AI speed Artificial Intelligence, SaaS, B2B, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.featherhq.com/]\nTitle: Feather | AI Agents for Enterprise\n\nURL Source: https://www.featherhq.com/\n\nPublished Time: Tue, 13 Oct 2026 21:14:26 GMT\n\nMarkdown Content:\n[![Image 1](https://framerusercontent.com/images/aeKVwEnvvUqi2EuQcTN5W6peiw.png?width=475&height=87)](https://www.featherhq.com/)\n\n[Contact Us](https://www.featherhq.com/contact-us)\n\n[Blog](https://www.featherhq.com/blog)\n\n[Book a Demo](https://cal.com/aahan-sawhney-feather/feather-demo)✕\n\n# **AI agents that move every loan from application to repayment.**\n\nF e a t h e r h a n d l e s b o r r o w e r c o n v e r s a t i o n s a n d l e n d i n g o p e r a t i o n s s o y o u c a n c l o s e m o r e l o a n s,r e s o l v e r e q u e s t s f a s t e r,a n d r e c o v e r m o r e w i t h o u t a d d i n g h e a d c o u n t.\n\n[Learn more](https://www.featherhq.com/contact-us)\n\n[Video 3](https://framerusercontent.com/assets/R55lYL0fTAlnoIaq878aFyoN6I.mp4)\n\nM Maya\n\nWhat can I afford?\n\nLoan assistant\n\nYou're prequalified up to $525K.\n\nPrequalification Checking…Ready\n\n$0 max\n\nBased on verified income and current debts\n\nIncome verified\n\nDTI calculated · 31%\n\nLetter ready to download\n\nJ James\n\nIs anything still missing?\n\nOpen condition Needs pay stub Condition cleared\n\npaystub_latest.pdf\n\nUploading from phone…Pay stub received\n\nLoan assistant\n\nYou're clear for final review.\n\nP Priya\n\nWhat's today's 30-year fixed?\n\n30-year fixed Today\n\nRate\n\n5.500%\n\nEst. monthly\n\n$0\n\nIllustrative quote on a $420K loan. Principal and interest only.\n\n**TODAY**2:30\n\nCall booked · 2:30 PM\n\nLoan officer notified\n\nYour mortgage now\n\nYour escrow payment changed.\n\nWhat changed Annual escrow review\n\nProperty taxes+$42/mo\n\nHomeowners insurance Unchanged\n\nNew payment starts Aug 1\n\nNew monthly payment$2,184\n\nLoan assistant\n\nQuestions answered. No call needed.\n\n**Adopted by renowned, trusted, and leading enterprises**\n\n*   ![Image 2: Brand Image](https://framerusercontent.com/images/irAECG9X1xAOyhNOrNelNiJw8A.svg?width=216&height=161)  \n*   ![Image 3: Brand Image](https://framerusercontent.com/images/htgEQJ4stNHBRyJ4nhcP2MNEG4.svg?width=392&height=161)  \n*   ![Image 4: Brand Image](https://framerusercontent.com/images/c6OqT8sEj2Zl9TGsayV7OG824Ow.svg?width=475&height=158)  \n*   ![Image 5: Brand Image](https://framerusercontent.com/images/htgEQJ4stNHBRyJ4nhcP2MNEG4.svg?width=392&height=161)  \n*   ![Image 6: Brand Image](https://framerusercontent.com/images/SEg3jFCBlxS2kDVAdglg8MDOBI.png?width=2170&height=725)  \n*   ![Image 7: Brand Image](https://framerusercontent.com/images/9bsY6ADY5EbPhsb6vRMSSFZ8b8Y.svg?width=442&height=158)  \n*   ![Image 8: Brand Image](https://framerusercontent.com/images/uuURyalc7JrWFVhqPlMohSoEew.svg?width=553&height=158)  \n*   ![Image 9: Brand Image](https://framerusercontent.com/images/nJpcWAXfeusXmcjoSI6Q0TcLQY8.svg?width=488&height=158)  \n*   ![Image 10: Brand Image](https://framerusercontent.com/images/9eugt9FvqUAJt8EKOEwWDiosOg.svg?width=636&height=158)  \n\n## Four purpose-built agents\n\n### One AI workforce across the lending lifecycle\n\nSlide 1 of 2\n\n![Image 11](https://framerusercontent.com/images/xp9A3Lnc6hGYcd4AGxPabVss.png?width=1254&height=1254)\n\n### Origination Agent\n\nEngages and qualifies leads, then connects them with the right loan officer.\n\n![Image 12](https://framerusercontent.com/images/bm7F8H1ScvQse5D6HzMCuNph0.png?width=1254&height=1254)\n\n### Servicing Agent\n\nHandles account requests, completes approved actions, and escalates exceptions.\n\n![Image 13](https://framerusercontent.com/images/BNZP5AGiHKynE4InzW6ZZp9lU.png?width=1254&height=1254)\n\n### Collections Agent\n\nEngages past-due borrowers, tracks commitments, and routes sensitive cases.\n\n![Image 14](https://framerusercontent.com/images/Mi1agmD0qqOsuIYh8M4TtgqIZU.png?width=1254&height=1254)\n\n### Processing Agent\n\nCollects missing documents, flags issues, and keeps loan files moving.\n\n## One borrower. Too many handoffs.\n\nMost lending operations still lose time between the steps.\n\nBefore Feather\n\nBefore F",
+   "email_candidates": [
+    {
+     "email": "aahan@featherhq.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Aahan Sawhney",
+     "role": "Founder"
+    },
+    {
+     "email": "saurabh@featherhq.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Saurabh Jain",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "aa5fd2d825",
+   "company": "Berry",
+   "website": "https://berryai.com/",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Scale customer success and onboarding with AI Berry offers an AI CSM that scales customer success for SaaS companies. Every post-sales organization faces the challenge of scaling customer success without having to hire more. Berry combines the best of the two worlds - taking the white-glove onboarding experience and offering it at scale. Our AI CSM onboards, trains and grows accounts for you non-stop. It’s a 10x hire to your team - at a fraction of the cost. Artificial Intelligence, Generative AI, Customer Success, AI, Conversational AI, B2B, Operations, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://berryai.com/]\nBerry - AI for Renewals & Expansion. Grow NRR for SaaS. Book a demo AI Revenue Agent for SaaS Drive Renewal and Expansion Protect GRR, Grow NRR. Berry drives renewals and expansion across customers your team can't fully cover today. The agents drive adoption, save at-risk accounts, and unlock cross-sells and upsells. Book a demo Learn More Post-sales organizations scale NRR without hiring more Berry runs end-to-end across your install base. The agents drive adoption, intercept churn in real time, save at-risk accounts, and unlock cross-sells and upsells — freeing your reps to focus on top accounts where a human touch matters most. Infinite Knowledge It retains an unlimited memory of your entire product knowledge base and remains constantly updated - retraining only takes seconds, not days or weeks. Human-like Thinking It knows how to guide customers in problem discovery and change management, even when customers struggle to articulate their needs effectively. Instant Strategy Adoption Like a sponge, it absorbs any new strategy and implements it instantly. For example, it can pinpoint specific features to promote, driving adoption and enhancing retention. Technical Expertise It also excels as an engineer, providing support on code-related inquiries and complex logical reasoning. Available 24/7 It never rests and serves as a reliable companion to every customer, offering assistance whenever they require it. Co-pilot for AMs and CSMs Berry's AI CSM acts as a co-pilot to your human CSMs, assisting them in answering customer questions, creating success plans, and streamlining their workflow. Transform the customer journey with Berry AI Imagine a fleet of AI Revenue Agents working every account in your install base, end-to-end across email, voice, and chat. Berry surfaces what needs a human touch and resolves the rest autonomously — so your reps can spend their time on the strategic growth conversations. All Use Case Guided onboarding and Implementation Berry Onboarding Widget accelerates time to value by proactively guiding users to implement and onboard with 1-on-1 personalization Answer support questions Berry Support Chat bot deflects tickets. Unblock users and empower them to self-serve whenever issues arise. Automate workflows Berry Workflow automates high-frequency tasks. Go beyond Q&A and let the AI agents perform tasks for your customers. Training and education Berry LMS educates and trains customers. Provide effective training at scale with AI-instructor hand holding users Internal Co-pilot Berry Co-pilot boosts team productivity. Ramp your success and support team faster and empower them with expert knowledge. Transform the customer journey with Berry AI Revenue Agent Imagine a fleet of AI Revenue Agents working every account in your install base, end-to-end across email, voice, and chat. Berry surfaces what needs a human touch and resolves the rest autonomously — so your reps can spend their time on the strategic growth conversations. Integrations We provide end-to-end integration into your existing GTM tech stack so you can leverage AI to enrich the customer journey while maximizing efficiency. View All Enterprise Ready Berry is enterprise ready, with admin features & AI that meets security and data privacy standards. View All FAQs Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. What is AI Copywriting Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. Is AI Copywriting Free Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae era",
+   "email_candidates": [
+    {
+     "email": "ann@berryai.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ann Chan",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

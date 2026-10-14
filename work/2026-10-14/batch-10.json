@@ -1,0 +1,313 @@
+{
+ "leads": [
+  {
+   "id": "7d093e76de",
+   "company": "Humwork",
+   "website": "https://humwork.ai",
+   "title": "Engineering (YC Spring 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. Human experts as API for AI Agents Humwork lets AI agents chat with human experts in real-time. When AI agents like Claude Code or OpenClaw hit a wall, Humwork's MCP server connects them to a verified domain expert in under 30 seconds. Our experts include senior engineers, lawyers, marketers, designers, and more. B2B, United States of America, America / Canada",
+   "site_text": "[https://humwork.ai/]\nHumwork.ai - Human Expertise for AI Agents Backed By On demand Human Experts for AI Agents. When your AI agent gets stuck, we connect it to a verified human expert in real-time via MCP. Engineers, designers, and more — matched in < 30s. Get Started Join as Expert Agent Chat Expert joined Nolan · Security engineer Live on Humwork Ask anything, @ to mention... Return Claude Opus 4.6 Tokens: 4,231 Supported AI Platforms Claude Code OpenClaw Codex Lovable Cursor Cowork Humans matched with AI agents in under two minutes — 24/7, across every domain. Avg. First Reply <2 min Resolution Rate 83% Verified Experts 3,000+ How It Works One integration. Unlimited human expertise in any domain. Step 01 Agent Gets Stuck Step 02 Expert Matched Step 03 Expert Solves It Step 04 Agent Keeps Going Agent Gets Stuck Your AI agent hits a wall — a bug it can't fix, a design it can't get right, a decision it can't make. It calls Humwork automatically. Expert Matched In under 30 seconds, we match it with the right verified expert — an engineer, a designer, a strategist — whatever the problem needs. Expert Solves It The expert talks directly to your agent — sees the full context, diagnoses the issue, and provides the solution. You don't have to explain anything. Agent Keeps Going The solution is pushed back into your agent's context. It picks up right where it left off — like nothing happened. One platform. Every domain. We connect AI agents to human experts across all knowledge work agnet_work - Terminal 41 async def process_batch (self, items): 42 \"\"\"Process incoming data batch\"\"\" 43 results = [] 44 for item in items: D45 data = await self.fetch(item) 46 parsed = data.response. json ['data'] 47 results.append(parsed) 48 return results Traceback (most recent call last): File \"agent_worker.py\", line 46, in process_batch parsed = data.response.json['data'] [Agent] All retries failed. Requesting human help... Connecting engineer Software Engineering Your coding agent loops on the same bug. A senior engineer diagnoses it in minutes. 130% Net retention Humwork expert Product & Business Strategy Your AI built a go-to-market plan but the positioning doesn't differentiate you from 10 competitors. A product strategist reframes your angle and your first outreach campaign actually converts. website_copy Marketing & Copy Your AI writes ad copy that sounds like every other AI. A brand strategist rewrites the hook in your voice and your click-through rate doubles. Brandlink.ai Jony Ive Design & UX Your AI built the interface but users keep bouncing. A UX expert restructures the flow in 10 minutes. Humwork Your Domain Whatever your AI agent is working on finance, research, operations, HR, compliance Humwork has an expert for it. Verified & Vetted Experts Every expert is technically evaluated before they join. Identity-verified, skills-assessed, domain-tested. No random freelancers only proven professionals who passed the bar. Every Domain, Every Timezone Thousands of experts across engineering, design, marketing, strategy, finance, and more available 24/7 from every corner of the world. Plug & Play Integration One MCP server, API call, or plugin. Works with Claude Code, Cursor, Lovable, OpenClaw, ChatGPT any agent. Set up in 60 seconds. Seamless Context Handoff Full agent context code, documents, errors, everything it already tried shared with the expert instantly. No copy-pasting. No re-explaining. Safe, secure, and PII-redacted. Works with your stack If it speaks MCP, we support it. Plus API and plugin integrations to any of the new agent. AI Coding & Building Claude Code Cursor Codex Claude Cowork Lovable Replit AI Platform & Orchestrators ChatGPT Claude Gemini OpenClaw Any MCP Any API For Builders Equip your agents with human intelligence. Give your AI agents access to thousands of verified experts. Set up in 60 seconds. Get Started For Experts Get paid for your expertise. AI agents are hiring. Set your own schedule. Earn real money helping A",
+   "email_candidates": [
+    {
+     "email": "founders@humwork.ai",
+     "where": "https://humwork.ai/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "7fbecab2f1",
+   "company": "Sirdab",
+   "website": "https://sirdab.co/en",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "Riyadh, Riyadh Province, Saudi Arabia",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Cloud warehousing & supply chain platform in MENA Sirdab is a tech-ops focused startup offering cloud warehousing and transportation / logistics solutions. We have built an end-to-end logistics platform that allows businesses to acquire dry, ambient, chilled and frozen warehousing space within 48 hours as well as manage, optimize and distribute inventory via a single platform. Warehouse Management Tech, B2B, Logistics, B2B, Supply Chain and Logistics, Saudi Arabia, Middle East and North Africa, Remote, Partly Remote",
+   "site_text": "[https://sirdab.co/en/]\nSirdab | B2B logistics a few clicks away Sirdab closes Series A investment round worth SAR 37.5 million Read the announcement Services Software Resources About ع Sign Up ع Sign Up Everything You Need for Logistics Transform your supply chain with a complete system that ensures efficiency in storage, transportation and fulfillment Discover Warehouses Contact Us Overview Warehouses Inbounds Outbounds Transportations SKUs SKU Groups Fulfillment Addresses Suppliers Reports Settings Overview Help English AA Wholesale Fulfillment Add Item Request Total Movements 312 Total Inbounds 1,284 Total Outbounds Pending Orders 3 Inbounds 12 Outbounds Storage Overview 412 Items 2 Total Warehouses Space Utilization Pallets SqM 1200 900 600 300 0 Jan Feb Mar Apr May Jun Total Space Rented 480 Total Pallets 1,250 SqM Current Space Used 437 Pallets 1,090 SqM Inbounds View All #IB-6820606AC05C 6 Jan, 2026 received #IB-BE7E6D5029D7 4 Jan, 2026 quality control Outbounds View All #OB-36BFC2F160EF 10 Jan, 2026 completed #OB-B9D6913A0944 4 Jan, 2026 ready for loading AA Wholesale Fulfillment Total Movements 312 Total Inbounds 1,284 Total Outbounds Current Space Used 437 Pallets 1,090 SqM Inbounds #IB-6820606AC05C received #IB-BE7E6D5029D7 quality control Trusted by our valued partners and customers. Saudi Arabia's #1 Logistics Network Get the warehousing space and logistics services you need, directly from our platform. + 1 Million SqM aggregated + 150 Locations Services Explore our core services that are designed to enhance your experience. Warehousing Transportation Fulfillment More About Our Services At Sirdab We're here to help with storage, transport, and e-commerce fulfillment, getting your orders from our shelves to your customers' doors! Warehousing & Fulfillment We offer storage for dry, ambient, chilled, and frozen goods such as food, medical supplies, cosmetics, and hazardous materials, ensuring compliance, safety, and real-time tracking. How It Works Sirdab Warehouse 3 Riyadh · Ambient 5.0 Capacity 78 % SFDA approved Monthly Transportation Within And Outside Cities Move goods seamlessly with our flexible fleet, built to handle everything from heavy bulk shipments to small last mile parcels. How It Works From Riyadh To Makkah ETA 2h 04m E-commerce Fulfillment Pick, pack, and ship your online orders, synced in real time with your store on Salla, Zid, and Shopify, and delivered to your customers across the Kingdom. How It Works Order #FO-4821 Salla · Mishkat Store Picked Packed Shipped Speak with a Sirdab Expert Today Looking for the best storage and logistics solutions? Connect with a Sirdab expert today and discover how our extensive network can streamline your operations. Get Started Contact Us Join the Sirdab Network Customers Experience Explore customer experiences across sectors and see how we've met their needs and goals effectively. “ Professional team, great service, and an easy-to-use platform. Way better than others we've worked with. ” Waleed Al Majed for Oud “ Sirdab is organized and reliable. Smooth process from start to finish, with clear communication. Their work is excellent and truly commendable. ” Jaber Alfanar “ Sirdab's team is responsive, with fast, organized service. A professional setup that gives you confidence and peace of mind. ” Saeed Saudi Coffee Company “ Sirdab delivers on time, keeps storage clear, and makes tracking easy. Their professionalism really stands out. ” Rahan Al Hatab Bakery “ We use Sirdab for warehousing. Storage is organized, delivery is same day or next, and the platform makes managing everything simple. ” Naif Nupco “ The team is polite and helpful. Their system is clear and simple, and everything from signup to delivery runs smoothly without any hassle. ” Hani Aromatic Frequently Asked Questions Experiencing technical or service challenges with Sirdab? Check our FAQ for answers. What is Sirdab and what services do you offer? Sirdab is a tech-enabled platform that provides",
+   "email_candidates": [
+    {
+     "email": "naif@sirdab.co",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Naif Alzahri",
+     "role": "Founder"
+    },
+    {
+     "email": "abdulrahman@sirdab.co",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Abdulrahman Alnamlah",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "807f4861a1",
+   "company": "Accord",
+   "website": "https://inaccord.com",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. The Revenue Excellence Platform Accord is the AI-Powered Revenue Excellence Platform that transforms what top sellers do naturally—multi-threading, mutual action plans, and CFO-proof business cases—into unavoidable playbooks for every rep. Accord Intelligence handles the busy work by automating account research, stakeholder mapping, and more so your team can focus on selling. SaaS, B2B, B2B, Sales, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://inaccord.com/]\nThe Revenue Excellence Platform | Accord Live Build: Automating Your GTM Busywork with MCP & AI Agents Register Log In Book a Demo The AI Layer for Revenue Execution Make excellence the only option Accord transforms value-selling methodologies like MEDDPICC into playbooks that make winning behaviors unavoidable. Every rep performs like your best, while AI Agents handle the work that takes your team off the field. Book a Demo Trusted by top revenue teams This is a sales execution tool that the team tells me they can't live without. They would be so upset if we took Accord away from them—which I never hear about tools. Niki Phillips | VP, Enterprise Sales Read Case Study You need to be easy to sell for And even easier to buy from. The legacy way of disparate tools, expensive value-selling consultants, one-off training sessions, inspection documents, and manually filling out (and re-filling out) CRM fields is making your sales process too hard to follow. For your sellers and your buyers. It’s time for a new approach. Get Started with a Demo Set, enforce, execute, and score Turn your methodology into the standard for every rep and AI agent. Set Build playbooks based on what wins Define your standard of excellence by translating value-selling requirements into easy-to-follow playbooks and AI agents — multi-threading, CFO-proof business cases, mutual action plans, and instant delivery of supporting resources. Learn more Enforce Embed excellence into every deal Build discipline around the behaviors that separate top performers from the rest. Sellers and AI agents work inside playbooks that put every next step, resource, and objection talk track directly in their flow of work. Deals only advance once clear criteria tied to real customer engagement are met. Learn more Execute Offload what takes reps off the field Accord Intelligence listens to signals across your GTM stack and turns them into proactive actions and agents that follow your methodology. The high-value work between customer calls happens consistently, at the same standard, across every rep and deal. Learn more Score Objectively evaluate performance All activity (or inactivity) is automatically captured and synced to Salesforce and Hubspot. Your sellers don’t need to waste time on CRM and scorecard updates. Managers get proactive and actionable insights on who's following the process and who needs coaching. Learn more Built for the era of ultra efficiency +$1M SAVINGS ANNUALLY By displacing 2-3 sales tools, CRM overhauls and unadopted enablement programs. +$35k REVENUE PER REP ON AVERAGE By raising the bar and empowering every rep to close like your team’s top sellers. +40% INCREASE IN AVERAGE DEAL SIZE By enforcing pristine, multi-threaded and value-based selling across the whole team. “We displaced People.ai and one other platform. The content management piece, deal-level execution, and ability to surface internal components like approval matrices or quoting instructions at the right time—for every deal—was a game changer.” Bayley Fesler Director, Revenue Operations Ready to set a new standard for your team? Get Started with a Demo Product Playbooks Digital Sales Room Content Management Stakeholder Mapping Intelligence (AI) Agents Performance Management Pricing Security Integrations & API MCP Teams Sales Leadership Frontline Sellers Revenue Operations Revenue Enablement Product Marketing Customer Success Use Cases Deal Execution Mutual Action Plans Account Planning Implementation Expansion Partnered Deals Resources Customers Podcast Events Blog Templates How-tos Knowledge Base Company What is Accord Why Accord About Us Careers Referral Program Contact Us Status Copyright ©2025 Accord. All rights reserved. Privacy Terms\n\n[https://inaccord.com/team/sales-leadership]\nSales Leadership | Accord Live Build: Automating Your GTM Busywork with MCP & AI Agents Register Log In Book a Demo Sales Leadership Grow average deal size by 40% Make the behaviors of yo",
+   "email_candidates": [
+    {
+     "email": "ross@inaccord.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ross Rich",
+     "role": "Founder"
+    },
+    {
+     "email": "ryan@inaccord.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ryan Rich",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "8203f863e1",
+   "company": "Cogram",
+   "website": "https://cogram.com",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. The AI Platform for Architects and Engineers The software architects and engineers rely on is decades old, hard to use, and built for a pre-AI world. Since 2021, Cogram is building the alternative: AI-native tools that leading firms use to deliver projects. B2B, AI, B2B, Productivity, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://cogram.com/]\nCogram — The AI Platform for Architects and Engineers A1 A2 A3 A4 A5 A6 A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11 A12 Project Studio Pricing Security Company Start for free Book a Demo Contact us Sign In B1 B2 B3 B4 B5 B6 AI-native tools for architects and engineers The software architects and engineers rely on is decades old, hard to use, and built for a pre-AI world. Since 2021, Cogram is building the alternative: AI-native tools that leading firms use to deliver projects. Start for free Book a Demo → Agent RFIs & Submittals Meeting Minutes Email Filing Field Reports Learn more about Agent Learn more about Agent “ These tools push us toward repeatability. Our customers should expect consistent, high-quality results every time—whether the project is in North Carolina, California, or anywhere in between. ” Byers Wolf · Energyficient Systems VP, Director of Engineering Case Studies Platform: Cogram Project Run projects with AI, in one integrated platform 01 / 05 01 Agent Ask questions and analyze documents with AI built for architects and engineers. Learn more about Agent 02 Email Management AI email filing and search across all project correspondence. Learn more about Email Management 03 RFIs & Submittals Fast, user-friendly logging and review, integrated with Procore. Learn more about RFIs & Submittals 04 Meeting Minutes Automate minutes in virtual and in-person meetings using your templates. Learn more about Meeting Minutes 05 Field Reports Speak observations, snap photos, and automate field reports in your templates. Learn more about Field Reports Integrations: Procore Deltek Unanet Microsoft Teams Outlook Autodesk Zoom Google Meet Industry-specific AI Fits your tools, your templates, your data requirements Connects to the tools you already use. Outputs into your templates. Deploys where your data policies require. 01 Integrations 02 Templates 03 Controls 04 Hybrid Cloud Integrated with the tools you use Cogram connects to the tools your firm already uses, from project management to communication. Microsoft Teams Outlook Procore Deltek Unanet Autodesk Zoom Google Meet Testimonials “ When it comes to construction and buildings and architecture, there are just so many complexities. Cogram really allows us to focus on the client's perspective and then be able to recall that. ” Jeremy McMartin — Director, Digital Practice KIRKOR Architects and Planners FAQ Common questions Everything you need to know about Cogram. Can't find what you're looking for? Reach out to our team. 01 What is Cogram? Cogram is an AI platform for architects and engineers. Cogram's tools streamline project work, contract admin, RFIs and Submittals, automate email management, meeting minutes, field reports, and more. Founded in 2021, Cogram works with global architects and engineers. 02 Who is Cogram for? Cogram is built for architects, designers, engineers, consultants, and general or specialty contractors. 03 Does Cogram train AI models on customer data? No. 04 Does Cogram integrate with existing tools? Yes. Cogram integrates with Microsoft Teams, Outlook, Zoom, Google Meet, and calendars; document/project-management platforms such as Procore, Autodesk Construction Cloud, and ERP systems including Deltek and Unanet. Custom integrations are supported via Cogram's API. 05 Do you integrate with project management or ERP systems? Yes. Projects in Cogram can be synced from PM or ERP tools, such as Deltek Vantagepoint and Unanet. 06 Can we provide our own templates for field reports or meeting minutes? Yes, Cogram drafts field reports and meeting minutes in your templates, so minimal copy-paste or formatting is required. 07 How does Cogram improve efficiency? By automating repetitive administrative and documentation tasks (filing emails, capturing minutes, tracking action items, creating field reports, and streamlining RFI and Submittal logs), Cogram can save users several hours per week. 08 Is Cogram secure? Cogram is SOC 2 Type II certified and",
+   "email_candidates": [
+    {
+     "email": "hi@cogram.com",
+     "where": "https://cogram.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "alexander@cogram.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Alexander von Boetticher",
+     "role": "Founder"
+    },
+    {
+     "email": "ricardo@cogram.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ricardo Wölker",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "842d5d4864",
+   "company": "Elyos AI",
+   "website": "https://www.elyos.ai/",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. AI Customer Service Agents for trades and field services Elyos AI is a fully autonomous AI Agent, built specifically for trades and field services businesses. Artificial Intelligence, SaaS, B2B, AI Assistant, B2B, Operations, United Kingdom, Europe",
+   "site_text": "[https://elyos.ai/]\nElyos AI | AI Agents for Field Services & Trades The AI Workforce built for trades & field services. Grow your business with AI agents Get started Our Agents Play Play Listen to a call Hundreds are already growing their business with AI Agents. Join us. WHAT WE DO Meet our AI Agents Learn how we grow your business. Out-of-hours AI Agent Never miss a call. Ever. Keep your business running with an automated on-call process Learn More Daytime AI Agent A fully autonomous customer service rep. Learn more Outbound campaigns Grow your business with custom campaigns, speed to lead, sales exec Learn more Operator Ask your business a question, get the answer in seconds, then have Operator go and act on it. Learn more Email Agent Every email answered in under two minutes, and work orders booked while your competitors' inboxes are still unread. Learn more Field Engineer AI Assistant For operators bleeding time to missing job notes - and admins who can't invoice until they've chased the engineer Learn more WHAT OUR CUSTOMERS SAY Success Stories \"It's a software that can grow with the company. As your business scales, it's there to grow with you\" Gordon Mack Operations Director, James Frew Ltd Read the case study \"AI really is the future. We have all six Elyos AI Agents live across our business and are growing quicker than ever.\" Carl Enser CEO, GasCare Group \"It takes time to hire and every time we win a new contract we take on more customers and more work. Our AI Agents give us the benefit of flexibility and scale, especially if you want to grow fast.\" Lincoln Smith Managing Director, Custom Heat \"We have been using the appointment confirmation agent to reduce our no-access rates and it's working well. Our customers have actually taken to AI surprisingly well! We have the Out-of-hours AI Agent supporting emergency calls as well and it saves us dealing with poor performing outsourced providers.\" Tejas Mehta Managing Director, Amax Fire and Security \"We’ve had a great experience with Elyos AI. The team is really impressed by it. We are now booking a lot of new appointments that we would have previously missed.” Guy Holdsworth Hunt Managing Director, H2 Property Services AI, built for trades and field services AI is making already great trades businesses, unstoppable. Automate office tasks and boost engineering output. Grow your business Grow your business Trained AI Sales Executives to help you scale Learn More Scheduling, but powered by AI Jobs automatically booked at the right time, in the right place. Always optimised. Learn more Never miss a call. Your AI Agent is always on. Learn More Customer Insights Boost customer satisfaction Understand your customers better and improve your service with the AI powered Elyos insights Learn more Automate admin Streamlined operations Fully integrated with your job booking platform, no more time wasted on admin Learn More Field engineering expertise AI built specifically for trades and field services. Join our community. Learn more Our Agent performance Elyos AI Agents transform businesses. Experience increased efficiency, more job bookings and improved customer service. > 96% Customer satisfaction After a call with one of our AI Agents. > 80% Leads convert to jobs Turn leads into loyal customers > 30% Reduce cost base Manage your admin overheads with AI Blog Insights for your Business News and insights to grow your business. A note from the Founders We've been heads down building, and today we’re excited to share some news about what we've been up to at Elyos AI. Read more AI is Going to Make Great Trades Businesses, Unstoppable The companies figuring out how to use AI are becoming the local businesses engineers actually want to work for. These businesses will soon become unstoppable. Read more GasCare: Powering Growth with AI \"AI really is the future. We have all Elyos AI Agents live across our business and are growing quicker than ever.\" - Carl, GasCare CEO Read more View all Ge",
+   "email_candidates": [
+    {
+     "email": "adrian@elyos.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Adrian Johnston",
+     "role": "Founder"
+    },
+    {
+     "email": "philippa@elyos.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Philippa Brown",
+     "role": "Founder"
+    },
+    {
+     "email": "panos@elyos.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Panos Stravopodis",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "865eaa8459",
+   "company": "Attack Capital",
+   "website": "https://attack.capital/",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Access the start-up asset class with vetted private companies Access the start-up asset class with a diversified, vetted group of seed-stage companies innovating in AI to climate tech from recent Y Combinator batches. AI, B2B, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://attack.capital/]\nY Combinator Alumni Founded AI Venture Studio | Build & Invest With Attack Capital Partner With Us Y Combinator Alumni Founded AI Venture Studio & Company Builder Build and Invest with Attack Capital Attack Capital is the only Y Combinator alumni founded AI venture studio designed for founders who want to build and invest with speed. We combine a disciplined 30-day build cycle with an accessible AI fund giving investors direct access to YC startups. Build With Us Who We Are Join the leading AI venture partner building the next generation of AI-native SaaS companies. Understanding YC : The World's Most Valuable Startup Ecosystem Y Combinator invests twice a year into early-stage companies through a 3-month program focused on rapid growth and fundraising. YC Demo Day access is restricted to a curated list of investors, making it difficult for most individuals to invest in AI companies or invest in YC companies at the earliest stages. Attack Capitalâs AI fund opens access to YC-backed startups, allowing investors to participate in Y Combinator backed companies through a transparent and accessible structure. < 1% Startups that apply are selected 50% Incubated startups raise a series A 6% Incubated startups become unicorns 12% Of these unicorns become decacorns Venture Studio Build With the #1 YC Alumni Founded Studio As a next-generation venture builder, Attack Capital works directly with founders, operators, and domain experts to create and scale AI SaaS products. As a leading AI venture studio and company builder, we offer hands-on support throughout the entire lifecycle. Idea validation through customer discovery 30-day AI build cycle to launch MVP AI engineering + GTM execution Hiring & fundraising support Build With The Studio Investment Invest in YC Companies Attack Capital operates one of the most accessible YC-focused investment vehicles. Investors gain rare access to Y Combinator backed companies and vetted AI startups. Pre-seed and seed investments in YC companies AI-first portfolio selection Follow-on support & network intros Direct access to YC Demo Day deal flow Pitch Us Why Attack Capital? Attack Capital is built for founders and investors who want velocity, precision, and a credible advantage. Y Combinator Alumni Founded AI Venture Studio Our YC advantage gives unmatched access to talent, network, and proven startup patterns. 30-Day Build Cycle We build AI products in just 30 days, enabling rapid iteration and early traction from concept to MVP. Vertical SaaS Focus Specialize in AI-first products across healthcare, legal, finance, logistics, and compliance. Dual Model: Build + Invest We co-build AI companies and invest directly in YC startups, acting as both builder and VC fund. AI-First Company Building Every venture is engineered with AI workflows and automations from day zero. Backed by the Best Supported by Y Combinator, Slow Ventures, GFC, and Soma Capital. Trusted by Global Leaders. Proven Across the YC Ecosystem. How We Build Our studio model of venture blends AI acceleration with disciplined execution. 1 Validate We validate ideas through rapid user interviews, AI prototypes, and market data to ensure real demand. 2 Build Our engineering and GTM teams deliver a ready-to-test MVP in 30 days, combining AI automation with scalable product foundations. 3 Scale We help founders grow through early sales, AI infrastructure expansion, revenue experiments, and fundraising preparation. Core Focus Areas: We Build Vertical SaaS Our AI venture studio focuses on large, inefficient industries ready for disruption through automation and AI: Healthcare SaaS Legal SaaS Logistics SaaS Sales Infrastructure RCM / Payments Technology Operational AI Agent-Based Workflows AI Infrastructure and Automation Tools Companies Weâve Built & Backed Our portfolio includes vertical SaaS companies across healthcare, finance, and enterprise operations. Explore Portfolio HealOS AI Healthcare Agents Complete AI oper",
+   "email_candidates": [
+    {
+     "email": "gp@attack.capital",
+     "where": "https://attack.capital/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "869986542d",
+   "company": "Blee",
+   "website": "https://www.blee.com",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. Smart, fast, and collaborative compliance reviews Blee easily integrates across the content creation workflow, combining instant feedback and faster approvals with scalable review and recordkeeping. Helping companies maximize revenue by moving faster to market while minimizing risk Fintech, LegalTech, AI, Fintech, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.blee.com/]\nAI-First Marketing Compliance Platform This website uses cookies. See how . Blee raises $27M to end manual marketing compliance. Learn more  AI-First Marketing Compliance Platform From top of mind. To peace of mind. Blee is the AI-first marketing compliance platform that gives you complete control and oversight over all your content.  Detected issue Deceptive Representation or Omission Resolve  Calm simplicity 0 Low Risk level Book a meeting  Detected issue Deceptive Representation or Omission Resolve  Calm simplicity 0 Low Risk level Trusted by industry leaders INTRODUCING BLEE Get all content reviewed, approved, and tracked. All in one platform. From pre-reading content before it’s published, to always-on monitoring of digital channels, Blee makes sure all your content is aligned with the rules and guidelines that matter to you. All rules Regulatory frameworks. Brand guidelines. Custom rules and preferences. Blee applies it. All content 10,000-word blogs. Hour-long videos. Figma mockups. Blee's AI pre-reads it. All channels Social media. Partner sites. Affiliate marketing. Blee covers it. All the time Automatic routing. Always-on monitoring. Contextual AI reviews. Blee’s on it. Built to handle your volume of content. Before publishing. And after.  content reviews Quickly review and approve content before it goes live Blee’s context-aware AI pre-reads all content for you, flagging the issues that marketing can fix before you take a look—and highlighting where you need to focus your attention.  Easy to use dashboard Shows everything that needs your attention, across all channels.  Robust system of record Every draft and decision is logged automatically so you're always audit-ready.  Embedded in marketing tools See compliance feedback where teams actually create so they can understand and fix straightforward issues immediately. Learn more  content monitoring Find and fix content after it’s been published Blee's AI continuously checks your website, product pages, social channels, and partner content, surfacing what's new or changed. Keeping you on top of all content, wherever and whenever it's published.  Shadow content detection Finds published content that bypassed formal review channels entirely.  Continuous scanning Proactively catches what has changed on your website and partner sites after approval.  Social and influencer monitoring Keeps tabs on multiple creators and fast-moving channels for you, 24/7. Learn more Content compliance that everyone can trust Designed for the teams that review content, create content, and keep other teams moving along. Book a meeting   LEGAL, COMPLIANCE AND RISK TEAMS  No more being the bottleneck Move faster with the peace of mind that all content is visible—and has been reviewed and documented properly. marketing teams  No more last-minute surprises See feedback from legal directly in the platforms you use to create content. For faster content approvals, with fewer revisions. OPS TEAMS  No more back-and-forth Blee integrates with the project management tools your teams use to make creating, reviewing, and publishing compliant content a lot easier. Manage your marketing content like the world's most trusted brands   Ekumene Lysonge Chief Legal Officer, NerdWallet \"With Blee as our compliance partner for marketing reviews, we’re able to share new programs fast—and stay true to the standards that matter.\" Annia Prado Marketing Compliance Officer, Marqeta Full story  \"We're partnering with Blee to integrate their AI platform into our workflow, which will empower our teams to move faster and more efficiently, without compromising on the trust and transparency our customers expect.\" Brian Woldow Chief Compliance Officer, Betterment Full story  \"I find myself taking a second look at things that might have previously gone unflagged, thanks to Blee's comprehensive and meticulous approach. It’s like having an extra set of eyes that are always on the looko",
+   "email_candidates": [
+    {
+     "email": "guy@blee.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Guy Shahar",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "894a447fd0",
+   "company": "HOMLI",
+   "website": "https://thehomli.com",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. Sell your home without brokers HOMLI is building the first fully autonomous real estate broker, enabling homeowners to sell without agents. Artificial Intelligence, Real Estate, Consumer, Proptech, AI, Real Estate and Construction, Housing and Real Estate, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://thehomli.com]\nTitle: HOMLI - Real estate prices across Greece\n\nURL Source: https://thehomli.com/\n\nMarkdown Content:\n[![Image 1: logo](https://cdn.thehomli.com/logo/original_transparent_500.png)](https://thehomli.com/en-gr)\n\n*   [Valuation](https://thehomli.com/en-gr/valuation)\n*   [Sell](https://thehomli.com/en-gr/sell)\n*   [Buy](https://thehomli.com/en-gr/buy)\n*   [Rent](https://thehomli.com/en-gr/rent)\n\n![Image 2: Greek\n              flag](https://cdn.thehomli.com/web/flags/greece_100x67.png)\n\n![Image 3: Greek\n              flag](https://cdn.thehomli.com/web/flags/greece_100x67.png) Ελλάδα \n\n[Ελληνικά](https://thehomli.com/el-gr/)[English](https://thehomli.com/en-gr/)\n\n![Image 4: Spanish\n              flag](https://cdn.thehomli.com/web/flags/spain_100x67.png) España \n\n[Español](https://thehomli.com/es-es)[English](https://thehomli.com/en-es)\n\n![Image 5: Portuguese flag](https://cdn.thehomli.com/web/flags/portugal_100x67.png) Portugal \n\n[Português](https://thehomli.com/pt-pt)[English](https://thehomli.com/en-pt)\n\n![Image 6: Italian flag](https://cdn.thehomli.com/web/flags/italy_100x67.png) Italia \n\n[Italiano](https://thehomli.com/it-it)[English](https://thehomli.com/en-it)\n\n![Image 7: Belgian flag](https://cdn.thehomli.com/web/flags/belgium_100x67.png) Belgium \n\n[English](https://thehomli.com/en-be)\n\n![Image 8: Greek\n              flag](https://cdn.thehomli.com/web/flags/greece_100x67.png)\n\n![Image 9: Greek\n              flag](https://cdn.thehomli.com/web/flags/greece_100x67.png) Ελλάδα \n\n[Ελληνικά](https://thehomli.com/el-gr/)[English](https://thehomli.com/en-gr/)\n\n![Image 10: Spanish\n              flag](https://cdn.thehomli.com/web/flags/spain_100x67.png) España \n\n[Español](https://thehomli.com/es-es)[English](https://thehomli.com/en-es)\n\n![Image 11: Portuguese flag](https://cdn.thehomli.com/web/flags/portugal_100x67.png) Portugal \n\n[Português](https://thehomli.com/pt-pt)[English](https://thehomli.com/en-pt)\n\n![Image 12: Italian flag](https://cdn.thehomli.com/web/flags/italy_100x67.png) Italia \n\n[Italiano](https://thehomli.com/it-it)[English](https://thehomli.com/en-it)\n\n![Image 13: Belgian flag](https://cdn.thehomli.com/web/flags/belgium_100x67.png) Belgium \n\n[English](https://thehomli.com/en-be)\n\n![Image 14: logo](https://cdn.thehomli.com/logo/original_transparent_500.png)\n\n*   [Valuation](https://thehomli.com/en-gr/valuation) \n*   [Sell](https://thehomli.com/en-gr/sell) \n*   [Buy](https://thehomli.com/en-gr/buy) \n*   [Rent](https://thehomli.com/en-gr/rent) \n\n[](https://www.facebook.com/thehomli)[](https://www.instagram.com/thehomli/)[](https://www.linkedin.com/company/homli/)\n\nTel: [+30 210 440 2950](tel:+30 210 440 2950)\n\n![Image 15: HOMLI - Real estate agency. Online property valuations](https://cdn.thehomli.com/web/static/home_hero_en_gr.jpg)\n\nHow much is my home worth?\n\n*   Valuation\n*   Sell\n*   Buy\n*   Rent\n\n![Image 16: icon](blob:http://localhost/d2d250330d22222c92b142a95c6793b9)\n\nFind Out\n\n[Explore Options](https://thehomli.com/en-gr/buy)[Browse Newbuilts](https://thehomli.com/en-gr/newbuilts)\n\nJoin **949.114** homeowners, buyers and tenants trusting us\n\n![Image 17: press-source](https://cdn.thehomli.com/web/static/logos/ta_nea-logo.png)\n\n![Image 18: press-source](https://cdn.thehomli.com/web/static/logos/news247-logo.png)\n\n![Image 19: press-source](https://cdn.thehomli.com/web/static/logos/naftemporiki-logo.png)\n\n![Image 20: press-source](https://cdn.thehomli.com/web/static/logos/capital-logo.png)\n\n![Image 21: press-source](https://cdn.thehomli.com/web/static/logos/kathimerini-logo.png)\n\n![Image 22: press-source](https://cdn.thehomli.com/web/static/logos/forbes-logo.png)\n\n# Property prices\n\nPrice per sqm Rent per sqm\n\n### Most expensive neighborhoods in Athens\n\nMost expensive neighborhoods in Athens\n\nPrice per sqm\n\nRent per sqm\n\nBoyliagmeni\nBoyliagmeni\n\n€ 7.186\n\nElliniko\nElliniko\n\n€ 5.973\n\nKolonaki\nKolonaki\n\n€ 5.878\n\nBoyla\nBoyla\n\n€ 5.483\n\nKato Glyfada\nKato Glyfada\n\n€ 5.189\n\nBoyliagmeni\nBoyliagmeni\n\n€ 18",
+   "email_candidates": [
+    {
+     "email": "antonis@thehomli.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Antonis Mitropoulos",
+     "role": "Founder"
+    },
+    {
+     "email": "tim@thehomli.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Tim Ioannidis",
+     "role": "Founder"
+    },
+    {
+     "email": "nikos@thehomli.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Nikos Legbelos",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "8a02c06721",
+   "company": "Interfaze",
+   "website": "https://interfaze.ai",
+   "title": "Engineering (YC Spring 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. AI model built for high accuracy deterministic tasks Interfaze is an AI model built on a new architecture that merges specialized DNN/CNN models with transformers for tasks that require deterministic output and high consistency like Document intelligence, Object detection, Classification, Audio understanding and more. Interfaze outperforms large lab models like Gemini flash, Claude Sonnet and the GPT-5.4 mini series Architecture paper: https://arxiv.org/abs/2602.04101 Full open benchmarks: https://interfaze.ai/leaderboards B2B, Infrastructure, United States of America, America / Canada",
+   "site_text": "[https://interfaze.ai/]\nA model built for deterministic tasks - Interfaze Interfaze models pricing help docs blog sign in Backed by Combinator A model built for deterministic tasks A new model architecture for deterministic tasks achieving the highest accuracy, precision and consistency for tasks like OCR, Audio understanding, Structured Data Extraction and more Build now -> Setup with agents Vision Web Audio Object Classify Compute Interfaze 1 Lite 1.1 Extract all text Drop a PDF or image, or click to browse One file, up to 20MB Try one: ID card Financial document Medical memo Government form Verifying your browser before you can run the demo... Trusted by builders at Works with any AI SDK Official SDKs for TypeScript and Python, and chat completion API compatible so it works with every AI SDK or framework out of the box Interfaze SDK Vercel AI SDK LangChain SDK typescript python typescript typescript python import { Interfaze, responseFormat } from \"interfaze\" ; import { z } from \"zod\" ; const interfaze = new Interfaze ({ apiKey: \"<your-api-key>\" }); const IDSchema = z. object ({ first_name: z. string (). describe ( \"First name on the ID\" ), last_name: z. string (). describe ( \"Last name on the ID\" ), dob: z. string (). describe ( \"Date of birth on the ID\" ), driver_licence_number: z. string (). describe ( \"Driver licence number on the ID\" ), }); const response = await interfaze.chat.completions. create ({ messages: [ { role: \"user\" , content: [ { type: \"text\" , text: \"Extract the details from this ID\" }, { type: \"image_url\" , image_url: { url: \"https://r2public.jigsawstack.com/interfaze/examples/id.jpg\" , }, }, ], }, ], response_format: responseFormat (z. toJSONSchema (IDSchema), \"id_schema\" ), }); console. log ( JSON . parse (response.choices[ 0 ]?.message.content ?? \"{}\" )); Setup with agents Models View models -> Pick by accuracy, context size, or whether you want to self-host. Interfaze 1 Our flagship model for the highest accuracy on deterministic tasks. Input $1.50 / MTok Output $3.50 / MTok Context window 1M tokens Max output 32k tokens Reasoning Available Input Text Images Audio File Video Interfaze 1.1 Lite Open weights Smaller open weight model. Available for self-hosting. Input $0.85 / MTok Output $1.50 / MTok Context window 128k tokens Max output 32k tokens Reasoning Available Input Text Images Audio File Deterministic accuracy Consistent, high-precision results built for repeatable, production tasks. Verifiable outputs Confidence scores and bounding boxes you can build real rules on. Multimodal input Text, images, audio, files, and video handled in a single model. Multilingual by default Understands 100+ languages across every supported modality. Controllable Handles complex instructions for workflow with configurable params. Intelligence Optimal reasoning capabilities for complex understanding tasks. Model Comparison Full breakdown -> Overview OCRBench V2 olmOCR RefCOCO VoxPopuli-Cleaned-AA SOB Value Acc Spider-2.0-Lite GPQA Diamond MMMLU MMMU-Pro Breakdown *Each axis is normalized per benchmark so shapes are comparable. VoxPopuli (audio) is excluded here; see its tab for scores. Verifiable outputs OCR docs -> Data you can verify and build rule based systems on with confidence scores, bounding boxes and more { \"first_name\" : { \"value\" : \"WESTON COLE\" , \"confidence\" : 0.99 , \"bounds\" : { \"top_left\" : { \"x\" : 866 , \"y\" : 701 }, \"bottom_right\" : { \"x\" : 992 , \"y\" : 737 } } }, \"last_name\" : { \"value\" : \"BAILEY\" , \"confidence\" : 1.0 , \"bounds\" : { \"top_left\" : { \"x\" : 861 , \"y\" : 739 }, \"bottom_right\" : { \"x\" : 991 , \"y\" : 774 } } }, \"age\" : { \"value\" : 61 , \"note\" : \"Derived from date of birth 05/01/1965 as of 2026-06-28\" , \"confidence\" : 0.98 , \"bounds\" : { \"top_left\" : { \"x\" : 865 , \"y\" : 1008 }, \"bottom_right\" : { \"x\" : 1063 , \"y\" : 1044 } } }, \"eye_color\" : { \"value\" : \"BLU\" , \"confidence\" : 1.0 , \"bounds\" : { \"top_left\" : { \"x\" : 1030 , \"y\" : 1078 }, \"bottom_right\" : { \"x\" : 1095 , \"y\" : 1111 } } } } Multilin",
+   "email_candidates": [
+    {
+     "email": "yoeven@interfaze.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Yoeven D Khemlani",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "harsha@interfaze.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Harsha Vardhan Khurdula",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "8c31e54465",
+   "company": "Reviving Mind",
+   "website": "https://www.revivingmind.com/",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "San Francisco, CA, USA; Boston, MA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Addressing Loneliness and Isolation for Seniors Navigating chronic illness is an isolating and lonely process which ultimately reduces medical adherence and adversely impacts outcomes. There are over 100 deadly chronic conditions as 1 out of 2 Americans is currently living with at least 1 chronic condition. The US healthcare system has over $1 trillion dollars in direct costs. Medical adherence rates for therapeutic programs and medicine are only 50% because patients feel lonely, isolated, and unsupported in their chronic illness journey. Reviving Mind is an in-network telehealth provider that improves clinical outcomes and program adherence for the senior medicare and medicare-advantage population that is plagued with loneliness and chronic illness. This is done through a novel and proprietary clinical program and technology platform that integrates virtual, private, curated, and professionally led groups that scale up to 8-patients with individualized and goal oriented lifestyle medicine coaching that is automated but managed by a licensed provider. Scaling rapidly across the United States. Consumer Health Services, Digital Health, Healthcare, Telemedicine, Healthcare, Healthcare Services, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.revivingmind.com/]\nReviving Mind: Collaborative Care Management Platform hello@revivingmind.com Login Unlocking Wellness: Together, We Thrive! Reviving Mind: Your Beacon of Integrated Mental Health Solutions At Reviving Mind, we're rewriting the script on mental health care. Through our Collaborative Care Management (CoCM) approach, we're not just treating symptoms; we're transforming lives. With cutting-edge technology and a team of compassionate experts, we're breaking down barriers and building bridges to wellness. Join us on the journey to brighter days and better tomorrows. Book A Free Demo Discover CoCM's Impact Empowering Collaboration for Holistic Wellness Reviving Mind's Innovative Approach to Integrated Mental Health Care The Collaborative Care Management (CoCM) program is designed to seamlessly integrate behavioral health services into primary care settings , ensuring that patients receive comprehensive, coordinated care that addresses both their physical and mental health needs. Book A Free Demo Key Features of CoCM At Reviving Mind, we're committed to providing comprehensive care solutions that address the diverse needs of our patients. In addition to our Collaborative Care Management (CoCM) program, we offer a range of integrated services designed to promote total patient wellness. For Patients For Providers Patient-Centered Care CoCM puts patients at the center of their care journey, empowering them to actively participate in their treatment plans. Multidisciplinary Team The CoCM program brings together a multidisciplinary team of healthcare professionals, including primary care providers, behavioral health care managers, and psychiatric consultants, to provide personalized care tailored to each patient's unique needs. Evidence-Based Interventions We utilize evidence-based interventions, such as cognitive-behavioral therapy and motivational interviewing, to effectively manage and treat mental health conditions. Meet the patient where they are CoCM allows providers to tailor interventions to meet each patient where they are. Whether it's CCM + RPM or CoCM and RTM, the Reviving Mind approach Ensures Individualized Care Paths for maximum patient satisfaction. Streamlined Coordination The Integrated Care Solution ensures seamless coordination of care, simplifying the often complex landscape of healthcare delivery. Experience the ease of managing patients with diverse needs efficiently. Enhanced Team Communication Foster enhanced communication within your healthcare team. The solution encourages collaboration across specialties, leading to well-informed decision-making and improved patient outcomes. Financial Efficiency With our Integrated Care Solution approach, ensure audit-proof, time-based encounters captured down to the second. Experience optimal revenues and a streamlined operational process, aligning seamlessly with your practice goals. Why CoCM? The Collaborative Care Model (CoCM) is a way to provide psychiatric care in the primary care setting. Partnering with Reviving Mind to provide Collaborative Care will add two new members to your primary care team: the Behavioral Health Care Manager and the Psychiatric Consultant , plus a proprietary Registry to track your entire panel of Behavioral Health patients. Enhanced Medication Adherence Increased Patient Satisfaction Symptom Improvement Beyond Collaborative Care: Total Patient Wellness Discover Reviving Mind's Suite of Integrated Health Services At Reviving Mind, we're committed to providing comprehensive care solutions that address the diverse needs of our patients. In addition to our Collaborative Care Management (CoCM) program, we offer a range of integrated services designed to promote total patient wellness. CoCM (Collaborative Care Management) CCM (Chronic Care Management) BHI (Behavioral Health Integration) RPM (Remote Patient Monitoring) RTM (Remote Therapeutic Monitoring) Discover CoCM's Impact Connect, Coordinate, and Care: The Power of ",
+   "email_candidates": [
+    {
+     "email": "hello@revivingmind.com",
+     "where": "https://www.revivingmind.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "rahul@revivingmind.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Rahul Sharma",
+     "role": "Founder"
+    },
+    {
+     "email": "naina@revivingmind.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Naina Limbekar",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

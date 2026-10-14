@@ -1,0 +1,336 @@
+{
+ "leads": [
+  {
+   "id": "587f4e2946",
+   "company": "Vercel",
+   "website": "https://vercel.com",
+   "title": "Software Engineer, Backend",
+   "location": "USA",
+   "source": "jobicy",
+   "posted_at": "2026-10-10T03:30:23Z",
+   "posting": "Level: Any. About Vercel : Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience. Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents. We are building the platform for that future, trusted by companies like OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide . Whether you’re building our products, supporting our customers, growing our community, or shaping our story, you’ll help define what comes next. About the Role: We are seeking a Backend leaning Software Engineer. In this role, you will play a pivotal role in designing, building, and maintaining scalable, high-performance systems. Leveraging JavaScript/TypeScript, Node.js, SQL and NoSQL cloud-native databases, and AWS, you will develop innovative solutions for user, group, and membership management while ensuring the highest levels of security and reliability. If you’re based within a pre-determined commuting distance of one of our offices (SF, NY, London, or Berlin), the role includes in-office anchor days on Monday, Tuesday, and Friday. If you're located beyond that distance, the role is fully remote. For location-specific details, please connect with our recruiting team. What You Will Do: Enable us to deliver secure, reliable, and scalable services that exceed industry standards and customer expectations. Collaborate with cross-functional teams to deliver large-scale projects with cross-team dependencies. Collaborate with peer teams to deliver solutions that meet industry standards and customer expectations. Maintain and operate services at high scale, participating in scheduled on-call rotations to ensure reliability. ",
+   "site_text": "[https://vercel.com/]\nAgentic Infrastructure - Vercel Skip to content Copy Wordmark Copy Logo Download Brand Assets Brand Guidelines Get a Demo Log In Sign Up Ask AI Dashboard Products Agent Stack AI SDK AI Gateway Sandbox Passport Connect eve Core Platform Security Content Delivery Fluid Compute Observability Workflows CI/CD Tools Next.js Vercel Agent Vercel Plugin Open Source Domains ↗ v0 ↗ Resources Learn Docs About Blog Changelog Knowledge Base Build AI Apps Web Apps Marketing Sites Platforms Commerce Explore Customers Marketplace Partner Finder AWS Community ↗ Enterprise Pricing Get a Demo Log In Sign Up Ship 26 is Thursday. Stream online for free Drop to deploy Loading Agentic Infrastructure To ship apps and agents For coding agents For coding agents to ship apps and agents automated by agents. Deploy now Talk to sales Build agents on infrastructure that thinks like them Notion powers millions of agent conversations daily on Vercel. Features Durable Orchestration Sandboxed Environments AI Model Gateway Fluid Compute Ship apps that scale from zero to millions instantly Zapier serves over 100 million monthly website visits on Vercel. Features Global Delivery Deployment Environments Serverless Functions Web Application Firewall Host platforms that serve every customer Mintlify powers documentation for over 20,000 companies on Vercel. Features Tenant Isolation Domain Management Custom SSL Certificates Preview URLs Recently shipped eve is a framework for building durable agents. Vercel Passport Pasaporte Passaporto パスポート Iss 2026 Passport Secure every internal agent, app, and deployment with your identity provider. ▲ vercel deploy Vercel CLI ✓ Building image from Dockerfile.vercel ✓ Stored image in your project's registry ✓ Deployed to Fluid compute Production: https://my-server.vercel.app Containers Run production workloads in isolated containers on Vercel. Built by you, or your agents Deploy now Onboard your agent Paste to your agent Onboard your agent Loading status… Select a display theme: system light dark\n\n[https://vercel.com/about]\nAbout Us Skip to content Copy Wordmark Copy Logo Download Brand Assets Brand Guidelines Get a Demo Log In Sign Up Ask AI Dashboard Products Agent Stack AI SDK AI Gateway Sandbox Passport Connect eve Core Platform Security Content Delivery Fluid Compute Observability Workflows CI/CD Tools Next.js Vercel Agent Vercel Plugin Open Source Domains ↗ v0 ↗ Resources Learn Docs About Blog Changelog Knowledge Base Build AI Apps Web Apps Marketing Sites Platforms Commerce Explore Customers Marketplace Partner Finder AWS Community ↗ Enterprise Pricing Get a Demo Log In Sign Up Vercel frees the world to ship what’s next Vercel is agentic infrastructure for every app and agent. We’re the platform where humans and agents build software together. View open positions For coding agents Agents do their best work on infrastructure that fits how they work To ship agents Shipping an agent should be as simple as shipping a site Automated by agents Infrastructure should improve itself, learning from everything it runs Backed by incredible investors Individual investors Nat Friedman Former CEO of GitHub Jordan Walke Creator of React Naval Ravikant Founder of AngelList Jessie Frazelle Founder & CPO of Oxide Ilya Sukhar Former Partner at YC, Founder of Parse David Cramer Founder and CEO of Sentry Anthony Casalena CEO of Squarespace Soleio Cuervo Early design at Facebook and Dropbox Matias Woloski Founder & CTO of Auth0 Michael Stoppelman Former SVP at Yelp and Google engineer Pete Hunt Former Founder of Smyte and Facebook engineer Brendan Eich CEO of Brave. Co-founded Mozilla & Firefox. Created JavaScript. Sahil Lavingia Founder & CEO of Gumroad Rasmus Anderson Early design at Spotify and Figma. Creator of Inter. Benjamin De Cock Early design at Stripe Alexandr Wang CEO of Scale Karri Saarinen Founder & CEO of Linear. Early design at Airbnb and Coinbase Join us and shape the future of the web View open positions Loadi",
+   "email_candidates": [
+    {
+     "email": "anthony.shew@vercel.com",
+     "where": "GitHub commits (vercel)",
+     "kind": "personal",
+     "name": "Anthony Shew",
+     "commits": 39
+    },
+    {
+     "email": "chadhietala@gmail.com",
+     "where": "GitHub commits (vercel)",
+     "kind": "personal",
+     "name": "Chad Hietala",
+     "commits": 7
+    },
+    {
+     "email": "ruiconti@gmail.com",
+     "where": "GitHub commits (vercel)",
+     "kind": "personal",
+     "name": "Rui",
+     "commits": 6
+    },
+    {
+     "email": "ben.pankow@vercel.com",
+     "where": "GitHub commits (vercel)",
+     "kind": "personal",
+     "name": "Ben Pankow",
+     "commits": 2
+    },
+    {
+     "email": "philipp.comans@vercel.com",
+     "where": "GitHub commits (vercel)",
+     "kind": "personal",
+     "name": "Philipp Comans",
+     "commits": 1
+    },
+    {
+     "email": "benjamin.woodruff@vercel.com",
+     "where": "GitHub commits (vercel)",
+     "kind": "personal",
+     "name": "Benjamin Woodruff ‮",
+     "commits": 1
+    },
+    {
+     "email": "james.miller@vercel.com",
+     "where": "GitHub commits (vercel)",
+     "kind": "personal",
+     "name": "Jimmy Miller",
+     "commits": 1
+    },
+    {
+     "email": "devjiwonchoi@gmail.com",
+     "where": "GitHub commits (vercel)",
+     "kind": "personal",
+     "name": "Jiwon Choi",
+     "commits": 4
+    },
+    {
+     "email": "joseph.chamochumbi@vercel.com",
+     "where": "GitHub commits (vercel)",
+     "kind": "personal",
+     "name": "Joseph",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "594e5dbd64",
+   "company": "ParadeDB",
+   "website": "https://paradedb.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 11. Unify application data, vectors, and full-text search in one Postgres Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Developer Tools, Analytics, Open Source, Infrastructure, Databases, B2B, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.paradedb.com/]\nParadeDB — Just use Postgres Company logo 0 Log in Sign Up ParadeDB Cloud is now available in private preview Just use Postgres. Search belongs with your application data. When queries get too slow, developers usually reach for systems like Elasticsearch. ParadeDB makes text and vector search, filters, facets, and joins fast in Postgres. Get Started Contact Us Or run locally with curl -fsSL https://paradedb.com/install.sh | sh Click to copy Trusted by truly ambitious companies. Read customer stories Performance Ordinary SQL at extraordinary speeds. When vanilla Postgres falls short, ParadeDB delivers speeds that go toe to toe with Elasticsearch. vs Vanilla Postgres vs Elasticsearch Text · P95 latency · lower is better 119 × faster ParadeDB 5.4ms Vanilla Postgres 642.2ms Query: ParadeDB Vanilla Postgres SELECT id, title, by , score FROM hn_items WHERE title || | ' rust arc ' ORDER BY pdb . score (id) DESC LIMIT 10 SELECT id, title, by , score FROM hn_items WHERE title || | ' rust arc ' ORDER BY pdb . score (id) DESC LIMIT 10 ParadeDB 0.25.6 · Postgres 18 . Measured against the 28M row Hacker News dataset with paradedb/benchmarker . What ParadeDB adds to Postgres 03 / 03 Powered by Tantivy, the Rust port of Lucene, for state-of-the-art full-text search performance. Tunable BM25 scoring, the same lexical ranking used by dedicated search engines. Elastic-style search: typo tolerance, highlighting, phrase, fuzzy, proximity, and regex queries. Architecture No Elasticsearch. Zero ETL. ParadeDB pairs Postgres' transactional storage with a unified index combining inverted, vector, and columnar data structures. PostgreSQL Table OLTP Application Data ParadeDB Index Full-Text Vector Aggregates Table OLTP Application Data ParadeDB Index Full-Text Vector Aggregates 01 More than OLTP OLTP databases are built for reliable transactions, but not for search. The ParadeDB index brings search-optimized data structures and query execution paths to Postgres. 02 More than search Search engines and vector stores like Elasticsearch index a separate copy of your data for search. ParadeDB keeps your application data in one place without any schema changes Foundation Fully Postgres native. Built on the world's most-admired open-source database, proven in production at every scale. what you get 06 / 06 0 1 Shipped as an extension Pure Postgres extension, not a fork. Drops into any self-managed Postgres. Or let us run it for you . › CREATE EXTENSION pg_search; 0 2 Built as an index No sidecar process, no external cluster — just a native index on your tables. › CREATE INDEX … USING paradedb; 0 3 Standard SQL Joins, CTEs, window functions, JSONB, PL/pgSQL, row level security (RLS), materialized views. Search is a WHERE clause. › SELECT … WHERE body &&& 'postgres' 0 4 ACID transactions Commits, rollbacks, and foreign keys, all with read after write guarantees. › BEGIN; … COMMIT; 0 5 Postgres replication High availability through physical replication, plus horizontal read scaling with read replicas, available on the Enterprise plan . › pg_basebackup -R … 0 6 The Postgres ecosystem pg_dump, logical replication, pgBackRest, and the tooling your team already trusts — plus pg_partman, pg_cron, PostGIS, and the rest of the extension catalog. › CREATE EXTENSION pg_cron; Case Studies Trusted by enterprises. The most innovative companies use ParadeDB to do more with Postgres. Impact 3x Faster writes after replacing up to 26 B-tree and GIN indexes over one table with a single ParadeDB index. Read the case study “Built on the solid foundation of Postgres, ParadeDB provides the good parts of Elasticsearch we actually need, without the infrastructure and hassle of data synchronization.” MH Matt Higgins Head of Engineering, Modern Treasury Impact 95% Reduction in query timeouts across Bilt's resident search, with P95 query latency down 50%. Read the case study “Using ParadeDB has unlocked the ability to rapidly launch new search capabilities acro",
+   "email_candidates": [
+    {
+     "email": "hello@paradedb.com",
+     "where": "https://www.paradedb.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "594e5dbd64-ref",
+   "company": "ParadeDB",
+   "website": "https://paradedb.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 11. Unify application data, vectors, and full-text search in one Postgres Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Developer Tools, Analytics, Open Source, Infrastructure, Databases, B2B, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.paradedb.com/]\nParadeDB — Just use Postgres Company logo 0 Log in Sign Up ParadeDB Cloud is now available in private preview Just use Postgres. Search belongs with your application data. When queries get too slow, developers usually reach for systems like Elasticsearch. ParadeDB makes text and vector search, filters, facets, and joins fast in Postgres. Get Started Contact Us Or run locally with curl -fsSL https://paradedb.com/install.sh | sh Click to copy Trusted by truly ambitious companies. Read customer stories Performance Ordinary SQL at extraordinary speeds. When vanilla Postgres falls short, ParadeDB delivers speeds that go toe to toe with Elasticsearch. vs Vanilla Postgres vs Elasticsearch Text · P95 latency · lower is better 119 × faster ParadeDB 5.4ms Vanilla Postgres 642.2ms Query: ParadeDB Vanilla Postgres SELECT id, title, by , score FROM hn_items WHERE title || | ' rust arc ' ORDER BY pdb . score (id) DESC LIMIT 10 SELECT id, title, by , score FROM hn_items WHERE title || | ' rust arc ' ORDER BY pdb . score (id) DESC LIMIT 10 ParadeDB 0.25.6 · Postgres 18 . Measured against the 28M row Hacker News dataset with paradedb/benchmarker . What ParadeDB adds to Postgres 03 / 03 Powered by Tantivy, the Rust port of Lucene, for state-of-the-art full-text search performance. Tunable BM25 scoring, the same lexical ranking used by dedicated search engines. Elastic-style search: typo tolerance, highlighting, phrase, fuzzy, proximity, and regex queries. Architecture No Elasticsearch. Zero ETL. ParadeDB pairs Postgres' transactional storage with a unified index combining inverted, vector, and columnar data structures. PostgreSQL Table OLTP Application Data ParadeDB Index Full-Text Vector Aggregates Table OLTP Application Data ParadeDB Index Full-Text Vector Aggregates 01 More than OLTP OLTP databases are built for reliable transactions, but not for search. The ParadeDB index brings search-optimized data structures and query execution paths to Postgres. 02 More than search Search engines and vector stores like Elasticsearch index a separate copy of your data for search. ParadeDB keeps your application data in one place without any schema changes Foundation Fully Postgres native. Built on the world's most-admired open-source database, proven in production at every scale. what you get 06 / 06 0 1 Shipped as an extension Pure Postgres extension, not a fork. Drops into any self-managed Postgres. Or let us run it for you . › CREATE EXTENSION pg_search; 0 2 Built as an index No sidecar process, no external cluster — just a native index on your tables. › CREATE INDEX … USING paradedb; 0 3 Standard SQL Joins, CTEs, window functions, JSONB, PL/pgSQL, row level security (RLS), materialized views. Search is a WHERE clause. › SELECT … WHERE body &&& 'postgres' 0 4 ACID transactions Commits, rollbacks, and foreign keys, all with read after write guarantees. › BEGIN; … COMMIT; 0 5 Postgres replication High availability through physical replication, plus horizontal read scaling with read replicas, available on the Enterprise plan . › pg_basebackup -R … 0 6 The Postgres ecosystem pg_dump, logical replication, pgBackRest, and the tooling your team already trusts — plus pg_partman, pg_cron, PostGIS, and the rest of the extension catalog. › CREATE EXTENSION pg_cron; Case Studies Trusted by enterprises. The most innovative companies use ParadeDB to do more with Postgres. Impact 3x Faster writes after replacing up to 26 B-tree and GIN indexes over one table with a single ParadeDB index. Read the case study “Built on the solid foundation of Postgres, ParadeDB provides the good parts of Elasticsearch we actually need, without the infrastructure and hassle of data synchronization.” MH Matt Higgins Head of Engineering, Modern Treasury Impact 95% Reduction in query timeouts across Bilt's resident search, with P95 query latency down 50%. Read the case study “Using ParadeDB has unlocked the ability to rapidly launch new search capabilities acro",
+   "email_candidates": [
+    {
+     "email": "stuhood@paradedb.com",
+     "where": "GitHub commits (paradedb)",
+     "kind": "personal",
+     "name": "Stu Hood",
+     "commits": 1
+    },
+    {
+     "email": "rjhallsted@gmail.com",
+     "where": "GitHub commits (paradedb)",
+     "kind": "personal",
+     "name": "RJ Barman",
+     "commits": 5
+    },
+    {
+     "email": "ming.ying.nyc@gmail.com",
+     "where": "GitHub commits (paradedb)",
+     "kind": "personal",
+     "name": "Ming",
+     "commits": 22
+    },
+    {
+     "email": "wwoodal@paradedb.com",
+     "where": "GitHub commits (paradedb)",
+     "kind": "personal",
+     "name": "Walter Woodall",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  },
+  {
+   "id": "5bae2820eb",
+   "company": "Speedy Labs",
+   "website": "https://speedylabs.ai/",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "Toronto, ON, Canada; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Maximize profits with AI-powered rebate management. Speedy Labs helps manufacturers and distributors ditch error-prone spreadsheets that cost them millions in missed rebate opportunities for an AI-powered solution that not only tracks rebate payments and their performance but also unlocks insights from their financial data silos that uplifts their bottom-line profit margins. $1 trillion worth of rebates are exchanged every year in North America alone. B2B, Finance and Accounting, Canada, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.speedylabs.ai/]\nRebate Management Software for Foodservice Distributors | Speedy Labs Speedy Labs For Distributors For Buying Groups For Manufacturers Platform Resources Blog Book a walkthrough AI agents for rebate & margin operations Agents that work your rebates line by line. They read the contract, reconcile the buying group statement, investigate a line that paid short, and write true net cost back to your ERP. Every answer opens to the source lines behind it. No rip and replace. Get tailored demo SOC 2 Type II • SSO/SAML • Your data stays yours Backed by Combinator & Ventures Rebate ledger, live See the line detail Line Expected Paid Status Boneless chicken breast · Tyson $8,420 $8,420 Matched Bacon, 18-22 slice · Smithfield $3,960 $2,720 Short -$1,240 Recovered +$1,240 Breaded patties · DOT Foods DOT Foods → Tyson $0 +$5,840 $0 Unmatched Re-attributed Frying oil, clear · Ventura $2,310 $2,310 Matched Illustrative demo data. This is the live view your team gets. UniPro Foodservice selected Speedy Labs to modernize rebate management across its network. Live across UniPro without disrupting members' existing systems. Trusted by distributors, buying groups, and manufacturers who live this problem ~$500K Unlocked at one distributor Roughly 10x ROI, by shifting about 1% of programs from fixed to growth structures. $37K Recovered in one quarter A single buying group tier attainment alert: 3% away from the next tier. 12 weeks From data handoff to live Once your data is handed off, we run in parallel with your current process until your team agrees the numbers match. The black hole starts before the spreadsheet. Statements arrive, money arrives, and no one can prove the two match without days of manual work. Month end, without Speedy Current process The statement arrives Buying group statement, March PDF · 1,204 lines The money arrives ACH deposit, buying group +$48,210.19 · no line detail The spreadsheet takes over One owner, blocked days every month 197 tabs · manual VLOOKUPs The variance What was earned vs. what was paid Unknown The control today: trust them and hope. See it reconciled → \"Money rolls in from the buying group, but there is no good way to track what is actually owed.\" Financial analyst, broadline distributor \"You trust the buying group and hope they are being paid correctly.\" CFO, on a problem their CEO had raised for eight years \"We are 100% relying on the vendor to do the right thing.\" VP of Procurement Find yourself: \"I reconcile the statements\" \"I own the P&L\" \"I close the books\" Real plays from live customers. This is what Speedy surfaces from distributor data every week. The dollars are real outcomes; line items are recreated as demo data. Plays inbox 6 open plays Tier attainment Recovered 3% away from the next rebate tier $37K recovered in one quarter Pricing move Ready for review Chicken breast priced below segment average with no competitive pressure +$18K gross profit Competitive defense At risk 3 competitor quotes under your ground beef price in 60 days Protect 12K lb of monthly volume Void whitespace Ready for review 562 customers buying patties but not buns Cross-sell whitespace, surfaced in seconds Short pay Recovered Statement short pays and missing components, caught line by line $40K recovered per quarter DOT attribution Exportable Brand rebates recovered on redistributor volume The rebates your system cannot even see Tier attainment Recovered 3% away from the next rebate tier $37K recovered in one quarter Why this play Purchases sit just under the next tier threshold Remaining quarter volume closes the gap Rebate rate steps up on every case, retroactively The math Program purchases, quarter to date $412,800 Next tier threshold $425,000 Gap to tier $12,200 (3%) Incremental rebate at next tier +$37,000 Every number in Speedy traces back to source lines you can export. One ledger for money in and money out. Track the supplier rebates you earn and the customer programs you owe in the s",
+   "email_candidates": [
+    {
+     "email": "brandon@speedylabs.ai",
+     "where": "https://www.speedylabs.ai/contact",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "5c3162c84b",
+   "company": "Glass Health",
+   "website": "https://glass.health",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "Unspecified",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. AI-Powered Clinical Decision Support & Ambient Scribing We empower clinicians with our AI platform for developing differential diagnoses and drafting clinical plans. Artificial Intelligence, SaaS, Health Tech, Digital Health, Healthcare, Healthcare, Healthcare IT, Unspecified",
+   "site_text": "[https://glass.health/]\nTitle: Glass | Frontier Clinical Intelligence for Everyone\n\nURL Source: https://glass.health/\n\nMarkdown Content:\n## AI-Powered Ambient Scribing & Clinical Decision Support\n\nNew Glass for Patients is now available.\n\n## Leading clinical artificial intelligence\n\nGlass develops trusted clinical AI grounded in the leading medical evidence, built to democratize clinical intelligence and advance human health worldwide.\n\n## The Glass platform\n\nThe world's best platform for agentic clinical intelligence.\n\n### Frontier clinical intelligence.\n\nGlass analyzes the full clinical context and thousands of data points. The Glass clinical agent performs deep clinical reasoning to deliver state-of-the-art clinical intelligence.Glass deeply analyzes the full clinical context and considers thousands of data points across the longitudinal record and medical evidence. The Glass clinical agent performs deep clinical reasoning to deliver state-of-the-art clinical intelligence.\n\n*   Full clinical context\n*   Thousands of data points\n*   Deep clinical reasoning\n*   State-of-the-art clinical intelligence\n\n### Built for healthcare's most important applications.\n\n*   Clinical reasoning and decision support\n*   Patient guidance and navigation\n*   Care planning, coordination, and follow-up\n*   Embedded intelligence for healthcare products\n\n### The world's medical knowledge\n\nPeer-reviewed evidence Clinical guidelines Drug information\n\nComprehensive and continuously updated.\n\n### Proprietary clinical data\n\nProprietary data Physician expertise Clinical evaluations\n\nBuilt with physicians in the loop.\n\nExtensively fine-tuned and evaluated for clinical performance.\n\n### Advanced agentic architecture\n\nEngineered for real-world clinical work.\n\nThe Glass clinical agent reasons across context, evidence, and the full complexity of care.\n\nAs featured in\n\n[Forbes](https://www.forbes.com/sites/jessepines/2026/03/04/which-ai-is-best-for-medical-questions-new-research-has-answers/)\n\nIn the Harvard-Stanford ARISE NOHARM evaluation, a physician-validated clinical safety benchmark, Glass ranked among the top medical AI systems, ahead of models from OpenAI and Anthropic.\n\nHarvard-Stanford ARISE NOHARM evaluation\n\nGlass Health\n\nOpenAI\n\nAnthropic\n\n55 56 57 58 59 60\n\n## Trusted at leading healthcare institutions worldwide\n\n![Image 1](https://glass.health/images/bg-cymatic-pattern-bento.svg)\n\n38M+\n\n### Peer-reviewed articles\n\nEvery response is grounded in peer-reviewed medical literature from the leading medical journals.\n\n120,000+\n\n### Clinicians on Glass\n\nUsed by MDs, NPs, PAs, PharmDs, and DDSs across every major specialty and setting.\n\n170+\n\n### Countries represented\n\nGlass is relied upon worldwide for evidence-based clinical intelligence.\n\n![Image 2](https://glass.health/images/bg-cymatic-pattern-bento.svg)\n\n1,500,000+ Lives Impacted\n\nPatients getting clearer answers and better-informed care.\n\n## The trust and safety required for all of healthcare\n\nBuilt with cutting-edge clinical intelligence that is grounded in the latest evidence, benchmarked and evaluated for the stakes of real clinical care.\n\n### Leading benchmark performance\n\nEvaluated across rigorous clinical AI benchmarks, including the Harvard-Stanford ARISE NOHARM evaluation.\n\n### Grounded in medical evidence\n\nBuilt around peer-reviewed citations, 40M+ PubMed citations, clinical guidelines, and US FDA drug information.\n\n### Created and evaluated by clinicians\n\nDeveloped with clinical judgment, real medical questions, and the standards healthcare requires.\n\n## Security and compliance for healthcare\n\nHIPAA-compliant infrastructure, BAAs for providers and organizations, and safeguards for protected health information.\n\nBacked by leading technology investors\n\n![Image 3: Y Combinator](https://glass.health/b/20261013T110600Z-9a74b167f4297ef6d5078b9f918019c8265b2768/build-assets/y-combinator-logo-CHXr7Noc.webp)\n\n![Image 4: Initialized Capital](blob:http://localhost/f8c664e74db77cca1d230d1afc63d291)\n\n",
+   "email_candidates": [
+    {
+     "email": "dereck@glass.health",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Dereck Paul",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "william@glass.health",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "William Hart",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "71da31ee7d",
+   "company": "Osium AI",
+   "website": "https://osium.ai/",
+   "title": "AI Engineer at Osium AI (YC S23)",
+   "location": "Paris, Île-de-France, France",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: AI Engineer at Osium AI (YC S23) (Paris, IDF, FR; experience: Any (new grads ok); US citizen/visa only). Team size: 2. Speed up materials innovation with Artificial Intelligence Our AI-powered software enables materials R&D engineers to design new materials much faster. To date, manufacturing companies rely on trial-and-error and manual approaches to develop new materials. This is a tedious and time-consuming process. Yet, carbon neutrality requirements urge manufacturers to adopt greener and lighter materials to decarbonize the industry. B2B, France, Europe",
+   "site_text": "[https://osium.ai/]\nOsium AI Unlock the power of AI for materials and chemicals Osium AI enables industry leaders to accelerate the development of sustainable and high-performance materials and chemicals Request a demo Unlock the power of AI for materials and chemicals Osium AI enables industry leaders to accelerate the development of sustainable and high-performance materials and chemicals Request a demo Unlock the power of AI for materials and chemicals Osium AI enables industry leaders to accelerate the development of sustainable and high-performance materials and chemicals Request a demo Trusted by 50+ materials and chemicals innovators Trusted by 50+ materials and chemicals innovators Trusted by 50+ materials and chemicals innovators Leverage our proprietary technology developed by experts with 10 years of experience in AI and authors of multiple AI patents Leverage our proprietary technology developed by experts with 10 years of experience in AI and authors of multiple AI patents Leverage our proprietary technology developed by experts with 10 years of experience in AI and authors of multiple AI patents Discover the benefits of our solution Discover the benefits of our solution Discover the benefits of our solution Speed Speed Speed Our AI-powered software enables you to speed up your materials and chemicals developments and analysis by a 10x factor . Our AI-powered software enables you to speed up your materials and chemicals developments and analysis by a 10x factor . Our AI-powered software enables you to speed up your materials and chemicals developments and analysis by a 10x factor . Modeling Modeling Modeling Our proprietary technology enables you to predict materials and chemicals properties in just a few seconds. Our proprietary technology enables you to predict materials and chemicals properties in just a few seconds. Our proprietary technology enables you to predict materials and chemicals properties in just a few seconds. All-in-one All-in-one All-in-one Our software covers every step of your materials and chemicals development cycles , from formulation and characterization to scale-up and manufacturing. Our software covers every step of your materials and chemicals development cycles , from formulation and characterization to scale-up and manufacturing. Our software covers every step of your materials and chemicals development cycles , from formulation and characterization to scale-up and manufacturing. Flexibility Flexibility Flexibility Our software is designed to help you with any of your R&D projects and adapts to your evolving R&D needs . Scale your developments efficiently. Our software is designed to help you with any of your R&D projects and adapts to your evolving R&D needs . Scale your developments efficiently. Our software is designed to help you with any of your R&D projects and adapts to your evolving R&D needs . Scale your developments efficiently. Get rid of trial-and-error approaches and unlock your R&D's full potential with our cutting-edge functionalities Get rid of trial-and-error approaches and unlock your R&D's full potential with our cutting-edge functionalities Get rid of trial-and-error approaches and unlock your R&D's full potential with our cutting-edge functionalities Benefit from a significant R&D competitive advantage thanks to our AI-powered software Benefit from a significant R&D competitive advantage thanks to our AI-powered software Benefit from a significant R&D competitive advantage thanks to our AI-powered software Properties prediction Properties prediction Properties prediction Predict any material or chemical property in just a few seconds. Predict any material or chemical property in just a few seconds. Predict any material or chemical property in just a few seconds. Materials and chemicals design Materials and chemicals design Materials and chemicals design Design the optimal route for your R&D experiments planning. Design the optimal route for your R&D experiments pla",
+   "email_candidates": [
+    {
+     "email": "sarah@osium.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sarah Najmark",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "744a77a8ab",
+   "company": "Vendah",
+   "website": "https://vendah.com.br/",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "São Paulo, SP, Brazil",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Vendah is building a Faire-style marketplace for LATAM’s +50M… Vendah is building a marketplace that connects digital-first beauty brands to a network of individual sellers across Brazil, powered by embedded microcredit. Brazil is one of the largest beauty markets globally (~$30B), with millions of individuals already selling through fragmented, offline channels that lack modern infrastructure. After pivoting to a marketplace + credit model, traction has accelerated: GMV is growing ~30% MoM, we’re approaching 1,000 active sellers, and risk-adjusted margins are now positive and improving. We’re building a network of sellers powered by a proprietary credit engine. Marketplace, Consumer, Brazil, Latin America, Remote, Partly Remote",
+   "site_text": "[https://vendah.com.br/]\nVendah - Venda e realize seus sonhos Realize seus sonhos revendendo produtos de marcas incríveis Fazer parte da Vendah Nossos diferenciais Lucros que crescem com você Até 95% de lucro em kits e produtos especiais Catálogo completo Revenda as marcas de beleza queridinhas da internet Pague do seu jeito Parcelamento sem juros sem precisar de cartão de crédito E muito mais... Cadastro grátis Comece agora a mudar de vida. Tudo que você precisa para conquistar seus sonhos. Ao seu lado sempre Conte com o apoio do nosso time de especialistas direto no WhatsApp. Grupo exclusivo de oportunidades Faça parte da nossa comunidade e tenha acesso às melhores ofertas e incentivos. Ganhos reais Lucro de até R$104 Lucro de até R$90 Fazer parte da Vendah Histórias reais de sucesso Mais de 45.000 revendedoras usam a Vendah Josiane Tais Revendedora “O lucro que eu consigo vendendo kits é muito bom. Além disso existem várias opções para facilitar a compra do meu pedido.” Alessandra Aguiar Revendedora “Nunca tinha vendido nada antes, mas os produtos da Vendah se vendem sozinhos - as marcas são queridinhas da internet. O suporte é incrível e me ajudou desde o primeiro dia!” Camila Santos Revendedora “Comecei na Vendah como dona de casa buscando uma renda extra e hoje já ganho mais de R$1.000 por mês vendendo os kits. A Vendah realmente transformou minha vida financeira!” Fazer parte da Vendah Marcas parceiras Na mídia Exame Eles digitalizaram o \"porta a porta\". Agora, captam R$ 12 milhões para chegar a novas cidades Perguntas frequentes O que preciso para ser uma revendedora Vendah? Você precisa ser maior de 18 anos e ter uma conta bancária com seu CPF Quanto custa para ser uma Revendedora Vendah? O cadastro é totalmente grátis Como faço para começar a revender? Baixe o App, Faça seu Primeiro Pedido, Comece a lucrar! Representa uma marca de beleza ou saúde? Fazer parte da Vendah\n\n[https://vendah.com.br/blogs/vendah]\nVendah Pular para o conteúdo Fechar Carrinho 0 0 itens Carrinho 0 0 itens Carrinho 0 0 itens Vendah Fechar Menu Lateral Artigos recentes 7 Sinais de Que o Medo Trava Suas Vendas — E Como a Automação de Vendas WhatsApp Vai Te Libertar 25 June 2026 7 Sinais de Que Seu Lucro Sustenta a Casa e Trava o Financiamento de Crescimento do Negócio 25 June 2026 12 Meses, 12 Categorias: Sazonalidade em Vendas 27 May 2026 Tendências de Produtos: Guia Prático pelo Celular 26 May 2026 Como Vender Online pelo WhatsApp: Guia da Primeira Venda 19 May 2026 Capital Próprio na Revenda: Organize Tudo em 1 Hora 15 May 2026 Destaque 7 Sinais de Que o Medo Trava Suas Vendas — E Como a Automação de Vendas WhatsApp Vai Te Libertar Descubra 7 sinais de autossabotagem que travam suas vendas e aprenda ações práticas de automação de vendas WhatsApp para criar rotina e converter mais. Em Jun 25, 2026 7 Sinais de Que Seu Lucro Sustenta a Casa e Trava o Financiamento de Crescimento do Negócio Conheça 7 sinais de que o lucro da sua revenda está sustentando a casa. Aprenda a fazer uma análise de risco do caixa e separar o dinheiro para crescer. Em Jun 25, 2026 12 Meses, 12 Categorias: Sazonalidade em Vendas Aprenda a usar a sazonalidade em vendas para escolher as categorias de produtos certas mês a mês. Guia prático para revendedoras que vendem pelo WhatsApp e I... Em May 27, 2026 Tendências de Produtos: Guia Prático pelo Celular Aprenda a identificar tendências de produtos pelo celular. Guia prático para revendedoras lerem sinais no WhatsApp e Instagram e anteciparem a demanda. Em May 26, 2026 Como Vender Online pelo WhatsApp: Guia da Primeira Venda Aprenda a vender online pelo WhatsApp sem parecer insistente. Guia prático para categorizar contatos, escrever a primeira mensagem e fechar sua primeira venda. Em May 19, 2026 Capital Próprio na Revenda: Organize Tudo em 1 Hora Proteja seu capital próprio na revenda: tutorial prático de menos de 1 hora para separar finanças pessoais do lucro e reinvestir com segurança pelo celular. Em May 15, 2026 Financi",
+   "email_candidates": [
+    {
+     "email": "atendimento@vendah.com.br",
+     "where": "https://vendah.com.br/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "746c143dd9",
+   "company": "Letterdrop",
+   "website": "https://letterdrop.com",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. Get into the competitive deals you can't see If you beat your competitors in head to head bakeoffs, you should want to get into every active evaluation of them possible. Letterdrop makes that possible so you can sell customers on your better solution. Generative AI, Sales, Marketing, B2B, Sales, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://letterdrop.com/]\nTitle: Letterdrop - Competitor Intent\n\nURL Source: https://letterdrop.com/\n\nMarkdown Content:\n#### Why is Letterdrop for you?\n\n[VP Marketing Build an inbound engine with content that you can tie to revenue](https://letterdrop.com/roles/marketing-leaders)[Content Marketer Create and distribute content that resonates with buyers](https://letterdrop.com/roles/content-marketers)[VP Sales Make your sellers trustworthy to book meetings and close faster](https://letterdrop.com/roles/sales-leaders)\n\nUse Cases\n\n[Marketing Run efficient ad campaigns by narrowing your spend to in-market accounts](https://letterdrop.com/marketing)[Sales Outbound and intercept accounts that are evaluating competitors](https://letterdrop.com/)\n\n[Pricing](https://letterdrop.com/pricing)[Does it work?](https://drive.google.com/file/d/1iTTau72wkylAIGS1T3KdrUhOIgtGgiTr/view?usp=sharing)[Enablement Guide](https://enablement.letterdrop.com/)\n\n\n[https://letterdrop.com/blog]\nBlog Blog No-BS Guides to GTM Pipeline Generation. We cut through the noise and bring you the best thinking in our blog and newsletter to level up your GTM. Featured Competitor Monitoring: Knowing Who's Talking to Competitors What if I told you that you could actually see who your competitors were in active deals with? Check it out. Parthi Loganathan August 20, 2026 • 3 min read Featured Reads No items found. No items found. Level up as a marketer. In your inbox. Subscribe to get the best marketing advice from across the internet every 2 weeks. You've been subscribed to the newsletter! Check your inbox Oops! Something went wrong while subscribing you. Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Growth Can you Guess Your Competitor's Deals? We compared buying signals with real CRM data at four B2B companies. Here's what we found. July 22, 2026 • 3 min read Growth Letterdrop vs G2 for Intent Data Both tools promise to tell you who's in-market. But they're solving different problems, built from different data: here's how they compare. August 7, 2026 • 2 min read Growth Competitor Monitoring: Knowing Who's Talking to Competitors What if I told you that you could actually see who your competitors were in active deals with? Check it out. August 20, 2026 • 3 min read Growth G2 Intent Data Alternatives A breakdown of some G2 alternatives for intent data. August 7, 2026 • 3 min read Growth How to Reduce Churn Rate When Your Health Score Says Everything's Fine How to reduce churn rate when your health score says everything is fine (but it's really not). July 27, 2026 • 4 min read Growth How to Sell Against a Competitor That Got There First When a competitor reaches your buyer before you do, you're already behind. Here's how to reframe the deal, go wide in the account, and win. April 20, 2026 • 6 min read Case Study Outbound Template for Champion Job Changes Templates to manually (and automatically) draft outbound for champion job changes. January 21, 2026 • 4 min read Growth ChatGPT Prompts for Outbound Sales A breakdown of how to get ChatGPT prompts for sales messaging that aren't generic. January 5, 2026 • 5 min read Growth 5 Best Common Room Alternatives for 2026 Common Room takes in an impressive range of signals, but what about socials like LinkedIn? Check out these Common Room alternatives. June 27, 2025 • 3 min read Load More Join 1,000s of the smartest GTM teams. Stay smart with pipeline generation strategies in your inbox every week. Thank you! Your submission has been received! Oops! Something went wrong while submitting the form.\n\n[https://www.ycombinator.com/companies/letterdrop/jobs]\nJobs at Letterdrop | Y Combinator Letterdrop Get into the competitive deals you can't see https://letterdrop.com Jobs at Letterdrop No jobs at Letterdrop are currently posted on the YC platform. Letterdrop Founded: 2021 Batch: W20 Team Size: 10 Status: Active Location: San Francisco Founders Parthi Loganathan Founder Parthi Loganat",
+   "email_candidates": [
+    {
+     "email": "parthi@letterdrop.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Parthi Loganathan",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "74f551e319",
+   "company": "Magic Patterns",
+   "website": "https://www.magicpatterns.com/",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. Go from idea to production with AI. Magic Patterns is an AI design tool used by 2,500+ product teams at companies like Vanta, Doordash, and Freedom Mortgage to iterate on product ideas, get user feedback, and deploy to a website. B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.magicpatterns.com/]\nAI Design Tool for Product Teams | Magic Patterns We're hiring Engineers, designers, and GTM. View roles Introducing Magic OS Magic OS An infinite canvas where your ideas, inspiration, designs and decisions live together. Explore multiple directions, collaborate with AI, and bring your best ideas to life. Get Started Learn more 0:00 3:38 Iterate Faster Prototype new features with AI Turn a prompt, requirement, or feature idea into high-fidelity UI in minutes, and explore directions before you commit. 1 . Bring in your context MagicOS From idea to handoff, on one canvas Bring in your PRD, repo, and references, compare directions side by side, and hand the winner to your coding agent. Get Started Design System Match your existing designs Bring in your components and design rules. Every concept comes out in your style. P S A Pricing page Patty Sarah Team Collaboration Design & engineering, together Edit, share, and iterate on designs live with your whole team, all at once. Share “Pricing page” Add people by email P Patty Owner S Sarah Can edit Acme workspace only SOC 2 · ISO 27001 Secure & Compliant Secure AI design for enterprise Keep designs secure and compliant. SOC 2 and ISO 27001 certified for enterprise. See what others are building. Over 1 million designs created by our community. Magic Patterns Aurora by The Magic Patterns Team 324 Product Launch Slidedeck by Annie 23 Luxury Real Estate Hero with Gallery by Luis 44 E-Commerce Mobile App by Isabel 24 Issue Tracker by Bryan 39 SVG Logo Effects Studio by Steve 143 Why product teams choose Magic Patterns Join 500K+ others building their ideas. Watch the story 2:44 How Toast turns weeks of design work into research-ready prototypes in days Read the case study ~2 weeks saved per feature Prototypes that look like real Vanta features, not mockups. Read case study Case study Don't sleep on Magic Patterns! It's one of the most promising design system tools I've seen lately. DM Dan Mall Founder at Design System University I love the product and wish I had a tool like this when I was working on frontend engineering projects in the past. AB Amulya Balakrishnan Founder Magic Patterns lets me go from a customer call to a beautiful, high-fidelity prototype in just hours. This is the future of product building. And the feedback loop you get is SO FAST. It's magic. JC Jimmy Chan Product Lead at Vapi I've been making some simple components and things have been working well. I really love your platform. AP Austin Pantall Director of Technology The future of building UI and composing design system components together will be driven by AI — and it’s super exciting to see Magic Patterns lead the way. KG Kathryn Gonzalez Former Head of Design Infra at Doordash Def a fan of Magic Patterns! Every time I need to ship something I come back. FP Fengjiao Peng Founder at Shortbread Love using Magic Patterns — one of the coolest AI products I've seen lately, and as a non-technical person this is by far one of the easiest tools I've tried. Ki Kirti CEO at Zeal I've recommended it to 4-5 people already. Pretty sick tool. Super well-designed and helpful in helping me grow my business. CT Collin Toyn Co-founder at Planster I built near an entire app with different pages to demo to someone with multifile, and it made a super complex nested app within an hour. PZ Preston Zhou Co-founder at Relace I've been waiting for a tool like this to get good for some time now and it's finally here. Extremely impressed and inspired by what you all have built. Currently using it for prototyping various designs for my business. ED Evan Dhillon CEO at Kits AI Loving your product, giving me lots of inspiration. TT Travis Tyler Chief Product Officer at Lendi Group If I don't want my team to think too much, Magic Patterns helps me put something down, very helpful. SC Samuel Crombie Founder at Pumpkin Don't sleep on Magic Patterns! It's one of the most promising design system tools I've seen late",
+   "email_candidates": [
+    {
+     "email": "teddyni19@gmail.com",
+     "where": "GitHub commits (magicpatterns)",
+     "kind": "personal",
+     "name": "Teddy Ni",
+     "commits": 17
+    },
+    {
+     "email": "alex.danilowicz@gmail.com",
+     "where": "GitHub commits (magicpatterns)",
+     "kind": "personal",
+     "name": "Alex Danilowicz",
+     "commits": 14
+    },
+    {
+     "email": "bernaferrari2@gmail.com",
+     "where": "GitHub commits (magicpatterns)",
+     "kind": "personal",
+     "name": "Bernardo",
+     "commits": 6
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "75adf3e689",
+   "company": "Narrative",
+   "website": "https://www.trynarrative.com/",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. AI agents for end-to-end testing Narrative is the easiest way to create end-to-end tests, replacing Playwright, Selenium, and Cypress with self-healing tests. Record your user journeys to deploy tests in minutes, and let our agents handle flaky selectors and timing issues. When a test fails, you get a bug report in plain English that's easy to triage. Trusted by Nanonets, Commenda, Drumkit, Metal, and Vega. Learn more at www.trynarrative.com Artificial Intelligence, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://zorrotest.com/]\nZorro â Ship quality with AI testing Narrative is now Zorro. Backed by Y Combinator Ship quality with AI testing. Zorro runs AI bug bashes and regression tests on your PRs, so you can ship AI code with confidence. Book a call Watch demo Nanonets Drumkit Vega Scout Commenda Metal Intellect Openmeter Nanonets Drumkit Vega Scout Commenda Metal Intellect Openmeter Nanonets Drumkit Vega Scout Commenda Metal Intellect Openmeter Nanonets Drumkit Vega Scout Commenda Metal Intellect Openmeter Replace manual QA AI bug bash AI agents that proactively explore your app like a manual QA to hunt down bugs — no tests to maintain. Bug bash BASH‑23 ••• Plan Use cases Bugs Settings Run tests What do you want to test today? Describe the flow you want Zorro to bug bash… Notify me when a new bug is found Test environment staging.wilderlife.com Team members with access 4 members 1 Proactively hunts down bugs Unexpected edge cases, content mismatches, broken layouts, visual flaws, functional bugs — all caught proactively. 2 No tests to maintain No test cases to write, map, or update. Agents figure out the paths dynamically as the UI changes. 3 Instant visual proof Every discovered bug comes paired with full recordings, console logs, and step-by-step breadcrumbs so your team can reproduce and fix it easily. 4 Built for collaboration Easily share findings with your product and engineering teams to categorize and resolve bugs together. 5 Parallel agent execution A planning agent dynamically spins up multiple browsers to fan out across your app, drastically cutting down exploratory bug hunting time. Nanonets “Zorro cut our regression testing from 2 days to 30 minutes and lets us fix blockers and re-release the same day — we now ship up to 2 releases a day. Because the suite is fully automated and independent of our QA team, we can run urgent release sanity checks anytime, even on weekends or when QA is out of office. That reliability alone has made it indispensable.” Ritu Singh QA lead, Nanonets Replace Playwright, Appium AI regression testing AI agents that write, execute, and maintain tests in plain English to ensure recent code changes do not break existing features. Tests TEST‑315 ••• Steps Runs Settings Run test Screenshots Video Before After Summary Steps Console Network Result Failed Triggered by Alex Diaz · manual Started 14:32:08 Ended 14:32:49 Run time 41s Steps autohealed 2 of 7 Bug Clicking Create employee doesn’t create the employee The click registers and the drawer stays open, but no request is sent — the new employee never appears in the People table. Step 7 timed out waiting for the row. Potential bug “Add employee” button renamed to “New employee” The button label changed without updating the test target. Autohealing recovered by matching on intent, but a real rename here could break other flows relying on the old label. Claude - CLI 1 Plain english tests Create tests of your existing features in plain English — no XPath or CSS selectors to maintain. 2 AI assertions Traditional assertions compare fixed values. AI assertions evaluate against your intent — perfect for complex product logic, dynamic content and AI agents. 3 AI autohealing Runtime autohealing resolves selector changes, network flakiness and cookie banners automatically — leaving only genuine bugs for you to review. 4 Adapts to your dev process Create tests with Zorro MCP directly from your coding agent, run tests before a PR is merged, or execute on a schedule. 5 Lightning fast execution Uses AI only when needed, paired with multiple parallel browsers for rapid test suite execution. Frequently asked, honestly answered. How is AI testing different from Playwright, Appium, etc.? â Traditional tools need you to write and maintain test scripts which break on any UI changes. Zorro replaces that with two products: AI regression tests you build once in plain English that autoheal as your UI changes, and AI bug bash that explore your app like a manual Q",
+   "email_candidates": [
+    {
+     "email": "suchit@trynarrative.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Suchit Dubey",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

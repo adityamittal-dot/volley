@@ -1,0 +1,290 @@
+{
+ "leads": [
+  {
+   "id": "ae220a313a",
+   "company": "Subsets",
+   "website": "https://www.subsets.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "Copenhagen, Denmark",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. AI-driven Retention Automation for subscription media businesses. Subsets is the leading lifecycle growth platform for consumer subscription teams. We are building the AI decisioning layer that unifies and powers the existing growth stack, enabling teams to automate and scale lifecycle experimentation, orchestrate personalized user journeys, and measure impact across retention, engagement, and LTV without engineering support. Trusted by consumer subscription businesses like The Atlantic, NBCUniversal, Daily Mail, Matas Group, and Hearst. Subsets has raised $6.1m and launched out of Y Combinator’s Summer 2023 batch in San Francisco, and is now based in Copenhagen. Machine Learning, B2B, Enterprise Software, AI, B2B, Denmark, Europe",
+   "site_text": "[https://www.subsets.com/]\nSubsets – AI Retention Automation Platform for Consumer Subscriptions Login Request a demo Subsets secures $1.65M to build the leading AI retention platform AI-driven lifecycle experimentation and automation for consumer subscriptions Improve retention and LTV with AI recommendations. Easily run experiments and A/B tests. See the impact on engagement, forecast revenue opportunities and seamlessly set up automations. Designed for commercial teams – no coding required. Request a demo Backed by Experiments Step-up pricing high risk Results Confidence Overview Results Metrics +11.7% Treatment Group Participants: 4,238 Churned: 2,180 48.6% retention Control Group Participants: 4,306 Churned: 2,719 36.9% retention Retention Rate Lift Treatment group Control group 10 days since treatment Treatment group 97.1% Retention rate lift +1.5% Participants 4,119 Churned 119 Control group 95.6% Participants 4,122 Churned 184 Behavior Metrics All Count DAU 30 days 7 days 1 day Metrics Effect% Control group Treatment group Sessions +7% 11,338 12,132 Downloaded app +7% 4,174 4,466 Visits +100 seconds +11% 5,203 5,775 Invited family member +8% 4,023 4,345 Content breadth 4% 4,251 4,421 Subsets is purpose-built for commercial teams to increase retention without requiring engineers Empowering commercial teams with AI-driven automation to streamline the entire retention workflow and turn successful experiments into scalable automations. Discover Discover AI-generated retention audiences that cover the full subscription lifecycle. Understand Understand the behavioural drivers leading to churn across the lifecycle stages. Experiment Run A/B tests and analyze the impact on engagement and retention metrics automatically. Automate Turn successful experiments into automations that optimize subscriber revenue streams. The depth and breadth of the results analysis we can generate from Subsets have been invaluable. We are aiming to turn validated experiments into 'always on' and let Subsets select subscribers for targeting and trigger the campaigns. Andy Wilson Head of Subscriber Retention @ Daily Mail Modeled around your data and workflow Subsets trains a unique machine learning model on top of your proprietary 1st party data, enabling you to activate the insights across your engagement channels. Improve retention and engagement with AI, experimentation and automation Integrated with your subscription, product, and CRM data to deliver a complete view of your subscribers. Predictive audiences Use AI to predict your most important audiences within your subscription base. Identify retention, engagement, and upsell opportunities at every stage of the subscription lifecycle, focusing on the areas that drive the greatest lifetime value. Explainable AI Leverage explainable AI to understand the behavioral drivers behind each audience across the subscription lifecycle. Uncover key behaviors contributing to retention risks, providing the context needed to suggest experiments or treatments that influence retention and engagement. Experiment across your tools and channels Run experiments on predictive subscriber audiences directly through your existing channels and tools. Experiment with retention, engagement, and upsell strategies while tracking the impact in real-time, automatically within Subsets. Automate results analysis across your key metrics Automatically track and understand the impact of your experiments across key metrics like retention rate and lifetime value, as well as engagement metrics like sessions, pageviews, and articles read. Follow key metrics in real-time Track the metrics that matter most for your experiments, without needing engineering support. Automatically analyze key metrics like retention rate and lifetime value in real-time, alongside engagement metrics such as sessions, pageviews, and articles read. Detect statistical significance Automatically calculate sample size and time left before results can be reviewed an",
+   "email_candidates": [
+    {
+     "email": "martin@subsets.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Martin Johnsen",
+     "role": "Founder"
+    },
+    {
+     "email": "oliver@subsets.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Oliver Brandt",
+     "role": "Founder"
+    },
+    {
+     "email": "nikolai@subsets.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Nikolai Skelbo",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ae2857d2c1",
+   "company": "Aragorn AI",
+   "website": "https://www.aragorn.ai",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "Dallas, TX, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 4. Operating system for HR in the AI era We’re building a new way of working in People Ops for the AI era—one that starts by solving a painful problem no one talks about: HR data integrations. And from there, it grows into something far more powerful: personalized, agentic HR analysts that any team can create and deploy on their own. B2B, Human Resources, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.aragorn.ai/]\nHR Integrations Without IT | Aragorn HR is never simple. Integrations can be. Aragorn integrations match the way you work, adapt as you change, and don't require IT. Get Started Systems you already own HR HRIS System of record for the employee TA ATS / Recruiting Candidate to new hire EN Engagement & Talent Performance, learning, surveys FL Files & edge cases The stuff nobody else supports Aragorn Integration Studio Managed and run by HR. No IT ticket, no consultant. Data change: We take their spec. Nobody changes their system. receives the change as ADP Fidelity NYL Carta Nobody rekeys anything. No IT queue. fix and replay Everyone who needs the data PB Payroll & benefits Highest cost of being wrong RT Retirement Contribution & census files WK Workplace & equity Provisioning & deprovisioning + Any other vendor API, file drop or SFTP · IT connect Catalogue Every field, every vendor it reaches salary 4 Mapping Field to field, visual, no code salary Rules and eligibility Who is included, what is sent, when Active employees Benefits eligible Terminations Health monitoring Running, failed, fix and replay Trusted by teams running complex HR operations Without Aragorn 5 sent, 0 checked Your HR System employee info updated Payroll Pre-built ✗ The data in the file was valid. The number was not. Benefits carrier Pre-built ✗ Sent without a check. Nobody looked until renewal. 401(k) recordkeeper Custom ✗ Held since they changed the file layout. Equity By hand ✗ Rekeyed from a spreadsheet, once a week. The spreadsheet nobody owns By hand ✗ Rekeyed by whoever remembers. You find out when somebody complains. Keeping HR systems in sync shouldn't be this hard. ✗ Pre-built integrations aren't nearly robust enough 2 of 5 A consultant to set it up, a fixed set of fields, and no check on the value before it sends. ✗ Custom integrations only work until something changes 1 of 5 A vendor changes a file, or your org does, and it stops. ✗ Endless manual updates aren't sustainable 2 of 5 Every change, every vendor, every time, by hand. Our integrations can handle HR. Powerful “It's impressive how your engineering team ships new features and solutions that aligns with what we are looking for. Very nice to have one dashboard that shows all integrations and a field to toggle and see all vendors receiving any employee data.” Jeff K. Keurig Dr. Pepper Flexible “We have created a standardized integration for our clients HR data into our product and it's going well so far.” Bill T. Emtrain - Keep Simple “This has taken a lot of work off my plate. I don't have to closely monitor integrations or manually perform employee provisioning for system access or removal. This has helped me focus on more pressing matters.” Claudia S Plug and Play Tech Center 1 Systems 2 Scope 3 Fields 4 Schedule Systems Workday to ADP Scope Active employees, US, weekly payroll Fields salary → base_pay effective_date → pay_eff_dt Schedule Every hour, and on change Catalogue and mapping Easy to set up. Ready for any challenge. Pick the systems, define the scope, map the fields, and decide when it runs. Do it your way and do it yourself. Rules, Workday to Fidelity Saved Who is included Active employees, US, and part-time over 20 hours Workday to Fidelity Sent One rule, changed by the person who noticed it. No ticket, no release. Rules and eligibility Make changes without hassle, or code. If something gets missed, someone doesn't get paid. Adjust what you need, so employees get what they need. Health Workday to ADP Hourly Running Workday to Fidelity Daily Running Workday to Carta Daily Held Greenhouse to Workday Hourly Running Health monitoring See it all before something breaks. Monitor the health of every integration in one place, and get alerts when something is wrong. In the real world Start with an integration like this See every integration Use left and right arrow keys to navigate, or swipe on touch devices. Greenhouse to Workday Sync employee data from Gree",
+   "email_candidates": [
+    {
+     "email": "ed@aragorn.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ed Adjei",
+     "role": "Founder"
+    },
+    {
+     "email": "gladys@aragorn.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Gladys Adjei",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "aed4b77eab",
+   "company": "Bookboost",
+   "website": "https://bookboost.io",
+   "title": "Full Stack Developer",
+   "location": "Germany - Munich",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-11T20:09:55Z",
+   "posting": "Your mission Bookboost is the Hospitality Engagement Platform that empowers hotels to understand and engage their guests like never before. We unify guest data, automate personalised communication, and deliver experiences that drive revenue, loyalty, and operational excellence. We have customers across more than 20 countries and a platform that wins on depth. We're now looking for a Full Stack Engineer to help us build the next stage of it. Tech stack: Angular | TypeScript | Node.js | Cloudflare Workers | AWS | PostgreSQL | Terraform Your profile As a Full Stack Engineer you build and maintain the systems behind our platform: real-time data processing, the APIs that hold it together, and the experience our customers use every day. The job is shifting from writing syntax to designing systems. We want engineers who are architects: people who define the right abstractions, shape the right interfaces, and make decisions that hold up six months later. Agents write a growing share of the code. Your value is in orchestrating intent, context and execution. You would be joining a small engineering team with real latitude on technical direction. This is not a seat implementing someone else's design. If you want to be handed tickets and left alone, this is not that job. If you want a say in how the platform is built, it is a good one. What you'll own and deliver Scalable, high-performance applications across the stack Frontend applications in Angular, with genuine attention to responsiveness and user experience APIs designed with the rest of the team, focused on event-driven architecture and real-time data Edge computing work using Cloudflare Workers, improving performance and deployment efficiency Migration of services to edge runtimes, improving scalability and reducing latency Architectural decisions that outlive the tickets that prompted them Cross-functional work with design, product and Operations on what customers actually need What makes you a great fit? Full stack dep",
+   "site_text": "[https://www.bookboost.io/]\nTurn Guest Data Into Loyalty & Direct Bookings | Bookboost New webinar: how smart hotels automate the guest journey and keep it human. Register today Book a demo Download the guide! Thank you! Your submission has been received! Get the guide Oops! Something went wrong while submitting the form. The Hospitality Engagement Platform Turn guest data into direct bookings personalised journeys lasting guest loyalty actionable insights seamless experiences repeat revenue Bookboost unifies your CRM, messaging, and automation so your team can build guest loyalty and reduce OTA dependency. Book a Demo Watch 3-min Demo Proven Results What our customers achieve 23% OTA guest data recovered Room Republic 9x Conversions with multi-channel Ruby Hotels 5-digit Annual savings achieved CityBox Trusted by For Every Role Powerful tools, for every team Guest experience Check-in, feedback, loyalty Front desk Inbox, automation, chatbot Marketing Journeys, email, campaigns Create an experience that makes your guests happier than ever Give every guest a seamless, personalised journey from booking to checkout. Collect feedback in real time, build loyalty, and turn one-time visitors into returning fans. Check-in Feedback Loyalty Spend less time answering messages from guests All guest messages from every channel in one inbox. Automate repetitive replies, route conversations to the right team, and free your front desk to focus on the guests in front of them. Inbox Automation Chatbot Personalised campaigns that increase conversion and revenue Build automated guest journeys across email, SMS, and WhatsApp. Segment your audience with 80+ personalisation tokens and track every campaign's impact on bookings. Journeys Email Automation How It Works From fragmented data to personalised guest journeys A continuous loop: unify your data, segment your guests, activate across every channel, then measure and refine. 1 Unify Connect your PMS, booking engine, and guest touchpoints. Bookboost merges data from 70+ sources into one clean guest profile per person, across every property. Explore the CDP 2 Segment Build dynamic guest audiences based on stay history, preferences, booking channel, and behaviour. Segments update in real time as new data flows in. See segmentation 3 Activate Trigger personalised journeys, send targeted campaigns, and respond to guests across email, SMS, WhatsApp, and webchat. See automation 4 Measure Track campaign ROI, guest satisfaction, and segment performance. Use insights to refine your audiences and sharpen every future journey. Explore Insights Insights feed back into smarter segments and better journeys Every property type has its own guest rhythm. Explore how the loop works for yours. Hotels Hostels Apartments The Platform Build the platform that fits how you operate. It starts with the CDP: unified guest profiles, clean data, every channel connected. Then you add the modules you need. CDP Core Journey Broadcasts Unified Inbox Insights 70+ PMS integrations ready to connect Customer Data Platform The foundation. One profile per guest, zero duplicates. Included in every Bookboost plan. The CDP collects guest data from your PMS, booking engine, and every channel, then cleans, deduplicates, and enriches it automatically. Unified guest profiles across all PMS integrations, OTAs, and direct channels Smart deduplication with match-and-merge across properties and booking sources GDPR-native, EU hosted with full consent management, segmentation, and CLTV calculation Explore CDP Watch demo 9x higher conversion than traditional systems Journey Automated guest journeys from booking to post-stay Design the entire guest lifecycle visually. Drag, drop, set triggers, and let personalised messages flow across email, SMS, and WhatsApp automatically. Visual journey builder with drag-and-drop canvas for pre-arrival, in-stay, and post-stay flows Reservation-triggered automation with real-time event triggers and 80+ personalisatio",
+   "email_candidates": [
+    {
+     "email": "info@bookboost.io",
+     "where": "https://www.bookboost.io/contact-us",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "af1b4a9490",
+   "company": "Star",
+   "website": "https://buildwithstar.com",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "Springfield, MO, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 1. Make games with AI - no coding required Star makes game development accessible to anyone with an idea. Using AI, you can create complex, playable games without writing code - just describe what you want and iterate. We're building the future of creative tools for the next generation of game makers. Consumer, Gaming, No-code, Creator Economy, AI, Consumer, Gaming, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://buildwithstar.com/]\nStar - Make Real Games from a Description | Multiplayer, Leaderboards, Hosting Included Star Play games Pricing Sign In Make a game your friends can play. Describe your idea. Star builds a game you can edit and share. Change Animation: a typed game idea breaks apart and builds a game, then a follow-up request changes it. Play a game made in Star No download. It runs right here in your browser. Play DEEPSMOKE DEEPSMOKE Made in Star by crwlspaceINTERACTIVE Watch trailer Fullscreen Play after each change. Keep what feels good, and tell Star what you want to change next. Read the full guide Give your friends a reason to play. Play together. Ask for multiplayer. Star hosts the rooms so you can invite friends to the same game. Give players a score to beat. Ask for a leaderboard so players can compare scores and come back for another run. Publish it. Take it with you. Share a link your friends can play in their browser. Export to itch.io, Windows, or your own files when you want. Build in 3D. Ask for a kart race or a first-person arena and Star builds it in real 3D. It runs in the browser, with no engine to install. 41,400+ games made here. Every one taught the agent something about game feel, collision, and difficulty. First versions play better, and edits land where you meant. Tune it without prompting. Drag sliders to adjust gravity, speed, and spawn rates while the game runs. Star Picks Play what people made. A few games made by Star creators. Finished games often take more than one prompt. Browse all games → 4181 play s Stick Slaughter by Ryze 22 21 1563 play s Moonlit Carnage by Ryze 14 11 268 play s The Crucible by Drax 6 2 Build with other creators. Share your game, find playtesters, and trade ideas in the Star Discord. Join the Discord Common Questions Is Star free? Yes. Playing and sharing any Star game is free for everyone, and you can start building free with Claude Haiku 5.5. When you want to keep building, buy a one-time credit pack or subscribe from $20/month for the best credit rate. Do I need coding experience? No. Describe what the player does, like 'jump between platforms and collect coins'. Star builds a first version you can play and change with follow-up instructions. How long does it take to make a game? A first version usually takes a few minutes. Bigger ideas can take longer. Play it, then tell Star what to change, like 'add enemies' or 'make it faster'. Can I share my games anywhere? Publish your game, then send the link in a message, group chat, or social post. Friends can open it in their browser without installing Star. Do people have to pay to play my game? No. Anyone can play and share your published games free, with no account or plan. Your friends never pay to play what you build. How is Star different from ChatGPT, Claude, or Cursor? Star combines a game editor with hosting, multiplayer rooms, leaderboards, and exports. Build and revise your game here, then send friends a playable link. You can also export to itch.io, Windows, or your own files. Can Star make multiplayer games? Yes. Say 'make it multiplayer' and Star hosts the rooms on our servers. No backend setup, no netcode, and the match keeps running when the host closes their tab. Which AI models does Star run? Free accounts build and edit with Claude Haiku 5.5. Claude Sonnet 5.5 and Claude Opus 5.5 are also in the main picker; GPT-6 Luna and other models are under More models. Paid accounts can choose their model, and Star remembers that choice. Credit usage depends on the model and the work requested. What game do you want to play? Start with one idea. You can build on it from there. Make a game\n\n[https://buildwithstar.com/blog]\nBlog - Star Star Play games Pricing Create Sign In Blog Guides for creating and sharing AI-generated games Featured How Star Creates Sprite Animations with AI Go from a text prompt to a playable sprite animation in seconds. Gemini image generation, a green-screen pipeline, and reference im",
+   "email_candidates": [
+    {
+     "email": "ryan@buildwithstar.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ryan Endacott",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "b13685b37f",
+   "company": "Quadrant Health",
+   "website": "https://quadrant.health",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Analyzing EHR and messaging data to predict disease before it occurs. SaaS, Healthcare IT, AI, Healthcare, Healthcare IT, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://quadrant.health/]\nTitle: Quadrant Health — AI Agents Powering Healthcare Operations\n\nURL Source: https://quadrant.health/\n\nMarkdown Content:\nQuadrant Health\n\n## The AI Workforce for Healthcare.\n\nProactive voice and agentic AI that absorbs the administrative work, lifts outcomes, and raises satisfaction across every patient touchpoint.\n\nThe Problem\n\n## Healthcare has an execution shortage.\n\nRoughly 30% of every U.S. healthcare dollar goes to administrative work that still leaves patient calls unanswered, care gaps open, and follow-ups quietly slipping past their window. Quadrant is the layer that finishes the work.\n\n![Image 1: Completed patient chart](https://quadrant.health/assets/Asset5.svg)\n\nResults\n\n83%\n\npatient engagement on AI-led outreach campaigns\n\n70%+\n\nof patient calls handled without staff involvement\n\n2M+\n\npatient interactions annually\n\nCustomers\n\nTrusted by medical groups and health systems across the country.\n\nCustomer Outcomes\n\n## What completed work looks like.\n\nWorked with leading organizations\n\n![Image 2: Stanford Health Care](https://quadrant.health/customer-logos/stanford-health-care.svg)\n\n![Image 3: Mayo Clinic Platform](https://quadrant.health/customer-logos/mayo-clinic-platform.webp)\n\nFeatured Partnership · EHR\n\n### Quadrant × medent®\n\n![Image 4: Medent logo](https://quadrant.health/logos/medent.png)\n\nMedent is a Quadrant EHR partner. Our voice and agentic AI agents run natively inside Medent, giving every Medent practice a path to 24/7 front-desk coverage, automated care-gap closure, and complete visit workflows.\n\nFor four decades Medent has served independent practices with EHR software they trust. Quadrant adds the AI workforce piece. Voice, agents, and chart updates, built into Medent as a first-party extension of the clinical surface.\n\n24/7 Front-desk coverage\n\n<2 wk Onboarding\n\nThe Platform\n\n## First ring. Chart updated.Everything in between.\n\nVoice and text get the patient on the line. Agentic AI completes the work inside your systems. Every action logged, every outcome tracked.\n\n### Every call answered. Every action completed.\n\nQuadrant picks up on the first ring. 24/7, in 20+ languages, via voice and bi-directional text. Handles the conversation, then operates your EHR to finish the job. Staff only see the calls that actually need them.\n\nScheduling & Reschedules\n\nBooks, reschedules, and cancels appointments across providers, locations, and visit types. Configurable rules, buffers, and insurance mapping.\n\nPatient Intake\n\nCollects demographics, insurance, and clinical information before the visit. Writes it to the chart so the patient arrives ready.\n\nMedication Refills\n\nTakes refill requests, checks controlled substance logic, and routes to the provider with the right context. No phone tag.\n\nInsurance Verification\n\nCaptures insurance details, walks patients through finding card info, and logs it to the chart.\n\n### Proactive outreach that closes gaps and fills chairs.\n\nDefine the goal. Set the sequence. Quadrant runs calls and texts until the success criteria are met. Configurable retry logic, time-zone-aware delivery, TCPA-compliant opt-out.\n\nCare Gap Closure\n\nAWV reminders, mammograms, colorectal screenings, diabetic eye exams, HbA1c, blood pressure management. Calls the patient, books the appointment, logs it to the EHR.\n\nAppointment Reminders & Confirmations\n\nConfirms upcoming visits, reschedules on the spot, and backfills cancellations.\n\nNo-Show Recovery\n\nCalls back within minutes of a missed appointment, reschedules, and updates the chart.\n\nPre-Op & Post-Op Check-Ins\n\nRuns pre-surgical checklists and post-op recovery surveys. Escalates issues in real time.\n\n### The work before, during, and after the visit.\n\nQuadrant doesn't stop at the phone. AI scribe captures encounters live. Care management agents keep chronic patients engaged between visits and support billable CCM programs.\n\nAmbient Scribe\n\nCaptures encounters in real time, drafts SOAP and procedure notes, and writes back to Epic",
+   "email_candidates": [
+    {
+     "email": "anin@quadrant.health",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Anin Sayana",
+     "role": "Founder"
+    },
+    {
+     "email": "krishna@quadrant.health",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Krishna Gorrepati",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "bc04b17eb0",
+   "company": "Sameday",
+   "website": "https://www.gosameday.com/",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "Lehi, UT, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. The leading AI workforce for the trades. Sameday is the AI workforce for the trades — outperforming humans at high-stakes, revenue-critical work, such as sales, dispatch, and more. Generative AI, B2B, Sales Enablement, Automation, AI, B2B, Sales, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://sameday.ai/]\nSameday - AI phone answering system for home services Login Get started The AI front office for home services. One platform where your CSRs, technicians, and AI work together to book more jobs and grow revenue. Nearly 2,000 service businesses run on Sameday. Meet Sameday Rebook every job we cancelled during the storm this week. Call members Follow up on estimates Sameday AI Working… W o r k i n g … Called Erin J. — rebooked to Tue, 2:00 PM Booked Texted 3 customers who didn't pick up Sent Rebooked 15 of 17 jobs into open slots Synced Updated the dispatch board + CRM Done Needs your approval Today · 9:41 AM \"Hi Erin — sorry again about the storm delay. Want 10% off your next tune-up for the trouble?\" Edit Approve & send Approved EJ Erin Jones Outbound · 0:01 Messages Slot opened tomorrow morning — reply YES and it's yours. Delivered Ask in plain English Tell Sameday what you need — answer the phones, fill the schedule, chase the invoices. No setup wizards, no flowcharts. Watch it happen Your AI answers calls, texts customers, books jobs, and updates your CRM in real time — around the clock. Stay in control Every call, text, and booking is logged for review, and anything sensitive waits for your approval. Start with our phones or bring your own. Answer every call, everywhere. Port your number or keep your carrier—Sameday answers, books, and logs every opportunity, day or night. Sameday Home Services Seats Add seat Team member Outbound caller ID Cell forward Dana Reyes (385) 555-0148 Off Mike Torres (385) 555-0199 Off Add seat A seat enables a team member for in-app calling and sets how their calls reach them. Team member Select a team member Priya Anand Jordan Blake Mike Torres Casey Ng Save Sameday Home Services Ask AI Support Unread Unreviewed EJ Erin Jones Today · 12:03 PM She called in to get an additional... CP Caleb Patterson Aug 3 Called because the technician had... WP Westin Phillips Jul 31 Needs to reschedule their tune-up... Rescheduled EL Emily Lewis Jul 16 Called to speak with Joey from sales Call back JC Jess Cook Jul 14 Was curious about tankless water... LB Logan Bice Jul 9 Followed up on his open estimate, he's ready to mo... ZL Zev Lowenstein Jul 9 Pitched the fall tune-up special and booked the ins... ML Maria Lewindow... Jul 9 Had a question about their water-softener invoice... Support DW Dan Whitaker Jul 8 AC blowing warm air, wants someone out this week... RD Rosa Delgado Jul 5 Quoted the water softener install and sent the esti... PH +1 (801) 332-7745 Jul 2 Hung up before the agent could get details... Call back KT Kim & Terry Boyle Jun 30 Annual furnace tune-up before winter... HM Hank Morrison Jun 28 Reminder call for tomorrow's install, confirmed arr... EJ Erin Jones AL MK Monday, Aug 3 EJ Call ended Erin called · AI answered 4:52 PM 0:12 1x Scheduled View transcript This lead was classified as a high value lead to the system not working and it being over ten years old. They are a new customer that called from Google LSA I was able to book this on the Joe Parry for the 3-5 window Hi Erin, Joe can arrive 30 minutes early. Does that work for you? EJ Erin Jones Yes, I’ll be home. Should I leave the side gate open? That would be great. I’ll let Joe know. See you soon! EJ Erin Jones Perfect, thank you! EJ Call ended Erin called · AI answered 4:52 PM 0:14 1x Rescheduled View transcript Erin called back in to reschedule her appointment for when her husband will be home. Simple rescheduling, still very interested in our summer promo Moved the appointment to Caleb to make the time work Message Erin Jones about her technician being 30 minutes early... Draft reply EJ Erin Jones Appointments View all Sat, Aug 3 · 3:00–5:00 PM Tue, Jul 16 · 9:00–11:00 AM Wed, Jul 9 · 1:00–3:00 PM Contact erin.jones24@gmail.com (385) 401-4186 2258 S Center Street, Salt Lake City, Utah 84101 Notes Their dog is super nice, despite the the super loud bark. They’re neighbor Julissa is the owners friend. Audit trail",
+   "email_candidates": [
+    {
+     "email": "erin.jones24@gmail.com",
+     "where": "https://sameday.ai/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "bd3b417802",
+   "company": "Agapé",
+   "website": "https://www.getdailyagape.com",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Rochester, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. Feel close, even when apart. One meaningful conversation at a time. Agapé is a relationship wellness app that helps you feel close to your friends, family, or partner, even when apart! We curate daily questions to spark meaningful conversations for over 2 million people around the world. Health & Wellness, Healthcare, Consumer Health and Wellness, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.getdailyagape.com/]\nAgapé - The #1 Relationship Wellness App for Couples Which couple would you rather be tonight? Spark meaningful conversation, in 1 minute or less, with a personalized question from Daily Agapé. Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Request early Access How does it work? Every day, we’ll send you a personalized question designed to spark meaningful conversation. How does it work? After you and your partner both respond, you’ll be able to see each other’s responses. How does it work? As you answer the daily questions, you earn points towards free rewards! How does it work? As you answer the daily questions, you earn points towards free rewards! How does it work? Every day, we’ll send you a personalized question designed to spark meaningful conversation. How does it work? After you and your partner both respond, you’ll be able to see each other’s responses. How does it work? As you answer the daily questions, you earn points towards free rewards! How does it work? As you answer the daily questions, you earn points towards free rewards! 1000s of couples make every day special with Daily Agapé. Using Daily Agapé is like starting every morning with a love note from your partner. I would recommend it to every couple, it’s that great! John & Michelle Bryant 30 years in love Daily Agapé has honestly changed our lives. I would have never imagined something so simple to be so impactful. Emily & Mark 2 years in love Every couple should set aside time for relationship wellness. Agapé makes that not only easy but fun! Sarah & Tom 12 years in love Daily Agapé Perfect for Long Distance Couples Too Why Agapé Fun + Easy A game that strengthens your relationship in just 5 minutes. Research Questions are crafted using over 20 years of relationship research. Personalized Our algorithm personalizes the questions to you and your relationship. Effective Wellness checks to see the positive changes in your relationship. FAQ What is Agapé? What does \"Agapé\" mean? What types of questions will be asked? What is relationship wellness? Can I use Agapé without my partner? Can I use Agapé if I'm single? Is Agapé free? Is Agapé effective? Is Agapé a couples therapy app? How does Agapé keep my info safe? How do points and monthly giveaways work? Who creates the questions? What is Agapé? Agapé is the new way to say, \"I love you\" that will make + keep billions happy. With just 1 question a day, you can nurture a happy, mindful, beautiful life. As the #1 relationship wellness app for couples, Agapé makes it easy for you to feel + show love. What does \"Agapé\" mean? Love is a very multidimensional construct, which is why the Ancient Greeks were wise enough to describe it using several words. One of which is Agapé, which represents an unconditional, sacrificial love. Agapé is selfless love put into action. The highest form of love. Fun Fact: In English speaking countries Agapé is pronounced \"ah-gah-pay\" but if you go to Greece it's pronounced \"Ah-gah-pee\". It's unclear why the pronunciation changed, but we went with \"ah-gah-pay\" hence the accent on the e! What types of questions will be asked? We use a complex machine learning algorithm to personalize the questions we send to you, which will only get better over time. We send a huge range of questions. From reminiscing to funny. We even send spicy questions if you opt in! Agapé is designed to be fun. What is relationship wellness? Relationship wellness is the process of actively shifting your mindset, making choices, and pursuing activities to strengthen and enrich your relationships. A common misconception is that relationship wellness is best suited for couples who are experiencing some sort of dysfunction. But just like the gym isn't exclusive to individuals who are out of shape, relationship wellness should not be limited to couples who have relationship issues. All couples should be actively practicing relationship wel",
+   "email_candidates": [
+    {
+     "email": "kadie@getdailyagape.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Kadie Okwudili",
+     "role": "Founder"
+    },
+    {
+     "email": "ron@getdailyagape.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ron Rogge",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "bd66c423dd",
+   "company": "Nessie",
+   "website": "https://nessielabs.com/",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. The shared context layer for recursive companies - your work, your… Knowledge work is being restructured by AI. Strategy happens in Claude. Research happens in ChatGPT. Building happens in Claude Code and Codex. Meetings get recorded, notes get written, agents run for hours and leave behind traces nobody reads. The people defining the next decade of work are already thinking with AI every day. But none of that thinking compounds. Every session starts from zero. The reasoning behind decisions, the context behind strategies, the evolution of ideas across hundreds of conversations - all of it evaporates. Nessie is the infrastructure that makes it permanent. We auto-sync AI conversations and agent traces across every major provider - ChatGPT, Claude, Gemini, Perplexity, Claude Code, Codex, Cursor, OpenClaw, Hermes, and more - alongside meetings, notes, and email from tools like Granola, Read AI, Plaud, and Obsidian. Everything a team produces with AI flows into one place and compounds over time. Nessie turns that raw, heterogeneous data into an ontology: the live state of a company. Not a static schema but a continuously updated record of what the company knows, what it has decided, who owns what, and how its thinking has evolved, kept current as new work flows in. It is queryable from any agent through our CLI, MCP connector, and plugins, shareable across a team with real permissions, and deployable on-prem for organizations that need it. Then the loop closes. Once a company’s state is legible to its agents, every agent run becomes training signal: which skills worked, which failed, which workflows keep repeating. Nessie feeds that signal back as reviewable improvements to the skills, prompts, and processes the team runs on. This is what makes a company recursive: its agents get better from its own history, the people working with them get better too, and the compounding never stops. Where we are going: the AI-native organization runs thousands of agents ",
+   "site_text": "[https://nessielabs.com/]\nNessie - All your AI work, in one place Backed by All your AI work, in one place. Every AI session you and your team produce across AI tools becomes shared context - so any teammate or agent can build on what’s already been figured out, instead of starting from scratch. Download for Mac Email me a download link Book a Demo Trusted by professionals and teams at Fortress Connect the work already happening. Connect an integration once. Nessie backfills all available AI sessions from that source, then keeps new sessions and meetings flowing in automatically - so your context compounds instead of scattering. No copy-pasting. No Chrome extension. ChatGPT Claude Claude Code Gemini Grok Grok Bot Perplexity Manus OpenClaw Codex OpenCode Cursor Antigravity Pi Hermes Claude Cowork Local Folder Obsidian Apple Notes Granola Read AI Gmail Outlook Microsoft Teams SharePoint Codex ChatGPT Claude Cursor OpenClaw Claude Code Nessie — Context Context · Investor update April investor brief synthesized from 14 sources across 6 tools and workspaces What shifted this month Locked the positioning line with product and sales Pricing landed cleanly with three design partners Q2 roadmap tightened around sync reliability Open questions Announce Gemini integration before or after demo day? How to tell the local-first story to enterprise buyers? Stay where you already work. Keep using the agents and tools you already know. Nessie brings the right history and team context into the work in front of you, so you can keep going without switching apps, copying context, or starting over. Codex SKILL Claude Code SKILL Cowork MCP ChatGPT MCP Claude MCP Perplexity MCP OpenClaw PLUGIN Hermes PLUGIN Grok Bot PLUGIN ← Codex Nessie Pick up my Claude Code session about the marketing site server-side rendering. Where did we leave off? Nessie Found your Claude Code SSR session from Tuesday Nessie Read its goal, files, decisions, and remaining work I found your earlier Claude Code session and checked it against the current branch. The SSR migration itself is complete: PR #389 merged and deploy 142 is healthy; the main landing, pricing, and docs routes now render metadata on the first response. Route tests and the production smoke check passed after the hosting cutover. One follow-up remains: preview pages still fetch metadata client-side, so shared-link unfurls can be stale. Next step: Move preview metadata into the SSR loader, add a route test, then verify one shared preview against the local server. Message your agent + ↑ Codex Nessie Pick up my Codex session about SDK plugin PR #4821. Is it listed in the official registry yet, and what's the next action? Nessie Found yesterday’s Codex registry session and checked pull request #4821 I found your Codex session from yesterday and checked its pull request. The SDK plugin is not in the official registry yet; PR #4821 is ready for review: The branch is rebased onto the current registry main branch with no merge conflicts. Registry tests pass 21/21, plugin tests pass 12/12, and the manifest contract is valid. There are no requested changes or failing checks; the only blocker is maintainer review. Next step: Leave the code unchanged. If there is no response by Friday, post a concise follow-up with the validation results. Message your agent + ↑ Codex Nessie Where did Maya leave off in her Claude Code session about the payments migration? Pick it up so I can take it from there. Nessie Found Maya’s shared Claude Code payments session Nessie Read her decisions, tests, and remaining cleanup Nessie Checked the session against the current project state I found Maya’s shared Claude Code session and compared it with the current project. The migration shipped, but her notes leave one cleanup unaddressed: The ledger schema, server writes, app retry flow, and rollout cleanup all merged successfully. Maya ruled out database-side deduplication because retries can cross transaction boundaries. The remaining cleanup is",
+   "email_candidates": [
+    {
+     "email": "founders@nessielabs.com",
+     "where": "https://nessielabs.com/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "bd8c0a4f95",
+   "company": "Axross Pte Ltd",
+   "website": "https://www.axross.co/",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Singapore, Singapore; Jakarta, Jakarta, Indonesia",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. AI-driven HVAC control system for improved energy performance At Axross, we specialize in delivering AI-driven HVAC control systems designed to enhance energy efficiency and reduce operational costs for manufacturers. Our solutions are tailored to meet the stringent requirements of industries, where maintaining precise environmental conditions is critical. With a team of experts in AI, data science, and industrial systems, Axross is committed to providing reliable, scalable solutions that help manufacturers achieve their energy efficiency goals and support sustainable practices. B2B, Manufacturing, AI, B2B, Engineering, Product and Design, Singapore, Indonesia, Southeast Asia, Remote, Partly Remote",
+   "site_text": "[https://www.axross.co/]\nAxross Pte. Ltd. | HVAC Solution top of page Driving AI-Powered Energy Efficiency We enable industrial facilities to become smarter, greener, and more efficient, through AI-driven automated HVAC system controls. Learn More Our AI-driven HVAC control solution can unlock transformative benefits for industrial facilities, such as : Up to 30% ​ in realised HVAC energy savings Lower scope 2 GHG emissions Proactively stabilize production environment Improved operational efficiency from automation Product Our solution enhances HVAC systems by integrating additional layers of control and optimization into existing infrastructure 02 / BMS System Integration We extract and leverage historical & real-time data from BMS to build a predictive engine for forecasting energy consumption & cooling demand. 03 / IoT data analytics. We deploy IoT sensors to gather data on environmental conditions and system performance, facilitating dynamic real-time adjustments. 04 / Automated HVAC controls. We automate HVAC controls to enable faster reactions and deliver the optimal configuration and sequencing of HVAC equipment. Decision Layer Control Layer Equipment Layer Sensor & IoT Layer 01 / Intelligent optimisation. We utilize machine learning algorithms to improve energy efficiency, while maintaining key environmental requirements (e.g., temperature, humidity, particle counts). Contact Us : Discover how we can help your company lower energy consumption and meet sustainability goals Please fill your contact details below : Demo bottom of page",
+   "email_candidates": [
+    {
+     "email": "info@axross.co",
+     "where": "https://www.axross.co/",
+     "kind": "generic"
+    },
+    {
+     "email": "david@axross.co",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "David Chew",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "c11dae684b",
+   "company": "Malama Health",
+   "website": "https://www.heymalama.co",
+   "title": "Support Engineer, AI & Operations",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Support Engineer, AI & Operations (US / Remote (US); experience: Any (new grads ok); US citizen/visa only). Team size: 3. Doula-led holistic support during and after pregnancy Malama offers doula-led holistic support during and after pregnancy at no cost to patients. Malama is in-network with Aetna, UnitedHealthcare, Anthem, Kaiser, and several Medicaid Managed Care Plans. Malama is backed by the Stanford d.school, Y Combinator (S22), Alpine Investors and more. Health Tech, Digital Health, Healthcare, Femtech, Healthcare, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://heymalama.co/]\nMalama | Medicaid Pregnancy & Postpartum Support Upcoming Community Baby Shower in Houston! Oct 10, 2026 Upcoming Community Baby Shower in Houston! Oct 10, 2026 Patient Enrollment Provider Login One-on-One Maternal Care Thatâs Always There Pregnancy & postpartum support rooted in community. Get connected to resources covered by your insurance: Meals Housing Rides Prenatal care Baby Supplies Get Started Malama Member Benefits With one-on-one care, you wonât navigate pregnancy alone. Join Now Malama Member Benefits With one-on-one care, you won't navigate pregnancy alone. Join Now + One-on-one Care Management + Clinical Support + Resources Covered by Insurance + With You Every Step of the Way One-on-one Care Management - Community-based Care Managers who understand your world and stay by your side to coordinate your pregnancy. Resources Covered by Insurance + Clinical Support + With You Every Step of the Way + Gestational Diabetes Support Your Health in Your Hands Continuous support, community and education for managing gestational diabetes and preventing postpartum diabetes. Track Glucose & Meals Real-Time Health Feedback for You & Your Provider Postpartum Wellness & Diabetes Prevention Programs Download Our Free App Care Management Led by Certified Doulas Our dedicated Care Managers combine doula-led maternal wisdom with expertise in case management, behavioral health and advocacy. Supporting mothers and families through the complex realities of modern pregnancy, we surround you with the presence and depth of care that no clinical protocol can replicate. About Malama Doulas In Network with National Health Plans Mothers hold the world together. Malama holds you. Real Malama Member Aysia Real Malama Member Yazmine Real Malama Member Leslie We surround the journey of motherhoodâreplacing fear and isolation with hands-on care that creates healthier futures for mothers, babies and families. About Us For Providers Provider Care Extended Beyond the Clinic The admin and social support your patients need beyond the visit for better outcomes at every visit. See Provider Benefits When mothers thrive, the community they raise flourishes too. The improved health outcomes that every mother deserves. 40% Reduction in preterm birth* 19.4% Reduction in C-sections* 27% Reduction in NICU admissions* 80% Achieve active glucose control in ~2 weeks 86 NPS Our members highly recommend Malama 40K Mothers supported (and growing) Trusted by Leading Providers Trusted by Leading Providers In the News âMalama Health has earned that trust in communities that have been failed by the healthcare system for generations, and the outcomes data shows what's possible when you build care around women rather than around appointments.â Fierce Healthcare, 2026 â[Doula-Care Navigators are] trained in both doula support and social determinants navigation, embedded in the communities they serve. They attend births, conduct home visits, and escalate clinical signals in real time through a HIPAA-compliant dashboard with Epic integrationâand they also help women find car seats, book pediatricians, and locate WIC sites with supplies in stock.â Forbes, 2026 âSome 50,000 moms across the United States have used Malama since the app was introduced little more than three years ago.â The Business Journals, 2026 About Blog Research Press Patient Enrollment Provider Account Setup Contact FAQs Terms of Service Privacy Policy HIPAA Notice of Privacy Practices Security Malama Health FCOI Policy Â© 2026 Malama Healthâ¢ One-on-One Maternal Care That's Always There Pregnancy & postpartum support rooted in community. Get connected to resources covered by your insurance: Meals Housing Rides Prenatal care Baby Supplies Get Started Care Management Led by Certified Doulas Our dedicated Care Managers combine doula-led maternal wisdom with expertise in case management, behavioral health and advocacy. Supporting mothers and families through the complex",
+   "email_candidates": [
+    {
+     "email": "hello@heymalama.com",
+     "where": "https://heymalama.co/",
+     "kind": "generic"
+    },
+    {
+     "email": "mika@heymalama.co",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mika Eddy",
+     "role": "Founder"
+    },
+    {
+     "email": "orlando@heymalama.co",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Orlando Li",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}
