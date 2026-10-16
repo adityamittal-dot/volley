@@ -891,6 +891,12 @@
     "message_id": "<179178546295.2052.13786840255837938901@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:43:01Z",
+    "message_id": "<179212577880.2053.15968982282941014855@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -919,7 +925,7 @@
   },
   "score": 8.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/measured",
   "website": "https://trymeasured.com/",
@@ -14848,6 +14854,12 @@
     "message_id": "<179178569307.2052.18440228075277038641@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:43:19Z",
+    "message_id": "<179212579682.2053.18196337707143910786@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -14875,7 +14887,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/goodfin",
   "website": "http://www.goodfin.com",
@@ -14916,6 +14928,12 @@
     "message_id": "<179178570530.2052.709602807642635069@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:43:27Z",
+    "message_id": "<179212580596.2053.14280791267408265737@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -14954,7 +14972,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Summer 2018)",
   "url": "https://www.ycombinator.com/companies/quickchat-ai",
   "website": "https://quickchat.ai/",
@@ -18536,6 +18554,12 @@
     "message_id": "<179178579239.2052.1368386685364494252@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:43:45Z",
+    "message_id": "<179212582267.2053.8135109594000157492@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:56Z",
@@ -18566,7 +18590,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Spring 2026)",
   "url": "https://www.ycombinator.com/companies/minicor",
   "website": "https://minicor.com",
@@ -20809,6 +20833,12 @@
     "message_id": "<179178583492.2052.3467014239249752620@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:43:55Z",
+    "message_id": "<179212583315.2053.17027741392541752358@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -20837,7 +20867,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/serif-health",
   "website": "https://www.serifhealth.com",
@@ -23818,6 +23848,12 @@
     "message_id": "<179178591734.2052.6912072415148103870@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:44:05Z",
+    "message_id": "<179212584346.2053.10538604666461321454@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:56Z",
@@ -23846,7 +23882,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/ramain",
   "website": "https://ramain.ai",
@@ -30741,6 +30777,12 @@
     "message_id": "<179178598926.2052.11971756710243886660@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:44:17Z",
+    "message_id": "<179212585523.2053.4481060371937141995@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -30786,7 +30828,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2023)",
   "url": "https://www.ycombinator.com/companies/invopop",
   "website": "https://www.invopop.com/",
@@ -35519,6 +35561,12 @@
     "message_id": "<179178606577.2052.11998613580171850530@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:44:34Z",
+    "message_id": "<179212587219.2053.9862178703575151590@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -35544,7 +35592,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Summer 2023)",
   "url": "https://www.ycombinator.com/companies/morph",
   "website": "https://morphllm.com",
@@ -36741,6 +36789,12 @@
     "message_id": "<179178609545.2052.14732592041783054@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:44:41Z",
+    "message_id": "<179212588015.2053.8078226421190866990@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -36779,7 +36833,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2020)",
   "url": "https://www.ycombinator.com/companies/signadot",
   "website": "https://www.signadot.com/",
@@ -41356,6 +41410,12 @@
     "message_id": "<179178614924.2052.13379684140798867949@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:44:59Z",
+    "message_id": "<179212589605.2053.12127163170582816131@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -41381,7 +41441,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Summer 2024)",
   "url": "https://www.ycombinator.com/companies/educato",
   "website": "https://www.educato.com/",
@@ -45989,6 +46049,12 @@
     "message_id": "<179178621530.2052.2815611239599810783@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:45:09Z",
+    "message_id": "<179212590802.2053.2241403722830395763@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-05T06:19:22Z",
@@ -46030,7 +46096,7 @@
   },
   "score": 10.0,
   "source": "hn_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Embedded Software Engineer",
   "url": "https://news.ycombinator.com/item?id=49937104",
   "website": "https://paradromics.com",
@@ -49772,6 +49838,12 @@
     "message_id": "<179178629302.2052.2706879956685110612@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:45:19Z",
+    "message_id": "<179212591703.2053.11085042867178080943@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -49808,7 +49880,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2023)",
   "url": "https://www.ycombinator.com/companies/escape",
   "website": "https://escape.tech",
@@ -60195,6 +60267,12 @@
     "message_id": "<179178644164.2052.13362619298517590122@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:45:33Z",
+    "message_id": "<179212592981.2053.4207044460853412870@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -60226,7 +60304,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2019)",
   "url": "https://www.ycombinator.com/companies/numero",
   "website": "https://www.numero.ai",
@@ -62763,6 +62841,12 @@
     "message_id": "<179178648297.2052.10865625626501187409@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:45:46Z",
+    "message_id": "<179212594361.2053.17613041559384926275@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -62801,7 +62885,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2019)",
   "url": "https://www.ycombinator.com/companies/sapling-ai",
   "website": "https://sapling.ai",
@@ -66200,6 +66284,12 @@
     "message_id": "<179178654932.2052.538293936753603257@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:45:59Z",
+    "message_id": "<179212595554.2053.9337455355760923894@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -66227,7 +66317,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/infer",
   "website": "https://www.infer.so/",
@@ -68447,6 +68537,12 @@
     "message_id": "<179178657888.2052.4779306829650170046@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:46:14Z",
+    "message_id": "<179212597196.2053.5140248550134484899@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-05T06:19:22Z",
@@ -68472,7 +68568,7 @@
   },
   "score": 14.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/drivebuddyai",
   "website": "https://www.drivebuddyai.co",
@@ -70775,6 +70871,12 @@
     "message_id": "<179178661859.2052.3045802515795020859@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-16T04:46:30Z",
+    "message_id": "<179212598875.2053.10284328922715821857@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-29T05:53:55Z",
@@ -70803,7 +70905,7 @@
   },
   "score": 8.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Summer 2024)",
   "url": "https://www.ycombinator.com/companies/cloudglue",
   "website": "https://cloudglue.dev",
