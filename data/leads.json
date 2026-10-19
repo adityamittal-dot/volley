@@ -67308,6 +67308,7 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "replied_at": "2026-10-19T20:01:51Z",
   "research": {
    "angle": "canopy",
    "angle_reason": "Nilenso specializes in AI-assisted development and developer-facing tools with functional programming rigor, closely aligned with Canopy's approach to AI-powered code analysis.",
@@ -67352,7 +67353,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "followup_2",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/nilenso",
   "website": "http://www.nilenso.com",

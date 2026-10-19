@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-19T15:44:47Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-19T20:02:08Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 230 · **Sent:** 230 · **Replies:** 29 (13%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 230 · **Sent:** 230 · **Replies:** 30 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -11,8 +11,8 @@ _Updated 2026-10-19T15:44:47Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | no_contact | 846 |
 | low_fit | 570 |
 | followup_1 | 58 |
-| followup_2 | 75 |
-| replied | 29 |
+| followup_2 | 74 |
+| replied | 30 |
 | bounced | 12 |
 | closed | 56 |
 
@@ -21,14 +21,14 @@ _Updated 2026-10-19T15:44:47Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | Angle | Sent | Replies |
 |---|---|---|
 | medvault | 123 | 14 |
-| canopy | 68 | 11 |
+| canopy | 68 | 12 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 189 | 23 |
+| role | 189 | 24 |
 | short | 41 | 6 |
 
 ## Replies
@@ -58,6 +58,7 @@ _Updated 2026-10-19T15:44:47Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **GattyWorks** —  <hello@gattyworks.com> replied 2026-10-09
 - **Izinga Software Private Limited** —  <hello@robustest.com> replied 2026-10-08
 - **xPay** —  <hello@xpaycheckout.com> replied 2026-10-08
+- **nilenso** —  <careers@nilenso.com> replied 2026-10-19
 - **Greenzie** — Charles Brian Quinn <cbq@greenzie.com> replied 2026-10-06
 - **Srapsware** — Shiv Singh <shiv@srapsware.com> replied 2026-10-12
 - **chainframe** — Nitin Shukla <nitin@chainframe.com> replied 2026-10-19
