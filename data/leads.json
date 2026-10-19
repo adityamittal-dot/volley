@@ -352,6 +352,12 @@
     "message_id": "<179187445816.2142.16651358040255674066@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:54:13Z",
+    "message_id": "<179238565224.2113.9501207634990214089@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-08T06:25:44Z",
@@ -384,7 +390,7 @@
   },
   "score": 8.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Globussoft-Technologies",
   "website": "https://globussoft.com",
@@ -1319,6 +1325,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T04:54:23Z",
+    "message_id": "<179238566249.2113.774898685293008026@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-09-29T05:53:56Z",
   "github_orgs": [
    "gamezop"
@@ -1360,7 +1374,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/gamezop",
   "website": "https://business.gamezop.com/about-us",
@@ -1953,6 +1967,12 @@
     "message_id": "<179178549999.2052.1709633066170585801@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:54:37Z",
+    "message_id": "<179238567636.2113.11910238724883540804@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-09-30T05:51:27Z",
@@ -1981,7 +2001,7 @@
   },
   "score": 8.0,
   "source": "hn_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "See posting",
   "url": "https://news.ycombinator.com/item?id=49964448",
   "website": "https://albert.com",
@@ -2527,6 +2547,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T04:54:48Z",
+    "message_id": "<179238568725.2113.1221539478860229236@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-09-29T05:53:55Z",
   "github_orgs": [
    "WarpBuilds"
@@ -2565,7 +2593,7 @@
   },
   "score": 5.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/warpbuild",
   "website": "https://www.warpbuild.com",
@@ -3250,6 +3278,12 @@
     "message_id": "<179187448220.2142.9667513003045653363@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:55:04Z",
+    "message_id": "<179238570237.2113.174102224408418320@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-08T06:25:44Z",
@@ -3277,7 +3311,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/deepklarity",
   "website": "https://deepklarity.com",
@@ -3931,6 +3965,14 @@
    "subject": "Software engineering intern at Hypercubic"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T04:55:18Z",
+    "message_id": "<179238571804.2113.13185414052537878798@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-02T05:56:34Z",
   "github_orgs": [],
   "id": "0ecf66effb",
@@ -3955,7 +3997,7 @@
   },
   "score": 5.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Fall 2025)",
   "url": "https://www.ycombinator.com/companies/hypercubic",
   "website": "https://www.hypercubic.ai/",
@@ -4134,6 +4176,14 @@
   "emails": [
    "dev@incredible.dev"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T04:55:34Z",
+    "message_id": "<179238573335.2113.689777863298706212@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-08T06:25:44Z",
   "github_orgs": [
    "IncredibleDevHQ"
@@ -4167,7 +4217,7 @@
   },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/IncredibleDevHQ",
   "website": "https://incredible.dev",
@@ -4562,6 +4612,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T04:55:49Z",
+    "message_id": "<179238574908.2113.8116674589966908332@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-01T06:15:10Z",
   "github_orgs": [],
   "id": "1128d48fb2",
@@ -4582,7 +4640,7 @@
   },
   "score": 5.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2023)",
   "url": "https://www.ycombinator.com/companies/numen",
   "website": "https://www.numen.com",
@@ -6532,6 +6590,12 @@
     "message_id": "<179178556579.2052.2632574994784413146@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:56:04Z",
+    "message_id": "<179238576374.2113.12463773547128754817@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -6579,7 +6643,7 @@
   },
   "score": 7.0,
   "source": "hn_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "https://betterstack.com/",
   "url": "https://news.ycombinator.com/item?id=49966033",
   "website": "https://betterstack.com",
@@ -7818,6 +7882,12 @@
     "message_id": "<179178559082.2052.10973887155649776954@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:56:19Z",
+    "message_id": "<179238577878.2113.746281318939853427@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -7840,7 +7910,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Summer 2024)",
   "url": "https://www.ycombinator.com/companies/saturn",
   "website": "https://www.SaturnOS.com",
@@ -8536,6 +8606,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T04:56:33Z",
+    "message_id": "<179238579277.2113.15523726406988153250@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-13T07:19:57Z",
   "github_orgs": [
    "nfnlabs"
@@ -8570,7 +8648,7 @@
   },
   "score": 7.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/nfnlabs",
   "website": "https://www.nfnlabs.in/",
@@ -9560,6 +9638,14 @@
   "emails": [
    "hello@techverito.com"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T04:56:43Z",
+    "message_id": "<179238580183.2113.15827738401796577388@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-09T06:28:12Z",
   "github_orgs": [
    "TechVerito"
@@ -9589,7 +9675,7 @@
   },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/TechVerito",
   "website": "https://www.techverito.com",
@@ -9958,6 +10044,12 @@
     "message_id": "<179178560951.2052.17803093945317473149@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:56:50Z",
+    "message_id": "<179238581007.2113.846614657128755291@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-02T05:56:34Z",
@@ -9995,7 +10087,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Fall 2025)",
   "url": "https://www.ycombinator.com/companies/hyperspell",
   "website": "https://hyperspell.com",
@@ -10143,6 +10235,14 @@
   "emails": [
    "42@doselect.com"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T04:57:05Z",
+    "message_id": "<179238582472.2113.4338420715452567351@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-08T06:25:44Z",
   "github_orgs": [
    "doselect"
@@ -10170,7 +10270,7 @@
   },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/doselect",
   "website": "https://doselect.com",
@@ -10339,6 +10439,12 @@
     "message_id": "<179187451880.2142.13626986518682869578@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:57:17Z",
+    "message_id": "<179238583688.2113.4187848979232080790@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-08T06:25:44Z",
@@ -10374,7 +10480,7 @@
   },
   "score": 8.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/urbanmorph",
   "website": "https://urbanmorph.com",
@@ -10556,6 +10662,12 @@
     "message_id": "<179178562329.2052.4649814726982585864@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:57:24Z",
+    "message_id": "<179238584338.2113.8630904154845521322@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:48Z",
@@ -10580,7 +10692,7 @@
   },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/TrueArrowSoftware",
   "website": "http://truearrow.software",
@@ -10946,6 +11058,12 @@
     "message_id": "<179178563316.2052.9689229756829326478@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:57:39Z",
+    "message_id": "<179238585720.2113.1033086663308479208@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:48Z",
@@ -10977,7 +11095,7 @@
   },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/pyza-labs",
   "website": "https://www.pyzalabs.com",
@@ -12213,6 +12331,12 @@
     "message_id": "<179178567066.2052.8753584814162820850@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:57:47Z",
+    "message_id": "<179238586639.2113.1090526347986705981@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -12243,7 +12367,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Spring 2025)",
   "url": "https://www.ycombinator.com/companies/cubic",
   "website": "https://cubic.dev/",
@@ -13615,6 +13739,12 @@
     "message_id": "<179187454529.2142.9056328341457553608@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:57:54Z",
+    "message_id": "<179238587361.2113.14719835902351969884@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-08T06:25:44Z",
@@ -13640,7 +13770,7 @@
   },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/yellowsense",
   "website": "https://yellowsense.in",
@@ -15317,6 +15447,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T04:58:07Z",
+    "message_id": "<179238588701.2113.12678638338324045606@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [
    "rootlyhq"
@@ -15351,7 +15489,7 @@
   },
   "score": 5.5,
   "source": "hn_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "https://rootly.com/",
   "url": "https://news.ycombinator.com/item?id=49926195",
   "website": "https://rootly.com",
@@ -15756,6 +15894,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T04:58:17Z",
+    "message_id": "<179238589610.2113.4566853384726258217@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [],
   "id": "358c3c4b00",
@@ -15779,7 +15925,7 @@
   },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2023)",
   "url": "https://www.ycombinator.com/companies/aglide",
   "website": "https://aglide.com",
@@ -16241,6 +16387,12 @@
     "message_id": "<179178572843.2052.983846213380116994@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:58:24Z",
+    "message_id": "<179238590289.2113.14526912943504004123@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -16271,7 +16423,7 @@
   },
   "score": 6.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/blacksmith",
   "website": "https://blacksmith.sh/",
@@ -17164,6 +17316,14 @@
   "emails": [
    "john@withrebar.ai"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T04:58:34Z",
+    "message_id": "<179238591357.2113.13627179881185252757@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-05T06:19:22Z",
   "github_orgs": [],
   "id": "39a9b20b40",
@@ -17201,7 +17361,7 @@
   },
   "score": 12,
   "source": "hn_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineers (Product, Applied AI, ML Infra, Data Platform)",
   "url": "https://news.ycombinator.com/item?id=49934530",
   "website": "https://withrebar.ai",
@@ -17433,6 +17593,12 @@
     "message_id": "<179178575708.2052.7741085978624859608@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:58:48Z",
+    "message_id": "<179238592748.2113.3147454661264144595@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -17455,7 +17621,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/stilta",
   "website": "https://stilta.com",
@@ -17545,6 +17711,14 @@
   "emails": [
    "miftahsoftware@gmail.com"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T04:58:58Z",
+    "message_id": "<179238593703.2113.14756109239084141458@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-08T06:25:44Z",
   "github_orgs": [
    "MiftahSoftware"
@@ -17570,7 +17744,7 @@
   },
   "score": 13.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/MiftahSoftware",
   "website": "https://www.miftahsoftware.com",
@@ -17609,6 +17783,14 @@
   "emails": [
    "miftahsoftware@gmail.com"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T04:59:06Z",
+    "message_id": "<179238594491.2113.17119502541562687147@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-08T06:25:44Z",
   "github_orgs": [
    "MiftahSoftware"
@@ -17640,7 +17822,7 @@
   },
   "score": 13.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/MiftahSoftware",
   "website": "https://www.miftahsoftware.com",
@@ -17817,6 +17999,12 @@
     "message_id": "<179178576916.2052.9673673205455061604@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:59:18Z",
+    "message_id": "<179238595688.2113.10123007319988696954@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -17867,7 +18055,7 @@
   },
   "score": 10.0,
   "source": "hn_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineer, AI Platform",
   "url": "https://news.ycombinator.com/item?id=49962002",
   "website": "https://singlestore.com",
@@ -18702,6 +18890,14 @@
   "emails": [
    "hr@startxlabs.com"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T04:59:26Z",
+    "message_id": "<179238596559.2113.5482141700272945723@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-13T07:19:57Z",
   "github_orgs": [],
   "id": "3ef3922880",
@@ -18731,7 +18927,7 @@
   },
   "score": 18,
   "source": "linkedin",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Python Django Developer (Backend) — 1-3 Years",
   "url": "https://in.linkedin.com/jobs/view/python-django-developer-backend-%E2%80%94-1-3-years-at-startxlabs-4477295799",
   "website": "https://startxlabs.com",
@@ -21881,6 +22077,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T04:59:42Z",
+    "message_id": "<179238598083.2113.6868460285794033863@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-01T06:15:10Z",
   "github_orgs": [],
   "id": "4a04b1b23d",
@@ -21901,7 +22105,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2025)",
   "url": "https://www.ycombinator.com/companies/athenahq",
   "website": "https://www.athenahq.ai",
@@ -22490,6 +22694,12 @@
     "message_id": "<179178585961.2052.16949282355126280261@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T04:59:53Z",
+    "message_id": "<179238599280.2113.14638800195812621341@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -22517,7 +22727,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Summer 2025)",
   "url": "https://www.ycombinator.com/companies/comena",
   "website": "https://comena.ai",
@@ -22721,6 +22931,12 @@
     "message_id": "<179178587465.2052.993895520593905592@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:00:04Z",
+    "message_id": "<179238600410.2113.3962227020193878507@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-05T06:19:22Z",
@@ -22749,7 +22965,7 @@
   },
   "score": 8.0,
   "source": "arbeitnow",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
   "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-freiburg-76484",
   "website": "https://wattfox.de",
@@ -22880,6 +23096,12 @@
     "message_id": "<179178588503.2052.8105445324626284075@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:00:19Z",
+    "message_id": "<179238601876.2113.12896088107880777586@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-01T06:15:10Z",
@@ -22905,7 +23127,7 @@
   },
   "score": 7.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Spring 2025)",
   "url": "https://www.ycombinator.com/companies/parsewise",
   "website": "https://parsewise.ai",
@@ -23402,6 +23624,12 @@
     "message_id": "<179178589511.2052.9203398523902666385@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:00:30Z",
+    "message_id": "<179238602762.2113.4113199882794197625@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-07T06:21:45Z",
@@ -23447,7 +23675,7 @@
   },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/practo",
   "website": "https://www.practo.com",
@@ -23580,6 +23808,12 @@
     "message_id": "<179178590274.2052.7135333518062435377@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:00:46Z",
+    "message_id": "<179238604242.2113.16998138962069222390@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-07T06:21:45Z",
@@ -23607,7 +23841,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Hashnode",
   "website": "https://hashnode.com",
@@ -24394,6 +24628,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:00:54Z",
+    "message_id": "<179238605135.2113.11423188589871519925@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-13T07:19:57Z",
   "github_orgs": [
    "sanchogodinhoapps"
@@ -24429,7 +24671,7 @@
   },
   "score": 8.0,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/sanchogodinhoapps",
   "website": "https://sg-app.com",
@@ -26148,6 +26390,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:01:07Z",
+    "message_id": "<179238606641.2113.14814366401837882046@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-01T06:15:10Z",
   "github_orgs": [
    "paradedb"
@@ -26176,7 +26426,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2023)",
   "url": "https://www.ycombinator.com/companies/paradedb",
   "website": "https://paradedb.com",
@@ -26756,6 +27006,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:01:15Z",
+    "message_id": "<179238607435.2113.7150167164397495908@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [],
   "id": "5ab68f68c0",
@@ -26781,7 +27039,7 @@
   },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Spring 2025)",
   "url": "https://www.ycombinator.com/companies/scalar-field",
   "website": "https://www.scalarfield.io/",
@@ -27320,6 +27578,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:01:30Z",
+    "message_id": "<179238609013.2113.15169360043550438025@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-01T06:15:10Z",
   "github_orgs": [],
   "id": "5bae2820eb",
@@ -27340,7 +27606,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2023)",
   "url": "https://www.ycombinator.com/companies/speedy-labs",
   "website": "https://speedylabs.ai/",
@@ -27762,6 +28028,14 @@
   "emails": [
    "contact@blackcurrantapps.com"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T05:01:44Z",
+    "message_id": "<179238610343.2113.14085126242213879300@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-13T07:19:57Z",
   "github_orgs": [
    "BlackcurrantLabs"
@@ -27808,7 +28082,7 @@
   },
   "score": 12.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/BlackcurrantLabs",
   "website": "https://www.blackcurrantapps.com",
@@ -28861,6 +29135,12 @@
     "message_id": "<179178594148.2052.13641122415569290962@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:01:50Z",
+    "message_id": "<179238610937.2113.17016415360531670399@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-01T06:15:10Z",
@@ -28887,7 +29167,7 @@
   },
   "score": 7.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Summer 2024)",
   "url": "https://www.ycombinator.com/companies/blaze-2",
   "website": "https://blaze.money",
@@ -30346,6 +30626,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:02:04Z",
+    "message_id": "<179238612276.2113.5549115158726595741@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-07T06:21:45Z",
   "github_orgs": [
    "segmind"
@@ -30377,7 +30665,7 @@
   },
   "score": 8.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/segmind",
   "website": "https://segmind.com",
@@ -31320,6 +31608,12 @@
     "message_id": "<179178601687.2052.8645010220014250945@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:02:14Z",
+    "message_id": "<179238613398.2113.17257307431265698864@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-01T06:15:10Z",
@@ -31345,7 +31639,7 @@
   },
   "score": 7.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Summer 2024)",
   "url": "https://www.ycombinator.com/companies/zeit-ai",
   "website": "https://zeit-ai.com/",
@@ -31388,6 +31682,12 @@
     "message_id": "<179178602633.2052.14860598063600837912@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:02:29Z",
+    "message_id": "<179238614903.2113.15135879689386315546@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:48Z",
@@ -31413,7 +31713,7 @@
   },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/91social",
   "website": "https://www.91social.com",
@@ -32803,6 +33103,12 @@
     "message_id": "<179187459206.2142.12079451157692250150@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:02:45Z",
+    "message_id": "<179238616424.2113.13716627534970540630@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-08T06:25:44Z",
@@ -32830,7 +33136,7 @@
   },
   "score": 8.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/hopit-ai",
   "website": "https://hopit.ai",
@@ -33367,6 +33673,14 @@
    "subject": "Software engineering intern at Protex AI"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:03:01Z",
+    "message_id": "<179238617904.2113.7836143828232044036@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [],
   "id": "715bd673e1",
@@ -33390,7 +33704,7 @@
   },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/protex-ai",
   "website": "https://www.protex.ai",
@@ -34347,6 +34661,12 @@
     "message_id": "<179178604562.2052.11594857882616338577@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:03:15Z",
+    "message_id": "<179238619493.2113.13659185165895165403@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-01T06:15:10Z",
@@ -34369,7 +34689,7 @@
   },
   "score": 7.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Spring 2025)",
   "url": "https://www.ycombinator.com/companies/lucis",
   "website": "https://www.lucis.life",
@@ -34869,6 +35189,12 @@
     "message_id": "<179178605711.2052.8029054256232626085@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:03:22Z",
+    "message_id": "<179238620130.2113.9754570943092590491@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-02T05:56:34Z",
@@ -34894,7 +35220,7 @@
   },
   "score": 7.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Fall 2025)",
   "url": "https://www.ycombinator.com/companies/complydo",
   "website": "https://www.complydo.io/",
@@ -35863,6 +36189,12 @@
     "message_id": "<179178607500.2052.5497217510259487466@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:03:32Z",
+    "message_id": "<179238621203.2113.8859533330938510775@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -35894,7 +36226,7 @@
   },
   "score": 6.5,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Spring 2025)",
   "url": "https://www.ycombinator.com/companies/casco",
   "website": "https://casco.com",
@@ -36074,6 +36406,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:03:46Z",
+    "message_id": "<179238622613.2113.12260676893647659674@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-02T05:56:34Z",
   "github_orgs": [],
   "id": "7d093e76de",
@@ -36099,7 +36439,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Spring 2026)",
   "url": "https://www.ycombinator.com/companies/humwork",
   "website": "https://humwork.ai",
@@ -37307,6 +37647,14 @@
    "subject": "Full Stack Engineer – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:03:55Z",
+    "message_id": "<179238623446.2113.8040810829488700938@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-09-25T12:17:32Z",
   "github_orgs": [
    "serpapi"
@@ -37333,7 +37681,7 @@
   },
   "score": 9.0,
   "source": "hn_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "https://serpapi.com",
   "url": "https://news.ycombinator.com/item?id=49531646",
   "website": "https://serpapi.com"
@@ -38394,6 +38742,12 @@
     "message_id": "<179178612024.2052.12463102657876442882@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:04:06Z",
+    "message_id": "<179238624546.2113.14886646091628863328@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-07T06:21:45Z",
@@ -38422,7 +38776,7 @@
   },
   "score": 13.0,
   "source": "hn_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Product Engineer",
   "url": "https://news.ycombinator.com/item?id=49980137",
   "website": "https://realresponse.com",
@@ -39003,6 +39357,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:04:21Z",
+    "message_id": "<179238626043.2113.16459385435510878858@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-01T06:15:10Z",
   "github_orgs": [],
   "id": "87c12cbff1",
@@ -39024,7 +39386,7 @@
   },
   "score": 7.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Spring 2025)",
   "url": "https://www.ycombinator.com/companies/bloom-4",
   "website": "https://bloom.diy/",
@@ -39753,6 +40115,14 @@
   "emails": [
    "hello@droidsize.in"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T05:04:34Z",
+    "message_id": "<179238627372.2113.10714472633266374514@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-08T06:25:44Z",
   "github_orgs": [
    "droidsize"
@@ -39790,7 +40160,7 @@
   },
   "score": 14.0,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/droidsize",
   "website": "http://droidsize.in",
@@ -41807,6 +42177,14 @@
   "emails": [
    "hello@micropyramid.com"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T05:04:42Z",
+    "message_id": "<179238628165.2113.13019809707324782508@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-12T06:39:58Z",
   "github_orgs": [
    "micropyramid"
@@ -41841,7 +42219,7 @@
   },
   "score": 13.0,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/MicroPyramid",
   "website": "https://micropyramid.com",
@@ -43895,6 +44273,12 @@
     "message_id": "<179178616413.2052.13441018981841771885@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:04:50Z",
+    "message_id": "<179238628952.2113.10580586809423989449@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -43932,7 +44316,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Fall 2024)",
   "url": "https://www.ycombinator.com/companies/smooth",
   "website": "https://smooth.sh",
@@ -43973,6 +44357,12 @@
     "message_id": "<179178617397.2052.8674651803415092492@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:05:04Z",
+    "message_id": "<179238630385.2113.2718685007386224551@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-01T06:15:10Z",
@@ -44000,7 +44390,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Fall 2024)",
   "url": "https://www.ycombinator.com/companies/moonset-health",
   "website": "https://www.moonsethealth.com/",
@@ -44774,6 +45164,12 @@
     "message_id": "<179178618883.2052.10533774567459441274@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:05:11Z",
+    "message_id": "<179238631098.2113.14508934450947226424@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-07T06:21:45Z",
@@ -44805,7 +45201,7 @@
   },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/cashfree",
   "website": "https://www.cashfree.com/",
@@ -45107,6 +45503,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:05:23Z",
+    "message_id": "<179238632233.2113.16016330676581280280@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-09-30T05:51:27Z",
   "github_orgs": [],
   "id": "9f137cdea2",
@@ -45127,7 +45531,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2022)",
   "url": "https://www.ycombinator.com/companies/delfino-ai",
   "website": "https://www.delfino.ai/",
@@ -45162,6 +45566,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:05:33Z",
+    "message_id": "<179238633233.2113.12799668817144888824@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-13T07:19:57Z",
   "github_orgs": [
    "The-Vibe-Company"
@@ -45190,7 +45602,7 @@
   },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/the-vibe-company",
   "website": "https://thevibecompany.co",
@@ -45233,6 +45645,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:05:40Z",
+    "message_id": "<179238633960.2113.16811198294976330285@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-13T07:19:57Z",
   "github_orgs": [
    "The-Vibe-Company"
@@ -45271,7 +45691,7 @@
   },
   "score": 10.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/the-vibe-company",
   "website": "https://thevibecompany.co",
@@ -46419,6 +46839,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:05:47Z",
+    "message_id": "<179238634693.2113.14663324236900299642@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-02T05:56:34Z",
   "github_orgs": [],
   "id": "a2cba8ee9f",
@@ -46439,7 +46867,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Fall 2025)",
   "url": "https://www.ycombinator.com/companies/antigen",
   "website": "https://antigen.sh/",
@@ -47324,6 +47752,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:05:55Z",
+    "message_id": "<179238635460.2113.2186012050483547071@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-09-30T05:51:27Z",
   "github_orgs": [
    "AndyStoneman",
@@ -47375,7 +47811,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2022)",
   "url": "https://www.ycombinator.com/companies/medplum",
   "website": "https://www.medplum.com",
@@ -47436,6 +47872,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:06:08Z",
+    "message_id": "<179238636783.2113.14983329056965699038@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-09-30T05:51:27Z",
   "github_orgs": [
    "AndyStoneman",
@@ -47509,7 +47953,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2022)",
   "url": "https://www.ycombinator.com/companies/medplum",
   "website": "https://www.medplum.com",
@@ -47664,6 +48108,12 @@
     "message_id": "<179178623849.2052.5117876056935720219@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:06:19Z",
+    "message_id": "<179238637839.2113.12651445897619208643@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-07T06:21:45Z",
@@ -47692,7 +48142,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/skit-ai",
   "website": "https://skit.ai",
@@ -47920,6 +48370,12 @@
     "message_id": "<179178624624.2052.200554526856829962@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:06:26Z",
+    "message_id": "<179238638581.2113.6966761372685289545@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -47947,7 +48403,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Spring 2026)",
   "url": "https://www.ycombinator.com/companies/juno-chat",
   "website": "https://junocompanion.com/",
@@ -49553,6 +50009,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:06:40Z",
+    "message_id": "<179238639996.2113.6800530871471011531@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-13T07:19:57Z",
   "github_orgs": [
    "egyanamtech"
@@ -49594,7 +50058,7 @@
   },
   "score": 8.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/egyanamtech",
   "website": "https://egyanamtech.com",
@@ -50061,6 +50525,14 @@
   "emails": [
    "kiet@superset.sh"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T05:06:50Z",
+    "message_id": "<179238640935.2113.4923189498485474183@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-05T06:19:22Z",
   "github_orgs": [
    "Kitenite",
@@ -50094,7 +50566,7 @@
   },
   "score": 5.5,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Founding Engineer, Founding Design Engineer",
   "url": "https://news.ycombinator.com/item?id=50000038",
   "website": "https://www.superset.sh/",
@@ -51535,6 +52007,12 @@
     "message_id": "<179178633318.2052.4559467848727111402@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:07:02Z",
+    "message_id": "<179238642172.2113.7280167418876675835@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-02T05:56:34Z",
@@ -51575,7 +52053,7 @@
   },
   "score": 7.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Fall 2025)",
   "url": "https://www.ycombinator.com/companies/metorial",
   "website": "https://metorial.com",
@@ -51800,6 +52278,12 @@
     "message_id": "<179178634795.2052.5344206280383599480@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:07:18Z",
+    "message_id": "<179238643714.2113.2322495882010232803@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-01T06:15:10Z",
@@ -51827,7 +52311,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/betterbasket",
   "website": "http://www.betterbasket.com",
@@ -52296,6 +52780,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:07:34Z",
+    "message_id": "<179238645347.2113.6464545694759206288@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-09T06:28:12Z",
   "github_orgs": [
    "nagu-code"
@@ -52334,7 +52826,7 @@
   },
   "score": 8.0,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/nagu-code",
   "website": "https://nagu.co",
@@ -53183,6 +53675,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:07:44Z",
+    "message_id": "<179238646226.2113.11223782652151305607@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-08T06:25:44Z",
   "github_orgs": [
    "Signzy"
@@ -53211,7 +53711,7 @@
   },
   "score": 8.0,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Signzy",
   "website": "https://signzy.com",
@@ -53553,6 +54053,14 @@
   "emails": [
    "dev@kubric.io"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T05:07:59Z",
+    "message_id": "<179238647689.2113.13752473572025817948@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-08T06:25:44Z",
   "github_orgs": [
    "cirbuk"
@@ -53585,7 +54093,7 @@
   },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/cirbuk",
   "website": "https://getmason.io",
@@ -55114,6 +55622,12 @@
     "message_id": "<179178638055.2052.12536917982494025121@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:08:11Z",
+    "message_id": "<179238649093.2113.13498859113529452927@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -55139,7 +55653,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/autositu",
   "website": "https://autositu.com/",
@@ -55781,6 +56295,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:08:21Z",
+    "message_id": "<179238649848.2113.8097984606823159198@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-02T05:56:34Z",
   "github_orgs": [],
   "id": "bd66c423dd",
@@ -55804,7 +56326,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Fall 2025)",
   "url": "https://www.ycombinator.com/companies/nessie",
   "website": "https://nessielabs.com/",
@@ -57183,6 +57705,14 @@
    "subject": "Software engineering intern at Open"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:08:33Z",
+    "message_id": "<179238651207.2113.15394784841939112868@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [
    "opencx-labs"
@@ -57217,7 +57747,7 @@
   },
   "score": 5.9,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/open",
   "website": "https://open.cx",
@@ -59082,6 +59612,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:08:47Z",
+    "message_id": "<179238652643.2113.14717190190795436276@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-09-30T05:51:28Z",
   "github_orgs": [],
   "id": "cad382de86",
@@ -59119,7 +59657,7 @@
   },
   "score": 10.0,
   "source": "funding_news",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (recently funded)",
   "url": "https://entrackr.com/news/edtech-startup-arivihan-raises-10-mn-in-series-a-led-by-accel-and-prosus-12592500",
   "website": "https://arivihan.com",
@@ -59207,6 +59745,14 @@
   "emails": [
    "makers@peoplebox.ai"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T05:09:02Z",
+    "message_id": "<179238654117.2113.11670419578462376157@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-09T06:28:12Z",
   "github_orgs": [
    "Peoplebox"
@@ -59236,7 +59782,7 @@
   },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Peoplebox",
   "website": "https://www.peoplebox.ai",
@@ -59734,6 +60280,12 @@
     "message_id": "<179178640542.2052.7691207223292712405@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:09:14Z",
+    "message_id": "<179238655364.2113.2270153825497806840@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-07T06:21:45Z",
@@ -59759,7 +60311,7 @@
   },
   "score": 8.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/karnivalpro",
   "website": "https://karnival.in",
@@ -60056,6 +60608,12 @@
     "message_id": "<179178641703.2052.7692810291048894593@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:09:25Z",
+    "message_id": "<179238656474.2113.9240641797276280337@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:47Z",
@@ -60086,7 +60644,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/sparkles",
   "website": "https://sparkles.dev",
@@ -60127,6 +60685,12 @@
     "message_id": "<179178642609.2052.14748792151953324104@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:09:35Z",
+    "message_id": "<179238657460.2113.5260180579079033728@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-02T05:56:34Z",
@@ -60153,7 +60717,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Engineering (YC Summer 2025)",
   "url": "https://www.ycombinator.com/companies/avent",
   "website": "https://www.aventindustrial.com",
@@ -61264,6 +61828,12 @@
     "message_id": "<179187467818.2142.8762954942935528323@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:09:42Z",
+    "message_id": "<179238658112.2113.11817775579517173994@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-08T06:25:44Z",
@@ -61294,7 +61864,7 @@
   },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/RoroIO",
   "website": "https://roro.io",
@@ -62201,6 +62771,14 @@
   "emails": [
    "info@mxbit.co.in"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T05:09:54Z",
+    "message_id": "<179238659212.2113.2433275228974244014@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-13T07:19:57Z",
   "github_orgs": [
    "mxbit"
@@ -62229,7 +62807,7 @@
   },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/mxbit",
   "website": "http://mxbit.co.in",
@@ -62405,6 +62983,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:10:00Z",
+    "message_id": "<179238660001.2113.9306830629621167852@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-09T06:28:12Z",
   "github_orgs": [
    "isometrikai"
@@ -62432,7 +63018,7 @@
   },
   "score": 7.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/isometrikai",
   "website": "https://isometrik.ai/",
@@ -63629,6 +64215,12 @@
     "message_id": "<179178649348.2052.14185644821268498655@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:10:08Z",
+    "message_id": "<179238660792.2113.8670086748509131221@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:48Z",
@@ -63669,7 +64261,7 @@
   },
   "score": 8.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/activesphere",
   "website": "https://www.activesphere.com",
@@ -63898,6 +64490,12 @@
     "message_id": "<179187469913.2142.11180275310554011319@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:10:24Z",
+    "message_id": "<179238662253.2113.3725029898606128170@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-08T06:25:44Z",
@@ -63923,7 +64521,7 @@
   },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/syook",
   "website": "http://syook.com",
@@ -64223,6 +64821,12 @@
     "message_id": "<179178652538.2052.10301526540851817813@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:10:40Z",
+    "message_id": "<179238663859.2113.9674090515681452443@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:48Z",
@@ -64247,7 +64851,7 @@
   },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/edisonlms",
   "website": "https://www.edisonos.com",
@@ -65761,6 +66365,14 @@
    "subject": "Software engineering intern at Sitefire"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:10:54Z",
+    "message_id": "<179238665288.2113.12328449974109113988@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [],
   "id": "e41ed3d777",
@@ -65781,7 +66393,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2026)",
   "url": "https://www.ycombinator.com/companies/sitefire",
   "website": "https://sitefire.ai",
@@ -66548,6 +67160,14 @@
   "emails": [
    "contact@blackflux.in"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T05:11:02Z",
+    "message_id": "<179238666113.2113.11869925475963459622@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-13T07:19:57Z",
   "github_orgs": [
    "blackfluxtech"
@@ -66590,7 +67210,7 @@
   },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/blackfluxtech",
   "website": "https://blackflux.in",
@@ -66667,6 +67287,12 @@
     "message_id": "<179178655838.2052.8128596300271167607@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:11:08Z",
+    "message_id": "<179238666742.2113.12133056814319046110@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-07T06:21:45Z",
@@ -66723,7 +67349,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/nilenso",
   "website": "http://www.nilenso.com",
@@ -66825,6 +67451,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:11:20Z",
+    "message_id": "<179238667931.2113.11101356859821138656@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-13T07:19:57Z",
   "github_orgs": [],
   "id": "e857d5fe5f",
@@ -66850,7 +67484,7 @@
   },
   "score": 15.0,
   "source": "linkedin",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering Intern",
   "url": "https://in.linkedin.com/jobs/view/software-engineering-intern-at-heads-up-for-tails-4477207173",
   "website": "https://headsupfortails.com",
@@ -68867,6 +69501,14 @@
   "emails": [
    "info@polymagelabs.com"
   ],
+  "followups": [
+   {
+    "at": "2026-10-19T05:11:28Z",
+    "message_id": "<179238668691.2113.3792481740691931461@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-12T06:39:58Z",
   "github_orgs": [],
   "id": "eede782255",
@@ -68897,7 +69539,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/polymage-labs",
   "website": "https://www.polymagelabs.com",
@@ -69536,6 +70178,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:11:43Z",
+    "message_id": "<179238670237.2113.2037026714700926734@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-02T05:56:34Z",
   "github_orgs": [
    "57hemanth",
@@ -69648,7 +70298,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2025)",
   "url": "https://www.ycombinator.com/companies/traceroot-ai",
   "website": "https://traceroot.ai",
@@ -70561,6 +71211,12 @@
     "message_id": "<179178660134.2052.16776611769105586452@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:11:55Z",
+    "message_id": "<179238671468.2113.12243614078199247592@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-07T06:21:45Z",
@@ -70599,7 +71255,7 @@
   },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Conferbot",
   "website": "https://www.conferbot.com/",
@@ -70692,6 +71348,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:12:07Z",
+    "message_id": "<179238672652.2113.4529483094408783250@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [
    "sourcegraph"
@@ -70717,7 +71381,7 @@
   },
   "score": 5.5,
   "source": "hn_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "See posting",
   "url": "https://news.ycombinator.com/item?id=49927984",
   "website": "https://sourcegraph.com",
@@ -70799,6 +71463,14 @@
    "subject": "Software Engineering Internship – Aditya Mittal"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:12:14Z",
+    "message_id": "<179238673357.2113.9694650072207194883@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [
    "sourcegraph"
@@ -70830,7 +71502,7 @@
   },
   "score": 5.5,
   "source": "hn_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "See posting",
   "url": "https://news.ycombinator.com/item?id=49927984",
   "website": "https://sourcegraph.com",
@@ -71397,6 +72069,14 @@
    "subject": "Software engineering intern at nao Labs"
   },
   "emails": [],
+  "followups": [
+   {
+    "at": "2026-10-19T05:12:27Z",
+    "message_id": "<179238674698.2113.7961614542122745850@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [
    "getnao"
@@ -71442,7 +72122,7 @@
   },
   "score": 6.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Spring 2025)",
   "url": "https://www.ycombinator.com/companies/nao-labs",
   "website": "https://getnao.io/",
@@ -71641,6 +72321,12 @@
     "message_id": "<179178665058.2052.17141568952320976070@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:12:43Z",
+    "message_id": "<179238676153.2113.12924580614064722999@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-06T06:45:48Z",
@@ -71677,7 +72363,7 @@
   },
   "score": 8.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/cybrilla",
   "website": "http://www.cybrilla.com",
@@ -72425,6 +73111,12 @@
     "message_id": "<179178667533.2052.4730634714841479453@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:12:50Z",
+    "message_id": "<179238677004.2113.10892688738039752334@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-07T06:21:45Z",
@@ -72461,7 +73153,7 @@
   },
   "score": 14.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/ChainFrame",
   "website": "https://chainframe.com",
@@ -72569,6 +73261,12 @@
     "message_id": "<179187471575.2142.4485384706211099457@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:13:06Z",
+    "message_id": "<179238678566.2113.8230329989604102642@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-08T06:25:44Z",
@@ -72603,7 +73301,7 @@
   },
   "score": 14.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Pantelwar",
   "website": "https://pantelwar.com",
@@ -73159,6 +73857,12 @@
     "message_id": "<179178668280.2052.18126398573506821830@gmail.com>",
     "mode": "send",
     "n": 1
+   },
+   {
+    "at": "2026-10-19T05:13:18Z",
+    "message_id": "<179238679805.2113.11125014806819389763@gmail.com>",
+    "mode": "send",
+    "n": 2
    }
   ],
   "found_at": "2026-10-07T06:21:45Z",
@@ -73186,7 +73890,7 @@
   },
   "score": 11.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "followup_2",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/smallcase",
   "website": "https://www.smallcase.com",
