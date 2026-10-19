@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-16T18:10:45Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-19T15:44:47Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 230 · **Sent:** 230 · **Replies:** 25 (11%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 230 · **Sent:** 230 · **Replies:** 29 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,39 +10,41 @@ _Updated 2026-10-16T18:10:45Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 5 |
 | no_contact | 846 |
 | low_fit | 570 |
-| sent | 52 |
-| followup_1 | 55 |
-| followup_2 | 74 |
-| replied | 25 |
+| followup_1 | 58 |
+| followup_2 | 75 |
+| replied | 29 |
 | bounced | 12 |
-| closed | 12 |
+| closed | 56 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 123 | 11 |
-| canopy | 68 | 10 |
+| medvault | 123 | 14 |
+| canopy | 68 | 11 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 189 | 21 |
-| short | 41 | 4 |
+| role | 189 | 23 |
+| short | 41 | 6 |
 
 ## Replies
 
 - **Uncountable** — Jason <jason@uncountable.com> replied 2026-10-05
 - **InfoHawk** — James <james@infohawk.com> replied 2026-09-29
+- **NFN Labs** — Ravi Kumar <ravi@nfnlabs.in> replied 2026-10-19
 - **CABLE** — Theo <theo@cable.energy> replied 2026-10-07
+- **True Arrow Software** —  <info@truearrow.software> replied 2026-10-19
 - **Stripe** — rishikej-stripe <rishikej@stripe.com> replied 2026-10-06
 - **GroMo** —  <contact@gromo.in> replied 2026-10-12
 - **Leeroo** —  <founders@leeroo.com> replied 2026-10-07
 - **Complir** —  <contact@complir.io> replied 2026-10-06
 - **Unsiloed AI** — André Castro <andre@unsiloed.ai> replied 2026-10-05
 - **Ionage** —  <careers@ionage.in> replied 2026-10-13
+- **Hopit** —  <arkid@hopit.ai> replied 2026-10-19
 - **nighthack** —  <careers@nighthack.in> replied 2026-10-12
 - **winkjs** —  <contactus@graype.in> replied 2026-09-29
 - **AgileHead** — Jeswin Kumar <jeswinpk@agilehead.com> replied 2026-10-13
@@ -58,34 +60,35 @@ _Updated 2026-10-16T18:10:45Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **xPay** —  <hello@xpaycheckout.com> replied 2026-10-08
 - **Greenzie** — Charles Brian Quinn <cbq@greenzie.com> replied 2026-10-06
 - **Srapsware** — Shiv Singh <shiv@srapsware.com> replied 2026-10-12
+- **chainframe** — Nitin Shukla <nitin@chainframe.com> replied 2026-10-19
 - **Loop Subscriptions** —  <hiring@loopwork.co> replied 2026-10-09
 
 ## Latest 25 emails
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
-| 2026-10-14 | Antigen | founders@antigen.sh | canopy | sent |
-| 2026-10-14 | ParadeDB | ming.ying.nyc@gmail.com | canopy | sent |
-| 2026-10-14 | AthenaHQ | careers@athenahq.ai | medvault | sent |
-| 2026-10-14 | Rootly | spencerhcheng@gmail.com | canopy | sent |
-| 2026-10-14 | Speedy Labs | brandon@speedylabs.ai | medvault | sent |
-| 2026-10-14 | Nessie | founders@nessielabs.com | canopy | sent |
-| 2026-10-14 | Medplum | noah@medplum.com | medvault | sent |
-| 2026-10-14 | Medplum | careers@medplum.com | medvault | sent |
-| 2026-10-14 | Humwork | founders@humwork.ai | canopy | sent |
-| 2026-10-14 | Sourcegraph | enrique@sourcegraph.com | canopy | sent |
-| 2026-10-14 | Sourcegraph | stephanie.jarmak@sourcegraph.com | canopy | sent |
-| 2026-10-14 | Delfino AI | founders@delfino.ai | medvault | sent |
-| 2026-10-14 | The Vibe Company | victor@thevibecompany.co | medvault | sent |
-| 2026-10-14 | The Vibe Company | founders@thevibecompany.co | medvault | sent |
-| 2026-10-14 | Gamezop | anshgujral1997@gmail.com | canopy | sent |
-| 2026-10-14 | Droidsize | yogeshkumar180592@gmail.com | canopy | sent |
-| 2026-10-13 | SerpApi | victor@serpapi.com | canopy | sent |
-| 2026-10-13 | Rebar | john@withrebar.ai | medvault | sent |
-| 2026-10-13 | WarpBuild | deathbullet@gmail.com | canopy | sent |
-| 2026-10-13 | TraceRoot.AI | tanishsvalesha@gmail.com | canopy | sent |
-| 2026-10-13 | Arivihan | career@arivihan.com | medvault | sent |
-| 2026-10-13 | Bloom | apply@bloom.diy | medvault | sent |
+| 2026-10-14 | Antigen | founders@antigen.sh | canopy | followup_1 |
+| 2026-10-14 | ParadeDB | ming.ying.nyc@gmail.com | canopy | followup_1 |
+| 2026-10-14 | AthenaHQ | careers@athenahq.ai | medvault | followup_1 |
+| 2026-10-14 | Rootly | spencerhcheng@gmail.com | canopy | followup_1 |
+| 2026-10-14 | Speedy Labs | brandon@speedylabs.ai | medvault | followup_1 |
+| 2026-10-14 | Nessie | founders@nessielabs.com | canopy | followup_1 |
+| 2026-10-14 | Medplum | noah@medplum.com | medvault | followup_1 |
+| 2026-10-14 | Medplum | careers@medplum.com | medvault | followup_1 |
+| 2026-10-14 | Humwork | founders@humwork.ai | canopy | followup_1 |
+| 2026-10-14 | Sourcegraph | enrique@sourcegraph.com | canopy | followup_1 |
+| 2026-10-14 | Sourcegraph | stephanie.jarmak@sourcegraph.com | canopy | followup_1 |
+| 2026-10-14 | Delfino AI | founders@delfino.ai | medvault | followup_1 |
+| 2026-10-14 | The Vibe Company | victor@thevibecompany.co | medvault | followup_1 |
+| 2026-10-14 | The Vibe Company | founders@thevibecompany.co | medvault | followup_1 |
+| 2026-10-14 | Gamezop | anshgujral1997@gmail.com | canopy | followup_1 |
+| 2026-10-14 | Droidsize | yogeshkumar180592@gmail.com | canopy | followup_1 |
+| 2026-10-13 | SerpApi | victor@serpapi.com | canopy | followup_1 |
+| 2026-10-13 | Rebar | john@withrebar.ai | medvault | followup_1 |
+| 2026-10-13 | WarpBuild | deathbullet@gmail.com | canopy | followup_1 |
+| 2026-10-13 | TraceRoot.AI | tanishsvalesha@gmail.com | canopy | followup_1 |
+| 2026-10-13 | Arivihan | career@arivihan.com | medvault | followup_1 |
+| 2026-10-13 | Bloom | apply@bloom.diy | medvault | followup_1 |
 | 2026-10-13 | Hackerrank | internship-queries@hackerrank.com | canopy | replied |
-| 2026-10-13 | Heads Up For Tails | hireme@headsupfortails.com | medvault | sent |
-| 2026-10-13 | StartxLabs | hr@startxlabs.com | medvault | sent |
+| 2026-10-13 | Heads Up For Tails | hireme@headsupfortails.com | medvault | followup_1 |
+| 2026-10-13 | StartxLabs | hr@startxlabs.com | medvault | followup_1 |

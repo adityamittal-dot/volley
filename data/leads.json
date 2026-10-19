@@ -8625,6 +8625,7 @@
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
   "referral": true,
+  "replied_at": "2026-10-19T15:43:12Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "They ship AI-driven products into healthcare for clients, and MedVault is an LLM health product with a Django REST backend and per-user isolation.",
@@ -8648,7 +8649,7 @@
   },
   "score": 7.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/nfnlabs",
   "website": "https://www.nfnlabs.in/",
