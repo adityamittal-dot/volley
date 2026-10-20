@@ -9,6 +9,8 @@
 """
 import json
 import math
+import threading
+import time
 import re
 import shutil
 from types import SimpleNamespace
@@ -82,6 +84,24 @@ def _emailed_names(leads):
     return {_name(l["company"]) for l in leads.values() if (l.get("email") or {}).get("delivered_at")}
 
 
+# Oct 16-20 every prepare run hit the 40 min Actions timeout: one site that trickles bytes keeps a requests read
+# alive past its timeout (ProEducator: 17 min), so nothing got written and no email went out for 5 days.
+LEAD_DEADLINE = 90          # seconds of research per lead
+RESEARCH_BUDGET = 25 * 60   # the whole research step; the rest of the job must still commit and push
+
+
+def _research_with_deadline(lead):
+    """research.research() on a daemon thread, so a hung socket can't hold the run; the copy only lands if it ends."""
+    work = dict(lead)
+    t = threading.Thread(target=research.research, args=(work,), daemon=True)
+    t.start()
+    t.join(LEAD_DEADLINE)
+    if t.is_alive():
+        return False
+    lead.update(work)
+    return True
+
+
 def research_batch(leads, s, slots):
     if slots <= 0:
         return []
@@ -95,11 +115,18 @@ def research_batch(leads, s, slots):
     pool = sorted((l for l in leads.values() if l["status"] == "new"),
                   key=lambda l: (l.get("priority", 0), l.get("recontacted") == retry, l["score"]), reverse=True)
     batch = []
+    started = time.monotonic()
     for lead in pool:
         if len(batch) >= want:
             break
+        if time.monotonic() - started > RESEARCH_BUDGET:
+            log(f"research: {RESEARCH_BUDGET // 60} min budget used, writing {len(batch)} leads")
+            break
         log(f"research: {lead['company']} (score {lead['score']})")
-        research.research(lead)
+        if not _research_with_deadline(lead):
+            log(f"research: {lead['company']} took over {LEAD_DEADLINE}s, skipped")
+            lead["status"], lead["note"] = "skipped", "research timed out"
+            continue
         # Stored so the routine's sandbox and Actions resolve the same contact without DNS.
         lead["domain_mx"] = bool(lead.get("domain")) and research.has_mx(lead["domain"])
         # No address anywhere almost never ends in an email (tested: 0 of 3), so don't spend credits on it —

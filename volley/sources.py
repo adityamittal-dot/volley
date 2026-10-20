@@ -12,6 +12,7 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 import os
 import re
+import threading
 import time
 from datetime import datetime, timezone
 from urllib.parse import quote, urlparse
@@ -1364,22 +1365,40 @@ _SOURCES = {
 }
 
 
+SOURCE_DEADLINE = 8 * 60
+
+
 def fetch_all(enabled: dict, log=print, priority=None, known_urls=()) -> list:
     _KNOWN_URLS.clear()
     _KNOWN_URLS.update(known_urls)
     if priority:
         _INTERNSHALA_FLOOR.update(year=priority["min_lpa"] * 100000, month=priority["min_stipend"])
-    all_leads = []
-    for key, fn in _SOURCES.items():
-        if not enabled.get(key):
-            continue
+    # Sources fetch in parallel (one after another took ~19 min, Internshala alone 10) on daemon threads, so a
+    # source still running at the deadline is dropped for the day instead of holding the whole run.
+    results, threads = {}, {}
+
+    def one(key, fn):
         try:
-            leads = fn()
+            results[key] = fn()
         except Exception as e:
-            log(f"source {key} failed: {e}")
-            continue
-        log(f"{key}: {len(leads)} leads")
-        all_leads.extend(leads)
+            results[key] = e
+
+    for key, fn in _SOURCES.items():
+        if enabled.get(key):
+            threads[key] = threading.Thread(target=one, args=(key, fn), daemon=True)
+            threads[key].start()
+    deadline = time.monotonic() + SOURCE_DEADLINE
+    all_leads = []
+    for key, t in threads.items():
+        t.join(max(0, deadline - time.monotonic()))
+        got = results.get(key)
+        if t.is_alive():
+            log(f"source {key} still running after {SOURCE_DEADLINE // 60} min, skipped today")
+        elif isinstance(got, Exception):
+            log(f"source {key} failed: {got}")
+        else:
+            log(f"{key}: {len(got)} leads")
+            all_leads.extend(got)
     return all_leads
 
 

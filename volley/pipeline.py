@@ -361,6 +361,11 @@ def deliver(leads, s, p, mode, box, all_regions=False):
     queue.sort(key=lambda l: (l.get("priority", 0), l["research"]["fit"],
                               CONFIDENCE_RANK.get(l["contact"]["confidence"], 0), l["score"]),
                reverse=True)
+    answered = answered_companies(leads)
+    for l in queue:
+        if _company(l) in answered:   # e.g. the referral ask to an engineer after the founder already replied
+            l["status"], l["note"] = "skipped", "someone at the company already replied"
+    queue = [l for l in queue if l["status"] == "queued"]
     sig = brain.signature(p)
     for lead in queue[:max(cap, 0)]:
         e = lead["email"]
@@ -415,13 +420,21 @@ def sync(leads, box):
             if box.bounced(c["email"], since):
                 lead["status"] = "bounced"
                 log(f"sync: {lead['company']} bounced")
-            elif box.replied(c["email"], max(since, lead.get("ignore_replies_before", ""))):   # e.g. an auto-ack
+            elif box.replied(c["email"], max(since, lead.get("ignore_replies_before", ""))) or \
+                    box.thread_replied([e.get("message_id")] + [f.get("message_id") for f in lead.get("followups", [])],
+                                       max(since, lead.get("ignore_replies_before", ""))):   # e.g. an auto-ack
                 lead["status"], lead["replied_at"] = "replied", store.iso()
                 log(f"sync: {lead['company']} REPLIED")
         except Exception as ex:
             failed.add(lead["id"])
             log(f"sync failed for {lead['company']}: {ex}")
     return failed
+
+
+def answered_companies(leads):
+    """Companies where anyone has ever replied: from then on the user talks to them, volley sends nothing more."""
+    return {_company(l) for l in leads.values()
+            if l.get("replied_at") or l["status"] in ("replied", "interview", "offer", "rejected")}
 
 
 def _company(lead):
@@ -433,7 +446,7 @@ def followups(leads, s, p, mode, box, unsynced=()):
         return
     d1, d2 = s["followup_days"]
     sig = brain.signature(p)
-    answered = {_company(l) for l in leads.values() if l["status"] in ("replied", "interview", "offer", "rejected")}
+    answered = answered_companies(leads)
     for lead in leads.values():
         e = lead.get("email") or {}
         if lead["status"] not in ("sent", "followup_1") or not e.get("sent_at"):

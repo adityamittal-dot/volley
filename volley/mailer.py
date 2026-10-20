@@ -100,8 +100,29 @@ class Mailbox:
         """True if the contact, or anyone else at their company domain, wrote to us since."""
         domain = to.split("@")[1]
         query = f"from:{to} after:{since}" if domain in FREEMAIL else f"from:@{domain} after:{since}"
-        return bool(self._search(query + " -in:sent -category:promotions -category:social -category:forums"
-                                         " -from:noreply -from:no-reply -from:notifications -from:newsletter"))
+        # No category filters: Gmail files some real replies under Updates/Promotions, and a missed reply means
+        # an automatic follow-up to someone the user is already talking to. A false stop costs far less.
+        return bool(self._search(query + " -in:sent -from:noreply -from:no-reply -from:notifications -from:newsletter"))
+
+    def thread_replied(self, message_ids, since):
+        """True if anyone but us wrote in the thread of one of our messages since YYYY/MM/DD. Catches replies from
+        another domain (a .in vs .com, a personal Gmail) or a colleague looped in, which replied() can't see."""
+        me = {creds()[0].lower(), (os.environ.get("SEND_AS") or "").lower()} - {""}
+        imap_since = time.strftime("%d-%b-%Y", time.strptime(since, "%Y/%m/%d"))
+        for mid in filter(None, message_ids):
+            nums = self._search(f"rfc822msgid:{mid.strip('<>')}")
+            if not nums:
+                continue
+            _, data = self.imap.fetch(nums[0], "(X-GM-THRID)")
+            m = re.search(rb"X-GM-THRID (\d+)", data[0] if isinstance(data[0], bytes) else data[0][0])
+            if not m:
+                continue
+            typ, found = self.imap.search(None, "X-GM-THRID", m.group(1).decode(), "SINCE", imap_since)
+            for num in (found[0].split() if typ == "OK" and found and found[0] else []):
+                sender = self._header(num, "From").lower()
+                if not any(a in sender for a in me) and not re.search(r"mailer-daemon|postmaster", sender):
+                    return True
+        return False
 
     def bounced(self, to, since):
         return bool(self._search(f'{{from:mailer-daemon from:postmaster}} after:{since} "{to}"'))
