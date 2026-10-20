@@ -202,6 +202,9 @@ def find_domain(company):
     return ""
 
 
+FINDER = 2   # bumped when the people finder gets a new way in; no_contact leads below it are retried
+
+
 def research(lead):
     """Fill lead['site'] with page text and lead['candidates'] with contact candidates."""
     if not lead.get("domain"):
@@ -245,6 +248,7 @@ def research(lead):
     # No person on the site: look up founders (YC) and engineers (GitHub org) by name.
     if not any(v["kind"] in ("personal", "hiring") for v in clean.values()):
         find_people(lead)
+    lead["finder"] = FINDER
     return lead
 
 
@@ -258,18 +262,9 @@ def guess_email(name, domain, known):
     first, last = parts[0], parts[-1] if len(parts) > 1 else ""
     patterns = {"first": first, "first.last": f"{first}.{last}", "firstlast": f"{first}{last}",
                 "flast": f"{first[0]}{last}", "f.last": f"{first[0]}.{last}"}
-    for addr in known:
-        local, _, host = addr.partition("@")
-        if host != domain:
-            continue
-        for kname, pattern in patterns.items():
-            if not last and kname != "first":
-                continue
-            # Recognize the pattern by shape, e.g. "jane.doe" -> first.last
-            if (kname == "first.last" and re.fullmatch(r"[a-z]+\.[a-z]+", local)) or \
-               (kname == "f.last" and re.fullmatch(r"[a-z]\.[a-z]+", local)) or \
-               (kname == "first" and re.fullmatch(r"[a-z]+", local) and local not in GENERIC_LOCAL):
-                return f"{pattern}@{domain}"
+    shape, _ = known_pattern(domain, {k for k in known if k.partition("@")[2] == domain})
+    if shape and (last or shape == "first"):
+        return f"{patterns[shape]}@{domain}"
     return f"{first}@{domain}"
 
 
@@ -323,26 +318,107 @@ def github_members(org, domain, limit=5):
             if not u.get("name"):
                 continue
             email = (u.get("email") or "").lower()
-            people.append({"name": u["name"], "role": "Engineer", "source": f"GitHub member ({org})",
+            people.append({"name": u["name"], "role": "Engineer", "source": f"GitHub member ({org})", "login": m["login"],
                            "email": email if domain and email.endswith("@" + domain) else ""})
     except (requests.RequestException, ValueError):
         pass
     return people
 
 
+def _gh_headers():
+    headers = {"Accept": "application/vnd.github+json"}
+    if os.environ.get("GITHUB_TOKEN"):
+        headers["Authorization"] = f"Bearer {os.environ['GITHUB_TOKEN']}"
+    return headers
+
+
+def _company_key(company):
+    return re.sub(r"[^a-z0-9]", "", LEGAL_SUFFIX.sub(" ", company or "").lower())
+
+
+def _same_company(profile, company, domain):
+    """A GitHub profile is this person at this company only if its company/blog/bio/email names it."""
+    text = " ".join(str(profile.get(k) or "") for k in ("company", "blog", "bio", "email")).lower()
+    key, base = _company_key(company), (domain or "").split(".")[0]
+    return bool((domain and domain in text) or (len(key) >= 4 and key in re.sub(r"[^a-z0-9]", "", text))
+                or (len(base) >= 4 and base in re.sub(r"[^a-z0-9]", "", text)))
+
+
+_searches = []
+
+
+def _search_throttle(per_minute=25):
+    """GitHub's search API allows 30 a minute; past that it answers 403 and the lookup would just miss."""
+    now = time.monotonic()
+    _searches[:] = [t for t in _searches if now - t < 60]
+    if len(_searches) >= per_minute:
+        time.sleep(60 - (now - _searches[0]) + 0.5)
+    _searches.append(time.monotonic())
+
+
+def github_person(name, company, domain, login=None, max_matches=5):
+    """A named person's real address from GitHub: find their account (by login, or by full name and a profile
+    that names the company), then the profile email or the author email on their own recent commits.
+    GitHub dropped email search and commit emails in public events (checked Oct 20), so this is what's left.
+    Returns {"email", "login", "on_domain"} or None."""
+    headers = _gh_headers()
+    try:
+        if login:
+            u = session.get(f"https://api.github.com/users/{login}", headers=headers, timeout=15)
+            profiles = [u.json()] if u.ok else []   # an org member: already known to work there
+        else:
+            _search_throttle()
+            r = session.get("https://api.github.com/search/users", params={"q": f'fullname:"{name}"',
+                            "per_page": max_matches}, headers=headers, timeout=15)
+            profiles = []
+            for item in (r.json().get("items") or [] if r.ok else [])[:max_matches]:
+                u = session.get(f"https://api.github.com/users/{item['login']}", headers=headers, timeout=15)
+                if u.ok and _same_company(u.json(), company, domain):
+                    profiles.append(u.json())
+                    break
+        if not profiles:
+            return None
+        prof = profiles[0]
+        login = prof["login"]
+        emails = [(prof.get("email") or "").lower()]
+        repos = session.get(f"https://api.github.com/users/{login}/repos?sort=pushed&per_page=10",
+                            headers=headers, timeout=15)
+        for repo in [x for x in (repos.json() if repos.ok else []) if not x.get("fork")][:3]:
+            c = session.get(f"https://api.github.com/repos/{login}/{repo['name']}/commits",
+                            params={"author": login, "per_page": 20}, headers=headers, timeout=15)
+            emails += [((x.get("commit") or {}).get("author") or {}).get("email", "").lower()
+                       for x in (c.json() if c.ok else [])]
+    except (requests.RequestException, ValueError, KeyError):
+        return None
+    emails = [e for e in dict.fromkeys(emails) if e and "@" in e and "noreply" not in e]
+    base = (domain or "").split(".")[0]
+    on = [e for e in emails if base and e.split("@")[1].split(".")[0] == base]
+    pick = on[0] if on else next((e for e in emails if e.split("@")[1] in FREEMAIL), None)
+    if not pick or not has_mx(pick.split("@")[1]):
+        return None
+    return {"email": pick, "login": login, "on_domain": bool(on)}
+
+
 def known_pattern(domain, known):
-    """The company's address shape if a person-looking address on its domain is already known."""
-    for addr in known:
+    """(shape, mail host) of the company's addresses if a person-looking one is already known. The host can be a
+    sibling of the site's domain: Geektrust's site is geektrust.com but people are @geektrust.in."""
+    base = (domain or "").split(".")[0]
+    for addr in sorted(known, key=lambda a: a.partition("@")[2] != domain):
         local, _, host = addr.partition("@")
-        if host != domain or local in GENERIC_LOCAL:
+        if not (host == domain or (len(base) >= 4 and host.split(".")[0] == base)) or local in GENERIC_LOCAL:
             continue
+        if re.fullmatch(r"[a-z]\.[a-z]+", local):   # before first.last, which would also match j.doe
+            return "f.last", host
         if re.fullmatch(r"[a-z]+\.[a-z]+", local):
-            return "first.last"
-        if re.fullmatch(r"[a-z]\.[a-z]+", local):
-            return "f.last"
+            return "first.last", host
         if re.fullmatch(r"[a-z]{2,}", local):
-            return "first"
-    return None
+            return "first", host
+    return None, None
+
+
+def pattern_example(pattern):
+    """A stand-in address of a known shape, so guess_email() reads the shape back off it."""
+    return {"first.last": "jane.doe", "f.last": "j.doe", "first": "jane"}[pattern]
 
 
 def find_people(lead):
@@ -361,10 +437,15 @@ def find_people(lead):
                                f"{j['visa']}). " + (lead.get("description") or ""))[:2000]
     for org in (lead.get("github_orgs") or [])[:1]:
         people += github_members(org, domain)
-    if not domain or not has_mx(domain):
-        lead["people"] = people
-        return lead
-    pattern = known_pattern(domain, cands)
+    # Real addresses first: up to 4 named people (founders before engineers) looked up on GitHub.
+    for p in sorted(people, key=lambda p: not re.search(r"founder|ceo|cto", p["role"], re.I))[:4]:
+        if p.get("email"):
+            continue
+        hit = github_person(p["name"], lead.get("company"), domain, login=p.get("login"))
+        if hit:
+            p["email"], p["github"] = hit["email"], hit["login"]
+            p["source"] += " · GitHub commits" if hit["on_domain"] else " · GitHub (personal address)"
+    pattern, host = known_pattern(domain, set(cands) | {p["email"] for p in people if p.get("email")})
     for p in people:
         if p.get("email"):
             cands.setdefault(p["email"], {"where": p["source"], "kind": "personal", "name": p["name"],
@@ -373,7 +454,9 @@ def find_people(lead):
         founder = re.search(r"founder|ceo|cto", p["role"], re.I)
         if not founder and not pattern:
             continue
-        guess = guess_email(p["name"], domain, cands.keys())
+        if not has_mx(host or domain or "invalid."):
+            continue
+        guess = guess_email(p["name"], host or domain, set(cands) | ({f"{pattern_example(pattern)}@{host}"} if pattern else set()))
         if guess and guess not in cands:
             cands[guess] = {"where": f"pattern guess ({p['source']})", "kind": "guessed", "name": p["name"],
                             "role": p["role"]}

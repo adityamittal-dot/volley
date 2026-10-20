@@ -125,7 +125,9 @@ def research_batch(leads, s, slots):
         log(f"research: {lead['company']} (score {lead['score']})")
         if not _research_with_deadline(lead):
             log(f"research: {lead['company']} took over {LEAD_DEADLINE}s, skipped")
-            lead["status"], lead["note"] = "skipped", "research timed out"
+            lead["timeouts"] = lead.get("timeouts", 0) + 1
+            if lead["timeouts"] >= 2:   # once may be a slow day or the GitHub search throttle; twice is the site
+                lead["status"], lead["note"] = "skipped", "research timed out twice"
             continue
         # Stored so the routine's sandbox and Actions resolve the same contact without DNS.
         lead["domain_mx"] = bool(lead.get("domain")) and research.has_mx(lead["domain"])

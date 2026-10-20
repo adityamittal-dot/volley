@@ -210,15 +210,20 @@ RECONTACT_SOURCES = {"portfolio", "linkedin", "hasjob", "reddit", "yc_hiring", "
                      "manual"}
 
 
+FINDER = research.FINDER
+
+
 def recontact(leads, s):
     """Put up to `recontact_per_day` never-retried no_contact leads back in the pool, analyst-approved ones
     (fit >= min_fit, dropped only for want of an address or a slot) first. Returns how many."""
-    pool = [l for l in leads.values() if l["status"] == "no_contact" and not l.get("recontacted")
+    # finder 2 (Oct 20): founders and engineers looked up on GitHub by name, so leads already retried once with
+    # the old finder get one more try.
+    pool = [l for l in leads.values() if l["status"] == "no_contact" and l.get("finder", 1) < FINDER
             and l["source"] in RECONTACT_SOURCES]
     pool.sort(key=lambda l: ((l.get("research") or {}).get("fit") or 0, l.get("priority", 0), l.get("score", 0)),
               reverse=True)
     for l in pool[:s.get("recontact_per_day", 0)]:
-        l["status"], l["recontacted"] = "new", store.iso()[:10]
+        l["status"], l["recontacted"], l["finder"] = "new", store.iso()[:10], FINDER
     return min(len(pool), s.get("recontact_per_day", 0))
 
 
