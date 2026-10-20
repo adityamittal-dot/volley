@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-19T20:02:08Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-20T13:42:25Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 230 · **Sent:** 230 · **Replies:** 30 (13%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 230 · **Sent:** 230 · **Replies:** 31 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,9 +10,9 @@ _Updated 2026-10-19T20:02:08Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 5 |
 | no_contact | 846 |
 | low_fit | 570 |
-| followup_1 | 58 |
-| followup_2 | 74 |
-| replied | 30 |
+| followup_1 | 51 |
+| followup_2 | 80 |
+| replied | 31 |
 | bounced | 12 |
 | closed | 56 |
 
@@ -20,7 +20,7 @@ _Updated 2026-10-19T20:02:08Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 123 | 14 |
+| medvault | 123 | 15 |
 | canopy | 68 | 12 |
 | basepair | 39 | 4 |
 
@@ -29,12 +29,13 @@ _Updated 2026-10-19T20:02:08Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | Style | Sent | Replies |
 |---|---|---|
 | role | 189 | 24 |
-| short | 41 | 6 |
+| short | 41 | 7 |
 
 ## Replies
 
 - **Uncountable** — Jason <jason@uncountable.com> replied 2026-10-05
 - **InfoHawk** — James <james@infohawk.com> replied 2026-09-29
+- **Spring Edge** — Bishnoi Balwant <bishnoi.balwant@springedge.com> replied 2026-10-20
 - **NFN Labs** — Ravi Kumar <ravi@nfnlabs.in> replied 2026-10-19
 - **CABLE** — Theo <theo@cable.energy> replied 2026-10-07
 - **True Arrow Software** —  <info@truearrow.software> replied 2026-10-19
