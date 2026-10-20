@@ -1,0 +1,305 @@
+{
+ "leads": [
+  {
+   "id": "e6ce6a6905",
+   "company": "Electrik",
+   "website": "https://electrik.dev",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Open Source full-featured SaaS boilerplate built using Laravel, Livewire.. Languages: Blade, PHP. Topics: billing, blade, blade-components, laravel, laravel-package, laravel-starter-kit, livewire, php, saas, saas-boilerplate, stripe, tailwind-ui, tailwindcss, tall-stack, teams, ui-kit",
+   "site_text": "[https://electrik.dev/]\nElectrik Menu Electrik Launch GitHub Demo Electrik Launch Electrik 5.5.0 · Laravel SaaS kit Ship Laravel SaaS without rebuilding teams and billing again Auth, team workspaces, Stripe on the team, onboarding, and Slate UI — as a Composer package. Your App\\ stays clean. Install free — MIT Try the live demo Electrik Launch MIT open source · Launch $6,900 / 14 days if you want us to ship it Using Cursor or Claude? Paste an agent prompt electrik · team dashboard Used in production Every client Laravel SaaS from Quick Brown Fox ships on Electrik — teams, billing shell, and Slate included. Agent DX Built for Cursor and Claude — not just humans AGENTS.md, llms.txt, and a Cursor skill teach coding agents to composer require Electrik, run the installer, and keep the shell in vendor. Same package either way — agents just install it correctly. → Paste one prompt into Cursor / Claude → Agent reads docs + AGENTS.md before touching App\\ → Auth, teams, and billing stay in vendor Agent install docs Human install guide Agent prompt Install Electrik 5.x as a Composer package. Read https://electrik.dev/llms.txt and https://electrik.dev/docs/getting-started/ai first. Keep the shell in vendor; put product code in App\\. Do not dump Jetstream/Breeze-style auth into App\\. Optional path — demo and composer require still work without an agent. The problem Stop gluing Jetstream, Spark, and a theme Most Laravel SaaS starts as four weekends of the same setup. Electrik is the setup — one package, not a dump into App\\. Without Electrik Jetstream or Breeze for auth Hand-roll teams and roles Spark or DIY Cashier A mismatched admin theme Starter code rotting in App\\ With Electrik Auth, sessions, profile, 2FA Team workspaces + Spatie roles Stripe customer on the team Slate 3 UI in the kit composer require — stays in vendor Teams Workspaces that match real SaaS Create and switch teams, invite members, Spatie roles scoped to the workspace. Your product attaches to the team — not a solo-user afterthought. See teams in the demo Team Invite · roles · switch Spatie permissions, team-scoped from install. Billing Cashier on the team Subscribe, portal, webhooks — B2B-shaped. UI Slate 3 shell Components matched to the product, not bolted on. Billing + UI Stripe on the team. Slate in the kit. The Cashier customer is the team — the shape most B2B Laravel SaaS need. Screens ship on Electrik Slate 3 so auth, billing, and product UI share one system. Install free Slate UI Architecture No boilerplate dump. Lean package architecture. Other kits clone into your app. Electrik lives in vendor. Customize via config, env, and published views — not by owning hundreds of kit files forever. Typical starter dump app/ ├── Actions/Fortify/… ├── Models/User.php ← kit forever ├── Http/… └── …hundreds of kit files resources/views/ └── …auth, teams, billing copies With Electrik app/ ├── Models/… ← your product ├── Http/… ← your product └── … vendor/electrik/ └── electrik/ ← auth, teams, billing composer require → electrik:install → build Stack Works with the Laravel tools you already use Built on Laravel 12, Livewire, Cashier, Spatie Permission, and Tailwind — with Electrik Slate as the UI system. Install from Packagist like any other package. Install guide View demo Lv Laravel 12 Lw Livewire 4 St Stripe Cashier Sp Spatie Permission Tw Tailwind CSS v4 Sl Electrik Slate 3 Pk Packagist Cp Composer Gh GitHub Quick Brown Fox “We don’t reinvent auth, teams, and billing for each client. Every Laravel SaaS we ship runs on Electrik — package in vendor, product in App\\.” Quick Brown Fox · Studio that builds Electrik — and ships client work on it Electrik Production shell “Electrik is the SaaS starter we wanted as a Laravel package: auth, teams, billing, and onboarding stay vendor-owned, with Slate 3 for UI instead of a mismatched admin theme. Full features ship in source, and the BSL grant is explicit about when you need a commercial license.” Neeraj Kumar · Founder · Product Hu",
+   "email_candidates": [
+    {
+     "email": "hello@electrik.dev",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "hello@neerajkumar.name",
+     "where": "GitHub commits (electrikhq)",
+     "kind": "generic",
+     "name": "neerajsohal",
+     "commits": 89
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "94f8f03857",
+   "company": "Projexa AI",
+   "website": "https://projexa.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Projexa is a modern SAAS built entirely around project-based, collaborative learning.. Languages: HTML, TypeScript",
+   "site_text": "[https://projexa.ai/]\nTitle: The Project-First LMS for Modern Universities\n\nURL Source: https://projexa.ai/\n\nMarkdown Content:\n![Image 6: Projexa](https://cdn.projexa.ai/projexa-logo.svg)\n\n[Features](https://projexa.ai/#features)[Team](https://projexa.ai/#team)[Demo](https://projexa.ai/#demo)[Sign In](https://projexa.ai/authenticate)Get Started\n\n[Sign In](https://projexa.ai/authenticate)Get Started\n\nNew: AI Project Assistant\n\n# Ship Academic   \nProjects Faster\n\nThe all-in-one workspace for universities. Manage student projects, track progress with AI, and collaborate seamlessly with GitHub integration.\n\nStart Free Trial Watch Demo\n\n5000+ Students\n\n2000+ Projects\n\nGitHub Verified\n\nStudent Dashboard\n\nAI Code Review\n\nAnalyzing pull request #42...\n\nRunning\n\nRepo Sync\n\nUpdated 2 mins ago\n\n![Image 7: Team member 1](https://cdn.projexa.ai/user/profile-pictures/0c0f75e7f6104822a7b3314749c42363/profile.jpg)![Image 8: Team member 2](https://cdn.projexa.ai/user/profile-pictures/a81887c09a774f78be55c9e323bedd97/profile.jpg)![Image 9: Team member 3](https://cdn.projexa.ai/user/profile-pictures/ad9fb5dbefcb4a37a4da245e411fb909/profile.jpg)\n\n➜git commit -m \"feat: implemented ai analysis\"\n\n➜git push origin main\n\nEnumerating objects: 15, done.\n\nTeam Velocity\n\n+24% this week \n\nFor Universities & Management\n\n## 20th-Century Methodologies Are   \nSabotaging 21st-Century   \nAcademic Innovation\n\nTransform administrative chaos into strategic oversight with the world's first AI-powered academic project management system.\n\nThe Old Way The Projexa Way\n\n### 20th-Century Methodologies\n\nTraditional, fragmented approaches that slow down innovation.\n\nManual spreadsheet tracking\n\nDisconnected departments\n\nReactive problem solving\n\nDelayed accreditation reports\n\n### Intelligent Oversight\n\nComprehensive visibility and control over the entire project lifecycle.\n\n#### Real-Time Dashboard Analytics\n\nGet instant visibility into all projects across departments with comprehensive performance metrics.\n\nImpact 95% faster reporting\n\n#### Automated Compliance Reporting\n\nGenerate accreditation-ready reports with one click. Export data in multiple formats for NAAC & NBA.\n\nImpact 80% time saved\n\n#### Intelligent Resource Allocation\n\nAI-powered mentor assignment based on expertise and workload. Monitor faculty engagement.\n\nImpact 40% better balance\n\n#### Predictive Insights\n\nIdentify at-risk projects early with AI-driven analytics. Track interaction frequency and submissions.\n\nImpact 60% early detection\n\n### Why Universities Choose Projexa AI\n\n100%\n\nAccreditation Ready\n\n2000+\n\nProjects Managed\n\n2+\n\nInstitutions Trust Us\n\nFor Faculty & Mentors\n\n## From Overwhelmed to   \nEmpowered & Efficient\n\nFocus on what matters most - mentoring students - while AI and automation handle the administrative burden.\n\n### The Daily Struggle\n\nMentoring multiple teams means juggling endless administrative tasks that take time away from meaningful guidance.\n\n#### Time-Consuming Reviews\n\nHours spent manually reviewing code and providing feedback to each team\n\n#### Communication Chaos\n\nScattered emails, messages, and documents make tracking difficult\n\n#### No Code Visibility\n\nDifficult to access and review student code without downloading repositories\n\n#### Scheduling Headaches\n\nEndless back-and-forth to coordinate meetings with multiple teams\n\n### The Projexa AI Solution\n\nAI-powered tools that amplify your impact and automate the repetitive tasks.\n\n#### AI-Powered Code Insights\n\nGet instant, intelligent code summaries and quality assessments across 20+ programming languages. AI analyzes structure, patterns, and best practices automatically.\n\nReal-time code summarization\n\nQuality metrics & insights\n\nPattern detection\n\nBest practice suggestions\n\n#### Integrated GitHub Workspace\n\nBrowse, review, and analyze student code directly in Projexa AI. No more downloading repositories or switching between tools.\n\nIn-platform code viewer\n\nSyntax highlighting\n\nCommit history tracking\n\nContribution analytics\n\n###",
+   "email_candidates": [
+    {
+     "email": "hello@projexa.ai",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "contact@projexa.ai",
+     "where": "https://projexa.ai/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "aff6338f51",
+   "company": "Zathura Debugger",
+   "website": "https://zathura.dev",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "A GUI emulation-based debugger for Assembly Language. Powered by @icicle-emu, @capstone-engine & @keystone-engine. Languages: C, C++, HTML, JavaScript. Topics: assembly, assembly-language, assembly-x86, x64-assembly, x86, x86-assembly, x86-emulator",
+   "site_text": "[https://www.zathura.dev/]\nZathuraDbg: Open-Source GUI Debugger for Assembly | Learn Assembly with Ease Home Features About FAQs NEW ZathuraDbg 1.0 is out A modern, powerful Assembly Debugger for Reverse Engineers and Developers ZathuraDbg is a fully open source emulation-based debugger powered by icicle, capstone engine and keystone engine. Download Try now 0 + stars on Github Add Yours Now Engineered with advanced frameworks for professional-grade precision and flexibility. Keystone Engine Capstone Engine Icicle Emulator An all-in-one lightweight debugger for learning, editing, and mastering assembly — beginner-friendly, no setup required No Setup Needed Works out of the box — just launch and debug. Hex Editor Built-In Edit memory live as code runs, enabling real-time updates to variables and memory, improving debugging and allowing for immediate feedback during development. Beginner-Friendly Interface Commands explained clearly — smooth learning curve. Multi architecture support ZathuraDbg supports x86_64, ARM32, Thumbv7m, and AArch64—with more architectures coming soon. Time Travel Debugging with ZathuraDbg: Step Back Instantly with Minimal Overhead ZathuraDbg introduces full time travel debugging, allowing developers to step backward through execution while preserving memory and stack integrity. All with just a few megabytes of overhead. Hover/Tap to watch demo About ZathuraDbg ZathuraDbg is an open-source, GUI-based debugger designed specifically for assembly emulation. Its primary goal is to simplify the process of learning assembly by offering an intuitive and self-explanatory interface that’s perfect for on-the-go debugging. Currently, ZathuraDbg supports x86_64 architecture, with plans to extend support to all major architectures in the future, making it an ideal tool for both beginners and seasoned developers looking to explore the depths of assembly programming. FAQs Can ZathuraDbg debug binaries? No, ZathuraDbg does not support debugging binaries at the moment. This feature may be added in a future release. Does ZathuraDbg support syscalls and OS-level APIs? Currently, ZathuraDbg does not fully support a ton of syscalls and OS-level APIs, but implementation for common syscalls is under development. Which architectures are currently supported in ZathuraDbg? ZathuraDbg currently supports Intel x86_64, ARM 32-bit, Thumbv7m, and AArch64 architectures. Support for other architectures is under development. What is the primary goal of ZathuraDbg? The primary goal of ZathuraDbg is to make the process of learning assembly easier by providing a clean and intuitive UI that explains itself, offering a smooth debugging experience, especially for beginners. Is ZathuraDbg open-source? Yes, ZathuraDbg is open-source and freely available to anyone interested in exploring or contributing to the project. Can ZathuraDbg debug binaries? No, ZathuraDbg does not support debugging binaries at the moment. This feature may be added in a future release. Does ZathuraDbg support syscalls and OS-level APIs? Currently, ZathuraDbg does not fully support a ton of syscalls and OS-level APIs, but implementation for common syscalls is under development. Which architectures are currently supported in ZathuraDbg? ZathuraDbg currently supports Intel x86_64, ARM 32-bit, Thumbv7m, and AArch64 architectures. Support for other architectures is under development. What is the primary goal of ZathuraDbg? The primary goal of ZathuraDbg is to make the process of learning assembly easier by providing a clean and intuitive UI that explains itself, offering a smooth debugging experience, especially for beginners. Is ZathuraDbg open-source? Yes, ZathuraDbg is open-source and freely available to anyone interested in exploring or contributing to the project. Can ZathuraDbg debug binaries? No, ZathuraDbg does not support debugging binaries at the moment. This feature may be added in a future release. Does ZathuraDbg support syscalls and OS-level APIs? Currently, Zathu",
+   "email_candidates": [
+    {
+     "email": "zathuradbg@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "cb868769da",
+   "company": "PixysOS",
+   "website": "https://pixysos.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Another Cherry-picked rom, based on AOSP with minimal customizations. Languages: C++, Kotlin, Makefile",
+   "site_text": "[https://tambang888bm.com/about-us]\nTAMBANG888 | Link Resmi Gaming Gacor Hari Ini, Akses Praktis & Nyaman 2026 Skip to content DAFTAR LOGIN MASUK TAMBANG888 Gen AI Video Templates Stock Video Audio Graphics Design Templates Photos 3D Fonts Web Resources License Pricing Sign in Get unlimited downloads Video Templates All Video Templates â Broadcast Packages Elements Logo Reveals Video Intros Promos Title Sequences Infographics Video Displays Compatible Tools Premiere Pro After Effects Apple Motion Final Cut Pro DaVinci Resolve Top Video Searches Logo Animation Text Podcast Mockup Slideshow Lower Thirds Trailer Indian Wedding Invitation Stock Video All Stock Video â Background Nature Business Woman Technology People Man Travel All Motion Graphics â Backgrounds Elements Animated Infographics Interface Effects Overlays Revealer Transitions Lower Thirds Top Video Searches B-roll Resolume VJ Loops Vertical Videos Intro Drone Green Screen Satisfying Audio All Music â Logos and Idents Background Epic Upbeat Corporate Happy Rock Funk Intro All Sound Effects â Gaming Transitions and Movement Domestic Human Urban Nature Futuristic Interface Top Music Searches Movie Podcast Intro Happy Birthday Instagram Reel Devotional Islamic Intro Military Drum Breaking News Intro Graphics All Graphics â Objects Illustrations Icons Backgrounds Textures Patterns All Add-ons â Actions and Presets Brushes Layer Styles Palettes & Gradient Maps Compatible Tools Adobe Photoshop Adobe Illustrator Figma Sketch Affinity Designer Top Graphics Searches Food Icons Overlay YouTube Torn Paper Game Assets Logo Dust Overlay Gate Design Templates All Graphic Templates â Printable Templates Product Mockups Social Media Websites UX/UI Toolkits Infographics Logos Scene Generators All Presentations â Business Education Marketing Technology Medical Pitch Travel Backgrounds Compatible Tools Adobe Photoshop Adobe Illustrator Adobe InDesign Figma Canva Microsoft Word PowerPoint Keynote Top Template Searches Business Card Brochure Flyer Resume Wedding Branding Presentation Mobile App Presentation Cryptocurrency Presentation Photos All Photos â Background Office Business Sky AI Paper Texture Beach Technology Top Photo Searches Wallpaper Animals Ballon Decoration Dog Food Online Video Call Welcome Women 3D All 3D â Models Templates Renders Themes Nature Abstract Adventure Sports Transportation Science Technology Medical Top 3D Searches Car House Tree Chair Table Box Togel Machine Fridges Compatible Tools Spline Blender Fonts All Fonts â Serif Sans-Serif Script and Handwritten Decorative Top Font Searches Luxury Food Logo Neon Sign Painting Sports Modern Arabic Web All Web Templates â Admin Templates Email Templates Site Templates Landing Page Templates CMS Templates All WordPress â Themes Plugins Template Kits Elementor Top Web Searches React eCommerce Wordpress Blog Event Portfolio WordPress Agency WordPress Ecommerce WordPress Newspaper Resources Explore Blog â Video & Music Design Marketing Web Design Courses and Tutorials â Learn with Envato Tuts+ Gen AI ImageGen Create unique visuals in diverse styles with simple text prompts. ImageEdit Remove backgrounds, erase objects & upscale effortlessly. VideoGen Generate videos from static images and text prompts. MusicGen Make your own music with text prompts and presets. VoiceGen Turn your text into professional voiceovers & let AI do the talking. GraphicsGen Craft icons and illustrations with a reference style and text prompt. TAMBANG888 GAME ONLINE GAME TERBARU TAMBANG888 | Link Resmi Gaming Gacor Hari Ini, Akses Praktis & Nyaman 2026 TAMBANG888 | Link Resmi Gaming Gacor Hari Ini, Akses Praktis & Nyaman 2026 TAMBANG888 x TOGEL TOTO Jelajahi dunia gaming gacor hari ini bersama TAMBANG888! Temukan informasi link resmi, game viral, fitur jackpot, dan pilihan provider. Akses panduan permainan terbaru 2026 melalui smartphone maupun desktop. Deposit Kilat dengan sistem baru 24 Jam Langsung Masuk Withdraw ",
+   "email_candidates": [
+    {
+     "email": "karthikgaddam4@gmail.com",
+     "where": "GitHub commits (PixysOS)",
+     "kind": "personal",
+     "name": "AxelBlaz3",
+     "commits": 30
+    },
+    {
+     "email": "pshreejoy15@gmail.com",
+     "where": "GitHub commits (PixysOS)",
+     "kind": "personal",
+     "name": "Shreejoy Dash",
+     "commits": 9
+    },
+    {
+     "email": "subins.mani@gmail.com",
+     "where": "GitHub commits (PixysOS)",
+     "kind": "personal",
+     "name": "Subins Mani",
+     "commits": 12
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "3403726e05",
+   "company": "BiTGApps",
+   "website": "https://bitgapps.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Google Apps Package. Languages: HTML. Topics: android, bitgapps, custom-rom, gapps, google, google-apps, kernelsu, lineageos, magisk, twrp",
+   "site_text": "[https://bitgapps.io/]\nBiTGApps | Google Apps Package BiTGApps BiTGApps Since 2018 Home Development Bug Report Contact Donate About Meet the Team TheHitMan7 Kr Shivam Viraj Mathur Install Google Apps with Ease BiTGApps is a customized Google Apps Package to sideload Google Apps in Custom Android OS. Supports Android 17.0 to 7.1.x with regular updates and bugs fixed. Customization Telegram Group Grab files from the download section below Why BiTGApps? Discover the core features that make our platform flexible and reliable. Android Support All Platforms and All Android Versions are Supported. Customizable Installation BiTGApps can be installed from multiple environments with ease. Wide Support BiTGApps offer several variations from a Google Stock Package to smaller, minimalist packages. Seamless OTA Updates BiTGApps comes with OTA survival support to provide you flash and forget experience. Addons Support We have wide range of freeware Addons that you can use along side BiTGApps. Module Installation BiTGApps can also be installed as Magisk or KernelSU module beside recovery installation. Smart Space This feature allows you to re-flash BiTGApps even with insufficient space in system. Privileged Permission Providing the necessary permissions to the privileged apps. Happy Community We have a friendly community that helps you get what you're looking for in BiTGApps. Platform & Packages Explore lightweight, tailored packages built to support every Android version. All Platforms and All Android Versions are Supported Architectures PLATFORM ARM ARM64 x86 x86-64 Android Versions API 25 - 37 Android 17.0 Android 16.0 Android 15.0 Android 14.0 Android 13.0 Android 12.1 Android 12.0 Android 11.0 Legacy support for versions 10.0, 9.0, 8.1, 8.0, and 7.1 BiTGApps Packages Tailored for Different Setups Core, Mini, Omni, Roar, Nano, Atom, Pico, Full, Tint The Minimal BiTGApps Package includes the Core Google Apps like Google Play Services (GMS), Google Services Framework (GSF), Google Play Store and other essentials. Advanced variants include everything from Minimal alongside more useful Google Apps like Contacts, Dialer, Gboard, etc. Checkout the complete list of Google Apps for each variant below. Seamless OTA Updates via Survival Script The OTA survival script allows you to update your current ROM to its latest version without worrying about having to flash Google Apps again, delivering a true \"flash and forget\" experience. Powered by the latest ADDOND Version . Make sure to read the Seamless OTA Updates section below. Footprint Efficient The minimal BiTGApps Package contains the bare-minimum , keeping downloads swift and installations clean and simple. Installation Size is different from Package Size. Wide Range of Freeware Addons Dialer & Maps Framework Support Seamlessly Replaces AOSP Apps Enabled Play Services Doze Mode Installation Instructions Follow the correct order to avoid crashes and ensure a clean boot. Installing for the first time? Google Apps should be installed via recovery immediately after installing Custom ROM. If you reboot into system before installing Google Apps, you must factory reset and then install them, otherwise expect crashes. Addons should be installed in same manner on top of BiTGApps. Helpful Tip Prevent partition mounting issues in some cases. Always loop back or reboot directly to recovery mode after flashing your Custom ROM for a fresh installation environment. Dirty Flash Installing for the second time and so on? Re-flashing of the same package or upgrading to the latest release doesn't require factory reset. SetupWizard Configuration Required SetupWizard need to be configured before installation. Checkout instructions for SetupWizard below. Configuration Needed SetupWizard ' s main purpose is to assist Android users when they have to first set up their phones, especially if they want to transfer old data, such as apps, pictures, and personalized features, from their previous phone or right after a reset.",
+   "email_candidates": [
+    {
+     "email": "info@bitgapps.io",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "3403726e05-ref",
+   "company": "BiTGApps",
+   "website": "https://bitgapps.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Google Apps Package. Languages: HTML. Topics: android, bitgapps, custom-rom, gapps, google, google-apps, kernelsu, lineageos, magisk, twrp",
+   "site_text": "[https://bitgapps.io/]\nBiTGApps | Google Apps Package BiTGApps BiTGApps Since 2018 Home Development Bug Report Contact Donate About Meet the Team TheHitMan7 Kr Shivam Viraj Mathur Install Google Apps with Ease BiTGApps is a customized Google Apps Package to sideload Google Apps in Custom Android OS. Supports Android 17.0 to 7.1.x with regular updates and bugs fixed. Customization Telegram Group Grab files from the download section below Why BiTGApps? Discover the core features that make our platform flexible and reliable. Android Support All Platforms and All Android Versions are Supported. Customizable Installation BiTGApps can be installed from multiple environments with ease. Wide Support BiTGApps offer several variations from a Google Stock Package to smaller, minimalist packages. Seamless OTA Updates BiTGApps comes with OTA survival support to provide you flash and forget experience. Addons Support We have wide range of freeware Addons that you can use along side BiTGApps. Module Installation BiTGApps can also be installed as Magisk or KernelSU module beside recovery installation. Smart Space This feature allows you to re-flash BiTGApps even with insufficient space in system. Privileged Permission Providing the necessary permissions to the privileged apps. Happy Community We have a friendly community that helps you get what you're looking for in BiTGApps. Platform & Packages Explore lightweight, tailored packages built to support every Android version. All Platforms and All Android Versions are Supported Architectures PLATFORM ARM ARM64 x86 x86-64 Android Versions API 25 - 37 Android 17.0 Android 16.0 Android 15.0 Android 14.0 Android 13.0 Android 12.1 Android 12.0 Android 11.0 Legacy support for versions 10.0, 9.0, 8.1, 8.0, and 7.1 BiTGApps Packages Tailored for Different Setups Core, Mini, Omni, Roar, Nano, Atom, Pico, Full, Tint The Minimal BiTGApps Package includes the Core Google Apps like Google Play Services (GMS), Google Services Framework (GSF), Google Play Store and other essentials. Advanced variants include everything from Minimal alongside more useful Google Apps like Contacts, Dialer, Gboard, etc. Checkout the complete list of Google Apps for each variant below. Seamless OTA Updates via Survival Script The OTA survival script allows you to update your current ROM to its latest version without worrying about having to flash Google Apps again, delivering a true \"flash and forget\" experience. Powered by the latest ADDOND Version . Make sure to read the Seamless OTA Updates section below. Footprint Efficient The minimal BiTGApps Package contains the bare-minimum , keeping downloads swift and installations clean and simple. Installation Size is different from Package Size. Wide Range of Freeware Addons Dialer & Maps Framework Support Seamlessly Replaces AOSP Apps Enabled Play Services Doze Mode Installation Instructions Follow the correct order to avoid crashes and ensure a clean boot. Installing for the first time? Google Apps should be installed via recovery immediately after installing Custom ROM. If you reboot into system before installing Google Apps, you must factory reset and then install them, otherwise expect crashes. Addons should be installed in same manner on top of BiTGApps. Helpful Tip Prevent partition mounting issues in some cases. Always loop back or reboot directly to recovery mode after flashing your Custom ROM for a fresh installation environment. Dirty Flash Installing for the second time and so on? Re-flashing of the same package or upgrading to the latest release doesn't require factory reset. SetupWizard Configuration Required SetupWizard need to be configured before installation. Checkout instructions for SetupWizard below. Configuration Needed SetupWizard ' s main purpose is to assist Android users when they have to first set up their phones, especially if they want to transfer old data, such as apps, pictures, and personalized features, from their previous phone or right after a reset.",
+   "email_candidates": [
+    {
+     "email": "krtik.vrma@gmail.com",
+     "where": "GitHub commits (BiTGApps)",
+     "kind": "personal",
+     "name": "TheHitMan7",
+     "commits": 48
+    },
+    {
+     "email": "touka.krs@gmail.com",
+     "where": "GitHub commits (starry-shivam)",
+     "kind": "personal",
+     "name": "Stɑrry Shivɑm",
+     "commits": 40
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "8618fe8a0a",
+   "company": "NAMESPACE",
+   "website": "https://www.namespace.world/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript",
+   "site_text": "[https://www.namespace.world/]\nTitle: NAMESPACE – Hackathons and Open-Innovation\n\nURL Source: https://www.namespace.world/\n\nPublished Time: Wed, 14 Oct 2026 16:30:53 GMT\n\nMarkdown Content:\n## Smarter and New-Age Learning. Hiring. Funding.  \n Through Hackathons.\n\nNAMESPACE is the infrastructure layer for builders, institutions and organizations to connect and grow together through open-innovation programs.\n\n100,000+Builders Impacted\n\n2,000+Institutions Reached\n\n150+Events Hosted\n\n50+Partners Served\n\nTrusted by partners across the ecosystem\n\nThe problem\n\n## Tech isn't working the way it should.\n\nTalent is everywhere. Opportunity is not. Communities are fragmented, learning is disconnected, and most systems are not built for humans.\n\n*   ### Tech isn't built for humans\n\nMost platforms optimize for products and metrics, not for people trying to learn, grow, and build.\n\n*   ### Talent is everywhere, support is not\n\nBrilliant builders exist beyond metros, but lack access to networks, mentorship, and real opportunities.\n\n*   ### Communities are disconnected\n\nCommunities operate in silos, missing the compounding value of a connected ecosystem.\n\n*   ### Events don't lead anywhere\n\nHackathons and events end in isolation, with no continuity, follow-through, or long-term growth.\n\n*   ### Access is still gated\n\nOpportunities often depend on who you know, not what you can do.\n\n*   ### Learning doesn't translate\n\nWhat people learn rarely matches what real-world building actually requires.\n\nThe problem isn't lack of platforms. It's that nothing connects.\n\nLearning, communities, opportunities, and organizations exist, just not together.\n\nHow it works\n\n## One ecosystem. Multiple layers.\n\nNAMESPACE connects people, communities, and organizations into a single system where learning, building, and opportunities come together.\n\n### How it all connects\n\nEach layer feeds the next, making the system stronger over time.\n\n1.   01\n\nHumans\n\nGain skills, visibility, and opportunities \n2.   02\n\nEvents\n\nDrive discovery and participation \n3.   03\n\nPrograms\n\nEnable structured growth and outcomes \n4.   04\n\nOrganizations\n\nHire talent and engage with the ecosystem \n\n…and organizations bring new opportunities back to the builders.\n\nCommunity Events, hackathons, and a global builder network\n\nCampus Tech chapters connecting campuses to the ecosystem\n\nLearning Cohorts, bootcamps, and structured growth journeys\n\nTalent Hiring, challenges, and real opportunities in tech\n\nMedia Stories, insights, and voices from the ecosystem\n\nAccelerator Supporting early ideas from prototype to scale\n\nWorld's Largest Community-run Hackathon\n\n## HACKHAZARDS\n\nOur flagship hackathon. Every year, builders pick a problem, form a team and ship working software in public, with their name on it.\n\nHACKHAZARDS '26 in numbers\n\nRegistrations 31,623\n\nFinal project submissions 2,657\n\nCountries 51\n\nInstitutes and companies 2,000+\n\nPrograms\n\n## Flagship programs\n\nComprehensive learning experiences designed to accelerate your growth in the ever-evolving tech landscape.\n\n[See upcoming events](https://www.namespace.world/events)\n\n*   [Hackathon ### HACKHAZARDS World's Largest Community-run Hackathon Learn more](https://www.namespace.world/hackhazards)\n*   Fellowship\n\n### NAMESPACE Fellowship\n\n3 month-long paid fellowship in AI and Web3 \n*   Education\n\n### TechXcelerate\n\nA month-long knowledge accelerators for beginners in tech \n*   Competitive Coding\n\n### Algorena\n\nMulti-round national programming competition \n*   Education\n\n### Developer Bootcamps\n\nIntensive full-stack development and DSA programs \n*   Open Source\n\n### OpenCode\n\nOpen source festival connecting open-source projects with contributors \n*   Community\n\n### NAMESPACE Talks\n\nA tech-focused podcast series \n*   Hackathon\n\n### NS Hacks\n\nMembers-only hackathon for college chapters \n\nWho it's for\n\n## Find your Space\n\nNAMESPACE is built for every part of the tech ecosystem\n\n### For builders\n\n*   [Students Learn by building, join real communities, an",
+   "email_candidates": [
+    {
+     "email": "contact@namespacecomm.in",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "8618fe8a0a-ref",
+   "company": "NAMESPACE",
+   "website": "https://www.namespace.world/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript",
+   "site_text": "[https://www.namespace.world/]\nTitle: NAMESPACE – Hackathons and Open-Innovation\n\nURL Source: https://www.namespace.world/\n\nPublished Time: Wed, 14 Oct 2026 16:30:53 GMT\n\nMarkdown Content:\n## Smarter and New-Age Learning. Hiring. Funding.  \n Through Hackathons.\n\nNAMESPACE is the infrastructure layer for builders, institutions and organizations to connect and grow together through open-innovation programs.\n\n100,000+Builders Impacted\n\n2,000+Institutions Reached\n\n150+Events Hosted\n\n50+Partners Served\n\nTrusted by partners across the ecosystem\n\nThe problem\n\n## Tech isn't working the way it should.\n\nTalent is everywhere. Opportunity is not. Communities are fragmented, learning is disconnected, and most systems are not built for humans.\n\n*   ### Tech isn't built for humans\n\nMost platforms optimize for products and metrics, not for people trying to learn, grow, and build.\n\n*   ### Talent is everywhere, support is not\n\nBrilliant builders exist beyond metros, but lack access to networks, mentorship, and real opportunities.\n\n*   ### Communities are disconnected\n\nCommunities operate in silos, missing the compounding value of a connected ecosystem.\n\n*   ### Events don't lead anywhere\n\nHackathons and events end in isolation, with no continuity, follow-through, or long-term growth.\n\n*   ### Access is still gated\n\nOpportunities often depend on who you know, not what you can do.\n\n*   ### Learning doesn't translate\n\nWhat people learn rarely matches what real-world building actually requires.\n\nThe problem isn't lack of platforms. It's that nothing connects.\n\nLearning, communities, opportunities, and organizations exist, just not together.\n\nHow it works\n\n## One ecosystem. Multiple layers.\n\nNAMESPACE connects people, communities, and organizations into a single system where learning, building, and opportunities come together.\n\n### How it all connects\n\nEach layer feeds the next, making the system stronger over time.\n\n1.   01\n\nHumans\n\nGain skills, visibility, and opportunities \n2.   02\n\nEvents\n\nDrive discovery and participation \n3.   03\n\nPrograms\n\nEnable structured growth and outcomes \n4.   04\n\nOrganizations\n\nHire talent and engage with the ecosystem \n\n…and organizations bring new opportunities back to the builders.\n\nCommunity Events, hackathons, and a global builder network\n\nCampus Tech chapters connecting campuses to the ecosystem\n\nLearning Cohorts, bootcamps, and structured growth journeys\n\nTalent Hiring, challenges, and real opportunities in tech\n\nMedia Stories, insights, and voices from the ecosystem\n\nAccelerator Supporting early ideas from prototype to scale\n\nWorld's Largest Community-run Hackathon\n\n## HACKHAZARDS\n\nOur flagship hackathon. Every year, builders pick a problem, form a team and ship working software in public, with their name on it.\n\nHACKHAZARDS '26 in numbers\n\nRegistrations 31,623\n\nFinal project submissions 2,657\n\nCountries 51\n\nInstitutes and companies 2,000+\n\nPrograms\n\n## Flagship programs\n\nComprehensive learning experiences designed to accelerate your growth in the ever-evolving tech landscape.\n\n[See upcoming events](https://www.namespace.world/events)\n\n*   [Hackathon ### HACKHAZARDS World's Largest Community-run Hackathon Learn more](https://www.namespace.world/hackhazards)\n*   Fellowship\n\n### NAMESPACE Fellowship\n\n3 month-long paid fellowship in AI and Web3 \n*   Education\n\n### TechXcelerate\n\nA month-long knowledge accelerators for beginners in tech \n*   Competitive Coding\n\n### Algorena\n\nMulti-round national programming competition \n*   Education\n\n### Developer Bootcamps\n\nIntensive full-stack development and DSA programs \n*   Open Source\n\n### OpenCode\n\nOpen source festival connecting open-source projects with contributors \n*   Community\n\n### NAMESPACE Talks\n\nA tech-focused podcast series \n*   Hackathon\n\n### NS Hacks\n\nMembers-only hackathon for college chapters \n\nWho it's for\n\n## Find your Space\n\nNAMESPACE is built for every part of the tech ecosystem\n\n### For builders\n\n*   [Students Learn by building, join real communities, an",
+   "email_candidates": [
+    {
+     "email": "guptaparth1304@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Parth Gupta",
+     "commits": 4
+    },
+    {
+     "email": "codedpool10@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "codedpool",
+     "commits": 4
+    },
+    {
+     "email": "shreyaa.we@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Shreya Jaiswal",
+     "commits": 3
+    },
+    {
+     "email": "dikshadhasmana230204@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Diksha Sharma",
+     "commits": 4
+    },
+    {
+     "email": "vrindabindal12@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "vrindabindal12",
+     "commits": 3
+    },
+    {
+     "email": "psrcofficial10@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Pradeepto Sarkar",
+     "commits": 25
+    },
+    {
+     "email": "mynameaakash46@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Aakash Gupta",
+     "commits": 13
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "7dce21a7e3",
+   "company": "ERIC Robotics",
+   "website": "https://www.ericrobotics.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: CMake, JavaScript",
+   "site_text": "[https://www.ericrobotics.com/]\nERIC Robotics ERIC Weâd love to hear from you Github Linkedin EMAIL GITHUB info@ericrobotics.com LOCATION LINKEDIN Pune, India Let's build the future. Insight.IO Insight.IO is the unified software platform that connects every solution. It brings inspections, and other quality operations into a single intelligent environment - turning raw robotic data into clear, actionable outcomes. Always Exceeding Expectations Welcome to ERIC Robotics . We're engineering tomorrow, today. Everything you see below is build to break the mold . THE FUTURE IS NOW Open research Products Services Careers",
+   "email_candidates": [
+    {
+     "email": "info@ericrobotics.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "fa7733f4e0",
+   "company": "Kombee Technologies (I) Pvt Ltd",
+   "website": "https://www.kombee.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Innovative IT company building software, web, and mobile app solutions for businesses.. Languages: Java, JavaScript, PHP",
+   "site_text": "[https://www.kombee.com/us]\nAI First Web and App Development Solutions | Kombee Future of Modern Web App Development Engineered by Humans, Accelerated by AI AI enhances how we engineer, test, and deliver digital solutions, while our experts provide the technical insight, governance, and innovation that drive lasting business value. Contact Contact WHAT WE DO Engineering Digital Solutions with an AI-First Approach Web App Development Learn More Learn More AI & ML Development Learn More Learn More Mobile App Development Learn More Learn More Web App Development Learn More Learn More AI & ML Development Learn More Learn More Mobile App Development Learn More Learn More OUR CLIENTS Trusted by 50+ Global Brands to Build, Scale & Innovate 0 + Years in Tech Innovation 0 + Years in Tech Innovation 0 + Users Served 0 + Users Served 0 + Tech Architects 0 + Tech Architects 0 + Projects Delivered 0 + Projects Delivered 0 + Years in Tech Innovation 0 + Years in Tech Innovation 0 + Users Served 0 + Users Served 0 + Tech Architects 0 + Tech Architects 0 + Projects Delivered 0 + Projects Delivered CASE STUDIES Behind the screens: tech, process, transformation. View All View All Forbes India Brand Connect 2026 Featured Among Leaders Shaping the Future of Business Recognized in Forbes India Brand Connect's \"Leaders & Enterprises Shaping the Future of Business\" (2026), highlighting Kombee's decade-long commitment to delivering scalable digital solutions and driving business innovation. Learn More Learn More AI / ML SOLUTIONS Intelligent AI Solutions Built for Real-World Business Impact 01 AI/ML Strategy Consulting Define a clear AI roadmap with expert consulting that aligns intelligent technologies with your business goals, ensuring maximum ROI and long-term scalability. Learn More Learn More 02 Data Engineering & Preparation Build reliable, high-quality data pipelines and modern data architectures that power AI models with clean, secure, and actionable information. Learn More Learn More 03 ML Model Deployment & MLOps Deploy, monitor, and continuously optimize machine learning models using modern MLOps practices for scalable and production-ready AI systems. Learn More Learn More 04 Natural Language Processing (NLP) Transform unstructured text into meaningful insights with advanced NLP solutions, including chatbots, document processing, sentiment analysis, and language automation. Learn More Learn More AI Service Selector Get Personalized Service Recommendations in Seconds Answer 2 quick questions, and let our AI suggest the right services. What is your industry? Question 1 of 2 Transportation Education Telecommunications Healthcare Travel Energy Hospitality SaaS Retail Agriculture Finance Real Estate View All Our Clients Partnering with Kombee provided data-driven insights that boosted user engagement, while their seamless native app optimized navigation and accelerated sales. By leveraging strategic push notifications and geo-targeted content, the solution significantly elevated our brand's overall digital presence. Stan Balar The project was delivered in a cost-effective manner without compromising on quality. The team's ability to manage resources efficiently was impressive, and we are thrilled with the results. Ross Launching our mobile product was a significant step for the business, and having the right technology partner made a real difference. Kombee brought clarity to the development process, stayed focused on our priorities, and helped us turn our product vision into something our customers could actually use. Mike Tylor We came in with a lot of ideas, and Kombee was very good at turning those into practical mobile features. Their attention to the smaller technical details and the overall professionalism of the team made the development process much easier for us. Md. Faizal As our engineering demands increased, Kombee gave us the additional expertise we needed without disrupting our established workflows. Their developers adapted quic",
+   "email_candidates": [
+    {
+     "email": "contact@kombee.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  }
+ ]
+}

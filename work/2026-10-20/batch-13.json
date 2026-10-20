@@ -1,0 +1,375 @@
+{
+ "leads": [
+  {
+   "id": "b13685b37f",
+   "company": "Quadrant Health",
+   "website": "https://quadrant.health",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Analyzing EHR and messaging data to predict disease before it occurs. SaaS, Healthcare IT, AI, Healthcare, Healthcare IT, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://quadrant.health/]\nTitle: Quadrant Health — AI Agents Powering Healthcare Operations\n\nURL Source: https://quadrant.health/\n\nMarkdown Content:\nQuadrant Health\n\n## The AI Workforce for Healthcare.\n\nProactive voice and agentic AI that absorbs the administrative work, lifts outcomes, and raises satisfaction across every patient touchpoint.\n\nThe Problem\n\n## Healthcare has an execution shortage.\n\nRoughly 30% of every U.S. healthcare dollar goes to administrative work that still leaves patient calls unanswered, care gaps open, and follow-ups quietly slipping past their window. Quadrant is the layer that finishes the work.\n\n![Image 1: Completed patient chart](https://quadrant.health/assets/Asset5.svg)\n\nResults\n\n83%\n\npatient engagement on AI-led outreach campaigns\n\n70%+\n\nof patient calls handled without staff involvement\n\n2M+\n\npatient interactions annually\n\nCustomers\n\nTrusted by medical groups and health systems across the country.\n\nCustomer Outcomes\n\n## What completed work looks like.\n\nWorked with leading organizations\n\n![Image 2: Stanford Health Care](https://quadrant.health/customer-logos/stanford-health-care.svg)\n\n![Image 3: Mayo Clinic Platform](https://quadrant.health/customer-logos/mayo-clinic-platform.webp)\n\nFeatured Partnership · EHR\n\n### Quadrant × medent®\n\n![Image 4: Medent logo](https://quadrant.health/logos/medent.png)\n\nMedent is a Quadrant EHR partner. Our voice and agentic AI agents run natively inside Medent, giving every Medent practice a path to 24/7 front-desk coverage, automated care-gap closure, and complete visit workflows.\n\nFor four decades Medent has served independent practices with EHR software they trust. Quadrant adds the AI workforce piece. Voice, agents, and chart updates, built into Medent as a first-party extension of the clinical surface.\n\n24/7 Front-desk coverage\n\n<2 wk Onboarding\n\nThe Platform\n\n## First ring. Chart updated.Everything in between.\n\nVoice and text get the patient on the line. Agentic AI completes the work inside your systems. Every action logged, every outcome tracked.\n\n### Every call answered. Every action completed.\n\nQuadrant picks up on the first ring. 24/7, in 20+ languages, via voice and bi-directional text. Handles the conversation, then operates your EHR to finish the job. Staff only see the calls that actually need them.\n\nScheduling & Reschedules\n\nBooks, reschedules, and cancels appointments across providers, locations, and visit types. Configurable rules, buffers, and insurance mapping.\n\nPatient Intake\n\nCollects demographics, insurance, and clinical information before the visit. Writes it to the chart so the patient arrives ready.\n\nMedication Refills\n\nTakes refill requests, checks controlled substance logic, and routes to the provider with the right context. No phone tag.\n\nInsurance Verification\n\nCaptures insurance details, walks patients through finding card info, and logs it to the chart.\n\n### Proactive outreach that closes gaps and fills chairs.\n\nDefine the goal. Set the sequence. Quadrant runs calls and texts until the success criteria are met. Configurable retry logic, time-zone-aware delivery, TCPA-compliant opt-out.\n\nCare Gap Closure\n\nAWV reminders, mammograms, colorectal screenings, diabetic eye exams, HbA1c, blood pressure management. Calls the patient, books the appointment, logs it to the EHR.\n\nAppointment Reminders & Confirmations\n\nConfirms upcoming visits, reschedules on the spot, and backfills cancellations.\n\nNo-Show Recovery\n\nCalls back within minutes of a missed appointment, reschedules, and updates the chart.\n\nPre-Op & Post-Op Check-Ins\n\nRuns pre-surgical checklists and post-op recovery surveys. Escalates issues in real time.\n\n### The work before, during, and after the visit.\n\nQuadrant doesn't stop at the phone. AI scribe captures encounters live. Care management agents keep chronic patients engaged between visits and support billable CCM programs.\n\nAmbient Scribe\n\nCaptures encounters in real time, drafts SOAP and procedure notes, and writes back to Epic",
+   "email_candidates": [
+    {
+     "email": "anin@quadrant.health",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Anin Sayana",
+     "role": "Founder"
+    },
+    {
+     "email": "krishna@quadrant.health",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Krishna Gorrepati",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "c11dae684b",
+   "company": "Malama Health",
+   "website": "https://www.heymalama.co",
+   "title": "Support Engineer, AI & Operations",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Support Engineer, AI & Operations (US / Remote (US); experience: Any (new grads ok); US citizen/visa only). Team size: 3. Doula-led holistic support during and after pregnancy Malama offers doula-led holistic support during and after pregnancy at no cost to patients. Malama is in-network with Aetna, UnitedHealthcare, Anthem, Kaiser, and several Medicaid Managed Care Plans. Malama is backed by the Stanford d.school, Y Combinator (S22), Alpine Investors and more. Health Tech, Digital Health, Healthcare, Femtech, Healthcare, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://heymalama.co/]\nMalama | Medicaid Pregnancy & Postpartum Support Upcoming Community Baby Shower in Houston! Oct 10, 2026 Upcoming Community Baby Shower in Houston! Oct 10, 2026 Patient Enrollment Provider Login One-on-One Maternal Care Thatâs Always There Pregnancy & postpartum support rooted in community. Get connected to resources covered by your insurance: Meals Housing Rides Prenatal care Baby Supplies Get Started Malama Member Benefits With one-on-one care, you wonât navigate pregnancy alone. Join Now Malama Member Benefits With one-on-one care, you won't navigate pregnancy alone. Join Now + One-on-one Care Management + Clinical Support + Resources Covered by Insurance + With You Every Step of the Way One-on-one Care Management - Community-based Care Managers who understand your world and stay by your side to coordinate your pregnancy. Resources Covered by Insurance + Clinical Support + With You Every Step of the Way + Gestational Diabetes Support Your Health in Your Hands Continuous support, community and education for managing gestational diabetes and preventing postpartum diabetes. Track Glucose & Meals Real-Time Health Feedback for You & Your Provider Postpartum Wellness & Diabetes Prevention Programs Download Our Free App Care Management Led by Certified Doulas Our dedicated Care Managers combine doula-led maternal wisdom with expertise in case management, behavioral health and advocacy. Supporting mothers and families through the complex realities of modern pregnancy, we surround you with the presence and depth of care that no clinical protocol can replicate. About Malama Doulas In Network with National Health Plans Mothers hold the world together. Malama holds you. Real Malama Member Aysia Real Malama Member Yazmine Real Malama Member Leslie We surround the journey of motherhoodâreplacing fear and isolation with hands-on care that creates healthier futures for mothers, babies and families. About Us For Providers Provider Care Extended Beyond the Clinic The admin and social support your patients need beyond the visit for better outcomes at every visit. See Provider Benefits When mothers thrive, the community they raise flourishes too. The improved health outcomes that every mother deserves. 40% Reduction in preterm birth* 19.4% Reduction in C-sections* 27% Reduction in NICU admissions* 80% Achieve active glucose control in ~2 weeks 86 NPS Our members highly recommend Malama 40K Mothers supported (and growing) Trusted by Leading Providers Trusted by Leading Providers In the News âMalama Health has earned that trust in communities that have been failed by the healthcare system for generations, and the outcomes data shows what's possible when you build care around women rather than around appointments.â Fierce Healthcare, 2026 â[Doula-Care Navigators are] trained in both doula support and social determinants navigation, embedded in the communities they serve. They attend births, conduct home visits, and escalate clinical signals in real time through a HIPAA-compliant dashboard with Epic integrationâand they also help women find car seats, book pediatricians, and locate WIC sites with supplies in stock.â Forbes, 2026 âSome 50,000 moms across the United States have used Malama since the app was introduced little more than three years ago.â The Business Journals, 2026 About Blog Research Press Patient Enrollment Provider Account Setup Contact FAQs Terms of Service Privacy Policy HIPAA Notice of Privacy Practices Security Malama Health FCOI Policy Â© 2026 Malama Healthâ¢ One-on-One Maternal Care That's Always There Pregnancy & postpartum support rooted in community. Get connected to resources covered by your insurance: Meals Housing Rides Prenatal care Baby Supplies Get Started Care Management Led by Certified Doulas Our dedicated Care Managers combine doula-led maternal wisdom with expertise in case management, behavioral health and advocacy. Supporting mothers and families through the complex",
+   "email_candidates": [
+    {
+     "email": "hello@heymalama.com",
+     "where": "https://heymalama.co/",
+     "kind": "generic"
+    },
+    {
+     "email": "mika@heymalama.co",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mika Eddy",
+     "role": "Founder"
+    },
+    {
+     "email": "orlando@heymalama.co",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Orlando Li",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "aab9deec23",
+   "company": "Droisys",
+   "website": "https://droisys.com",
+   "title": "Artificial Intelligence Intern",
+   "location": "Noida, Uttar Pradesh, India",
+   "source": "linkedin",
+   "posted_at": "2026-10-19T00:00:00Z",
+   "posting": "About Droisys Droisys is a dynamic, fast-growing technology company dedicated to delivering cutting-edge solutions to clients worldwide. We pride ourselves on innovation, collaboration, and exceptional client service. Job Description: Applied AI Intern Role: Applied AI Intern Department: Artificial Intelligence / Engineering Experience: Fresher / Internship Employment Type: Internship Location: Noida, India(Sector 63) About the Role We are looking for a motivated Applied AI Intern with strong Python and problem-solving skills and an interest in building practical AI applications. The ideal candidate should be eager to work with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Optical Character Recognition (OCR), and open-source AI models to develop intelligent solutions for real-world problems. Key Responsibilities Develop and maintain AI applications using Python. Work with LLMs for text generation, summarization, information extraction, and intelligent automation. Build and improve RAG pipelines for document retrieval, semantic search, and question answering. Implement OCR solutions to extract structured information from images, scanned documents, and PDFs. Explore and integrate open-source LLMs and vision models into AI applications. Evaluate model performance and experiment with different models, prompts, and inference strategies. Process and transform unstructured data for AI-powered applications. Apply Data Structures and Algorithms (DSA) to develop efficient and scalable solutions. Integrate AI models and services through REST APIs. Debug, test, and optimize AI workflows in collaboration with the engineering team. Required Skills Python: Strong fundamentals, object-oriented programming, exception handling, and familiarity with common Python libraries. LLMs: Basic understanding of Large Language Models, prompt engineering, and model APIs. RAG: Understanding of embeddings, document chunking, vector search, and retrieval pipelines. OCR: Famili",
+   "site_text": "[https://droisys.com/]\nHome - Droisys Skip to content Articles News Careers Contact Us Transform your business with AI, ML and digital innovation For over two decades, we’ve empowered Fortune 100 and global organizations across high-tech, fintech, gaming, pharmaceutical, government, and more to thrive in the digital age. Contact us We Know Technology Droisys offers full-service software development, identifying opportunities and building complex digital transformation strategies. We innovate with AI and machine learning to develop app prototypes and full-scale solutions. As your technology partner, we deliver immediate impact, helping you scale where it matters most. Our consultants and specialists are experts in key and emerging technologies, ensuring you stay ahead of the curve. ‟ We solve business problems with an innovative mindset Sanjiv Goyal ・President Strategy ･ Prototyping ･ Development ･ From Strategy to Prototyping to Development, Droisys creates immediate, turnkey scale for your team What we do Digital Transformation Let Droisys drive your digital transformation, whether modernizing legacy systems or creating new platforms. We deliver end-to-end solutions that improve efficiency, reduce costs, and accelerate growth. Start transforming today. AI & Machine Learning Leverage AI and ML to make smarter decisions and unlock new revenue streams. Our advanced data analytics, machine learning models, and automation solutions empower your business to personalize customer experiences and optimize operations. Build the future of AI with us. Data Annotation for AI Power your AI initiatives with high-quality data. Our data annotation services ensure your machine learning models are trained with accurate, detailed data, improving AI performance and decision-making. Unlock the full potential of your data. Consultative Approach Partner with us for customized, results-driven solutions. Our consultative approach ensures that we tailor technology to fit your unique challenges, driving measurable business outcomes from day one. See how we can help. Hybrid Global Teams Our flexible on-site, onshore, and offshore teams deliver projects faster. We combine global expertise with local efficiency to tackle your most complex projects, ensuring high-quality delivery every time. Work with top talent worldwide. Industry Expertise With over two decades of experience across high-tech, fintech, gaming, pharma, and government, we understand your challenges and how to turn them into growth opportunities. Put our experience to work for you. Our Approach Our goal is simple: help our partners and clients create measurable value by leveraging our business acumen, technical expertise, and our diverse skillsets. Contact us Our Approach Our goal is simple: help our partners and clients create measurable value by leveraging our business acumen, technical expertise, and our diverse skillsets. Contact us Research We research trends and best practices in your industry to keep you ahead of the market and lead with innovative consumer platforms. Strategy We collaborate to understand your goals and needs, developing the right technology strategy to optimize creativity, drive innovation, and maximize ROI. Execution Our agile approach and lean structure let us act swiftly and efficiently to execute programs, build solutions, and enable rapid market validation. Deployment We deliver a full-featured software solution and innovation stack, using industry best practices and a microservices-based architecture. Build the future with us Connect with us today, together, we’ll build what’s next Start Project Highlights Consistent growth in 20+ years in business. 300+ team members across the globe to provide the best possible service to our clients. Ranked 10 consecutive years on Inc. Magazine’s list of the Top 50 SF Bay Area IT companies. Recognized by the Business Journal as one of Silicon Valley’s fastest-growing private companies. We’ve served customers across six contine",
+   "email_candidates": [
+    {
+     "email": "studio@droisys.com",
+     "where": "https://droisys.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "india@droisys.com",
+     "where": "https://droisys.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "ahmedabad@droisys.com",
+     "where": "https://droisys.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "nagpur@droisys.com",
+     "where": "https://droisys.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "hyderabad@droisys.com",
+     "where": "https://droisys.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "Noida",
+   "referral": false
+  },
+  {
+   "id": "0e96fe4436",
+   "company": "Skill Orbit",
+   "website": "https://skillorbit.com",
+   "title": "Data Analyst Internship",
+   "location": "India",
+   "source": "unstop",
+   "posted_at": "2026-10-19T13:25:50Z",
+   "posting": "About the Company Skill Orbit is building practical learning and career opportunities that help emerging professionals develop relevant, workplace-ready capabilities. This remote internship offers aspiring analysts the opportunity to work in a structured environment, learn from real business data, and contribute to meaningful reporting and analysis initiatives. Responsibilities Collect, clean, organize, and validate data from multiple sources. Use Excel to prepare analysis, summaries, pivot tables, charts, and recurring reports. Write SQL queries to retrieve, filter, join, and aggregate information from databases. Identify trends, inconsistencies, and useful insights in datasets. Support the preparation of dashboards, presentations, and data-driven recommendations. Document analytical processes and communicate findings clearly to stakeholders. Requirements Strong interest in data analysis, reporting, and business problem-solving. Working knowledge of Excel and SQL. Comfort with numbers, structured thinking, and attention to detail. Ability to learn quickly, manage tasks independently, and collaborate effectively in a remote environment. No prior professional experience is required; academic projects or practice work in analytics are welcome. This is a three-month, fully remote, paid internship with a monthly stipend of ₹20,000 to ₹35,000. Interns will gain practical exposure to data preparation, querying, analysis, and insight communication while working with a distributed team.",
+   "site_text": "[https://skillorbit.com/]\nSkill Orbit Technology to Amplify Your Business Value Get in touch About us Skill Orbit is a digital transformation partner helping businesses overcome complex technology challenges with precision, innovation, and end-to-end execution. Founded in 2015 as a small team supporting organizations struggling with limited tech capabilities, we have grown into a global provider serving clients across the U.S., U.K., Middle East, Pakistan, and Australia. Our diverse team blends creativity, expertise, and trust to deliver solutions that modernize operations and empower businesses to thrive in a rapidly evolving digital world. Cutting-Edge Solutions: From cloud and automation to product development and integrations, we deliver modern technology that drives real business impact. Global Expertise: A skilled team with a proven track record across multiple industries and regions, offering reliable, scalable, and future-ready services. People-Centric Culture: A collaborative environment built on trust, creativity, and continuous growthâenabling us to consistently exceed expectations. Our services We provide end-to-end digital solutions including web and mobile development, UI/UX design, graphic design, system integrations, and expert consultancy to help businesses grow. Web Development Custom, scalable websites built for performance, security, and an exceptional user experience. Mobile App Development High-quality Android and iOS apps designed for speed, reliability, and seamless user engagement. UI/UX Design Intuitive, user-centered interfaces that enhance usability and elevate the overall digital experience. Graphic Design Creative visual designs that strengthen brand identity and communicate your message effectively. Integration Services Smooth and secure system integrations that streamline workflows and improve business efficiency. Consultancy Trusted consulting services focused on improving processes, technology, and overall performance. Get in touch Get in touch with our team to discuss your requirements and discover the right solution for your business. Call +922134325907 Email info@skillorbit.com Address 601 - Wind Song Place, KCHSU,, Shahrah-e-Faisal, Karachi, Sindh PK",
+   "email_candidates": [
+    {
+     "email": "info@skillorbit.com",
+     "where": "https://skillorbit.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": {
+    "period": "month",
+    "min": 20000,
+    "max": 35000
+   },
+   "priority": 0,
+   "priority_note": "₹35,000/mo",
+   "referral": false
+  },
+  {
+   "id": "b8c97e0070",
+   "company": "Curtins",
+   "website": "https://curtins.com",
+   "title": "Graduate Transport Planner",
+   "location": "",
+   "source": "remoteok",
+   "posted_at": "2026-10-17T08:00:50Z",
+   "posting": "At Curtins, we're an employee-owned engineering consultancy driven by a simple ambition: to create a better built environment for everyone. For over 65 years, we've delivered practical, innovative and sustainable solutions that make a positive impact on communities across the UK and Ireland. From major regeneration schemes and commercial developments to education, healthcare and residential projects, our work helps shape the places where people live, learn, work and thrive. As a Graduate Transport Planner, you'll work alongside experienced planners, engineers and consultants, contributing to a wide range of projects while developing the technical and professional skills you need to build your career. Whether you're interested in transport assessments, active travel &amp; sustainable mobility, highways or public transport, we'll give you the experience, guidance and support to find the areas that interest you most and develop your expertise in development planning. What you'll be doing You will support the planning and development process, helping clients bring projects forward from initial concept through to planning approval. Your responsibilities will include: Assisting with the preparation of Transport Assessments and Transport Statements. Supporting the production of Travel Plans and technical planning reports. Analysing traffic, transport and movement data. Assisting with junction assessments and development impact studies. Supporting planning applications for residential, commercial and mixed-use developments. Working alongside planners, civil engineers and other specialists to deliver integrated solutions. Attending client meetings, project discussions and stakeholder consultations. Taking part in wider Curtins activities including STEM outreach, charity initiatives and community projects. What kind of projects will I get to work on? You'll be involved in projects across a wide range of sectors, including: Residential developments. Urban regeneration schemes.",
+   "site_text": "[https://www.curtins.com/]\nBuilding a Better Future | Curtins Home Graduate Roles for 2027 Now Open Take the first step in your career with an Employee-Owned Trust that puts its people first. Explore our 2027 graduate opportunities and apply today. Explore Opportunities at Curtins Civils and Structures | Transport Planning | Geotechnical & Environmental Explore our services What We Do We’ve Published Our Latest Carbon Data Results Sharing embodied carbon data supports our commitment to open knowledge sharing, collaboration, and whole‑life carbon assessment, helping to build a stronger evidence base across the industry. Curtins' Carbon Data Building a Better Future For over 65 years we have been at the forefront of developing new and sustainable engineering solutions designed to enhance the world around us and deliver lasting good to the people and communities we serve. Our Purpose Together, we deliver solutions that enrich the communities we serve. As we are proudly independent and always will be, our people are empowered to do the right thing and help each other become the best version of themselves. We do this because the world we all live in and the legacy we leave truly matters. Our Specialisms Civils & Structures Explore Transport Planning Explore Geotechnical & Environmental Explore Our Projects Secure Buildings HMP Glasgow is a £1 billion, net zero-ready prison being built to replace HMP Barlinnie, providing a modern facility for 1,344 people. Curtins is supporting the project incorporating Modern Methods of Construction into the design. HMP Glasgow Mixed Use Regeneration The Borough Yard project involves the regeneration and transformation of a significant 12-hectare brownfield site, paving the way for approximately 1,400 new homes. This initiative directly supports Wirral Council’s Local Plan for 2021–2037, contributing to the area’s long-term growth and regeneration. Borough Yard, Birkenhead Mixed Use Regeneration Curtins is supporting Related Argent on Brent Cross Town, a major new neighbourhood in North London. Built using the hyTower structural system, Plot 14 comprises three mixed-use residential buildings of up to 12 storeys, providing 286 build-to-rent new homes, retail space and a basement car park, contributing to the creation of a vibrant and sustainable new neighbourhood. Plot 14, Brent Cross Town, Barnet Mixed Use Regeneration From Princes Dock to Hill Dickinson Stadium, Liverpool’s docklands regeneration is unlocking economic growth through new homes, commercial space, leisure facilities, and investment opportunities. Liverpool Waters Science & Technology We have played a key role in the delivery of Liverpool's Paddington Village Masterplan, supporting the transformation of a complex brownfield site into a nationally significant destination within Liverpool's Knowledge Quarter. Paddington Village, Liverpool Join Us At Curtins, our utmost goal is to ensure the happiness of our people, who in turn deliver innovative and sustainable work that brings joy to our clients. We take pride in the positive impact we make on the world around us. Joining Curtins means more than just being involved in project delivery – it means becoming part of a warm and welcoming team, where we collaborate to create a lasting legacy. As a 100% employee-owned company with a rich 65-year history, we offer a strong and reliable foundation for you to be a part of. We value our people above all else, and this principle will always remain at the core of who we are. Careers Information View Our Current Vancancies Let’s Make it Count 13 Offices in the UK and Ireland 66 Years established 1540 Formal graduate training hours per year 70 Awards in the past 3 Years Events As a leading consultancy, we're proud to be able to share our knowledge and expertise as invited speakers and event hosts. View our event highlights by clicking the button below, or follow us on Linkedin for the latest on our wider industry collaborations. Event News News & Vie",
+   "email_candidates": [
+    {
+     "email": "hr@curtins.com",
+     "where": "job posting",
+     "kind": "hiring"
+    },
+    {
+     "email": "recruitment@curtins.com",
+     "where": "https://www.curtins.com/careers/",
+     "kind": "hiring"
+    },
+    {
+     "email": "liverpool@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    },
+    {
+     "email": "alex.vogt@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    },
+    {
+     "email": "landd@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    },
+    {
+     "email": "oliver.crook@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    },
+    {
+     "email": "andy.macfarlane@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    },
+    {
+     "email": "dan.evans@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    },
+    {
+     "email": "niamh.mccloskey@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    },
+    {
+     "email": "phil.thomas@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    },
+    {
+     "email": "carl.peers@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    },
+    {
+     "email": "ben.dawson@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    },
+    {
+     "email": "kate.clegg@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    },
+    {
+     "email": "marc.barlow@curtins.com",
+     "where": "https://www.curtins.com/contact/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "7ae77d74fc",
+   "company": "Morningstar",
+   "website": "https://morningstar.com",
+   "title": "Associate Software Engineer",
+   "location": "Mumbai",
+   "source": "unstop",
+   "posted_at": "2026-10-14T11:01:48Z",
+   "posting": "Morningstar is hiring for the role of Associate Software Engineer! Responsibilities of the Candidate: Build well-designed, well-engineered, stable, scalable products across a variety of markets Follow software design best practices such as continuous integration, test-driven development, and regular deployments. Solve investors’ problems with technology, understanding market chaos at work and crafting technically appropriate interactive experiences to communicate effectively with individual investors. Be passionate about quality, process, programming, and investing in general, seeing opportunities for improvement, seizing them, and then sharing your findings with others. Familiarity or desire to become an AWS certified developer Take ownership of the success of the team with a \"get things done\" attitude; the ability to understand and leverage new technologies, potentially wearing many hats including business analyst, DBA, QA, and project manager. Analyze and remediate production issues and build instrumentation and operational readiness into the systems architecture. Enforce good Agile practices (using JIRA) including test-driven development and continuous integration. Help to shape product vision Stay up to date on emerging technologies. Promote usability and coding best practices. Requirements: A bachelor's degree in computer science or a related field, with 1 to 2 years of software development experience. 1+ years of experience developing commercial quality web applications and/or scalable APIs. Experience with designing and building full-stack web applications. Solid experience with C# , the Microsoft .Net stack and AWS stack. Should have experience with the following technologies: Web APIs, MVC, Unity, Entity Framework, LINQ, Asynchronous programming, SQL Server, .NET 8, AWS stack (Lambda, Fargate, SQS, Postgress). Advanced knowledge in XML programming Must be able to write good unit tests An understanding of how to protect web applications from common security",
+   "site_text": "[https://www.morningstar.com/]\nMorningstar | Empowering Investor Success morningstar.com Markets DJIA S&P 500 NASDAQ Morningstar US Total Market Morningstar Wide Moat Focus Morningstar Global Markets US Market Barometer Markets 1D 1W 1Y Style Box +0.97 +0.39 −0.20 Large +1.19 +1.17 +0.55 Mid +1.33 +1.19 +1.24 Small Value Core Growth Market Movers View All Gainers Losers Actives Braze Inc $45.51 BRZE +$15.46 ( 51.43% ) Nanobiotix SA $24.38 NBTX +$3.04 ( 14.25% ) Kailera Therapeutics Inc $12.90 KLRA +$1.49 ( 13.06% ) Lionsgate Studios Corp $11.95 LION +$1.34 ( 12.58% ) Klaviyo Inc $19.62 KVYO +$2.12 ( 12.10% ) Oct 20, 2026, 5:15:01 PM Featured How To Make Your Money Last in Retirement Worried about a shortfall? Here are strategies to strengthen your retirement plan, from cutting investment costs to adjusting spending and timing Social Security. Christine Benz and Margaret Giles Morningstar’s Guide to ETF Investing Sponsored by Motley Fool Asset Management 3 Top Active Muni ETFs Consider these options when building your municipal-bond portfolio. Tom Murphy, CFA 6 ETFs To Diversify Away From AI Daniel Sotiroff Thematic ETFs Are Popular Again. Yikes Jeffrey Ptak, CFA The Best Bond ETFs Tori Brovet More Featured How To Use Taxable Bonds in Your Portfolio Amy C. Arnott, CFA 4 Stocks to Buy for the Long-Term While They’re Still Undervalued David Sekera, CFA and Sarah Hansen Global Moderate-Allocation Funds Built for the Long Haul Hyunmin Kim Are TIPS ETFs the Best Way to Fight Inflation? Daniel Sotiroff and Ivanna Hampton Market Insights 3 New 5-Star Stocks This Week Bella Albrecht Markets Brief: Chip Stocks Sell Off, Investors Rotate Into Value, and What to Watch in Big Tech Earnings Sarah Hansen and Colin Laidley Anthropic and OpenAI Face Commodification Threats. Here’s What to Watch For Malik Ahmed Khan, CFA Market Insights 3 New 5-Star Stocks This Week Bella Albrecht Markets Brief: Chip Stocks Sell Off, Investors Rotate Into Value, and What to Watch in Big Tech Earnings Sarah Hansen and Colin Laidley Anthropic and OpenAI Face Commodification Threats. Here’s What to Watch For Malik Ahmed Khan, CFA Company Earnings View All Verizon Stock Is Up 10% This Year. Is It Still a Buy Ahead of Earnings? Michael Hodel, CFA Procter & Gamble Stock Is Up 11% This Year. Is It Still a Buy Ahead of Earnings? Erin Lash, CFA Meta Stock Is Up 9% This Year. Is It Still a Buy Ahead of Earnings? Malik Ahmed Khan, CFA Featured Podcast View All Spencer Look and Jack VanDerhei: The Assumptions That Can Put Your Retirement at Risk Jack VanDerhei, Spencer Look, Christine Benz, and Amy C. Arnott, CFA Funds View All Global Moderate-Allocation Funds Built for the Long Haul The funds achieve long-term success despite some short-term turbulence. Hyunmin Kim 3 Top Active Muni ETFs Tom Murphy, CFA 6 ETFs To Diversify Away From AI Daniel Sotiroff Stocks View All 10 New 4-Star Stocks This Week ASML and Applied Materials are among the stocks that fell into undervalued territory. Bella Albrecht 3 of the Best Value Stocks to Own Susan Dziubinski This 1-Star Stock Trades at a 94% Premium. Is It Time to Sell? Sean Dunlop, CFA Bonds View All 3 Top Active Muni ETFs Consider these options when building your municipal-bond portfolio. Tom Murphy, CFA How To Use Taxable Bonds in Your Portfolio Amy C. Arnott, CFA CoreWeave and Data Center Bonds Slide on Capex and Debt Overhang Concerns Mairin Burns More Sections Markets Portfolio Construction Economy Sustainable Investing Personal Finance Retirement For Advisors Alternative Investments Get the best of Morningstar straight to your inbox Start your day with the latest market news curated by Morningstar’s editors. Market Insights View All 4 Stocks to Buy for the Long-Term While They’re Still Undervalued Plus, a deep dive on SpaceX’s bid to challenge US telecoms. David Sekera, CFA and Sarah Hansen Markets Brief: Chip Stocks Sell Off, Investors Rotate Into Value, and What to Watch in Big Tech Earnings Sarah Hansen and Colin Laidley Ma",
+   "email_candidates": [
+    {
+     "email": "reprints@morningstar.com",
+     "where": "https://www.morningstar.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "sarah.hansen2@morningstar.com",
+     "where": "https://www.morningstar.com/news/dow-jones/202610206697/dow-jones-top-company-headlines-at-1-pm-et-general-motors-stock-slides-as-iran-conflict-drives-up-costs-amazon",
+     "kind": "personal"
+    },
+    {
+     "email": "susan.dziubinski@morningstar.com",
+     "where": "https://www.morningstar.com/news/dow-jones/202610206697/dow-jones-top-company-headlines-at-1-pm-et-general-motors-stock-slides-as-iran-conflict-drives-up-costs-amazon",
+     "kind": "personal"
+    },
+    {
+     "email": "christine.benz@morningstar.com",
+     "where": "https://www.morningstar.com/retirement/are-you-making-big-assumption-about-long-term-care-retirement",
+     "kind": "personal"
+    },
+    {
+     "email": "amy.arnott@morningstar.com",
+     "where": "https://www.morningstar.com/retirement/are-you-making-big-assumption-about-long-term-care-retirement",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "8adf970498",
+   "company": "Prishusoft",
+   "website": "https://prishusoft.com",
+   "title": "Web Researcher",
+   "location": "Ahmedabad",
+   "source": "unstop",
+   "posted_at": "2026-10-20T09:29:51Z",
+   "posting": "Job Description PRISHUSOFT is looking for a detail-oriented and curious Web Researcher to support our business development team.This role is ideal for freshers who enjoy searching online, finding relevant information, and organizing data accurately. You will research international companies, identify potential business opportunities, and maintain reliable information to help our team connect with suitable prospects. Key Responsibilities Research companies using Google, LinkedIn, company websites, and business directories. Identify businesses that match our target industries, locations, and client requirements. Find relevant decision-makers and publicly available business contact details. Collect and organize information such as company names, websites, services, locations, and contact profiles. Identify public posts and business requirements related to software development and remote developers. Verify information, remove duplicate entries, and keep research records updated. Maintain structured data in Microsoft Excel, Google Sheets, or CRM tools. Share relevant findings with the business development team and meet agreed research targets. Follow company guidelines for data accuracy, confidentiality, and responsible information collection. Required Skills and Qualifications Graduate in any discipline. Basic computer knowledge and confidence using the internet. Good English reading and comprehension skills. Basic familiarity with Microsoft Excel or Google Sheets. Strong attention to detail and the ability to organize information. Patience and persistence when searching for accurate, relevant results. Willingness to learn new research methods and tools. Ability to follow instructions, manage time, and work collaboratively. Good to Have Familiarity with LinkedIn and advanced Google search. Basic understanding of IT services and software development. Exposure to online research, data entry, or lead generation through coursework, internships, or personal projects. Previou",
+   "site_text": "[https://prishusoft.com/]\nCustom Software, Mobile & Web App Development Company | Prishusoft Contact Us Dynamic Digital Transformation Digital transformation creates a greater impact on business. As a well-known web and mobile app development company, Prishusoft has been proudly providing complete website, application, and cloud solutions to businesses. Get started Web and Mobile App Development Company Built for Your Success Code. Innovate. Deliver. Prishusoft is a global software development company that provides a wide range of solutions that include web and mobile app development , web design, e-commerce solutions and more. We have been developing custom business and enterprise applications for a long time, and our goal has always been to meet the needs of our clients. We also engage in offshore outsourcing software development to meet the needs of our global clients. Regardless of the location or nature of your business, be confident that we will meet its unique needs with our business and enterprise application development solutions. We provide purely customised web and app development services using powerful technologies such as Microsoft .NET, Angular JS, and React JS to provide highly satisfactory solutions while keeping your unique needs and budget in mind. We are here to help businesses at any level, from startups to enterprises. Our end goal is to make a difference. Our USP is that we love problems of any kind because our skilled team has solutions for them all, and if they don’t, they create one. READ MORE ABOUT COMPANY Services we offer We go above and beyond our boundaries to provide you with fully customised digital solutions to ensure your business growth. Also, commit to serve Excellence, quality, and innovation. Software Development Software Development From generating ideas to software launch, we will handle the complete process with ultimate precision. We provide complete software development services, including frontend design, backend logic, database administration, security, deployment, testing, and continuous maintenance, to provide a smooth user experience. Our highly skilled team of developers has a deep understanding of new technologies to provide you with the best solution. Application Development Product Re-engineerring Software Maintenance Support Software Consulting Enterprise Solutions Custom Software Development Product Development Application Development Application Development Your customers want instant and easy access, and we are here to make it happen. Whether you require a basic service app or a fully advanced on-demand service app, we can help. Our application development services are carefully planned to provide scalable and user-friendly on-demand service applications for your company, which can help you to connect with your users instantly. Application Consulting SAAS Application Development Enterprise App Development Application Maintenance Application Support Application Modernization Application Integration Service Application Maintenance Service Product Development Product Development To build an extremely effective product, we dive deep into your business to fully understand it. To create a completely functional product, we consider market needs and consumer expectations. Whether you're beginning from scratch or scaling up, we'll help you at every stage of product development. We create a product that is certain to pay off early and grow with you. Enterprise Product Development Minimum Viable Product (MVP) Consulting & Evaluation SAAS Product Customization Architecture Design & Strategy Bespoke Software Development Enhancement & Evolution Performance Optimization Web Development Web Development A High-performing and user-friendly customised web solution is all you need for your business needs. We, as a leading web development company , engineer strong backend systems and create smooth user interfaces using updated technologies for all kinds of businesses to drive their digital t",
+   "email_candidates": [
+    {
+     "email": "info@prishusoft.com",
+     "where": "https://prishusoft.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "career@prishusoft.com",
+     "where": "https://prishusoft.com/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "0b3974af24",
+   "company": "Miyagi Labs",
+   "website": "https://miyagilabs.ai",
+   "title": "Engineering (YC Winter 2025)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. AI tutors for exam prep Miyagi Labs is an AI-powered exam preparation platform built to unlock human intelligence and democratize world-class education globally. We provide students with an elite AI tutor, hyper-personalized study analytics, and an infinite engine of rigorous practice material tailored to exam material. We currently support major standardized exams across North America, Europe, Africa, and Asia, including the SAT, ACT, and NYC SHSAT (US), the UTME (Nigeria), the KCSE, KJSEA and KPSEA (Kenya), the NEET and CAT (India), and the YKS (Turkey). We’re building the platform we wish we had when studying for exams. We envision a world where students anywhere can come to Miyagi to receive personalized, world-class AI tutoring designed to unlock their full potential. AI-Enhanced Learning, Education, eLearning, Edtech, Education, United States of America, America / Canada",
+   "site_text": "[https://miyagilabs.ai/]\nMiyagi Labs Y Backed by Y Combinator Ace the SAT. With your personal AI tutor. Trusted by 125K+ students across the US, India, Kenya, Nigeria & Türkiye to outscore the competition, master trick questions, and unlock top percentile results. Start for free Find your exam Joined by 125,000+ global learners Find your exam 🇺🇸 United States SAT → ACT → NYC SHSAT → AP → 🇹🇷 Türkiye YKS → 🇳🇬 Nigeria UTME → 🇰🇪 Kenya Grade 6 (KPSEA) → Grade 7 → Grade 8 → Grade 9 (KJSEA) → Grade 10 → Form 4 (KCSE) → 🇮🇳 India NEET → CAT → Select Your Country 🇺🇸 United States 🇺🇸 United States 🇹🇷 Türkiye 🇳🇬 Nigeria 🇰🇪 Kenya 🇮🇳 India Available Exams SAT → ACT → NYC SHSAT → AP → Watch your score climb YOUR SCORE 800 Score Predictor Take a short diagnostic and get a data-backed SAT score prediction with a personalized study path. Question Bank Thousands of verified digital SAT questions with detailed solutions and AI-powered step-by-step explanations. Adaptive Skills Review Drill down into your weakest SAT subskills with targeted review sessions that continuously adapt as you improve. Full-Length Practice Exams Timed Bluebook-accurate practice exams with section-by-section scoring breakdowns so test day feels easy. Classroom Mastery A guided path through every skill. Watch focused lessons, practice adaptive sets, and lock in mastery. What you get in one guided platform 16,000+ Bank Topical Questions & Notes Topic-by-topic question drills with step-by-step verified explanations and digital reference notes. Official Test Specs SAT ACT KCSE NEET Full-Length Mocks Real exam interface simulation with official time pacing, adaptive modules, and instant score curves. 15-Min Score Predictor Take an adaptive 15-minute diagnostic to reveal your predicted score with AI-powered analytics and high-yield gap detection. 24/7 Personal AI Tutor Instant Socratic explanations. Ask questions anytime you get stuck and get step-by-step guidance. Desmos & Exam Hacks 40+ calculator tricks, speed elimination strategies, and test-taking shortcuts that save precious minutes. What students & parents say Miyagi helped me understand why I was getting questions wrong, not just what the right answer was. Ethan Student, 18 y.o ACT MIT Miyagi helped me understand why I was making mistakes, not just which answers were wrong. Jason Student, 17 y.o SAT Rice It showed us exactly where my child stood and what needed improvement. Instead of generic practice, the platform focused on the right skills, which made studying more efficient and less frustrating. Irene Parent SAT Cornell The diagnostic test showed me exactly where to start. Daniel High school junior ACT I improved my SAT score by 200 points in just 2 months of practice. Maya Student, 18 y.o SAT Stanford Miyagi helped me understand why I was getting questions wrong, not just what the right answer was. Ethan Student, 18 y.o ACT MIT Miyagi helped me understand why I was making mistakes, not just which answers were wrong. Jason Student, 17 y.o SAT Rice It showed us exactly where my child stood and what needed improvement. Instead of generic practice, the platform focused on the right skills, which made studying more efficient and less frustrating. Irene Parent SAT Cornell The diagnostic test showed me exactly where to start. Daniel High school junior ACT I improved my SAT score by 200 points in just 2 months of practice. Maya Student, 18 y.o SAT Stanford I genuinely owe everything to Miyagi. I was stuck at 1280 forever, but the personalized practice and Desmos tips finally got me consistently scoring 1480+ in practice tests. Ava SAT 1480 SAT +200 Pts I took the first SAT kind of carelessly and bombed reading, but with the study plan and the section-by-section practice exams I was averaging 1450+ on practice tests. Jordan SAT 1450 SAT +270 Pts The score predictor pinpointed my weakest skills and the problem sets adapted as I improved. Test day felt like just another rep. Priya SAT 1530 SAT +190 Pts Going from 1100 to 1410",
+   "email_candidates": [
+    {
+     "email": "tyrone@miyagilabs.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Tyrone Davis III",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "guang@miyagilabs.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Guang Cui",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "da5090e2d9",
+   "company": "Lab0",
+   "website": "https://lab0.ai",
+   "title": "Engineering (YC Spring 2026)",
+   "location": "Bengaluru, KA, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. AI FDEs to make your B2B SaaS Go Live in Days, not Months Enterprise software implementation is broken, and it has been for decades. Every rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. Lab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks. SaaS, B2B, Enterprise, AI, B2B, India, South Asia",
+   "site_text": "[https://lab0.ai/]\nAI accelerators for ERP implementations | lab0 lab0 .ai Lab0 is attending Oracle AI World. October 25â28, Las Vegas. Meet the team lab0 .ai Discovery call Switch to light mode Switch to dark mode Backed by Combinator AI accelerators for ERP implementations Book a discovery call See the delivery layer Streamline implementation with our Agents 01 / Discovery Hundreds of requirements across teams, documents, and systems become one connected implementation blueprint. 02 / Integration Requirements drive changes across request forms, branching approval workflows, and ERP field mappings. 03 / Testing Validate whole suites across roles, rules, and integrations. Follow one failure, apply the fix, and rerun the affected checks. 04 / Hypercare Ticket, scoped change, platform update, verification, resolution. The agent fills configuration from the request, checks the affected flows, and resolves the ticket. Two ways to work with Lab0. Enterprise software companies Use lab0 agents for faster implementations and go-live sooner We work directly with product companies to reduce the time it takes to implement their software for customers. Accelerate product implementation System integrators Use lab0's agent to make your practice AI native We bring AI into your existing delivery processes so you can improve margins and stand out with a faster implementation offering. Bring AI into your delivery Built for the platforms your business runs on. Explore our enterprise connectors One connected implementation record. Requirements, stakeholders, decisions, configuration, integrations, migrations, test evidence, and release readiness stay connected from the proposal through go-live. Win the work. Deliver it faster. Book a discovery call Switch to light mode Switch to dark mode",
+   "email_candidates": [
+    {
+     "email": "founders@lab0.ai",
+     "where": "https://lab0.ai/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "1e5f36fd07",
+   "company": "Winggo Soft",
+   "website": "https://winggosoft.com",
+   "title": "LARAVEL DEVELOPER INTERN",
+   "location": "Kakori, Uttar Pradesh, India",
+   "source": "linkedin",
+   "posted_at": "2026-10-13T00:00:00Z",
+   "posting": "",
+   "site_text": "[https://winggosoft.com/]\nHome - Winggo Soft Skip to content Winggo Soft Facebook Instagram Linkedin Mon - Sat: 9.30 am - 6.30 pm +91 91407 24426 info@winggosoft.com Menu Employee Portal Mon - Sat: 9:30 am - 6:30 pm +91 91407 44246 info@winggosoft.com Employee Portal ↗ Home BUILD · INNOVATE · GROW Best Software Development Company I n I n d i a We design and develop powerful websites, custom software and digital solutions that help businesses, NGOs, healthcare institutions and startups grow online. Get a Free Quote → Our Products ✦ 5+ Years of Experience ♙ 2000+ Happy Clients ▱ 50+ Projects Completed WINGGO SOFT TECHNOLOGIES Turning Ideas Into Digital Success Websites, software and digital solutions for growing businesses. ‹ › DIGITAL SOLUTIONS FOR MODERN BUSINESSES Best Website Development Company Websites, custom software, mobile applications, NGO solutions and digital marketing — all designed around your business goals. Get In Touch Latest Updates & Notifications Stay informed with the latest announcements, important updates, office leave notices, upcoming events, and other essential information. Check this section regularly to stay updated on important news and notifications from our organization. Book Your Free Demo About Winggo Soft Turning Your Ideas Into Digital Success Winggo Soft Technologies Private Limited helps businesses establish a strong digital presence through modern websites, custom software, mobile applications and digital solutions. We focus on creating practical, user-friendly technology that supports your business goals. From the first idea to launch and beyond, our approach combines thoughtful design, reliable development and business-focused problem solving to help your brand move forward with confidence. Modern Web Solutions Responsive, user-friendly business websites. Custom Software Solutions built around your business workflow. Mobile App Development Useful mobile experiences for your customers. Digital Growth SEO and digital services for online visibility. Let's Discuss Your Project Explore Our Solutions WINGGO SOFT / DIGITAL SOLUTIONS < Build. Innovate. Grow. /> Technology That Works For You. Building digital experiences with purposeful design, dependable technology and a focus on real business needs. 01 02 03 04 05 Client-Focused Solutions built around your needs Quality-Driven Built with care and purpose Reliable Delivery Clear communication throughout the project. Practical Innovation Technology selected to fit the problem. Long-Term Partnership Support for your evolving digital journey. OUR PRODUCTS Explore Our Ready-to-Use Software Solutions Powerful, feature-rich and easy-to-use software solutions designed for different industries and organizations. View All Products 01 Digital NGO Software Manage NGO activities, members, donations and project operations efficiently. Read More 02 Health Card Software Complete health card management system for institutions and companies. Read More 03 Cafe Management Software Manage cafe orders, billing, inventory and daily operations through one convenient system. Read More 04 Digital News Portal Software Complete news management solution designed for modern digital publishers. Read More 05 Attendance Management Software Track attendance, leave management, working hours and staff records easily. Read More Industry-Focused Solutions Easy-to-Use Software Reliable Digital Solutions We Are Winggosoft 1# Digital Company About Winggo Soft At Winggo Soft , we believe technology is not just about coding — it’s about creating impactful digital experiences that transform organizations and empower people. We are a next-generation IT solutions and digital transformation company , dedicated to helping NGOs, startups, and businesses simplify operations, automate processes, and grow faster through innovative technology. Who We Are ? Founded with a vision to bring intelligence, integrity, and innovation together, Winggo Soft has become a trusted name in custom software, web",
+   "email_candidates": [
+    {
+     "email": "info@winggosoft.com",
+     "where": "https://winggosoft.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "winggosoft@gmail.com",
+     "where": "https://winggosoft.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  }
+ ]
+}

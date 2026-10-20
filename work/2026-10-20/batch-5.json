@@ -1,0 +1,379 @@
+{
+ "leads": [
+  {
+   "id": "fccc543043",
+   "company": "Diagram Chasing",
+   "website": "https://diagramchasing.fun",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Data stories and tools for India, and our part of the world . Languages: Python, Svelte. Topics: india, radiosonde, weather-station",
+   "site_text": "[https://diagramchasing.fun/]\nDiagram Chasing Diagram Chasing Diagram Chasing Visual stories and tools that make public data worth looking at 2026 Mapping India's Clouds A daily updating map of where it's cloudy 2026 Portraits of Population An archive of 700 hand-drawn charts and graphics from India's census, and why they were made 2025 How Bangalore Uses the Metro We filed an RTI to understand how people travel on Bangalore's metro system. 2025 CBFC Watch 18k movies, 1 lakh censorship records for movies released in India in a searchable database 2025 India Time Use Explorer Explore the Time Use Survey data of India in your browser. 2024 Votes in a name? Finding namesake candidates in India's elections and how they impact the election. 2024 BLR Water Log Natural drains crisscross Bangalore and are often the places which are the first to flood. We mapped where these are. 2024 The new residents in Hurricane Milton's path Mapping recent population growth and housing in areas threatened by Hurricane Milton. 2024 Who is my neta? See legislative activity and affidavits of MLAs from the 17th Lok Sabha â or explore candidates contesting in the 2024 elections. ...seen in places like We are an independent publication made possible by readers like you Support our work\n\n[https://diagramchasing.fun/about]\nAbout | Diagram Chasing Diagram Chasing About Aman and Vivek started Diagram Chasing in 2024 to build the kind of data-driven stories and tools we wished existed for India and our part of the world. The name is apt; everything we create begins with a question, an argument, a passing theory, or a daily annoyance that we decide to 'chase' down using data and design. We practice full-stack data journalism because we genuinely love every step of the process, from collecting datasets and writing analysis pipelines to designing the final interactive experience or story. Because we believe in accessible knowledge and transparency, all our data and code is released publicly under open licenses. Every project is made nomadically in random cafes around Bangalore We are proudly independent, and to our knowledge, the only data publication of its kind in India. Our goal is to take often \"boring\" issuesâlike elections, climate, economics, and bureaucracyâand make them undeniably cool through visual storytelling. These topics can sometimes feel dry on paper, but we hope our work feels like listening to a friend excitedly explain their latest obsession, and make you care about it too. We are also slow by design. Our projects unfold over weeks and months, ensuring that when we finally publish, we are confident about what we produced. To bring these stories to life with the care they deserve, we regularly collaborate with talented illustrators, animators, writers, and creatives of all kinds. Who funds us? So far, it's been mostly us. We've funded the research, infrastructure, software tools, and honorariums for our collaborators straight out of our own pockets. However, our dream is to make Diagram Chasing a truly sustainable, community-backed publication. In 2025, we reached a big milestone where for the very first time, reader support covered a meaningful portion of our running costs. With your help, it's a model we hope to keep growing. Work with us We love building, and we love helping others do the same. While we're always eager to collaborate with fellow creatives on our own stories, we also take on professional commissions. Whether you're a newsroom sitting on an unwieldy dataset, an organization looking to build data stories or applications, or simply someone who needs a team of full-stack data nerds to bring an idea to life, we'd love to connect. Shoot us an email at hello@diagramchasing.fun . Press & Talks IndieWire Indian Film Censorship's Political Aims Exposed by Data Leak Frontline CBFC Watch: Before the censors censored themselves, two coders hit âsaveâ The Hindu Censor Board Discontinues Full Access to Cuts on Website Share of U-R",
+   "email_candidates": [
+    {
+     "email": "hello@diagramchasing.fun",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "fccc543043-ref",
+   "company": "Diagram Chasing",
+   "website": "https://diagramchasing.fun",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Data stories and tools for India, and our part of the world . Languages: Python, Svelte. Topics: india, radiosonde, weather-station",
+   "site_text": "[https://diagramchasing.fun/]\nDiagram Chasing Diagram Chasing Diagram Chasing Visual stories and tools that make public data worth looking at 2026 Mapping India's Clouds A daily updating map of where it's cloudy 2026 Portraits of Population An archive of 700 hand-drawn charts and graphics from India's census, and why they were made 2025 How Bangalore Uses the Metro We filed an RTI to understand how people travel on Bangalore's metro system. 2025 CBFC Watch 18k movies, 1 lakh censorship records for movies released in India in a searchable database 2025 India Time Use Explorer Explore the Time Use Survey data of India in your browser. 2024 Votes in a name? Finding namesake candidates in India's elections and how they impact the election. 2024 BLR Water Log Natural drains crisscross Bangalore and are often the places which are the first to flood. We mapped where these are. 2024 The new residents in Hurricane Milton's path Mapping recent population growth and housing in areas threatened by Hurricane Milton. 2024 Who is my neta? See legislative activity and affidavits of MLAs from the 17th Lok Sabha â or explore candidates contesting in the 2024 elections. ...seen in places like We are an independent publication made possible by readers like you Support our work\n\n[https://diagramchasing.fun/about]\nAbout | Diagram Chasing Diagram Chasing About Aman and Vivek started Diagram Chasing in 2024 to build the kind of data-driven stories and tools we wished existed for India and our part of the world. The name is apt; everything we create begins with a question, an argument, a passing theory, or a daily annoyance that we decide to 'chase' down using data and design. We practice full-stack data journalism because we genuinely love every step of the process, from collecting datasets and writing analysis pipelines to designing the final interactive experience or story. Because we believe in accessible knowledge and transparency, all our data and code is released publicly under open licenses. Every project is made nomadically in random cafes around Bangalore We are proudly independent, and to our knowledge, the only data publication of its kind in India. Our goal is to take often \"boring\" issuesâlike elections, climate, economics, and bureaucracyâand make them undeniably cool through visual storytelling. These topics can sometimes feel dry on paper, but we hope our work feels like listening to a friend excitedly explain their latest obsession, and make you care about it too. We are also slow by design. Our projects unfold over weeks and months, ensuring that when we finally publish, we are confident about what we produced. To bring these stories to life with the care they deserve, we regularly collaborate with talented illustrators, animators, writers, and creatives of all kinds. Who funds us? So far, it's been mostly us. We've funded the research, infrastructure, software tools, and honorariums for our collaborators straight out of our own pockets. However, our dream is to make Diagram Chasing a truly sustainable, community-backed publication. In 2025, we reached a big milestone where for the very first time, reader support covered a meaningful portion of our running costs. With your help, it's a model we hope to keep growing. Work with us We love building, and we love helping others do the same. While we're always eager to collaborate with fellow creatives on our own stories, we also take on professional commissions. Whether you're a newsroom sitting on an unwieldy dataset, an organization looking to build data stories or applications, or simply someone who needs a team of full-stack data nerds to bring an idea to life, we'd love to connect. Shoot us an email at hello@diagramchasing.fun . Press & Talks IndieWire Indian Film Censorship's Political Aims Exposed by Data Leak Frontline CBFC Watch: Before the censors censored themselves, two coders hit âsaveâ The Hindu Censor Board Discontinues Full Access to Cuts on Website Share of U-R",
+   "email_candidates": [
+    {
+     "email": "amanbhargava2001@gmail.com",
+     "where": "GitHub commits (diagram-chasing)",
+     "kind": "personal",
+     "name": "Aman Bhargava",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "89ef8cea2b",
+   "company": "Infopercept",
+   "website": "https://www.infopercept.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Infopercept Consulting Private Limited. Languages: JavaScript, Python, Rust, Shell",
+   "site_text": "[https://www.infopercept.com/]\nUnifying Offense, Defense & Compliance for Modern Enterprise Cybersecurity | Infopercept Infopercept featured on Gartner®’s latest report on Adversarial Exposure Validation (AEV) Read more Invinsense built the Security Foundation. Regiment AI builds the Autonomous Future. Explore Regiment AI Offensive, Defensive. and Compliance. Together. As One. AI-Enhanced Cybersecurity with Attacker’s Mind and Defender’s Brain. Book a Demo Exposure Finding to Risk Remediation Continuum. Delivered. With AI. For AI. Against AI. Explore Regiment AI What is Regiment AI? The power of governed and explainable AI for unified SecOps Most security AI is either everywhere or unsupervised. Neither is an operating model a CISO can sign. Regiment AI is the command layer of Invinsense. It runs offensive testing, defensive response, and compliance verification as three coordinated battalions under governed autonomy: dual-approval on high-risk actions, deterministic execution by default, and a full audit trail on every decision. It is platform - and security-stack agnostic, and works with the infrastructure customers already run - no rip-and-replace required. Read more about Regiment AI Read more about Regiment AI Our Trust Ecosystem – Recognitions, Partnerships, and Certifications AWS Reviewed Partner AWS Consulting Partner AWS Level 1 MSSP Competency Partner ISO 22301 ISO 27001 ISO 20000 ISO 9001 SOC 2 CERT-In Financial Services Information Sharing and Analysis Center Electromech ISC The PCI Security Standards Council ISOQAR Data Security Council of India Google Cloud Oracle Microsoft Azure SASTRA Deemed University IIT-Jammu AWS Reviewed Partner AWS Consulting Partner AWS Level 1 MSSP Competency Partner ISO 22301 ISO 27001 ISO 20000 ISO 9001 SOC 2 CERT-In Financial Services Information Sharing and Analysis Center Electromech ISC The PCI Security Standards Council ISOQAR Data Security Council of India Google Cloud Oracle Microsoft Azure SASTRA Deemed University IIT-Jammu Trusted by 300+ enterprises across highly regulated industries Infopercept Ratings : Gartner Peer Insights Infopercept IT Security 4.5 ★★★★★ 5 Ratings > Submit a review > ★★★★★ Reviewed January 20, 2025 \"Significantly Improving Security with Innovative Product...\" (Read more) ★★★★★ Reviewed November 29, 2024 \"360-Degree Cybersecurity Coverage with Invinsense MDR in the Entertainment Industry...\" (Read more) ★★★★★ Reviewed November 29, 2024 \"Unlocking Seamless Security Operations with Invinsense MDR...\" (Read more) ★★★★★ Reviewed November 22, 2024 \"Invinsense MDR...\" (Read more) ★★★★★ Reviewed November 8, 2024 \"Invinsense Product Exemplifies Ease In Threat and Risk Management...\" (Read more) Infopercept is Recognized As A Representative Vendor in the following Gartner® Reports Emerging Tech Impact Radar: India January 2025 The report identifies emerging technologies in five key areas: generative AI, data and analytics, security, enterprise software and cloud Gartner includes Infopercept in the list of sample vendors for “Automated Moving Target Defense (AMTD)” technology Read More Read More Emerging Tech: Pivot to Preemptive Exposure Management Services to Grow Revenue July 2025 The report discusses Preemptive exposure management as a rapidly emerging opportunity for security service providers. Gartner includes Infopercept in the list of sample vendors for “Unified Exposure Management Platforms (UEMPs)” Read More Read More Emerging Tech Impact Radar: Global Attack Surface Grid September 2025 The report identifies emerging technologies in AI-enabled exposure management and attack surface reduction Gartner includes Infopercept in the list of sample vendors for “Unified Exposure Management Platforms (UEMPs)” Read More Read More Emerging Tech Impact Radar: India October 2025 The report identifies emerging technologies in key areas: AI, infrastructure, platforms, intelligent transformation and cybersecurity, Gartner includes Infopercept in the list of sample vendo",
+   "email_candidates": [
+    {
+     "email": "amitk@infopercept.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "89ef8cea2b-ref",
+   "company": "Infopercept",
+   "website": "https://www.infopercept.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Infopercept Consulting Private Limited. Languages: JavaScript, Python, Rust, Shell",
+   "site_text": "[https://www.infopercept.com/]\nUnifying Offense, Defense & Compliance for Modern Enterprise Cybersecurity | Infopercept Infopercept featured on Gartner®’s latest report on Adversarial Exposure Validation (AEV) Read more Invinsense built the Security Foundation. Regiment AI builds the Autonomous Future. Explore Regiment AI Offensive, Defensive. and Compliance. Together. As One. AI-Enhanced Cybersecurity with Attacker’s Mind and Defender’s Brain. Book a Demo Exposure Finding to Risk Remediation Continuum. Delivered. With AI. For AI. Against AI. Explore Regiment AI What is Regiment AI? The power of governed and explainable AI for unified SecOps Most security AI is either everywhere or unsupervised. Neither is an operating model a CISO can sign. Regiment AI is the command layer of Invinsense. It runs offensive testing, defensive response, and compliance verification as three coordinated battalions under governed autonomy: dual-approval on high-risk actions, deterministic execution by default, and a full audit trail on every decision. It is platform - and security-stack agnostic, and works with the infrastructure customers already run - no rip-and-replace required. Read more about Regiment AI Read more about Regiment AI Our Trust Ecosystem – Recognitions, Partnerships, and Certifications AWS Reviewed Partner AWS Consulting Partner AWS Level 1 MSSP Competency Partner ISO 22301 ISO 27001 ISO 20000 ISO 9001 SOC 2 CERT-In Financial Services Information Sharing and Analysis Center Electromech ISC The PCI Security Standards Council ISOQAR Data Security Council of India Google Cloud Oracle Microsoft Azure SASTRA Deemed University IIT-Jammu AWS Reviewed Partner AWS Consulting Partner AWS Level 1 MSSP Competency Partner ISO 22301 ISO 27001 ISO 20000 ISO 9001 SOC 2 CERT-In Financial Services Information Sharing and Analysis Center Electromech ISC The PCI Security Standards Council ISOQAR Data Security Council of India Google Cloud Oracle Microsoft Azure SASTRA Deemed University IIT-Jammu Trusted by 300+ enterprises across highly regulated industries Infopercept Ratings : Gartner Peer Insights Infopercept IT Security 4.5 ★★★★★ 5 Ratings > Submit a review > ★★★★★ Reviewed January 20, 2025 \"Significantly Improving Security with Innovative Product...\" (Read more) ★★★★★ Reviewed November 29, 2024 \"360-Degree Cybersecurity Coverage with Invinsense MDR in the Entertainment Industry...\" (Read more) ★★★★★ Reviewed November 29, 2024 \"Unlocking Seamless Security Operations with Invinsense MDR...\" (Read more) ★★★★★ Reviewed November 22, 2024 \"Invinsense MDR...\" (Read more) ★★★★★ Reviewed November 8, 2024 \"Invinsense Product Exemplifies Ease In Threat and Risk Management...\" (Read more) Infopercept is Recognized As A Representative Vendor in the following Gartner® Reports Emerging Tech Impact Radar: India January 2025 The report identifies emerging technologies in five key areas: generative AI, data and analytics, security, enterprise software and cloud Gartner includes Infopercept in the list of sample vendors for “Automated Moving Target Defense (AMTD)” technology Read More Read More Emerging Tech: Pivot to Preemptive Exposure Management Services to Grow Revenue July 2025 The report discusses Preemptive exposure management as a rapidly emerging opportunity for security service providers. Gartner includes Infopercept in the list of sample vendors for “Unified Exposure Management Platforms (UEMPs)” Read More Read More Emerging Tech Impact Radar: Global Attack Surface Grid September 2025 The report identifies emerging technologies in AI-enabled exposure management and attack surface reduction Gartner includes Infopercept in the list of sample vendors for “Unified Exposure Management Platforms (UEMPs)” Read More Read More Emerging Tech Impact Radar: India October 2025 The report identifies emerging technologies in key areas: AI, infrastructure, platforms, intelligent transformation and cybersecurity, Gartner includes Infopercept in the list of sample vendo",
+   "email_candidates": [
+    {
+     "email": "gizalig@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "gizalig",
+     "commits": 2
+    },
+    {
+     "email": "rajv@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Raj V",
+     "commits": 2
+    },
+    {
+     "email": "daandeboer@gmail.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Daan de Boer",
+     "commits": 13
+    },
+    {
+     "email": "sakirm@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Malek Sakir",
+     "commits": 20
+    },
+    {
+     "email": "mihir.somaiya@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "MIhir Somaiya",
+     "commits": 4
+    },
+    {
+     "email": "hiteshp@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "hiteshp-icpl",
+     "commits": 1
+    },
+    {
+     "email": "omv@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Om Vaghela",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "cabe1e2f68",
+   "company": "INJI",
+   "website": "https://inji.io/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "The Verifiable credentialing stack that provides a way to share tamper-proof, instantly verifiable data which is cryptographically signed by a trusted issuers. Languages: HTML, Java, Swift, TypeScript",
+   "site_text": "[https://www.inji.io/]\nTitle: Inji - Trusted Digital Credentials\n\nURL Source: https://www.inji.io/\n\nMarkdown Content:\n[![Image 1: Logo](https://www.inji.io/logo.svg)](https://www.inji.io/index.html)✕[About](https://www.inji.io/index.html#About)[Product](https://www.inji.io/index.html#Product)[Implementations](https://www.inji.io/index.html#Implementations)[Docs](https://docs.inji.io/)\n\nTrusted Digital Credential Infrastructure.\n\n# Designed To Verify Share Issue Store\n\n## Your credentials, at your fingertips, and in your control.\n\nInji is designed on open-standards to improve access to services efficiently and securely, at population scale. Discover how the Inji Credentialing Solution can contribute to Digital Transformation.\n\n[Documentation ›](https://docs.inji.io/)[GitHub ›](https://github.com/inji)\n\n![Image 2](https://www.inji.io/Clippath.png)\n\n![Image 3: Woman using a phone](https://www.inji.io/images/hero_fisrt.webp)![Image 4: Second person profile](https://www.inji.io/images/hero_second.webp)![Image 5: Third person profile](https://www.inji.io/images/hero_third.webp)\n\n## Building Trust into Digital  \nCredentials & Data Exchange\n\nFor credentials to be meaningful,people must be able to securely hold,share,verify,and use their documents across real-world interactions and services.This includes environments where paper-based records still exist and may be vulnerable to loss,damage,or theft.  \n  \nA complete credentialing solution brings together issuance,storage,verification,and lifecycle management into a unified system–adding trust directly to data and enabling the shift from paper-heavy processes to secure,interoperable digital services.\n\nInji is designed to enable exactly that – while keeping us in control of our own information.\n\n## Inji Wallet Verify Certify Wallet\n\nInji's complete ecosystem manages digital credentials,supporting every stage from issuance\n\n![Image 6: Inji Platform](https://www.inji.io/image%20inji.png)\n\n![Image 7: Inji Certify](https://www.inji.io/images/inji_certify.svg)\n\nTurning your data into trusted digital credentials\n\n![Image 8: Inji Wallet](https://www.inji.io/images/inji_wallet.svg)\n\nA secure, portable way to hold and share your credential\n\n![Image 9: Inji Verify](https://www.inji.io/images/Inji_Verify.svg)\n\nTrusted credential exchange and verification with service providers\n\n## Key Capabilities\n\n### Trusted\n\n![Image 10](https://www.inji.io/trusted.png)\n\nSecure, consent-based credential exchange, designed to support trusted interactions.\n\n### Supports Versatile & Multi-Modal Environments\n\nInji can be used on web and mobile, both online and offline, remotely and in-person, making it usable in diverse environments.\n\n### Inclusive by Design\n\nDesigned for varying levels of connectivity, device access, and digital literacy, particularly significant for digitally underserved populations.\n\n### User-Controlled\n\nResidents can securely hold and share credentials from personal devices, even offline, with consent and control built into the experience.\n\n### Enables Data Digitalisation\n\n![Image 11: digitalisation](https://www.inji.io/images/enables_data_digitalisation.webp)\nFor residents still dependent on paper-based documents, Inji can bridge the digital divide by enabling QR-based digitalisation of paper credentials.\n\n### Standard-Driven and Interoperable\n\nBuilt on open standards to enable portability across systems and services.\n\nStandards Followed\n\n*   W3C: Verifiable Credentials Data Model 1.1, 2.0\n*   OpenID4VCI, OpenID4VP, OpenID4VP_BLE\n*   IETF: Selective Disclosure for JWTs (SD-JWT)\n*   ISO/IEC 18013-5: For mobile driver's licenses (mDLs)\n*   Claim 169: IANA CBOR Web Token (CWT)\n*   Bitstring Status List v2.0\n\n#### Real World Interactions Across Every Sector\n\n![Image 12](https://www.inji.io/images/Real%20World%20Interactions%20background%20mark.svg)\n\n![Image 13: Team Profile Layout](https://www.inji.io/images/3people.png)\n\nWhat Inji can enable is limited only by the possibilities imagined around it.\n",
+   "email_candidates": [
+    {
+     "email": "info@mosip.io",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "cabe1e2f68-ref",
+   "company": "INJI",
+   "website": "https://inji.io/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "The Verifiable credentialing stack that provides a way to share tamper-proof, instantly verifiable data which is cryptographically signed by a trusted issuers. Languages: HTML, Java, Swift, TypeScript",
+   "site_text": "[https://www.inji.io/]\nTitle: Inji - Trusted Digital Credentials\n\nURL Source: https://www.inji.io/\n\nMarkdown Content:\n[![Image 1: Logo](https://www.inji.io/logo.svg)](https://www.inji.io/index.html)✕[About](https://www.inji.io/index.html#About)[Product](https://www.inji.io/index.html#Product)[Implementations](https://www.inji.io/index.html#Implementations)[Docs](https://docs.inji.io/)\n\nTrusted Digital Credential Infrastructure.\n\n# Designed To Verify Share Issue Store\n\n## Your credentials, at your fingertips, and in your control.\n\nInji is designed on open-standards to improve access to services efficiently and securely, at population scale. Discover how the Inji Credentialing Solution can contribute to Digital Transformation.\n\n[Documentation ›](https://docs.inji.io/)[GitHub ›](https://github.com/inji)\n\n![Image 2](https://www.inji.io/Clippath.png)\n\n![Image 3: Woman using a phone](https://www.inji.io/images/hero_fisrt.webp)![Image 4: Second person profile](https://www.inji.io/images/hero_second.webp)![Image 5: Third person profile](https://www.inji.io/images/hero_third.webp)\n\n## Building Trust into Digital  \nCredentials & Data Exchange\n\nFor credentials to be meaningful,people must be able to securely hold,share,verify,and use their documents across real-world interactions and services.This includes environments where paper-based records still exist and may be vulnerable to loss,damage,or theft.  \n  \nA complete credentialing solution brings together issuance,storage,verification,and lifecycle management into a unified system–adding trust directly to data and enabling the shift from paper-heavy processes to secure,interoperable digital services.\n\nInji is designed to enable exactly that – while keeping us in control of our own information.\n\n## Inji Wallet Verify Certify Wallet\n\nInji's complete ecosystem manages digital credentials,supporting every stage from issuance\n\n![Image 6: Inji Platform](https://www.inji.io/image%20inji.png)\n\n![Image 7: Inji Certify](https://www.inji.io/images/inji_certify.svg)\n\nTurning your data into trusted digital credentials\n\n![Image 8: Inji Wallet](https://www.inji.io/images/inji_wallet.svg)\n\nA secure, portable way to hold and share your credential\n\n![Image 9: Inji Verify](https://www.inji.io/images/Inji_Verify.svg)\n\nTrusted credential exchange and verification with service providers\n\n## Key Capabilities\n\n### Trusted\n\n![Image 10](https://www.inji.io/trusted.png)\n\nSecure, consent-based credential exchange, designed to support trusted interactions.\n\n### Supports Versatile & Multi-Modal Environments\n\nInji can be used on web and mobile, both online and offline, remotely and in-person, making it usable in diverse environments.\n\n### Inclusive by Design\n\nDesigned for varying levels of connectivity, device access, and digital literacy, particularly significant for digitally underserved populations.\n\n### User-Controlled\n\nResidents can securely hold and share credentials from personal devices, even offline, with consent and control built into the experience.\n\n### Enables Data Digitalisation\n\n![Image 11: digitalisation](https://www.inji.io/images/enables_data_digitalisation.webp)\nFor residents still dependent on paper-based documents, Inji can bridge the digital divide by enabling QR-based digitalisation of paper credentials.\n\n### Standard-Driven and Interoperable\n\nBuilt on open standards to enable portability across systems and services.\n\nStandards Followed\n\n*   W3C: Verifiable Credentials Data Model 1.1, 2.0\n*   OpenID4VCI, OpenID4VP, OpenID4VP_BLE\n*   IETF: Selective Disclosure for JWTs (SD-JWT)\n*   ISO/IEC 18013-5: For mobile driver's licenses (mDLs)\n*   Claim 169: IANA CBOR Web Token (CWT)\n*   Bitstring Status List v2.0\n\n#### Real World Interactions Across Every Sector\n\n![Image 12](https://www.inji.io/images/Real%20World%20Interactions%20background%20mark.svg)\n\n![Image 13: Team Profile Layout](https://www.inji.io/images/3people.png)\n\nWhat Inji can enable is limited only by the possibilities imagined around it.\n",
+   "email_candidates": [
+    {
+     "email": "chandrakeshavmishra@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Chandra Keshav Mishra",
+     "commits": 15
+    },
+    {
+     "email": "prafulrakhade02@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Praful Rakhade",
+     "commits": 5
+    },
+    {
+     "email": "meet2swati@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Swati Goel",
+     "commits": 10
+    },
+    {
+     "email": "piyushshukla2100@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Piyush7034",
+     "commits": 27
+    },
+    {
+     "email": "kongadurgesh20@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Durgesh Konga",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "844eb6ffdf",
+   "company": "Stackbox",
+   "website": "https://stackbox.xyz",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript. Topics: squad-devops, squad-shared, squad-wms",
+   "site_text": "[https://www.stackbox.xyz/]\nStackbox | Cloud WMS, TMS, OMS & Route-to-Market Platform — India Schedule a demo Join Stackbox at the SCMAP Supply Chain Conference 2024 • Manila, Philippines • 12-13 September'2024 Schedule a demo Lead the next fulfilment era. Join the ranks of industry leaders who trust Stackbox to streamline their supply chain. Get in touch Unlock potential Streamline your fulfilment journey with automation We are the premier supply chain SaaS partners for growing enterprises. Our robust and reliable solution streamlines complex fulfillment processes, ensuring seamless enterprise growth. Get in touch 100% Fulfilment accuracy 25% Higher fill rate 99.9% Inventory accuracy 225mt CO2 reduction Products Supply chain solutions for next-generation Warehouse management system Built for execution excellence with unprecedented flexibility. Enhanced throughput with optimized load distribution Easy orchestration of any Automation hardware Adaptive task management across stages Learn more Transport management system Optimizer that effortlessly manages complex planning and load building challenges. Seamless Multi-leg distribution planning Strategic route optimization that manages real-world scenarios Resilient transport execution with improved visibility Learn more Order management system Orchestrate your entire supply chain seamlessly with a unified platform. Omni-channel order orchestration Unified distribution control Real-time inventory sync across nodes Learn more Integrated Solution Suite Unleash the power of integrated supply chain Transform your disparate systems and complex supply chain elements into one super agile fulfillment platform. Why Stackbox The benchmark for superior fulfilment Strategy Optimized storage strategies with 3D classification Operations Precision solutions for complex supply chain Implementation Fast deployment with reliable quality and support Support Effortless scalability with reliable support Strategy that drives productivity Our strategical approach leverages 3D classification to determine storage and material management techniques tailored to your business needs. By focusing on throughput volume, order frequency patterns, and the affinity of items ordered together, we deliver unmatched efficiencies in your operations. Engineered by operators, tailored for operators Our meticulously crafted solutions tackle intricate supply chain challenges, addressing every conceivable edge case. These distinctive configurations ensure seamless adoption, enhanced productivity, and absolute accuracy in your day-to-day operations. Fast-track your market entry with rapid implementation Our implementation methodology ensures rapid deployment with a focus on robust governance, transparent reporting, and hypercare support, delivering swift time to market and seamless user adoption We've got you covered around the clock We keep your ecosystem up to date with evolving demands, offering effortless scalability, seamless integration, and top-tier support to ensure smooth operations at all times. Industries Leading the way in every Industry FMCGs/CPGs Streamline inventory management for rapid consumer goods turnover and ensure shelf availability. Retail Enhance omnichannel capabilities with efficient order fulfillment to improve customer satisfaction and reduce operational costs. E-commerce Seamless order processing and last-mile delivery to meet the demands of online shoppers. Pharma Ensure compliance and traceability while safeguarding product integrity and regulatory requirements. D2C Commerce Achieve the highest level of customer satisfaction by consistently delivering on time. B2B Commerce Streamline transport and warehousing processes to minimize cost and simultaneously enhance customer experience. Security Built on a foundation of trust and security At StackBOX, trust is woven into the fabric of everything we do. We deploy industry-leading safeguards to keep your data safe and private, so you can rest easy know",
+   "email_candidates": [
+    {
+     "email": "github@stackbox.xyz",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "contact@stackbox.co.in",
+     "where": "https://www.stackbox.xyz/",
+     "kind": "generic"
+    },
+    {
+     "email": "grievances@stackbox.xyz",
+     "where": "https://www.stackbox.xyz/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "844eb6ffdf-ref",
+   "company": "Stackbox",
+   "website": "https://stackbox.xyz",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript. Topics: squad-devops, squad-shared, squad-wms",
+   "site_text": "[https://www.stackbox.xyz/]\nStackbox | Cloud WMS, TMS, OMS & Route-to-Market Platform — India Schedule a demo Join Stackbox at the SCMAP Supply Chain Conference 2024 • Manila, Philippines • 12-13 September'2024 Schedule a demo Lead the next fulfilment era. Join the ranks of industry leaders who trust Stackbox to streamline their supply chain. Get in touch Unlock potential Streamline your fulfilment journey with automation We are the premier supply chain SaaS partners for growing enterprises. Our robust and reliable solution streamlines complex fulfillment processes, ensuring seamless enterprise growth. Get in touch 100% Fulfilment accuracy 25% Higher fill rate 99.9% Inventory accuracy 225mt CO2 reduction Products Supply chain solutions for next-generation Warehouse management system Built for execution excellence with unprecedented flexibility. Enhanced throughput with optimized load distribution Easy orchestration of any Automation hardware Adaptive task management across stages Learn more Transport management system Optimizer that effortlessly manages complex planning and load building challenges. Seamless Multi-leg distribution planning Strategic route optimization that manages real-world scenarios Resilient transport execution with improved visibility Learn more Order management system Orchestrate your entire supply chain seamlessly with a unified platform. Omni-channel order orchestration Unified distribution control Real-time inventory sync across nodes Learn more Integrated Solution Suite Unleash the power of integrated supply chain Transform your disparate systems and complex supply chain elements into one super agile fulfillment platform. Why Stackbox The benchmark for superior fulfilment Strategy Optimized storage strategies with 3D classification Operations Precision solutions for complex supply chain Implementation Fast deployment with reliable quality and support Support Effortless scalability with reliable support Strategy that drives productivity Our strategical approach leverages 3D classification to determine storage and material management techniques tailored to your business needs. By focusing on throughput volume, order frequency patterns, and the affinity of items ordered together, we deliver unmatched efficiencies in your operations. Engineered by operators, tailored for operators Our meticulously crafted solutions tackle intricate supply chain challenges, addressing every conceivable edge case. These distinctive configurations ensure seamless adoption, enhanced productivity, and absolute accuracy in your day-to-day operations. Fast-track your market entry with rapid implementation Our implementation methodology ensures rapid deployment with a focus on robust governance, transparent reporting, and hypercare support, delivering swift time to market and seamless user adoption We've got you covered around the clock We keep your ecosystem up to date with evolving demands, offering effortless scalability, seamless integration, and top-tier support to ensure smooth operations at all times. Industries Leading the way in every Industry FMCGs/CPGs Streamline inventory management for rapid consumer goods turnover and ensure shelf availability. Retail Enhance omnichannel capabilities with efficient order fulfillment to improve customer satisfaction and reduce operational costs. E-commerce Seamless order processing and last-mile delivery to meet the demands of online shoppers. Pharma Ensure compliance and traceability while safeguarding product integrity and regulatory requirements. D2C Commerce Achieve the highest level of customer satisfaction by consistently delivering on time. B2B Commerce Streamline transport and warehousing processes to minimize cost and simultaneously enhance customer experience. Security Built on a foundation of trust and security At StackBOX, trust is woven into the fabric of everything we do. We deploy industry-leading safeguards to keep your data safe and private, so you can rest easy know",
+   "email_candidates": [
+    {
+     "email": "nandini.agrawal@stackbox.xyz",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "nandini6324",
+     "commits": 3
+    },
+    {
+     "email": "tushargoel.tg@gmail.com",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "Github Action Bot",
+     "commits": 27
+    },
+    {
+     "email": "dinesh.kumar@stackbox.xyz",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "Github Action Bot",
+     "commits": 9
+    },
+    {
+     "email": "saby@stackbox.xyz",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "Sabyasachi",
+     "commits": 38
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "f4f2f07f48",
+   "company": "Blockchain Club SRM",
+   "website": "https://www.blockchainsrm.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Adding to the Decentralized World. Languages: JavaScript, Rust, TypeScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "codekartikey@gmail.com",
+     "where": "GitHub commits (Blockchain-Club-SRM)",
+     "kind": "personal",
+     "name": "KartikeyCode",
+     "commits": 7
+    },
+    {
+     "email": "ishaankhurana123@gmail.com",
+     "where": "GitHub commits (Blockchain-Club-SRM)",
+     "kind": "personal",
+     "name": "ik04",
+     "commits": 3
+    },
+    {
+     "email": "taseeniqbal.ti@gmail.com",
+     "where": "GitHub commits (Blockchain-Club-SRM)",
+     "kind": "personal",
+     "name": "PaleDeath",
+     "commits": 7
+    },
+    {
+     "email": "abku2504@gmail.com",
+     "where": "GitHub commits (Blockchain-Club-SRM)",
+     "kind": "personal",
+     "name": "abku2504",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "1cfc80fad3",
+   "company": "OTPless",
+   "website": "https://otpless.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Developer toolkit to let users login without OTP. Languages: Dart, Swift, TypeScript",
+   "site_text": "[https://otpless.com/]\nOTPless â The identity trust layer. Skip to content Good users in. Bad users out. Identity without OTPs. Smart Auth Every channel, auto-routed â Silent Network Auth Carrier-verified login, no OTP â Device Intelligence Device & session risk in 200ms â SIM Binding SIM-bound payment authorisation â Address Auto-fill Checkout address in one tap â Talk to our team â Explore the stack Smart Auth Channel picked Â· auto-routed to SNA 100ms Silent Network Auth SIM verified Â· no OTP sent Â· Airtel 340ms Device Intelligence Priya's iPhone Â· returning Â· clean Trust 94 UPI SIM Binding â¹2,499 Â· ICICI â¢â¢5821 Â· SIM verified Authorised Address Auto-fill A23, Sector 3, Noida 201301 1 tap 120M + Authentications per month 10â20 % Conversion uplift <4 s Median time to verified 230 + Operators supported Powering identity for India's hyperscale apps The Journey One user. Every checkpoint. From the first tap to every transaction, OTPless handles identity invisibly - without an OTP in sight. 01 Trust Layer First open Risk-scored before a pixel renders. Returning user? Instant trust. 12ms 02 Auth Layer Sign up SIM-verified through the carrier. No OTP box ever shown. 340ms 03 Context Layer Checkout 6 form fields completed from the SIM. Friction gone at peak intent. 1 tap 04 Auth Layer Payment SIM binding via SNA authorises the payment. Zero codes. Zero fraud. 0 OTPs 05 Context Layer Recovery SIM-matched recovery. No SMS, no reset link, no support ticket. SIM Use Cases Built for the moments that move metrics. Real-world identity stacks running in production, across India's category leaders. Fintech SIM-bound auth, end to end. Silent Network Auth verifies the SIM presence in the device at every checkpoint without any permission. Device Intelligence scores risk in parallel. The whole funnel becomes one trusted thread which makes account takeover difficult for the fraudster. +20% Conversion uplift SNA Device Intelligence â Navi E-commerce Checkout that completes itself. Address auto-fill populates name and address, and Mobile Auth intelligent router verifies the phone number instantly. No typing. Single click checkout. +10% Checkout conversion Mobile Auth Address Pre-fill â Meesho Streaming Sign-in that earns the subscription. Silent Network Auth for first, WhatsApp or SMS Auth for fallback, Device Intelligence for trust. Friction at the paywall disappears - paid subscriber goes up. +5% Paid subscription lift Mobile Auth WhatsApp Auth Device Intelligence â EloElo Edtech One tap. Right back in class. Auto-login holds the session. SNA re-verifies in the background when it session expires. Students focus on learning, not on the login screen. 40% AUTO LOGIN Auto-login SNA â Classplus The Stack Nine products. One integration. Every identity moment, shipped as part of one integration - from carrier verification to fraud signals. Auth Layer Â· Flagship Silent Network Auth SIM-verified through the carrier - silently, in few seconds. The user never sees an OTP screen. Verification happens in the background, through the operator network, before the sign-up button even lands. No permission required < 4s Â· 38+ countries â Trust Layer Device Intelligence PERSISTED DEVICE ID Â·Â DEVICE SIGNALS Â·Â RISK SCOREÂ 400M+ devices Â· 500ms â Auth Layer WhatsApp Auth ZERO TAP OTP VERIFICATION 50% cheaper than SMS â Auth Layer SMS Auth MULTI PROVIDER REAL-TIME ROUTING 99% delivery â Context Layer Address Auto-fill POPULATE ADDRESS FETCHED FROM ECOM AT CHECKOUT. 6 fields Â· 1 tap â Auth Layer UPI SIM Binding SIM BOUND AUTH VIA SNA 0 OTPs Â· 0 fraud â Auth Layer Email Auth OTP Â·Â MAGIC LINK Â· SOCIAL & ENTERPRISE LOGINS â GOOGLE, APPLE, MICROSOFT, GITHUB 3 modes, 1 SDK â Auth Layer Passkey Biometric login for return users. 1 tap Â· 0 friction â Trust Layer Telco Signal SIM SWAP Â·Â PORTABILITY Â·Â NUMBER RECYCLE Real-time Â· network-wide Coming soon Silent Network Auth In a blink. Zero-tap silent auth. SNA",
+   "email_candidates": [
+    {
+     "email": "mihit@otpless.com",
+     "where": "GitHub commits (otpless-tech)",
+     "kind": "personal",
+     "name": "Mickey-OTPless",
+     "commits": 12
+    },
+    {
+     "email": "abhay.patel@otpless.com",
+     "where": "GitHub commits (otpless-tech)",
+     "kind": "personal",
+     "name": "Abhay-Otpless",
+     "commits": 2
+    },
+    {
+     "email": "sparsh.chadha@otpless.com",
+     "where": "GitHub commits (otpless-tech)",
+     "kind": "personal",
+     "name": "sparsh-otpless",
+     "commits": 4
+    },
+    {
+     "email": "guru.prasadh@otpless.com",
+     "where": "GitHub commits (otpless-tech)",
+     "kind": "personal",
+     "name": "guru-otpless",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  }
+ ]
+}

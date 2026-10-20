@@ -1,0 +1,330 @@
+{
+ "leads": [
+  {
+   "id": "f0399b35ce",
+   "company": "CoLoop",
+   "website": "https://coloop.ai/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 16. AI Copilot for insights & strategy At CoLoop we’re on a mission to make every company in the world as customer obsessed as Amazon. We’re doing this by giving the next generation of workers immediate, intuitive access to the customer knowledge they need to make better decisions, faster. Generative AI, Market Research, B2B, United Kingdom, Europe",
+   "site_text": "[https://www.coloop.ai/]\nCoLoop — AI Analysis for Qualitative Research Skip to content Product : CoLoop Memory is live, and Thought Partner Chat has been rebuilt for verifiable analysis Blog : Introducing the new Thought Partner Chat Events : Co-working at CoLoop HQ, see upcoming dates Log in Book a call Log in Book a call Qualitative research, end to end Plan, recruit, interview and analyse in one place. 400+ research and strategy teams have replaced fragmented tool stacks with CoLoop. SOC 2 and GDPR compliant PII masking No model training Plan Describe the study in plain language and get objectives, questions and a method back to edit. Recruit Build the panel from a CSV, or straight out of Salesforce, Mixpanel or PostHog. Interview Run the session with your guide beside you while the transcript arrives live. Analyse Ask a question, get a column. Every answer carries the participants behind it. Share Cut the moments that landed into reels the whole team can watch and share. app.coloop.ai/guided-setup/plan Question Configure Plan Discussion guide Continue to discussion guide Let’s set up your project Ask for changes, and I’ll draft them for review yep Draft applied Research plan Applied Purpose and background Research objectives and questions Revert Generate the research plan Drafting Drafting the research plan… Share more context, paste notes, or ask a question… Research plan Refine the plan your study will follow. Saved Purpose and background Research objectives and research questions Objective 1: Understand how PMs and designers do UX work today. Objective 2: Identify unmet needs in their current workflow. Objective 3: Surface concrete opportunity areas for CoLoop. Method and sample Timeline app.coloop.ai/panel/people All people Filter by tag Search people… Add person Name Email Panels Tags Last seen Bob Alice bob@example.org Independent researchers — — Jane Doe jane-doe@example.org Power users — 04/08 Bill Alice bill-alice@example.org In-house researchers Power users Meeting bot — Alex Rider alex@example.org In-house researchers Org > 1000 27/07 Sam Reed sam@example.org Meeting bot users Meeting bot — Priya Raman priya@example.org Power users Independent researchers Org > 1000 02/08 Gayathri S. gayathri@example.org In-house researchers — — Marco Bianchi marco@example.org Independent researchers Meeting bot users Meeting bot 19/07 Dana Okafor dana@example.org Power users Org > 1000 — Add people from Upload CSV Map columns Salesforce Contacts Mixpanel Cohorts PostHog Persons app.coloop.ai/meetings/live Interview with Priya (PM) Copilot on Research objective Introduction and consent 5m Explain that the session is recorded and transcribed. Confirm they are comfortable with the recording. Let them know the session runs 45 to 60 minutes. Warm-up 10m Tell me a bit about your role and what you own day to day. Where does your team sit, and who do you work with most closely? How does research fit in, next to your other responsibilities? Current workflow deep dive 25m Tell me about the last time you needed to understand users better. Walk me through how you decided what to do and planned it out. Tools and workarounds 15m Which tools do you lean on today, and where do they let you down? What have you tried that did not work, and what did you do instead? Live transcript You 100% Jack Bowen 00:15 Thanks for making the time. Before we start — happy for me to record and transcribe this? Priya Raman 00:24 Yes, that’s fine. Jack Bowen 00:31 Great. So tell me a bit about your role and what you’re responsible for day to day. Priya Raman 00:42 I’m a PM on the growth team, so mostly onboarding and activation. There’s no researcher on the team, which means when we need to understand something about our users I end up doing it myself — pulling a list, running four or five calls, then trying to make sense of the recordings between other work. Jack Bowen 01:05 Can you walk me through the last time you did that? What set it off? Priya Raman 01:18 Ac",
+   "email_candidates": [
+    {
+     "email": "jack@coloop.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jack Bowen",
+     "role": "Founder"
+    },
+    {
+     "email": "adrien@coloop.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Adrien Wald",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f32c3e00e9",
+   "company": "IronLedger.ai",
+   "website": "https://ironledger.ai",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "AI-enabled Corporate Cards and Invoice Processing for Real Estate IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 80K multifamily units. https://www.ironledger.ai/ Real Estate and Construction, Housing and Real Estate, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.ironledger.ai/]\nIronLedger Book Demo 🎉 IronLedger raises $2.5M to support 100s of CRE managers, developers and contractors AI built for real estate accounting Handle invoices and card expenses in a snap Supporting: 100K+ units Millions of sq ft 100s of developers and contractors Case Study How Treplus closes the books 30 days faster Case Study How Baron Management increased profits by >5% Case Study How AWM saved $70K in accounting costs Learn more below Card expenses Invoices An AI agent that handles expenses from start to finish. We work with your existing credit cards and accounting system (e.g., Rent Manager). 01 Never chase another receipt Automated texts are sent to your team after purchases 02 Close your books faster Our AI collects property splits and expense details for you 03 Expenses straight to your PMS Our AI uploads expenses to your accounting system in one click 04 New Never enter a billback again Our card splits the bill and charges property accounts directly Never chase another receipt The only complete Spend and AP platform for Real Estate : Complex Approval Flows Route receipts to the right approver based on your org chart One-click approvals online, over email and text Reimbursements Submit and get paid for out-of-pocket expenses via text Automated payouts directly to employee accounts Precise Card Controls Easily set spend limits ($300/month only at Gas Pumps) Require authorization before any purchase (decline spend over text) Multi-Entity Support Tie cards to Corporate- or Property-Level entities Avoid painful and tedious billbacks Mileage Track, calculate and reimburse mileage in one place Set your own reimbursement rates Automated Policy Flags Receive immediate text alerts for spend over certain limits and out-of-policy spend Save 100s of hours for your team Expect 20 hours back for every 100 transactions Reduce expense and invoice spend by 1% Our AI stops unauthorized spend and finds savings Automatically entered in your accounting system We work with Yardi, Rent Manager and more New Never enter a billback again IronLedger Cards split your bill and charge properties what they owe directly. Your account doesn't have to front the money. Cards are issued by First Internet Bank of Indiana, pursuant to a license from Visa Inc. Concept card shown above. Reach out to learn more. Frequently Asked Questions How does IronLedger connect with my bank or credit cards? IronLedger works with all banks and credit issuers through secure, read-only integrations. We pull in transaction data so your team never has to manually enter purchases. Other providers have struggled to work with my accounting system. Can IronLedger connect with my system? Yes. IronLedger works with all property management and accounting platforms including Rent Manager, AppFolio, RealPage, Entrata, Buildium, MRI, QuickBooks, Sage Intacct and more. Coded expenses and invoices are uploaded directly into your system with a single click or upload. How does IronLedger code accurately? We build a model specific to your organization that learns from your historical coding patterns and chart of accounts. Coding is >97% accurate and every edit is auditable by your team and reviewed by our support team of CPAs. How does IronLedger protect my data? IronLedger uses enterprise-grade security practices including bank-level encryption at rest. We enforce role-based access controls and all connections to systems are scoped to the minimum permissions required. My team has limited bandwidth. How long does it take to get onboarded? Most teams are fully onboarded in 1 week. We need ~2 hours with an accounting admin and then we handle the rest. What time or cost savings should I expect? Customers typically save 20 hours per 100 receipts and can close their books in real-time. IronLedger has also flagged credit card misuse and identified missed bill backs to customers which has translated to a >5% profit increase. My team doesn't want to download another ap",
+   "email_candidates": [
+    {
+     "email": "info@ironledger.ai",
+     "where": "https://www.ironledger.ai/",
+     "kind": "generic"
+    },
+    {
+     "email": "nick@ironledger.ai",
+     "where": "https://www.ironledger.ai/blog/seed-announcement",
+     "kind": "personal"
+    },
+    {
+     "email": "u003enick@ironledger.ai",
+     "where": "https://www.ironledger.ai/blog/seed-announcement",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f403688790",
+   "company": "SafeBeat",
+   "website": "https://safebeat.com",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 9. First ECG AI to go beyond diagnostics and recommend treatment AI-Enhanced Learning, Medical Devices, Digital Health, Therapeutics, Healthcare, Medical Devices, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://safebeat.com/]\nSafeBeat Rx – Powering Cardiac Therapeutics – All From Your Phone SafeBeat Rx Menu Powering Cardiac Therapeutics - All From Your Phone SafeBeat goes beyond diagnostics to guide cardiac care. Our specialized ECG analysis powers the SafeBeat platform to expand access to remote therapeutic monitoring using third party FDA-cleared cardiac monitoring devices (mobile ECG, mobile cardiac telemetry, and implantable cardiac monitor), all from your phone. Get in touch Designed for Clinicians, by Clinicians Our unique algorithms and software platform are designed to help clinicians quickly assess important information about their patients, without being buried in alerts and notifications. All software is streamlined for use from a mobile phone, with explainable AI and custom tools that display diagnostic information and, treatment steps customized for the patient. With patient and clinician experience as first priority, our platforms unlock the full capabilities of digital health and remote care. Advanced Artificial Intelligence Our proprietary machine learning algorithms power our solutions, and we are making our software available to power your products as well. From ECG interpretation to treatment management, our world-class AI delivers efficiency and streamlined insights. Caution : Product under development. Not currently for sale. Limited by Federal (or United States) Law to Investigational Use Only. Testimonials and Support: Christine Albert, MD, MPH Past President, Heart Rhythm Society , Founding Chair of the Department of Cardiology at Cedars-Sinai “Heart Rhythm Society plays a key role in supporting new technologies like yours, which respond to the needs of both patients and healthcare systems and help advance our specialty.” Sanjiv M. Narayan, MD, PhD Professor of medicine , Co-Director, Arrhythmia Center , Stanford University Medical Center “SafeBeat has the potential to dramatically improve care of patients who require in-patient monitoring for drug initiation, and may thus improve patient care and workflows.” Cara Pellegrini, MD Director, Cardiac Electrophysiology , San Francisco VA Medical Center “I expect the technology developed…to make an immediate and widespread impact on the treatment of atrial fibrillation patients in the VA system and in the broader community, by improving access and reducing health disparities.” Melvin Scheinman, MD Founding Father of Cardiac Electrophysiology , Walter H. Shorenstein Endowed Chair in Cardiology, UCSF “In assessing the digital health landscape today, the capability of your technology to go beyond diagnostics to bring mortality reducing medications to larger populations will both reduce healthcare costs and improve cardiovascular outcomes.” Jared Friedman Partner at Y Combinator “The alternative you offer to current standard of care is not just incrementally better but radically improved, and your [team’s] backgrounds make you uniquely qualified to solve the pain points facing doctors and patients.” Amadu Swaray Founder & Managing Partner , Fusion Fund, VC Over the summer, I was looking to get an insight on how it would be to work in a startup company. What I got in return was far greater than what I have imagined. Working for a Y Combinator company gave me the opportunity to work with highly competent individuals that I learned a tremendous amount from. As a machine learning intern, I was given the chance to actually contribute to their product, which lead to me working on something that actually had meaning. If you’re looking to work for a company where your contributions actually matter, then Safebeat Rx is one that I would highly recommend. Testimonials and Support: Heart Rhythm Society plays a key role in supporting new technologies like yours, which respond to the needs of both patients and healthcare systems and help advance our specialty. Christine Albert, MD, MPH Past President, Heart Rhythm Society Founding Chair of the Department of Cardiology at Ced",
+   "email_candidates": [
+    {
+     "email": "rachita@safebeat.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Rachita Navara",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f69aaf4c90",
+   "company": "Accend",
+   "website": "https://www.withaccend.com/",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "Unspecified",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 18. AI agents for commercial underwriting at banks and fintechs Accend helps commercial banks and fintechs underwrite business customers faster, win more deals and increase revenue. We provide an end-to-end platform to automate document intake, financial statement / tax spreading, cash flow modeling, credit memos and portfolio management, with audit-ready AI and human-in-the-loop accuracy. Companies like Corpay, Brex, Rippling, Rho, Column, Settle, and many others have reduced application processing time by 80% with Accend, significantly enhancing their credit underwriting efficiency Before starting Accend, the founders led Product & Engineering on the Risk team at Brex as well as at Deutsche Bank and Credit Suisse so they have firsthand experienced issues with operational efficiency in credit/underwriting teams. Accend has raised a $3.2M seed round from Y Combinator, Adverb Ventures, General Catalyst and 645 Ventures. Fintech, Generative AI, Finance, AI, Fintech, Unspecified",
+   "site_text": "[https://www.withaccend.com/]\nAccend LAUNCH—Accend for Banking: AI Infrastructure for End-to-End Credit Underwriting in Commercial Banks Read more Products Resources Solutions About Make humans the center piece AI Credit Analyst For Fastest and Most Accurate Underwriting onboarding underwriting AI-Powered, Human-in-the-loop Financial Statement Spreading and Analysis so you win more deals while others are still processing. Book a Demo Try Accend Risk-Free – Your First Financial Spread is On Us Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. ACCEND IS TRUSTED BY: Fast, Accurate, Customizable Financial Analysis. Goodbye Slow Manual Processes ✌️ Hello Accend AI Credit Analyst 👋 WHY ACCEND? 100% Accurate 80% Reduction in Case Processing Time Same Day Turnaround Time 45 mins Average Time Saved in Writing A Credit Memo Key Ratios Calculation Gain immediate insights with automatically calculated financial ratios Quick & Seamless API Integration Go from integration to impact in days—not months—with our effortless API setup, designed to get you up and running quickly. AI-Powered Credit Analysis Instantly generates standardized reports, cutting underwriting time dramatically (some customers save over 75% of the time in credit memo drafting). Portfolio Management Comprehensive credit analysis and precise underwriting by aggregating financial data across cases and time periods Auditor’s Notes Summary and Analysis Summarizes critical footnotes to help you gain deeper insights (e.g., lines of credit, debt covenants, etc.) Underwriting Co-Pilot AI assistant for real-time underwriting insights, right when you need them—like “Compare Customer A’s liquidity ratios vs. Portfolio Average” Accelerated Slope’s Financial Reviews by Over 4x—Unmatched Speed & Support \"Accend offers the best solution for data-driven credit teams looking to maximize insights from financial documents. Their API solution and onshore time zone support accelerate financial review more than 4x.\" Russell Gu Head of Credit Risk @ Slope Seamless Integration, Exceptional Accuracy, and Weeks Saved on Business Processes for Evergrow Accend integrated seamlessly into our platform. Their accurate data extraction and ratio analysis has sped up our business processes by weeks. Furthermore, the Accend team was incredibly receptive and responsive to requests, questions and feedback as we worked out bugs and implemented our processes. Their turnaround time and customer service, along with the quality of their work, are hard to beat! Marissa Jacobus Director, Tax Credit Finance @ Evergrow Impressive Financial Spreading That Keeps Percent Coming Back Our team has been impressed with Accend’s financial spreading product and we look forward to continuing to explore ways to leverage it! Prath Reddy Prath Reddy, President @ Percent How Pleo frees its operation team from repetitive manual research with Accend \"We are thrilled to collaborate with Accend on this pioneering initiative to develop our AI-enabled KYC system. As Pleo continues to grow rapidly, our goal is to onboard more customers without adding operations headcount. With Accend's automated business nature and industry risk verification, we aim to free our analysts from repetitive manual research, enabling them to focus on quality assurance. We look forward to exploring many more innovative features together, further elevating our onboarding capabilities.\" Dan Jacobson Sr. Director, Head of Business Operations @ Pleo Driving team efficiency, reducing over 80% of manual effort, and enhancing customer experience with Slope \"With Accend, we were able to not only find significant time savings with over 80% reduction in manual effort required, but also provide a superior experience to our customers.\" Nick Heins Head of Capital Markets @ Slope Leveling up TransFi’s global onboarding process with seamless business nature and industry risk verification “Accend has allowed my team to approve o",
+   "email_candidates": [
+    {
+     "email": "info@withaccend.com",
+     "where": "https://www.withaccend.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "pranjal@withaccend.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Pranjal Daga",
+     "role": "Founder"
+    },
+    {
+     "email": "yutong@withaccend.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Yutong Pei",
+     "role": "Founder"
+    },
+    {
+     "email": "joseph@withaccend.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Joseph Zhou",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f97f4d197f",
+   "company": "Powder",
+   "website": "https://www.powderfi.com/",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. AI Agents for precise document analysis Powder is an AI tool that helps wealth advisors rapidly create sales proposals that are personalized for each prospective client. Using LLMs, Powder is able to automate a series of manual tasks such as understanding documents and conversations to create mind-blowing analysis that builds immediate trust. Powder has 3 main features to automate sales workflows - 1. Brokerage, tax and estate document parser thats fast and accurate. 2. Meeting notetaker thats able to capture personalized insights. 3. Portfolio analysis tool that optimizes portfolio returns, risk and fees. Our app saves hours of time and creates a pinpoint proposal that lifts a firm's ability to win new business. Fintech, Asset Management, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.powderfi.com/]\nPowder Introduction to Powder Playbook AI Platform. Sign Up Here . Introduction to Powder Playbook AI Platform. Sign up her e. 99%+ Accurate Document Al Agent 99%+ Accurate Document Al Agent 99%+ Accurate Document Al Agent Brokerage, 401k, IRA, Private Assets, Balance Sheets, Vesting, Estate, Wills, Tax, Insurance, Asset Decks and more Brokerage, 401k, IRA, Private Assets, Balance Sheets, Vesting, Estate, Wills, Tax, Insurance, Asset Decks and more Investments Faxes and Images Missing Tickers Multiple Accounts Alternatives Excel Portfolio Reviews Multilingual Private Funds Vesting Schedules Estate Plans Tax Returns Insurance Asset Deck Use Cases Simply drop in files to rapidly extract data, build proposals, and aggregate external assets Benefits Cut down tedious tasks by 95%, freeing up time to deliver exceptional service to your clients Case Study Quote Quote Quote Case Study Case Study Case Study Quote Case Study Why Powder Turn Unorganized Information into High Quality and Actionable Data Benefits Optimize Efficiency and Enhance Client Satisfaction Deliver superior client service with faster operations and improved utilization for your firmâs resources Cost Savings Eliminate costly manual tasks performed by analysts and advisors Customer Satisfaction Consistently deliver high quality output across the organization Reduced Errors AI enabled and AI reviewed tasks result in better-than-human accuracy Increased Productivity Free up analysts for higher-value tasks like proactive client engagement Time Savings Reduce data extraction and entry time by 95%, validated by customers Compliance Ensure adherence to SEC/FINRA standards with built-in compliance features Scalability Grow efficiently with AI agents, rather than headcount Security Ensure data protection with advanced encryption and secure protocols Security Enterprise Security Powder is built with security top of mind. Trusted by the largest and most regulated global institutions Completed Completed SOC2 II Type 1 Effective controls meeting industry standards for security assurance Completed Completed SOC2 II Type 2 Continued monitoring of industry standards for security assurance Encrypted in Transit and at Rest Data is always encrypted during transfer and storage for maximum protection No Training On User Data Your data remains private and is never used for model training Testimonials Testimonials Explore client testimonials to gain insights into their experiences and how we've contributed to their success. \"Powder has not only allowed us to be more efficient in reviewing and presenting portfolio recommendations to prospects and clients, but as they have added new ways to pull information from different document types, we have been able to enhance other areas of the client experience as well.\" Zane Keller, CFP Ducere Wealth Management \"Our business model at SCS is predicated on providing white-glove service to the ultra-high-net-worth and family office community. Powder has been instrumental in helping us deliver on this commitment by enabling our people to work more efficiently and focus on delivering comprehensive and insightful investment analysis to enhance our client experience.â Marcelo Vedovatto, CFA SCS Financial \"Powderâs decision to expose their API has been a game-changer. They've packaged up their already excellent document processing into an extremely easy-to-use format. It does what we want it to do and lets us drive. On the Chicago Partners side, we can process and create proposals for prospects at a rate we wouldn't have thought possible a year and a half ago.\" Mitchell Bratina, CFA Chicago Partners \"Instead of inputting numbers into Excel to figure out weightings for a client's portfolio, Powder creates that for us for multiple statements in minutes. This allows us to spend more time on clients' needs and less time being a calculator.\" Ben Tuscai Sunpointe Investments \"Powder drives several front and back-end tasks, enabli",
+   "email_candidates": [
+    {
+     "email": "kanishk@powderfi.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Kanishk Parashar",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "soo@powderfi.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Soo Yung Cho",
+     "role": "Founder/CTO"
+    },
+    {
+     "email": "david@powderfi.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "David Goerz",
+     "role": "Founder"
+    },
+    {
+     "email": "dominic@powderfi.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Dominic Tully",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "fbfe9ea903",
+   "company": "loopfour",
+   "website": "https://www.loopfour.com",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. Workflow automation, without AI hallucinations. Deterministic, auditable automation for the finance workflows your team dreads. We build and run it on your existing stack. You approve only the exceptions. AI-Enhanced Learning, Workflow Automation, Automation, Operations, AI Assistant, Fintech, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://loopfour.ai/]\nFinance Automation You Can Defend at Audit | Loopfour Skip to main content Login Book a demo Backed by Combinator (W23) Your finance workflows. Automated exactly your way. Loopfour turns the processes your team runs every month into governed, auditable automation. Build your first workflow Deterministic code, not black-box AI SOC 2 Type II · SOC 1 Type I Every run logged, with approvals Book a workflow review See the controls The finance AI problem The real AI risk in finance isn’t slowness. It’s exposure. Your board wants AI in finance, and your auditors want it to hold up. But finance does not run on “probably.” An LLM that invents a number, silently cuts a corner, or cannot show its work is not an efficiency gain. It is a liability you have to sign your name to at close. There is a fourth option: automation you can defend, with a full evidence trail under every action. Rigid finance AI tools Template-first products may satisfy a checklist, but they force your process into somebody else’s template. DIY agents and scripts Something a sharp operator vibe-codes can work, until it drifts, breaks, or leaves with the person who built it. Then nobody can show how a number was produced. Doing nothing Your control environment stays exactly as thin as it is today, while your team keeps burning days on report pulls, reconciliations, and copy-paste between systems. What Loopfour is Deterministic workflow automation for finance. Loopfour automates AR, close, and revenue recognition as deterministic, auditable code, not black-box AI, on top of the tools you already use. Real code, not runtime guesses Every workflow runs a fixed, versioned set of steps. Any change to a live workflow creates a new version, and every version is retained. Scoped AI where it belongs AI can read a contract or classify a document, but confidence thresholds and human fallback keep it from deciding what your finance system does. Full execution evidence Every action, approval, exception, and system write is logged so finance leaders and auditors can inspect the run instead of trusting a black box. What you can automate The finance workflows teams hand us first. Each one runs as deterministic code on the systems you already use, with approvals where you want them and an audit trail underneath all of it. Accounts Receivable & Collections Automated invoicing, dunning, and cash application across the order-to-cash cycle. Every reminder sent and every payment matched is logged against the invoice. Accounts receivable automation Accounts Payable & Invoice Processing Capture the invoice, run the match against the PO and receipt, route approvals to the person who owns the spend, and keep the evidence attached to the payment. See AP workflows Revenue Recognition & Contract-to-Cash ASC 606 schedules derived from the contract, deferred revenue tracked as it releases, and the same journal entries booked the same way every period. Revenue recognition automation Payment Reconciliation & Cash Application Deterministic matching across your bank, ERP, and payment rails. Exceptions route to a person with the context attached instead of landing in a spreadsheet. Account reconciliation automation Month-End Close Reconciliations, journal entries, and close checklists that run on schedule, with the audit evidence captured as the work happens rather than reassembled afterward. Month-end close automation Why deterministic matters Auditors test controls, not tools. Loopfour gives them a versioned workflow, an approval record and a log of every run. We use AI where it belongs, such as interpreting a document, but never to decide what your finance system does. For public companies, AS 2201, an audit of internal control over financial reporting (opens in a new tab) sets out how an audit of internal control over financial reporting is performed. AI agents Loopfour Decide what to do at runtime and can hallucinate a step or tool. Runs predefined, programmatic steps with no",
+   "email_candidates": [
+    {
+     "email": "vharshith.2810@gmail.com",
+     "where": "GitHub commits (loopfour)",
+     "kind": "personal",
+     "name": "harshith-eth",
+     "commits": 7
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "fd8dabd12c",
+   "company": "Bot MD",
+   "website": "https://www.botmd.io",
+   "title": "Engineering (YC Summer 2018)",
+   "location": "Singapore, Singapore",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. AI Clinical Assistant for Doctors Bot MD is an A.I assistant for doctors. Our company's mission is to Empower Doctors around the world. Bot MD can be trained on any type of hospital content to provide instant answers to clinical questions. Healthcare, Healthcare Services, Singapore, Southeast Asia, Remote, Partly Remote",
+   "site_text": "[https://www.botmd.com/]\nAI Agents for Healthcare — Patient Engagement Platform for Hospitals & Clinics Book Demo AI Agents for healthcare, deployed in weeks Humans for care. AI for everything else. Bot MD builds healthcare AI Agents that automate patient engagement across WhatsApp, Messenger, Viber, LINE, Telegram, SMS, and Web — from inquiry to booking and care follow-up. Book AI Agent Demo Explore AI Agents ISO 27001 & SOC 2 certified 100+ languages Y-Combinator backed agents · live W Hi, I'd like to reschedule my MRI for next Tuesday. Found 3 slots on Tue, 19 May. Shall I book 10:30 AM with Dr. Lim? V Bagaimana cara persiapan untuk kolonoskopi? Saya akan mengirim panduan persiapan & video singkat sekarang. M How is my post-op pain on a scale of 1–10? Logged: 6/10. Care team alerted — Dr. Tan will call within 30 min. Integrated with EMR/HIS/QMS Omnichannel · Multilingual Trusted by leading hospitals and clinics across Asia Proven in production Real results from hospitals and clinics across Asia-Pacific. Bot MD AI Agents are deployed in live hospital and clinic environments — not pilots. Here’s what they ship. 20,000+ Doctors using Bot MD globally 300,000+ Patients helped across Southeast Asia 60+ Hospital and clinic chains 7 Patient channels supported WhatsApp · Messenger · Viber · LINE · Telegram · SMS · Web Our philosophy Humans for care. AI for everything else. AI shouldn’t replace care teams — it should give them leverage. We draw a clear line between what humans do best and what AI can safely handle at scale. + Humans For care. Clinical decisions and judgment Complex or sensitive patient conversations Empathy, bedside manner, and patient trust Diagnosis, treatment plans, and prescribing Escalations AI can’t safely handle alone AI For everything else. Repetitive patient inquiries and FAQs Appointment booking, confirmations, and reminders Pre-admission intake and consent collection Preparation instructions and patient education Recovery check-ins and symptom monitoring PROM, PREM, and CSAT survey collection Re-engagement and marketing follow-up Why Bot MD AI Agents Built for real hospital and clinic workflows, not generic chatbot demos. Every Bot MD AI Agent is purpose-built for healthcare — designed with clinical teams, deployed across real hospital and clinic environments, and integrated end-to-end with the systems your hospital or clinic already runs. Healthcare-specific Trained around hospital and clinic workflows including inquiries, scheduling, intake, patient education, monitoring, surveys, and conversion. Omnichannel Works across WhatsApp, Messenger, Viber, LINE, Telegram, SMS, and Web — one platform, every channel. Integrated Connects to EMR, HIS, CMS, CRM, QMS, scheduling, payment gateways, and care team dashboards. Multilingual Supports patients across Asia-Pacific in English, Mandarin, Bahasa, Tagalog, Thai, Vietnamese, and more. Safe by design Escalation rules, audit trails, human handover, template controls, and healthcare-grade compliance. Healthcare AI Agents Specialized AI Agents. One unified platform. Each agent is built for a specific healthcare workflow — multilingual out of the box, integrated with your stack, deployable independently or end-to-end. FAQ Agent Deflect repetitive patient inquiries before they reach your call center. Scheduling Agent Let patients book, reschedule, and confirm appointments without calling. Recommendation Agent Guide every patient to the right doctor, service, or care pathway. Pre-Admission Agent Replace paper intake with structured digital pre-admission. Remote Monitoring Agent Monitor patients between visits and escalate when care teams need to act. Marketing Conversion Agent Recover lost revenue from patients who drop off. Patient Education Agent Send the right education to the right patient at the right moment. Patient Survey Agent Collect PROMs, PREMs, CSAT, and quality surveys at clinical scale. See every agent in detail Start with the outcome What are you trying to",
+   "email_candidates": [
+    {
+     "email": "hello@botmd.io",
+     "where": "https://www.botmd.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "dorothea@botmd.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Dorothea Koh",
+     "role": "Founder/Founding CEO"
+    },
+    {
+     "email": "yanchuan@botmd.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Yanchuan Sim",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ff677987ef",
+   "company": "Swif.ai",
+   "website": "https://www.swif.ai",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. Manage every device. Govern every AI agent. Swif.ai is the Unified Agent & Endpoint Management (UAEM) Manage every device. Govern every AI agent. One control plane for device management, AI-agent governance, continuous enforcement, and autonomous remediation. SaaS, B2B, Compliance, Security, Enterprise, B2B, Security, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.swif.ai/]\nMDM Software, Device Compliance and Shadow IT | Swif.ai Shadow IT Support. Learn More Platform Product Solutions Integrations Integrations Resources Help center Pricing Login Start Your 14-Day Free Trial Pricing Global EU Global EU Manage your Device Fleet Unified Device Management Mobile Device Management Unified Endpoint Management MDM for Education Linux MDM Windows MDM Apple MDM Android MDM Googlebook MDM Swif Android App Swif iOS App Omarchy Linux Remote Monitoring Rust Desk Live Terminal Smart Group Self Service Portal MSP Program SECURITY Compliance Benchmark Compliance Dashboard Data Loss Prevention BETA Intelligence Agentic Security Shadow IT Swif IQ Swif Browser Extension Device CVE Report CLI Swif Sidekick Swif ChatGPT & Claude MCP Slack Access management and notifications Zoom Access management Google Employee management Deel Employee management Azure AD Employee management Okta Enforce SSO and identity policies Workbrew Automate local CLI deployments Vanta Track security compliance across devices Drata Track security compliance across devices Thoropass Track security compliance across devices Sprinto Track security compliance across devices Delve Automate device compliance & auditing Comply Jet Sync device compliance for audits SecureFrame Sync device compliance for audits Swif for Enterprise Fintech Healthtech vCISO Frameworks SOC 2 ISO 27001 HIPAA NIS 2 Countries India United Kingdom Brazil Switzerland Canada Australia Italy Spain France Mexico Philippines South Africa New Zealand Netherlands Kenya Malaysia Poland Colombia Argentina Pakistan Thailand Turkey United Arab Emirates Indonesia Austria Singapore Saudi Arabia Germany Back About us Partners Partner with us Product Hunt SXSW Learn Blog Case Study Newsletter Partners Shadow IT report Release Notes FAQ Roadmap Status Help Center Cybersecurity Health Checker tool Trust Center Product MSSP Package Log in Contact sales Start Your 14-Day Free Trial Help Center Login Login Global EU Contact sales Start Your 14-Day Free Trial Global EU Securely Manage Every Device. Compliance Proven Automatically. Security & Compliance focused MDM/UEM for MacOS, Windows, Linux with Android and iOS designed to get you fast and easy provable compliance One console, all OSes GDPR with EU Data Residence Available Live in <1 Day Start Your 14-Day Free Trial Global EU Book A Demo Free for up to 5 employees • No credit card required Devices arrive compliant on day one via Apple Business Manager, Windows Autopilot, and Android Enterprise. No manual setup required. EVERY OS PLATFORM. EVERY POLICY YOU WILL EVER NEED. Every OS. Easy Onboarding. One Console. Apple MDM macOS, iOS & iPadOS with zero touch via Apple Business Manager. Explore Windows MDM Full policy control with Windows Autopilot provisioning. Explore Linux MDM Fleet wide config, patching, and compliance for Linux endpoints. Explore Android MDM Android Enterprise work profiles, silent installs, kiosk mode. Explore TESTIMONIALS Trusted by Enterprise and Startup Teams with Real Security Concerns Strong enthusiasm about moving forward with Swif.ai, highlighting it as a strong fit for their needs around SecureFrame evidence collection, SOC 2 policy support, and Shadow IT coverage. Hanson Han, OpusClip Swif’s platform is essential for our compliance processes and ensuring we have the oversight we need for managing our devices. Kamyar Espahbodi, Chief of Staff at Filed I tell our team the reason I like partnering with Swif is you’re super nimble and scrappy like us; You get customers and hear our feedback and quickly work to make the product more aligned to what today’s, not yesterday’s, clients need! Dominique Singer, VP of Cyber at Eden Data Swif cut our audit prep time by 80% while giving us real AI tool visibility. Freddie, IT Manager at Mysa INTEGRATIONS Zero rip and replace. It fits the stack you already run. Swif integrates out of the box with your identity provider, HR system, GRC platform, and security ",
+   "email_candidates": [
+    {
+     "email": "mertacel@gmail.com",
+     "where": "GitHub commits (KMACEL)",
+     "kind": "personal",
+     "name": "Mert Acel",
+     "commits": 13
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d01c6bb68e",
+   "company": "Bolto",
+   "website": "https://www.bolto.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. AI Powered All-In-One Payroll, HR + Recruiting AI-powered payroll, hr, and recruiting platform. Hire and scale teams easily in the US and globally. Recruiting, HR Tech, AI, B2B, Human Resources, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.bolto.com/]\nBolto | AI Payroll, HR, and Recruiting Skip to content New Bolto Instant Pay for Global Contractors Read the Announcement Login L Book a demo B Payroll & HR Payroll Fast, accurate payroll Tax and Compliance Taxes and filings, handled Benefits Flexible, connected benefits 01 Global & hiring Global HR Manage your people, globally Recruiting Find and hire your next teammate 02 Connected tools Integrations Connect the tools you already use 03 By size Startups Get your team and payroll up and running Scale-ups Keep people operations growing with you Enterprise Bring your people operations together 01 For founders Founders Build your team. Stay focused on growth. Migrate to Bolto Free – bring your history with you. YC × Bolto Explore Bolto for YC companies 02 Featured case study 70 team members, moved to Bolto in 15 days. “I told the Bolto team, if they could get me even half-way decent customer support, I’d switch. They’ve blown that out of the water.” 03 Learn Blogs Ideas for hiring, payroll, and people 01 Company Our team Meet the people building Bolto Careers Help build the future of work 02 Login Book a demo People management, without the management. Payroll, HR, and recruiting, run on autopilot with the help of AI. Powering teams at Case studies 3 Customer case studies From three people to 100+ with one system behind every hire. 26 engineers recruited Scaling the team behind faster construction. 70+ people moved in 15 days Five engineers. One team. Ten days. 5 engineers hired in 10 days All customer stories Products Your HR stack, unified Payroll, Global HR, compliance, and recruiting, in one system. Payroll and HR that handles itself Tax and compliance done for you by Bolto experts Benefits integrated for seamless enrollment Global payroll run compliantly everywhere Expert recruiting to find great talent, faster Features & benefits Leave your legacy HRIS behind. Payroll, HR, compliance, and recruiting in a single AI-powered system that automates the busywork. Book a demo B One record, from offer to payday Every hire’s profile, employment history, and pay live in one place, so nothing gets re-entered between recruiting, HR, and payroll. Connected employee profiles Full employment history Payroll that updates with every change Explore HR Compliant by default, not by catching up Bolto handles state registrations and payroll tax filings, and flags anything that needs you before it affects payroll. State registrations handled for you Automated payroll tax filings Alerts before payroll, not after Explore payroll Hire anywhere, no entity required Local contracts, onboarding, and payroll run through one workflow, whether your next hire is in Brazil, Germany, or the UK. Compliant local contracts Onboarding in days, not weeks One view of employees and contractors Explore global HR See your whole team as it grows Track headcount against budget, keep records updated automatically, and bring on every new hire without manual handoffs. Headcount and budget at a glance Records that update themselves Every new hire in one view Book a demo The fastest growing companies grow faster with Bolto. Read customer stories Read Case study Read Case study Read Case study You build the company. Bolto handles the busywork. Payroll, benefits, compliance, and hiring in one system. Book some time to explore the platform today. Book a demo News & articles See the latest updates from Bolto. Bolto raises $12M Series A Backed to build the HR layer for teams scaling across borders. Where the money goes, which countries open next, the roles we’re hiring for, and what we’re building toward. Introducing Instant Pay by Bolto Companies can now pay global hires compliantly in real time, with same-day and next-day payouts in 190+ countries. Cookie preferences Your cookie preferences × With your permission, we use analytics and visitor insights to understand site usage and improve our marketing. You can use the site and book a demo without accept",
+   "email_candidates": [
+    {
+     "email": "info@bolto.com",
+     "where": "https://www.bolto.com/blog/instant-pay-launch",
+     "kind": "generic"
+    },
+    {
+     "email": "mrinal@bolto.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mrinal Singh",
+     "role": "Founder"
+    },
+    {
+     "email": "jake@bolto.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jake Johnson",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "b81c415755",
+   "company": "Pax",
+   "website": "https://paxai.com/",
+   "title": "Software Engineer (Early Career)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Software Engineer (Early Career) (San Francisco, CA, US; experience: Any (new grads ok); Will sponsor). Team size: 10. AI Native Operating System for Global Trade Pax is the AI-native broker that automates and maximizes tariff refunds through duty drawback. We've helped enterprises recover millions in duties and manage their entire trade compliance operation from one platform. Each year, 80% of eligible refunds—equivalent to $15B—go unclaimed. Pax is the first AI-first broker that makes this process transparent and streamline while maximizing all duty saving opportunities. We are two technical founders: Penny got her PhD from MIT and, and was a former research scientist at Amazon & Flexport, where I encountered the problem firsthand. Chris is a second-time founder and former software engineer at Amazon, Brex, and TikTok. B2B, Supply Chain and Logistics, United States of America, America / Canada",
+   "site_text": "[https://www.paxai.com/]\nAI Trade Compliance Control Tower | Pax AI Login Get started Contact sales Tell us what you need and a Pax expert will follow up. Check drawback eligibility Get a duty drawback recovery estimate. Schedule a meeting Talk directly with the Pax team. The new standard for trade compliance Purpose-built AI that recovers every dollar, empowering the world's top enterprises to stay compliant. Talk to an expert Introducing Pax The AI platform that operates like a world-class compliance expert. Pax is the intelligence layer for your trade compliance operation, supercharging your team's productivity and accuracy end to end. Complete visibility See your entire supply chain in one view. Estimated recoverable $12.8M Drawback claims found 4 Maximum savings Every opportunity flagged and filed. Total protection Catch errors before they reach CBP. Match 01 Match 02 Licensed broker assigned Exceptions resolved Ready to submit Licensed brokerage Each claim reviewed by a licensed broker. Top enterprises use Pax for Audit Trails Duty Mitigation Document Extraction Analytics and Reporting Tariff Recovery Reconciliation Inventory Management Audit Trails Duty Mitigation Document Extraction Analytics and Reporting Tariff Recovery Reconciliation Inventory Management Explore the platform Explore the platform Import Analytics Claim-level analytics and recovery performance 1 Year 3 Years 5 Years Weekly Monthly Quarterly Yearly Overview Tariffs over time Breakdowns Part numbers Expiring imports Total tariffs & fees over time All import-level tariffs broken down by fee type $3.0M $2.5M $2.0M $1.5M $1.0M $0.5M $0K JAN 26 Regular Duty $320,160.00 Section 301 $13,800.00 Reciprocal $1,380.00 MPF $6,210.00 HMF $2,760.00 Other fees $690.00 Total $345,000.00 JAN 26 Regular Duty $417,600.00 Section 301 $18,000.00 Reciprocal $1,800.00 MPF $8,100.00 HMF $3,600.00 Other fees $900.00 Total $450,000.00 FEB 26 Regular Duty $1,405,920.00 Section 301 $60,600.00 Reciprocal $6,060.00 MPF $27,270.00 HMF $12,120.00 Other fees $3,030.00 Total $1,515,000.00 FEB 26 Regular Duty $1,586,880.00 Section 301 $68,400.00 Reciprocal $6,840.00 MPF $30,780.00 HMF $13,680.00 Other fees $3,420.00 Total $1,710,000.00 MAR 26 Regular Duty $459,360.00 Section 301 $19,800.00 Reciprocal $1,980.00 MPF $8,910.00 HMF $3,960.00 Other fees $990.00 Total $495,000.00 MAR 26 Regular Duty $1,781,760.00 Section 301 $76,800.00 Reciprocal $7,680.00 MPF $34,560.00 HMF $15,360.00 Other fees $3,840.00 Total $1,920,000.00 APR 26 Regular Duty $2,171,520.00 Section 301 $93,600.00 Reciprocal $9,360.00 MPF $42,120.00 HMF $18,720.00 Other fees $4,680.00 Total $2,340,000.00 APR 26 Regular Duty $570,720.00 Section 301 $24,600.00 Reciprocal $2,460.00 MPF $11,070.00 HMF $4,920.00 Other fees $1,230.00 Total $615,000.00 MAY 26 Regular Duty $1,336,320.00 Section 301 $57,600.00 Reciprocal $5,760.00 MPF $25,920.00 HMF $11,520.00 Other fees $2,880.00 Total $1,440,000.00 MAY 26 Regular Duty $1,907,040.00 Section 301 $82,200.00 Reciprocal $8,220.00 MPF $36,990.00 HMF $16,440.00 Other fees $4,110.00 Total $2,055,000.00 JUN 26 Regular Duty $2,533,440.00 Section 301 $109,200.00 Reciprocal $10,920.00 MPF $49,140.00 HMF $21,840.00 Other fees $5,460.00 Total $2,730,000.00 JUN 26 Regular Duty $1,698,240.00 Section 301 $73,200.00 Reciprocal $7,320.00 MPF $32,940.00 HMF $14,640.00 Other fees $3,660.00 Total $1,830,000.00 JUL 26 Regular Duty $431,520.00 Section 301 $18,600.00 Reciprocal $1,860.00 MPF $8,370.00 HMF $3,720.00 Other fees $930.00 Total $465,000.00 JUL 26 Regular Duty $1,308,480.00 Section 301 $56,400.00 Reciprocal $5,640.00 MPF $25,380.00 HMF $11,280.00 Other fees $2,820.00 Total $1,410,000.00 AUG 26 Regular Duty $821,280.00 Section 301 $35,400.00 Reciprocal $3,540.00 MPF $15,930.00 HMF $7,080.00 Other fees $1,770.00 Total $885,000.00 AUG 26 Regular Duty $1,990,560.00 Section 301 $85,800.00 Reciprocal $8,580.00 MPF $38,610.00 HMF $17,160.00 Other fees $4,290.00 Total $2,145,000.00 JAN 26 FEB 26 MAR 26 ",
+   "email_candidates": [
+    {
+     "email": "penny@paxai.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Penny Chen",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "chris@paxai.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Chris Le",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

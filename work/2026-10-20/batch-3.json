@@ -1,0 +1,274 @@
+{
+ "leads": [
+  {
+   "id": "d48086fc08",
+   "company": "Leanbase IO",
+   "website": "https://leanbase.io/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Run hundreds of experiments every week. Learn more, faster.. Languages: Dockerfile, HTML, Python, TypeScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "dipanjan.mu@gmail.com",
+     "where": "GitHub commits (Leanbase)",
+     "kind": "personal",
+     "name": "Dipanjan Mukherjee",
+     "commits": 93
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "12c5ff7d4c",
+   "company": "Ramaguru Radhakrishnan's Amrita Work",
+   "website": "https://amrita.edu/faculty/ramaguru-radhakrishnan/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Coimbatore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Ramaguru's work in Amrita, Coimbatore (M.Tech, Research Associate, Ph.D Scholar, Asst. Professor, Faculty Advisor/Coordinator of Clubs and Class Advisor). Languages: HTML, Python. Topics: 2026, academy-training, connected-vehicles, cvs, cyber-security, federated-learning, federated-learning-resources, financial-fraud-detection, flower-framework, formal-methods, funded-project, jul-dec, lab, nptel, phd, ramaguru-r, ramaguru-radhakrishnan, research, research-workload, secure-fellowship, secure-fellowship-26, smart-home, smart-wearables, sumo, swayam, system-verification, teaching-workload, theory, theory-lab, tn-police, v2x-communication",
+   "site_text": "[https://www.amrita.edu:443/faculty/ramaguru-radhakrishnan/]\nRamaguru Radhakrishnan - Amrita Vishwa Vidyapeetham Back close Admissions Home About About Amrita Chancellor Rankings Accreditation Governance Press Media Leadership Campus Amritapuri Amaravati Bengaluru Chennai Faridabad Kochi Mysuru Coimbatore Nagercoil Haridwar Academics About Academics Undergraduate Arts & Science Ayurveda Agriculture Sciences Architecture Business / Management Biotechnology Dentistry Engineering Medicine Mass Communication Nursing Pharmacy Health Sciences Nanoscience Postgraduate Arts & Science Ayurveda Business / Management Biotechnology Engineering Medicine Dentistry Health Sciences Integrated Degree Arts & Science Ayurveda Social Work Doctoral Arts & Science Biotechnology Engineering Medicine Business / Management Interdisciplinary Studies Fellowship Medicine Certificate Ayurveda Spiritual & Cultural Studies Online Programs Certificate Programs Introduction to Hinduism Essence of Hinduism Mahabharata Upanayanam Degree Programs B.COM – Bachelor of Commerce M.COM – Master of Commerce MCA (Specialization: Artificial Intelligence) BBA – Bachelor of Business Administration MBA – Master of Business Administration MCA (Specialization: Cybersecurity) BCA – Bachelor of Computer Application MCA – Master of Computer Application Curriculum Research About Research Centers Projects Publications International Alumni Faculty Schools Campus Life News Blog Events Jobs Contact Admissions search Programs M. Tech. in Automotive Engineering -Postgraduate Open Courses -Certificate View all programs From the news amFOSS Members from Amrita Vishwa Vidyapeetham Awarded WikiConference India 2026 Scholarship amFOSS Team H.A.S.H. Clinches 1st Place at Zenith Hackathon! View all News Others Scientific Writing and Reporting Scientific Writing and Reporting View all search results Our Faculty Home Faculty Ramaguru Radhakrishnan Ramaguru Radhakrishnan Convener — Institution's Innovation Council (IIC), Amrita Vishwa Vidyapeetham, Coimbatore | Assistant Professor (Sr. Gd.), TIFAC-CORE in Cyber Security, School of Engineering, Coimbatore Qualification: M.Tech (Cyber Security), B.Tech (IT) r_ramaguru@cb.amrita.edu Orcid Profile Google Scholar Profile Scopus Author ID Research Interest: Formal Methods, Blockchain Security, Cryptocurrency Forensics, Cyber Psychology, VAPT, System Testing and Cyber Crime Investigation Bio Publications Education Experience Teaching Research Honors Responsibilities Outreach Projects Guided Bio Ramaguru Radhakrishnan currently serves as Assistant Professor (Senior Grade) at TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, Coimbatore. He is presently pursuing his doctoral research on a Formal Methods Framework for Verifying Semantic Security and Incentive Robustness in Smart Contracts. His research focuses on developing verifiable and secure smart contract systems using formal methods and language-based techniques, with the goal of improving the reliability, correctness, and security of decentralized applications. Prior to his academic career, he gained over five years of industry experience as a System Test and Test Automation Engineer, having worked with leading automotive companies such as Robert Bosch and Harman International. During this time, he contributed to several infotainment system projects for global clients including Jaguar Land Rover (JLR), Suzuki, Nissan, and Renault, where he specialized in system testing, software quality assurance, and end-to-end automation frameworks. His academic and research interests span formal methods, blockchain security, smart contract verification, automotive cyber security, and software testing. He is passionate about mentoring students for hackathons, ICPC competitions, and collaborative research projects, encouraging hands-on learning and innovation. He actively guides student teams on industry-relevant problems and contributes to interdisciplinary initiatives at the intersection of cyber securit",
+   "email_candidates": [
+    {
+     "email": "r_ramaguru@cb.amrita.edu",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "09542ba57c",
+   "company": "VibeTensor",
+   "website": "https://vibetensor.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Built to Trust. Open-source AI infrastructure, developer tools, and career intelligence. DPIIT-recognized startup from India.. Languages: Python, TypeScript. Topics: agent-identity, ai, ai-agents, astro, attestation, attestix, blockchain, claude, compliance, contribution-tools, delegation, did, ed25519, eu-ai-act, gdpr, github-issues, gmail, good-first-issue-finder, graphql, hacktoberfest, identity, jcs, llm, mcp, mcp-server, microsoft-365, model-context-protocol, open-source, outlook, python, reputation, svelte, token-optimization, toon, typescript, ucan, unocss, verifiable-credentials, verifiable-presentations, w3c",
+   "site_text": "[https://vibetensor.com]\nTitle: VibeTensor - Built to Trust\n\nURL Source: https://vibetensor.com/\n\nMarkdown Content:\nAI-first engineering from India\n\nProducts that help professionals make better decisions, developers move faster, and AI agents operate transparently.\n\n0+Products Shipped\n\nDPIIT Recognized\n\n0+Startup Programs\n\n100%India-Built\n\n## What we build\n\nFour products. One mission: make AI safe, useful, and trustworthy.\n\n[![Image 1: UpdataMind](https://vibetensor.com/logos/updatamind-icon.svg) ### UpdataMind ·AI Career Intelligence Live Know exactly where your career should go next. AI-powered resume and skill analysis that maps your strengths, identifies critical gaps, and recommends your highest-value career moves. NLP Career AI](https://updatamind.vibetensor.com/)[![Image 2: IssueVista](https://vibetensor.com/logos/issuevista-icon.svg) ### IssueVista ·GitHub Issue Discovery Live Stop drowning in GitHub issues. Intelligent prioritization, contributor insights, and productivity analytics that help engineering teams focus on what actually moves the needle. GitHub DevOps](https://issuevista.vibetensor.com/)[![Image 3: VibeMCP](https://vibetensor.com/logos/vibemcp-icon.svg) ### VibeMCP ·Unified AI Productivity Live One unified interface for all your AI tools and services. Connect Gmail, Calendar, Slack, Todoist, and 50+ services through a single MCP-powered workflow automation layer. MCP Automation](https://vibemcp.vibetensor.com/)[![Image 4: Attestix](https://vibetensor.com/logos/attestix-icon.svg) ### Attestix ·AI Agent Identity & Trust Live Give your AI agents a verified digital identity. Enterprise-grade compliance, verifiable credentials, and trust infrastructure that makes autonomous AI agents audit-ready from day one. Identity Compliance MCP](https://attestix.vibetensor.com/)\n\n## Our approach\n\nLightweight. Fast. Responsible.\n\n### Lean & Fast\n\nEvery model optimized for speed and cost. No bloated infrastructure, no wasteful compute.\n\n### Your Data, Your Rules\n\nDPDPA-compliant by design. We never train on your data. Period.\n\n### Safe by Default\n\nBuilt-in guardrails, bias testing, and content filtering on every model we ship.\n\n### Open by Choice\n\nBuilt on MCP and open-source frameworks. No vendor lock-in, full interoperability.\n\n## Verified & transparent\n\nRegistered and recognized\n\n### Government Registered\n\nMinistry of Corporate Affairs\n\nCIN: U74909TS2025PTC197692\n\n### MSME Certified\n\nUdyam Registration\n\nUDYAM-TS-31-0036906\n\n### DPIIT Recognized\n\nStartup India Programme\n\nDIPP206711\n\nDPDP Act 2023 Compliant. Data Protection Officer Appointed.\n\n## Frequently asked questions\n\nEverything you need to know about VibeTensor\n\nStill have questions? [Get in touch](https://vibetensor.com/#contact)\n\n## About us\n\nBuilding AI that earns trust\n\nVibeTensor is a DPIIT-recognized startup on a mission to make AI accessible, safe, and genuinely useful. We build products that help professionals make better decisions, developers move faster, and AI agents operate transparently.\n\nEvery product we ship is privacy-first, DPDPA-compliant, and built entirely in India. We believe the best AI earns trust through transparency, not marketing.\n\nFounded 2025 · Warangal, India · Independently Owned\n\n## Let's build something together\n\nWe typically respond within 24 hours\n\n### Company Info\n\nPhone\n\n+91-9177451099\n\nRegistered Office\n\n5-11-755/2, Sagara Colony-2,  \nHanamkonda, Warangal - 506009,  \nTelangana, India\n\nBusiness Hours\n\nMon-Fri, 10 AM - 6 PM IST  \nSat, 10 AM - 1 PM IST\n\nRegistrations\n\nCIN: U74909TS2025PTC197692  \nDPIIT: DIPP206711\n",
+   "email_candidates": [
+    {
+     "email": "info@vibetensor.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "09542ba57c-ref",
+   "company": "VibeTensor",
+   "website": "https://vibetensor.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Built to Trust. Open-source AI infrastructure, developer tools, and career intelligence. DPIIT-recognized startup from India.. Languages: Python, TypeScript. Topics: agent-identity, ai, ai-agents, astro, attestation, attestix, blockchain, claude, compliance, contribution-tools, delegation, did, ed25519, eu-ai-act, gdpr, github-issues, gmail, good-first-issue-finder, graphql, hacktoberfest, identity, jcs, llm, mcp, mcp-server, microsoft-365, model-context-protocol, open-source, outlook, python, reputation, svelte, token-optimization, toon, typescript, ucan, unocss, verifiable-credentials, verifiable-presentations, w3c",
+   "site_text": "[https://vibetensor.com]\nTitle: VibeTensor - Built to Trust\n\nURL Source: https://vibetensor.com/\n\nMarkdown Content:\nAI-first engineering from India\n\nProducts that help professionals make better decisions, developers move faster, and AI agents operate transparently.\n\n0+Products Shipped\n\nDPIIT Recognized\n\n0+Startup Programs\n\n100%India-Built\n\n## What we build\n\nFour products. One mission: make AI safe, useful, and trustworthy.\n\n[![Image 1: UpdataMind](https://vibetensor.com/logos/updatamind-icon.svg) ### UpdataMind ·AI Career Intelligence Live Know exactly where your career should go next. AI-powered resume and skill analysis that maps your strengths, identifies critical gaps, and recommends your highest-value career moves. NLP Career AI](https://updatamind.vibetensor.com/)[![Image 2: IssueVista](https://vibetensor.com/logos/issuevista-icon.svg) ### IssueVista ·GitHub Issue Discovery Live Stop drowning in GitHub issues. Intelligent prioritization, contributor insights, and productivity analytics that help engineering teams focus on what actually moves the needle. GitHub DevOps](https://issuevista.vibetensor.com/)[![Image 3: VibeMCP](https://vibetensor.com/logos/vibemcp-icon.svg) ### VibeMCP ·Unified AI Productivity Live One unified interface for all your AI tools and services. Connect Gmail, Calendar, Slack, Todoist, and 50+ services through a single MCP-powered workflow automation layer. MCP Automation](https://vibemcp.vibetensor.com/)[![Image 4: Attestix](https://vibetensor.com/logos/attestix-icon.svg) ### Attestix ·AI Agent Identity & Trust Live Give your AI agents a verified digital identity. Enterprise-grade compliance, verifiable credentials, and trust infrastructure that makes autonomous AI agents audit-ready from day one. Identity Compliance MCP](https://attestix.vibetensor.com/)\n\n## Our approach\n\nLightweight. Fast. Responsible.\n\n### Lean & Fast\n\nEvery model optimized for speed and cost. No bloated infrastructure, no wasteful compute.\n\n### Your Data, Your Rules\n\nDPDPA-compliant by design. We never train on your data. Period.\n\n### Safe by Default\n\nBuilt-in guardrails, bias testing, and content filtering on every model we ship.\n\n### Open by Choice\n\nBuilt on MCP and open-source frameworks. No vendor lock-in, full interoperability.\n\n## Verified & transparent\n\nRegistered and recognized\n\n### Government Registered\n\nMinistry of Corporate Affairs\n\nCIN: U74909TS2025PTC197692\n\n### MSME Certified\n\nUdyam Registration\n\nUDYAM-TS-31-0036906\n\n### DPIIT Recognized\n\nStartup India Programme\n\nDIPP206711\n\nDPDP Act 2023 Compliant. Data Protection Officer Appointed.\n\n## Frequently asked questions\n\nEverything you need to know about VibeTensor\n\nStill have questions? [Get in touch](https://vibetensor.com/#contact)\n\n## About us\n\nBuilding AI that earns trust\n\nVibeTensor is a DPIIT-recognized startup on a mission to make AI accessible, safe, and genuinely useful. We build products that help professionals make better decisions, developers move faster, and AI agents operate transparently.\n\nEvery product we ship is privacy-first, DPDPA-compliant, and built entirely in India. We believe the best AI earns trust through transparency, not marketing.\n\nFounded 2025 · Warangal, India · Independently Owned\n\n## Let's build something together\n\nWe typically respond within 24 hours\n\n### Company Info\n\nPhone\n\n+91-9177451099\n\nRegistered Office\n\n5-11-755/2, Sagara Colony-2,  \nHanamkonda, Warangal - 506009,  \nTelangana, India\n\nBusiness Hours\n\nMon-Fri, 10 AM - 6 PM IST  \nSat, 10 AM - 1 PM IST\n\nRegistrations\n\nCIN: U74909TS2025PTC197692  \nDPIIT: DIPP206711\n",
+   "email_candidates": [
+    {
+     "email": "pkd@vibetensor.com",
+     "where": "GitHub commits (VibeTensor)",
+     "kind": "personal",
+     "name": "ascender1729",
+     "commits": 8
+    },
+    {
+     "email": "pavankumar.dubasi2019@gmail.com",
+     "where": "GitHub commits (VibeTensor)",
+     "kind": "personal",
+     "name": "ascender1729",
+     "commits": 23
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "381ec131b3",
+   "company": "Vaanarayoo Technologies",
+   "website": "http://www.vaanarayoo.tech/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Mumbai",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Generative AI Architect & Engineer | Full Stack Developer (PHP, Node.js, React, Wordpress) | Cloud-Native & Automation Strategist. Languages: PHP",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "indrajeet10000@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "d33f0761c8",
+   "company": "Django India",
+   "website": "https://djangoindia.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript. Topics: articles, blogs, conference, django, django-rest-framework, docker, docker-compose, events, good-first-issue, hacktoberfest, javascript, nextjs, no-code, python, resources, typescript, ui",
+   "site_text": "[https://www.djangoindia.org/home]\nDjango India Home Events Sponsors and partners Contact Us Support Us Login Support Us For the Community by the Community Connecting Django developers from India & across the globe, to share, learn, and grow together. Subscribe for Updates What is Django India? A vibrant community of Django developers, primarily from India. It unites passionate individuals who are eager to learn, share knowledge, and collaborate on innovative projects. Through our meetups, workshops, and online events, members actively contribute to the growth of the Django ecosystem in India. Learn More 0 + Active Contributors & counting till date 0 + Subscribers loving Django India 0 + GitHub Stars till date Our Goals Learning Foster an environment of knowledge sharing by organizing regular meetups, workshops, and webinars where members can learn from industry experts and peers. Networking Networking is another key goal, with a focus on facilitating events such as hackathons, conferences, and social gatherings to help developers connect and collaborate. Collaborative Projects To promote collaborative projects, open-source initiatives and local development for the community. Recognizing and rewarding contributions to promote OSS. Awareness Spreading Django's benefits through talks, blogs, and social media, along with successful case studies, will drive its adoption in diverse industries. Join our community! Click the icons to follow our accounts and never miss updates on upcoming events, contributions, and more! Click here Get the latest updates Enter your email to receive early notifications about upcoming events, projects, newsletters and more! Support admin@djangoindia.org Support our Django India Community! Donate, volunteer, or spread the word to help us grow and empower developers across India. Support Us Upcoming Events Upcoming events are temporarily unavailable due to some reason They will be available soon.\n\n[https://www.djangoindia.org/contact-us]\nDjango India Home Events Sponsors and partners Contact Us Support Us Login Support Us Contact Us Have a question or want to collaborate? We'd love to hear from you! Fill out the form below or reach out to us directly at admin@djangoindia.org. We look forward to connecting with you!",
+   "email_candidates": [
+    {
+     "email": "admin@djangoindia.org",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "d33f0761c8-ref",
+   "company": "Django India",
+   "website": "https://djangoindia.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript. Topics: articles, blogs, conference, django, django-rest-framework, docker, docker-compose, events, good-first-issue, hacktoberfest, javascript, nextjs, no-code, python, resources, typescript, ui",
+   "site_text": "[https://www.djangoindia.org/home]\nDjango India Home Events Sponsors and partners Contact Us Support Us Login Support Us For the Community by the Community Connecting Django developers from India & across the globe, to share, learn, and grow together. Subscribe for Updates What is Django India? A vibrant community of Django developers, primarily from India. It unites passionate individuals who are eager to learn, share knowledge, and collaborate on innovative projects. Through our meetups, workshops, and online events, members actively contribute to the growth of the Django ecosystem in India. Learn More 0 + Active Contributors & counting till date 0 + Subscribers loving Django India 0 + GitHub Stars till date Our Goals Learning Foster an environment of knowledge sharing by organizing regular meetups, workshops, and webinars where members can learn from industry experts and peers. Networking Networking is another key goal, with a focus on facilitating events such as hackathons, conferences, and social gatherings to help developers connect and collaborate. Collaborative Projects To promote collaborative projects, open-source initiatives and local development for the community. Recognizing and rewarding contributions to promote OSS. Awareness Spreading Django's benefits through talks, blogs, and social media, along with successful case studies, will drive its adoption in diverse industries. Join our community! Click the icons to follow our accounts and never miss updates on upcoming events, contributions, and more! Click here Get the latest updates Enter your email to receive early notifications about upcoming events, projects, newsletters and more! Support admin@djangoindia.org Support our Django India Community! Donate, volunteer, or spread the word to help us grow and empower developers across India. Support Us Upcoming Events Upcoming events are temporarily unavailable due to some reason They will be available soon.\n\n[https://www.djangoindia.org/contact-us]\nDjango India Home Events Sponsors and partners Contact Us Support Us Login Support Us Contact Us Have a question or want to collaborate? We'd love to hear from you! Fill out the form below or reach out to us directly at admin@djangoindia.org. We look forward to connecting with you!",
+   "email_candidates": [
+    {
+     "email": "bhuvnesh875@gmail.com",
+     "where": "GitHub commits (djangoindia)",
+     "kind": "personal",
+     "name": "Bhuvnesh",
+     "commits": 62
+    },
+    {
+     "email": "yadavanurag1310@gmail.com",
+     "where": "GitHub commits (djangoindia)",
+     "kind": "personal",
+     "name": "Anurag Yadav",
+     "commits": 10
+    },
+    {
+     "email": "mka342@gmail.com",
+     "where": "GitHub commits (djangoindia)",
+     "kind": "personal",
+     "name": "Mohsen",
+     "commits": 4
+    },
+    {
+     "email": "pisdak79@gmail.com",
+     "where": "GitHub commits (djangoindia)",
+     "kind": "personal",
+     "name": "Kuldeep Pisda",
+     "commits": 4
+    },
+    {
+     "email": "jaindaksh42@gmail.com",
+     "where": "GitHub commits (djangoindia)",
+     "kind": "personal",
+     "name": "Daksh P. Jain",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "72729de94e",
+   "company": "ACE- The Association of Computer Enthusiasts",
+   "website": "https://vipsace.org/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "The Association of Computer Enthusiasts. Languages: Astro, JavaScript, Python, TypeScript. Topics: astro, axios, context-api, custom-hooks, firebase, firestore-database, gatsby, gcp, graphql, javascript, lottie-animation, monorepo, nx, prismic, react-spring, react-table, serverless-functions, styled-components, typescript, zustand",
+   "site_text": "[https://vipsace.org/]\nEvents Members Projects Achievements Magazine Gallery Hackathons Association of Computer Enthusiasts Vivekananda Institute of Professional Studies, AU- Block (Outer Ring Road), Pitampura, Delhi - 110034 Events Members Projects Achievements Magazine Gallery Hackathons Follow Us LinkedIn Instagram Twitter Who we are ACE - Association of Computer Enthusiasts is the Technical Society of VSIT,Vivekananda Institute of Professional Studies-Technical Campus, Pitampura. We are a group of talented and curious technology enthusiasts who are specialised in different fields of technology, namely quizzing, programming, web development, digital imaging, and video editing. We take part in and organise workshops, seminars, hackathons, learnathons, ideathons, B-Plan competitions, programming competitions, meetups and much more. Since we are a members-first organisation, one of our main objectives is to make sure that no one ever gets left behind. Meet our team We take pride in building applications that help to make the world a better place to live in. We have published lots of research paper in international journals. To know more about the upcoming events and opportunities, connect with us via our newsletter Magazine To know more about the upcoming events and opportunities, connect with us via our newsletter Events Members Projects Achievements Magazine Magazine Gallery Selection Process Code of Conduct © 2025 ACE-VSIT, All Rights Reserved | Github",
+   "email_candidates": [
+    {
+     "email": "csi-sb-ace@vips.edu",
+     "where": "job posting",
+     "kind": "other"
+    },
+    {
+     "email": "aayushking37@gmail.com",
+     "where": "GitHub commits (ACE-VSIT)",
+     "kind": "personal",
+     "name": "Aayush Chopra",
+     "commits": 7
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "f7758b4295",
+   "company": "Widle",
+   "website": "https://widle.studio/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We Build.We Scale. We Automate! - Hire Software Engineers!. Languages: Dart, Python, Rust, TypeScript. Topics: dart, flutter, google, google-maps-api, lat-coordinate, lat-long, map, mobile-app, video, video-watermark",
+   "site_text": "[https://widle.studio/]\nTitle: Innovative AI, Cloud software solutions & Retool expertise to power your business!\n\nURL Source: https://widle.studio/\n\nMarkdown Content:\nSchedule 1:1 Meeting\n\n[WIDLE](https://widle.studio/home)\n\n*   [HOME](https://widle.studio/home)\n*   [OUR SERVICES](https://widle.studio/services)[Retool Development](https://widle.studio/retool-development)[Hire Retool Developer](https://widle.studio/hire-retool-developer)[Retool Custom Components](https://widle.studio/retool-custom-components) \n*   [PROJECTS](https://widle.studio/projects)\n*   [ABOUT US](https://widle.studio/about-us)\n*   [CAREER AT WIDLE](https://widle.studio/careers)\n*   [CONTACT US](https://widle.studio/contact-us)\n\n![Image 7: image](https://widle.studio/assets/images/s-1.png)\n\nA Creative Software Engineering Agency!\n\n##### We Build.We Scale. We Automate!\n\nInnovative software solutions & Retool expertise to power your business!\n\n[View Projects](https://widle.studio/projects)\n\n# Your Retool Partner\n\n[![Image 8: retool](https://widle.studio/assets/images/Retool%20Agency%20Partner%20Badge.png)](https://www.credly.com/users/widle)\n\n[![Image 9: Image 1](https://widle.studio/assets/images/plateform-1.png)](https://www.credly.com/badges/3ebccc04-c3d2-4ff5-a19a-1c0980bead64/public_url)[![Image 10: Image 2](https://widle.studio/assets/images/plateform-2.png)](https://www.credly.com/badges/e4ca8c40-6119-499a-ab6a-11e62ba65243/public_url)[![Image 11: Image 3](https://widle.studio/assets/images/plateform-3.png)](https://www.credly.com/badges/d093be77-4a77-4c2c-bd35-4841d950f593/public_url)[![Image 12: Image 4](https://widle.studio/assets/images/plateform-4.png)](https://www.credly.com/badges/a242a80b-5fcc-4476-9ab4-12c6ccee4722/public_url)\n\n🖤 Speed up time-to-market\n\n![Image 13](https://widle.studio/assets/images/thunder+(1).png) Increase agility\n\n![Image 14](https://widle.studio/assets/images/money-bag%20(2).png) Lower development costs\n\n![Image 15: Image 1](https://widle.studio/assets/images/project-1.png)![Image 16: Image 2](https://widle.studio/assets/images/project-2.png)![Image 17: Image 3](https://widle.studio/assets/images/project-3.png)![Image 18: Image 4](https://widle.studio/assets/images/project-4.png)![Image 19: Image 5](https://widle.studio/assets/images/project-5.png)![Image 20: Image 1](https://widle.studio/assets/images/project-1.png)![Image 21: Image 2](https://widle.studio/assets/images/project-2.png)![Image 22: Image 3](https://widle.studio/assets/images/project-3.png)![Image 23: Image 4](https://widle.studio/assets/images/project-4.png)![Image 24: Image 5](https://widle.studio/assets/images/project-5.png)\n\nHow do we do?\n\n![Image 25: Image 5](https://widle.studio/assets/images/retool-icon1.png)\n## Tell Us What You Need\n\nWe specialize in developing Retool app that evolve seamlessly with your business.\n\n![Image 26: Image 5](https://widle.studio/assets/images/personcall.png)\n## Quick Call\n\nWe can assist you in building a Retool app that scales with your business.\n\n![Image 27: Image 5](https://widle.studio/assets/images/comment.png)\n## Detailed Price Quotation\n\nComprehensive Estimates Tailored to Your Project Needs\n\n![Image 28: Image 5](https://widle.studio/assets/images/start-work.png)\n## Start of Work\n\nInitiate Your Journey Toward Success with a Dedicated Team\n\n![Image 29: Image 5](https://widle.studio/assets/images/delivery.png)\n## Receive Delivery\n\nWe provide comprehensive training and support for all our Retool clients.\n\n![Image 30: Image 5](https://widle.studio/assets/images/futur.png)\n## Support for the Future\n\nWe provide training and support to all our Retool clients.\n\nRecent Projects\n\nBring to better disruptive view of innovation.\n\n[![Image 31: image](https://widle.studio/assets/images/plus.png) ![Image 32: image](https://widle.studio/assets/images/project-7.png) Xaver Sports Retool App](javascript:void(0))\n\n[![Image 33: image](https://widle.studio/assets/images/plus.png) ![Image 34: image](https://widle.studio/assets/images/cli",
+   "email_candidates": [
+    {
+     "email": "info@widle.studio",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "f7758b4295-ref",
+   "company": "Widle",
+   "website": "https://widle.studio/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We Build.We Scale. We Automate! - Hire Software Engineers!. Languages: Dart, Python, Rust, TypeScript. Topics: dart, flutter, google, google-maps-api, lat-coordinate, lat-long, map, mobile-app, video, video-watermark",
+   "site_text": "[https://widle.studio/]\nTitle: Innovative AI, Cloud software solutions & Retool expertise to power your business!\n\nURL Source: https://widle.studio/\n\nMarkdown Content:\nSchedule 1:1 Meeting\n\n[WIDLE](https://widle.studio/home)\n\n*   [HOME](https://widle.studio/home)\n*   [OUR SERVICES](https://widle.studio/services)[Retool Development](https://widle.studio/retool-development)[Hire Retool Developer](https://widle.studio/hire-retool-developer)[Retool Custom Components](https://widle.studio/retool-custom-components) \n*   [PROJECTS](https://widle.studio/projects)\n*   [ABOUT US](https://widle.studio/about-us)\n*   [CAREER AT WIDLE](https://widle.studio/careers)\n*   [CONTACT US](https://widle.studio/contact-us)\n\n![Image 7: image](https://widle.studio/assets/images/s-1.png)\n\nA Creative Software Engineering Agency!\n\n##### We Build.We Scale. We Automate!\n\nInnovative software solutions & Retool expertise to power your business!\n\n[View Projects](https://widle.studio/projects)\n\n# Your Retool Partner\n\n[![Image 8: retool](https://widle.studio/assets/images/Retool%20Agency%20Partner%20Badge.png)](https://www.credly.com/users/widle)\n\n[![Image 9: Image 1](https://widle.studio/assets/images/plateform-1.png)](https://www.credly.com/badges/3ebccc04-c3d2-4ff5-a19a-1c0980bead64/public_url)[![Image 10: Image 2](https://widle.studio/assets/images/plateform-2.png)](https://www.credly.com/badges/e4ca8c40-6119-499a-ab6a-11e62ba65243/public_url)[![Image 11: Image 3](https://widle.studio/assets/images/plateform-3.png)](https://www.credly.com/badges/d093be77-4a77-4c2c-bd35-4841d950f593/public_url)[![Image 12: Image 4](https://widle.studio/assets/images/plateform-4.png)](https://www.credly.com/badges/a242a80b-5fcc-4476-9ab4-12c6ccee4722/public_url)\n\n🖤 Speed up time-to-market\n\n![Image 13](https://widle.studio/assets/images/thunder+(1).png) Increase agility\n\n![Image 14](https://widle.studio/assets/images/money-bag%20(2).png) Lower development costs\n\n![Image 15: Image 1](https://widle.studio/assets/images/project-1.png)![Image 16: Image 2](https://widle.studio/assets/images/project-2.png)![Image 17: Image 3](https://widle.studio/assets/images/project-3.png)![Image 18: Image 4](https://widle.studio/assets/images/project-4.png)![Image 19: Image 5](https://widle.studio/assets/images/project-5.png)![Image 20: Image 1](https://widle.studio/assets/images/project-1.png)![Image 21: Image 2](https://widle.studio/assets/images/project-2.png)![Image 22: Image 3](https://widle.studio/assets/images/project-3.png)![Image 23: Image 4](https://widle.studio/assets/images/project-4.png)![Image 24: Image 5](https://widle.studio/assets/images/project-5.png)\n\nHow do we do?\n\n![Image 25: Image 5](https://widle.studio/assets/images/retool-icon1.png)\n## Tell Us What You Need\n\nWe specialize in developing Retool app that evolve seamlessly with your business.\n\n![Image 26: Image 5](https://widle.studio/assets/images/personcall.png)\n## Quick Call\n\nWe can assist you in building a Retool app that scales with your business.\n\n![Image 27: Image 5](https://widle.studio/assets/images/comment.png)\n## Detailed Price Quotation\n\nComprehensive Estimates Tailored to Your Project Needs\n\n![Image 28: Image 5](https://widle.studio/assets/images/start-work.png)\n## Start of Work\n\nInitiate Your Journey Toward Success with a Dedicated Team\n\n![Image 29: Image 5](https://widle.studio/assets/images/delivery.png)\n## Receive Delivery\n\nWe provide comprehensive training and support for all our Retool clients.\n\n![Image 30: Image 5](https://widle.studio/assets/images/futur.png)\n## Support for the Future\n\nWe provide training and support to all our Retool clients.\n\nRecent Projects\n\nBring to better disruptive view of innovation.\n\n[![Image 31: image](https://widle.studio/assets/images/plus.png) ![Image 32: image](https://widle.studio/assets/images/project-7.png) Xaver Sports Retool App](javascript:void(0))\n\n[![Image 33: image](https://widle.studio/assets/images/plus.png) ![Image 34: image](https://widle.studio/assets/images/cli",
+   "email_candidates": [
+    {
+     "email": "limanibhavik@gmail.com",
+     "where": "GitHub commits (Widle-Studio)",
+     "kind": "personal",
+     "name": "Bhavik",
+     "commits": 78
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  }
+ ]
+}

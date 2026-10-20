@@ -1,26 +1,27 @@
 # Tracker
 
-_Updated 2026-10-20T13:42:25Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-20T17:39:36Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 230 · **Sent:** 230 · **Replies:** 31 (13%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 230 · **Sent:** 230 · **Replies:** 33 (14%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
-| new | 203 |
-| skipped | 5 |
-| no_contact | 846 |
+| new | 208 |
+| skipped | 10 |
+| no_contact | 875 |
 | low_fit | 570 |
-| followup_1 | 51 |
-| followup_2 | 80 |
-| replied | 31 |
+| researching | 180 |
+| followup_1 | 50 |
+| followup_2 | 66 |
+| replied | 33 |
 | bounced | 12 |
-| closed | 56 |
+| closed | 69 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 123 | 15 |
+| medvault | 123 | 17 |
 | canopy | 68 | 12 |
 | basepair | 39 | 4 |
 
@@ -28,8 +29,8 @@ _Updated 2026-10-20T13:42:25Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 189 | 24 |
-| short | 41 | 7 |
+| role | 189 | 25 |
+| short | 41 | 8 |
 
 ## Replies
 
@@ -54,11 +55,13 @@ _Updated 2026-10-20T13:42:25Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **Xero** —  <careers@xero.com> replied 2026-09-30
 - **ColoredCow** — Vaibhav Rathore <vaibhav@coloredcow.com> replied 2026-10-01
 - **Hackerrank** —  <internship-queries@hackerrank.com> replied 2026-10-14
+- **Nagu** — kj1352 <nikhilkj24@gmail.com> replied 2026-10-20
 - **HivarSoft** — Hitesh Kumar <dev.hitesh.k@gmail.com> replied 2026-10-05
 - **Pocket** —  <hey@heypocket.com> replied 2026-10-08
 - **GattyWorks** —  <hello@gattyworks.com> replied 2026-10-09
 - **Izinga Software Private Limited** —  <hello@robustest.com> replied 2026-10-08
 - **xPay** —  <hello@xpaycheckout.com> replied 2026-10-08
+- **Syook** —  <careers@syook.com> replied 2026-10-20
 - **nilenso** —  <careers@nilenso.com> replied 2026-10-19
 - **Greenzie** — Charles Brian Quinn <cbq@greenzie.com> replied 2026-10-06
 - **Srapsware** — Shiv Singh <shiv@srapsware.com> replied 2026-10-12

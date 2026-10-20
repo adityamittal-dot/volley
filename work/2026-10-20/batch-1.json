@@ -1,0 +1,279 @@
+{
+ "leads": [
+  {
+   "id": "991b267d51",
+   "company": "Vijevira",
+   "website": "https://vijevira.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Astro, HTML, Python, TypeScript",
+   "site_text": "[https://vijevira.in]\nTitle: Vijendra Kumar – Software Engineer | Backend Specialist | AI & Web Developer\n\nURL Source: https://vijevira.in/\n\nMarkdown Content:\n## 👋 Hi, I'm Vijendra Kumar\n\nI'm a **Senior Software Engineer at Apsona**, based in Bangalore, India, where I focus on **backend engineering, Salesforce automation,** and **DevOps** — things like Vault-based secrets management, triggered merge automation, and scheduler tooling.\n\nMy career started at **TCS** in 2021, and I later spent time at **Pratishthan Software Ventures** building real-time payment infrastructure for banks — **SEPA**, **SWIFT**, **NACH**, **QCBIP**, and **UAERT**. Outside my day job I build side projects, from multiplayer games to **AI-powered tools** and SaaS platforms, and I've solved **350+ coding problems** across various platforms.\n\n### 🛠️ What I work with\n\n*   Node.js, Python, TypeScript, Shell scripting\n*   PostgreSQL, Redis, Node-RED\n*   HashiCorp Vault, Salesforce, AWS Lambda/SQS\n*   Cloudflare Workers, Durable Objects, Docker, Turborepo\n\n### 🔗 Explore\n\n*   📖 Read the full story on [About](https://vijevira.in/about)\n*   💻 Browse what I've built in [Projects](https://vijevira.in/projects)\n*   📄 See my full career history on my [Resume](https://vijevira.in/resume)\n\n### 🚀 Let's Build Something Amazing\n\nI'm always open to exciting collaborations, freelance gigs, or full-time roles where I can solve real problems, learn with smart folks, and make a meaningful impact. [Say hello](mailto:vijevira@engineer.com) — let's build something awesome together!\n",
+   "email_candidates": [
+    {
+     "email": "vijevira@gmail.com",
+     "where": "GitHub commits (vijevira)",
+     "kind": "personal",
+     "name": "Vijendra Kumar",
+     "commits": 77
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "c3f328326e",
+   "company": "KrypC Technologies",
+   "website": "https://www.krypc.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We help enterprises and start up innovators to build, deploy and manage innovative blockchain solutions with minimal efforts, cost and risk. Languages: Go, TypeScript",
+   "site_text": "[https://www.krypc.com]\nTitle: AI-Converged Blockchain for Trusted Enterprise Automation\n\nURL Source: https://www.krypc.com/\n\nMarkdown Content:\nToggle navigation[![Image 7: KrypC Logo](https://www.krypc.com/static/krypc_New/img/logo.svg)](https://www.krypc.com/)\n\n*   [Home](https://www.krypc.com/)\n*   [Products](https://www.krypc.com/#)\n    *   [V-Board AI-driven video intelligence & remote verification](https://www.krypc.com/vboard)\n\n    *   [Grid Core Trusted Digital Layer for Renewable Energy and Carbon](https://www.krypc.com/gridcore)\n\n    *   [Krypcore Web 3.0 A Web3 Development Toolkit](https://beta.krypcore.com/)\n\n    *   [StablePay Instant Global Settlement Rails for Modern Enterprises Worldwide](https://www.krypc.com/stablepay)\n\n    *   [OmegaYield Digital Asset Hedge Fund Operations](https://www.krypc.com/omega)\n\n    *   [Sensor Network Real-Time Crypto Risk and Compliance Intelligence for Institutions](https://www.krypc.com/sensor)\n\n    *   [SettleX Redefining inter-operator trust with AI and blockchain](https://www.krypc.com/settlex)\n\n    *   [Data Prism Global Analytics Without Moving Your Data](https://www.krypc.com/dataprism)\n\n*   [Industries](https://www.krypc.com/#)\n    *   [Telecommunications](https://www.krypc.com/telco)\n\n    *   [Energy & Utilities](https://www.krypc.com/energy)\n\n    *   [Financial Services](https://www.krypc.com/finacialservices)\n\n*   [Services](https://www.krypc.com/services)\n*   [Xygle](https://www.krypc.com/xygle)\n*   [About](https://www.krypc.com/about-us)\n\n*   [Contact us](https://www.krypc.com/contactus)\n\n[![Image 8: KrypC Logo](https://www.krypc.com/static/krypc_New/img/logo.svg)](https://www.krypc.com/)\n\n[](https://www.krypc.com/#)\n\n*   \n[Products](https://www.krypc.com/)\n    *   [V-Board](https://www.krypc.com/vboard)\n    *   [Grid Core](https://www.krypc.com/gridcore)\n    *   [Krypcore Web 3.0](https://beta.krypcore.com/)\n    *   [Stable Pay](https://www.krypc.com/stablepay)\n    *   [OmegaYield](https://www.krypc.com/omega)\n    *   [Sensor Network](https://www.krypc.com/sensor)\n    *   [SettleX](https://www.krypc.com/settlex)\n    *   [Data Prism](https://www.krypc.com/dataprism)\n\n*   \n[Industries](https://www.krypc.com/)\n    *   [Telecommunications](https://www.krypc.com/telco)\n    *   [Energy & Utilities](https://www.krypc.com/energy)\n    *   [Financial Services](https://www.krypc.com/finacialservices)\n\n*   [Services](https://www.krypc.com/services)\n*   [Xygle](https://www.krypc.com/xygle)\n*   [Company](https://www.krypc.com/about-us)\n*   [Contact us](https://www.krypc.com/contactus)\n\n# AI-Converged Blockchain   \nfor Trusted Enterprise Automation\n\nTransform your complex, multi-party operations with verifiable data, automated workflows, and industry-grade digital infrastructure\n\n[Learn More](https://www.krypc.com/services)\n\n![Image 9: polygon](https://www.krypc.com/static/krypc_New/img/svg/client/polygon.svg)\n\n![Image 10: algorand_cryptocurrency_protocol](https://www.krypc.com/static/krypc_New/img/svg/client/algorand.svg)\n\n![Image 11: deca4_advisory](https://www.krypc.com/static/krypc_New/img/svg/client/deca4.svg)\n\n![Image 12: avalanche_dapp](https://www.krypc.com/static/krypc_New/img/svg/client/avalanche.svg)\n\n![Image 13: Placeholder](https://www.krypc.com/static/krypc_New/img/svg/client/hedera.svg)\n\n![Image 14: heineken_client](https://www.krypc.com/static/krypc_New/img/svg/client/heineken.svg)\n\n![Image 15: maersk_client](https://www.krypc.com/static/krypc_New/img/svg/client/maersk.svg)\n\n![Image 16: microsoft_](https://www.krypc.com/static/krypc_New/img/svg/client/microsoft.svg)\n\n![Image 17: polygon](https://www.krypc.com/static/krypc_New/img/svg/client/polygon.svg)\n\n![Image 18: algorand_cryptocurrency_protocol](https://www.krypc.com/static/krypc_New/img/svg/client/algorand.svg)\n\n![Image 19: deca4_advisory](https://www.krypc.com/static/krypc_New/img/svg/client/deca4.svg)\n\n![Image 20: avalanche_dapp](https://www.krypc.com/static/krypc_New/img/svg/client/avalanche.svg)\n\n![Image 2",
+   "email_candidates": [
+    {
+     "email": "abhishek.r@krypc.com",
+     "where": "GitHub commits (krypc-code)",
+     "kind": "personal",
+     "name": "abhishek",
+     "commits": 16
+    },
+    {
+     "email": "pratibha.s@krypc.com",
+     "where": "GitHub commits (krypc-code)",
+     "kind": "personal",
+     "name": "Pratibha",
+     "commits": 2
+    },
+    {
+     "email": "anitha.r@krypc.com",
+     "where": "GitHub commits (krypc-code)",
+     "kind": "personal",
+     "name": "Anitha",
+     "commits": 2
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "20f4517786",
+   "company": "Kloudi",
+   "website": "https://kloudi.tech",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Universal Command Line for your tools. Languages: JavaScript, TypeScript. Topics: cli, universal-command-line",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "nitishmehrotra@gmail.com",
+     "where": "GitHub commits (getkloudi)",
+     "kind": "personal",
+     "name": "Nitish Mehrotra",
+     "commits": 40
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "2be19a29ff",
+   "company": "PyTorn",
+   "website": "https://pytorn.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Building tools to help developers to build things. Languages: CSS, Python. Topics: hackathon, library, module, mvc, otp, pip, python, python-library, python-mvc, tornado-framework, tornado-mvc, web-framework",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "shubhodeep9@gmail.com",
+     "where": "GitHub commits (pytorn)",
+     "kind": "personal",
+     "name": "Shubhodeep Mukherjee",
+     "commits": 56
+    },
+    {
+     "email": "jprrahultiwari@gmail.com",
+     "where": "GitHub commits (pytorn)",
+     "kind": "personal",
+     "name": "invinciblycool",
+     "commits": 8
+    },
+    {
+     "email": "alan.souza.fagundes@gmail.com",
+     "where": "GitHub commits (pytorn)",
+     "kind": "personal",
+     "name": "Alan",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "3818fced9a",
+   "company": "Better Opinions",
+   "website": "https://betteropinions.in/",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Bengaluru, KA, India; Gurugram, HR, India; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 12. Prediction market of India Better Opinions is a prediction market of India which allows users to trade their opinion on everyday topics. For example, If you think India Covid cases will decrease by 10% this week, you can trade this insight and win money if correct. Our aim is to make the app inclusive for all. The stock market unfortunately can be very technical and opaque and therefore isn’t always accessible for all. However, when we start allowing trading in categories such as cricket, politics and entertainment, not only do we make trading more relatable, but we also help improve their financial literacy. Fintech, Consumer, B2B, Gaming, Consumer, Gaming, India, South Asia, Remote, Fully Remote",
+   "site_text": "[https://betteropinions.in/]\nTitle: Better Opinions - Notice\n\nURL Source: https://betteropinions.in/\n\nMarkdown Content:\n## Dear Users\n\nBetter Opinions is no longer functional since **2023**.\n\nWe have had to make this unfortunate decision due to business reasons.\n\nHowever, users have already withdrawn funds from their KYC-verified accounts.\n\nPlease contact us at [help@betteropinions.in](mailto:help@betteropinions.in) in case of any queries.\n\nRegards,  \nTeam Better Opinions\n",
+   "email_candidates": [
+    {
+     "email": "samay@betteropinions.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "SAMAY JAIN",
+     "role": "Founder"
+    },
+    {
+     "email": "soumyajit@betteropinions.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Soumyajit Das",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Gurugram · YC",
+   "referral": false
+  },
+  {
+   "id": "459a717e87",
+   "company": "rahulv.dev",
+   "website": "https://rahulv.dev",
+   "title": "Software Engineering (no public opening)",
+   "location": "Delhi NCR",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Contributing to open-source.. Languages: TypeScript, Vue",
+   "site_text": "[https://rahulv.dev]\nTitle: Rahul Vashishtha\n\nURL Source: https://rahulv.dev/\n\nMarkdown Content:\n![Image 1: Rahul's avatar](https://rahulv.dev/me.png)\n\nSoftware engineer and product builder.\n\nI've spent about a decade building products across different domains, from interfaces and developer tools to backend systems, games, and platforms. I'm still curious about all of it.\n\nI like working close to the product: understanding the problem, designing the system, building it, and seeing it used.\n\nOutside work, I maintain [Igris Labs](https://igrislabs.com/), a small software lab for open-source projects, experiments, and things I want to exist.\n\nYou can find me on [GitHub](https://github.com/rahul-vashishtha), read my [writing](https://rahulv.dev/blog), or take a look at my [résumé](https://docs.google.com/document/d/1ntVH-w_4ZJu0MQ3bv0dg7SQNvwIaoKdZXtOK_i30PDU/export?format=pdf). If you'd like to talk, [schedule a call](https://calendly.com/rahul-vashishtha/30min) or .\n\n## Selected work\n\nThese days I work with TypeScript, Vue, Nuxt, Java, Go, PostgreSQL, and AWS. The tools change with the problem.\n\n## Experience\n\n*   Engineering Team Lead · Dropt\n\n2025 – 2026\n*   Tech Lead · Aristocrat Technologies\n\n2023 – 2024\n*   Chief Technology Officer · Rinnegan Industries\n\n2022 – 2023\n\n[Full experience](https://rahulv.dev/experience)\n## Writing\n\n[All writing](https://rahulv.dev/blog)\n",
+   "email_candidates": [
+    {
+     "email": "rahulvashistha96@gmail.com",
+     "where": "GitHub commits (rahulv-official)",
+     "kind": "personal",
+     "name": "Rahul Vashishtha",
+     "commits": 7
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "4883f323d5",
+   "company": "Indian Game Project",
+   "website": "https://www.igameproject.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "New Delhi,India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Open Source Game Development Based on Javascript. Languages: CSS, HTML, JavaScript, TypeScript. Topics: canvas, css3, font-awesome, game-development, html5, javascript, jquery",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "r.vignesh149@gmail.com",
+     "where": "GitHub commits (igameproject)",
+     "kind": "personal",
+     "name": "vignesh r",
+     "commits": 44
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "58c90d9084",
+   "company": "Binary Orbit",
+   "website": "https://www.binaryorbit.tech/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Gautam Budh Nagar, A Block, Sector 16, Noida, Uttar Pradesh 201301",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, TypeScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "anissh946@gmail.com",
+     "where": "GitHub commits (TheBinaryOrbit)",
+     "kind": "personal",
+     "name": "7anish",
+     "commits": 93
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Noida · active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "81dc47b462",
+   "company": "ODWEN",
+   "website": "https://www.odwen.co.in",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Delhi, DL, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 21. AirBnB for Small Warehouses ODWEN enables India’s 60m SME's to find curated warehouses in minutes at prices 20% below current market and transport their inventory in and out with just a few clicks. With 2000+ warehouses across 180 locations, we are the largest integrated 3PL/ warehouse network in India. Marketplace, Warehouse Management Tech, B2B, B2B, Supply Chain and Logistics, India, South Asia, Remote, Partly Remote",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "vijay@odwen.co.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "VIJAY ANAND BHAGAVATULA",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · YC",
+   "referral": false
+  },
+  {
+   "id": "c12ba88558",
+   "company": "Quantorithm",
+   "website": "https://quantorithm.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "A rhythm that ripples the quantum. Languages: TypeScript",
+   "site_text": "[https://quantorithm.com]\nTitle: Quantorithm™\n\nURL Source: https://quantorithm.com/\n\nMarkdown Content:\n![Image 1: Background](https://quantorithm.com/images/banner.jpg)\n\n## Building Custom Software & Innovative Products\n\nWe build custom software and proprietary products to solve your most complex business challenges.\n\n## Our Core Offerings\n\nDiscover our specialized services and innovative products.\n\n![Image 2: Team collaborating](https://quantorithm.com/images/idea.svg)\n\n## Your Partner in Custom Software Development\n\nWe are a small, dedicated team of software experts specializing in contract-based work. Our passion is building bespoke apps, websites, and software from the ground up to meet your unique business needs and specifications.\n\n![Image 3: Graphs and data](https://quantorithm.com/images/hands-up.svg)\n\n## Our Innovative Product Ecosystem\n\nIn addition to our custom development services, we have created our own suite of innovative software products. We offer powerful, ready-to-use solutions in areas like e-commerce, digital business cards, and IoT to help you grow your business more efficiently.\n\n[![Image 4: Quantorithm Logo](https://quantorithm.com/logo.svg)Quantorithm™](https://quantorithm.com/)\nWe are a software company that builds custom applications for clients and develops our own innovative products.\n\n© 2026 Quantorithm™ Pvt Ltd. All rights reserved.\n",
+   "email_candidates": [
+    {
+     "email": "luckycreationsindia@gmail.com",
+     "where": "GitHub commits (quantorithmindia)",
+     "kind": "personal",
+     "name": "Lokesh Jain",
+     "commits": 11
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  }
+ ]
+}

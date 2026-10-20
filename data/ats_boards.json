@@ -9,6 +9,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:adaptyv": {
+  "company": "Adaptyv",
+  "found": "2026-10-20",
+  "website": "https://www.adaptyvbio.com/"
+ },
  "ashby:addi": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -164,6 +169,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:circuithub": {
+  "company": "Circuithub",
+  "found": "2026-10-20",
+  "website": "https://circuithub.com"
+ },
  "ashby:claimsorted": {
   "company": "ClaimSorted",
   "found": "2026-10-13",
@@ -309,6 +319,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:ello": {
+  "company": "Ello",
+  "found": "2026-10-20",
+  "website": "https://www.ello.com"
+ },
  "ashby:elyos": {
   "company": "Elyos AI",
   "found": "2026-10-14",
@@ -374,6 +389,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:greatquestion": {
+  "company": "Great Question",
+  "found": "2026-10-20",
+  "website": "https://greatquestion.co"
+ },
  "ashby:grow-therapy": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -403,6 +423,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:healthtech-1": {
+  "company": "Healthtech 1",
+  "found": "2026-10-20",
+  "website": "https://www.healthtech1.uk/"
  },
  "ashby:helmguard": {
   "company": "Cargo",
@@ -473,6 +498,16 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:kivo-health": {
+  "company": "Kivo Health",
+  "found": "2026-10-20",
+  "website": "https://kivohealth.com"
+ },
+ "ashby:kodex": {
+  "company": "Kodex",
+  "found": "2026-10-20",
+  "website": "https://www.kodexglobal.com"
  },
  "ashby:langchain": {
   "company": "Cargo",
@@ -573,6 +608,11 @@
   "company": "Middesk",
   "found": "2026-10-14",
   "website": "https://middesk.com"
+ },
+ "ashby:modal": {
+  "company": "Cargo",
+  "found": "2026-10-20",
+  "website": "https://getcargo.io"
  },
  "ashby:monk": {
   "company": "Cargo",
@@ -679,6 +719,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:opengov": {
+  "company": "Cargo",
+  "found": "2026-10-20",
+  "website": "https://getcargo.io"
+ },
  "ashby:optro": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -693,6 +738,11 @@
   "company": "Paddle",
   "found": "2026-10-14",
   "website": "https://paddle.com"
+ },
+ "ashby:parameter": {
+  "company": "Cargo",
+  "found": "2026-10-20",
+  "website": "https://getcargo.io"
  },
  "ashby:peec": {
   "company": "Cargo",
@@ -744,6 +794,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:rallyuxr": {
+  "company": "Rally",
+  "found": "2026-10-20",
+  "website": "https://www.rallyuxr.com/"
+ },
  "ashby:ramp": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -767,6 +822,11 @@
  "ashby:reflow": {
   "company": "Cargo",
   "found": "2026-10-14",
+  "website": "https://getcargo.io"
+ },
+ "ashby:rematiq-gmbh": {
+  "company": "Cargo",
+  "found": "2026-10-20",
   "website": "https://getcargo.io"
  },
  "ashby:render": {
@@ -824,6 +884,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:searchable": {
+  "company": "Cargo",
+  "found": "2026-10-20",
+  "website": "https://getcargo.io"
+ },
  "ashby:shepherd": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -873,6 +938,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:spruceid": {
+  "company": "SpruceID",
+  "found": "2026-10-20",
+  "website": "https://www.spruceid.com"
  },
  "ashby:squint": {
   "company": "Cargo",
@@ -947,6 +1017,11 @@
  "ashby:togal-ai": {
   "company": "Cargo",
   "found": "2026-10-14",
+  "website": "https://getcargo.io"
+ },
+ "ashby:tremendous": {
+  "company": "Cargo",
+  "found": "2026-10-20",
   "website": "https://getcargo.io"
  },
  "ashby:trunk": {
@@ -1049,10 +1124,20 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:wordsmith": {
+  "company": "Cargo",
+  "found": "2026-10-20",
+  "website": "https://getcargo.io"
+ },
  "ashby:workwhilejobs": {
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:zensors": {
+  "company": "Zensors",
+  "found": "2026-10-20",
+  "website": "https://www.zensors.com"
  },
  "ashby:zip": {
   "company": "Cargo",
@@ -1334,6 +1419,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "greenhouse:planitroillc": {
+  "company": "Cargo",
+  "found": "2026-10-20",
+  "website": "https://getcargo.io"
+ },
  "greenhouse:procaresolutions": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -1379,6 +1469,11 @@
   "found": "2026-10-14",
   "website": "https://sourcegraph.com"
  },
+ "greenhouse:supermetricsoy": {
+  "company": "Cargo",
+  "found": "2026-10-20",
+  "website": "https://getcargo.io"
+ },
  "greenhouse:superset": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -1389,10 +1484,20 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "greenhouse:tenstorrent": {
+  "company": "Tenstorrent",
+  "found": "2026-10-20",
+  "website": "https://tenstorrent.com"
+ },
  "greenhouse:thetradedesk": {
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "greenhouse:tintai": {
+  "company": "Tint",
+  "found": "2026-10-20",
+  "website": "http://www.tint.ai"
  },
  "greenhouse:togetherai": {
   "company": "Cargo",
@@ -1444,6 +1549,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "keka:nurix": {
+  "company": "NuPlay AI",
+  "found": "2026-10-20",
+  "website": "https://www.nuplay.ai"
+ },
  "lever:agiloft": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -1453,6 +1563,11 @@
   "company": "SerpApi",
   "found": "2026-10-13",
   "website": "https://serpapi.com"
+ },
+ "lever:brafton": {
+  "company": "Brafton",
+  "found": "2026-10-20",
+  "website": "https://brafton.com"
  },
  "lever:disqo": {
   "company": "Cargo",

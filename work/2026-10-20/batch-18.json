@@ -1,0 +1,317 @@
+{
+ "leads": [
+  {
+   "id": "1bc56b7ba2",
+   "company": "Sendblue",
+   "website": "https://www.sendblue.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 50. iMessage for Sales Sendblue provides businesses with virtual iMessage lines to text prospects and nurture leads. Our users on average see a 70% increase in response rate. The company is founded by Rob Haber, former ML Engineer at Scale AI, and Alex Luis, former PM at PwC's telecom practice. B2B, Sales, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.sendblue.com/]\nSendblue — iMessage for Business | More Replies, More Sales What are you building? We will personalize your experience for you An AI Agent For Developers A Better Sales Motion For Sales Already a customer? Log in Build with our iMessage API - Start for free No credit card required Get API Access or Use the CLI Log in Log in Request a demo Turn iMessage Into Revenue Your Next AI Agent Booked Meetings Your Next App Higher Response Rates Drive growth through trusted, personalized communication right from your CRM - or plug into our API and build the next generation of messaging agents. SOC 2 Type II Certified HIPAA Plans Available 5.0 rating Installed 35,214+ times to generate over $2.1B+ revenue High-performing sales teams run on iMessage . Build workflows that get your reps replied to. Native blue bubbles, AI-assisted follow-ups, and a shared inbox: the operating system for modern sales teams. ★★★★★ 5.0 on G2 JR SM AC Installed 35,214+ times · $2.1B+ generated Leader Spring 2026 Y Backed by Combinator SOC 2 Type II Certified ClickFunnels ClickFunnels NEW Sendblue CLI Build AI agents on iMessage . An assistant that books flights, replies to inboxes, runs errands. Over the channel users actually check. Provision a number $ npm i sendblue Sign up → provision a number → POST . Under 30 seconds. No demo required. workflow.ts templates.ts crm.ts send.ts import SendblueAPI from \"sendblue\" ; const client = new SendblueAPI (); // On new HubSpot deal: blue-bubble nudge await client . messages . send ({ content : `Hi ${deal.contact.first_name}, free Friday at 2pm?` , from_number : process.env. SARAH_LINE !, number : deal. contact . phone , }); import SendblueAPI from \"sendblue\" ; const client = new SendblueAPI (); const res = await client . messages . send ({ content : \"Your code is 481920. It expires in 5 minutes.\" , from_number : \"+16292925296\" , number : \"+14155551234\" , }); console. log ( res . status , res . message_handle ); SA J Sarah at Acme Jarvis sales · via Sendblue assistant · claude-sonnet-4.5 DELIVERED · READ LIVE · 218ms Hi Jordan, quick follow-up on the demo you booked. Friday at 2pm still good? Yes! Looking forward. Sending the invite now. Anything specific you’d like to see? Pricing for the 5-seat plan would be great. Book me a flight to NYC next Thursday morning, redeye back Friday. Found 4 options. JetBlue 7:05am direct $238 looks best. Redeye back B6 2210. Book both? Yes, on the Amex. Trusted by Vercel PostHog Snowflake OpenAI Polymarket Bilt ClickFunnels Tired of getting left on read? That's because email and SMS were built for alerts, not relationships iMessage The foundation. Increase response rates, build engagement, and lift lifetime value. FaceTime Audio The voice layer. Reach customers with the most trusted channel. Workflow Builder Efficiency at the intersection of automation and personalization. Smart Views & Power Dialer: Organize and connect with the right people faster. The Blueprint Our expert frameworks, strategic account managers, and vertical-specific insights. White glove service found nowhere else in market. Why is better than Avoid opt-out language Stop looking like a bot 🤖 while remaining compliant.* Group chats Team up with contacts and other team members. No A2P Registration Required Save 2-3 weeks on a lengthy A2P registration process and start messaging immediately. Voice memos, Videos and Photos Skip the 🥔 quality pics and send voice memos, videos, and high res photos. Transparent Pricing Flat monthly pricing based on phone lines. No hidden carrier fees or additional message segment costs. * Consult with your legal counsel to ensure that your opt-out process is compliant with applicable law and consistent with industry standards. Integrate directly to your CRM Connected Workflows Custom-built connections across CRMs and automation tools keep Sendblue at the center of your workflow. Built for Your Stack Our Click-to-Dial Chrome Extension makes it easy to call, text, ",
+   "email_candidates": [
+    {
+     "email": "rob@sendblue.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Rob Haber",
+     "role": "Founder"
+    },
+    {
+     "email": "alex@sendblue.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Alex Luis",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "204abd28a4",
+   "company": "Kivo Health",
+   "website": "https://kivohealth.com",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 40. AI-powered care for seniors with chronic disease Kivo Health provides AI-powered virtual care for seniors with chronic disease, starting with lung care. We keep people out of the hospital and save payers $8k+ on average per patient. We work with major health systems like Stanford, UCLA and Optum Health. We just raised our $10M Series A and are growing quickly. Consumer Health Services, Telehealth, Digital Health, Healthcare, Healthcare, Healthcare Services, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://kivohealth.com/]\nVirtual Pulmonary Rehab for COPD at Home | Kivo Health \"I could never have gone anywhere I'm homebound so this was just amazing and it was so easy...There's no doubt that I'm stronger that I am able to do more my breathing is terrible and it will I have COPD it will always be terrible so endurance and strength are really really important and I think that's what the program gave me.\" \"I was in really bad shape. I made a decision to fight back. I wasn't just going to sit back and say, 'Hey, this is what you got, deal with.' I knew COPD, but I didn't know what it was. I just knew I had trouble breathing and I couldn't breathe and I didn't like it. It educated me on that. It educated me on all my medications. I'm getting married on Saturday. You know, we had put it off, we weren't going to do it. Honestly, it wouldn't have happened without Kivo.\" \"I'm a former athlete and I like to exercise, but I don't like to get to the point that I think I might not make it. I liked being at home in my controlled environment the way that I like it and being able to get as much out of this program as I did without even leaving my house. I would do it again, I would continue to do it, I would do it for the rest of my life if I could.\" \"Part of my COPD problem was psychological. When I would feel nervous about something or panicked about something, sometimes that would trigger an incident. The class made me more confident about 'I can handle this, you know, I can do this,' and taking away that panic that's associated with trouble breathing is a huge benefit for me. When my pulmonologist suggested it, I thought, 'Okay, how's this possibly going to do me any good?' I was just amazed at how much it did help.\" Kivo Health delivers 3.1x ROI for health plans. Read our 2025 Opportunity Report to see how HERE Individuals Organizations Company Refer Patient Contact Sales Your browser does not support the video tag. Break free from COPD Kivo Health's AI-powered virtual pulmonary rehab and care program offers personalized care for people managing COPD - reducing symptoms, preventing flare-ups, and helping people reclaim their life. Am I eligible? Covered by Hear what our members have to say Mary Increase in daily activity Lou Confidence to walk down the aisle Susan Former athlete back on her feet Arch G. Revitalized sense of optimism “ Excellent, comprehensive program presented by a friendly, caring therapist. Check out the program for yourself. I had a very good experience. Karen, 75 year old patient - 2025 “ This is life changing…I only wish I could have done this earlier. Margie, 75 year old patient - 2023 “ Kivo has taught me how to manage my symptoms more easily, has taught me what exactly is going on in my lungs, and shown how to exercise when you have COPD. Tyvm. Mathea - 2025 Proven outcomes People who engage in Kivo’s program see clinically meaningful results. But don’t just take our word for it – read our peer reviewed study here . 24 % Improvement in symptoms 34 % Improvement in physical activity (functional capacity) 25 % Improvement in mood 83 % Median attendance How it works Your kit, delivered to your door Comes with everything you need to get started. Easy setup with step-by-step guidance! One-on-one health appointment Meet with a breathing specialist to set your personal goals and plan your care. Personalized small group program Join a Kivo expert and others like you for 9 weeks of movement and tips to feel better and breathe easier Ongoing support Keep making progress with help from our health coaches and the supportive Kivo community Evidence-based results Published in peer-reviewed journals and validated across thousands of patients Read our 2025 Opportunity Report Return on Investment 3.1 x For healthcare partners Program Completion 83 % Industry-leading adherence FAQs Here’s everything you need to know about Kivo Health, from features to getting started. What is Kivo Health? How does Kivo’s program work? Is it ",
+   "email_candidates": [
+    {
+     "email": "hello@kivohealth.com",
+     "where": "https://kivohealth.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "victor@kivohealth.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Victor Sadauskas",
+     "role": "Founder"
+    },
+    {
+     "email": "vaughn@kivohealth.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Vaughn Koch",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "29117253f4",
+   "company": "Kodex",
+   "website": "https://www.kodexglobal.com",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Boston, MA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 30. Easiest way for companies to process data requests from governments Kodex makes it easy for companies to process, and respond to, subpoenas from governments around the world. Agencies, like the FBI, subpoena user data from customers like Coinbase, and thousands of other companies - without Kodex, companies largely rely on email, fax, and spreadsheets to manage them. Kodex is a SaaS tool that helps private sector companies manage relationships, workflows, and secure file transfer with government agencies who are seeking confidential information on a company's users. We streamline compliance operations, protect the privacy of their users, reduce error, and validate the legitimacy of government agents who are requesting information. GovTech, Compliance, LegalTech, Regtech, B2B, Legal, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.kodexglobal.com/]\nLaw Enforcement Data Request Management Software | Kodex NEW Kodex Global Keynote : Tuesday, October 27, 12:30 PM ET Live Oct 27 Register Request Demo The Right Way to Handle Law Enforcement Data Requests When both sides work in one system, requests close in days instead of weeks. Kodex verifies every agent, encrypts every exchange, and keeps the complete record of how it happened. Request Demo Trusted by 15K+ government agencies worldwide and the world’s leading companies in crypto, financial, telecom and more Is your data request process putting your company at risk? Manual request handling exposes your company to compliance risks, security breaches, and costly delays. You're drowning in disorganized requests, missing deadlines, and facing potential fines that could cost your company millions. You can't properly verify requestors or secure sensitive data, leaving your company vulnerable to breaches. You lack the data to generate transparency reports, respond to audits and regulators, provide strategic insights to leadership. Meet Kodex The only portal built specifically for subpoena and data request processing , helping teams maintain compliance, strengthen security, and reduce operational costs by millions annually. Turn chaotic requests into structured workflows Convert your complex compliance requirements into automated intake forms that catch issues before they start. Our unified dashboard gives you instant visibility into request status, deadlines, and team responses. Eliminate the risk of data exposure Our proprietary verification system ensures you're only sharing data with legitimate requestors. Every exchange is encrypted, tracked, and protected by sophisticated access controls that prevent unauthorized data exposure. One secure space for all request correspondence Replace scattered email threads with a unified workspace where your team can collaborate internally and externally with government agents, giving you confidence and control over each request. Make sense of your request data, instantly When regulators come knocking, you can't afford to spend weeks scrambling for data. Prepare for audits in minutes, not months, generate real-time transparency reports in seconds, and gain immediate insights into request patterns to stay ahead of trends that could cost your business millions. Coinbase Bitfinex Bitget “At Coinbase regulatory compliance is a core part of our business. Kodex is a powerful tool and partner when engaging with regulators” John Kothanek, VP of Global Intelligence Read More “Having all our data in one place has revolutionized our investigative capabilities. This strategic intelligence helps us protect our platform more effectively.\" Shann Lu, Head of AML Read More “With Kodex, we don’t just manage compliance; we ensure trust, efficiency, and security at every step.” Hon Ng, Bitget’s Chief Compliance Officer Read More The global industry standard for secure, data exchange We built the network, so you don't have to. Kodex is the only data request portal trusted by 15K+ government agencies. Tauranga -37.6878 126.1651 Asuncion -25.2637 -57.5759 La Paz -16.4897 -68.1193 Guatemala City 14.6349 -90.5069 Monterrey 25.6866 -100.3161 Calgary 51.0447 -114.0719 Ottawa 45.4215 -75.6972 Atlanta 33.7490 -84.3880 Dallas 32.7767 -96.7970 Denver 39.7392 -104.9903 Wellington -41.2865 124.7762 Brasilia -15.8267 -47.9218 Quito, -0.1807 -78.4678 Caracas 10.4806 -66.9036 Santiago -33.4489 -70.6693 Bogota 4.7110 -74.0721 Montreal 45.5017 -73.5673 Vancouver 49.2827 -123.1207 Hobart -22.8821 115.3272 Queenstown -21.0312 108.6626 Gold Coast -25.0167 130.4000 Canberra -35.2809 104.1300 Adelaide -32.9285 135.6007 Perth -31.9505 115.8605 Brisbane -27.4698 133.0251 Melbourne -35.8136 120.8500 Sydney -34.9800 115.8500 Sao Paulo -23.5505 -46.6333 Buenos Aires -34.6037 -58.3816 Mexico City 19.4326 -99.1332 Toronto 43.6532 -79.3832 Los Angeles 34.0522 -118.2437 New York City 40.7128 -74.0060 Minneapolis ",
+   "email_candidates": [
+    {
+     "email": "matt@kodexglobal.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Matt Donahue",
+     "role": "Founder"
+    },
+    {
+     "email": "danny@kodexglobal.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Danny Mendoza",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "2b7fb7fd62",
+   "company": "SpruceID",
+   "website": "https://www.spruceid.com",
+   "title": "Full-Stack Software Engineer (New Grad) – Remote",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Full-Stack Software Engineer (New Grad) – Remote (United States / Remote (US); experience: Any (new grads ok); US citizen/visa only). Team size: 25. SpruceID lets users control their data across the web. SpruceID lets users control their data across the web. Instead of people signing into platforms, we imagine platforms should sign into people’s data vaults. We implement this pattern into digital wallet ecosystems for governments, enterprises, and blockchains. We believe that architectures that enable individual autonomy in the digital world are necessary for free societies and dynamic economies to thrive. GovTech, Crypto / Web3, Identity, Privacy, Infrastructure, Government, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://spruceid.com/]\nDigital Trust Infrastructure for Government | SpruceID Digital trust from intake to decision Securely modernizing government services, from resident identity to fraud prevention and workflow optimization. Why SpruceID Get in touch Where digital services break Most government modernization efforts fail not because of policy or ambition, but because trust, identity, and data donât move cleanly through systems. Data enters unstructured Documents, identity signals, and user inputs arrive as PDFs, uploads, or one-off checks. Systems canât easily validate, reuse, or trust what comes in. Fragmentation multiplies cost Disconnected identity systems and data silos force repeated verification across services and agencies, driving delays, higher fraud risk, and poor user experiences. Trust isn't built in Identity, data capture, validation, and access controls are often added piecemeal, leaving gaps that slow decisions and increase risk. How we can fix it SpruceID builds trusted digital services that save time, reduce fraud, and lower costs. Identity & Credentials Secure wallets, SSO, and credential platforms that cut duplicative identity verification costs and increase trust in every interaction. Digital Transformation Digitize forms, automate manual work, and connect legacy systems to save time and deliver faster, more consistent services. Trust & Risk Privacy-preserving verification and fraud prevention tools that protect residents while improving service outcomes. Improve service delivery Connect services across programs through shared identity and trusted data. Deliver faster decisions, smoother renewals, and simpler experiences end to end. Digital Transformations Improve service delivery Connect services across programs through shared identity and trusted data. Deliver faster decisions, smoother renewals, and simpler experiences end to end. Digital Transformations Get in touch Secure by design Standards-based solutions that strengthen confidence in government services. Request a Demo Secure by design Standards-based solutions that strengthen confidence in government services. Digital trust is the foundation of fast, reliable public services. Digital trust is the foundation of fast, reliable public services. Digital trust is the foundation of fast, reliable public services. Selected reads View all Digital Identity in America Digital Identity in America Zero Trust in Government Data Flows Zero Trust in Government Data Flows What \"Digital Transformation\" Really Means What \"Digital Transformation\" Really Means Build faster, more secure services. See how SpruceID can help you reduce costs, improve service delivery, and strengthen trust. Get in touch Build faster, more secure services. See how SpruceID can help you reduce costs, improve service delivery, and strengthen trust. Get in touch KNOWLEDGE BASE Explore the foundations of digital trust What Is Digital Identity? Learn About Digital Identity Fundamentals What Is Digital Identity? Learn About Digital Identity Fundamentals What Is Credential Portability? Learn About Lifecycle Management What Is Selective Disclosure? Learn About Privacy-Preserving Design What Is Selective Disclosure? Learn About Privacy-Preserving Design How to Use Digital IDs for Government Services? Learn About Real-World Use Cases What Is An Identity Gateway? Learn About Authentication & Access Protocols How Are Digital Credentials Verified? Learn About Verification Mechanisms How Do mDLs Work for KYC? Learn About Real-World Use Cases What Is An Identity Gateway? Learn About Authentication How Are Digital Credentials Verified? Learn About Verification Mechanisms Go to Knowledge Base Identity Infrastructure Digital IDs Identity Wallets Identity Gateway Modernization Document Intake Digital Transformation Form Modernization Systems Integration Trust & Risk Verification Security & Compliance Zero Trust Exchange Resources Success Stories Knowledge Base Blog Documentation Company Why SpruceID A",
+   "email_candidates": [
+    {
+     "email": "wayne@spruceid.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Wayne Chang",
+     "role": "Founder"
+    },
+    {
+     "email": "gregory@spruceid.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Gregory Rocco",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "2ea7c2875b",
+   "company": "Ankr Health",
+   "website": "https://ankr.us",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Houston, TX, USA; San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 30. Virtualizing brick-mortar infrastructures of clinics w/ generative AI Adoption of Telehealth 1.0 has dropped to <5% because it's inefficient and unintelligent. Ankr uses generative AI to recreate functions of clinic staff including front desk, medical assistants and scribe. This allows Doctors to \"spin-up\" virtual clinics on-demand, anytime, anywhere. An average clinic using Ankr generates $1M in new revenue/year. We integrate with all top EHRs and work with all types of clinics in mid- to large-sized healthcare organizations. Generative AI, Telehealth, B2B, Digital Health, Telemedicine, Healthcare, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://ankr.us/]\nElevated patient care | Ankr VCX Skip to content Ankr VCX – AI Workforce for Medical Practices Increase Revenue, Margins & Patient Access with Our Always On, Powerful AI Employees Welcome to Ankr We believe patients deserve better. Better care Critical results delivered same day Doctor calls you asap for urgent issues instead of you having to chase the clinic Outreach based on your convenience, not clinic hours Awesome phone experience Instant responses on phone Human experience not “phone trees” “Know me without me needing to tell you everything” Smoother office visits No filling out forms multiple times Or telling the same information over and over And more… Frequently Asked Questions Is my data secure? We care deeply about data privacy. As a result, our entire platform uses highest security standards (similar to your bank) and is compliant with government-established security best practices. For more info, please view our Privacy Policy . More questions? Get in touch with our patient success team . Based in HTX and SF Get in Touch Contacting us is as easy as 1-2-3 We can only take care of your technical/technology issues. Please call your doctor or 911 for all medical needs. Fill out the form for fastest responses Email us for urgent NON-MEDICAL issues Or write to us at 2450 Holcombe Blvd, Houston, TX Looking for work? We are a global company and always looking for top-tier talent. Check out our LinkedIn page for latest job opportunities. Ankr Health Quick Links • What does Ankr Health do? • Patient Portal • Privacy and Security Policies • Terms & Conditions • Contact Us ↑ Back to top English Español\n\n[https://ankr.us/about-us/contact-us/]\nContact Us Contact Us! | Ankr VCX - AI Workforce for Medical Practices Skip to content Contact Us ANKR BASIC (Free version) Support Our team is here to help with all your queries. We have created a list of common issues that may help answer your question (read Frequently Answered Questions here). If you still need assistance, please use the contact form below or email us at [email protected] . ANKR PRO (Paid version) Support To get priority support, please contact us at [email protected] or call your Representative through the App. For non-urgent support needs or feedback, please use the contact form below. Not yet an Ankr Pro customer? Ankr Pro users get priority support, discounted access to events, unlimited audio notes, custom notifications and many more goodies! Click here to get started within minutes. Don’t use Ankr in a health emergency! If you believe you or the patient are experiencing a medical emergency, please contact your Doctor, go to the nearest Emergency Room, or call 911. Ankr is NOT intended to be used for a health emergency. Send Feedback [contact-form-7 id=”1302″ title=”FrontPage”] Our team will respond to your enquiry within 24-48 hours. Did you like this content? Submit Tell us how we can improve this post? Submit DISCLAIMER: No part of this content constitutes medical advice, opinion, or should be used for medical decision making without consultation with a licenced medical practitioner and under a patient-provider relationship. All information on the website is provided without any claims of accuracy. For full terms and conditions, visit this link. Content curated by the Ankr team. ↑ Back to top",
+   "email_candidates": [
+    {
+     "email": "arpit@ankr.us",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Arpit Rao",
+     "role": "Founder"
+    },
+    {
+     "email": "shivani@ankr.us",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Shivani Rao",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "344a23f1f7",
+   "company": "Solve Intelligence",
+   "website": "https://www.solveintelligence.com/",
+   "title": "Full-Stack Engineer (Back-End Leaning)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Full-Stack Engineer (Back-End Leaning) (London, England, GB; experience: Any (new grads ok); US citizenship/visa not required). Team size: 50. AI patent drafting, prosecution, litigation and more for legal teams. Solve Intelligence is the AI platform for helping legal professionals with every part of the patent process. With $55M backing from Y Combinator, Microsoft, Thomson Reuters, 20VC, Operator Collective, Visionaries, and others, they have assembled a world-leading team of patent attorneys, AI PhDs, and software developers to build products for patent application drafting, office action responses, invention harvesting, claim charting, infringement analysis, FTO, validity challenges, patent litigation, and more. They are now selling their 100% secure and confidential software to 700+ IP firms and in-house teams across the US, Europe, and Asia (e.g. DLA Piper, Siemens, Perkins Coie, Amgen - see customers https://www.solveintelligence.com/#customers). Solve customers are reporting 60-90% efficiency and quality improvements (see testimonials https://www.solveintelligence.com/#testimonials). See a demo today: https://www.solveintelligence.com/contact-us B2B, Legal, United Kingdom, Europe",
+   "site_text": "[https://www.solveintelligence.com/]\nAI for patents | Solve Intelligence Book a demo Explore solutions Bringing LexisNexis® Global Patent Litigation Data into Solve Intelligence Workflows Learn more Sign in Request demo AI for patents. Join thousands of legal professionals around the world using Solve Intelligence for patent application drafting, prosecution, claim charting, patent litigation, portfolio management & analysis, and more. Book a demo Assistant Agents Delegate entire patent workflows to Solve agents. Search Perform any search across patents, literature, and case law. Research Research patent law across jurisdictions. Drafting Application drafting Draft complete patent applications for any technology or practice group. Figure generation Convert any file type into patent figures in seconds. Chemical structures Generate genus compounds and Markush claims. Biological sequences Analyze sequences and generate listings. Review Catch drafting errors and anticipate potential issues before filing. Prosecution Response drafting Draft responses, arguments, and amendments for any patent office. Office action analysis Analyze office actions, spot errors in rejections and objections. Examiner statistics AI informed by examiner statistics. Review Strengthen arguments, avoid estoppel issues and other risks. Charts Invalidity Evidence-backed invalidity charts in minutes. FTO Freedom-to-operate risk reviews expedited and powered by AI. Infringement detection Detect and monitor patent infringement across any patent portfolio. Portfolio reviews Analyze patent portfolios within seconds to inform decisions. Backed by: Customers Trusted by 700+ in-house IP teams and law firms across the globe. In-house legal Law firms Customer advisory board “Solve Intelligence stands out for their genuine customer obsession, particularly in how they partner with users to co-create tailored templates.” Jeff Draeger Chief Patent Counsel, Intel “Solve are so far above what other people are doing. That's why we decided to go with Solve.” Larissa Bifano Partner, DLA Piper Laura Brutman Shareholder Banner Witcoff After extensively evaluating many products, we concluded that Solve Intelligence best met the needs of our attorneys and our clients. Thomas Yee Partner Ashurst Perkins Coie We see Solve Intelligence as the key to our success in the future. Kevin Johnson Owner Quinn Emanuel Eric Schulman Principal Fish George Chen Partner & Global Board Member BCLP We are using the AI to help us produce a better work product within the constraints, whether it's a fixed fee or a loosely defined budgetary constraint. The AI allows us to provide that better work product. John Lanza Partner Foley Hoag Mark Metzke Senior Counsel Amgen Aaron Capron Partner Finnegan Raye Daugherty Partner Quarles I was impressed with Solve’s ability to compare the claims of a hundred patents against six competitor products and generate claim charts with publicly available evidence of infringement. Paul Loustalan Partner Reddie & Grose Mark Niemann Founder FIG 1 Jan-Christian Schutte Managing Partner Noventive Solve Intelligence's drafting tool has allowed our team to efficiently deliver high-quality patent applications for our clients. We enjoy collaborating with the AI to navigate complex technical matters. Nicholas Schmidbauer Partner Quarles Solve is providing the ability to give a robust analysis to clear products, in a way that allows me to give security to the client, and also allows me to do my job a lot better. Patrick Walsh Founder FIG 1 With Solve Intelligence, \"review\" becomes less about checking whether every sentence is grammatically correct or reads well, and more about higher-value strategic analyses. Dmitry Andreev Partner Lowenstein Sandler Adopting Solve Intelligence was one of the best decisions we have made for our practice. It has become an essential part of our workflow, improving both our efficiency and the quality of the work. Ina Ritter IPD Head Austria Siemens John",
+   "email_candidates": [
+    {
+     "email": "chris@solveintelligence.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Chris Parsonson",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "sanj@solveintelligence.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sanj Ahilan",
+     "role": "Founder"
+    },
+    {
+     "email": "angus@solveintelligence.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Angus Parsonson",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "398f452801",
+   "company": "Healthtech 1",
+   "website": "https://www.healthtech1.uk/",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 40. Navigating patients to the right place, first time. Healthtech-1 builds clinical AI that navigates patients to the right place, first time. Today we automate eligibility checks, triage and appointment booking for 1,600+ NHS GP practices. Tomorrow, every healthcare appointment - GP, pharmacy, dentist, physio - is instantly bookable on bookable.health. Why now? The NHS has come a long way, but access to it hasn't. Patient satisfaction is at a 25-year low. Automating access to care - eligibility, triage, booking - is how we reverse the trend. Health Tech, Workflow Automation, Digital Health, Healthcare, Healthcare IT, Healthcare, Healthcare IT, United Kingdom, Europe",
+   "site_text": "[https://www.healthtech1.uk/bookable]\nBookable - Healthtech-1 B o o k a b l e B o o k a b l e W h e r e p a t i e n t s c a n f i n d t h e r i g h t c a r e , f i r s t t i m e . W h e r e p a t i e n t s c a n f i n d t h e r i g h t c a r e , f i r s t t i m e . Chat to our team 98 GP appointments available 98 GP appointments available W a t c h T h e W a i t i n g P l a c e t o s e e o u r v i s i o n f o r a c c e s s t o c a r e W a t c h T h e W a i t i n g P l a c e t o s e e o u r v i s i o n f o r a c c e s s t o c a r e The waitâs over The waitâs over The waitâs over Bookable Search For new patients Bookable Search helps your practice be found for the first time, helping you grow in line with your clinical capacity. Bookable Search For new patients Bookable Search helps your practice be found for the first time, helping you grow in line with your clinical capacity. Bookable Search For new patients Bookable Search helps your practice be found for the first time, helping you grow in line with your clinical capacity. Bookable Navigator For existing patients Bookable Navigator helps end the 8am rush â accept requests via a form, text message, or phone call and let doctor-developed AI route patients to the right care, every time. Bookable Navigator For existing patients Bookable Navigator helps end the 8am rush â accept requests via a form, text message, or phone call and let doctor-developed AI route patients to the right care, every time. Bookable Navigator For existing patients Bookable Navigator helps end the 8am rush â accept requests via a form, text message, or phone call and let doctor-developed AI route patients to the right care, every time. Bookable Search ð Be found, get booked. B o o k a b l e S e a r c h p u t s y o u r p r a c t i c e i n f r o n t o f p a t i e n t s t h e m o m e n t t h e y n e e d c a r e . S u r f a c e y o u r c a p a c i t y , g r o w y o u r l i s t , a n d n a v i g a t e p a t i e n t s t o t h e r i g h t p l a c e . I t â s u n l o c k i n g a c c e s s t o c a r e w i t h l e s s a d m i n , c a r e n a v i g a t i o n b u i l t i n , a n d g u a r d r a i l s t o k e e p e v e r y o n e p r o t e c t e d . ð Surface capacity, automatically Set up your appointments once, and let Slot Manager take it from there. We make your appointments bookable, you keep control. ð¥³ Grow your list... and patient happiness More discoverability means more registered patients, and happier ones. â³ Save staff time at the same time Bookable Search is powered by Automated Registrations â less admin, fewer errors, and more time for what matters. ð One door to access all of primary care Care Navigation is built-in, patients recommended and educated about the right care, resources are protected. Itâs better for patients and better for practices. ð Designed with guardrails With crystal clear consent, quarterly limits, and a prompt to stay registered to protect continuity, you can trust Bookable Search to protect your patients. ð Surface capacity, automatically Set up your appointments once, and let Slot Manager take it from there. We make your appointments bookable, you keep control. ð¥³ Grow your list... and patient happiness More discoverability means more registered patients, and happier ones. â³ Save staff time at the same time Bookable Search is powered by Automated Registrations â less admin, fewer errors, and more time for what matters. ð One door to access all of primary care Care Navigation is built-in, patients recommended and educated about the right care, resources are protected. Itâs better for patients and better for practices. ð Designed with guardrails With crystal clear consent, quarterly limits, and a prompt to stay registered to protect continuity, you can trust Bookable Search to protect your patients. ð Surface capacity, automatically Set up your appointments once, and let Slot Manager take it from there. We make your appointments ",
+   "email_candidates": [
+    {
+     "email": "raj@healthtech1.uk",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Raj Paul",
+     "role": "Founder"
+    },
+    {
+     "email": "peter@healthtech1.uk",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Peter Huang",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "4554f430a5",
+   "company": "Rally",
+   "website": "https://www.rallyuxr.com/",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 35. Agentic User Research Infrastructure Rally is agentic user research infrastructure. Our agent runs recruitment end to end, from finding participants through scheduling and sending incentives. Underneath, our infrastructure enforces the guardrails enterprises require: consent, permissions, templates, data governance, and more. Trusted by teams building the future of product research: Google, Meta, Ramp, Figma, and Perplexity. Talk to your users today with Rally. SaaS, B2B, Design Tools, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.rallyuxr.com/]\nRally | Agentic Research Infrastructure 🎉 Rally Agent and MCP are now available. Read more ➔ Book a Demo Product Tour Login Platform Solutions Explore Rally Resources Customers Plans Login Product Tour Book a Demo The Future of ReOps is Agentic Agentic Research Infrastructure For teams building what comes next. Run user research with the right people, at the right moments, without losing the safeguards your team needs. Product Tour Book a Demo Rated 4.8/5 stars on G2 The teams building the future of product research. In a world where anyone can ship anything, the teams building closest to their users win. More teams than ever need to talk to their users. As research scales across the org, the risks compound: poor insights, compliance gaps, and overcontacted customers. One governed system for everyone who needs to run research. Rally removes the friction between your team and talking to real users. Rally handles participant management, scheduling, consent, and recordings, so you can learn at the speed your product moves. Rally Agent + MCP Run research everywhere you work. Rally Agent knows your participants, your studies, your templates, and your rules. Research is as easy as asking. ‍ Use Rally MCP to kick off studies from Claude, Cursor, or Slack. The agent handles the recruitment, the scheduling, and the follow-up. You handle the learning. Explore RALLY AGENT Rally Research The infrastructure that makes research safe to scale. Rally has built-in consent tracking, engagement rules, and access controls so your team can move fast without sacrificing research rigor. CRM & Panel Management Build a participant panel that stays organized on its own. Track history, dedupe records, and surface the right people for every study. Studies Design, launch, and manage interviews, surveys, focus groups and unmoderated tests without stitching together five different tools to get there. Sessions & Recordings Schedule, host, and capture every session automatically. Recordings, transcripts, and notes land in one library your whole team can search and revisit. Governance Keep speed and compliance on the same side. Set permissions, consent, and data policies once, then let every study run inside guardrails no one has to think about. Incentives Pay participants anywhere, in the currency and method they prefer. Automate approvals, track every payout, and close the books without chasing a single receipt. Scheduling Rally's scheduling handles the coordination layer of research so your team can show up to interviews without wrangling logistics. Explore Rally Research Integrations Deep integrations to your existing stack. Rally harmonizes the tools you already use so you can do end-to-end research, faster. Easy for product builders, powerful for researchers. Research Operations Set the rules once. Rally enforces them everywhere: across every researcher, PM, designer, and AI tool that touches your research program. Research You didn't get into research to chase consent forms. Rally handles the operational layer so you can focus on the work that actually requires you. Product You have opinions about what to build next. So do your users. Rally makes sure you've heard from them before the sprint planning meeting. Design Get into Figma with actual user feedback. Rally makes talking to users fast enough to fit inside your design process. Testimonials Rally partners with companies building the future of UX Research \"Rally has single-handedly taken our confusing and complicated recruitment approach and helped my team build out a well-designed, engaging, and time-saving process.\" Steffani Rheault Senior User Researcher \"Rally has been a game changing tool for our Research Ops team. It's helped us consolidate down from multiple tools and made each step significantly more efficient.\" Annie Diu Senior Research Operations Specialist \"Rally has rapidly become my favorite UXR tool because of all the capabilities it enables and how surprisin",
+   "email_candidates": [
+    {
+     "email": "oren@rallyuxr.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Oren Friedman",
+     "role": "Founder"
+    },
+    {
+     "email": "alec@rallyuxr.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Alec Robins",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "4e93763c9a",
+   "company": "Adaptyv",
+   "website": "https://www.adaptyvbio.com/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Lausanne, VD, Switzerland",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 25. We're building fully automated labs for protein engineering Proteins are the most advanced nanotechnology we know of. At Adaptyv, we’re building a fully automated protein foundry to allow you to synthesize and test any protein you design. AI-powered Drug Discovery, Synthetic Biology, Healthcare, Drug Discovery and Delivery, Switzerland, Europe",
+   "site_text": "[https://www.adaptyvbio.com/]\nAdaptyv Bio — The Automated Lab for Agentic Biology Services Blog Team Careers API Proteinbase Docs Book a meeting Test your proteins Sign in to Foundry × Anthropic x Adaptyv Protein Design Competition - Register now! → The automated lab for agentic biology Adaptyv is the fastest protein validation lab in the world – go from sequence design to experimental data in as little as 3 days. binder_002f Binding affinity: 13.2 nM Binding strength: Strong Expression: High Used by the best protein design teams in the world How Adaptyv works All-in-one platform for ordering, managing and analyzing experimental results. 001 Choose data type – Pick from various types of experimental data for your research. 002 Upload designs – submit your protein sequences digitally through our secure portal. 003 We run experiments – our automated lab performs all the assays in record time. 004 Get results – receive a data package with high-quality results in just 3 weeks. Purpose-built for AI-first protein engineering State-of-the-art automation ensures consistent, high-quality results that you can feed into your AI models for design even better proteins. Fully Automated Lab State-of-the-art automation ensures consistent, high-quality results. Hands off, round after round, in record time. Clean Experimental Data We turn raw measurements into clean, labelled data so you can train better and better AI models. Comprehensive API Seamlessly integrate our protein design into your existing workflows Powering the world's best protein design teams We've been running more protein assays than anyone else in the world. You can trust that we'll deliver the best results possible for your projects! 0 + Targets tested 0 + Proteins expressed 0 + Binding curves generated Validate your designs in just 3 weeks. Our fast turnaround time enables lab-in-the-loop protein design. Design Build Test Learn 1 Design 2 Build 3 Test 4 Learn As a protein designer you use generative AI to create novel protein designs for your applications Meet your protein design command centre Experiment management With Adaptyv you can manage all your wet lab experiments in one modern platform. No more hunting down quotes from CROs or sending your protein designs around via email. Stay updated about your experiment We always keep you informed about your experiment's progress via email updates and on our platform. So you can plan ahead when to expect results and adjust your internal timelines. Analyze your results Instead of wrangling Excel sheets or Powerpoints with wet lab results, you have all your results at your fingertips in our platform. Analyze experiments, export raw data and track historical performance of your protein design rounds. Transparent per-protein pricing With Adaptyv, you always get a transparent overview of your experiment costs Number of Proteins 96 20 48 96 192 384 768 Assay Resolution Screening Full Affinity Target From our library (+ cost) Ship your own Turnaround time Turnaround time Standard delivery 3 weeks Selected Adaptyv Prime As little as 3 days Private beta Contact us ↗ From $149 / protein Includes 2 replicates · Standard delivery Configure Latest insights from our blog Follow us on X to stay updated on news, competitions and more from the Adaptyv team. Aug 25, 2026 $40M Series A to build the automated lab for agentic biology Aug 20, 2026 Case study: Benchmarking Claude’s protein designs in the wet lab Oct 6, 2025 Proteinbase — the home of protein design data\n\n[https://www.adaptyvbio.com/blog]\nBlog | Adaptyv Bio Services Blog Team Careers API Proteinbase Docs Book a meeting Test your proteins Sign in to Foundry Blog / P o s t s Aug 25, 2026 launch $40M Series A to build the automated lab for agentic biology We’ve raised a $40M Series A to build the biological “gigafactory” , led by Highland Europe with existing investors Ace Ventures, ByFounders and Y Combinator doubling down. This will enable us to expand our Lausanne team and also expand t",
+   "email_candidates": [
+    {
+     "email": "julian@adaptyvbio.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Julian Englert",
+     "role": "Founder"
+    },
+    {
+     "email": "daniel@adaptyvbio.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Daniel Nakhaee-Zadeh Gutierrez",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "634ab3eb46",
+   "company": "Great Question",
+   "website": "https://greatquestion.co",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 41. User research on autopilot. Great Question puts customer research on autopilot - from recruiting participants, scheduling interviews, sending surveys or prototype tests - and sharing what you learn with your team. Companies like Adidas Runtastic, O'Reilly Media & MainStreet use us to put their customers at the center of their product, design & marketing decisions. SaaS, B2B, Design Tools, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.greatquestion.com/]\nUX Research Software & User Research Platform | Great Question Agentic UX Research Platform Empower teams to do great research, with AI. Fast. The UX research platform for every team building and improving products. Lightning-fast recruitment, every research method, and centralized insights to drive customer value. Book a demo Start free study with AI No credit card required. Webb · Cosmic Cliffs · 2022 · NASA Trusted by 300+ customer-obsessed teams 4.7 rating Case study “ We're able to self-serve the entire research process, from pushing our data in and managing email outreach to conducting interviews and paying incentives. ” Tessa Pollard Research Operations Manager , Canva Case study “ I started at Miro, there was a lack of research structure, so I took on our research ops initiatives, creating a playbook and whatnot. Great Question is built for the new generation of researchers. ” Josh Morales UX Research Manager , Miro Case study “ We've been connected with Great Question for about four years… Seeing that vision come to life has built tremendous trust… ” A’verria Martin Sr. Director of Product Research, Intelligence and Strategy , ServiceNow Case study “ We'd have to employ somebody to do it because the amount of admin work it would create. That avoided cost alone makes Great Question worth paying for, let alone the less tangible but significant benefit of higher quality and faster turnaround on research. ” Rob Barrett Head of Innovation Portfolio , Experian Case study “ Great Question has been instrumental in democratizing our user research practice… ” Jon Dobrowolski Product Leader , Asana Case study “ We used to have a bottleneck where only certain folks knew how to run research. ” Nicolás Carey VP of Product and Design , Brex Case study “ It's really great for participant recruitment, which was a big hole in our process… Great Question has streamlined it for us. ” Stephanie Soo Staff Product Designer , Sinch Case study “ Great Question has lived up to our expectations across the board and honestly exceeded some, especially with ease of use. ” Gāby Verderber UX Operations Manager , AppFolio Case study “ Great Question is the most advanced tool that I have seen so far to improve your research operations, and manage research projects and participants. ” Clemens W. Janssen, PhD Former Lead UX Researcher , Nutrisense Case study “ The combination of calendaring and scheduling with the templates and the repository solves all of our biggest research pain points. It's our hub for research. ” Andy Hugelier VP of Product , Opal Case study “ I really like how I can choose to blast out 100 recruitment emails all at once… That's flexibility I didn't have before with UserTesting. ” Brenna Zumbro Senior UX Researcher , Procare Solutions Case study “ Recordings of discovery work… are extremely difficult to locate, if at all possible. ” Robert Frey UX Researcher , Simpson Strong-Tie Hubble · ESO 490-017 · 2026 · NASA The problem Why most teams struggle to do great research Recruitment takes weeks Ad-hoc recruiting across disconnected tools: slow to start, high no-shows, impossible to scale. Insights are scattered across tools Spread across a dozen tools, findings get lost and studies get repeated. Non-researchers lack guidance No standard process, no right tools: PMs and designers wing it or wait. Scaling research feels risky Participant data in spreadsheets means consent, PII, and permissions fall through the cracks. With Great Question, teams replace all that with one platform. The platform All-in-one UX research platform Great Question is a UX research platform that combines participant recruitment, a research CRM, mixed-method studies, and an AI-powered repository in one place. Teams like Canva, Miro, and Gusto use it to run studies and share what they learn, and it's SOC 2, GDPR, and HIPAA compliant. Research CRM Recruit the right participants, fast Build a panel of your own users: import a list se",
+   "email_candidates": [
+    {
+     "email": "success@greatquestion.co",
+     "where": "https://www.greatquestion.com/features/about-our-support-team",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

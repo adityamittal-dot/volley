@@ -1,0 +1,335 @@
+{
+ "leads": [
+  {
+   "id": "d2d2212cef",
+   "company": "Rivet",
+   "website": "https://rivet.dev",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Rivet Actors are the primitive for stateful workloads Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution. Open-source. B2B, Open Source, Infrastructure, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://rivet.dev/]\nRivet - The Orchestrator for Agentic Workloads Skip to main content Toggle navigation menu GitHub Sign In The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. Open-source and self-hostable. 12 ms cold starts 72 KB per Actor Billions of Actors Start Building npx skills add rivet-dev/skills npx skills add rivet-dev/skills Give this to your coding agent The Thinker Auguste Rodin · modeled 1880 Latest update: Introducing agentOS 0.4 & Hosted VMs Whatever the workload, there’s an Actor for it. Actors Long-lived processes with state, realtime, and scheduling built in Agents A durable process per agent, with memory that survives restarts Workflows Multi-step operations that replay instead of starting over agentOS A filesystem, shell, and network for code you did not write Preview Dynamic Apps A backend per user, deployed the moment it is generated Explore more Actors Built for everything agents need. Coding agents agentOS Actors Workflows agent-7f2c · acme/shop running › Fix the flaky test in checkout.spec.ts $ pnpm vitest run checkout 12 passed · 1 failed · total.ts:41 rounding ~ src/checkout/total.ts +3 −1 $ pnpm vitest run checkout 13 passed › Opened PR #482 · resumed after 2 restarts Explore agentOS → Agent app builders Dynamic Apps Actors northwind-crm.example.app Build a CRM for my roofing business with a quotes pipeline. ✓ Generated schema · 4 tables ✓ Wrote API · 11 routes ✓ Deployed release v3 Release v3 · live for 2 users Quotes Live New 6 Sent 3 Won 9 Hendricks · full replacement $12,400 Sent Okafor · re-shingle $8,900 New Lindqvist · leak repair $3,250 Won Explore Dynamic Apps → Company-specific agents Actors agentOS Your VPC · no data leaves your cloud #4821 · Refund not processed Helpdesk · 2m Agent Support triage Postgres Orders API Helpdesk ✓ Refund issued · ticket resolved 3 systems connected Explore Enterprise → Personal agents Actors Workflows Morning briefing weekdays · 07:00 Move my 3pm with Sam to tomorrow. Done. Sam accepted 10am tomorrow, and I'll remind you at 9:45. ✓ Reminder · tomorrow 9:45 Online 214 days 1,204 memories 1,205 memories Explore Actors → Realtime apps Actors Q3 launch plan AK JM RS Launch checklist Ship pricing page Draft announcement post JM Schedule webinar Send launch email RS 3 editing now synced · 12 ms syncing… Explore Actors → Run 2,829× more workloads per server. An Actor lives inside a worker process you already run, not in its own container or VM. A server that held hundreds of pods holds hundreds of thousands of Actors. 72.4 KB per running Actor RSS increase per running Actor. Measured on FoundationDB with the Rust rivetkit SDK. Rivet Actors 0 × 72.4 KB Kubernetes pods 0 × 200 MB Start in milliseconds, not minutes. A cold start includes scheduling the Actor, loading its state, and serving the first request. No image pull, no container boot. 12.3 ms cold start Round trip of an HTTP request waking an Actor from hibernation: 12.3 ms p50, 27.7 ms p99. Measured on FoundationDB with the Rust rivetkit SDK. Uses an experimental Rivet feature that will be enabled by default in an upcoming update . Rivet Actor 12.3 ms Kubernetes pod ~6 s Built for scale. Actors are scheduled independently, so adding capacity means adding machines. The same control plane runs a thousand Actors or a billion. Billions of Actors 1 Actors Billions of Actors on one control plane. Hibernates when idle, wakes on demand. An idle Actor writes its state and unloads. The next request brings it back in 12.3 ms with nothing lost. 0 MB while hibernating Awake Hibernating Durable state for every workload. Every Actor gets a SQLite database and a POSIX filesystem, tiered to S3. Idle Actors cost nothing, so millions can sit parked with their state intact. SQLite POSIX filesystem S3 tiered storage Storage architecture → A plane of thirty-six small databases, one per Actor, with writes landing on them continuously. Run code agents generate",
+   "email_candidates": [
+    {
+     "email": "git@nathanflurry.com",
+     "where": "GitHub commits (rivet-dev)",
+     "kind": "generic",
+     "name": "Nathan Flurry",
+     "commits": 13
+    },
+    {
+     "email": "developer@nathanflurry.com",
+     "where": "GitHub commits (rivet-dev)",
+     "kind": "generic",
+     "name": "Nathan Flurry",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d2d2212cef-ref",
+   "company": "Rivet",
+   "website": "https://rivet.dev",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Rivet Actors are the primitive for stateful workloads Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution. Open-source. B2B, Open Source, Infrastructure, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://rivet.dev/]\nRivet - The Orchestrator for Agentic Workloads Skip to main content Toggle navigation menu GitHub Sign In The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. Open-source and self-hostable. 12 ms cold starts 72 KB per Actor Billions of Actors Start Building npx skills add rivet-dev/skills npx skills add rivet-dev/skills Give this to your coding agent The Thinker Auguste Rodin · modeled 1880 Latest update: Introducing agentOS 0.4 & Hosted VMs Whatever the workload, there’s an Actor for it. Actors Long-lived processes with state, realtime, and scheduling built in Agents A durable process per agent, with memory that survives restarts Workflows Multi-step operations that replay instead of starting over agentOS A filesystem, shell, and network for code you did not write Preview Dynamic Apps A backend per user, deployed the moment it is generated Explore more Actors Built for everything agents need. Coding agents agentOS Actors Workflows agent-7f2c · acme/shop running › Fix the flaky test in checkout.spec.ts $ pnpm vitest run checkout 12 passed · 1 failed · total.ts:41 rounding ~ src/checkout/total.ts +3 −1 $ pnpm vitest run checkout 13 passed › Opened PR #482 · resumed after 2 restarts Explore agentOS → Agent app builders Dynamic Apps Actors northwind-crm.example.app Build a CRM for my roofing business with a quotes pipeline. ✓ Generated schema · 4 tables ✓ Wrote API · 11 routes ✓ Deployed release v3 Release v3 · live for 2 users Quotes Live New 6 Sent 3 Won 9 Hendricks · full replacement $12,400 Sent Okafor · re-shingle $8,900 New Lindqvist · leak repair $3,250 Won Explore Dynamic Apps → Company-specific agents Actors agentOS Your VPC · no data leaves your cloud #4821 · Refund not processed Helpdesk · 2m Agent Support triage Postgres Orders API Helpdesk ✓ Refund issued · ticket resolved 3 systems connected Explore Enterprise → Personal agents Actors Workflows Morning briefing weekdays · 07:00 Move my 3pm with Sam to tomorrow. Done. Sam accepted 10am tomorrow, and I'll remind you at 9:45. ✓ Reminder · tomorrow 9:45 Online 214 days 1,204 memories 1,205 memories Explore Actors → Realtime apps Actors Q3 launch plan AK JM RS Launch checklist Ship pricing page Draft announcement post JM Schedule webinar Send launch email RS 3 editing now synced · 12 ms syncing… Explore Actors → Run 2,829× more workloads per server. An Actor lives inside a worker process you already run, not in its own container or VM. A server that held hundreds of pods holds hundreds of thousands of Actors. 72.4 KB per running Actor RSS increase per running Actor. Measured on FoundationDB with the Rust rivetkit SDK. Rivet Actors 0 × 72.4 KB Kubernetes pods 0 × 200 MB Start in milliseconds, not minutes. A cold start includes scheduling the Actor, loading its state, and serving the first request. No image pull, no container boot. 12.3 ms cold start Round trip of an HTTP request waking an Actor from hibernation: 12.3 ms p50, 27.7 ms p99. Measured on FoundationDB with the Rust rivetkit SDK. Uses an experimental Rivet feature that will be enabled by default in an upcoming update . Rivet Actor 12.3 ms Kubernetes pod ~6 s Built for scale. Actors are scheduled independently, so adding capacity means adding machines. The same control plane runs a thousand Actors or a billion. Billions of Actors 1 Actors Billions of Actors on one control plane. Hibernates when idle, wakes on demand. An idle Actor writes its state and unloads. The next request brings it back in 12.3 ms with nothing lost. 0 MB while hibernating Awake Hibernating Durable state for every workload. Every Actor gets a SQLite database and a POSIX filesystem, tiered to S3. Idle Actors cost nothing, so millions can sit parked with their state intact. SQLite POSIX filesystem S3 tiered storage Storage architecture → A plane of thirty-six small databases, one per Actor, with writes landing on them continuously. Run code agents generate",
+   "email_candidates": [
+    {
+     "email": "sreeaadhi07@gmail.com",
+     "where": "GitHub commits (rivet-dev)",
+     "kind": "personal",
+     "name": "Sree Narayanan",
+     "commits": 18
+    },
+    {
+     "email": "nicholas.kissel@icloud.com",
+     "where": "GitHub commits (rivet-dev)",
+     "kind": "personal",
+     "name": "Nicholas Kissel",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  },
+  {
+   "id": "d710aca872",
+   "company": "Telmai",
+   "website": "https://www.telm.ai/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "San Francisco, CA, USA; Foster City, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 12. Automated data observability and quality for Data Lake Telmai is a Data observability and Data Quality platform designed for Open architecture. It monitors data stored/managed in any data system, such as a data lake or data warehouse, in its raw format at scale without sampling Analytics, AI, ML, B2B, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.telm.ai/]\nTelmai - AI-based Data Observability for Open Architecture Introducing Telmai’s Data Reliability Agents. Watch the product launch announcement! Autonomous ready data for Agentic AI Continuous data validation and quality signal within your data lake and lakehouse so every decision runs on reliable data. Join Waitlist Take a product Tour Storylane.Play({ type: \"popup\", demo_type: \"image\", width: 2560, height: 1280, scale: \"0.95\", demo_url: \"https://app.storylane.io/demo/gk7ntokptgv5?embed=popup\", padding_bottom: \"calc(50.00% + 25px)\", }); Meet Your Data Reliability Agents Orchestration Agent Acts as the control layer for configurations, metadata, and integrations to automate & simplify your onboarding and configurations Validation Agent Continuously learns data quality trends to suggest and apply validation rules, reducing manual effort and keeping pipelines reliable Incident Diagnosis Agent Analyzes anomalies and incidents to identify likely causes, highlighting dependencies across the pipeline for faster resolution Lineage Agent Maps data flows across sources and targets, helping users trace dependencies and understand downstream impact Data Insight Agent Transforms raw data into actionable insights by generating charts and summaries that make complex data quality trends easy to interpret Help Agent Acts as your guide and delivers step-by-step explanations and context, ensuring teams always have the information they need at their fingertips Routing Agent Directs users to the right rules, incidents, or assets, reducing time spent searching across the platform. Customers Data observability leader “Great Data Quality & Observability with granular details and easy to share summary” “Accelerated our data validations and anomaly detection work-flow using Telmai” “Telmai offers a top-tier SaaS-based data observability platform with no/low-code development” “AI-based data quality monitoring and anomaly detection for complex data” Real-Time, Continuous, AI-Ready Data Telmai continuously validates structured, semi-structured, and unstructured data as it lands in the lake Generates context-rich data quality metadata that is accessed directly by agents or via catalogs AI-agents can query both the validated data and its context via MCP to decide if it’s fit-for-purpose in workflows Read Further Natural Language Interfaces to Decentralize Data Trust With Telmai’s data reliability agents, both technical and business users can set up data monitors, query data quality issues and validations in plain English Provides clear explanations of anomalies and root causes Reduces dependency on engineering teams while accelerating data trust across the enterprise Customer stories See all articles Buying a home is one of the biggest decisions people make, and our customers rely on us for accurate, trustworthy data. But managing property data across multiple markets, with different systems, sources, and standards alongside a multi-cloud infrastructure, makes data reliability a complex challenge. Telmai has become a critical partner in helping us stay ahead. Marek Tuchalski Director of Engineering for Data, PropertyGuru Group Autonomous Detection and Continuous Resolution Telmai’s AI-powered assistants continuously monitor data pipelines for anomalies Explain issues in plain language, and suggest tailored steps for quick resolution Assists enterprise data teams to prevent failures, reduce alert fatigue, and drive continuous improvement across data pipelines Articles Blog What is autonomous-ready data? Jul 02, 2025 What does it take to build Agentic AI Workflows? Sep 18, 2025 The Critical Role of Unstructured Data Quality in the Age of Agentic AI Jul 22, 2025 What Is Write-Audit-Publish in Apache Iceberg and Why It Matters for Data Quality Aug 10, 2025 See what’s possible with Telmai Request a demo to see the full power of Telmai’s data observability tool for yourself Book a demo Contact Us\n\n[https://www.telm.ai/blog/]\nTelmai Blog Int",
+   "email_candidates": [
+    {
+     "email": "mona@telm.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mona Rakibe",
+     "role": "Founder"
+    },
+    {
+     "email": "maxim@telm.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Maxim Lukichev",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "da03763f4e",
+   "company": "Venu AI",
+   "website": "https://www.venu3d.com",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Meet qualified leads in person by automating conference production Meet qualified leads in person by automating conference production with Venu AI. Host a conference and meet 100 qualified sales leads in person every 3 months fully automated with Venu AI. Artificial Intelligence, B2B, Community, Sales, Marketing, B2B, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.venu3d.com/]\nMeet Qualified Leads In Person | Venu AI Contact Us Meet qualifed leads in person Meet qualified leads, new customers, and investors in person by automating event production with Venu. Contact Us Trusted by Industry Leaders Love events but too labor intensive? Let us make your event organizing process less manual labor intensive, less time consuming, and easier to consistently produce high quality, well attended events every time. Let Qualified Sales Leads Come To You Business networking Host an event to solve the pain point of your customer persona and let your qualified sales leads come to you. Never Worry About Event Logistics Again AI-powered matchmaking Set your events on track to be successful, high quality, and well attended every time with every aspect you used to juggle now tracked, driven to completion, and aligned with strategy. Use An Events-Led Sales Process Compelling interaction Use your events to qualify sales leads, multiply response rate, have your first sales calls, nurture relationships in person, and close deals after each event. Take Time Back From Execution To Focus On Pivotal Strategy Water cooler conversations Reprioritize your time and energy from not being able to book calls or meet qualified leads to utilizing the calls, in person meetings, and relationships gained from events to close more deals and expand product-market-fit. So easy your intern can host successful events with Venu Own the event yourself, or if you're too busy, turn your intern into a high performing Event Director with Venu. High school and college interns have been hosting successful events using Venu for 2 years because Venu guides you, provides safety railings to help you overcome challenges during event production, and keeps you on track to deliver a successful event every time. Founder love Venu Investment Management Summit in San Mateo, 100+ attendees in just 90 days. Featuring Chief Investment Officers from Empiric Institutional and Dipsea Capital, Portfolio Managers, and CEOs. View case study Hospital AI conference at Stanford, 100 attendees in only 90 days, with hospital CIOs, CIO of Stanford Health Care, CIO of El Camino Health, CHITO of County of Santa Clara, GoodRx, Providence. View case study Engineering AI conference, CTO of Netgear, VP of Engineering at Iridex, Director of Engineering at Gatan. View case study \"The event ran extremely smoothly. ​I highly recommend this platform. Thrilled with the post event report.\" Jo Ryall Head of Marketing, Microsoft \"Venu is the virtual events platform of choice to bring together more than 1,000 CEOs from around the world.\" Hunter Howard Conference Chair, YPO \"Venu has been integral to Hirect's brand awareness and customer acquisition strategy and brought early-stage founders together. Vishal Kolar Director of Event Marketing, Hirect \"Venu built a world that far exceeded our expectations. Attendees were delighted by customizations that made our event personal.\" Malaka Grant CEO, Masi Media \"Venu is the best virtual conference platform we've seen so far. It's been really exciting getting to use them for events for the batch.\" Jared Fiedman Group Partner, Y Combinator “Great experience. Venu made it easy for us to do networking without physically attending an event.\" Ryan Hu Executive Director, AWE Build your community today with Venu AI Contact Us Join our newsletter and stay updated on upcoming events! By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Thank you, your submission has been received! Something went wrong while submitting the form! Follow us Youtube LinkedIn Twitter Facebook © 2023 Venu. All rights reserved. Privacy Policy Terms of Service\n\n[https://www.venu3d.com/contact]\nContact Contact Us Build your community with Venu Tell us about yourself and our sales experts will get back to you soon. Thank you, your submission has been received. We will get back to you shortly! Something wen",
+   "email_candidates": [
+    {
+     "email": "jeremy@venu3d.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jeremy Lam",
+     "role": "Founder"
+    },
+    {
+     "email": "fanny@venu3d.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Fanny Chen",
+     "role": "Founder"
+    },
+    {
+     "email": "justin@venu3d.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Justin Chen",
+     "role": "Founder"
+    },
+    {
+     "email": "nanette@venu3d.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Nanette Jackson",
+     "role": "Founder"
+    },
+    {
+     "email": "patrick@venu3d.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Patrick Nguyen",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "dbb82674bd",
+   "company": "Tab",
+   "website": "https://www.tab.travel",
+   "title": "Engineering (YC Winter 2015)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 9. Revolutionising the way travellers discover, plan and book a trip At Tab, we’re revolutionising the way travellers discover, plan and book a trip. The Guide lets travellers find and book anywhere — with helpful recommendations from friends & local experts, rather than bland listings with endless reviews. Planning your trip should be a joy, not a chore! We help people to travel responsibly, by booking direct instead of using traditional booking sites. Travellers get the best price and they help local businesses avoid unnecessary fees. Travel experts, content creators and the friends you always ask for recommendations can use The Guide to showcase their favourite places to stay and things to do. When you book one of their recommendations, you’ll get a discount from the business and they receive bonus credit to say thanks. The Tab platform gives independent tourism businesses the tools to improve their online presence, be discovered, take direct bookings — and also to take payments. Our payment platform is uniquely designed for tourism businesses, handling over 100 currencies natively, and every payment type securely and easily. As travel returns after a difficult period, it’s time for a fresh approach. That’s why we’re building a social commerce platform for tourism — helping to spread the benefits of tourism far and wide, and helping travellers make the most of their precious time abroad. We're headquartered in London, and backed by Y Combinator (the investors behind Airbnb, Dropbox and Stripe). Fintech, Marketplace, Travel, Consumer, Travel, Leisure and Tourism, United Kingdom, Europe, Remote, Partly Remote",
+   "site_text": "[https://business.tab.travel/?cc=us]\nTab â Accept Card Payments for Hotels, Tours & Tourism Businesses Trusted by thousands of businesses worldwide Payments built to grow your tourism business Take card payments wherever your guests are, from in-advance to on-the-move, worldwide. With free payouts sent weekly in your local currency, we're here to help your business thrive. Get started Trusted by thousands of businesses worldwide Payments built to grow your tourism business Take card payments wherever your guests are, from in-advance to on-the-move, worldwide. With free payouts sent weekly in your local currency, we're here to help your business thrive. Get started Trusted by thousands of businesses worldwide Payments built to grow your tourism business Take card payments wherever your guests are, from in-advance to on-the-move, worldwide. With free payouts sent weekly in your local currency, we're here to help your business thrive. Get started Trusted by thousands of businesses worldwide Payments built to grow your tourism business Take card payments wherever your guests are, from in-advance to on-the-move, worldwide. With free payouts sent weekly in your local currency, we're here to help your business thrive. Get started Benefits Powerful payments your tourism business can rely on See how easy it is to start taking payments with Tab â no hardware, no complications, just instant flexibility for your team. Benefits Powerful payments your tourism business can rely on See how easy it is to start taking payments with Tab â no hardware, no complications, just instant flexibility for your team. Benefits Powerful payments your tourism business can rely on See how easy it is to start taking payments with Tab â no hardware, no complications, just instant flexibility for your team. Secure bookings in advance Give guests confidence in a confirmed booking and reduce no-shows. On-the-spot sales Take payments easily for extras that occur throughout the stay or tour, even with weak WiFi signal. On-the-spot sales Take payments easily for extras that occur throughout the stay or tour, even with weak mobile or WiFi signal. Reliable payouts Get paid weekly to your bank account in your preferred currency, wherever you operate. Secure bookings in advance Give guests confidence in a confirmed booking and reduce no-shows. On-the-spot sales Take payments easily for extras that occur throughout the stay or tour, even with weak mobile or WiFi signal. Reliable payouts Get paid weekly to your bank account in your preferred currency, wherever you operate. Payment types Take payments anytime, anywhere From direct payments on your website to sending payment links in advance, Tab's flexible payment system is custom-built for global tourism, so getting paid is never a hassle. In person Take payments on arrival using the Tab app on any device. In advance Secure bookings and reduce no-shows with deposits. On your website Add our booking widget to your website for direct payments. Integrations Plug us into your existing booking engine/PMS and OTA ecosystem easily. Payment types Take payments anytime, anywhere From direct payments on your website to sending payment links in advance, Tab's flexible payment system is custom-built for global tourism, so getting paid is never a hassle. In person Take payments on arrival using the Tab app on any device. In advance Secure bookings and reduce no-shows with deposits. On your website Add our booking widget to your website for direct payments. Integrations Plug us into your existing booking engine/PMS and OTA ecosystem easily. Payment types Take payments anytime, anywhere From direct payments on your website to sending payment links in advance, Tab's flexible payment system is custom-built for global tourism, so getting paid is never a hassle. In person Take payments on arrival using the Tab app on any device. In advance Secure bookings and reduce no-shows with deposits. On your website Add our booking widget to y",
+   "email_candidates": [
+    {
+     "email": "mark@tab.travel",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mark Datta",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "e001bc8362",
+   "company": "Fifth Door",
+   "website": "https://fifthdoor.com",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Create and play games with AI Fifth Door unlocks the power of imagination by making it easy for everyone to create, share, and play games anywhere, with anyone. We exist to stimulate the creativity, connection, and joy that people get when they play games. Consumer, Gaming, AI, Consumer, Gaming, United States of America, America / Canada",
+   "site_text": "[https://play.fifthdoor.com/]\nTitle: Fifth Door\n\nURL Source: https://play.fifthdoor.com/\n\nPublished Time: Tue, 20 Oct 2026 17:24:54 UTC\n\nMarkdown Content:\nWelcome to Fifth Door public beta! Build games with AI and share them with friends. Feedback? [Join Our Discord](https://discord.com/invite/HCC76Zt82Y)\n\n[Fifth Door](https://play.fifthdoor.com/discover)\n\n[Play](https://play.fifthdoor.com/play/skywrath?referrer=nav)\n\n[Home](https://play.fifthdoor.com/discover)[Browse](https://play.fifthdoor.com/browse)[Create](https://play.fifthdoor.com/sessions/new/chat)[My Games](https://play.fifthdoor.com/sessions)[Jams](https://play.fifthdoor.com/jams)\n\nAppearance System[Discord](https://discord.com/invite/HCC76Zt82Y)[Log in](https://play.fifthdoor.com/sign-in)[Sign up](https://play.fifthdoor.com/sign-up)\n\n## Bounties and Creator Payouts are here\n\nExplore new ways to earn Keys and redeem Keys for monetary value!\n\n[Learn More](https://play.fifthdoor.com/bounties)\n\n![Image 4](https://d3i48ejglbrt2d.cloudfront.net/platform/covers/platform-9e155579-9c60-45ac-9851-99cc1abc2776-1791931191566-thumb.webp)\n\nFeatured today\n## Not GT2\n\nA PSX-style car collector's racing sim. Pass license tests, hunt the used lot, tune your car, and race 6-car grids for credits and prize cars. Vroom vroom.\n\n[Play](https://play.fifthdoor.com/play/not-gt2?referrer=discover)![Image 5: Kapouet](https://d3i48ejglbrt2d.cloudfront.net/avatars/0v8368A4nS5bjgoURSIvpapByByzx0D0-1792513698870-thumb.webp)Kapouet\n\n![Image 6](https://d3i48ejglbrt2d.cloudfront.net/platform/covers/platform-9e155579-9c60-45ac-9851-99cc1abc2776-1791931191566-thumb.webp)\n\n## Create a game\n\nMake anything playable.\n\nOr try Start with a template:\n\nArcade Platformer Adventure Puzzle\n\n[This week's jam Nowhere to hide 0 entries · 5 days left Join the jam](https://play.fifthdoor.com/jams/week-2026-10-19)\n\n## [Featured Games](https://play.fifthdoor.com/browse?featured=true)\n\n[See all](https://play.fifthdoor.com/browse?featured=true)\n\n[![Image 7: Rug or Riches](https://d3i48ejglbrt2d.cloudfront.net/platform/covers/platform-337e7114-d8cb-436e-b75b-d047c4592339-1791529591424-thumb.webp) Rug or Riches ![Image 8: hello-its-joe](https://d3i48ejglbrt2d.cloudfront.net/avatars/FocX3MvMRttIVzB3lF3f42r9xqEzWw9C-1762814328525-thumb.webp)hello-its-joe 161](https://play.fifthdoor.com/play/rug-or-riches?referrer=discover)\n\n[![Image 9: Dorian's Idea Machine](https://d3i48ejglbrt2d.cloudfront.net/platform/covers/dorian-idea-machine-1790987017754-thumb.webp) Dorian's Idea Machine ![Image 10: hello-its-joe](https://d3i48ejglbrt2d.cloudfront.net/avatars/FocX3MvMRttIVzB3lF3f42r9xqEzWw9C-1762814328525-thumb.webp)hello-its-joe 223 12](https://play.fifthdoor.com/play/dorian-idea-machine?referrer=discover)\n\n[![Image 11: The Long Vigil](https://d3i48ejglbrt2d.cloudfront.net/platform/covers/the-long-vigil-1791039361147-thumb.webp) The Long Vigil latentmoss 376 17](https://play.fifthdoor.com/play/the-long-vigil?referrer=discover)\n\n[![Image 12: My Grillfriend Can't Be This Hot!](https://api.beta.fifthdoor.com/api/platform/bundles/my-grillfriend-cant-be-this-hot/assets/cover.png) My Grillfriend Can't Be This Hot! ![Image 13: AtticWizard](https://d3i48ejglbrt2d.cloudfront.net/avatars/ITo7VogzsU6RjrPR9EqRzu4VwSvgEB9x-1787878283843-thumb.webp)AtticWizard 590 7](https://play.fifthdoor.com/play/my-grillfriend-cant-be-this-hot?referrer=discover)\n\n[![Image 14: GRILLFRIENDS](https://api.beta.fifthdoor.com/api/platform/bundles/grillfriends/assets/cover.jpg) GRILLFRIENDS ![Image 15: AtticWizard](https://d3i48ejglbrt2d.cloudfront.net/avatars/ITo7VogzsU6RjrPR9EqRzu4VwSvgEB9x-1787878283843-thumb.webp)AtticWizard 2.4K 16](https://play.fifthdoor.com/play/grillfriends?referrer=discover)\n\n[![Image 16: Emoji Rebus Rush](https://d3i48ejglbrt2d.cloudfront.net/platform/covers/platform-c2c4dcf4-cfd2-465d-b2ce-76b60829f813-1787546131474-thumb.webp) Emoji Rebus Rush Games0ver 773 9](https://play.fifthdoor.com/play/emoji-rebus-rush?referrer=discover)\n\n[![Image 17:",
+   "email_candidates": [
+    {
+     "email": "daniel@fifthdoor.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Daniel Kan",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "amir@fifthdoor.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Amir Ghazvinian",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "e1658d82d9",
+   "company": "Groww",
+   "website": "https://groww.in",
+   "title": "React Native Developer",
+   "location": "Bengaluru, KA, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: React Native Developer (Bengaluru, Karnataka; experience: Any (new grads ok); US citizen/visa only). Making financial services simple, transparent and delightful. Groww aims to empower people in India by making financial services simple, transparent and delightful. By leveraging technology, we build reliable and accessible financial services. Groww is India's largest stock broker (in terms of active NSE clients) and the largest distributor of mutual fund SIPs. India, Investing, Fintech, Asset Management",
+   "site_text": "[https://groww.in/]\nGroww - Online Demat, Trading and Direct Mutual Fund Investment in India Stocks Invest in Stocks Invest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions. Intraday Monitor top intraday performers in real time ETF Screener Get the best of Mutual Funds and flexibility of Stocks IPO Track upcoming and ongoing IPOs MTFs Buy now, pay later Stock Screener Filter based on RSI, PE ratio and more Stock Events Dividends, bonus, buybacks and more Demat Account Begin your stock market journey Share Market Today Live news updates from stock market F&O Trade in Futures & Options Trade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space Indices Track markets across the globe Terminal Track charts, orders, positions, watchlists in one place Option chain Analyse chains, view payoffs, create baskets Pledge Get extra balance for trading Commodities Trade in Crude Oil, Gold, Silver and more API trading Set up and execute trades through our API Mutual Funds Invest in Mutual Funds Invest in direct mutual funds at zero charges via lump sump investments or SIPs Mutual Fund Houses Know about AMCs, funds, fund managers NFO’s Track all active NFOs in one place Mutual Funds by Groww Mutual funds by Groww designed for your investment goals Start SIP Build long-term wealth through disciplined monthly investing. Mutual Funds screener Filter funds based on risk, fund size and more Track Funds Import funds and track all investments in a single place Compare Funds More SIP calculator Estimate returns on a SIP Brokerage calculator Estimate charges for your trade/investment Margin calculator Estimate balance needed to buy/sell a stock SWP calculator Returns on your systematic withdrawal plan Pricing Brokerage and charges on Groww Blog Credit Loan against securities and Personal loan Groww your wealth Get started India's #1 Investing Platform Trusted by 2 Cr+ active investors India’s stock market at your fingertips Stocks ETFs Gold, Silver, International & Index ETFs Gold Silver International Index IPOs Bonds Earn fixed interest with regular payouts Build wealth, SIP by SIP Invest in Direct Mutual Funds Invest now Trade Futures & Options like a pro Track charts, positions, and trade in a customisable layout Explore Terminal Analyse Chains, view payoffs, create baskets Option Chain One-tap trade with Scalper mode on mobile Explore Scalper mode Trade in real world assets like Crude Oil, Gold, Silver and more Explore Commodities Stock trading made simple Fast, simple and secure stock trading. All in one app. Monitor top Intraday stocks in real time Explore Intraday stocks Upto 4x leverage with MTF (Margin Trading Facility) Explore MTF stocks Pledge: Unlock instant margin from your holdings Explore Pledge Trusted by 130,8 34,586 + Indians No account opening charges, no barriers. Just Groww. Start now When I came across Groww, I found it much much easier to understand because of user-friendly design and much easier to operate in selecting funds and making investments. The cherry on top, I got advice from the team not only as an expert but as a friend who understands risk taking capacity and paying capacity. Rahul Gupta Entrepreneur Your support team has been quite helpful in answering my queries. And your Whatsapp group team helps a lot in making the right choices. Sangeeta Mukherjee Groww is a great platform for investment. Interactive and clean User Interface. Features like creating your own portfolio are great..I started investing in MF due to Groww only. Very responsive Support team. Always available to help for any query Anoop Singh Team Lead at Esyasoft Technology Groww.in was the platform where I first got onboard to MF and I would have to say, even for a beginner like me it made things quite easier to explore and invest. Groww actually helped me make better-informed decisions. Ankit Puri Technical Product Specialist a",
+   "email_candidates": [
+    {
+     "email": "lalit@groww.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Lalit Keshre",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "ishan@groww.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ishan Bansal",
+     "role": "Founder"
+    },
+    {
+     "email": "harsh@groww.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Harsh Jain",
+     "role": "Founder/COO"
+    },
+    {
+     "email": "neeraj@groww.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Neeraj Singh",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "e96cece5d7",
+   "company": "Haystack",
+   "website": "https://usehaystack.io/",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. Delivery Analytics for Software Teams We are bringing the competitive advantage data-driven engineering teams like Google have - to everyone else. Our analytics platform plugs directly into developer tools like Github to provide insights on delivery speeds, bottlenecks, and risks that impact team velocity & developer happiness. We're trusted by some of the world’s most innovative teams: Microsoft, The Economist, and Indiegogo and backed by Y Combinator, Soma Capital, Funders Club, and strategic angels (Founder @Optimizely, SVP Sales @Amplitude) . Haystack is a culture of tinkering, learning, testing and iterating. We ship quickly and help our customers do the same. We're led by founded by two technical founders who have experienced this problem first-hand after scaling their startups from 0 to 100m+ users. Analytics, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.usehaystack.io/]\nDelivery Ops for Product & Engineering Leaders | Haystack Sign in Start free trial Try now Deliver software faster, better, and more predictably Haystack helps you automize best practices and create reports by linking to Git and JIRA Start free trial Deliver better at every level Works across whole product engineering team Engineering Leadership Managers Product Operational metrics Report to execs Investments See where you spend time Team health report Help whose in need Risks alerts Identify blockers Effective standups Understand progress Flexible Metrics Report progress Epics Track roadmap progress Investments Understand capacity AI Release Notes Keep up to date Learn more about product Toolkit for product engineering teams Improve the entire lifecycle of planning, executing, and reporting your deliverables Retrospective Understand why you missed your sprint goals AI generated Release Notes Streamline communication with outside your teams Integrates with everything Sits on top your Git and Jira Epic progress Prevent last minute roadmap delays Alerts Catch risk before it’s too late Flexible report Easy metrics across Git & JIRA Effective standups Get status updates in 10 second Trusted by 100s of companies Will Truong Head of Engineering at Doxel Haystack has been a game-changer for us. Unlike other tools, which can sometimes be misused in a top-down approach that reduces team trust and engagement, Haystack fosters trust across the organization. It avoids turning team members into numbers and instead ensures everyone is on the same page. Teams see what executives see, promoting transparency and collaboration. Ronan Reilly Head of Platform at Air Apps Haystack helped us realize the potential for improvement. It was an eye-opener. It helped us manage scope better, leading to more consistent delivery and success. TJ Andrews Engineering Manager at Bubble Haystack transformed my approach to planning and managing tasks. With clear capacity estimations and investment visibility, I no longer dread the quarterly planning process. My team’s efficiency has skyrocketed, allowing us to hit goals with confidence and ease! Denali Lumma Director of Engineering at Box We decreased our cycle time from 40 days to 3 days using the insights from Haystack Chris Downwards VP of Engineer at GigSmart Haystack has become my go-to tool for monitoring and optimizing our engineering output. The way it simplifies complex data into actionable insights is phenomenal. It truly empowers our team to stay ahead of potential issues. Tales Cione Head of Engineering at Heyjobs I’m impressed with how Haystack facilitated our delivery check-ins and improved our team’s delivery practices. It provides clear, actionable data that helps in making informed decisions quickly. It’s more than a tool; it’s a partner in enhancing our team’s efficiency and effectiveness. Learn more about product You're in good company Join the thousands of teams loving Haystack. \"We decreased our cycle time from 40 days to 3 days using the insights from Haystack.\" Denali Lumma Director of Engineering, Box \"I don't have to chase things anymore, it's like I have a radar looking for blockages.\" Zach Zimmerman Engineering Manager, The Economist \"Haystack took us from gut feelings to a data-driven culture. That's been priceless.\" Matt Edwards Head of International Engineering, Robinhood \"Simple. Easy to use and lets you to dig in if you need to. No fluff metrics or 'big brother' reporting.\" Robert Hucik VP of Engineering, Outsystems \"This is the product you thought of while reading Accelerate. We can experiment and make more changes - while knowing we're headed in the right direction.\" Gady Pitaru CTO, BadgerMaps \"I've tried just about every one of these tools and ended up choosing Haystack. Easy to use, no fluff and I love reading insights with my morning coffee.\" Jean-vicente De Carvalho CTO, LyteHouse Deliver Software Faster, Better, and More Predictably Start free ",
+   "email_candidates": [
+    {
+     "email": "julian@usehaystack.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Julian Colina",
+     "role": "Founder"
+    },
+    {
+     "email": "kan@usehaystack.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Kan Yilmaz",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ebbe24a814",
+   "company": "Kabilah",
+   "website": "https://www.kabilah.com",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "Unspecified",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Agentic AI for Nursing Workflows Kabilah is the most trusted enterprise-grade AI platform designed specifically for nursing workflows. We reduce burnout, enhance system efficiency, and enable high quality care. Generative AI, Digital Health, Healthcare, AI, Healthcare, Unspecified",
+   "site_text": "[https://www.kabilah.com/]\nKabilah for Nurses BECKER'S HOSPITAL REVIEW â BEYOND DOCUMENTATION: HOW KABILAH IS REDEFINING ROI FOR NURSING AI Request a Demo GENERATIVE AI FOR NURSING WORKFLOWS Kabilah is the most trusted enterprise-grade AI platform designed specifically for nursing workflows. We alleviate burnout, enhance system efficiency, and enable high quality care. Request a Demo Calculate Your ROI Join the movement with Kabilah Our Solution The Kabilah Platform Kabilah's features are designed to solve the most pressing issues for inpatient nursing workflows. Consistent & Complete Verbal Handoff Kabilah offers a proprietary solution for all transitions of care - from the ER, all the way to discharge. This system guarantees every verbal handoff is thorough and accurate by notifying nurses of any missing critical information and providing corrections for inaccuracies, ensuring reliable and effective communication. Simple Digital Report Sheets Kabilah revamps fragmented paper report sheets into a clean digital format that saves time and eliminates the risk of lost or incorrect information. Nurses no longer need to rewrite all patient details at the beginning of each shift by hand, and everything they need is consistently in one place. Guided Task Management Kabilah streamlines task management by generating a context-aware ToDo list that prioritizes urgency and organizes tasks for optimal efficiency. Our platform simplifies workflows, ensuring the highest degree of patient safety while making the day more manageable for each nurse. Efficient Charting & Flowsheet Completion Kabilah integrates with your health system's tech stack, eliminating the need for redundant charting. Nurses can export their report sheets to various note types and flowsheets within the EHR, reducing documentation burden and allowing more focus on patient care. For Nurses Every superhero needs their sidekick. Nursing is demanding, and you deserve tools that make your life easier. Kabilah is your HIPAA-compliant, AI-powered assistant, designed to support verbal handoff, automatically generate your report sheet, and reduce the time you spend clicking and charting. You save lives, we handle the rest. Join Kabilah Today 44% of nurses who quit report burnout as the primary cause Nursing Schools We believe empowering nurses begins with education and training. From the very start of their journey, nurses should feel supported in learning how to work with AI as a tool that strengthens their practice. That is why we bring our technology into simulation labs, giving nursing students the opportunity to engage with AI in a hands-on environment. Learn More For Hospitals An Enterprise-Grade Solution Kabilah comes with everything you need for a successful deployment. Built into Your EHR Kabilah is compatible with all major EHRs over standard FHIR protocols. Go live in 2-4 weeks. HIPAA Compliant Kabilah's enterprise-grade technology is 100% HIPAA Compliant with multiple layers of security controls. Onsite Support Our team of expert educators and engineers are available 24/7 to support on-site deployment. Secure Cloud & Encryption All your data is encrypted in transit and at rest. It is processed in highly secure, US based data centers and deleted after processing. Custom Governance Customization to fit your security compliance and data governance needs, including Single Sign-On (SSO) for controlled user access. Analytics & Reporting Kabilah provides a dedicated portal to monitor usage, including a multitude of key performance indicators and nursing quality metrics. Testimonials What Our Customers Say See how Kabilah is revolutionizing nursing by improving the quality of care and transforming nurses' lives. \"Kabilah is designed to fit easily into our teamsâ day-to-day workflows and is helping us better serve our patients by eliminating miscommunication, reducing documentation burden, and ultimately decreasing burnout by keeping our nurses happier. Kabilah is the future",
+   "email_candidates": [
+    {
+     "email": "sarah@kabilah.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sarah Raza",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "umar@kabilah.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Umar Nadeem",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ef539bb926",
+   "company": "Compose.ai",
+   "website": "https://compose.ai",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "Carlsbad, CA, USA; San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. Cut your writing time by 40% with AI-powered autocomplete Compose AI is a free Chrome extension that helps automate your writing using AI. You know how Gmail autocompletes your emails? Compose.ai is like that but everywhere, like how Grammarly works. Artificial Intelligence, NLP, Email, B2B, Productivity, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.compose.ai/]\nCompose AI: Automated Your Writing Pricing Features Testimonials FAQ Sign In Install Extension AI-Powered Writing Tool Generate any text using AI. Autocomplete your sentences where you type. With Compose AI, you can write emails, create documents, and chat faster. Sign Up It's free Install Extension Backed by Try it now Trusted by 10,000+ teams and 400,000 people Write Faster With AI, Save Time Compose AI is your personal AI writing assistant that cuts your writing time by 40% Autocomplete Everywhere Use autocomplete across all of your tools & accelerate your writing. Personalization Of Your Writing Style Our platform learns your \"voice\" & suggests personalized phrases. Unobtrusive Universal Integration Our system seamlessly integrates with your existing platforms & tools. Loved by Everybody A recent study found that $100k+ earners spend 87% of their workweek typing. Our platform is changing that: consider Compose AI as your personal writing assistant. Frequently Asked Questions What is Compose AI? Compose AI is a free Chrome plugin that accelerates your writing, lets you use auto complete anywhere, and will decrease your time spent typing. What is the cost? The plugin is free to use forever, and there is a premium version with some advanced features including use of some of our personalization features. How do I contact support? We can be contacted with any questions at support (at) Compose AI, and we'd love to help you in any way that we can. What about my privacy? We take your privacy extremely seriously. Your text is only used to provide you with the best autocompletions possible. We will never sell your data. View our privacy policy for more details. Guide Watch guide Jobs Join the team Social Links Twitter Linkedin TikTok Instagram Facebook Legal Privacy Policy Terms of Use Copyright © 2024 Compose AI, INC. All rights reserved.",
+   "email_candidates": [
+    {
+     "email": "wilson@compose.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Wilson Mitchell",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

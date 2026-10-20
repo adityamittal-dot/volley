@@ -1,0 +1,335 @@
+{
+ "leads": [
+  {
+   "id": "a667857b45",
+   "company": "StackRyze",
+   "website": "https://stackryze.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Stackryze is a registered MSME in India that develops tools to support developers, learners, and technology enthusiasts.. Languages: Go, JavaScript, Python. Topics: developer-tools, dns, dns-server, domain, freedomain, homelab, hosting, opensource, powerdns",
+   "site_text": "[https://stackryze.com/]\nStackryze. Infrastructure people can actually trust. Stackryze Reliable infrastructure for the modern web . A software company shipping infrastructure people can actually trust. Domains and StackNS are free for everyone today, with more products on the way. Explore our products Check our GitHub Our open source platforms are supported by Our products Products that ship together. We build infrastructure that ships together. Domains and StackNS are free for everyone. StackHost is on the way. StackNS Modern DNS hosting for everyone. Free, security-first DNS hosting on open-source software. Built to be reliable, transparent, and free for everyone to use. Native support for SVCB, HTTPS, and TLSA records Clean, fast dashboard for managing zones Global nameservers in NYC, Hyderabad, and Nuremberg Open source, community-driven, 100% free Start managing now Domains A name for everyone online. A public namespace, free for everyone. Built for open-source projects, communities, and individuals to launch ideas without financial barriers. Forever free, no subscriptions or hidden fees Full DNS control: point anywhere or use StackNS Instant setup with one-click GitHub login Four unique extensions: .indevs.in, .sryze.cc, .ryzedns.org, .nx.kg Claim a free domain StackHost Coming soon A game hosting platform for true gamers. Wait for exciting features tuned for low latency and persistent worlds, built for true gamers. Check out our blog for the latest updates on StackHost. Checkout our Blog Why trust us We've already shipped the hard part of the internet. Our open-source StackNS and Domains platforms are used by developers in 120+ countries. The numbers below are the receipts, and the community around them is what keeps us honest, because the people using it are the first to notice when something is off. 46k+ domains live 26k+ users 120+ countries 99.9% uptime proven Trusted by thousands of builders. Our open-source platforms are used by a growing community of people who'd never heard of us. Every star next to this is someone choosing to keep them running. FreeDomains · — on GitHub What we believe Built by people who care. We're a small team that cares about doing this right. Here's what that means in practice and how it shapes everything we ship. Explore our products Get in touch Real change We're building the infrastructure we always wanted to use reliable, transparent, and genuinely useful. We build products that solve problems we have experienced ourselves We believe good infrastructure should make people's work easier, not more complicated We focus on creating things that remain useful for years, not months Fair pricing Great infrastructure should be accessible, with pricing that is easy to understand and impossible to be surprised by. We keep our pricing simple, predictable, and transparent We provide free products where we believe access matters most We never rely on hidden fees or pricing that punishes growth Thoughtful engineering We care deeply about how our products are designed, built, and maintained. We take ownership of every layer of the products we create We value simplicity, reliability, and attention to detail We believe good engineering is measured by how dependable a product feels Customer ownership People should remain in control of their data and the infrastructure they depend on. We make it easy to access, export, and move your data We avoid unnecessary lock-in and closed ecosystems We build products that respect your ownership and choices Transparency Trust is earned through openness, honest communication, and accountability. We share our progress, decisions, and challenges openly We communicate clearly about what works and what still needs improvement We believe people deserve visibility into the products they rely on Built for the long term We're building a company that we hope will still matter many years from now. We make decisions with longevity in mind We prefer sustainable growth over short-",
+   "email_candidates": [
+    {
+     "email": "hello@stackryze.com",
+     "where": "https://stackryze.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "reportabuse@stackryze.com",
+     "where": "https://stackryze.com/contact",
+     "kind": "personal"
+    },
+    {
+     "email": "business@stackryze.com",
+     "where": "https://stackryze.com/contact",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "a667857b45-ref",
+   "company": "StackRyze",
+   "website": "https://stackryze.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Stackryze is a registered MSME in India that develops tools to support developers, learners, and technology enthusiasts.. Languages: Go, JavaScript, Python. Topics: developer-tools, dns, dns-server, domain, freedomain, homelab, hosting, opensource, powerdns",
+   "site_text": "[https://stackryze.com/]\nStackryze. Infrastructure people can actually trust. Stackryze Reliable infrastructure for the modern web . A software company shipping infrastructure people can actually trust. Domains and StackNS are free for everyone today, with more products on the way. Explore our products Check our GitHub Our open source platforms are supported by Our products Products that ship together. We build infrastructure that ships together. Domains and StackNS are free for everyone. StackHost is on the way. StackNS Modern DNS hosting for everyone. Free, security-first DNS hosting on open-source software. Built to be reliable, transparent, and free for everyone to use. Native support for SVCB, HTTPS, and TLSA records Clean, fast dashboard for managing zones Global nameservers in NYC, Hyderabad, and Nuremberg Open source, community-driven, 100% free Start managing now Domains A name for everyone online. A public namespace, free for everyone. Built for open-source projects, communities, and individuals to launch ideas without financial barriers. Forever free, no subscriptions or hidden fees Full DNS control: point anywhere or use StackNS Instant setup with one-click GitHub login Four unique extensions: .indevs.in, .sryze.cc, .ryzedns.org, .nx.kg Claim a free domain StackHost Coming soon A game hosting platform for true gamers. Wait for exciting features tuned for low latency and persistent worlds, built for true gamers. Check out our blog for the latest updates on StackHost. Checkout our Blog Why trust us We've already shipped the hard part of the internet. Our open-source StackNS and Domains platforms are used by developers in 120+ countries. The numbers below are the receipts, and the community around them is what keeps us honest, because the people using it are the first to notice when something is off. 46k+ domains live 26k+ users 120+ countries 99.9% uptime proven Trusted by thousands of builders. Our open-source platforms are used by a growing community of people who'd never heard of us. Every star next to this is someone choosing to keep them running. FreeDomains · — on GitHub What we believe Built by people who care. We're a small team that cares about doing this right. Here's what that means in practice and how it shapes everything we ship. Explore our products Get in touch Real change We're building the infrastructure we always wanted to use reliable, transparent, and genuinely useful. We build products that solve problems we have experienced ourselves We believe good infrastructure should make people's work easier, not more complicated We focus on creating things that remain useful for years, not months Fair pricing Great infrastructure should be accessible, with pricing that is easy to understand and impossible to be surprised by. We keep our pricing simple, predictable, and transparent We provide free products where we believe access matters most We never rely on hidden fees or pricing that punishes growth Thoughtful engineering We care deeply about how our products are designed, built, and maintained. We take ownership of every layer of the products we create We value simplicity, reliability, and attention to detail We believe good engineering is measured by how dependable a product feels Customer ownership People should remain in control of their data and the infrastructure they depend on. We make it easy to access, export, and move your data We avoid unnecessary lock-in and closed ecosystems We build products that respect your ownership and choices Transparency Trust is earned through openness, honest communication, and accountability. We share our progress, decisions, and challenges openly We communicate clearly about what works and what still needs improvement We believe people deserve visibility into the products they rely on Built for the long term We're building a company that we hope will still matter many years from now. We make decisions with longevity in mind We prefer sustainable growth over short-",
+   "email_candidates": [
+    {
+     "email": "sudheerbhuvana25@gmail.com",
+     "where": "GitHub commits (stackryze)",
+     "kind": "personal",
+     "name": "Sudheer Bhuvana",
+     "commits": 32
+    },
+    {
+     "email": "byrrajuvishnuvardhan@gmail.com",
+     "where": "GitHub commits (stackryze)",
+     "kind": "personal",
+     "name": "VishnuByrraju",
+     "commits": 25
+    },
+    {
+     "email": "saisurajch@gmail.com",
+     "where": "GitHub commits (saisurajch)",
+     "kind": "personal",
+     "name": "Sai Suraj Ch",
+     "commits": 13
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "f0c4f5c9d7",
+   "company": "Fewinfos",
+   "website": "https://fewinfos.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python. Topics: explainable-ai, javascript, machine-learning, vercel",
+   "site_text": "[https://fewinfos.com/]\nTitle: Transform Your Business with FewInfos\n\nURL Source: https://fewinfos.com/\n\nMarkdown Content:\nWelcome to the Future\n\nBuilding services, products, and open-source technologies that power innovation, growth, and global success.\n\n### 25+\n\nProjects\n\n### 98%\n\nSatisfaction\n\n### 24/7\n\nSupport\n\n### About FewInfos\n\nWe are pioneers in delivering transformative technology services, products, and open-source innovations that empower businesses to thrive in the digital age. Our passion for innovation drives everything we do.\n\n2+Years Experience\n\n30+Happy Clients\n\n25+Projects Done\n\n## Gallery\n\nExplore our portfolio of successful projects\n\n![Image 1: Gallery 1](https://fewinfos.com/static/media/1.e869c86e638a6c5282bf.jpg)\n\n![Image 2: Gallery 2](https://fewinfos.com/static/media/2.95bb0104b6d4a972e0bc.jpg)\n\n![Image 3: Gallery 3](https://fewinfos.com/static/media/3.1374424273d80511e1a6.jpg)\n\n![Image 4: Gallery 4](https://fewinfos.com/static/media/4.8da7bb4f3277440af5cb.jpg)\n\n![Image 5: Gallery 5](https://fewinfos.com/static/media/5.786643261bf25e19588a.jpg)\n\n![Image 6: Gallery 6](https://fewinfos.com/static/media/6.7c57cefc296b8f50db5e.jpg)\n\n![Image 7: Gallery 7](https://fewinfos.com/static/media/7.cf8a8b91862a0741b383.jpg)\n\n![Image 8: Gallery 8](https://fewinfos.com/static/media/8.7dccff5e77451ceb6041.jpg)\n\n![Image 9: Gallery 9](https://fewinfos.com/static/media/9.f8d615c71046bc54c1a8.jpg)\n\n![Image 10: Gallery 10](https://fewinfos.com/static/media/10.20df3fdcfbfac79172a4.jpg)\n\n![Image 11: Gallery 1](https://fewinfos.com/static/media/1.e869c86e638a6c5282bf.jpg)\n\n![Image 12: Gallery 2](https://fewinfos.com/static/media/2.95bb0104b6d4a972e0bc.jpg)\n\n![Image 13: Gallery 3](https://fewinfos.com/static/media/3.1374424273d80511e1a6.jpg)\n\n![Image 14: Gallery 4](https://fewinfos.com/static/media/4.8da7bb4f3277440af5cb.jpg)\n\n![Image 15: Gallery 5](https://fewinfos.com/static/media/5.786643261bf25e19588a.jpg)\n\n![Image 16: Gallery 6](https://fewinfos.com/static/media/6.7c57cefc296b8f50db5e.jpg)\n\n![Image 17: Gallery 7](https://fewinfos.com/static/media/7.cf8a8b91862a0741b383.jpg)\n\n![Image 18: Gallery 8](https://fewinfos.com/static/media/8.7dccff5e77451ceb6041.jpg)\n\n![Image 19: Gallery 9](https://fewinfos.com/static/media/9.f8d615c71046bc54c1a8.jpg)\n\n![Image 20: Gallery 10](https://fewinfos.com/static/media/10.20df3fdcfbfac79172a4.jpg)\n\n![Image 21: Gallery 1](https://fewinfos.com/static/media/11.893290a67e1e47744bec.jpg)\n\n![Image 22: Gallery 2](https://fewinfos.com/static/media/12.bbce2b13c52401b69ed8.jpg)\n\n![Image 23: Gallery 3](https://fewinfos.com/static/media/14.61be88e32fea73ee1c5a.jpg)\n\n![Image 24: Gallery 4](https://fewinfos.com/static/media/15.09cbe195a35586de93ab.jpg)\n\n![Image 25: Gallery 5](https://fewinfos.com/static/media/16.985527d17b7993dbb154.jpg)\n\n![Image 26: Gallery 6](https://fewinfos.com/static/media/17.7ff996b1f8876ab8f5e6.jpg)\n\n![Image 27: Gallery 7](https://fewinfos.com/static/media/18.34c7ddd21f49d3cae81d.jpg)\n\n![Image 28: Gallery 8](https://fewinfos.com/static/media/19.3c3bcf9ace02575a20c5.jpg)\n\n![Image 29: Gallery 9](https://fewinfos.com/static/media/20.3be29d3c565ca1f2bfb6.jpg)\n\n![Image 30: Gallery 1](https://fewinfos.com/static/media/11.893290a67e1e47744bec.jpg)\n\n![Image 31: Gallery 2](https://fewinfos.com/static/media/12.bbce2b13c52401b69ed8.jpg)\n\n![Image 32: Gallery 3](https://fewinfos.com/static/media/14.61be88e32fea73ee1c5a.jpg)\n\n![Image 33: Gallery 4](https://fewinfos.com/static/media/15.09cbe195a35586de93ab.jpg)\n\n![Image 34: Gallery 5](https://fewinfos.com/static/media/16.985527d17b7993dbb154.jpg)\n\n![Image 35: Gallery 6](https://fewinfos.com/static/media/17.7ff996b1f8876ab8f5e6.jpg)\n\n![Image 36: Gallery 7](https://fewinfos.com/static/media/18.34c7ddd21f49d3cae81d.jpg)\n\n![Image 37: Gallery 8](https://fewinfos.com/static/media/19.3c3bcf9ace02575a20c5.jpg)\n\n![Image 38: Gallery 9](https://fewinfos.com/static/media/20.3be29d3c565ca1f2bfb6.jpg)\n\n![Image 39: Gallery 1](https://fewinfos.com/static/media/",
+   "email_candidates": [
+    {
+     "email": "fewinfos@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "f0c4f5c9d7-ref",
+   "company": "Fewinfos",
+   "website": "https://fewinfos.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python. Topics: explainable-ai, javascript, machine-learning, vercel",
+   "site_text": "[https://fewinfos.com/]\nTitle: Transform Your Business with FewInfos\n\nURL Source: https://fewinfos.com/\n\nMarkdown Content:\nWelcome to the Future\n\nBuilding services, products, and open-source technologies that power innovation, growth, and global success.\n\n### 25+\n\nProjects\n\n### 98%\n\nSatisfaction\n\n### 24/7\n\nSupport\n\n### About FewInfos\n\nWe are pioneers in delivering transformative technology services, products, and open-source innovations that empower businesses to thrive in the digital age. Our passion for innovation drives everything we do.\n\n2+Years Experience\n\n30+Happy Clients\n\n25+Projects Done\n\n## Gallery\n\nExplore our portfolio of successful projects\n\n![Image 1: Gallery 1](https://fewinfos.com/static/media/1.e869c86e638a6c5282bf.jpg)\n\n![Image 2: Gallery 2](https://fewinfos.com/static/media/2.95bb0104b6d4a972e0bc.jpg)\n\n![Image 3: Gallery 3](https://fewinfos.com/static/media/3.1374424273d80511e1a6.jpg)\n\n![Image 4: Gallery 4](https://fewinfos.com/static/media/4.8da7bb4f3277440af5cb.jpg)\n\n![Image 5: Gallery 5](https://fewinfos.com/static/media/5.786643261bf25e19588a.jpg)\n\n![Image 6: Gallery 6](https://fewinfos.com/static/media/6.7c57cefc296b8f50db5e.jpg)\n\n![Image 7: Gallery 7](https://fewinfos.com/static/media/7.cf8a8b91862a0741b383.jpg)\n\n![Image 8: Gallery 8](https://fewinfos.com/static/media/8.7dccff5e77451ceb6041.jpg)\n\n![Image 9: Gallery 9](https://fewinfos.com/static/media/9.f8d615c71046bc54c1a8.jpg)\n\n![Image 10: Gallery 10](https://fewinfos.com/static/media/10.20df3fdcfbfac79172a4.jpg)\n\n![Image 11: Gallery 1](https://fewinfos.com/static/media/1.e869c86e638a6c5282bf.jpg)\n\n![Image 12: Gallery 2](https://fewinfos.com/static/media/2.95bb0104b6d4a972e0bc.jpg)\n\n![Image 13: Gallery 3](https://fewinfos.com/static/media/3.1374424273d80511e1a6.jpg)\n\n![Image 14: Gallery 4](https://fewinfos.com/static/media/4.8da7bb4f3277440af5cb.jpg)\n\n![Image 15: Gallery 5](https://fewinfos.com/static/media/5.786643261bf25e19588a.jpg)\n\n![Image 16: Gallery 6](https://fewinfos.com/static/media/6.7c57cefc296b8f50db5e.jpg)\n\n![Image 17: Gallery 7](https://fewinfos.com/static/media/7.cf8a8b91862a0741b383.jpg)\n\n![Image 18: Gallery 8](https://fewinfos.com/static/media/8.7dccff5e77451ceb6041.jpg)\n\n![Image 19: Gallery 9](https://fewinfos.com/static/media/9.f8d615c71046bc54c1a8.jpg)\n\n![Image 20: Gallery 10](https://fewinfos.com/static/media/10.20df3fdcfbfac79172a4.jpg)\n\n![Image 21: Gallery 1](https://fewinfos.com/static/media/11.893290a67e1e47744bec.jpg)\n\n![Image 22: Gallery 2](https://fewinfos.com/static/media/12.bbce2b13c52401b69ed8.jpg)\n\n![Image 23: Gallery 3](https://fewinfos.com/static/media/14.61be88e32fea73ee1c5a.jpg)\n\n![Image 24: Gallery 4](https://fewinfos.com/static/media/15.09cbe195a35586de93ab.jpg)\n\n![Image 25: Gallery 5](https://fewinfos.com/static/media/16.985527d17b7993dbb154.jpg)\n\n![Image 26: Gallery 6](https://fewinfos.com/static/media/17.7ff996b1f8876ab8f5e6.jpg)\n\n![Image 27: Gallery 7](https://fewinfos.com/static/media/18.34c7ddd21f49d3cae81d.jpg)\n\n![Image 28: Gallery 8](https://fewinfos.com/static/media/19.3c3bcf9ace02575a20c5.jpg)\n\n![Image 29: Gallery 9](https://fewinfos.com/static/media/20.3be29d3c565ca1f2bfb6.jpg)\n\n![Image 30: Gallery 1](https://fewinfos.com/static/media/11.893290a67e1e47744bec.jpg)\n\n![Image 31: Gallery 2](https://fewinfos.com/static/media/12.bbce2b13c52401b69ed8.jpg)\n\n![Image 32: Gallery 3](https://fewinfos.com/static/media/14.61be88e32fea73ee1c5a.jpg)\n\n![Image 33: Gallery 4](https://fewinfos.com/static/media/15.09cbe195a35586de93ab.jpg)\n\n![Image 34: Gallery 5](https://fewinfos.com/static/media/16.985527d17b7993dbb154.jpg)\n\n![Image 35: Gallery 6](https://fewinfos.com/static/media/17.7ff996b1f8876ab8f5e6.jpg)\n\n![Image 36: Gallery 7](https://fewinfos.com/static/media/18.34c7ddd21f49d3cae81d.jpg)\n\n![Image 37: Gallery 8](https://fewinfos.com/static/media/19.3c3bcf9ace02575a20c5.jpg)\n\n![Image 38: Gallery 9](https://fewinfos.com/static/media/20.3be29d3c565ca1f2bfb6.jpg)\n\n![Image 39: Gallery 1](https://fewinfos.com/static/media/",
+   "email_candidates": [
+    {
+     "email": "naveenrajthiyagarajan6@gmail.com",
+     "where": "GitHub commits (Fewinfos)",
+     "kind": "personal",
+     "name": "navi-04",
+     "commits": 36
+    },
+    {
+     "email": "r.muthuraj128@gmail.com",
+     "where": "GitHub commits (Fewinfos)",
+     "kind": "personal",
+     "name": "muthuraj128",
+     "commits": 4
+    },
+    {
+     "email": "priyadharshini26806@gmail.com",
+     "where": "GitHub commits (Fewinfos)",
+     "kind": "personal",
+     "name": "priyadharshini26806",
+     "commits": 15
+    },
+    {
+     "email": "sridevisrinivasan1206@gmail.com",
+     "where": "GitHub commits (Fewinfos)",
+     "kind": "personal",
+     "name": "srisridevi1206",
+     "commits": 4
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "a5d3884530",
+   "company": "Roxonn",
+   "website": "https://roxonn.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "ROXONN is a decentralized ecosystem powered by the ROXN token. Users earn rewards for contributions, participate in governance, and stake ROXN for benefits. Our. Languages: Python, TypeScript",
+   "site_text": "[https://www.roxonn.com/]\nTitle: Roxonn - Decentralized Contribution Platform\n\nURL Source: https://www.roxonn.com/\n\nMarkdown Content:\n## Contribution Areas\n\nChoose your path and start earning through meaningful contributions\n\n### Open Source Development\n\nContribute to public projects and earn tokens while building your portfolio.\n\n### Enterprise Solutions\n\nWork on private enterprise projects with competitive compensation.\n\n### AI & Web3 Projects\n\nJoin cutting-edge projects in artificial intelligence and blockchain.\n\n### Infrastructure Projects\n\nBuild scalable infrastructure and earn rewards for your expertise.\n\n### Security Audits\n\nParticipate in security reviews and vulnerability assessments.\n\n### Community Projects\n\nLead or contribute to community-driven initiatives.\n\n### DeFi Development\n\nBuild decentralized finance applications and protocols.\n\n### Protocol Development\n\nDesign and implement new blockchain protocols and standards.\n\n## Our Products\n\nBuilding the future of decentralized software, together.\n\n### The Roxonn Platform\n\nA Web3 platform where open-source projects can post bounties and developers can earn rewards in XDC and our native ROXN token.\n\n[Learn More](https://app.roxonn.com/)\n\n### The \"Roxonn Code\" VS Code Extension\n\nAn open-source AI coding assistant that provides free prompt credits to new users and is a primary consumer of our AI network.\n\n[Learn More](https://marketplace.visualstudio.com/items?itemName=Roxonn.roxonn-code)\n\n### Roxonn Node - The Proof of Compute Network\n\nA decentralized network of community-run 'exo' nodes that process AI tasks. Node operators earn \"compute units\" recorded on the XDC blockchain, which will be convertible to ROXN token rewards.\n\n[Learn More](https://github.com/Roxonn-FutureTech/Roxonn-Node)\n\n## Roxonn Code - AI Development Assistant\n\nExperience the future of software development with Roxonn Code, our AI-powered VS Code extension that enhances productivity, ensures quality, and accelerates innovation.\n\n### AI Code Generation\n\nGenerate production-ready code with context-aware AI assistance\n\nSmart Contract Interaction\n\ntypescript\n\n#### AI-Powered Code Review\n\nIntelligent analysis of contributions using advanced ML models\n\n#### Smart Contract Generation\n\nAutomated smart contract creation with security best practices\n\n#### Code Optimization\n\nAI-driven suggestions for performance improvements\n\n#### Predictive Analytics\n\nForecast project outcomes and contribution impact\n\nReady to supercharge your development workflow with Roxonn Code?\n\n## ROXN Token Economics\n\nA fair and sustainable token model designed to reward contributors and drive ecosystem growth\n\nBuilt on XDC Network\n\n[View Contract](https://xdcscan.com/token/0x2d1c02cf9e7a1659b82185fef243078bfd237b23)\n\n### Governance Power\n\nVote on proposals and shape the organization's future\n\n### Contribution Rewards\n\nEarn tokens for completing tasks and projects\n\n### Value Accrual\n\nToken value grows with organization success\n\n### Staking Benefits\n\nEarn additional rewards by staking tokens\n\n### Total Supply\n\n1,000,000,000\n\nROXN\n\nROXN\n\nDistribution\n\n1B Supply\n\n#### How to Earn ROXN\n\n*   Complete development tasks and bug fixes\n*   Participate in governance decisions\n*   Stake tokens for passive rewards\n*   Contribute to community growth initiatives\n\n#### Token Utilities\n\n*   Governance voting and proposal creation\n*   Staking for enhanced platform benefits\n*   Access to premium platform features\n*   Incentivizing ecosystem participation\n\n## Latest Insights\n\nDiscover our vision and insights about the future of software development\n\n## Decentralized Governance\n\nComing Soon\n\nShape the future of Roxonn through decentralized decision-making\n\n### On-Chain Voting\n\nParticipate in transparent, verifiable voting using your ROXN tokens\n\n### DAO Structure\n\nBe part of a Decentralized Autonomous Organization\n\n### Protocol Proposals\n\nSubmit and vote on protocol improvement proposals\n\n### Parameter Control\n\nVote on protocol parameters and reward mechani",
+   "email_candidates": [
+    {
+     "email": "connect@roxonn.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "a5d3884530-ref",
+   "company": "Roxonn",
+   "website": "https://roxonn.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "ROXONN is a decentralized ecosystem powered by the ROXN token. Users earn rewards for contributions, participate in governance, and stake ROXN for benefits. Our. Languages: Python, TypeScript",
+   "site_text": "[https://www.roxonn.com/]\nTitle: Roxonn - Decentralized Contribution Platform\n\nURL Source: https://www.roxonn.com/\n\nMarkdown Content:\n## Contribution Areas\n\nChoose your path and start earning through meaningful contributions\n\n### Open Source Development\n\nContribute to public projects and earn tokens while building your portfolio.\n\n### Enterprise Solutions\n\nWork on private enterprise projects with competitive compensation.\n\n### AI & Web3 Projects\n\nJoin cutting-edge projects in artificial intelligence and blockchain.\n\n### Infrastructure Projects\n\nBuild scalable infrastructure and earn rewards for your expertise.\n\n### Security Audits\n\nParticipate in security reviews and vulnerability assessments.\n\n### Community Projects\n\nLead or contribute to community-driven initiatives.\n\n### DeFi Development\n\nBuild decentralized finance applications and protocols.\n\n### Protocol Development\n\nDesign and implement new blockchain protocols and standards.\n\n## Our Products\n\nBuilding the future of decentralized software, together.\n\n### The Roxonn Platform\n\nA Web3 platform where open-source projects can post bounties and developers can earn rewards in XDC and our native ROXN token.\n\n[Learn More](https://app.roxonn.com/)\n\n### The \"Roxonn Code\" VS Code Extension\n\nAn open-source AI coding assistant that provides free prompt credits to new users and is a primary consumer of our AI network.\n\n[Learn More](https://marketplace.visualstudio.com/items?itemName=Roxonn.roxonn-code)\n\n### Roxonn Node - The Proof of Compute Network\n\nA decentralized network of community-run 'exo' nodes that process AI tasks. Node operators earn \"compute units\" recorded on the XDC blockchain, which will be convertible to ROXN token rewards.\n\n[Learn More](https://github.com/Roxonn-FutureTech/Roxonn-Node)\n\n## Roxonn Code - AI Development Assistant\n\nExperience the future of software development with Roxonn Code, our AI-powered VS Code extension that enhances productivity, ensures quality, and accelerates innovation.\n\n### AI Code Generation\n\nGenerate production-ready code with context-aware AI assistance\n\nSmart Contract Interaction\n\ntypescript\n\n#### AI-Powered Code Review\n\nIntelligent analysis of contributions using advanced ML models\n\n#### Smart Contract Generation\n\nAutomated smart contract creation with security best practices\n\n#### Code Optimization\n\nAI-driven suggestions for performance improvements\n\n#### Predictive Analytics\n\nForecast project outcomes and contribution impact\n\nReady to supercharge your development workflow with Roxonn Code?\n\n## ROXN Token Economics\n\nA fair and sustainable token model designed to reward contributors and drive ecosystem growth\n\nBuilt on XDC Network\n\n[View Contract](https://xdcscan.com/token/0x2d1c02cf9e7a1659b82185fef243078bfd237b23)\n\n### Governance Power\n\nVote on proposals and shape the organization's future\n\n### Contribution Rewards\n\nEarn tokens for completing tasks and projects\n\n### Value Accrual\n\nToken value grows with organization success\n\n### Staking Benefits\n\nEarn additional rewards by staking tokens\n\n### Total Supply\n\n1,000,000,000\n\nROXN\n\nROXN\n\nDistribution\n\n1B Supply\n\n#### How to Earn ROXN\n\n*   Complete development tasks and bug fixes\n*   Participate in governance decisions\n*   Stake tokens for passive rewards\n*   Contribute to community growth initiatives\n\n#### Token Utilities\n\n*   Governance voting and proposal creation\n*   Staking for enhanced platform benefits\n*   Access to premium platform features\n*   Incentivizing ecosystem participation\n\n## Latest Insights\n\nDiscover our vision and insights about the future of software development\n\n## Decentralized Governance\n\nComing Soon\n\nShape the future of Roxonn through decentralized decision-making\n\n### On-Chain Voting\n\nParticipate in transparent, verifiable voting using your ROXN tokens\n\n### DAO Structure\n\nBe part of a Decentralized Autonomous Organization\n\n### Protocol Proposals\n\nSubmit and vote on protocol improvement proposals\n\n### Parameter Control\n\nVote on protocol parameters and reward mechani",
+   "email_candidates": [
+    {
+     "email": "dineshr@roxonn.com",
+     "where": "GitHub commits (Roxonn-FutureTech)",
+     "kind": "personal",
+     "name": "dineshroxonn",
+     "commits": 14
+    },
+    {
+     "email": "domantas.kazl@gmail.com",
+     "where": "GitHub commits (Roxonn-FutureTech)",
+     "kind": "personal",
+     "name": "dominitas",
+     "commits": 16
+    },
+    {
+     "email": "sweekarsonti1234@gmail.com",
+     "where": "GitHub commits (Roxonn-FutureTech)",
+     "kind": "personal",
+     "name": "beginner4a3",
+     "commits": 3
+    },
+    {
+     "email": "ajay217k@gmail.com",
+     "where": "GitHub commits (Roxonn-FutureTech)",
+     "kind": "personal",
+     "name": "Ajay Kumar",
+     "commits": 6
+    },
+    {
+     "email": "ravip@roxonn.com",
+     "where": "GitHub commits (Roxonn-FutureTech)",
+     "kind": "personal",
+     "name": "raviroxonn",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "d0e69f64f8",
+   "company": "Android Club VIT Bhopal",
+   "website": "https://androidclub.tech",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We believe in learning by building, growing together, and shipping real projects.. Languages: Python, TypeScript",
+   "site_text": "[https://androidclub.tech/]\nTitle: Android Club | VIT Bhopal\n\nURL Source: https://androidclub.tech/\n\nPublished Time: Tue, 13 Oct 2026 05:17:27 GMT\n\nMarkdown Content:\nIntro\n\nAbout\n\nGallery\n\nBlogs\n\nDroid Coins\n\nTestimonials\n\nIf it's Android, it's Us!\n\nAndroid Club\n\n![Image 1: Quotes](https://androidclub.tech/Homepage_Assets/Homepage_HeroSection_Quotes.webp)\n\nWhy Use JetPack Compose?\n\nModern UI toolkit.\n\n◀\n\nRead More\n\nWhy Kotlin over Java?\n\nConcise and safer.\n\n◀\n\nExploration\n\n◀\n\nDiscovery\n\n◀\n\nDevelopment\n\nHave A Glimpse of the Android Alchemy\n\n01\n\nFounded in 2017 at VIT Bhopal\n\n02\n\n80+ core members, 1K+ enthusiasts\n\n03\n\n40+ Events, Hackathons, Seminars\n\n04\n\nStarted with Android, now expanded to Web, ML, and IoT\n\nJoin the Android Club Community Today\n\nOur Sponsors\n\nWhat do we Stand For?\n\n1\n\nAndroid Development\n\nOur Android Development team specializes in crafting high-quality mobile applications. We leverage the latest technologies, frameworks, and architecture patterns to ensure seamless user experiences and top-notch performance.\n\n2\n\nWeb Development\n\nThe Web Development team builds scalable and responsive web applications. We focus on front-end and back-end development, ensuring smooth user interactions, strong security, and efficient performance across all devices.\n\n3\n\nRnD\n\nOur Research and Development (R&D) team explores emerging technologies, including Machine Learning (ML), the Internet of Things (IoT), and Cybersecurity. We innovate and experiment to push the boundaries of technology and solve complex challenges.\n\n4\n\nUI/UX\n\nThe UI/UX team creates visually appealing and user-friendly designs. We emphasize usability, accessibility, and intuitive interactions, ensuring that our digital products provide exceptional user experiences.\n\nExplore the Android Community\n\nDid you know? Android powers over 70% of smartphones worldwide.\n\nAndroid isn't just an operating system — it's a global community of millions.\n\nExplore Our\n\nEvents\n\nRead Our Blogs\n\n01\n\nJetpack Compose\n\nJetpack Compose is Android's modern toolkit for building native UI. It simplifies and accelerates UI development with less code, powerful tools, and intuitive Kotlin APIs.\n\n02\n\nKotlin Coroutines\n\nKotlin Coroutines simplify asynchronous programming in Android, making it easier to handle tasks like network requests, database access, and more without blocking the main thread.\n\n03\n\nMVVM Architecture\n\nModel-View-ViewModel (MVVM) is a widely used architecture in Android development that helps separate UI logic from business logic, making code more testable and maintainable.\n\n04\n\nAndroid Jetpack Libraries\n\nJetpack is a suite of libraries that help developers follow best practices, reduce boilerplate code, and write robust Android apps. It includes Room, Navigation, WorkManager, and more.\n\nExplore\n\nDroid Coins\n\nDroid Coins are the official digital currency of the Android Club at VIT Bhopal. They can be earned by attending events and participating in club activities, and can be used to redeem cool Android swag. Stay tuned for the launch!\n\nComing Soon - 2026\n\nMessage from the\n\nCore Team\n\n![Image 2: Giriraj Parsewar](https://androidclub.tech/Homepage_Assets/profile-pictures/Giriraj.webp)\n\nGiriraj Parsewar\n\nPresident\n\nIDE that we work on is Innovation, Determination and Enthusiasm! As nothing hinders us in this incessant quest for learning and growth.. Lets Code, create, and conquer in our style!!\n\n![Image 3: Avyaan Verma](https://androidclub.tech/Homepage_Assets/profile-pictures/Avyaan.webp)\n\nAvyaan Verma\n\nVice President\n\nA place more than a group of developers and enthusiasts, with people who cares, guides and inspires.\n\n![Image 4: Ujjawal Patidar](https://androidclub.tech/Homepage_Assets/profile-pictures/Ujjawal.webp)\n\nUjjawal Patidar\n\nGeneral Secretary\n\nI am proud to be part of such an outstanding and dynamic community. The dedication and enthusiasm of our members make this club a truly exceptional place for growth and innovation.\n\n![Image 5: Antareep Dey](https://androidclub.t",
+   "email_candidates": [
+    {
+     "email": "androidclub@vitbhopal.ac.in",
+     "where": "job posting",
+     "kind": "other"
+    },
+    {
+     "email": "44harshitmaurya@gmail.com",
+     "where": "GitHub commits (androidclubvitbhopal)",
+     "kind": "personal",
+     "name": "Harshit Maurya",
+     "commits": 13
+    },
+    {
+     "email": "mishraswara8@gmail.com",
+     "where": "GitHub commits (androidclubvitbhopal)",
+     "kind": "personal",
+     "name": "SwaraMishra07",
+     "commits": 15
+    },
+    {
+     "email": "samaydutta5@gmail.com",
+     "where": "GitHub commits (androidclubvitbhopal)",
+     "kind": "personal",
+     "name": "Tim3-19",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "d09164576b",
+   "company": "Tiles Privacy",
+   "website": "https://www.tiles.run",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Our mission is to bring privacy technology to everyone.. Languages: Python, Rust, TypeScript",
+   "site_text": "[https://www.tiles.run/]\nTiles: A local-first, collaborative AI assistant that works for you. Tiles alpha Own your AI A local-first, collaborative AI assistant that works for you. Built with open models and decentralized protocols. Download for free Apple Silicon Linux Preview of the canary version. Why Tiles? For sensitive knowledge work or personal tasks, your AI shouldn’t require you to trust a third party with your conversations and intellectual property. Run models locally, sync chats peer-to-peer with end-to-end encryption, and use social features, such as sharing chats, built on AT Protocol . Tiles gives you user-owned keys for your digital life with DIDs and UCANs , so your data and identity truly remain yours. Use cases Individuals Plan finances, track health notes, and journal privately. Run models locally, sync across devices, and share only when you choose. Coworking spaces Turn shared compute into private AI infrastructure. Let members use local models from their own devices while keeping identity and data private. Researchers Review literature, analyze datasets, and run agents in preconfigured, resumable research sandboxes. Enterprises Deploy private agentic systems powered by open frontier models. Secure users and agents with zero-trust authentication and authorization, simplify team management, and reduce infrastructure and model costs. What's inside Run polished local models Embedded Pi agent harness for knowledge work, running Google’s gemma-4-12b on llama.cpp , with Agent Plugins support for reusable, skill-based workflows. Own your identity Tiles uses locally generated DIDs and UCANs for zero-trust authentication and authorization. This lets you own and control your identity across your digital life. Use local models on remote devices Securely run local models on a remote device like your home lab, peer-to-peer, from any device. Sync chats across your devices Encrypted peer-to-peer chat sync across your linked devices. Share chats with friends Create a public or private link to a chat session, published on Atmosphere and stored on your own personal data server (PDS). Every chat is a sandbox Coming soon Resume or share chats as sandboxed microVM environments with friends or agents across devices. Open source and free forever Tiles is open source and forever free to use, dual-licensed under MIT and Apache 2.0. It is designed to be future-proof and continue working forever. Designed for the Atmosphere Your online data lives on a Personal Data Server (PDS), and you choose who hosts it. Apps connect to you, not the other way around. No starting over when apps change or disappear. What's the Atmosphere? The Atmosphere is the growing network of apps built on the AT Protocol (ATproto), an open decentralized protocol for social applications and portable identity. For Tiles, this means social features do not need to live inside a closed platform. Learn more about the AT Protocol in the official documentation . Try Tiles now. Download for free Apple Silicon Linux\n\n[https://www.tiles.run/blog]\nBlog | Tiles Tiles alpha Blog Stay updated Follow development in Discord or via email. Published 88 days ago (Fri, Jul 24, 2026) Anandu Pavanan @madcla.ws Atmopsheric sessions Share Tiles chat sessions publicly or privately while retaining ownership with AT Protocol Read post Published 98 days ago (Tue, Jul 14, 2026) Ankesh Bharti @feynon Own your AI with local models and open protocols A Local-First Conf talk about local models, open protocols, and user-owned AI Read post Published 134 days ago (Mon, Jun 8, 2026) Anandu Pavanan @madcla.ws Controlling the Ctrl-C Observations while trying to properly exit from Tiles CLI Read post Published 198 days ago (Sun, Apr 5, 2026) Anandu Pavanan @madcla.ws Ship it up How we package and ship Tiles Read post Published 245 days ago (Tue, Feb 17, 2026) Anandu Pavanan @madcla.ws Move Along, Python Deterministic, portable Python runtimes for Tiles using layered venvstacks Read post Posts here use",
+   "email_candidates": [
+    {
+     "email": "hello@tiles.run",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "d09164576b-ref",
+   "company": "Tiles Privacy",
+   "website": "https://www.tiles.run",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Our mission is to bring privacy technology to everyone.. Languages: Python, Rust, TypeScript",
+   "site_text": "[https://www.tiles.run/]\nTiles: A local-first, collaborative AI assistant that works for you. Tiles alpha Own your AI A local-first, collaborative AI assistant that works for you. Built with open models and decentralized protocols. Download for free Apple Silicon Linux Preview of the canary version. Why Tiles? For sensitive knowledge work or personal tasks, your AI shouldn’t require you to trust a third party with your conversations and intellectual property. Run models locally, sync chats peer-to-peer with end-to-end encryption, and use social features, such as sharing chats, built on AT Protocol . Tiles gives you user-owned keys for your digital life with DIDs and UCANs , so your data and identity truly remain yours. Use cases Individuals Plan finances, track health notes, and journal privately. Run models locally, sync across devices, and share only when you choose. Coworking spaces Turn shared compute into private AI infrastructure. Let members use local models from their own devices while keeping identity and data private. Researchers Review literature, analyze datasets, and run agents in preconfigured, resumable research sandboxes. Enterprises Deploy private agentic systems powered by open frontier models. Secure users and agents with zero-trust authentication and authorization, simplify team management, and reduce infrastructure and model costs. What's inside Run polished local models Embedded Pi agent harness for knowledge work, running Google’s gemma-4-12b on llama.cpp , with Agent Plugins support for reusable, skill-based workflows. Own your identity Tiles uses locally generated DIDs and UCANs for zero-trust authentication and authorization. This lets you own and control your identity across your digital life. Use local models on remote devices Securely run local models on a remote device like your home lab, peer-to-peer, from any device. Sync chats across your devices Encrypted peer-to-peer chat sync across your linked devices. Share chats with friends Create a public or private link to a chat session, published on Atmosphere and stored on your own personal data server (PDS). Every chat is a sandbox Coming soon Resume or share chats as sandboxed microVM environments with friends or agents across devices. Open source and free forever Tiles is open source and forever free to use, dual-licensed under MIT and Apache 2.0. It is designed to be future-proof and continue working forever. Designed for the Atmosphere Your online data lives on a Personal Data Server (PDS), and you choose who hosts it. Apps connect to you, not the other way around. No starting over when apps change or disappear. What's the Atmosphere? The Atmosphere is the growing network of apps built on the AT Protocol (ATproto), an open decentralized protocol for social applications and portable identity. For Tiles, this means social features do not need to live inside a closed platform. Learn more about the AT Protocol in the official documentation . Try Tiles now. Download for free Apple Silicon Linux\n\n[https://www.tiles.run/blog]\nBlog | Tiles Tiles alpha Blog Stay updated Follow development in Discord or via email. Published 88 days ago (Fri, Jul 24, 2026) Anandu Pavanan @madcla.ws Atmopsheric sessions Share Tiles chat sessions publicly or privately while retaining ownership with AT Protocol Read post Published 98 days ago (Tue, Jul 14, 2026) Ankesh Bharti @feynon Own your AI with local models and open protocols A Local-First Conf talk about local models, open protocols, and user-owned AI Read post Published 134 days ago (Mon, Jun 8, 2026) Anandu Pavanan @madcla.ws Controlling the Ctrl-C Observations while trying to properly exit from Tiles CLI Read post Published 198 days ago (Sun, Apr 5, 2026) Anandu Pavanan @madcla.ws Ship it up How we package and ship Tiles Read post Published 245 days ago (Tue, Feb 17, 2026) Anandu Pavanan @madcla.ws Move Along, Python Deterministic, portable Python runtimes for Tiles using layered venvstacks Read post Posts here use",
+   "email_candidates": [
+    {
+     "email": "prashant20.pm@gmail.com",
+     "where": "GitHub commits (tilesprivacy)",
+     "kind": "personal",
+     "name": "Prashant M",
+     "commits": 43
+    },
+    {
+     "email": "pavanan.anandu63@gmail.com",
+     "where": "GitHub commits (tilesprivacy)",
+     "kind": "personal",
+     "name": "madclaws",
+     "commits": 16
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "92fc4ed323",
+   "company": "Anatomic",
+   "website": "https://askanatomic.com",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "Gurugram, HR, India; Noida, UP, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Real-world healthcare data for medical AI Anatomic works with hospitals and doctors to collect surgical video, doctor-patient conversations and medical imaging for AI and robotics research. Our data library includes multi-perspective surgical recordings, diarized and transcribed clinical conversations, and annotated X-ray, CT and MRI series linked to longitudinal patient records. Built through a network of 100+ hospitals and 1,000+ clinicians, with HIPAA- and GDPR-compliant data. B2B, Digital Health, Healthcare, Data Labeling, AI, Healthcare, Healthcare IT, India, South Asia",
+   "site_text": "[https://askanatomic.com/]\nAnatomic: real-world healthcare data for medical AI Skip to content Data Library For hospitals Reach Real-world healthcare data for medical AI. We work with hospitals and doctors to collect surgical video, doctor-patient conversations and medical imaging for AI and robotics research. Backed by Request Sample VIDEO AUDIO IMAGING CLINICAL LONGITUDINAL Pause Data Library Explore the data library. Real clinical environments, captured across perspectives and modalities. Governance Clinical dataset compliant with HIPAA, GDPR. 01 Modality Surgical video Surgical recordings from multiple perspectives, with procedural context for surgical AI, computer vision and robotics research. Access to 1,000+ surgeons Coming soon Inertial motion capture, palm or wrist Active depth sensing Surgeon POV View surgical sample Contains surgical footage Telemetry Microscope view Synchronized views Surgeon POV Telemetry Microscope view Synchronized views Excerpt 0:05 Resolution 3840 × 2160 (4K) Frame rate 50 fps Preview streamed at 1080p Request Sample 02 Modality Clinical conversations Real doctor-patient conversations in high-fidelity audio, with speaker diarization, multilingual transcription, event-boundary tagging and accent mapping. Access to 1,000+ clinicians Sample 1 · 0:44 Sample 2 · 0:35 Doctor · Patient 48 kHz · 16-bit · mono Audio Doctor Patient English 0:00 / 0:44 Transcript Doctor 0:00 They they cause a lot of sleep. So maybe you can take only one tablet at night and not the other one in the morning. Like, both are to be taken? Patient 0:08 At night. Doctor 0:09 Both are to be taken at night. So maybe if the, like, sleepiness is more, you can stop that Cetirizine and just take the Bilastine. Patient 0:19 Okay. It's causing hallucinations sort of things. It's Doctor 0:22 very Stop one medicine. Okay. Stop that Cetirizine. Okay. Okay? And, ask if they have got this medicine because once you'll start that, it will automatically decrease. Okay. Patient 0:34 And, also, doctor, I also feel, like, some pain on that throat. Doctor 0:38 It's a pain from here. Any cough who's also there? Patient 0:43 Yeah. Speakers Doctor, Patient Format .wav Diarization Speaker turns, timed Transcription Multilingual Tags Event boundaries, accent Request Sample 03 Modality Multimodal imaging series + longitudinal context Annotated X-ray, CT and MRI series across organs, pathologies and patient groups, each linked to its interpretation and to the patient's record over time. 5B+ images A Series B Interpretation C Longitudinal record X-ray · Cervical spine Signal Source Before surgery After surgery B Interpretation Radiology report Study 3T MRI - Cervical Spine Plain Patient 34 years / Male TECHNIQUE T1-T2 sagitals, T2 axials, STIR - Saggitals & Coronals. FINDINGS & IMPRESSION Loss of normal cervical curvature. Mild disc desiccation changes noted at multiple vertebral levels. C3-C4 vertebral level: Right foraminal disc protrusion noted causing right neural foraminal narrowing. Severe compression noted on right exiting nerve root. C4-C5 vertebral level: Mild diffuse disc bulge noted. C5-C6 vertebral level: Bilateral paracentral and right foraminal disc protrusion with ligamentum flavum hypertrophy noted causing anterior, posterior thecal sac indentation, bilateral neural foramina narrowing and secondary spinal canal stenosis with maximum spinal canal diameter measuring 7.9 mm. Severe compression on right and moderate to severe compression on left exiting nerve roots. C6-C7 vertebral level: Bilateral paracentral and bilateral foraminal disc protrusion with ligamentum flavum hypertrophy noted causing anterior, posterior thecal sac indentation, bilateral neural foramina narrowing and secondary spinal canal stenosis with maximum spinal canal diameter measuring 6.1 mm. Severe compression on bilateral exiting nerve roots. Mild T2, STIR hyperintensities noted within spinal cord at this level - S/o Focal myelomalacia. Spinal canal AP diameters C2-C3 : ",
+   "email_candidates": [
+    {
+     "email": "abhishek@askanatomic.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Abhishek Bhayana",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Gurugram · YC",
+   "referral": false
+  }
+ ]
+}
