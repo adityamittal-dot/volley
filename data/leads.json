@@ -3018,6 +3018,7 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "replied_at": "2026-10-20T06:36:55Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "Their core product is a messaging API with delivery tracking and a web platform, closest to MedVault's Django REST backend with JWT auth and per-user isolation.",
@@ -3041,7 +3042,7 @@
   },
   "score": 12.0,
   "source": "github_orgs",
-  "status": "followup_2",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/spring-edge",
   "website": "https://www.springedge.com",
