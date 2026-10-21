@@ -1,0 +1,241 @@
+{
+  "leads": [
+    {
+      "id": "c12ba88558",
+      "relevant": true,
+      "summary": "A small software team that builds custom apps, websites and software for clients on contract, and also sells its own products in e-commerce, digital business cards and IoT.",
+      "stack": [
+        "TypeScript"
+      ],
+      "hook": "Their site lists their own e-commerce, digital-business-card and IoT products alongside contract custom-software work.",
+      "angle": "medvault",
+      "angle_reason": "Client apps and e-commerce products like theirs need the same Django REST backend with JWT auth and per-user data isolation that MedVault uses.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "luckycreationsindia@gmail.com",
+      "contact_name": "Lokesh Jain",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "cabe1e2f68",
+      "relevant": true,
+      "summary": "Open-source digital credential infrastructure (issuance, wallet, verification) built on W3C verifiable credentials and OpenID4VC standards, designed for population-scale services and offline use.",
+      "stack": [
+        "Java",
+        "Swift",
+        "TypeScript",
+        "HTML"
+      ],
+      "hook": "Their site lists SD-JWT, OpenID4VCI/OpenID4VP and ISO/IEC 18013-5 among the standards Inji follows.",
+      "angle": "medvault",
+      "angle_reason": "Inji handles personal credentials and consent-based sharing, the same auth and per-user data isolation problem MedVault solves for lab reports.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "cabe1e2f68-ref",
+      "relevant": true,
+      "summary": "Open-source digital credential infrastructure (issuance, wallet, verification) built on W3C verifiable credentials and OpenID4VC standards, designed for population-scale services and offline use.",
+      "stack": [
+        "Java",
+        "Swift",
+        "TypeScript",
+        "HTML"
+      ],
+      "hook": "Their site lists SD-JWT, OpenID4VCI/OpenID4VP and ISO/IEC 18013-5 among the standards Inji follows.",
+      "angle": "medvault",
+      "angle_reason": "Inji handles personal credentials and consent-based sharing, the same auth and per-user data isolation problem MedVault solves for lab reports.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "piyushshukla2100@gmail.com",
+      "contact_name": "Piyush7034",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "cabe1e2f68-ref",
+      "relevant": true,
+      "summary": "Open-source digital credential infrastructure (issuance, wallet, verification) built on W3C verifiable credentials and OpenID4VC standards, designed for population-scale services and offline use.",
+      "stack": [
+        "Java",
+        "Swift",
+        "TypeScript",
+        "HTML"
+      ],
+      "hook": "Their site lists SD-JWT, OpenID4VCI/OpenID4VP and ISO/IEC 18013-5 among the standards Inji follows.",
+      "angle": "medvault",
+      "angle_reason": "Inji handles personal credentials and consent-based sharing, the same auth and per-user data isolation problem MedVault solves for lab reports.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "piyushshukla2100@gmail.com",
+      "contact_name": "Piyush7034",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "e6ce6a6905",
+      "relevant": true,
+      "summary": "Open-source Laravel SaaS starter kit (auth, teams, Stripe billing, Slate UI) shipped as a Composer package by the Quick Brown Fox studio, which also builds client Laravel SaaS on it.",
+      "stack": [
+        "PHP",
+        "Laravel",
+        "Livewire",
+        "Blade",
+        "Tailwind CSS",
+        "Stripe"
+      ],
+      "hook": "The kit keeps auth, teams and Cashier billing in vendor/ and ships AGENTS.md and llms.txt so Cursor and Claude agents install it correctly.",
+      "angle": "medvault",
+      "angle_reason": "Electrik is built around auth, team workspaces and roles, which MedVault covers with an email-based user model, refresh-token rotation and queryset-level isolation.",
+      "fit": 4,
+      "region": "india",
+      "people": [
+        {
+          "name": "Neeraj Kumar",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "hello@neerajkumar.name",
+      "contact_name": "Neeraj Kumar",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "f4f2f07f48",
+      "relevant": false,
+      "summary": "Blockchain Club SRM, apparently a student club given its name, with GitHub repos in JavaScript, Rust and TypeScript. No website text was scraped, so no product or company can be verified.",
+      "stack": [
+        "JavaScript",
+        "Rust",
+        "TypeScript"
+      ],
+      "hook": "Only the posting line 'Adding to the Decentralized World' is available; there is no site text to cite.",
+      "angle": "canopy",
+      "angle_reason": "Their open-source JS, Rust and TypeScript repos are the kind of multi-file codebase Canopy maps as a call graph.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no real product: student club, no company site text"
+      ]
+    },
+    {
+      "id": "fccc543043",
+      "relevant": true,
+      "summary": "A two-founder data journalism studio in Bangalore that builds public-data stories and tools (CBFC Watch, India Time Use Explorer, Mapping India's Clouds) and takes professional commissions.",
+      "stack": [
+        "Python",
+        "Svelte"
+      ],
+      "hook": "CBFC Watch is a searchable database of 18k movies and 1 lakh censorship records built from public data.",
+      "angle": "canopy",
+      "angle_reason": "Their about page describes building full analysis pipelines from raw datasets, which Canopy does for code: parsing, cross-file graph resolution and a cached storage layer.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Aman",
+          "role": "Co-founder"
+        },
+        {
+          "name": "Vivek",
+          "role": "Co-founder"
+        }
+      ],
+      "contact_email": "hello@diagramchasing.fun",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "fccc543043-ref",
+      "relevant": true,
+      "summary": "A two-founder data journalism studio in Bangalore that builds public-data stories and tools (CBFC Watch, India Time Use Explorer, Mapping India's Clouds) and takes professional commissions.",
+      "stack": [
+        "Python",
+        "Svelte"
+      ],
+      "hook": "CBFC Watch is a searchable database of 18k movies and 1 lakh censorship records built from public data.",
+      "angle": "canopy",
+      "angle_reason": "Their about page describes building full analysis pipelines from raw datasets, which Canopy does for code: parsing, cross-file graph resolution and a cached storage layer.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Aman",
+          "role": "Co-founder"
+        },
+        {
+          "name": "Vivek",
+          "role": "Co-founder"
+        }
+      ],
+      "contact_email": "amanbhargava2001@gmail.com",
+      "contact_name": "Aman Bhargava",
+      "contact_role": "Co-founder",
+      "red_flags": []
+    },
+    {
+      "id": "fccc543043-ref",
+      "relevant": true,
+      "summary": "A two-founder data journalism studio in Bangalore that builds public-data stories and tools (CBFC Watch, India Time Use Explorer, Mapping India's Clouds) and takes professional commissions.",
+      "stack": [
+        "Python",
+        "Svelte"
+      ],
+      "hook": "CBFC Watch is a searchable database of 18k movies and 1 lakh censorship records built from public data.",
+      "angle": "canopy",
+      "angle_reason": "Their about page describes building full analysis pipelines from raw datasets, which Canopy does for code: parsing, cross-file graph resolution and a cached storage layer.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Aman",
+          "role": "Co-founder"
+        },
+        {
+          "name": "Vivek",
+          "role": "Co-founder"
+        }
+      ],
+      "contact_email": "amanbhargava2001@gmail.com",
+      "contact_name": "Aman Bhargava",
+      "contact_role": "Co-founder",
+      "red_flags": []
+    },
+    {
+      "id": "c74fc446b1",
+      "relevant": true,
+      "summary": "A New Delhi services company listing web and app development, digital marketing, IoT, robotics, blockchain, training workshops and an investment-advisory offering.",
+      "stack": [
+        "CSS",
+        "HTML",
+        "TypeScript"
+      ],
+      "hook": "Their site advertises an 'Investment Advisor' team and application maintenance fees that bundle hosting and domain renewals.",
+      "angle": "medvault",
+      "angle_reason": "They build web and app projects for clients, so a Django/React app with auth and a data-isolated API is the closest match.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no real product: generic services site, investment-advisor pitch unrelated to software"
+      ]
+    }
+  ]
+}

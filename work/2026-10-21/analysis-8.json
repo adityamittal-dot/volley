@@ -1,0 +1,230 @@
+{
+  "leads": [
+    {
+      "id": "81dc47b462",
+      "relevant": true,
+      "summary": "ODWEN runs a warehouse marketplace in India where SMEs find and book curated warehouse space and move inventory in and out. The posting says it operates 2000+ warehouses across 180 locations.",
+      "stack": [],
+      "hook": "Your posting says you run 2000+ warehouses across 180 locations and call yourselves the largest integrated 3PL network in India, with a 21-person team hiring engineers.",
+      "angle": "medvault",
+      "angle_reason": "A two-sided marketplace needs the same Django REST API, JWT auth and per-user data isolation that MedVault is built on.",
+      "fit": 7,
+      "region": "india",
+      "people": [
+        {
+          "name": "Vijay Anand Bhagavatula",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "vijay@odwen.co.in",
+      "contact_name": "Vijay Anand Bhagavatula",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "844eb6ffdf",
+      "relevant": true,
+      "summary": "Stackbox sells cloud warehouse, transport and order management software for supply chain and fulfilment operators.",
+      "stack": [
+        "TypeScript"
+      ],
+      "hook": "Your GitHub org has TypeScript repos under the squad-wms, squad-devops and squad-shared topics.",
+      "angle": "medvault",
+      "angle_reason": "A multi-tenant WMS/TMS SaaS has the same API, auth and per-tenant isolation problems MedVault's Django backend handles.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "844eb6ffdf-ref",
+      "relevant": true,
+      "summary": "Stackbox sells cloud warehouse, transport and order management software for supply chain and fulfilment operators.",
+      "stack": [
+        "TypeScript"
+      ],
+      "hook": "Your GitHub org has TypeScript repos under the squad-wms, squad-devops and squad-shared topics.",
+      "angle": "medvault",
+      "angle_reason": "A multi-tenant WMS/TMS SaaS has the same API, auth and per-tenant isolation problems MedVault's Django backend handles.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Sabyasachi",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "saby@stackbox.xyz",
+      "contact_name": "Sabyasachi",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "844eb6ffdf-ref",
+      "relevant": true,
+      "summary": "Stackbox sells cloud warehouse, transport and order management software for supply chain and fulfilment operators.",
+      "stack": [
+        "TypeScript"
+      ],
+      "hook": "Your GitHub org has TypeScript repos under the squad-wms, squad-devops and squad-shared topics.",
+      "angle": "medvault",
+      "angle_reason": "A multi-tenant WMS/TMS SaaS has the same API, auth and per-tenant isolation problems MedVault's Django backend handles.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Sabyasachi",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "saby@stackbox.xyz",
+      "contact_name": "Sabyasachi",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "89ef8cea2b",
+      "relevant": true,
+      "summary": "Infopercept sells AI-enhanced cybersecurity: managed detection and response through Invinsense, and Regiment AI, which runs offensive testing, defensive response and compliance checks as one platform.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "Rust",
+        "Shell"
+      ],
+      "hook": "Regiment AI runs offense, defense and compliance as three coordinated battalions, with dual-approval on high-risk actions and a full audit trail on every decision.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's multi-language static analysis behind one analyzer interface is the same kind of security tooling Infopercept's Python/JavaScript/Rust codebase is likely to need.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "amitk@infopercept.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "89ef8cea2b-ref",
+      "relevant": true,
+      "summary": "Infopercept sells AI-enhanced cybersecurity: managed detection and response through Invinsense, and Regiment AI, which runs offensive testing, defensive response and compliance checks as one platform.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "Rust",
+        "Shell"
+      ],
+      "hook": "Regiment AI runs offense, defense and compliance as three coordinated battalions, with dual-approval on high-risk actions and a full audit trail on every decision.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's multi-language static analysis behind one analyzer interface is the same kind of security tooling Infopercept's Python/JavaScript/Rust codebase is likely to need.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Malek Sakir",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "sakirm@infopercept.com",
+      "contact_name": "Malek Sakir",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "89ef8cea2b-ref",
+      "relevant": true,
+      "summary": "Infopercept sells AI-enhanced cybersecurity: managed detection and response through Invinsense, and Regiment AI, which runs offensive testing, defensive response and compliance checks as one platform.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "Rust",
+        "Shell"
+      ],
+      "hook": "Regiment AI runs offense, defense and compliance as three coordinated battalions, with dual-approval on high-risk actions and a full audit trail on every decision.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's multi-language static analysis behind one analyzer interface is the same kind of security tooling Infopercept's Python/JavaScript/Rust codebase is likely to need.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Malek Sakir",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "sakirm@infopercept.com",
+      "contact_name": "Malek Sakir",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "92fc4ed323",
+      "relevant": true,
+      "summary": "Anatomic licenses real-world healthcare data for medical AI and robotics, collecting surgical video, doctor-patient audio and annotated medical imaging through a network of hospitals and clinicians.",
+      "stack": [],
+      "hook": "Your data library page lists surgical video at 4K/50fps and diarized doctor-patient audio with accent mapping.",
+      "angle": "medvault",
+      "angle_reason": "Anatomic handles clinical data for medical AI, the same health-tech and data-privacy domain MedVault's LLM pipeline and per-user isolation address.",
+      "fit": 8,
+      "region": "india",
+      "people": [
+        {
+          "name": "Abhishek Bhayana",
+          "role": "Founder/CEO"
+        }
+      ],
+      "contact_email": "abhishek@askanatomic.com",
+      "contact_name": "Abhishek Bhayana",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "94f8f03857",
+      "relevant": true,
+      "summary": "Projexa is a project-based learning SaaS for universities that tracks student projects, adds AI code review on GitHub pull requests and generates accreditation reports.",
+      "stack": [
+        "TypeScript",
+        "HTML"
+      ],
+      "hook": "Your homepage shows AI Code Review analyzing pull requests from student repos through GitHub integration.",
+      "angle": "canopy",
+      "angle_reason": "Canopy already ingests GitHub repos and maps their structure, which is the core of Projexa's repo sync and AI code review for student projects.",
+      "fit": 7,
+      "region": "india",
+      "people": [],
+      "contact_email": "hello@projexa.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "94f8f03857-ref",
+      "relevant": true,
+      "summary": "Projexa is a project-based learning SaaS for universities that tracks student projects, adds AI code review on GitHub pull requests and generates accreditation reports.",
+      "stack": [
+        "TypeScript",
+        "HTML"
+      ],
+      "hook": "Your homepage shows AI Code Review analyzing pull requests from student repos through GitHub integration.",
+      "angle": "canopy",
+      "angle_reason": "Canopy already ingests GitHub repos and maps their structure, which is the core of Projexa's repo sync and AI code review for student projects.",
+      "fit": 7,
+      "region": "india",
+      "people": [
+        {
+          "name": "Harshit Singh",
+          "role": "Engineer"
+        },
+        {
+          "name": "Kushagra Bhardwaj",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

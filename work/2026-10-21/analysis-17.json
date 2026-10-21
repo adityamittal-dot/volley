@@ -1,0 +1,240 @@
+{
+  "leads": [
+    {
+      "id": "e0e127f03f",
+      "relevant": false,
+      "summary": "Web3 grants and bounty management tool (a dApp) for DAOs and foundations, operated by CreatorOS Inc. per the site.",
+      "stack": [
+        "TypeScript",
+        "CSS"
+      ],
+      "hook": "The site says all program data and source code is public and permissionless, so builders can customize the tool.",
+      "angle": "canopy",
+      "angle_reason": "Questbook is developer-facing platform tooling, and Canopy's cross-file analysis and architecture graphs are the nearest technical match.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "e0e127f03f-ref",
+      "relevant": false,
+      "summary": "Web3 grants and bounty management tool (a dApp) for DAOs and foundations, operated by CreatorOS Inc. per the site.",
+      "stack": [
+        "TypeScript",
+        "CSS"
+      ],
+      "hook": "The site says all program data and source code is public and permissionless, so builders can customize the tool.",
+      "angle": "canopy",
+      "angle_reason": "Questbook is developer-facing platform tooling, and Canopy's cross-file analysis and architecture graphs are the nearest technical match.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "kryptocodes",
+          "role": "engineer"
+        }
+      ],
+      "contact_email": "srivatsantb@gmail.com",
+      "contact_name": "kryptocodes",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "e0e127f03f-ref",
+      "relevant": false,
+      "summary": "Web3 grants and bounty management tool (a dApp) for DAOs and foundations, operated by CreatorOS Inc. per the site.",
+      "stack": [
+        "TypeScript",
+        "CSS"
+      ],
+      "hook": "The site says all program data and source code is public and permissionless, so builders can customize the tool.",
+      "angle": "canopy",
+      "angle_reason": "Questbook is developer-facing platform tooling, and Canopy's cross-file analysis and architecture graphs are the nearest technical match.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "kryptocodes",
+          "role": "engineer"
+        }
+      ],
+      "contact_email": "srivatsantb@gmail.com",
+      "contact_name": "kryptocodes",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "b9053a2724",
+      "relevant": true,
+      "summary": "Robotics Interest Group, a student club at NIT Calicut that runs workshops, open labs and student robotics projects. It is not a company.",
+      "stack": [
+        "HTML",
+        "Python"
+      ],
+      "hook": "The site traces RIG to 2011, when a group of students formed a team for RoboCon 2012 under mentor Sudheer A.P.",
+      "angle": "canopy",
+      "angle_reason": "Its only code signal is Python, which matches Canopy's Python ast analyzer, but the club has no software product.",
+      "fit": 2,
+      "region": "india",
+      "people": [
+        {
+          "name": "Sudheer A.P.",
+          "role": "faculty mentor"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "ebf28cd06f",
+      "relevant": true,
+      "summary": "Computer science and innovation lab at Gyan Niketan School in Patna, offering structured lessons, workshops and hackathons for students; founded 2026.",
+      "stack": [
+        "HTML",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "hook": "The about page says students learn by building and document their work for the school, lesson by lesson.",
+      "angle": "medvault",
+      "angle_reason": "The lab is a learning web app with user accounts, which overlaps only loosely with MedVault's Django auth and API work.",
+      "fit": 2,
+      "region": "india",
+      "people": [
+        {
+          "name": "Suryanshu Nabheet",
+          "role": "founder"
+        }
+      ],
+      "contact_email": "suryanshunab@gmail.com",
+      "contact_name": "Suryanshu Nabheet",
+      "contact_role": "founder",
+      "red_flags": []
+    },
+    {
+      "id": "0873106903",
+      "relevant": true,
+      "summary": "BVC Institute of Technology & Science, an autonomous engineering college in Amalapuram. The posting is a Silicon Labs MoU collaboration initiative, not a job.",
+      "stack": [
+        "C"
+      ],
+      "hook": "The ECE department is running an online faculty development program on semiconductor devices with NIT Warangal from 22 June to 3 July.",
+      "angle": "canopy",
+      "angle_reason": "A college MoU initiative has no product that matches Canopy's static-analysis work.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "38753311db",
+      "relevant": false,
+      "summary": "VFX and animation software maker (Nuke, Flix, Mari, Katana) headquartered in London with over 275 people. The posting is about a different Indian startup also named Foundry.",
+      "stack": [],
+      "hook": "The site says Foundry software was integral to every VFX Academy Award-winning film since 2007.",
+      "angle": "canopy",
+      "angle_reason": "Foundry's pipeline tools are large desktop applications, which loosely match Canopy's graph and parsing work.",
+      "fit": 2,
+      "region": "europe",
+      "people": [
+        {
+          "name": "Jody Madden",
+          "role": "Chief Executive Officer"
+        },
+        {
+          "name": "James France",
+          "role": "Chief Financial Officer"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "posting and site describe different companies"
+      ]
+    },
+    {
+      "id": "81cab9ebe9",
+      "relevant": true,
+      "summary": "Open-source cross-platform transliterator for Indian languages, distributed as free software with no company or hiring listed.",
+      "stack": [
+        "Go",
+        "Ruby",
+        "Rust"
+      ],
+      "hook": "The site says Varnam supports 14 languages and that all of its code is public for anyone to inspect and verify.",
+      "angle": "canopy",
+      "angle_reason": "Varnam is a parser-heavy Go/Rust input tool, which matches Canopy's parsing and analyzer work.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Subin Siby",
+          "role": "engineer"
+        }
+      ],
+      "contact_email": "mail@subinsb.com",
+      "contact_name": "Subin Siby",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "81cab9ebe9-ref",
+      "relevant": true,
+      "summary": "Open-source cross-platform transliterator for Indian languages, distributed as free software with no company or hiring listed.",
+      "stack": [
+        "Go",
+        "Ruby",
+        "Rust"
+      ],
+      "hook": "The site says Varnam supports 14 languages and that all of its code is public for anyone to inspect and verify.",
+      "angle": "canopy",
+      "angle_reason": "Varnam is a parser-heavy Go/Rust input tool, which matches Canopy's parsing and analyzer work.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "AlenPaulVarghese",
+          "role": "engineer"
+        }
+      ],
+      "contact_email": "alenpaul2001@gmail.com",
+      "contact_name": "AlenPaulVarghese",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "81cab9ebe9-ref",
+      "relevant": true,
+      "summary": "Open-source cross-platform transliterator for Indian languages, distributed as free software with no company or hiring listed.",
+      "stack": [
+        "Go",
+        "Ruby",
+        "Rust"
+      ],
+      "hook": "The site says Varnam supports 14 languages and that all of its code is public for anyone to inspect and verify.",
+      "angle": "canopy",
+      "angle_reason": "Varnam is a parser-heavy Go/Rust input tool, which matches Canopy's parsing and analyzer work.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Subin Siby",
+          "role": "engineer"
+        }
+      ],
+      "contact_email": "mail@subinsb.com",
+      "contact_name": "Subin Siby",
+      "contact_role": "engineer",
+      "red_flags": []
+    }
+  ]
+}

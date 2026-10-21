@@ -1,0 +1,294 @@
+{
+  "leads": [
+    {
+      "id": "caa225f561",
+      "relevant": true,
+      "summary": "Isourse Technologies sells supply-chain and warehouse software (GigOrbit workforce platform, Magnetiq lead generation, Gen BI, a WMS/TMS logistics suite) plus field audit and engineering services for 3PLs, e-commerce and D2C operators.",
+      "stack": [
+        "Node.js",
+        "NestJS",
+        "Express.js",
+        "MongoDB",
+        "MS SQL Server",
+        "Next.js",
+        "REST API",
+        "JavaScript"
+      ],
+      "hook": "The site says you run across 120+ facilities, and the backend internship is REST APIs over MongoDB plus SQL Server stored procedures and query tuning.",
+      "angle": "medvault",
+      "angle_reason": "Their backend internship is REST APIs and database-heavy work with auth and data handling, which matches MedVault's Django REST API, JWT auth and per-user data isolation.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "full-time conversion pay Rs 4.5-6 LPA, below Rs 8 LPA"
+      ]
+    },
+    {
+      "id": "a09a68f2e9",
+      "relevant": true,
+      "summary": "Namekart is a domain acquisition, brokerage and brand-protection firm founded in 2012 that says it has served 8000+ clients. The posting is for an AI systems team building agentic AI products.",
+      "stack": [
+        "Python",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "FastAPI",
+        "LangChain",
+        "LangGraph",
+        "Docker",
+        "OpenAI API",
+        "Anthropic API"
+      ],
+      "hook": "The posting says the AI systems interns ship agentic workflows to production, not demos, with tool-calling pipelines and LangGraph.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Gemini prompting pipeline with a fixed output schema and a mockable LLM client is the closest match to their LLM API and tool-calling work.",
+      "fit": 8,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "internship stipend Rs 20,000-25,000/month, below Rs 25,000"
+      ]
+    },
+    {
+      "id": "8718d9b03e",
+      "relevant": true,
+      "summary": "DecisionStats is listed as a GitHub org whose description is data science consulting and analytics, with Jupyter Notebook repos. No website text or posting was available to confirm more.",
+      "stack": [
+        "Jupyter Notebook"
+      ],
+      "hook": "Your GitHub org's code is written in Jupyter Notebooks for data science consulting work.",
+      "angle": "medvault",
+      "angle_reason": "Their notebook-based analytics work is closest to MedVault's lab-data pipeline with LLM output and data-privacy handling.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Sarah Masud",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "sarahmasud02@gmail.com",
+      "contact_name": "Sarah Masud",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "e8cea6f22a",
+      "relevant": true,
+      "summary": "Infrasys Limited is a Gurugram-based technology and consulting firm founded in 2016, offering SAP, Oracle and Microsoft Dynamics ERP work, AI and ML automation, cybersecurity, cloud and analytics services.",
+      "stack": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "SAP",
+        "Oracle",
+        "Microsoft Dynamics",
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
+      "hook": "The AI internship asks interns to build neural networks and NLP models, a different mix from the ERP implementations on your homepage.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's LLM pipeline and API-backed AI features are the closest match to their AI automation work, though the posting leans toward classical ML.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "internship stipend Rs 12,000-20,000 fixed plus Rs 3,000-5,000 incentive, below Rs 25,000/month"
+      ]
+    },
+    {
+      "id": "429616f830",
+      "relevant": false,
+      "summary": "The only self-description is a GitHub org blurb about turning ideas into reality and simplifying technology. The scraped website is Deloitte's engineering page, so the business itself is unverified.",
+      "stack": [
+        "TypeScript"
+      ],
+      "hook": "",
+      "angle": "canopy",
+      "angle_reason": "No product detail is available to match; Canopy is the broadest engineering project.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "642fb9cb3d",
+      "relevant": true,
+      "summary": "Terrum's GitHub org publishes Kotlin and TypeScript repos tagged for Next.js and shadcn-ui. No website text was retrieved, so the product is unknown.",
+      "stack": [
+        "Kotlin",
+        "TypeScript",
+        "Next.js",
+        "shadcn/ui"
+      ],
+      "hook": "Your GitHub org has repos tagged nextjs and shadcn-ui, alongside Kotlin.",
+      "angle": "medvault",
+      "angle_reason": "Neither project is a Next.js product; MedVault is the closest user-facing AI web app with auth and a deployed frontend.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Abhishek AN",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "darkabhi1520@gmail.com",
+      "contact_name": "Abhishek AN",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "9c32c912ec",
+      "relevant": true,
+      "summary": "Codeniti's website is a placeholder that repeats the line 'Code Your Future Today' with no product description. Its GitHub org uses PHP and Python.",
+      "stack": [
+        "PHP",
+        "Python"
+      ],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "Only a Python backend overlap; there is no product detail to connect to.",
+      "fit": 1,
+      "region": "india",
+      "people": [
+        {
+          "name": "Amitabh Das",
+          "role": "Engineer"
+        },
+        {
+          "name": "Kaushik Wavhal",
+          "role": "Engineer"
+        },
+        {
+          "name": "Vikas S Yaligar",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no real product (website is a placeholder template)"
+      ]
+    },
+    {
+      "id": "a6fbebf248",
+      "relevant": false,
+      "summary": "The website is 'Lambda by Blinkit', the engineering blog of the quick-commerce company. Its GitHub org has Go, Kotlin, Python and Android performance repos.",
+      "stack": [
+        "Go",
+        "JavaScript",
+        "Kotlin",
+        "Python",
+        "Android"
+      ],
+      "hook": "",
+      "angle": "canopy",
+      "angle_reason": "Their performance-monitoring tooling is the closest area to Canopy's static analysis and call-graph work.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Sushmita",
+          "role": "Engineer"
+        },
+        {
+          "name": "Adit Biswas",
+          "role": "Engineer"
+        },
+        {
+          "name": "Daksh Paleria",
+          "role": "Engineer"
+        },
+        {
+          "name": "Dheeraj Kotwani",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "b27ad8673e",
+      "relevant": true,
+      "summary": "Bitloka Solutions, based in Bangalore, began with CampusTrack, an education management platform, and now offers cloud, observability, LMS and GenAI features.",
+      "stack": [
+        "Kubernetes",
+        "Helm",
+        "Terraform",
+        "Docker",
+        "GitHub Actions",
+        "AWS",
+        "DigitalOcean",
+        "TypeScript"
+      ],
+      "hook": "Your site says you orchestrate client deployments with Kubernetes, Helm and Terraform, and that CampusTrack has grown into LMS and GenAI features.",
+      "angle": "canopy",
+      "angle_reason": "Their CI/CD and infrastructure-as-code platform work is closest to Canopy's CI-friendly, commit-keyed analysis pipeline.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "8ab77fb72d",
+      "relevant": true,
+      "summary": "AdeptJ, based in Gurgaon, publishes a Java runtime and modular-services code on GitHub (OSGi, Jetty, Tomcat, Undertow, JPA, MongoDB). No website text was retrieved.",
+      "stack": [
+        "Java",
+        "Shell",
+        "OSGi",
+        "Jetty",
+        "Tomcat",
+        "Undertow",
+        "JPA",
+        "MongoDB",
+        "GraphQL"
+      ],
+      "hook": "Your adeptj-modules repos build a Java OSGi runtime with JWT, HTTP/2 and MyBatis support.",
+      "angle": "medvault",
+      "angle_reason": "Their JWT, REST and JDBC backend work overlaps MedVault's JWT refresh-token auth and REST backend, though their stack is Java and mine is Python.",
+      "fit": 2,
+      "region": "india",
+      "people": [
+        {
+          "name": "Asif Khan",
+          "role": "Engineer"
+        },
+        {
+          "name": "Prince Arora",
+          "role": "Engineer"
+        },
+        {
+          "name": "Rakesh",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "23imak@gmail.com",
+      "contact_name": "Asif Khan",
+      "contact_role": "Engineer",
+      "red_flags": []
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "emails": [
+    {
+      "id": "416f0f5067",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi keyshade.io team,\n\nYour \"Approval before Commit\" step on every config change is a nice guardrail for a secrets manager, where one bad push is expensive.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and marks any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "92fc4ed323",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Abhishek,\n\nYour data library page lists surgical video at 4K/50fps with diarized doctor-patient audio and accent mapping, which is a lot of structure to keep private per hospital.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and per-user isolation at the queryset level:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student in Noida, just finished an SDET internship at Basepair, and can join immediately. Does Anatomic take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "09542ba57c",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi VibeTensor team,\n\nVibeMCP connecting Gmail, Calendar, Slack and Todoist through one workflow layer means every one of those tokens has to be handled carefully behind the scenes.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and JWT auth with per-user isolation:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "56cf7dcbf8",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Adalat team,\n\nYour site names \"Document Analysis Delays,\" judges and court staff stuck reading lengthy filings, as a core courtroom problem.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for bad model output:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "94f8f03857",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Projexa team,\n\nYour homepage shows AI Code Review running on pull requests straight from student GitHub repos, which means you're already parsing other people's codebases at scale.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "f7fa4c9395",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Nikhil,\n\nCutting payroll processing from 5 days to 5 minutes for small businesses means you're also sitting on a lot of sensitive worker data at scale.\n\nI built MedVault, a Django backend with JWT auth and per-user isolation at the queryset level that runs lab reports through a Gemini pipeline with a fixed JSON schema:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student based in Noida, just finished an SDET internship at Basepair, and can join immediately. Does SalaryBox take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "98982b8bea",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Krishna,\n\nHunar Voice calling every applicant in their own language, with your Series A coverage citing Tamil, Telugu and Kannada support, is a lot of structured conversation data to turn into hiring decisions.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for bad model output:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Does Hunar.AI take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "d09164576b",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Anandu,\n\nYour \"Move Along, Python\" post on building deterministic, portable Python runtimes with layered venvstacks is the kind of packaging problem most local-first apps avoid talking about.\n\nI built MedVault, a Django backend with JWT auth and per-user isolation at the queryset level that runs lab reports through a Gemini pipeline with a fixed JSON schema:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Does Tiles take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "81dc47b462",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Vijay,\n\nRunning 2000+ warehouses across 180 locations with a 21-person team is a lot of inventory and tenant data moving through one system.\n\nI built MedVault, a Django backend with JWT auth and per-user isolation at the queryset level that runs lab reports through a Gemini pipeline with a fixed JSON schema:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student in Noida and can work from your Delhi office. I just finished an SDET internship at Basepair and can join immediately. Does ODWEN take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "09542ba57c-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi VibeTensor team,\n\nIssueVista's pitch to \"stop drowning in GitHub issues\" with contributor insights is close to the kind of repo analysis I've been building on my own.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at VibeTensor, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "d09164576b-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Prashant,\n\nTiles running local models and syncing encrypted chats peer-to-peer instead of through a server is the kind of privacy-first architecture I like building toward.\n\nI built MedVault, a Django backend with JWT auth and per-user isolation at the queryset level that runs lab reports through a Gemini pipeline with a fixed JSON schema:\nhttps://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Tiles, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "56cf7dcbf8-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Kavya,\n\nAdalat's \"Document Analysis Delays\" problem, judges and court staff stuck reading lengthy filings, is the kind of document-heavy extraction work I like building for.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for bad model output:\nhttps://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Adalat, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "94f8f03857-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Harshit,\n\nProjexa's AI Code Review running on pull requests from student GitHub repos is close to the repo-parsing work I've been building on my own.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Projexa, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "3188eb04f4",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Sagar,\n\nReynScanner turning an OCR'd business card straight into an ERPNext lead is a neat way to cut a manual data-entry step most CRMs still leave to a human.\n\nI built MedVault, a Django REST backend with JWT auth and per-user isolation at the queryset level, built around a Gemini pipeline with a fixed JSON output schema:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "a722d26699",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Tenstorrent team,\n\nTT-Forge going into public beta as an MLIR compiler taking PyTorch, JAX and ONNX models down to hardware is a different kind of graph problem than most compiler work I've seen.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic call graph and marks any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Is there a University Internship opening on the TT-Forge team?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "d7a38499de",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi John,\n\nYour GitHub topics list frappe-agent and human-in-the-loop right next to DeepMatrix's pitch on AI-driven analytics over ERPNext data, an unusual combination to see from one team.\n\nI built MedVault, a Django backend with JWT auth and per-user isolation at the queryset level, built around a Gemini pipeline with a fixed JSON output schema:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "6bdfb5ef0c",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Casual Office team,\n\nGetting Casual Sheets to save .xlsx back byte-for-byte and passing 39 of 39 .docx round-trip fixtures is a parsing problem most open-source office suites give up on.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "f0c4f5c9d7",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Fewinfos team,\n\nYour GitHub repos are tagged explainable-ai and machine-learning right alongside your JavaScript and Python code, a combination I don't see many Indian dev shops ship under one roof.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for bad model output:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "89ef8cea2b",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Amit,\n\nRegiment AI running offense, defense and compliance as three coordinated battalions, with dual-approval on high-risk actions, is more process discipline than most security tools bother with.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "89e6f7c443",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi CivicDataLab team,\n\nYour Open Contracting page talks about tracking and visualizing public finance flows from budgets through procurement, which is the same trace-a-system-end-to-end problem I like working on.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "b247672a79",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Atyantik team,\n\nYour \"How We Build\" page says architecture decisions go into a Technical Requirements Specification the client keeps, with the reasoning written in, which is rare for an agency to hand over.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "03f8779fcc",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi ViitorCloud team,\n\nYour GitHub org carries repos tagged static-analysis and sarif, plus sbom and log-viewer tooling, right alongside an AI-first services pitch most shops don't build in-house.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "b54c330414",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Mohammad,\n\nYour GitHub org ships a Terraform provider right alongside SLO and postmortem tooling, which says incident response at Squadcast is as much infrastructure-as-code as it is paging.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "2c403e3fbc",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Hemant,\n\nYour hyperlocal-delivery case study, 58% faster incident detection and $161k recovered from one observability rebuild, is a concrete number most platform teams don't publish.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "20f4517786",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Nitish,\n\nBuilding a universal command line for a developer's whole toolchain instead of one more CLI per tool is a cleaner take on the dev-tools layer than most.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "d3c3e68604",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Amit,\n\nYour YC listing says RDash deploys faster than most construction software and plugs into most accounting and ERP tools out of the box, with no custom stitching needed.\n\nI built MedVault, a Django backend with JWT auth and per-user isolation at the queryset level, built around a Gemini pipeline with a fixed JSON output schema:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student in Noida, just finished an SDET internship at Basepair, and can join immediately. Does RDash take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "8a4171e94d",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Gaurav,\n\nEvery LimeTray product talking to the others on one platform, POS, ordering, payments, CRM, means a lot of restaurant data has to stay consistent across all of them.\n\nI built MedVault, a Django backend with JWT auth and per-user isolation at the queryset level, built around a Gemini pipeline with a fixed JSON output schema:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student in Noida, just finished an SDET internship at Basepair, and can join immediately. Does LimeTray take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "368d8c0861",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Karthik,\n\nYour post on rebuilding PIE around the constraints of edge inference, and what that taught you about privacy while still shipping research, is a rare kind of write-up to see from a product team.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for bad model output:\nhttps://medvault-xor.vercel.app\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "a667857b45",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi StackRyze team,\n\nStackNS supporting native SVCB, HTTPS and TLSA records on a free DNS host is more protocol work than most hobby DNS projects bother shipping.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI'm a final-year CS student, just finished an SDET internship at Basepair, and can join immediately. Do you take on engineering interns?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "89e6f7c443-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Saurabh,\n\nCivicDataLab's Open Contracting work, tracking and visualizing public finance flows from budgets through procurement, is the same trace-a-system problem I like building for.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at CivicDataLab, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "3188eb04f4-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Bhavesh,\n\nYour ReynScanner app skips manual data entry, OCR a business card and it becomes an ERPNext lead, which is the kind of integration glue most teams underinvest in.\n\nI built MedVault, a Django REST backend with JWT auth and per-user isolation at the queryset level, built around a Gemini pipeline with a fixed JSON output schema:\nhttps://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Midocean, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "b247672a79-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Tirth,\n\nAtyantik's \"How We Build\" page says architecture decisions go into a Technical Requirements Specification the client keeps, reasoning and all, which is unusual for an agency to hand over.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Atyantik, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "a722d26699-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Viktor,\n\nTT-Forge going into public beta as an MLIR compiler taking PyTorch, JAX and ONNX models down to hardware is a different kind of graph problem than most compiler work I've touched.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Tenstorrent, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "d7a38499de-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Sambhav,\n\nDeepMatrix's pitch on AI-driven analytics over ERPNext data sits right next to your frappe-agent and human-in-the-loop GitHub topics, an unusual combination for one team to ship.\n\nI built MedVault, a Django backend with JWT auth and per-user isolation at the queryset level, built around a Gemini pipeline with a fixed JSON output schema:\nhttps://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Ambibuzz, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "a667857b45-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Sudheer,\n\nStackNS running nameservers in NYC, Hyderabad and Nuremberg is more global infrastructure than most free DNS hosts bother setting up.\n\nI built Canopy, which parses a repo across 10 languages into a call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at StackRyze, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "f0c4f5c9d7-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Naveen,\n\nYour GitHub repos are tagged explainable-ai and machine-learning right alongside your JavaScript and Python code, a combination I don't see many Indian dev shops ship under one roof.\n\nI built MedVault, a Django backend that runs lab reports through a Gemini pipeline with a fixed JSON schema and a fallback parser for bad model output:\nhttps://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Fewinfos, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "8a4171e94d-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi LimeTray team,\n\nLimeTray running online ordering, POS and CRM as one connected platform for 4,500+ restaurants means a lot of third-party and payment integrations have to stay in sync behind the scenes.\n\nI built MedVault, a Django backend with JWT auth and per-user isolation at the queryset level, built around a Gemini pipeline with a fixed JSON output schema:\nhttps://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at LimeTray, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "844eb6ffdf-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Sabyasachi,\n\nYour GitHub org splits squad-wms, squad-devops and squad-shared into their own TypeScript repos, a cleaner way to structure a warehouse and logistics platform than most supply-chain software I've seen.\n\nI built MedVault, a Django backend with JWT auth and per-user isolation at the queryset level, built around a Gemini pipeline with a fixed JSON output schema:\nhttps://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Stackbox, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "89ef8cea2b-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Malek,\n\nRunning offense, defense and compliance through Regiment AI as three coordinated battalions, with dual-approval baked into high-risk actions, is more process discipline than most security tools bother with.\n\nI built Canopy, which parses a repo across 10 languages into a deterministic call graph and flags any call it can't resolve as external instead of guessing:\nhttps://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Infopercept, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    }
+  ]
+}

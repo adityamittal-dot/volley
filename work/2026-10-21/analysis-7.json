@@ -1,0 +1,247 @@
+{
+  "leads": [
+    {
+      "id": "368d8c0861-ref",
+      "relevant": true,
+      "summary": "Chennai software company that builds FeatureOS and SupportWire, AI-driven feedback and live-chat products for software teams, plus an applied-AI lab that does custom AI work for clients.",
+      "stack": [
+        "JavaScript",
+        "Svelte",
+        "SvelteKit",
+        "Cloudflare Pages",
+        "LLM"
+      ],
+      "hook": "Their 'Pivoting PIE' post says they rebuilt Private Information Enclave around the constraints of edge inference.",
+      "angle": "medvault",
+      "angle_reason": "PIE keeps private data private while running AI at the edge, which is the privacy-first LLM pipeline MedVault is built around.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Karthik Kamalakannan",
+          "role": "named on site as author of SupportWire posts (role not stated)"
+        }
+      ],
+      "contact_email": "karthik@skcript.com",
+      "contact_name": "Karthik Kamalakannan",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "56cf7dcbf8",
+      "relevant": true,
+      "summary": "Indian legal-tech startup building AI tools for courts: transcription, digitised court records, case management and case updates for litigants.",
+      "stack": [
+        "C++",
+        "JavaScript",
+        "Python"
+      ],
+      "hook": "Your site lists 'Document Analysis Delays', judges and court staff reading lengthy legal documents, as a core courtroom problem.",
+      "angle": "medvault",
+      "angle_reason": "Courtroom document analysis is an LLM extraction problem like MedVault's lab-report pipeline with a fixed JSON output schema.",
+      "fit": 7,
+      "region": "india",
+      "people": [],
+      "contact_email": "tech@adalat.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "56cf7dcbf8-ref",
+      "relevant": true,
+      "summary": "Indian legal-tech startup building AI tools for courts: transcription, digitised court records, case management and case updates for litigants.",
+      "stack": [
+        "C++",
+        "JavaScript",
+        "Python"
+      ],
+      "hook": "Your site lists 'Document Analysis Delays', judges and court staff reading lengthy legal documents, as a core courtroom problem.",
+      "angle": "medvault",
+      "angle_reason": "Courtroom document analysis is an LLM extraction problem like MedVault's lab-report pipeline with a fixed JSON output schema.",
+      "fit": 7,
+      "region": "india",
+      "people": [
+        {
+          "name": "Kavya Manohar",
+          "role": "engineer, top committer on adalat-ai-tech"
+        }
+      ],
+      "contact_email": "kavya@adalat.ai",
+      "contact_name": "Kavya Manohar",
+      "contact_role": "engineer, top committer",
+      "red_flags": []
+    },
+    {
+      "id": "1cfc80fad3",
+      "relevant": true,
+      "summary": "Identity platform that logs users in without OTPs, using carrier SIM verification, device risk scoring and WhatsApp/SMS fallbacks, sold to Indian fintech, e-commerce and edtech apps.",
+      "stack": [
+        "Dart",
+        "Swift",
+        "TypeScript"
+      ],
+      "hook": "Your site says Silent Network Auth verifies the SIM in under 4 seconds with no OTP screen.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's JWT auth with refresh-token rotation and per-user isolation is the closest match to OTPless's auth-layer work.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "20f4517786",
+      "relevant": true,
+      "summary": "Builds a universal command line for running your tools, per its GitHub description. Site text was unavailable, so this comes from repo metadata only.",
+      "stack": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "hook": "Your GitHub org describes it as a universal command line for your tools, tagged cli.",
+      "angle": "canopy",
+      "angle_reason": "A universal CLI sits in the developer-tools layer Canopy works in: repo parsing, static analysis and CI-facing tooling.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Nitish Mehrotra",
+          "role": "top committer (40 commits)"
+        }
+      ],
+      "contact_email": "nitishmehrotra@gmail.com",
+      "contact_name": "Nitish Mehrotra",
+      "contact_role": "top committer on getkloudi",
+      "red_flags": []
+    },
+    {
+      "id": "2be19a29ff",
+      "relevant": true,
+      "summary": "Open-source Python web framework built on Tornado with an MVC structure, installable with pip. Site text was unavailable, so this comes from repo metadata only.",
+      "stack": [
+        "Python",
+        "Tornado",
+        "CSS"
+      ],
+      "hook": "Your repo topics list a Tornado MVC framework on pip with an OTP module.",
+      "angle": "medvault",
+      "angle_reason": "PyTorn is a Python backend framework, and MedVault is a Django REST backend with its own auth and API layer.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Shubhodeep Mukherjee",
+          "role": "top committer (56 commits)"
+        }
+      ],
+      "contact_email": "shubhodeep9@gmail.com",
+      "contact_name": "Shubhodeep Mukherjee",
+      "contact_role": "top committer on pytorn",
+      "red_flags": []
+    },
+    {
+      "id": "3818fced9a",
+      "relevant": false,
+      "summary": "Indian real-money prediction market where users trade opinions on everyday topics. The site now carries a notice that the service has not worked since 2023.",
+      "stack": [],
+      "hook": "Your site notice says Better Opinions has not been functional since 2023.",
+      "angle": "medvault",
+      "angle_reason": "No real match: the only overlap is KYC-backed accounts, and the product is no longer running.",
+      "fit": 1,
+      "region": "india",
+      "people": [
+        {
+          "name": "SAMAY JAIN",
+          "role": "Founder"
+        },
+        {
+          "name": "Soumyajit Das",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "product shut down since 2023 per site notice"
+      ]
+    },
+    {
+      "id": "459a717e87",
+      "relevant": false,
+      "summary": "Personal portfolio of Rahul Vashishtha, a software engineer who lists himself as engineering team lead at Dropt (2025-2026) and runs Igris Labs, a small open-source lab. Not a hiring company.",
+      "stack": [
+        "TypeScript",
+        "Vue",
+        "Nuxt",
+        "Java",
+        "Go",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "hook": "Your site says you maintain Igris Labs, a small software lab for open-source projects.",
+      "angle": "canopy",
+      "angle_reason": "Open-source developer tooling is the closest of the two projects to his Igris Labs work.",
+      "fit": 2,
+      "region": "india",
+      "people": [
+        {
+          "name": "Rahul Vashishtha",
+          "role": "Engineering Team Lead at Dropt (per site)"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "4883f323d5",
+      "relevant": true,
+      "summary": "Open-source JavaScript game development project built on HTML5 canvas, per its GitHub description. Site text was unavailable, so this comes from repo metadata only.",
+      "stack": [
+        "JavaScript",
+        "TypeScript",
+        "HTML5 canvas",
+        "CSS",
+        "jQuery"
+      ],
+      "hook": "Your repo topics show canvas and HTML5 game development in plain JavaScript with jQuery.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's interactive browser-rendered graph is the closest canvas-style UI work in the candidate's projects; the overlap is thin.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "vignesh r",
+          "role": "top committer (44 commits)"
+        }
+      ],
+      "contact_email": "r.vignesh149@gmail.com",
+      "contact_name": "vignesh r",
+      "contact_role": "top committer (44 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "58c90d9084",
+      "relevant": false,
+      "summary": "Nothing in the given text says what Binary Orbit builds. The GitHub org lists only JavaScript and TypeScript, and no site text was available.",
+      "stack": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "hook": "Your GitHub org has JavaScript and TypeScript repos but no description to match against.",
+      "angle": "canopy",
+      "angle_reason": "No product to match against; Canopy is the broadest developer-tools project as a placeholder.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

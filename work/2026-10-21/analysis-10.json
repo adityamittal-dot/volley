@@ -1,0 +1,247 @@
+{
+  "leads": [
+    {
+      "id": "6e035e2f93",
+      "relevant": true,
+      "summary": "A GitHub organisation called 9sphere AI with public repositories in HTML, Jupyter Notebook and Python. No website text was captured, so what the company builds is unknown.",
+      "stack": [
+        "Python",
+        "Jupyter Notebook",
+        "HTML"
+      ],
+      "hook": "Their GitHub org's public repos are mostly Jupyter Notebook and Python; no product detail was captured to open with.",
+      "angle": "canopy",
+      "angle_reason": "Only the language mix (Python, Jupyter) is known; Canopy is the Python-heavy project, but nothing confirms a real fit.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "89e6f7c443",
+      "relevant": true,
+      "summary": "CivicDataLab is a civic-tech and open-data organisation that co-builds open data platforms, public-finance and procurement tools, and AI-enabled civic apps for Indian governments and partners.",
+      "stack": [
+        "Python",
+        "Jupyter Notebook"
+      ],
+      "hook": "Their Open Contracting page says they are building open source tools to track, visualize and analyze public finance flows from budgets through procurement.",
+      "angle": "canopy",
+      "angle_reason": "CivicDataLab builds open-source tools to visualise and trace public-finance flows; Canopy turns a codebase into an interactive, traceable graph, the same visualise-and-trace problem.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Gaurav",
+          "role": "Founder & CEO"
+        },
+        {
+          "name": "Deepthi",
+          "role": "Founder"
+        },
+        {
+          "name": "Anant",
+          "role": "Senior Backend Developer"
+        }
+      ],
+      "contact_email": "careers@civicdatalab.in",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "89e6f7c443-ref",
+      "relevant": true,
+      "summary": "CivicDataLab is a civic-tech and open-data organisation that co-builds open data platforms, public-finance and procurement tools, and AI-enabled civic apps for Indian governments and partners.",
+      "stack": [
+        "Python",
+        "Jupyter Notebook"
+      ],
+      "hook": "Their Open Contracting page says they are building open source tools to track, visualize and analyze public finance flows from budgets through procurement.",
+      "angle": "canopy",
+      "angle_reason": "CivicDataLab builds open-source tools to visualise and trace public-finance flows; Canopy turns a codebase into an interactive, traceable graph, the same visualise-and-trace problem.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Gaurav",
+          "role": "Founder & CEO"
+        },
+        {
+          "name": "Deepthi",
+          "role": "Founder"
+        },
+        {
+          "name": "Anant",
+          "role": "Senior Backend Developer"
+        }
+      ],
+      "contact_email": "saurabh.levin@gmail.com",
+      "contact_name": "Saurabh Levin",
+      "contact_role": "top committer (40 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "3188eb04f4",
+      "relevant": true,
+      "summary": "Midocean Technologies is an ERPNext, Frappe and Odoo implementation partner that also builds Flutter mobile apps and AI workflow integrations on top of ERP systems for manufacturing, trading and services firms.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "Frappe",
+        "ERPNext",
+        "Odoo",
+        "Flutter",
+        "Redis",
+        "MariaDB"
+      ],
+      "hook": "Your ReynScanner app uses OCR business-card scanning to create ERPNext leads directly from a phone.",
+      "angle": "medvault",
+      "angle_reason": "Their Frappe custom API work and AI-agent-to-ERP integrations are Python backend work like MedVault's Django REST API and its LLM pipeline.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "sagar@midocean.tech",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "3188eb04f4-ref",
+      "relevant": true,
+      "summary": "Midocean Technologies is an ERPNext, Frappe and Odoo implementation partner that also builds Flutter mobile apps and AI workflow integrations on top of ERP systems for manufacturing, trading and services firms.",
+      "stack": [
+        "Python",
+        "JavaScript",
+        "Frappe",
+        "ERPNext",
+        "Odoo",
+        "Flutter",
+        "Redis",
+        "MariaDB"
+      ],
+      "hook": "Your ReynScanner app uses OCR business-card scanning to create ERPNext leads directly from a phone.",
+      "angle": "medvault",
+      "angle_reason": "Their Frappe custom API work and AI-agent-to-ERP integrations are Python backend work like MedVault's Django REST API and its LLM pipeline.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "bhavesh.m@midocean.tech",
+      "contact_name": "Bhavesh Mahavar",
+      "contact_role": "top committer (28 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "b247672a79",
+      "relevant": true,
+      "summary": "Atyantik is a Vadodara custom software agency that builds web platforms, frontends and backends for SMEs and enterprises, with Cloudflare-based boilerplates among its open-source work.",
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "Jinja",
+        "Cloudflare Workers",
+        "Cloudflare Pages"
+      ],
+      "hook": "Your 'How We Build' section says architecture decisions go into a Technical Requirements Specification the client owns, with the reasoning written in.",
+      "angle": "canopy",
+      "angle_reason": "Atyantik sells codebases meant to be handed over and read years later; Canopy maps any repo's architecture down to function level, which is what a handover reader needs.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "hr@atyantik.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "b247672a79-ref",
+      "relevant": true,
+      "summary": "Atyantik is a Vadodara custom software agency that builds web platforms, frontends and backends for SMEs and enterprises, with Cloudflare-based boilerplates among its open-source work.",
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "Jinja",
+        "Cloudflare Workers",
+        "Cloudflare Pages"
+      ],
+      "hook": "Your 'How We Build' section says architecture decisions go into a Technical Requirements Specification the client owns, with the reasoning written in.",
+      "angle": "canopy",
+      "angle_reason": "Atyantik sells codebases meant to be handed over and read years later; Canopy maps any repo's architecture down to function level, which is what a handover reader needs.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "tirthbodawala@atyantik.com",
+      "contact_name": "Tirth Bodawala",
+      "contact_role": "top committer (78 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "b048e57023",
+      "relevant": true,
+      "summary": "GoComet is an AI-native supply chain platform for freight and logistics: shipment and container tracking, freight rate benchmarks, customs and document automation, and AI agents that act on shipment emails and disruption alerts.",
+      "stack": [
+        "Java",
+        "Python"
+      ],
+      "hook": "Your GoVista page says it reads, classifies and actions every shipment email the moment it arrives.",
+      "angle": "medvault",
+      "angle_reason": "GoVista's classify-and-act on shipment emails is an LLM pipeline with structured output, which is what MedVault built: a fixed JSON schema and a tolerant parser for malformed model output.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "273280fa80",
+      "relevant": true,
+      "summary": "Sparkout Tech Solutions is an Indian custom software company that builds AI agents, web and mobile apps, blockchain products and the TransGenie traceability product for clients; its site claims 100+ staff and 150+ clients.",
+      "stack": [
+        "JavaScript",
+        "PHP",
+        "HTML",
+        "Angular",
+        "BotPress"
+      ],
+      "hook": "Your Digital Twin Recruiter case study runs AI agents over a conversational video interface.",
+      "angle": "medvault",
+      "angle_reason": "Their AI-agent delivery (an AI travel chatbot on BotPress, AI recruiter agents) is LLM product work, which MedVault's prompt pipeline and mockable LLM client match.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "yokesh@sparkouttech.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "273280fa80-ref",
+      "relevant": true,
+      "summary": "Sparkout Tech Solutions is an Indian custom software company that builds AI agents, web and mobile apps, blockchain products and the TransGenie traceability product for clients; its site claims 100+ staff and 150+ clients.",
+      "stack": [
+        "JavaScript",
+        "PHP",
+        "HTML",
+        "Angular",
+        "BotPress"
+      ],
+      "hook": "Your Digital Twin Recruiter case study runs AI agents over a conversational video interface.",
+      "angle": "medvault",
+      "angle_reason": "Their AI-agent delivery (an AI travel chatbot on BotPress, AI recruiter agents) is LLM product work, which MedVault's prompt pipeline and mockable LLM client match.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "mohan@sparkouttech.com",
+      "contact_name": "mohanrajcse96",
+      "contact_role": "top committer (13 commits)",
+      "red_flags": []
+    }
+  ]
+}

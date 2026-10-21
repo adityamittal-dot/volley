@@ -1,0 +1,231 @@
+{
+  "leads": [
+    {
+      "id": "c6336d7130",
+      "relevant": true,
+      "summary": "Consumer credit card issuer for new-to-credit customers in India, building card issuance, underwriting and collections tooling. Posting says the team is about 100.",
+      "stack": [],
+      "hook": "Posting says they are building 'a fullstack SDK for card issuance, underwriting as well as holding capital & collection ops' toward being 'the Capital One of India'.",
+      "angle": "medvault",
+      "angle_reason": "MedVault is a fintech-adjacent Django REST backend with JWT auth and per-user isolation, which maps to card-issuance and underwriting backend work.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Kartik Venkataraman",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "kartik@redcarpetup.com",
+      "contact_name": "Kartik Venkataraman",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "367fb600eb",
+      "relevant": true,
+      "summary": "Indian healthcare financing platform with product lines for families, hospitals, pharma and wellness brands. Funding news reports a $10 million raise.",
+      "stack": [
+        "Next.js"
+      ],
+      "hook": "Site lists separate product lines 'Swasth for Hospitals' and 'Procalyx for Hospitals', plus 'Swasthera for Brands' for wellness companies.",
+      "angle": "medvault",
+      "angle_reason": "Both are health-plus-finance products where an LLM or backend has to handle sensitive user data, which MedVault already does.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "16988dc889",
+      "relevant": true,
+      "summary": "Enterprise AI virtual assistant that answers employee HR, IT and finance questions from a company's knowledge base, delivered in Teams or Slack. Site claims 500+ enterprise customers.",
+      "stack": [],
+      "hook": "Site says Knowledge Studio 'connects, it doesn't copy' and inherits source permissions from SharePoint, Confluence and Drive.",
+      "angle": "medvault",
+      "angle_reason": "MedVault is an LLM question-answering product over a user's own document, with per-user isolation, which is the same access-control problem Leena describes.",
+      "fit": 4,
+      "region": "india",
+      "people": [
+        {
+          "name": "Mayank Goyal",
+          "role": "Founder"
+        },
+        {
+          "name": "Adit Jain",
+          "role": "Founder"
+        },
+        {
+          "name": "Anand Kumar Prajapati",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "mayank@leena.ai",
+      "contact_name": "Mayank Goyal",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "3a6edf2d21",
+      "relevant": true,
+      "summary": "IT consultancy that designs and builds web and mobile apps, cloud systems and data/AI solutions for clients, and showcases its own products (Ecocrew, JIFFL, KeysOnRent, Sell Your Legacy).",
+      "stack": [
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ],
+      "hook": "Site cites Ecocrew reaching 150K+ app downloads with an 85% weekly engagement rate from gamified rewards and push notifications.",
+      "angle": "medvault",
+      "angle_reason": "Mantiqh builds client web and mobile backends, and MedVault is a Django REST backend with JWT auth and an LLM pipeline.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "12c5ff7d4c",
+      "relevant": false,
+      "summary": "Personal faculty page and GitHub organization for an Amrita Vishwa Vidyapeetham professor's teaching and research on formal methods, cybersecurity and federated learning. Not a company.",
+      "stack": [
+        "HTML",
+        "Python"
+      ],
+      "hook": "Faculty page lists research on formal methods for verifying smart contracts and blockchain security.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's deterministic call-graph and static analysis work is the closest match to the formal-methods and verification research.",
+      "fit": 1,
+      "region": "india",
+      "people": [
+        {
+          "name": "Ramaguru Radhakrishnan",
+          "role": "Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "university faculty personal org, no company or hiring"
+      ]
+    },
+    {
+      "id": "d51820d0c9",
+      "relevant": false,
+      "summary": "Student-run Institution's Innovation Council GitHub organization at Amrita Vishwa Vidyapeetham Coimbatore, used for hackathons and campus events. Website text is an empty JavaScript shell.",
+      "stack": [
+        "JavaScript"
+      ],
+      "hook": "Org repos are for campus events such as Smart India Hackathon 2026 and Genesis 2026.",
+      "angle": "medvault",
+      "angle_reason": "No real product match; MedVault is the closest web app project for a campus team.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "university committee, no hiring; contacts are student volunteers"
+      ]
+    },
+    {
+      "id": "647c59dbe1",
+      "relevant": true,
+      "summary": "GitHub organization 'Growingjamgoan' with Linux participation topics in HCL, Java and Python. No website text or posting describes a business.",
+      "stack": [
+        "HCL",
+        "Java",
+        "Python"
+      ],
+      "hook": "No site text or posting to build a hook from; the org topics only mention Linux participation.",
+      "angle": "canopy",
+      "angle_reason": "Canopy is Python parsing and static analysis, the closest fit for a Python and Java Linux-tooling org.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no website or real product visible"
+      ]
+    },
+    {
+      "id": "416f0f5067",
+      "relevant": true,
+      "summary": "Open-source configuration and secrets manager that syncs environment variables and secrets to applications, with a CLI, web app and plugin ecosystem.",
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "Rust",
+        "NestJS",
+        "Next.js",
+        "React",
+        "Node.js",
+        "Turborepo",
+        "pnpm",
+        "MCP"
+      ],
+      "hook": "Site advertises 'Approval before Commit', an extra validation layer that must authorise every configuration change.",
+      "angle": "canopy",
+      "angle_reason": "Keyshade is a dev-tools platform with a CLI and a TypeScript backend, which matches Canopy's dev-tools and security tooling work.",
+      "fit": 8,
+      "region": "india",
+      "people": [],
+      "contact_email": "agentr47@gmail.com",
+      "contact_name": "rajdip-b",
+      "contact_role": "Engineer (top committer)",
+      "red_flags": []
+    },
+    {
+      "id": "09542ba57c",
+      "relevant": true,
+      "summary": "DPIIT-recognized Indian AI-first startup with products UpdataMind (career intelligence), IssueVista (GitHub issue discovery), VibeMCP (MCP automation) and Attestix (agent identity and verifiable credentials).",
+      "stack": [
+        "Python",
+        "TypeScript",
+        "Svelte",
+        "Astro",
+        "MCP"
+      ],
+      "hook": "Site says VibeMCP connects Gmail, Calendar, Slack and Todoist through a single MCP-powered workflow layer.",
+      "angle": "medvault",
+      "angle_reason": "VibeTensor builds LLM-driven products with MCP and privacy requirements, and MedVault is an LLM pipeline with structured output and data-privacy rules.",
+      "fit": 7,
+      "region": "india",
+      "people": [],
+      "contact_email": "info@vibetensor.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "09542ba57c-ref",
+      "relevant": true,
+      "summary": "DPIIT-recognized Indian AI-first startup with products UpdataMind (career intelligence), IssueVista (GitHub issue discovery), VibeMCP (MCP automation) and Attestix (agent identity and verifiable credentials).",
+      "stack": [
+        "Python",
+        "TypeScript",
+        "Svelte",
+        "Astro",
+        "MCP"
+      ],
+      "hook": "Site says VibeMCP connects Gmail, Calendar, Slack and Todoist through a single MCP-powered workflow layer.",
+      "angle": "medvault",
+      "angle_reason": "VibeTensor builds LLM-driven products with MCP and privacy requirements, and MedVault is an LLM pipeline with structured output and data-privacy rules.",
+      "fit": 7,
+      "region": "india",
+      "people": [],
+      "contact_email": "pkd@vibetensor.com",
+      "contact_name": "ascender1729",
+      "contact_role": "Engineer (top committer, 42 commits)",
+      "red_flags": []
+    }
+  ]
+}

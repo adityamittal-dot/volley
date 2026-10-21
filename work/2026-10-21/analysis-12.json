@@ -1,0 +1,233 @@
+{
+  "leads": [
+    {
+      "id": "3403726e05-ref",
+      "relevant": true,
+      "summary": "BiTGApps is an open-source Google Apps package that sideloads Google apps onto custom Android ROMs, installable through recovery, as a Magisk or KernelSU module, with OTA survival scripts. It supports Android 7.1 through 17.",
+      "stack": [
+        "HTML",
+        "Android",
+        "Magisk",
+        "KernelSU"
+      ],
+      "hook": "your site says the OTA survival script lets people update their ROM without re-flashing Google Apps.",
+      "angle": "canopy",
+      "angle_reason": "BiTGApps is packaging and install tooling, and Canopy's multi-language analysis and CI-style tooling is the nearest match to that work.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "TheHitMan7",
+          "role": "team member"
+        },
+        {
+          "name": "Kr Shivam",
+          "role": "team member"
+        },
+        {
+          "name": "Viraj Mathur",
+          "role": "team member"
+        }
+      ],
+      "contact_email": "krtik.vrma@gmail.com",
+      "contact_name": "TheHitMan7",
+      "contact_role": "Team member",
+      "red_flags": []
+    },
+    {
+      "id": "7dce21a7e3",
+      "relevant": true,
+      "summary": "ERIC Robotics sells Insight.IO, a software platform that brings robotic inspections and other quality operations into one environment and turns raw robot data into actionable outcomes.",
+      "stack": [
+        "CMake",
+        "JavaScript"
+      ],
+      "hook": "your Insight.IO page says it brings robot inspections and quality operations into a single environment.",
+      "angle": "canopy",
+      "angle_reason": "Insight.IO is a platform that turns raw data into reviewable outcomes, and Canopy's backend parses and graphs large codebases in a similar pipeline.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "7dce21a7e3-ref",
+      "relevant": true,
+      "summary": "ERIC Robotics sells Insight.IO, a software platform that brings robotic inspections and other quality operations into one environment and turns raw robot data into actionable outcomes.",
+      "stack": [
+        "CMake",
+        "JavaScript"
+      ],
+      "hook": "your Insight.IO page says it brings robot inspections and quality operations into a single environment.",
+      "angle": "canopy",
+      "angle_reason": "Insight.IO is a platform that turns raw data into reviewable outcomes, and Canopy's backend parses and graphs large codebases in a similar pipeline.",
+      "fit": 4,
+      "region": "india",
+      "people": [
+        {
+          "name": "Rohit Panikar",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "rohitpanikarr@gmail.com",
+      "contact_name": "Rohit Panikar",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "8618fe8a0a",
+      "relevant": true,
+      "summary": "NAMESPACE runs open-innovation programs: the HACKHAZARDS hackathon, learning cohorts, a paid AI and Web3 fellowship, developer bootcamps and OpenCode, and connects builders with institutions and hiring organizations.",
+      "stack": [
+        "JavaScript"
+      ],
+      "hook": "your OpenCode festival connects open-source projects with contributors.",
+      "angle": "canopy",
+      "angle_reason": "OpenCode matches open-source projects with new contributors, and Canopy maps a GitHub repo's architecture down to each function for someone new to it.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "8618fe8a0a-ref",
+      "relevant": true,
+      "summary": "NAMESPACE runs open-innovation programs: the HACKHAZARDS hackathon, learning cohorts, a paid AI and Web3 fellowship, developer bootcamps and OpenCode, and connects builders with institutions and hiring organizations.",
+      "stack": [
+        "JavaScript"
+      ],
+      "hook": "your OpenCode festival connects open-source projects with contributors.",
+      "angle": "canopy",
+      "angle_reason": "OpenCode matches open-source projects with new contributors, and Canopy maps a GitHub repo's architecture down to each function for someone new to it.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Pradeepto Sarkar",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "psrcofficial10@gmail.com",
+      "contact_name": "Pradeepto Sarkar",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "8618fe8a0a-ref",
+      "relevant": true,
+      "summary": "The website scrape came back empty, so only the GitHub org (namespacecomm, JavaScript) is known.",
+      "stack": [
+        "JavaScript"
+      ],
+      "hook": "",
+      "angle": "canopy",
+      "angle_reason": "Nothing in the scraped text ties this company to a project, so this is a default pick.",
+      "fit": 4,
+      "region": "india",
+      "people": [
+        {
+          "name": "Pradeepto Sarkar",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "psrcofficial10@gmail.com",
+      "contact_name": "Pradeepto Sarkar",
+      "contact_role": "Engineer",
+      "red_flags": []
+    },
+    {
+      "id": "882b9a4bca",
+      "relevant": false,
+      "summary": "The scraped page is a 'moved' redirect stub from the HiPeC lab's old site, with no description of the lab or any product.",
+      "stack": [
+        "C",
+        "C++",
+        "Java",
+        "JavaScript"
+      ],
+      "hook": "",
+      "angle": "canopy",
+      "angle_reason": "There is no usable company text to match, so this is a default pick.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no visible product: site is a redirect stub"
+      ]
+    },
+    {
+      "id": "9b0323e60c",
+      "relevant": false,
+      "summary": "The scraped text is for a betting and casino site (Winmatch), not E-Cell MSIT, so the company's work cannot be confirmed from the given text.",
+      "stack": [
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
+      "hook": "",
+      "angle": "canopy",
+      "angle_reason": "There is no usable company text to match, so this is a default pick.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no real product: site text is an unrelated betting site"
+      ]
+    },
+    {
+      "id": "a278d2632c",
+      "relevant": true,
+      "summary": "Gamana Solutions LLP is an IT consulting firm doing software development, system integration and digital transformation, mostly on Salesforce clouds (sales, marketing, data, financial services, health and manufacturing).",
+      "stack": [
+        "Salesforce",
+        "JavaScript"
+      ],
+      "hook": "your Health Cloud page says it joins EHRs and clinical data into one patient view for care coordination.",
+      "angle": "medvault",
+      "angle_reason": "They build client-facing business systems that integrate health data, and MedVault's Django REST API with JWT auth and per-user isolation is the closest backend work.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "hr@gamanasolutions.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a278d2632c-ref",
+      "relevant": true,
+      "summary": "Gamana Solutions LLP is an IT consulting firm doing software development, system integration and digital transformation, mostly on Salesforce clouds (sales, marketing, data, financial services, health and manufacturing).",
+      "stack": [
+        "Salesforce",
+        "JavaScript"
+      ],
+      "hook": "your Health Cloud page says it joins EHRs and clinical data into one patient view for care coordination.",
+      "angle": "medvault",
+      "angle_reason": "They build client-facing business systems that integrate health data, and MedVault's Django REST API with JWT auth and per-user isolation is the closest backend work.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "ShivaKumar K S",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "shiva.ks@gamanasolutions.com",
+      "contact_name": "ShivaKumar K S",
+      "contact_role": "Engineer",
+      "red_flags": []
+    }
+  ]
+}

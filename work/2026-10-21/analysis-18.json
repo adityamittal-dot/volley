@@ -1,0 +1,218 @@
+{
+  "leads": [
+    {
+      "id": "96f861ebcb",
+      "relevant": true,
+      "summary": "InCred Finance is a lending company offering personal, education, business and MSME loans, describing itself as a technology and data science driven financial services platform.",
+      "stack": [
+        "Kotlin"
+      ],
+      "hook": "Their site offers a free credit-score check and a 'Check Your Credit Score / Unlock Digital Credit Eligibility' flow, and the InCred GitHub org's code is in Kotlin.",
+      "angle": "medvault",
+      "angle_reason": "Their lending platform handles personal financial data and eligibility checks, the same kind of per-user data isolation and JWT auth work MedVault does in Django.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Gaurav Maheshwari",
+          "role": "CFO"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "96f861ebcb-ref",
+      "relevant": true,
+      "summary": "InCred Finance is a lending company offering personal, education, business and MSME loans, describing itself as a technology and data science driven financial services platform.",
+      "stack": [
+        "Kotlin"
+      ],
+      "hook": "Their site offers a free credit-score check and a 'Check Your Credit Score / Unlock Digital Credit Eligibility' flow, and the InCred GitHub org's code is in Kotlin.",
+      "angle": "medvault",
+      "angle_reason": "Their lending platform handles personal financial data and eligibility checks, the same kind of per-user data isolation and JWT auth work MedVault does in Django.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Gaurav Maheshwari",
+          "role": "CFO"
+        }
+      ],
+      "contact_email": "rahul.rajak@incred.com",
+      "contact_name": "RahulIncred",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "96f861ebcb-ref",
+      "relevant": true,
+      "summary": "InCred Finance is a lending company offering personal, education, business and MSME loans, describing itself as a technology and data science driven financial services platform.",
+      "stack": [
+        "Kotlin"
+      ],
+      "hook": "Their site offers a free credit-score check and a 'Check Your Credit Score / Unlock Digital Credit Eligibility' flow, and the InCred GitHub org's code is in Kotlin.",
+      "angle": "medvault",
+      "angle_reason": "Their lending platform handles personal financial data and eligibility checks, the same kind of per-user data isolation and JWT auth work MedVault does in Django.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Gaurav Maheshwari",
+          "role": "CFO"
+        }
+      ],
+      "contact_email": "rahul.rajak@incred.com",
+      "contact_name": "RahulIncred",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "a46b8a2206",
+      "relevant": true,
+      "summary": "WisdmLabs is a WordPress agency that builds and optimizes WooCommerce, LearnDash and WordPress sites for businesses, and also sells performance, SEO and AI-automation services.",
+      "stack": [
+        "WordPress",
+        "PHP",
+        "HTML",
+        "LearnDash",
+        "WooCommerce"
+      ],
+      "hook": "Their LearnDash case study says lesson loads got faster and logged-in lag was removed after they rebuilt performance around real user behaviour.",
+      "angle": "medvault",
+      "angle_reason": "Their AI automation service (content ops, lead routing) is LLM workflow work, like MedVault's schema-constrained Gemini pipeline.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "b638560c4e",
+      "relevant": true,
+      "summary": "BatBin is a small open-source pastebin for sharing code that generates link previews when a paste is shared on social media.",
+      "stack": [
+        "Elm",
+        "Haskell",
+        "JavaScript",
+        "Rust"
+      ],
+      "hook": "The project is a pastebin that generates previews for when a link is shared on social media, and its repos are tagged for Hacktoberfest.",
+      "angle": "canopy",
+      "angle_reason": "BatBin is a code-sharing web tool built around a shared link; Canopy is also built around turning a shared repo link into an analyzed view.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "udit.karode@gmail.com",
+      "contact_name": "Udit Karode",
+      "contact_role": "maintainer (top committer)",
+      "red_flags": []
+    },
+    {
+      "id": "b6c33f1249",
+      "relevant": true,
+      "summary": "Osmos is a retail media platform for retailers and marketplaces, covering onsite and offsite ad products, measurement, and AI agents that plan and optimize campaigns.",
+      "stack": [
+        "Ruby",
+        "Swift"
+      ],
+      "hook": "Their Sofie AI agents (Report Writer, Insights Analyst, Media Planner) are described as seven specialist agents that analyze, plan, create and optimize campaigns.",
+      "angle": "medvault",
+      "angle_reason": "Their Sofie AI agents produce structured campaign output, the same kind of LLM pipeline with a fixed output schema that MedVault runs.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "f528204f08",
+      "relevant": true,
+      "summary": "HackSlash is a student developer club at NIT Patna with 100+ members, organized into teams for web, Flutter, Kotlin, AI/ML, blockchain and DSA that run collaborative projects and events.",
+      "stack": [
+        "Dart",
+        "JavaScript",
+        "Jupyter Notebook",
+        "Flutter",
+        "Kotlin"
+      ],
+      "hook": "Their Teams page lists separate Flutter, Kotlin, AI/ML, blockchain and DSA teams under a 100+ member student club.",
+      "angle": "medvault",
+      "angle_reason": "Their AI/ML team is the closest match; MedVault is an LLM app with a schema-constrained output pipeline.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "710dff65a1",
+      "relevant": true,
+      "summary": "The Centre for Networked Intelligence at IISc Bangalore is a research centre that runs seminars, workshops and summer schools on networks, learning and optimization, and publishes a city-scale simulator.",
+      "stack": [
+        "C++",
+        "HTML",
+        "JavaScript",
+        "TeX"
+      ],
+      "hook": "Their repo topics include city-scale-simulator and simulator-workflow, alongside a seminar series on networked systems.",
+      "angle": "canopy",
+      "angle_reason": "Their city-scale simulator is graph-heavy C++ code; Canopy's cross-file call-graph resolution is the nearest work to that kind of graph analysis.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "710dff65a1-ref",
+      "relevant": true,
+      "summary": "The Centre for Networked Intelligence at IISc Bangalore is a research centre that runs seminars, workshops and summer schools on networks, learning and optimization, and publishes a city-scale simulator.",
+      "stack": [
+        "C++",
+        "HTML",
+        "JavaScript",
+        "TeX"
+      ],
+      "hook": "Their repo topics include city-scale-simulator and simulator-workflow, alongside a seminar series on networked systems.",
+      "angle": "canopy",
+      "angle_reason": "Their city-scale simulator is graph-heavy C++ code; Canopy's cross-file call-graph resolution is the nearest work to that kind of graph analysis.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "sharadshriram01@gmail.com",
+      "contact_name": "Sharad",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "e2d3d5eb73",
+      "relevant": true,
+      "summary": "RoboVITics is the official robotics club of VIT Vellore, running free workshops, the Hands On Robotics course, and the RoboWars competition.",
+      "stack": [
+        "CSS",
+        "JavaScript"
+      ],
+      "hook": "Their Hands On Robotics workshop teaches students to build Arduino line-follower and obstacle-avoider robots, and their VORTEX360 hackathon runs on Autodesk Fusion 360.",
+      "angle": "canopy",
+      "angle_reason": "No real overlap with robotics work; Canopy is the nearest web app in the candidate's work.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}
