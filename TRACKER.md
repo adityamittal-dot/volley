@@ -1,16 +1,16 @@
 # Tracker
 
-_Updated 2026-10-21T05:35:07Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-21T10:15:09Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 230 · **Sent:** 230 · **Replies:** 33 (14%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 269 · **Sent:** 269 · **Replies:** 33 (12%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
 | new | 460 |
 | skipped | 19 |
-| no_contact | 846 |
-| low_fit | 570 |
-| researching | 159 |
+| no_contact | 853 |
+| low_fit | 683 |
+| sent | 39 |
 | followup_1 | 50 |
 | followup_2 | 66 |
 | replied | 33 |
@@ -21,15 +21,15 @@ _Updated 2026-10-21T05:35:07Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 123 | 17 |
-| canopy | 68 | 12 |
+| medvault | 143 | 17 |
+| canopy | 87 | 12 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 189 | 25 |
+| role | 228 | 25 |
 | short | 41 | 8 |
 
 ## Replies
@@ -72,28 +72,28 @@ _Updated 2026-10-21T05:35:07Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
-| 2026-10-14 | Antigen | founders@antigen.sh | canopy | followup_1 |
-| 2026-10-14 | ParadeDB | ming.ying.nyc@gmail.com | canopy | followup_1 |
-| 2026-10-14 | AthenaHQ | careers@athenahq.ai | medvault | followup_1 |
-| 2026-10-14 | Rootly | spencerhcheng@gmail.com | canopy | followup_1 |
-| 2026-10-14 | Speedy Labs | brandon@speedylabs.ai | medvault | followup_1 |
-| 2026-10-14 | Nessie | founders@nessielabs.com | canopy | followup_1 |
-| 2026-10-14 | Medplum | noah@medplum.com | medvault | followup_1 |
-| 2026-10-14 | Medplum | careers@medplum.com | medvault | followup_1 |
-| 2026-10-14 | Humwork | founders@humwork.ai | canopy | followup_1 |
-| 2026-10-14 | Sourcegraph | enrique@sourcegraph.com | canopy | followup_1 |
-| 2026-10-14 | Sourcegraph | stephanie.jarmak@sourcegraph.com | canopy | followup_1 |
-| 2026-10-14 | Delfino AI | founders@delfino.ai | medvault | followup_1 |
-| 2026-10-14 | The Vibe Company | victor@thevibecompany.co | medvault | followup_1 |
-| 2026-10-14 | The Vibe Company | founders@thevibecompany.co | medvault | followup_1 |
-| 2026-10-14 | Gamezop | anshgujral1997@gmail.com | canopy | followup_1 |
-| 2026-10-14 | Droidsize | yogeshkumar180592@gmail.com | canopy | followup_1 |
-| 2026-10-13 | SerpApi | victor@serpapi.com | canopy | followup_1 |
-| 2026-10-13 | Rebar | john@withrebar.ai | medvault | followup_1 |
-| 2026-10-13 | WarpBuild | deathbullet@gmail.com | canopy | followup_1 |
-| 2026-10-13 | TraceRoot.AI | tanishsvalesha@gmail.com | canopy | followup_1 |
-| 2026-10-13 | Arivihan | career@arivihan.com | medvault | followup_1 |
-| 2026-10-13 | Bloom | apply@bloom.diy | medvault | followup_1 |
-| 2026-10-13 | Hackerrank | internship-queries@hackerrank.com | canopy | replied |
-| 2026-10-13 | Heads Up For Tails | hireme@headsupfortails.com | medvault | followup_1 |
-| 2026-10-13 | StartxLabs | hr@startxlabs.com | medvault | followup_1 |
+| 2026-10-21 | StackRyze | hello@stackryze.com | canopy | sent |
+| 2026-10-21 | RDash | amit@rdash.io | medvault | sent |
+| 2026-10-21 | LimeTray | gaurav@limetray.com | medvault | sent |
+| 2026-10-21 | Skcript | karthik@skcript.com | medvault | sent |
+| 2026-10-21 | Infraspec | hemant@infraspec.dev | canopy | sent |
+| 2026-10-21 | Ambibuzz Technologies LLP | sambhav.saxena@ambibuzz.com | medvault | sent |
+| 2026-10-21 | Tenstorrent | viktorpus@tenstorrent.com | canopy | sent |
+| 2026-10-21 | Squadcast Inc | mohammad@squadcast.com | canopy | sent |
+| 2026-10-21 | ViitorCloud Technologies | careers@viitorcloud.com | canopy | sent |
+| 2026-10-21 | Atyantik | tirthbodawala@atyantik.com | canopy | sent |
+| 2026-10-21 | Atyantik | hr@atyantik.com | canopy | sent |
+| 2026-10-21 | Infopercept | sakirm@infopercept.com | canopy | sent |
+| 2026-10-21 | CivicDataLab | saurabh.levin@gmail.com | canopy | sent |
+| 2026-10-21 | CivicDataLab | careers@civicdatalab.in | canopy | sent |
+| 2026-10-21 | Stackbox | saby@stackbox.xyz | medvault | sent |
+| 2026-10-21 | Midocean Technologies Pvt Ltd | bhavesh.m@midocean.tech | medvault | sent |
+| 2026-10-21 | Kloudi | nitishmehrotra@gmail.com | canopy | sent |
+| 2026-10-21 | Fewinfos | naveenrajthiyagarajan6@gmail.com | medvault | sent |
+| 2026-10-21 | StackRyze | sudheerbhuvana25@gmail.com | canopy | sent |
+| 2026-10-21 | LimeTray | lt.login@limetray.com | medvault | sent |
+| 2026-10-21 | Ambibuzz Technologies LLP | john@ambibuzz.com | medvault | sent |
+| 2026-10-21 | Tenstorrent | recruiting-jp@tenstorrent.com | canopy | sent |
+| 2026-10-21 | Infopercept | amitk@infopercept.com | canopy | sent |
+| 2026-10-21 | Midocean Technologies Pvt Ltd | sagar@midocean.tech | medvault | sent |
+| 2026-10-21 | Fewinfos | fewinfos@gmail.com | medvault | sent |
