@@ -1,0 +1,305 @@
+{
+ "leads": [
+  {
+   "id": "a278d2632c-ref",
+   "company": "Gamana Solutions",
+   "website": "https://gamanasolutions.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript",
+   "site_text": "[https://gamanasolutions.com/]\nGamana Solutions LLP Skip to main content Gamana Solutions LLP hr@gamanasolutions.com support@gamanasolutions.com +971585758127 +91 9148111243 Facebook Linkedin Instagram Menu Sales Cloud Sales Cloud by Salesforce is a comprehensive CRM platform designed to optimize the performance of sales teams. It centralizes lead, account, contact, and opportunity management, offering a complete view of the customer journey. With automation tools and AI-powered insights from Salesforce Einstein, sales reps can prioritize leads, forecast revenue, and make data-driven decisions more efficiently. Analytics Cloud Salesforce Analytics Cloud,is a platform that provides businesses with tools to analyze and visualize their data, ultimately gaining deeper insights and making more informed decisions Experience Cloud Experience Cloud by Salesforce is a dynamic platform that empowers businesses to build branded digital experiences—such as portals, websites, and mobile apps—for customers, partners, and employees. It enables seamless sharing of Salesforce data with external audiences, fostering real-time collaboration and personalized interactions. Marketing Cloud Marketing Cloud by Salesforce is a powerful digital marketing platform that enables businesses to deliver personalized customer experiences across email, mobile, social media, web, and more. It provides advanced tools for automation, journey orchestration, segmentation, and real-time analytics, allowing marketers to create targeted, data-driven campaigns at scale. Data Cloud Data Cloud by Salesforce is a real-time data platform that unifies customer data from multiple sources into a single, comprehensive view. By seamlessly integrating data across systems, it enables businesses to deliver highly personalized and relevant experiences at scale. Leveraging AI and machine learning, Data Cloud transforms raw data into actionable insights, empowering teams to make smarter decisions, anticipate customer needs, and drive stronger engagement across every touchpoint. Financial Services Cloud Salesforce Financial Services Cloud is a platform tailored for banks, wealth management, and insurance firms. It provides tools for customer relationship management, compliance, data integration, personalized engagement, risk profiling, and workflow automation. With AI and analytics, it helps financial institutions improve efficiency, strengthen client relationships, and make smarter decisions. Health Cloud Health Cloud by Salesforce is a secure, cloud-based platform tailored for the healthcare industry to enhance patient care and streamline operations. It integrates electronic health records (EHRs), clinical data, and patient information into a unified view, enabling better care coordination and communication among providers. Manufacturing Salesforce Manufacturing Cloud unifies sales and operations for manufacturers, giving real-time visibility into demand, forecasts, and orders. It improves supply chain efficiency, forecasting accuracy, and collaboration—helping manufacturers stay agile and productive. About Us About Gamana Solutions LLP Gamana Solutions LLP is an IT consulting firm empowering businesses with innovative and scalable technology solutions. We specialize in software development, system integration, and digital transformation, helping companies enhance performance and achieve their goals. Our expert team works closely with clients to deliver customized solutions that drive success. With a focus on trust, quality, and lasting partnerships, we are your go-to partner for unlocking the full potential of your business in the digital age. Vision Gamana Solutions envisions a future where businesses thrive through smart, scalable technologies that drive growth and digital innovation. Core Values We value innovation, integrity, and excellence in all we do. Through strong collaboration and a client-first mindset, we deliver impactful solutions. Mission Our mission is to empower bu",
+   "email_candidates": [
+    {
+     "email": "hr@gamanasolutions.com",
+     "where": "https://gamanasolutions.com/",
+     "kind": "hiring"
+    },
+    {
+     "email": "shiva.ks@gamanasolutions.com",
+     "where": "GitHub commits (gamanasolutions)",
+     "kind": "personal",
+     "name": "ShivaKumar K S",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "aff6338f51",
+   "company": "Zathura Debugger",
+   "website": "https://zathura.dev",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "A GUI emulation-based debugger for Assembly Language. Powered by @icicle-emu, @capstone-engine & @keystone-engine. Languages: C, C++, HTML, JavaScript. Topics: assembly, assembly-language, assembly-x86, x64-assembly, x86, x86-assembly, x86-emulator",
+   "site_text": "[https://www.zathura.dev/]\nZathuraDbg: Open-Source GUI Debugger for Assembly | Learn Assembly with Ease Home Features About FAQs NEW ZathuraDbg 1.0 is out A modern, powerful Assembly Debugger for Reverse Engineers and Developers ZathuraDbg is a fully open source emulation-based debugger powered by icicle, capstone engine and keystone engine. Download Try now 0 + stars on Github Add Yours Now Engineered with advanced frameworks for professional-grade precision and flexibility. Keystone Engine Capstone Engine Icicle Emulator An all-in-one lightweight debugger for learning, editing, and mastering assembly — beginner-friendly, no setup required No Setup Needed Works out of the box — just launch and debug. Hex Editor Built-In Edit memory live as code runs, enabling real-time updates to variables and memory, improving debugging and allowing for immediate feedback during development. Beginner-Friendly Interface Commands explained clearly — smooth learning curve. Multi architecture support ZathuraDbg supports x86_64, ARM32, Thumbv7m, and AArch64—with more architectures coming soon. Time Travel Debugging with ZathuraDbg: Step Back Instantly with Minimal Overhead ZathuraDbg introduces full time travel debugging, allowing developers to step backward through execution while preserving memory and stack integrity. All with just a few megabytes of overhead. Hover/Tap to watch demo About ZathuraDbg ZathuraDbg is an open-source, GUI-based debugger designed specifically for assembly emulation. Its primary goal is to simplify the process of learning assembly by offering an intuitive and self-explanatory interface that’s perfect for on-the-go debugging. Currently, ZathuraDbg supports x86_64 architecture, with plans to extend support to all major architectures in the future, making it an ideal tool for both beginners and seasoned developers looking to explore the depths of assembly programming. FAQs Can ZathuraDbg debug binaries? No, ZathuraDbg does not support debugging binaries at the moment. This feature may be added in a future release. Does ZathuraDbg support syscalls and OS-level APIs? Currently, ZathuraDbg does not fully support a ton of syscalls and OS-level APIs, but implementation for common syscalls is under development. Which architectures are currently supported in ZathuraDbg? ZathuraDbg currently supports Intel x86_64, ARM 32-bit, Thumbv7m, and AArch64 architectures. Support for other architectures is under development. What is the primary goal of ZathuraDbg? The primary goal of ZathuraDbg is to make the process of learning assembly easier by providing a clean and intuitive UI that explains itself, offering a smooth debugging experience, especially for beginners. Is ZathuraDbg open-source? Yes, ZathuraDbg is open-source and freely available to anyone interested in exploring or contributing to the project. Can ZathuraDbg debug binaries? No, ZathuraDbg does not support debugging binaries at the moment. This feature may be added in a future release. Does ZathuraDbg support syscalls and OS-level APIs? Currently, ZathuraDbg does not fully support a ton of syscalls and OS-level APIs, but implementation for common syscalls is under development. Which architectures are currently supported in ZathuraDbg? ZathuraDbg currently supports Intel x86_64, ARM 32-bit, Thumbv7m, and AArch64 architectures. Support for other architectures is under development. What is the primary goal of ZathuraDbg? The primary goal of ZathuraDbg is to make the process of learning assembly easier by providing a clean and intuitive UI that explains itself, offering a smooth debugging experience, especially for beginners. Is ZathuraDbg open-source? Yes, ZathuraDbg is open-source and freely available to anyone interested in exploring or contributing to the project. Can ZathuraDbg debug binaries? No, ZathuraDbg does not support debugging binaries at the moment. This feature may be added in a future release. Does ZathuraDbg support syscalls and OS-level APIs? Currently, Zathu",
+   "email_candidates": [
+    {
+     "email": "zathuradbg@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "c85aa89235",
+   "company": "MCSAM",
+   "website": "https://www.webinfomart.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "New Delhi",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go",
+   "site_text": "[https://www.webinfomart.com]\nTitle: webinfomart.com | 526: Invalid SSL certificate\n\nURL Source: https://www.webinfomart.com/\n\nWarning: Target URL returned error 526\n\nMarkdown Content:\n## What happened?\n\nCloudflare cannot validate the SSL certificate on the origin web server. The certificate may be expired, self-signed, or may not cover the requested domain name.\n\n## What can I do?\n\n### If you're a visitor of this website:\n\nPlease try again in a few minutes.\n\n### If you're the owner of this website:\n\nPlease refer to the [Error 526](https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-526/) article:\n\n*   Make sure the certificate you are using is not expired and fully covers the requested domain name.\n*   Check [Origin Analytics](https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-526/#diagnose-with-origin-analytics).\n*   Install a free [Cloudflare Origin CA certificate](https://developers.cloudflare.com/ssl/origin-configuration/origin-ca/) on your origin server.\n*   Contact your hosting provider to update or replace the SSL certificate on the origin server.\n",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "cb868769da",
+   "company": "PixysOS",
+   "website": "https://pixysos.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Another Cherry-picked rom, based on AOSP with minimal customizations. Languages: C++, Kotlin, Makefile",
+   "site_text": "[https://getcopingtools.com/]\nTAMBANG888 | Akses Link Resmi Game Toto Online dan Tools Pola Kemenangan Account 0 Cart DAFTAR AKUN Explore Categories Popular Products Shop All Designs TAMBANG888 TAMBANG888 game game GACOR TAMBANG888 game GACOR LOGIN DAFTAR Design ID: 74165272 74165272 1 false 1 TAMBANG888 | Akses Link Resmi Game Toto Online dan Tools Pola Kemenangan $18 IDR 5.000 Create an account to favorite this design! Back TAMBANG888 menghadirkan pembahasan mengenai tools digital dan pola kemenangan dalam dunia game toto online melalui pendekatan analisa yang lebih modern. Berbagai informasi mengenai statistik permainan, perhitungan probabilitas, serta mekanisme game dapat dipelajari untuk memahami bagaimana sistem permainan bekerja. Melalui tampilan yang responsif, pengguna dapat menjelajahi informasi game online dengan lebih praktis melalui perangkat mobile maupun desktop. Melalui TAMBANG888 , pembaca dapat mengenal penggunaan tools analisa untuk mempelajari riwayat hasil, perbandingan data, dan karakteristik permainan toto online. Pembahasan pola kemenangan mencakup pengamatan statistik, metode pencatatan, serta pemahaman mengenai peluang dalam setiap permainan. Informasi tersebut bertujuan memberikan gambaran mengenai cara kerja sistem permainan, bukan untuk memastikan atau memprediksi hasil berikutnya secara akurat. Bagi pengguna yang tertarik memahami TAMBANG888 game toto online , pembahasan tools dan pola kemenangan dapat menjadi referensi untuk mengenali hubungan antara data statistik, probabilitas, dan mekanisme permainan. Informasi mengenai provider, fitur digital, serta metode analisa disajikan dengan pendekatan yang sederhana agar lebih mudah dipahami. Perlu diketahui bahwa permainan berbasis hasil acak tetap memiliki unsur peluang, sehingga tidak ada tools, rumus matematika, atau pola tertentu yang dapat menjamin kemenangan pada setiap sesi permainan. FAQ (Pertanyaan Umum): Apa itu Mystery Box Golden Rush di TAMBANG888? Mystery Box Golden Rush merupakan salah satu game online pilihan yang dapat ditemukan melalui TAMBANG888. Game ini menghadirkan konsep kotak misteri dengan visual modern, mekanisme permainan, fitur khusus, dan multiplier yang dapat dipelajari sebelum menentukan pilihan bermain. Bagaimana cara mengakses Mystery Box Golden Rush melalui TAMBANG888? Pengguna dapat mengakses TAMBANG888 melalui link yang tersedia, kemudian mencari Mystery Box Golden Rush pada daftar game pilihan. Tampilan yang modern, stabil, dan responsif membuat halaman permainan dapat dijelajahi melalui perangkat mobile maupun desktop. Apa yang menarik dari Mystery Box Golden Rush TAMBANG888? Mystery Box Golden Rush memiliki konsep permainan bertema kotak misteri dengan fitur, simbol, paytable, volatilitas, dan multiplier yang beragam. Pengguna dapat mempelajari setiap informasi tersebut untuk memahami karakter serta mekanisme permainan Golden Rush. Apakah RTP dan multiplier Mystery Box Golden Rush menjamin jackpot? Tidak. RTP merupakan nilai statistik jangka panjang, sedangkan multiplier merupakan bagian dari mekanisme permainan. Keduanya tidak menjamin jackpot atau hasil tertentu pada setiap sesi karena hasil permainan tetap ditentukan oleh sistem dan mekanisme game masing-masing. Apa keunggulan akses Mystery Box Golden Rush di TAMBANG888? TAMBANG888 menghadirkan Mystery Box Golden Rush bersama berbagai game online pilihan lainnya dengan visual terbaru, navigasi praktis, serta tampilan yang modern dan responsif. Pengguna dapat menjelajahi informasi game dan memahami berbagai fitur yang tersedia melalui perangkat masa kini. Â©2026 TAMBANG888 - INFORMASI DETAIL TAMBANG888 Nama Situs TAMBANG888 Jenis Layanan game Gacor Minimal Deposit Rp 10.000 Minimal Withdraw Rp 50.000 Metode Deposit Semua Bank Lokal, E-Wallet, & QRIS Jam Operasional ð 24 Jam Online & 2026 TAMBANG888 TAMBANG888 menghadirkan pembahasan tools pola kemenangan, sistem permainan, serta informasi akses game toto online dalam satu platform digital. Mengenal Tools Anal",
+   "email_candidates": [
+    {
+     "email": "karthikgaddam4@gmail.com",
+     "where": "GitHub commits (PixysOS)",
+     "kind": "personal",
+     "name": "AxelBlaz3",
+     "commits": 30
+    },
+    {
+     "email": "pshreejoy15@gmail.com",
+     "where": "GitHub commits (PixysOS)",
+     "kind": "personal",
+     "name": "Shreejoy Dash",
+     "commits": 9
+    },
+    {
+     "email": "subins.mani@gmail.com",
+     "where": "GitHub commits (PixysOS)",
+     "kind": "personal",
+     "name": "Subins Mani",
+     "commits": 12
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "f2dce54c96",
+   "company": "BYJU'S Exam Prep",
+   "website": "https://byjusexamprep.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Noida, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go, HTML, JavaScript. Topics: access-control, access-management, hacktoberfest, hacktoberfest-accepted, ssh, ssh-config, user-management",
+   "site_text": "[https://byjusexamprep.com]\nTitle: \n\nURL Source: https://byjusexamprep.com/\n\nPublished Time: Mon, 15 Sep 2025 15:25:05 GMT\n\nWarning: This page contains iframe that are currently hidden, consider enabling iframe processing.\n\nMarkdown Content:\nCopyright © 1999-2026 GoDaddy, LLC. All rights reserved.[Privacy Policy](https://byjusexamprep.com/#!)\n\nDisclaimer: References to any specific company, product or services on this Site are not controlled by GoDaddy.com LLC and do not constitute or imply its association with or endorsement of third party advertisers.\n",
+   "email_candidates": [
+    {
+     "email": "himanshuagrawal1998@gmail.com",
+     "where": "GitHub commits (gradeup)",
+     "kind": "personal",
+     "name": "Himanshu Agrawal",
+     "commits": 43
+    },
+    {
+     "email": "svikas641@gmail.com",
+     "where": "GitHub commits (gradeup)",
+     "kind": "personal",
+     "name": "svikas641",
+     "commits": 9
+    },
+    {
+     "email": "devansh.forlife@gmail.com",
+     "where": "GitHub commits (gradeup)",
+     "kind": "personal",
+     "name": "Devansh Gera",
+     "commits": 3
+    },
+    {
+     "email": "tripatigarg159@gmail.com",
+     "where": "GitHub commits (gradeup)",
+     "kind": "personal",
+     "name": "Tripati987",
+     "commits": 8
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Noida · active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "f7fa4c9395",
+   "company": "SalaryBox",
+   "website": "https://salarybox.in/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Gurugram, HR, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 40. Gusto for India Salarybox is a payroll app for small businesses in India. There are 63 Million small businesses in India and 90% still manage payroll manually. Today, business owners manage attendance on pen-paper; calculate salary on excel and pay employees in cash. Using our App, the entire process can be performed with the click of a button. Our app reduces the time taken to process payroll from 5 days to 5 minutes. We use Payroll data to build a credit profile of 300 Million+ blue-collar workers and improve access to financial products. Artificial Intelligence, SaaS, B2B, B2B, Human Resources, India, South Asia",
+   "site_text": "[https://salarybox.in/]\nSalaryBox - Employee Attendance and Payroll Software Skip to main content SalaryBox Sign In Start Free Trial Workforce Operations, Simplified. Manage your team across multiple locations, from attendance to payroll. 7-day free trial. No credit card required. Available On Modernise your Staff Management Move beyond outdated HR tools. Our all-in-one platform simplifies staff operations, ensures compliance, and empowers you to manage your team with ease. Contact Sales Start Free Trial Available on Why choose us Experience the Future of Staff Management Fully Mobile First Manage your entire team from anywhere, right from your phone. Our app ensures your team stays connected and productive on the go. Zero Training Needed Stop wasting time and money on complex software training. Our app is so intuitive, your team just gets it, ensuring instant adoption. Your Team's Central Hub Eliminate fragmented systems and scattered data. Our solution brings all your team management into one intuitive platform. Operations Reduce Operational Overwork Still maintaining registers, WhatsApp messages and scattered schedules? SalaryBox streamlines your daily operations, freeing up hours to focus on your business growth. AI Selfie Attendance Geofence Control Leave Management Rosters Attendance Regularisation Operations Get Realtime Visibility into your Operations Get a complete view of who’s working, where and when. Live Location Tracking Capture Client Meetings Track Daily Tasks View Operational Insights Payroll and Compliance Simplify Payroll and Stay Compliant Tired of managing employee and contractor payments, advances, expenses and reimbursements across disconnected platforms? SalaryBox enables you to manage all staff types, wage structures, and payouts seamlessly within a single platform. Automated Payroll Statutory Compliances 1-click Online Payments Overtime Automation HR and Skills Minimise Repetitive Administrative Tasks Still managing HR processes manually? Centralize everything in one efficient platform, streamlining tasks from staff verification to ongoing team development. New Hire Onboarding Staff Identity Verification Document Management Company Policies and Updates Staff Training and Upskilling Employee Self Service Empower your Team to Do More Why manage tasks manually when your team can handle them with ease? Give them a single, powerful app to track attendance, apply for leave, manage expenses, and record daily work, so you can focus on what matters most. Staff Self Onboarding Smartphone Punch-in Request Leaves and Check Balance Expense and Reimbursement Claims Record Daily Work Operations Reduce Operational Overwork Still maintaining registers, WhatsApp messages and scattered schedules? SalaryBox streamlines your daily operations, freeing up hours to focus on your business growth. AI Selfie Attendance Geofence Control Leave Management Rosters Attendance Regularisation Operations Get Realtime Visibility into your Operations Get a complete view of who’s working, where and when. Live Location Tracking Capture Client Meetings Track Daily Tasks View Operational Insights Payroll and Compliance Simplify Payroll and Stay Compliant Tired of managing employee and contractor payments, advances, expenses and reimbursements across disconnected platforms? SalaryBox enables you to manage all staff types, wage structures, and payouts seamlessly within a single platform. Automated Payroll Statutory Compliances 1-click Online Payments Overtime Automation HR and Skills Minimise Repetitive Administrative Tasks Still managing HR processes manually? Centralize everything in one efficient platform, streamlining tasks from staff verification to ongoing team development. New Hire Onboarding Staff Identity Verification Document Management Company Policies and Updates Staff Training and Upskilling Employee Self Service Empower your Team to Do More Why manage tasks manually when your team can handle them with ease? Give them a single, po",
+   "email_candidates": [
+    {
+     "email": "nikhil@salarybox.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Nikhil Goel",
+     "role": "Founder"
+    },
+    {
+     "email": "peeyush@salarybox.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Peeyush Goyal",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Gurugram · YC",
+   "referral": false
+  },
+  {
+   "id": "fa7733f4e0",
+   "company": "Kombee Technologies (I) Pvt Ltd",
+   "website": "https://www.kombee.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Innovative IT company building software, web, and mobile app solutions for businesses.. Languages: Java, JavaScript, PHP",
+   "site_text": "[https://www.kombee.com/us]\nAI First Web and App Development Solutions | Kombee Future of Modern Web App Development Engineered by Humans, Accelerated by AI AI enhances how we engineer, test, and deliver digital solutions, while our experts provide the technical insight, governance, and innovation that drive lasting business value. Contact Contact WHAT WE DO Engineering Digital Solutions with an AI-First Approach Web App Development Learn More Learn More AI & ML Development Learn More Learn More Mobile App Development Learn More Learn More Web App Development Learn More Learn More AI & ML Development Learn More Learn More Mobile App Development Learn More Learn More OUR CLIENTS Trusted by 50+ Global Brands to Build, Scale & Innovate 0 + Years in Tech Innovation 0 + Years in Tech Innovation 0 + Users Served 0 + Users Served 0 + Tech Architects 0 + Tech Architects 0 + Projects Delivered 0 + Projects Delivered 0 + Years in Tech Innovation 0 + Years in Tech Innovation 0 + Users Served 0 + Users Served 0 + Tech Architects 0 + Tech Architects 0 + Projects Delivered 0 + Projects Delivered CASE STUDIES Behind the screens: tech, process, transformation. View All View All Forbes India Brand Connect 2026 Featured Among Leaders Shaping the Future of Business Recognized in Forbes India Brand Connect's \"Leaders & Enterprises Shaping the Future of Business\" (2026), highlighting Kombee's decade-long commitment to delivering scalable digital solutions and driving business innovation. Learn More Learn More AI / ML SOLUTIONS Intelligent AI Solutions Built for Real-World Business Impact 01 AI/ML Strategy Consulting Define a clear AI roadmap with expert consulting that aligns intelligent technologies with your business goals, ensuring maximum ROI and long-term scalability. Learn More Learn More 02 Data Engineering & Preparation Build reliable, high-quality data pipelines and modern data architectures that power AI models with clean, secure, and actionable information. Learn More Learn More 03 ML Model Deployment & MLOps Deploy, monitor, and continuously optimize machine learning models using modern MLOps practices for scalable and production-ready AI systems. Learn More Learn More 04 Natural Language Processing (NLP) Transform unstructured text into meaningful insights with advanced NLP solutions, including chatbots, document processing, sentiment analysis, and language automation. Learn More Learn More AI Service Selector Get Personalized Service Recommendations in Seconds Answer 2 quick questions, and let our AI suggest the right services. What is your industry? Question 1 of 2 Transportation Education Telecommunications Healthcare Travel Energy Hospitality SaaS Retail Agriculture Finance Real Estate View All Our Clients Partnering with Kombee provided data-driven insights that boosted user engagement, while their seamless native app optimized navigation and accelerated sales. By leveraging strategic push notifications and geo-targeted content, the solution significantly elevated our brand's overall digital presence. Stan Balar The project was delivered in a cost-effective manner without compromising on quality. The team's ability to manage resources efficiently was impressive, and we are thrilled with the results. Ross Launching our mobile product was a significant step for the business, and having the right technology partner made a real difference. Kombee brought clarity to the development process, stayed focused on our priorities, and helped us turn our product vision into something our customers could actually use. Mike Tylor We came in with a lot of ideas, and Kombee was very good at turning those into practical mobile features. Their attention to the smaller technical details and the overall professionalism of the team made the development process much easier for us. Md. Faizal As our engineering demands increased, Kombee gave us the additional expertise we needed without disrupting our established workflows. Their developers adapted quic",
+   "email_candidates": [
+    {
+     "email": "contact@kombee.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "fa7733f4e0-ref",
+   "company": "Kombee Technologies (I) Pvt Ltd",
+   "website": "https://www.kombee.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Innovative IT company building software, web, and mobile app solutions for businesses.. Languages: Java, JavaScript, PHP",
+   "site_text": "[https://www.kombee.com/us]\nAI First Web and App Development Solutions | Kombee Future of Modern Web App Development Engineered by Humans, Accelerated by AI AI enhances how we engineer, test, and deliver digital solutions, while our experts provide the technical insight, governance, and innovation that drive lasting business value. Contact Contact WHAT WE DO Engineering Digital Solutions with an AI-First Approach Web App Development Learn More Learn More AI & ML Development Learn More Learn More Mobile App Development Learn More Learn More Web App Development Learn More Learn More AI & ML Development Learn More Learn More Mobile App Development Learn More Learn More OUR CLIENTS Trusted by 50+ Global Brands to Build, Scale & Innovate 0 + Years in Tech Innovation 0 + Years in Tech Innovation 0 + Users Served 0 + Users Served 0 + Tech Architects 0 + Tech Architects 0 + Projects Delivered 0 + Projects Delivered 0 + Years in Tech Innovation 0 + Years in Tech Innovation 0 + Users Served 0 + Users Served 0 + Tech Architects 0 + Tech Architects 0 + Projects Delivered 0 + Projects Delivered CASE STUDIES Behind the screens: tech, process, transformation. View All View All Forbes India Brand Connect 2026 Featured Among Leaders Shaping the Future of Business Recognized in Forbes India Brand Connect's \"Leaders & Enterprises Shaping the Future of Business\" (2026), highlighting Kombee's decade-long commitment to delivering scalable digital solutions and driving business innovation. Learn More Learn More AI / ML SOLUTIONS Intelligent AI Solutions Built for Real-World Business Impact 01 AI/ML Strategy Consulting Define a clear AI roadmap with expert consulting that aligns intelligent technologies with your business goals, ensuring maximum ROI and long-term scalability. Learn More Learn More 02 Data Engineering & Preparation Build reliable, high-quality data pipelines and modern data architectures that power AI models with clean, secure, and actionable information. Learn More Learn More 03 ML Model Deployment & MLOps Deploy, monitor, and continuously optimize machine learning models using modern MLOps practices for scalable and production-ready AI systems. Learn More Learn More 04 Natural Language Processing (NLP) Transform unstructured text into meaningful insights with advanced NLP solutions, including chatbots, document processing, sentiment analysis, and language automation. Learn More Learn More AI Service Selector Get Personalized Service Recommendations in Seconds Answer 2 quick questions, and let our AI suggest the right services. What is your industry? Question 1 of 2 Transportation Education Telecommunications Healthcare Travel Energy Hospitality SaaS Retail Agriculture Finance Real Estate View All Our Clients Partnering with Kombee provided data-driven insights that boosted user engagement, while their seamless native app optimized navigation and accelerated sales. By leveraging strategic push notifications and geo-targeted content, the solution significantly elevated our brand's overall digital presence. Stan Balar The project was delivered in a cost-effective manner without compromising on quality. The team's ability to manage resources efficiently was impressive, and we are thrilled with the results. Ross Launching our mobile product was a significant step for the business, and having the right technology partner made a real difference. Kombee brought clarity to the development process, stayed focused on our priorities, and helped us turn our product vision into something our customers could actually use. Mike Tylor We came in with a lot of ideas, and Kombee was very good at turning those into practical mobile features. Their attention to the smaller technical details and the overall professionalism of the team made the development process much easier for us. Md. Faizal As our engineering demands increased, Kombee gave us the additional expertise we needed without disrupting our established workflows. Their developers adapted quic",
+   "email_candidates": [
+    {
+     "email": "swapnil.thaware@kombee.com",
+     "where": "GitHub commits (kombee-technologies)",
+     "kind": "personal",
+     "name": "swapnil0611",
+     "commits": 2
+    },
+    {
+     "email": "vinay.ghael@kombee.com",
+     "where": "GitHub commits (kombee-technologies)",
+     "kind": "personal",
+     "name": "Vinay Ghael",
+     "commits": 8
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "fa7733f4e0-ref",
+   "company": "Kombee Technologies (I) Pvt Ltd",
+   "website": "https://www.kombee.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Innovative IT company building software, web, and mobile app solutions for businesses.. Languages: Java, JavaScript, PHP",
+   "site_text": "[https://www.kombee.com/us]\nAI First Web and App Development Solutions | Kombee Future of Modern Web App Development Engineered by Humans, Accelerated by AI AI enhances how we engineer, test, and deliver digital solutions, while our experts provide the technical insight, governance, and innovation that drive lasting business value. Contact Contact WHAT WE DO Engineering Digital Solutions with an AI-First Approach Web App Development Learn More Learn More AI & ML Development Learn More Learn More Mobile App Development Learn More Learn More Web App Development Learn More Learn More AI & ML Development Learn More Learn More Mobile App Development Learn More Learn More OUR CLIENTS Trusted by 50+ Global Brands to Build, Scale & Innovate 0 + Years in Tech Innovation 0 + Years in Tech Innovation 0 + Users Served 0 + Users Served 0 + Tech Architects 0 + Tech Architects 0 + Projects Delivered 0 + Projects Delivered 0 + Years in Tech Innovation 0 + Years in Tech Innovation 0 + Users Served 0 + Users Served 0 + Tech Architects 0 + Tech Architects 0 + Projects Delivered 0 + Projects Delivered CASE STUDIES Behind the screens: tech, process, transformation. View All View All Forbes India Brand Connect 2026 Featured Among Leaders Shaping the Future of Business Recognized in Forbes India Brand Connect's \"Leaders & Enterprises Shaping the Future of Business\" (2026), highlighting Kombee's decade-long commitment to delivering scalable digital solutions and driving business innovation. Learn More Learn More AI / ML SOLUTIONS Intelligent AI Solutions Built for Real-World Business Impact 01 AI/ML Strategy Consulting Define a clear AI roadmap with expert consulting that aligns intelligent technologies with your business goals, ensuring maximum ROI and long-term scalability. Learn More Learn More 02 Data Engineering & Preparation Build reliable, high-quality data pipelines and modern data architectures that power AI models with clean, secure, and actionable information. Learn More Learn More 03 ML Model Deployment & MLOps Deploy, monitor, and continuously optimize machine learning models using modern MLOps practices for scalable and production-ready AI systems. Learn More Learn More 04 Natural Language Processing (NLP) Transform unstructured text into meaningful insights with advanced NLP solutions, including chatbots, document processing, sentiment analysis, and language automation. Learn More Learn More AI Service Selector Get Personalized Service Recommendations in Seconds Answer 2 quick questions, and let our AI suggest the right services. What is your industry? Question 1 of 2 Transportation Education Telecommunications Healthcare Travel Energy Hospitality SaaS Retail Agriculture Finance Real Estate View All Our Clients Partnering with Kombee provided data-driven insights that boosted user engagement, while their seamless native app optimized navigation and accelerated sales. By leveraging strategic push notifications and geo-targeted content, the solution significantly elevated our brand's overall digital presence. Stan Balar The project was delivered in a cost-effective manner without compromising on quality. The team's ability to manage resources efficiently was impressive, and we are thrilled with the results. Ross Launching our mobile product was a significant step for the business, and having the right technology partner made a real difference. Kombee brought clarity to the development process, stayed focused on our priorities, and helped us turn our product vision into something our customers could actually use. Mike Tylor We came in with a lot of ideas, and Kombee was very good at turning those into practical mobile features. Their attention to the smaller technical details and the overall professionalism of the team made the development process much easier for us. Md. Faizal As our engineering demands increased, Kombee gave us the additional expertise we needed without disrupting our established workflows. Their developers adapted quic",
+   "email_candidates": [
+    {
+     "email": "contact@kombee.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "swapnil.thaware@kombee.com",
+     "where": "GitHub commits (kombee-technologies)",
+     "kind": "personal",
+     "name": "swapnil0611",
+     "commits": 2
+    },
+    {
+     "email": "vinay.ghael@kombee.com",
+     "where": "GitHub commits (kombee-technologies)",
+     "kind": "personal",
+     "name": "Vinay Ghael",
+     "commits": 8
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "487b4787a1",
+   "company": "MagnusMinds IT Solution",
+   "website": "https://magnusminds.net",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Welcome to MagnusMinds, your one-stop solution for all Microsoft service solutions. From custom software development and database solutions to cloud migration. Languages: HTML, JavaScript, TSQL",
+   "site_text": "[https://www.magnusminds.net/]\nMagnusMinds IT Solution | AI-Powered .NET Development, Power BI, Data Engineering & Analytics Consulting Services Empowering Businesses with Data & AI-Driven Solutions Contact Us Trusted by Businesses Globally Building Smarter Solutions. Powering Digital Futures. We help businesses modernize and accelerate growth with AI, data, cloud, and automation solutions powered by Microsoft Fabric, Azure Data Factory, Azure Logic Apps, Power Platform, Playwright, .NET, SQL Server, and Azure. Let's Build the Future → Explore Our Work → AI Intelligent Automation Microsoft Fabric Unified Analytics Azure Data Factory Cloud Data Integration Playwright Automation Scalable Web Testing Copilot & AI Agents Intelligent Automation Power Platform Automate & Innovate Power BI & Analytics Reporting & Insights .NET & Modern Apps Modern Applications SQL Server & Databases Database Solutions AI-Powered Advantage Leverage the power of AI and Automation to build smarter, faster, and future-ready solutions. AI Integration & Automation Data-Driven Insights Intelligent Solutions Future-Ready Technology 🏆 ISO Certified 17+ Years Excellence About MagnusMinds Microsoft Fabric, Azure, Power Platform & AI-Powered Solutions We build modern business solutions using Microsoft Fabric, Azure Data Factory (ADF), Power Platform, Power BI, .NET, SQL Server, Playwright, and AI technologies. From data engineering and analytics to application development, workflow automation, and intelligent AI solutions, we help businesses modernize their technology and streamline operations. With deep expertise across the Microsoft ecosystem, we deliver tailored solutions that align with your business goals, from building scalable data platforms and automated workflows to developing secure applications and AI-powered solutions. Explore our capabilities and discover how MagnusMinds can help you turn data, technology, and AI into practical business outcomes. About Us We're Hiring What We Do IT Outsourcing Services We Offer End-to-end Microsoft and AI solutions delivered by certified experts across every technology stack. Microsoft Fabric Build scalable data platforms with unified analytics, engineering, and AI capabilities. Learn More → Azure Data Factory (ADF) Connect, transform, and automate data workflows with scalable cloud data integration. Learn More → Playwright Automation Accelerate reliable web testing with modern, scalable, and AI-assisted test automation. Learn More → ASP.NET Development Scalable enterprise web apps built with ASP.NET Core. Learn More → .NET Core Development Cloud-native apps and high-performance APIs with .NET Core. Learn More → MS SQL Development Database design, optimisation, and BI using Microsoft SQL Server. Learn More → AI Development Custom AI models, machine learning, and intelligent automation. Learn More → Large Language Model (LLM) Fine-tuned LLM apps, chatbots, and AI-powered virtual assistants. Learn More → Data Analytics Turn raw data into actionable insights with advanced analytics. Learn More → BI & Data Warehousing Modern data warehouses and interactive BI dashboards. Learn More → Power BI Development Interactive dashboards, real-time monitoring, and predictive analytics. Learn More → PowerApps Development Customised business applications using Microsoft PowerApps. Learn More → Power Automate Automate repetitive tasks and streamline workflows. Learn More → DevOps & Azure CI/CD pipelines, cloud infrastructure, and Azure deployments. Learn More → Angular & Front-End Modern SPAs, PWAs, and responsive UI with Angular. Learn More → Mobile Development Native Android, iOS, and cross-platform Ionic mobile apps. Learn More → Software Testing & QA Comprehensive QA ensuring quality, reliability, and performance. Learn More → SSIS Development Data integration, ETL processes, and migration using SSIS. Learn More → SSRS Development Custom report design and automated scheduling with SSRS. Learn More → Why MagnusMinds Why Choose Mag",
+   "email_candidates": [
+    {
+     "email": "mm.chandreshp@gmail.com",
+     "where": "GitHub commits (magnusminds)",
+     "kind": "personal",
+     "name": "mm-chandresh",
+     "commits": 5
+    },
+    {
+     "email": "harsh@magnusminds.net",
+     "where": "GitHub commits (magnusminds)",
+     "kind": "personal",
+     "name": "mmharshp",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  }
+ ]
+}

@@ -1,0 +1,367 @@
+{
+ "leads": [
+  {
+   "id": "3403726e05-ref",
+   "company": "BiTGApps",
+   "website": "https://bitgapps.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Google Apps Package. Languages: HTML. Topics: android, bitgapps, custom-rom, gapps, google, google-apps, kernelsu, lineageos, magisk, twrp",
+   "site_text": "[https://bitgapps.io/]\nBiTGApps | Google Apps Package BiTGApps BiTGApps Since 2018 Home Development Bug Report Contact Donate About Meet the Team TheHitMan7 Kr Shivam Viraj Mathur Install Google Apps with Ease BiTGApps is a customized Google Apps Package to sideload Google Apps in Custom Android OS. Supports Android 17.0 to 7.1.x with regular updates and bugs fixed. Customization Telegram Group Grab files from the download section below Why BiTGApps? Discover the core features that make our platform flexible and reliable. Android Support All Platforms and All Android Versions are Supported. Customizable Installation BiTGApps can be installed from multiple environments with ease. Wide Support BiTGApps offer several variations from a Google Stock Package to smaller, minimalist packages. Seamless OTA Updates BiTGApps comes with OTA survival support to provide you flash and forget experience. Addons Support We have wide range of freeware Addons that you can use along side BiTGApps. Module Installation BiTGApps can also be installed as Magisk or KernelSU module beside recovery installation. Smart Space This feature allows you to re-flash BiTGApps even with insufficient space in system. Privileged Permission Providing the necessary permissions to the privileged apps. Happy Community We have a friendly community that helps you get what you're looking for in BiTGApps. Platform & Packages Explore lightweight, tailored packages built to support every Android version. All Platforms and All Android Versions are Supported Architectures PLATFORM ARM ARM64 x86 x86-64 Android Versions API 25 - 37 Android 17.0 Android 16.0 Android 15.0 Android 14.0 Android 13.0 Android 12.1 Android 12.0 Android 11.0 Legacy support for versions 10.0, 9.0, 8.1, 8.0, and 7.1 BiTGApps Packages Tailored for Different Setups Core, Mini, Omni, Roar, Nano, Atom, Pico, Full, Tint The Minimal BiTGApps Package includes the Core Google Apps like Google Play Services (GMS), Google Services Framework (GSF), Google Play Store and other essentials. Advanced variants include everything from Minimal alongside more useful Google Apps like Contacts, Dialer, Gboard, etc. Checkout the complete list of Google Apps for each variant below. Seamless OTA Updates via Survival Script The OTA survival script allows you to update your current ROM to its latest version without worrying about having to flash Google Apps again, delivering a true \"flash and forget\" experience. Powered by the latest ADDOND Version . Make sure to read the Seamless OTA Updates section below. Footprint Efficient The minimal BiTGApps Package contains the bare-minimum , keeping downloads swift and installations clean and simple. Installation Size is different from Package Size. Wide Range of Freeware Addons Dialer & Maps Framework Support Seamlessly Replaces AOSP Apps Enabled Play Services Doze Mode Installation Instructions Follow the correct order to avoid crashes and ensure a clean boot. Installing for the first time? Google Apps should be installed via recovery immediately after installing Custom ROM. If you reboot into system before installing Google Apps, you must factory reset and then install them, otherwise expect crashes. Addons should be installed in same manner on top of BiTGApps. Helpful Tip Prevent partition mounting issues in some cases. Always loop back or reboot directly to recovery mode after flashing your Custom ROM for a fresh installation environment. Dirty Flash Installing for the second time and so on? Re-flashing of the same package or upgrading to the latest release doesn't require factory reset. SetupWizard Configuration Required SetupWizard need to be configured before installation. Checkout instructions for SetupWizard below. Configuration Needed SetupWizard ' s main purpose is to assist Android users when they have to first set up their phones, especially if they want to transfer old data, such as apps, pictures, and personalized features, from their previous phone or right after a reset.",
+   "email_candidates": [
+    {
+     "email": "info@bitgapps.io",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "krtik.vrma@gmail.com",
+     "where": "GitHub commits (BiTGApps)",
+     "kind": "personal",
+     "name": "TheHitMan7",
+     "commits": 48
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "7dce21a7e3",
+   "company": "ERIC Robotics",
+   "website": "https://www.ericrobotics.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: CMake, JavaScript",
+   "site_text": "[https://www.ericrobotics.com/]\nERIC Robotics ERIC Weâd love to hear from you Github Linkedin EMAIL GITHUB info@ericrobotics.com LOCATION LINKEDIN Pune, India Let's build the future. Insight.IO Insight.IO is the unified software platform that connects every solution. It brings inspections, and other quality operations into a single intelligent environment - turning raw robotic data into clear, actionable outcomes. Always Exceeding Expectations Welcome to ERIC Robotics . We're engineering tomorrow, today. Everything you see below is build to break the mold . THE FUTURE IS NOW Open research Products Services Careers",
+   "email_candidates": [
+    {
+     "email": "info@ericrobotics.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "7dce21a7e3-ref",
+   "company": "ERIC Robotics",
+   "website": "https://www.ericrobotics.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: CMake, JavaScript",
+   "site_text": "[https://www.ericrobotics.com/]\nERIC Robotics ERIC Weâd love to hear from you Github Linkedin EMAIL GITHUB info@ericrobotics.com LOCATION LINKEDIN Pune, India Let's build the future. Insight.IO Insight.IO is the unified software platform that connects every solution. It brings inspections, and other quality operations into a single intelligent environment - turning raw robotic data into clear, actionable outcomes. Always Exceeding Expectations Welcome to ERIC Robotics . We're engineering tomorrow, today. Everything you see below is build to break the mold . THE FUTURE IS NOW Open research Products Services Careers",
+   "email_candidates": [
+    {
+     "email": "rohitpanikarr@gmail.com",
+     "where": "GitHub member (ERIC-Robotics) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Rohit Panikar",
+     "role": "Engineer"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "8618fe8a0a",
+   "company": "NAMESPACE",
+   "website": "https://www.namespace.world/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript",
+   "site_text": "[https://www.namespace.world/]\nTitle: NAMESPACE – Hackathons and Open-Innovation\n\nURL Source: https://www.namespace.world/\n\nPublished Time: Wed, 14 Oct 2026 16:30:53 GMT\n\nMarkdown Content:\n## Smarter and New-Age Learning. Hiring. Funding.  \n Through Hackathons.\n\nNAMESPACE is the infrastructure layer for builders, institutions and organizations to connect and grow together through open-innovation programs.\n\n100,000+Builders Impacted\n\n2,000+Institutions Reached\n\n150+Events Hosted\n\n50+Partners Served\n\nTrusted by partners across the ecosystem\n\nThe problem\n\n## Tech isn't working the way it should.\n\nTalent is everywhere. Opportunity is not. Communities are fragmented, learning is disconnected, and most systems are not built for humans.\n\n*   ### Tech isn't built for humans\n\nMost platforms optimize for products and metrics, not for people trying to learn, grow, and build.\n\n*   ### Talent is everywhere, support is not\n\nBrilliant builders exist beyond metros, but lack access to networks, mentorship, and real opportunities.\n\n*   ### Communities are disconnected\n\nCommunities operate in silos, missing the compounding value of a connected ecosystem.\n\n*   ### Events don't lead anywhere\n\nHackathons and events end in isolation, with no continuity, follow-through, or long-term growth.\n\n*   ### Access is still gated\n\nOpportunities often depend on who you know, not what you can do.\n\n*   ### Learning doesn't translate\n\nWhat people learn rarely matches what real-world building actually requires.\n\nThe problem isn't lack of platforms. It's that nothing connects.\n\nLearning, communities, opportunities, and organizations exist, just not together.\n\nHow it works\n\n## One ecosystem. Multiple layers.\n\nNAMESPACE connects people, communities, and organizations into a single system where learning, building, and opportunities come together.\n\n### How it all connects\n\nEach layer feeds the next, making the system stronger over time.\n\n1.   01\n\nHumans\n\nGain skills, visibility, and opportunities \n2.   02\n\nEvents\n\nDrive discovery and participation \n3.   03\n\nPrograms\n\nEnable structured growth and outcomes \n4.   04\n\nOrganizations\n\nHire talent and engage with the ecosystem \n\n…and organizations bring new opportunities back to the builders.\n\nCommunity Events, hackathons, and a global builder network\n\nCampus Tech chapters connecting campuses to the ecosystem\n\nLearning Cohorts, bootcamps, and structured growth journeys\n\nTalent Hiring, challenges, and real opportunities in tech\n\nMedia Stories, insights, and voices from the ecosystem\n\nAccelerator Supporting early ideas from prototype to scale\n\nWorld's Largest Community-run Hackathon\n\n## HACKHAZARDS\n\nOur flagship hackathon. Every year, builders pick a problem, form a team and ship working software in public, with their name on it.\n\nHACKHAZARDS '26 in numbers\n\nRegistrations 31,623\n\nFinal project submissions 2,657\n\nCountries 51\n\nInstitutes and companies 2,000+\n\nPrograms\n\n## Flagship programs\n\nComprehensive learning experiences designed to accelerate your growth in the ever-evolving tech landscape.\n\n[See upcoming events](https://www.namespace.world/events)\n\n*   [Hackathon ### HACKHAZARDS World's Largest Community-run Hackathon Learn more](https://www.namespace.world/hackhazards)\n*   Fellowship\n\n### NAMESPACE Fellowship\n\n3 month-long paid fellowship in AI and Web3 \n*   Education\n\n### TechXcelerate\n\nA month-long knowledge accelerators for beginners in tech \n*   Competitive Coding\n\n### Algorena\n\nMulti-round national programming competition \n*   Education\n\n### Developer Bootcamps\n\nIntensive full-stack development and DSA programs \n*   Open Source\n\n### OpenCode\n\nOpen source festival connecting open-source projects with contributors \n*   Community\n\n### NAMESPACE Talks\n\nA tech-focused podcast series \n*   Hackathon\n\n### NS Hacks\n\nMembers-only hackathon for college chapters \n\nWho it's for\n\n## Find your Space\n\nNAMESPACE is built for every part of the tech ecosystem\n\n### For builders\n\n*   [Students Learn by building, join real communities, an",
+   "email_candidates": [
+    {
+     "email": "contact@namespacecomm.in",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "8618fe8a0a-ref",
+   "company": "NAMESPACE",
+   "website": "https://www.namespace.world/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript",
+   "site_text": "[https://www.namespace.world/]\nTitle: NAMESPACE – Hackathons and Open-Innovation\n\nURL Source: https://www.namespace.world/\n\nPublished Time: Wed, 14 Oct 2026 16:30:53 GMT\n\nMarkdown Content:\n## Smarter and New-Age Learning. Hiring. Funding.  \n Through Hackathons.\n\nNAMESPACE is the infrastructure layer for builders, institutions and organizations to connect and grow together through open-innovation programs.\n\n100,000+Builders Impacted\n\n2,000+Institutions Reached\n\n150+Events Hosted\n\n50+Partners Served\n\nTrusted by partners across the ecosystem\n\nThe problem\n\n## Tech isn't working the way it should.\n\nTalent is everywhere. Opportunity is not. Communities are fragmented, learning is disconnected, and most systems are not built for humans.\n\n*   ### Tech isn't built for humans\n\nMost platforms optimize for products and metrics, not for people trying to learn, grow, and build.\n\n*   ### Talent is everywhere, support is not\n\nBrilliant builders exist beyond metros, but lack access to networks, mentorship, and real opportunities.\n\n*   ### Communities are disconnected\n\nCommunities operate in silos, missing the compounding value of a connected ecosystem.\n\n*   ### Events don't lead anywhere\n\nHackathons and events end in isolation, with no continuity, follow-through, or long-term growth.\n\n*   ### Access is still gated\n\nOpportunities often depend on who you know, not what you can do.\n\n*   ### Learning doesn't translate\n\nWhat people learn rarely matches what real-world building actually requires.\n\nThe problem isn't lack of platforms. It's that nothing connects.\n\nLearning, communities, opportunities, and organizations exist, just not together.\n\nHow it works\n\n## One ecosystem. Multiple layers.\n\nNAMESPACE connects people, communities, and organizations into a single system where learning, building, and opportunities come together.\n\n### How it all connects\n\nEach layer feeds the next, making the system stronger over time.\n\n1.   01\n\nHumans\n\nGain skills, visibility, and opportunities \n2.   02\n\nEvents\n\nDrive discovery and participation \n3.   03\n\nPrograms\n\nEnable structured growth and outcomes \n4.   04\n\nOrganizations\n\nHire talent and engage with the ecosystem \n\n…and organizations bring new opportunities back to the builders.\n\nCommunity Events, hackathons, and a global builder network\n\nCampus Tech chapters connecting campuses to the ecosystem\n\nLearning Cohorts, bootcamps, and structured growth journeys\n\nTalent Hiring, challenges, and real opportunities in tech\n\nMedia Stories, insights, and voices from the ecosystem\n\nAccelerator Supporting early ideas from prototype to scale\n\nWorld's Largest Community-run Hackathon\n\n## HACKHAZARDS\n\nOur flagship hackathon. Every year, builders pick a problem, form a team and ship working software in public, with their name on it.\n\nHACKHAZARDS '26 in numbers\n\nRegistrations 31,623\n\nFinal project submissions 2,657\n\nCountries 51\n\nInstitutes and companies 2,000+\n\nPrograms\n\n## Flagship programs\n\nComprehensive learning experiences designed to accelerate your growth in the ever-evolving tech landscape.\n\n[See upcoming events](https://www.namespace.world/events)\n\n*   [Hackathon ### HACKHAZARDS World's Largest Community-run Hackathon Learn more](https://www.namespace.world/hackhazards)\n*   Fellowship\n\n### NAMESPACE Fellowship\n\n3 month-long paid fellowship in AI and Web3 \n*   Education\n\n### TechXcelerate\n\nA month-long knowledge accelerators for beginners in tech \n*   Competitive Coding\n\n### Algorena\n\nMulti-round national programming competition \n*   Education\n\n### Developer Bootcamps\n\nIntensive full-stack development and DSA programs \n*   Open Source\n\n### OpenCode\n\nOpen source festival connecting open-source projects with contributors \n*   Community\n\n### NAMESPACE Talks\n\nA tech-focused podcast series \n*   Hackathon\n\n### NS Hacks\n\nMembers-only hackathon for college chapters \n\nWho it's for\n\n## Find your Space\n\nNAMESPACE is built for every part of the tech ecosystem\n\n### For builders\n\n*   [Students Learn by building, join real communities, an",
+   "email_candidates": [
+    {
+     "email": "guptaparth1304@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Parth Gupta",
+     "commits": 4
+    },
+    {
+     "email": "codedpool10@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "codedpool",
+     "commits": 4
+    },
+    {
+     "email": "shreyaa.we@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Shreya Jaiswal",
+     "commits": 3
+    },
+    {
+     "email": "dikshadhasmana230204@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Diksha Sharma",
+     "commits": 4
+    },
+    {
+     "email": "vrindabindal12@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "vrindabindal12",
+     "commits": 3
+    },
+    {
+     "email": "psrcofficial10@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Pradeepto Sarkar",
+     "commits": 25
+    },
+    {
+     "email": "mynameaakash46@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Aakash Gupta",
+     "commits": 13
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "8618fe8a0a-ref",
+   "company": "NAMESPACE",
+   "website": "https://www.namespace.world/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript",
+   "site_text": "[https://www.namespace.world/]\nTitle: NAMESPACE – Hackathons and Open-Innovation\n\nURL Source: https://www.namespace.world/\n\nPublished Time: Wed, 14 Oct 2026 16:30:53 GMT\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This is a cached snapshot of the original page, consider retry with caching opt-out.\n\nMarkdown Content:\n\n",
+   "email_candidates": [
+    {
+     "email": "contact@namespacecomm.in",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "guptaparth1304@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Parth Gupta",
+     "commits": 4
+    },
+    {
+     "email": "codedpool10@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "codedpool",
+     "commits": 4
+    },
+    {
+     "email": "shreyaa.we@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Shreya Jaiswal",
+     "commits": 3
+    },
+    {
+     "email": "dikshadhasmana230204@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Diksha Sharma",
+     "commits": 4
+    },
+    {
+     "email": "vrindabindal12@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "vrindabindal12",
+     "commits": 3
+    },
+    {
+     "email": "psrcofficial10@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Pradeepto Sarkar",
+     "commits": 25
+    },
+    {
+     "email": "mynameaakash46@gmail.com",
+     "where": "GitHub commits (namespacecomm)",
+     "kind": "personal",
+     "name": "Aakash Gupta",
+     "commits": 13
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "882b9a4bca",
+   "company": "High Performance Computing Lab",
+   "website": "http://hipec.iiitd.edu.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "IIIT Delhi",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: C, C++, Java, JavaScript",
+   "site_text": "[http://hipec.iiitd.edu.in/]\nTitle: Old Page\n\nURL Source: http://hipec.iiitd.edu.in/\n\nPublished Time: Thu, 15 Jun 2023 03:23:54 GMT\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\n\nMarkdown Content:\n \nThis page has been moved. If you are not redirected within 2 seconds, click here to go to the HiPeC Lab homepage.\n",
+   "email_candidates": [
+    {
+     "email": "vk.aries@gmail.com",
+     "where": "GitHub commits (hipec)",
+     "kind": "personal",
+     "name": "Vivek Kumar",
+     "commits": 69
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "9b0323e60c",
+   "company": "E-Cell,MSIT",
+   "website": "https://ecellmsit.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Delhi",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: CSS, HTML, JavaScript",
+   "site_text": "[https://www.spinallife.in/]\nWinmatch India: Casino Games, Sports Betting & App | 2026 Login Registration Download for Android Download for iOS Winmatch India: Temporary Payment Update You are on the official Winmatch website for India. We are currently experiencing temporary issues with withdrawals and some payment methods, and we apologise for the inconvenience. While we restore normal service, you can play with our partner brands: Parimatch, Bettery or 4Rabet. Each offers casino games and sports betting for Indian players. CLAIM WELCOME BONUS Rating: 5.0/5 Welcome Bonus Up to 150% Up to ₹105,000 for Slots Register Now Cricket betting, live sports and casino in one account Welcome offers for sports, slots, live casino and instant games Easy mobile access to the sportsbook and casino Register Now Parimatch is a good fit for players who want cricket and live sports betting alongside slots, live casino and instant games. The slots welcome bonus offers up to 150% and ₹105,000. Check the eligibility, wagering and withdrawal terms before depositing. Rating: 4.9/5 Welcome Bonus Up to 500% Up to ₹150,000 + 430 Free Spins Register Now 430 free spins for new players Casino and sports betting in one account Minimum deposit from ₹300 Register Now Batery combines sports betting with slots, live casino and crash games. Its five-deposit welcome package offers up to 500% in total, capped at ₹150,000, plus 430 free spins. Check the wagering and withdrawal terms for each deposit before claiming the offer. Rating: 4.8/5 Welcome Bonus Up to 700% Up to ₹20,000 Register Now Bonuses on the first 4 deposits Minimum deposit from ₹300 Sportsbook, live betting and casino games Register Now 4Rabet is aimed mainly at players interested in cricket, pre-match markets and live sports betting, with casino games available from the same account. Its four-deposit welcome package offers up to 700% in total, capped at ₹20,000. Read the terms for each deposit before claiming the offer. Contents show 1 Winmatch Bonus and Sign Up Offer for Indian Players 2 Sports Betting and Winmatch Live Markets in India 3 Winmatch Casino Games and Live Tables 4 Winmatch App Download and Mobile Access 5 Winmatch Deposit and Withdrawal Methods in India 6 Winmatch Login and Registration in India 7 Winmatch VIP Program, Security and Customer Support 8 FAQ Winmatch Bonus and Sign Up Offer for Indian Players The Winmatch sign up bonus is the main Winmatch bonus for new Indian players. It gives a 100% casino match offer up to INR 25,000 on a first deposit of at least INR 1,000. The bonus must be wagered x100 before winnings can be approved, and the account has to be OTP verified before the offer is claimed. Bonus funds cannot be withdrawn directly; only eligible winnings from the bonus can be cashed out. There is no separate Winmatch login bonus described here, because the main offer is tied to registration, OTP verification and a qualifying first deposit. Before any payout is approved, KYC verification must be completed. Welcome Bonus Detail 100% match bonus Value Up to INR 25,000 Eligibility New account users Wagering Requirement x100 Promo code Not specified Welcome Bonus 100% Match Bonus Get Your Bonus Sports Betting and Winmatch Live Markets in India For users who prefer sports betting on Winmatch India, the sportsbook covers daily markets, pre-match odds and Winmatch live options for events already in play. Cricket is the main focus on the Winmatch India sportsbook. For Indian players, cricket is more than a sport; it is part of local sports culture. From ODI tournaments and T20s to the Indian Premier League (IPL), the platform keeps cricket close to the betting flow. Beyond cricket, there are also soccer, rugby and tennis. Football markets cover major leagues and UEFA competitions, while tennis betting focuses on Grand Slams and ATP/WTA events. Cricket Betting Markets Cricket betting on Winmatch covers the main markets Indian users usually expect. Events may include the Indian Pr",
+   "email_candidates": [
+    {
+     "email": "shivamyash742@gmail.com",
+     "where": "GitHub commits (ecellmsit)",
+     "kind": "personal",
+     "name": "Shivam Mishra",
+     "commits": 5
+    },
+    {
+     "email": "malhotraishita928@gmail.com",
+     "where": "GitHub commits (ecellmsit)",
+     "kind": "personal",
+     "name": "Ishita Malhotra",
+     "commits": 8
+    },
+    {
+     "email": "chiragkkhandelwal@gmail.com",
+     "where": "GitHub commits (ecellmsit)",
+     "kind": "personal",
+     "name": "Chirag Khandelwal",
+     "commits": 7
+    },
+    {
+     "email": "tusharojha2001@gmail.com",
+     "where": "GitHub commits (ecellmsit)",
+     "kind": "personal",
+     "name": "Tushar Ojha",
+     "commits": 29
+    },
+    {
+     "email": "ishanikohli2001@gmail.com",
+     "where": "GitHub commits (ecellmsit)",
+     "kind": "personal",
+     "name": "Ishani Kohli",
+     "commits": 4
+    },
+    {
+     "email": "rajat2411gupta@gmail.com",
+     "where": "GitHub commits (ecellmsit)",
+     "kind": "personal",
+     "name": "rajatgupta",
+     "commits": 10
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "a278d2632c",
+   "company": "Gamana Solutions",
+   "website": "https://gamanasolutions.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript",
+   "site_text": "[https://gamanasolutions.com/]\nGamana Solutions LLP Skip to main content Gamana Solutions LLP hr@gamanasolutions.com support@gamanasolutions.com +971585758127 +91 9148111243 Facebook Linkedin Instagram Menu Sales Cloud Sales Cloud by Salesforce is a comprehensive CRM platform designed to optimize the performance of sales teams. It centralizes lead, account, contact, and opportunity management, offering a complete view of the customer journey. With automation tools and AI-powered insights from Salesforce Einstein, sales reps can prioritize leads, forecast revenue, and make data-driven decisions more efficiently. Analytics Cloud Salesforce Analytics Cloud,is a platform that provides businesses with tools to analyze and visualize their data, ultimately gaining deeper insights and making more informed decisions Experience Cloud Experience Cloud by Salesforce is a dynamic platform that empowers businesses to build branded digital experiences—such as portals, websites, and mobile apps—for customers, partners, and employees. It enables seamless sharing of Salesforce data with external audiences, fostering real-time collaboration and personalized interactions. Marketing Cloud Marketing Cloud by Salesforce is a powerful digital marketing platform that enables businesses to deliver personalized customer experiences across email, mobile, social media, web, and more. It provides advanced tools for automation, journey orchestration, segmentation, and real-time analytics, allowing marketers to create targeted, data-driven campaigns at scale. Data Cloud Data Cloud by Salesforce is a real-time data platform that unifies customer data from multiple sources into a single, comprehensive view. By seamlessly integrating data across systems, it enables businesses to deliver highly personalized and relevant experiences at scale. Leveraging AI and machine learning, Data Cloud transforms raw data into actionable insights, empowering teams to make smarter decisions, anticipate customer needs, and drive stronger engagement across every touchpoint. Financial Services Cloud Salesforce Financial Services Cloud is a platform tailored for banks, wealth management, and insurance firms. It provides tools for customer relationship management, compliance, data integration, personalized engagement, risk profiling, and workflow automation. With AI and analytics, it helps financial institutions improve efficiency, strengthen client relationships, and make smarter decisions. Health Cloud Health Cloud by Salesforce is a secure, cloud-based platform tailored for the healthcare industry to enhance patient care and streamline operations. It integrates electronic health records (EHRs), clinical data, and patient information into a unified view, enabling better care coordination and communication among providers. Manufacturing Salesforce Manufacturing Cloud unifies sales and operations for manufacturers, giving real-time visibility into demand, forecasts, and orders. It improves supply chain efficiency, forecasting accuracy, and collaboration—helping manufacturers stay agile and productive. About Us About Gamana Solutions LLP Gamana Solutions LLP is an IT consulting firm empowering businesses with innovative and scalable technology solutions. We specialize in software development, system integration, and digital transformation, helping companies enhance performance and achieve their goals. Our expert team works closely with clients to deliver customized solutions that drive success. With a focus on trust, quality, and lasting partnerships, we are your go-to partner for unlocking the full potential of your business in the digital age. Vision Gamana Solutions envisions a future where businesses thrive through smart, scalable technologies that drive growth and digital innovation. Core Values We value innovation, integrity, and excellence in all we do. Through strong collaboration and a client-first mindset, we deliver impactful solutions. Mission Our mission is to empower bu",
+   "email_candidates": [
+    {
+     "email": "hr@gamanasolutions.com",
+     "where": "https://gamanasolutions.com/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "a278d2632c-ref",
+   "company": "Gamana Solutions",
+   "website": "https://gamanasolutions.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript",
+   "site_text": "[https://gamanasolutions.com/]\nGamana Solutions LLP Skip to main content Gamana Solutions LLP hr@gamanasolutions.com support@gamanasolutions.com +971585758127 +91 9148111243 Facebook Linkedin Instagram Menu Sales Cloud Sales Cloud by Salesforce is a comprehensive CRM platform designed to optimize the performance of sales teams. It centralizes lead, account, contact, and opportunity management, offering a complete view of the customer journey. With automation tools and AI-powered insights from Salesforce Einstein, sales reps can prioritize leads, forecast revenue, and make data-driven decisions more efficiently. Analytics Cloud Salesforce Analytics Cloud,is a platform that provides businesses with tools to analyze and visualize their data, ultimately gaining deeper insights and making more informed decisions Experience Cloud Experience Cloud by Salesforce is a dynamic platform that empowers businesses to build branded digital experiences—such as portals, websites, and mobile apps—for customers, partners, and employees. It enables seamless sharing of Salesforce data with external audiences, fostering real-time collaboration and personalized interactions. Marketing Cloud Marketing Cloud by Salesforce is a powerful digital marketing platform that enables businesses to deliver personalized customer experiences across email, mobile, social media, web, and more. It provides advanced tools for automation, journey orchestration, segmentation, and real-time analytics, allowing marketers to create targeted, data-driven campaigns at scale. Data Cloud Data Cloud by Salesforce is a real-time data platform that unifies customer data from multiple sources into a single, comprehensive view. By seamlessly integrating data across systems, it enables businesses to deliver highly personalized and relevant experiences at scale. Leveraging AI and machine learning, Data Cloud transforms raw data into actionable insights, empowering teams to make smarter decisions, anticipate customer needs, and drive stronger engagement across every touchpoint. Financial Services Cloud Salesforce Financial Services Cloud is a platform tailored for banks, wealth management, and insurance firms. It provides tools for customer relationship management, compliance, data integration, personalized engagement, risk profiling, and workflow automation. With AI and analytics, it helps financial institutions improve efficiency, strengthen client relationships, and make smarter decisions. Health Cloud Health Cloud by Salesforce is a secure, cloud-based platform tailored for the healthcare industry to enhance patient care and streamline operations. It integrates electronic health records (EHRs), clinical data, and patient information into a unified view, enabling better care coordination and communication among providers. Manufacturing Salesforce Manufacturing Cloud unifies sales and operations for manufacturers, giving real-time visibility into demand, forecasts, and orders. It improves supply chain efficiency, forecasting accuracy, and collaboration—helping manufacturers stay agile and productive. About Us About Gamana Solutions LLP Gamana Solutions LLP is an IT consulting firm empowering businesses with innovative and scalable technology solutions. We specialize in software development, system integration, and digital transformation, helping companies enhance performance and achieve their goals. Our expert team works closely with clients to deliver customized solutions that drive success. With a focus on trust, quality, and lasting partnerships, we are your go-to partner for unlocking the full potential of your business in the digital age. Vision Gamana Solutions envisions a future where businesses thrive through smart, scalable technologies that drive growth and digital innovation. Core Values We value innovation, integrity, and excellence in all we do. Through strong collaboration and a client-first mindset, we deliver impactful solutions. Mission Our mission is to empower bu",
+   "email_candidates": [
+    {
+     "email": "shiva.ks@gamanasolutions.com",
+     "where": "GitHub commits (gamanasolutions)",
+     "kind": "personal",
+     "name": "ShivaKumar K S",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  }
+ ]
+}

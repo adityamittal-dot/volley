@@ -1,0 +1,471 @@
+{
+ "leads": [
+  {
+   "id": "d48086fc08",
+   "company": "Leanbase IO",
+   "website": "https://leanbase.io/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Run hundreds of experiments every week. Learn more, faster.. Languages: Dockerfile, HTML, Python, TypeScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "dipanjan.mu@gmail.com",
+     "where": "GitHub commits (Leanbase)",
+     "kind": "personal",
+     "name": "Dipanjan Mukherjee",
+     "commits": 93
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "fc89aa0c09",
+   "company": "Hunar",
+   "website": "https://hunardaga.com",
+   "title": "Software Engineering (recently funded)",
+   "location": "Bengaluru, India",
+   "source": "funding_news",
+   "posted_at": "2026-10-19T12:34:27Z",
+   "posting": "Hunar Raises ₹40 Cr To Scale Agentic AI For Frontline Hiring. Hiring thousands of frontline workers (employees who directly provide goods and services to communities) across multiple cities is a coordination-heavy cumbersome task for HR managers. Recruiters have to call prospective employees, follow up on applications, schedule interviews and keep workers informed through onboarding and training. When hiring volumes spike during festive seasons or business expansion, these tasks can quickly become more difficult to solve manually. Bengaluru-based conversational AI startup Hunar.AI is building AI agents to automate these HR workflows. The startup today announced the raise of ₹40 Cr ($4.2 Mn) in its Series A funding round led by Blume Ventures. Other investors like Hyderabad Angels Fund, Together Fund, Seedstars, AVNM Ventures, PhysicsWallah cofounders Prateek Maheshwari and Alakh Pandey, and MediaMint cofounder Aditya Vuchi also participated in the round. Founded in 2022 by Krishna Khandelwal and Shantanu Bhattacharyya, Hunar.AI automates frontline workforce management via its conversational AI agents. These agents help ease various frontline workforce management issues — including hiring, onboarding, training and retention. It is targeting businesses that need to recruit and manage large numbers of workers, often across several locations and regional languages. The startup offers voice AI capabilities in more than 20 languages, including Tamil, Telugu and Kannada. This allows enterprises to communicate with workers in their preferred languages while automating workflows that would otherwise require repeated calls and manual follow-ups. The startup intends to use the fresh capital to strengthen its AI infrastructure, develop its products and bolster its go-to-market strategy. “Frontline workforce management is one of the largest yet most underserved opportunities in enterprise AI. Solving it requires more than applying general-purpose models to existing processes. It",
+   "site_text": "[https://www.hunardaga.com/]\nHUNAR 0 Skip to Content Open Menu Close Menu Open Menu Close Menu Sundari Silks x Naushad Ali TEXTILE JOURNEY NAUSHAD ALI GQ MAGAZINE x ROLEX ELLE MAGAZINE HAIR STORY STARFRUIT SELVEDGE MAGAZINE COVER STORY THE SEA BY NAUSHAD ALI MIXED BRAZIL ETHEREAL VOGUE MARCH '22 GIA THE NEW DELHI COMPANY THE BURNT TOAST ELLE COVER BHUMI LADAKH 21 EVOLV KAZAKHSTAN OYE YAAR NAUSHAD ALI SSFW 21 TRANSLATE HOUSE OF IDAR AARAM VIRAM Doki Doki by The Architecture Story ARCHITECHTURAL DIGEST CEDRIC COURTIN LEGEND OF THE BLUE SEA GQ TRANSFORMATION NOT SO SURE KUTCH ON RAOD RAFU'D MANASE BY AMRIT ELLE IMPACT COVER ANANYA BIRLA ARANMULA KANNADI CLO DE VILLA LISBON HIDESIGN ZEN TIED IN RED ASHTAR GQ CHEF ALEX BARBIE ASAGA DHRUV VAISH UCLUELET 2018 I'M STILL DREAMING Kissa Goi ELLE IMPACT COVER SELF PORTRAITS LOVE LETTERS BY DVAA KOLAM WALKS LITTLE THINGS STUDIO JOURNEY OF OBJECTS HOME\n\n[https://www.hunardaga.com/about]\nAbout — HUNAR 0 Skip to Content Open Menu Close Menu Open Menu Close Menu Contact hunar.daga.hd@gmail.com +91 9385323000 Hunar Daga is a photographer based in India. With a lifelong passion for travel and art, she found her zen behind the lens. What began as a curiosity behind the viewfinder soon became her creative grounding—where observation transforms into narrative. While her portfolio spans editorial, fashion, travel, and documentary photography, Hunar gravitates toward any project that challenges and inspires her creatively. Her imagery is intuitive—shaped and driven by light, emotion, layers, and a deep curiosity about her subjects. Her approach centers on the philosophy of brutal simplicity —a belief that less allows for more impact, she brings a minimal and clean aesthetic to everything she creates. Her photographs have been featured in leading Indian and international publications including Vogue India , Elle India , Architectural Digest , GQ India , Wired UAE , and Apollo Magazine etc. Her diverse clientele includes global names like Barbie, Google Pixel and Verizon, as well as acclaimed Indian designers and fashion labels and brands such as Kunal Rawal, Anita Dongre, Ajio and more.\n\n[https://www.hunardaga.com/work-2/the-new-delhi-company]\nTHE NEW DELHI COMPANY — HUNAR 0 Skip to Content Open Menu Close Menu Open Menu Close Menu View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Previous Previous GIA Next Next THE BURNT TOAST",
+   "email_candidates": [
+    {
+     "email": "hunar.daga.hd@gmail.com",
+     "where": "https://www.hunardaga.com/about",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded",
+   "referral": false
+  },
+  {
+   "id": "01cfb160df",
+   "company": "Imagekit",
+   "website": "https://imagekit.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "ImageKit.io SDKs. Languages: Kotlin, Python, Ruby, TypeScript. Topics: imagekit, imagekit-sdk, java, kotlin, nodejs, python, ruby, typescript",
+   "site_text": "[https://imagekit.io/]\nImage & Video API, Agentic DAM, Creative Automation: Complete Media Lifecycle Platform | ImageKit.io New: ImageKit MCP servers! ImageKit MCP servers — work with your media from Claude, Cursor, and other AI assistants! Read more → Platform Solutions Resources Customers Pricing Docs Image & Video API • Agentic DAM • Creative Automation The complete media lifecycle platform for websites and apps Optimize and deliver images and videos in real time. Manage assets with an Agentic DAM that also connects via MCP. Create on-brand creatives at scale. One platform with enterprise-grade capabilities at a predictable price. Start Free Talk to Sales Trusted by 300K users and 3,000 + businesses in 85 countries WHY IMAGEKIT 4 reasons why customers switch to ImageKit Economical pricing Transparent, predictable pricing parameters — unlimited transformations, and proactive support to keep you on the best plan. One platform, not five Replace your CDN, image API, video streaming, DAM, and creative tool with one platform, one bill, and one team to support you. Works with your existing stack and AI agents Deliver optimized media from the built-in DAM or your own S3, GCS, or Azure Blob storage. Connect your stack with SDKs, APIs, and native integrations, and your AI agents with MCP servers. Enterprise-ready Petabytes of media stored and billions of optimized assets delivered every month. ISO 27001, SOC 2, and GDPR compliant. Image & Video Processing Real-time optimization, transformation, and delivery at any scale Image Optimization & Transformation Automatically deliver every image in the lightest modern format, AVIF or WebP, for the viewer's device. Resize, crop, add overlays, and perform 50+ URL-based transforms, including AI and GenAI transformations. Image API Video streaming, player, and analytics URL-based API for video optimizations, transformations, and thumbnails. Adaptive streaming with HLS & DASH. An AI-powered video player with automatic subtitles, chapters, shoppable overlays, and deep analytics. Video API Video Player & Analytics AI-powered and agent-ready Smart crop, background removal, generative fill, and upscaling for images and videos, all via URL or API. Coding agents can build these URLs for you with DevTools MCP. AI Transformations Build with AI Secure, composable media delivery Plug into your existing CDN and storage, then optimize, transform, and deliver media at scale — with signed URLs, WAF, and ISO 27001 and SOC 2 Type II certifications keeping it secure. Media delivery Agentic Digital Asset Management The DAM your team and your AI agents can both run — tagged in your vocabulary, governed by your rules. Organize intelligently using LLMs Use plain-English prompts to automatically generate tags and metadata with state-of-the-art LLMs. Capture the information that matters to you, in your own vocabulary. See organization & search Scale asset operations with the DAM Agent Share securely, collaborate in context Secure source of truth with guardrails Integrate with your stack and AI assistants Deliver optimized assets directly from the DAM Explore the DAM View guided DAM demos Creative Automation Make thousands of on-brand banners without waiting on a designer for every variant. Explore Creative Automation 1 Build on-brand templates Designers create master templates with brand fonts, colors, and locked layouts — shared with the team as the single source of truth. 2 Generate at scale in UI or from CSV Swap text, products, prices, or images one-by-one in the UI — or upload a CSV to produce thousands of variations in one batch. 3 Saved straight to your DAM Every output lands in the media library, auto-tagged and versioned — instantly searchable for the next campaign. Bring ImageKit into the AI assistants you already use Three hosted MCP servers let Claude, Cursor, VS Code, and Copilot work directly in your ImageKit account, scoped to each user's own permissions. Skills and plain-text docs keep every assistant ",
+   "email_candidates": [
+    {
+     "email": "manu@imagekit.io",
+     "where": "GitHub commits (imagekit-developer)",
+     "kind": "personal",
+     "name": "Manu Chaudhary",
+     "commits": 27
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "16badda5ac",
+   "company": "Nouscom",
+   "website": "https://nouscom.com",
+   "title": "Software Engineering (recently funded)",
+   "location": "India",
+   "source": "funding_news",
+   "posted_at": "2026-10-19T13:05:31Z",
+   "posting": "Nouscom raises €120 million to detect cancers. Nouscom raises €120 million to detect cancers Startupbusiness.it",
+   "site_text": "[https://nouscom.com/]\nNouscom • Re-defining innovation Re-defining innovation Nouscom is a next-generation immunotherapy company developing engineered viral vectored vaccines for treatment of cancer. The company has offices, research and manufacturing facilities in Basel, Switzerland and Rome, Italy. LEARN MORE +41 61 201 18 31 +39 06 96 03 62 99 info@nouscom.com www.nouscom.com Empowering the immune response Nouscom’s proprietary immunotherapy platforms utilize a portfolio of uniquely engineered viral vectors optimized for the efficient expression of long strings of tumor neoantigens and comprise a powerful toolkit for the induction of broad and potent anti-tumor T cell responses . The Company’s deep knowledge of vaccine manufacturing, and the platform’s capacity to reliably encode unprecedented numbers of neoantigens is combined with proprietary approaches to neoantigen identification. Our mission is to generate safe, innovative, and potent next-generation cancer immunotherapies that selectively eliminate tumor cells . Our published pre-clinical and clinical data indicate that our approach is able to induce strong immune responses with potential to expand the applicability and efficacy of existing immunotherapies while delivering high levels of safety and tolerability. ( D’Alise et al , Nature Comm, 2019 ; D’Alise et al , Science Translational Medicine, 2022 ; Bechter et al , Cancer Res, 2023 ; Fakih et al , J. Clin Oncology, 2022 ; Leoni & D’Alise et al , Vaccines 2021 ; Leoni et al , Cancer Res, 2020 ). Enhancing cancer-specific cellular immunity With a proprietary portfolio of recombinant viral vectors, that redirect and potentiate anti-tumor cellular immunity to focus on selected immunogenic tumor neoantigens. Cancer immunotherapy based on neoantigens They encode an unprecedented number of tumor neoantigens for the induction and boosting of cancer-specific T cells. Nouscom proprietary viral vectors are engineered to encode multiple tumor neoantigens from a patient’s mutanome, expressed at high levels, irrespective of the order in which the neoantigens are assembled. Nouscom cancer vaccines include: a) an off-the-shelf immunotherapy encoding a large number of shared tumor neoantigens that are generated by frameshifts resulting from mismatch repair deficiency (dMMR)/microsatellite instability (MSI) (Leoni et al , 2020) , and b) and b) a personalized neoantigen vaccine tailored to individual patient mutanomes. Endovax: Targeted oncolytic virus It is delivered locally or systemically and armored with selected immune-modulators for use in solid tumors. Pipeline Our clinical programmes comprise: i) an off-the-shelf’ cancer immunotherapy based on frameshift neoantigens for treatment of mismatch repair deficient (dMMR)/microsatellite instability (MSI) tumors (NOUS-209); and ii) a personalized neoantigen cancer vaccine for treatment of solid tumors (NOUS-PEV). Our Progress NOUS-209 NOUS-PEV Find More Investors Latest news Find out about our latest press releases and publications and keep updated on our clinical studies. Nouscom Raises €120 Million ($135 Million) in Oversubscribed Series D Financing and will Present Long-Term Cancer Interception Clinical Data in Lynch Syndrome Carriers at ESMO 10/19/2026 Oversubscribed €120 million Series D financing was led by M Ventures and Revelation Partners, with new investors Angelini Industries, the European Investment Bank and Neva SGR and participation [...] Read More 0 Nouscom Selected for Oral Presentation on NOUS-209 Re-treatment and Long-Term Follow-Up in Lynch Syndrome Carriers at ESMO Congress 2026 07/20/2026 New data from the Phase 1b/2 trial of NOUS-209 in Lynch Syndrome (LS) carriers have been accepted for an oral presentation at the European Society for Medical Oncology (ESMO) Congress 2026 [...] Read More 0 Nouscom Receives U.S. FDA Fast Track Designation for NOUS-209, a Novel Immunotherapy for the Prevention of Lynch Syndrome-Associated Cancers 06/01/2026 Fast Track Designati",
+   "email_candidates": [
+    {
+     "email": "info@nouscom.com",
+     "where": "https://nouscom.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded",
+   "referral": false
+  },
+  {
+   "id": "79c95820e8",
+   "company": "Otter.ai",
+   "website": "https://otter.ai",
+   "title": "Software Engineering (recently funded)",
+   "location": "India",
+   "source": "funding_news",
+   "posted_at": "2026-10-20T11:00:00Z",
+   "posting": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool. Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool TechCrunch",
+   "site_text": "[https://otter.ai/]\nOtter Meeting Agent - AI Notetaker, Transcription, Insights Log in Menu Close Meeting AI that turns talk into action Your notetaker should do more than take notes Meeting AI for follow-ups Your AI notetaker is now also your Conversational Knowledge Engine Transcription. Pre-call briefs. Live coaching. Automatic follow-ups. Otter transcribes every meeting, turning it into searchable knowledge that powers your workflow. Start for free Schedule demo \"I am possibly Otter's most enthusiastic supporter. My team and I are using it everyday. And we’re using it for almost every meeting.” — Tim Draper “Otter is a must-have. Just being conservative - our team is getting 33% time back.” — Laura Brown, Vice President of Sales at Aiden Technologies “I use Otter.ai almost everyday….it is a superpower.” — Brandon Savage, Head of Solution Enablement, Voziq.ai Before, during, and after every meeting. Otter briefs you before the call, coaches you live based on what's been said, and automatically follows up in the tools you already use. Demo it live Capture conversations from anywhere Record directly from your Mac or Windows desktop, mobile device, or your browser. Pre-call briefings Have briefing documents delivered before your meeting with all the prior discussions, action items, and updates you need. Ask Otter anything Otter AI Chat searches across your meetings and connected apps to instantly answer questions and help you create follow-ups, reports, and content. Live-Assist coaching Get real-time, personalized coaching and prompts during calls based on your entire conversation history, company playbooks, and what’s being discussed. Automate the action items Clear next steps are automatically captured and assigned from every meeting. Push sales insights to your CRM Key deal details, notes, and next steps automatically extracted from every meeting and synced to your CRM. Start for free Like having your own executive assistant Send it to meetings, or record them from your device. Otter captures the full conversation, tracks takeaways, and handles follow-ups without ever taking a day off. Demo it live Ask Otter anything Otter AI Chat searches across your meetings and connected apps to instantly answer questions and help you create follow-ups, reports, and content. A desktop app for bot-free meetings Record conversations directly from your Mac or Windows desktop, without bots joining the call. See the words, as they’re spoken Live transcription in multiple languages, and speaker recognition. Get instant summaries you can trust Otter turns every meeting into a clear summary with decisions, action items, and insights. Automate the action items Clear next steps are automatically captured and assigned from every meeting. Push sales insights to your CRM Key deal details, notes, and next steps automatically extracted from every meeting and synced to your CRM. Organize your conversations with Channels Meetings grouped by team, project, or topic so everyone can find recordings and collaborate in one shared space. Start for free Whatever you do, Otter works for you Sales Education Media Recruiting Agent SDR Agent Sales Capture sales call notes, get live coaching tips, automate follow-ups, and drive sales efficiency with CRM. Learn more Education Automatically capture lectures, discussions, and study sessions turning them into searchable notes and summaries you can use anytime. Learn more Media Capture interviews and production meetings and automatically turn them into searchable transcripts, key quotes, and draft-ready notes. Learn more Recruiting Agent Get real-time help during interviews and turn every conversation into structured, shareable candidate insight. Learn more SDR Agent From live demos to booked meetings, our SDR Agent handles it all right from your website. Learn more Choose how you capture meetings Whether you automatically send your AI Notetaker to meetings, record bot-free on desktop or Chrome, or capture on mobile, Ott",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded",
+   "referral": false
+  },
+  {
+   "id": "98982b8bea",
+   "company": "Hunar.AI",
+   "website": "https://hunar.ai",
+   "title": "Software Engineering (recently funded)",
+   "location": "Hyderabad, India",
+   "source": "funding_news",
+   "posted_at": "2026-10-20T13:45:57Z",
+   "posting": "Hunar.AI raises Rs 40 Cr in Series A funding round led by Blume Ventures. Hunar.AI has raised Rs 40 crore in a Series A funding round led by Blume Ventures. The round also saw participation from Hyderabad Angels Fund, Together Fund, Seedstars, AVNM Ventures, PhysicsWallah co-founders Prateek Maheshwari and Alakh Pandey, and MediaMint co-founder Aditya Vuchi. Hunar.AI will use the funds for building AI infrastructure, product development, and go-to-market expansion. The company is focused on developing specialised AI technology for frontline-intensive industries, where high-volume hiring, geographically distributed teams, and language diversity create operational challenges that conventional HR systems struggle to address. “Frontline workforce management is one of the largest yet most underserved opportunities in enterprise AI. Solving it requires more than applying general-purpose models to existing processes. It demands a deep understanding of industry workflows, multilingual capabilities and technology that can reliably execute tasks at scale,” said Krishna Khandelwal, Co-founder and CEO, Hunar.AI. Founded in 2022 by Krishna Khandelwal and Shantanu Bhattacharyya, Hunar’s platform comprises Hunar Voice and Hunar Connect, which use conversational AI agents to manage workforce workflows through voice, WhatsApp and chat. Workflows include candidate sourcing and screening, interview scheduling, onboarding, training, employee engagement and worker retention. By automating high-volume interactions, the platform helps enterprises manage frontline workforce processes while maintaining communication with candidates and employees across locations. Arpit Agrawal, Partner at Blume Ventures said, “As the world looks to India for lessons in managing these new-age businesses at scale, Hunar is building the AI layer that makes them possible. By focusing on outcomes rather than infrastructure, Hunar has the potential to build a category in India that can scale globally.” According ",
+   "site_text": "[https://hunar.ai/]\nAI HRs for frontline workforce management | Hunar.ai Solutions Product Customers Resources Request a demo Turn conversations into better workforce outcomes. Turn conversations into better workforce outcomes. Voice AI and autonomous HR operations for sourcing, onboarding, engagement, retention, and everything in between. Request a demo Hiring Voice AI calls every applicant in their language and screens for role fit. Learn about hiring Onboarding Voice AI guides new hires through documentation and compliance checks. Learn about onboarding Training & Engaging Runs voice-based training and skill checks in workersâ own language. Learn about training Products Hunar makes workforce management efficient for every scale. Hunar makes workforce management efficient for every scale. We help businesses build, manage, and engage their workforce at scale through AI-powered conversations. We help businesses build, manage, and engage their workforce at scale through AI-powered conversations. Hunar Voice Conversational Voice AI agents that hire, onboard, train, activate, and retain your workforce. Learn about voice Hunar Connect End-to-end workforce management to screen, onboard, train, and engage talent at scale via calls and WhatsApp. Learn about connect Customer stories Real workforce challenges. Real business outcomes. Real workforce challenges. Real business outcomes. See how businesses use Hunar to build, manage, and engage their workforce through AI-powered conversations at scale. See how businesses use Hunar to build, manage, and engage their workforce through AI-powered conversations at scale. Quick Commerce Quick Commerce Platform Transforms Partner Acquisition with AI Voice Agents 2.4x Conversion improvement ~50% Lower cost per hire Read story Diagnostics & Healthcare 13 lakh candidates screened. Zero headcount added. 70% Pre-filtered by AI HRs Same day Interest check Read story Screening for Retail Streamlining in-store hiring at scale across 570+ stores 94% Reduction in HR 200+ Cities covered Read story Technical Staffing 7.5 lakh stale records. Reactivated into a live talent engine. 3x Jump in candidate engagement 7.5L Profiles reactivated Read story Quick Commerce Quick Commerce Platform Transforms Partner Acquisition with AI Voice Agents Read story Diagnostics & Healthcare 13 lakh candidates screened. Zero headcount added. Read story Screening for Retail Streamlining in-store hiring at scale across 570+ stores Read story Technical Staffing 7.5 lakh stale records. Reactivated into a live talent engine. Read story Best in the space Unmatched results AI that lifts the weight so HR teams can reach more people, move faster, and focus on what matters. 2 . 5 X i n c r e a s e i n h i r i n g s p e e d , a c r o s s c i t i e s , l a n g u a g e s , u s e c a s e s a n d d i a l e c t s Human + 2.5X Human + AI 1.5X Human 1X Best in the space Unmatched results AI that lifts the weight so HR teams can reach more people, move faster, and focus on what matters. 2 . X i n c r e a s e i n h i r i n g s p e e d , a c r o s s c i t i e s , l a n g u a g e s , u s e c a s e s a n d d i a l e c t s Human + 2.5X Human + AI 1.5X Human 1X Test AI HRs Test the AI HRs built for every workforce workflow. Test the AI HRs built for every workforce workflow. Test our specialised AI agents take on the conversations and workflows that keep hiring, onboarding, and workforce operations moving. Book a live demo Quick Commerce Onboarding Agent Listen call 0:00 / 1:34 Skilled Professionals Screening Agent Listen call 0:00 / 1:34 Technical Staff Hiring Agent Listen call 0:00 / 1:34 Logistics Survey Agent Listen call 0:00 / 1:34 Quick Commerce Re-Hiring Agent Listen call 0:00 / 1:34 Solid Foundation What makes Hunar different What makes Hunar different Real workforce conversations are messy. Hunar is built to understand the interruptions, languages, pauses, noise, and context that make them difficult. 01 Dynamic Interruption Handling A \"yes\" ",
+   "email_candidates": [
+    {
+     "email": "contact@hunar.ai",
+     "where": "https://hunar.ai/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded",
+   "referral": false
+  },
+  {
+   "id": "a722d26699",
+   "company": "Tenstorrent",
+   "website": "https://tenstorrent.com",
+   "title": "Software Engineering (recently funded)",
+   "location": "India",
+   "source": "funding_news",
+   "posted_at": "2026-10-20T07:19:13Z",
+   "posting": "Tenstorrent raises $1.5 billion, valuation doubles to $6.2 billion. Tenstorrent raises $1.5 billion, valuation doubles to $6.2 billion electronics.economictimes.indiatimes.com",
+   "site_text": "[https://tenstorrent.com/]\nTenstorrent Skip to main content Some tracking technologies are important for the correct functioning of our websites and are always on. By clicking \"Allow All\" you are also directing us to use optional tracking technologies. Privacy Notice . Customize Allow All Only Necessary Introducing Tenstorrent Galaxy™ superclusters Multi-server configurations for AI workloads – video, code, LLM – run fast. Near-linear scaling, preserving quality and interactivity. LLM Solutions AI Video Solutions Compute for every scale. Cards Add to, or config your own rig. Passive, active and liquid cooling options. Starting at $999 Buy Blackhole® Workstations Whisper-quiet, liquid cooled - run models up to 120b parameters from your desk. Starting at $9,999 Buy TT-QuietBox® Servers Sovereign, scale-out servers for production AI. Starting at $70,000 Explore Tenstorrent Galaxy™ Flexible IP for Specific Workloads Accelerate your business with in-use, performant, and flexible IP without the vendor lock-in. License now Explore IP TT in the news Read more Announcements Newsroom Tenstorrent Announces a $1.5B Series E at a $6.2B valuation Oct 19, 2026 Announcements Newsroom Vayavya Labs and Tenstorrent Partner to Accelerate RISC-V Hardware and Software Development Through Virtual Platform Modeling Oct 8, 2026 Newsroom Announcements Tenstorrent and Smallest.ai Partner to Bring Production-Grade Voice AI On-Prem Oct 2, 2026 Install TT-Forge (Beta) Compile models for Tenstorrent hardware TT-Forge™ is Tenstorrent’s MLIR-based open-source compiler, built on top of our existing AI software stack, and designed to work with PyTorch, JAX, ONNX, and more. TT-Forge™ is now in public beta, and ready for feedback. File a PR or join the conversation on Discord. Read the Docs tt-forge repo Build an Open Future with Us AI is changing the laws that once governed computing. Our IP is transparent, our architectures are open, and our software is open source so you can edit, select, fork, and own your silicon future. Enter Join our developer community Get the latest info, ask questions, review our open-source repos. Join Discord Check out GitHub Recent contributions from our bounty program Build an open future with us. Fix bugs, add features, get paid. View all Oct 2 FP32 ttnn.cumsum returns NaN after infinity or overflow medium Sep 29 Fix fused scale-mask softmax tile-padding leakage at non-32 widths easy Sep 28 Fix u32-to-fp32 double rounding in typecast medium Sep 28 Improve div_no_nan accuracy to 1 ULP medium Sep 28 Improve BF16 reciprocal rounding on Wormhole medium Sep 16 SFPLOADMACRO produces wrong results under coverage instrumentation (Reciprocal fails 46/153 on Blackhole) medium\n\n[https://tenstorrent.com/careers]\nCareers | Tenstorrent Skip to main content Some tracking technologies are important for the correct functioning of our websites and are always on. By clicking \"Allow All\" you are also directing us to use optional tracking technologies. Privacy Notice . Customize Allow All Only Necessary Build With Us We’re looking for first principle thinkers who believe in an open future. We build RISC-V CPUs, Tensor AI processors, and open-source software to unlock the next innovations in AI. Build now, for tomorrow. Interested in joining one of our teams? Hardware Architecture, SoC, RISC-V, Physical Engineering, Silicon, AI Hardware Software Scale Out, Metal, Low Level Kernel, AI Compiler, Product Software Engineering, Infrastructure, RISC-V, Cloud Systems FW, SoC Validation, Hardware, Hi-Speed IO, Infra/Tools, Mechanical, PCB/Power, Platform, Silicon + Systems, Si Val/Qual, Systems Software Experience Go-to-market, Comms, Growth, Product, Customer Experience, Customer Success, Developer Relations, Sites, Creative Operations Business Ops, Finance, HR, IT, Legal, Quality and Functional Safety, Supply Chain, Program Management, Administrative Support University Internships, New Grad Roles Customer - Operations Automotive Emulation Engineer, Automotive",
+   "email_candidates": [
+    {
+     "email": "recruiting-jp@tenstorrent.com",
+     "where": "https://tenstorrent.com/careers",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded",
+   "referral": false
+  },
+  {
+   "id": "a722d26699-ref",
+   "company": "Tenstorrent",
+   "website": "https://tenstorrent.com",
+   "title": "Software Engineering (recently funded)",
+   "location": "India",
+   "source": "funding_news",
+   "posted_at": "2026-10-20T07:19:13Z",
+   "posting": "Tenstorrent raises $1.5 billion, valuation doubles to $6.2 billion. Tenstorrent raises $1.5 billion, valuation doubles to $6.2 billion electronics.economictimes.indiatimes.com",
+   "site_text": "[https://tenstorrent.com/]\nTenstorrent Skip to main content Some tracking technologies are important for the correct functioning of our websites and are always on. By clicking \"Allow All\" you are also directing us to use optional tracking technologies. Privacy Notice . Customize Allow All Only Necessary Introducing Tenstorrent Galaxy™ superclusters Multi-server configurations for AI workloads – video, code, LLM – run fast. Near-linear scaling, preserving quality and interactivity. LLM Solutions AI Video Solutions Compute for every scale. Cards Add to, or config your own rig. Passive, active and liquid cooling options. Starting at $999 Buy Blackhole® Workstations Whisper-quiet, liquid cooled - run models up to 120b parameters from your desk. Starting at $9,999 Buy TT-QuietBox® Servers Sovereign, scale-out servers for production AI. Starting at $70,000 Explore Tenstorrent Galaxy™ Flexible IP for Specific Workloads Accelerate your business with in-use, performant, and flexible IP without the vendor lock-in. License now Explore IP TT in the news Read more Announcements Newsroom Tenstorrent Announces a $1.5B Series E at a $6.2B valuation Oct 19, 2026 Announcements Newsroom Vayavya Labs and Tenstorrent Partner to Accelerate RISC-V Hardware and Software Development Through Virtual Platform Modeling Oct 8, 2026 Newsroom Announcements Tenstorrent and Smallest.ai Partner to Bring Production-Grade Voice AI On-Prem Oct 2, 2026 Install TT-Forge (Beta) Compile models for Tenstorrent hardware TT-Forge™ is Tenstorrent’s MLIR-based open-source compiler, built on top of our existing AI software stack, and designed to work with PyTorch, JAX, ONNX, and more. TT-Forge™ is now in public beta, and ready for feedback. File a PR or join the conversation on Discord. Read the Docs tt-forge repo Build an Open Future with Us AI is changing the laws that once governed computing. Our IP is transparent, our architectures are open, and our software is open source so you can edit, select, fork, and own your silicon future. Enter Join our developer community Get the latest info, ask questions, review our open-source repos. Join Discord Check out GitHub Recent contributions from our bounty program Build an open future with us. Fix bugs, add features, get paid. View all Oct 2 FP32 ttnn.cumsum returns NaN after infinity or overflow medium Sep 29 Fix fused scale-mask softmax tile-padding leakage at non-32 widths easy Sep 28 Fix u32-to-fp32 double rounding in typecast medium Sep 28 Improve div_no_nan accuracy to 1 ULP medium Sep 28 Improve BF16 reciprocal rounding on Wormhole medium Sep 16 SFPLOADMACRO produces wrong results under coverage instrumentation (Reciprocal fails 46/153 on Blackhole) medium\n\n[https://tenstorrent.com/careers]\nCareers | Tenstorrent Skip to main content Some tracking technologies are important for the correct functioning of our websites and are always on. By clicking \"Allow All\" you are also directing us to use optional tracking technologies. Privacy Notice . Customize Allow All Only Necessary Build With Us We’re looking for first principle thinkers who believe in an open future. We build RISC-V CPUs, Tensor AI processors, and open-source software to unlock the next innovations in AI. Build now, for tomorrow. Interested in joining one of our teams? Hardware Architecture, SoC, RISC-V, Physical Engineering, Silicon, AI Hardware Software Scale Out, Metal, Low Level Kernel, AI Compiler, Product Software Engineering, Infrastructure, RISC-V, Cloud Systems FW, SoC Validation, Hardware, Hi-Speed IO, Infra/Tools, Mechanical, PCB/Power, Platform, Silicon + Systems, Si Val/Qual, Systems Software Experience Go-to-market, Comms, Growth, Product, Customer Experience, Customer Success, Developer Relations, Sites, Creative Operations Business Ops, Finance, HR, IT, Legal, Quality and Functional Safety, Supply Chain, Program Management, Administrative Support University Internships, New Grad Roles Customer - Operations Automotive Emulation Engineer, Automotive",
+   "email_candidates": [
+    {
+     "email": "ahsiao@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Andrew Hsiao",
+     "commits": 3
+    },
+    {
+     "email": "yenhenglai@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Yenheng Lai",
+     "commits": 8
+    },
+    {
+     "email": "aottaviano@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Alessandro Ottaviano",
+     "commits": 2
+    },
+    {
+     "email": "minshaoho@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "MinShaoHo",
+     "commits": 10
+    },
+    {
+     "email": "danielkim@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Daniel Kim",
+     "commits": 1
+    },
+    {
+     "email": "brucehsu@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Bruce Hsu",
+     "commits": 1
+    },
+    {
+     "email": "gchang@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Grace Chang",
+     "commits": 1
+    },
+    {
+     "email": "nwistoff@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Nils Wistoff",
+     "commits": 1
+    },
+    {
+     "email": "hliao@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Haohao Liao",
+     "commits": 1
+    },
+    {
+     "email": "kqin@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Kai Qin",
+     "commits": 6
+    },
+    {
+     "email": "tenstorrent_github_bot_admin@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Tenstorrent Github Bot Admin",
+     "commits": 1
+    },
+    {
+     "email": "ppetrovic@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Pavle Petrovic",
+     "commits": 1
+    },
+    {
+     "email": "cleonidou@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Constantinos leonidou",
+     "commits": 6
+    },
+    {
+     "email": "viktorpus@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Viktor Pus",
+     "commits": 15
+    },
+    {
+     "email": "vkovacevic@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Vladan Kovacevic",
+     "commits": 2
+    },
+    {
+     "email": "mark.oconnor@gmail.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Mark O'Connor",
+     "commits": 6
+    },
+    {
+     "email": "arginuga@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Ashai Reddy Ginuga",
+     "commits": 2
+    },
+    {
+     "email": "ezietlow@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Eric Zietlow",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded",
+   "referral": true
+  },
+  {
+   "id": "a722d26699-ref",
+   "company": "Tenstorrent",
+   "website": "https://tenstorrent.com",
+   "title": "Software Engineering (recently funded)",
+   "location": "India",
+   "source": "funding_news",
+   "posted_at": "2026-10-20T07:19:13Z",
+   "posting": "Tenstorrent raises $1.5 billion, valuation doubles to $6.2 billion. Tenstorrent raises $1.5 billion, valuation doubles to $6.2 billion electronics.economictimes.indiatimes.com",
+   "site_text": "[https://tenstorrent.com/]\nTenstorrent Skip to main content Some tracking technologies are important for the correct functioning of our websites and are always on. By clicking \"Allow All\" you are also directing us to use optional tracking technologies. Privacy Notice . Customize Allow All Only Necessary Introducing Tenstorrent Galaxy™ superclusters Multi-server configurations for AI workloads – video, code, LLM – run fast. Near-linear scaling, preserving quality and interactivity. LLM Solutions AI Video Solutions Compute for every scale. Cards Add to, or config your own rig. Passive, active and liquid cooling options. Starting at $999 Buy Blackhole® Workstations Whisper-quiet, liquid cooled - run models up to 120b parameters from your desk. Starting at $9,999 Buy TT-QuietBox® Servers Sovereign, scale-out servers for production AI. Starting at $70,000 Explore Tenstorrent Galaxy™ Flexible IP for Specific Workloads Accelerate your business with in-use, performant, and flexible IP without the vendor lock-in. License now Explore IP TT in the news Read more Announcements Newsroom Tenstorrent Announces a $1.5B Series E at a $6.2B valuation Oct 19, 2026 Announcements Newsroom Vayavya Labs and Tenstorrent Partner to Accelerate RISC-V Hardware and Software Development Through Virtual Platform Modeling Oct 8, 2026 Newsroom Announcements Tenstorrent and Smallest.ai Partner to Bring Production-Grade Voice AI On-Prem Oct 2, 2026 Install TT-Forge (Beta) Compile models for Tenstorrent hardware TT-Forge™ is Tenstorrent’s MLIR-based open-source compiler, built on top of our existing AI software stack, and designed to work with PyTorch, JAX, ONNX, and more. TT-Forge™ is now in public beta, and ready for feedback. File a PR or join the conversation on Discord. Read the Docs tt-forge repo Build an Open Future with Us AI is changing the laws that once governed computing. Our IP is transparent, our architectures are open, and our software is open source so you can edit, select, fork, and own your silicon future. Enter Join our developer community Get the latest info, ask questions, review our open-source repos. Join Discord Check out GitHub Recent contributions from our bounty program Build an open future with us. Fix bugs, add features, get paid. View all Oct 2 FP32 ttnn.cumsum returns NaN after infinity or overflow medium Sep 29 Fix fused scale-mask softmax tile-padding leakage at non-32 widths easy Sep 28 Fix u32-to-fp32 double rounding in typecast medium Sep 28 Improve div_no_nan accuracy to 1 ULP medium Sep 28 Improve BF16 reciprocal rounding on Wormhole medium Sep 16 SFPLOADMACRO produces wrong results under coverage instrumentation (Reciprocal fails 46/153 on Blackhole) medium\n\n[https://tenstorrent.com/careers]\nCareers | Tenstorrent Skip to main content Some tracking technologies are important for the correct functioning of our websites and are always on. By clicking \"Allow All\" you are also directing us to use optional tracking technologies. Privacy Notice . Customize Allow All Only Necessary Build With Us We’re looking for first principle thinkers who believe in an open future. We build RISC-V CPUs, Tensor AI processors, and open-source software to unlock the next innovations in AI. Build now, for tomorrow. Interested in joining one of our teams? Hardware Architecture, SoC, RISC-V, Physical Engineering, Silicon, AI Hardware Software Scale Out, Metal, Low Level Kernel, AI Compiler, Product Software Engineering, Infrastructure, RISC-V, Cloud Systems FW, SoC Validation, Hardware, Hi-Speed IO, Infra/Tools, Mechanical, PCB/Power, Platform, Silicon + Systems, Si Val/Qual, Systems Software Experience Go-to-market, Comms, Growth, Product, Customer Experience, Customer Success, Developer Relations, Sites, Creative Operations Business Ops, Finance, HR, IT, Legal, Quality and Functional Safety, Supply Chain, Program Management, Administrative Support University Internships, New Grad Roles Customer - Operations Automotive Emulation Engineer, Automotive",
+   "email_candidates": [
+    {
+     "email": "recruiting-jp@tenstorrent.com",
+     "where": "https://tenstorrent.com/careers",
+     "kind": "personal"
+    },
+    {
+     "email": "ahsiao@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Andrew Hsiao",
+     "commits": 3
+    },
+    {
+     "email": "yenhenglai@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Yenheng Lai",
+     "commits": 8
+    },
+    {
+     "email": "aottaviano@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Alessandro Ottaviano",
+     "commits": 2
+    },
+    {
+     "email": "minshaoho@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "MinShaoHo",
+     "commits": 10
+    },
+    {
+     "email": "danielkim@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Daniel Kim",
+     "commits": 1
+    },
+    {
+     "email": "brucehsu@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Bruce Hsu",
+     "commits": 1
+    },
+    {
+     "email": "gchang@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Grace Chang",
+     "commits": 1
+    },
+    {
+     "email": "nwistoff@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Nils Wistoff",
+     "commits": 1
+    },
+    {
+     "email": "hliao@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Haohao Liao",
+     "commits": 1
+    },
+    {
+     "email": "kqin@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Kai Qin",
+     "commits": 6
+    },
+    {
+     "email": "tenstorrent_github_bot_admin@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Tenstorrent Github Bot Admin",
+     "commits": 1
+    },
+    {
+     "email": "ppetrovic@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Pavle Petrovic",
+     "commits": 1
+    },
+    {
+     "email": "cleonidou@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Constantinos leonidou",
+     "commits": 6
+    },
+    {
+     "email": "viktorpus@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Viktor Pus",
+     "commits": 15
+    },
+    {
+     "email": "vkovacevic@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Vladan Kovacevic",
+     "commits": 2
+    },
+    {
+     "email": "mark.oconnor@gmail.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Mark O'Connor",
+     "commits": 6
+    },
+    {
+     "email": "arginuga@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Ashai Reddy Ginuga",
+     "commits": 2
+    },
+    {
+     "email": "ezietlow@tenstorrent.com",
+     "where": "GitHub commits (tenstorrent)",
+     "kind": "personal",
+     "name": "Eric Zietlow",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded",
+   "referral": true
+  },
+  {
+   "id": "a80598bda5",
+   "company": "Axixa Technologies",
+   "website": "https://axixatechnologies.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Empowering tech innovators through hands-on training, SaaS products, and open-source solutions. Specializing in MERN Stack, Python, Generative AI, and Laravel.",
+   "site_text": "[https://axixatechnologies.com/]\nTitle: Axixa Technologies | Tech Courses in Bikaner\n\nURL Source: https://axixatechnologies.com/\n\nMarkdown Content:\n![Image 1: Axixa Technologies Logo](https://axixatechnologies.com/logo.png)\n\nWe are not just an institute — we are a community of learners, creators, and innovators. Our focus is not only on delivering knowledge but also on building mindsets that can adapt, solve problems, and lead in a competitive tech landscape.\n\n## About Axixa Technologies\n\nAxixa Technologies is a next-generation tech training institute dedicated to empowering individuals with the skills they need to thrive in today's fast-evolving digital world.\n\nWhether you're a college student, a working professional, or someone looking to switch careers, Axixa Technologies is your launchpad into the world of tech. Join us and take the first step toward a future full of possibilities.\n\n## Our Top Courses\n\nLearn to create full-stack websites and APIs using Python, Flask, and AI tools for real-world deployment.\n\n[Learn more](https://axixatechnologies.com/courses/code-to-career-python-ai-web-development)\n\nMaster Generative AI, Google's LLMs, and create real-world AI applications with Python and Streamlit.\n\n[Learn more](https://axixatechnologies.com/courses/generative-ai-with-python)\n\nBuild dynamic websites, backend APIs, and deploy full-stack applications using Python and Flask.\n\n[Learn more](https://axixatechnologies.com/courses/web-development-with-python)\n\nAnalyze data, visualize insights, and perform real-world data analytics projects with Python, Pandas, and SQL.\n\n[Learn more](https://axixatechnologies.com/courses/data-analytics-with-python)\n\n### Axixa Technologies\n\nJoin a growing community of passionate learners and unlock your potential with us. At Axixa, we don't just teach — we build futures in tech.\n\n### Contact Info\n\nNear P.N. Place, Gangasahar Bikaner Rajasthan 334001\n\nPhone: +91 9251435299\n\nEmail: info@axixatechnologies.com\n\n© 2026 Axixa Technologies. All rights reserved.\n",
+   "email_candidates": [
+    {
+     "email": "cybertiwari@gmail.com",
+     "where": "GitHub commits (axixatechnologies)",
+     "kind": "personal",
+     "name": "Sunil Tiwari",
+     "commits": 31
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  }
+ ]
+}

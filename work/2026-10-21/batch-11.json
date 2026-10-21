@@ -1,0 +1,283 @@
+{
+ "leads": [
+  {
+   "id": "793b6826f5",
+   "company": "MIT TECH TEAM",
+   "website": "https://www.robocon.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We are born with wings and we prefer to fly. Languages: C++, Jupyter Notebook, TypeScript",
+   "site_text": "[https://www.robocon.in/]\nHome | MIT Tech Team Recruitment Form! MIT Tech Team At MIT - World Peace University, Pune, India, we are proud participants of ABU Robocon. With over 100 Indian teams competing annually, our team stands out as one of the top robotics teams in the country. As we set our sights on the DD Robocon 2026, we are more determined than ever to achieve victory and once again proudly represent India on the international stage. Join us on this exciting journey! W e d o n ' t j u s t b u i l d R o b o t s , W e b u i l d p e o p l e w h o b u i l d r o b o t s Our Sponsors Our valued sponsors who make our projects and initiatives possible. Their support drives innovation and empowers us to create meaningful impact. Thank you for being a key part of our journey! © 2024 MIT-WPU Tech Team. Developed with ❤️ by Mehul Uttam .",
+   "email_candidates": [
+    {
+     "email": "robocon.mit@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "793b6826f5-ref",
+   "company": "MIT TECH TEAM",
+   "website": "https://www.robocon.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We are born with wings and we prefer to fly. Languages: C++, Jupyter Notebook, TypeScript",
+   "site_text": "[https://www.robocon.in/]\nHome | MIT Tech Team Recruitment Form! MIT Tech Team At MIT - World Peace University, Pune, India, we are proud participants of ABU Robocon. With over 100 Indian teams competing annually, our team stands out as one of the top robotics teams in the country. As we set our sights on the DD Robocon 2026, we are more determined than ever to achieve victory and once again proudly represent India on the international stage. Join us on this exciting journey! W e d o n ' t j u s t b u i l d R o b o t s , W e b u i l d p e o p l e w h o b u i l d r o b o t s Our Sponsors Our valued sponsors who make our projects and initiatives possible. Their support drives innovation and empowers us to create meaningful impact. Thank you for being a key part of our journey! © 2024 MIT-WPU Tech Team. Developed with ❤️ by Mehul Uttam .",
+   "email_candidates": [
+    {
+     "email": "swapnajagithub@gmail.com",
+     "where": "GitHub commits (mittechteam)",
+     "kind": "personal",
+     "name": "Swapnaja964",
+     "commits": 14
+    },
+    {
+     "email": "ravindrapawar8433@gmail.com",
+     "where": "GitHub commits (mittechteam)",
+     "kind": "personal",
+     "name": "vedantpawar15",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "0aa984c91d",
+   "company": "Nitrite Database",
+   "website": "https://nitrite.dizitart.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "A serverless, embedded and self-contained NoSQL database. Languages: Dart, Java, Rust. Topics: android, database, documentdb, embedded-database, flutter, mobile-database, nosql, object-database, object-storage",
+   "site_text": "[https://nitrite.dizitart.com/]\nWelcome to Nitrite Database | Nitrite Nitrite Docs Powered by Welcome to Nitrite Database Nitrite is a serverless, embedded, and self-contained NoSQL database. It is an open-source project that provides a simple API for persistent data storage. Nitrite database is designed to be lightweight, fast, and easy to use. NO sql O bject ( NO 2 a.k.a Nitrite) is a serverless, embedded, and self-contained NoSQL database. It is an open-source project that provides a simple API for persistent data storage. Nitrite database is designed to be lightweight, fast, and easy to use. Currently, it is available in Java, Kotlin, Flutter, and Rust. Nitrite database can be used in various scenarios where a lightweight, embedded, and serverless NoSQL database is required. Some of the use cases for Nitrite database are: Mobile and desktop applications IoT devices and sensors Web applications and APIs Prototyping and testing Data caching and synchronization Data analysis and reporting Nitrite database is designed to be simple and easy to use, making it a good choice for small to medium-sized projects that require a fast and reliable data storage solution. ✨ Features Embedded, serverless Simple API Document-oriented Schemaless document collection and object repository Extensible storage engines Indexing and full-text search Vector similarity search (ANN) & RAG store (Rust SDK only) Simple query API In-memory and file-based store Transaction support Schema migration support Encryption support ⛔ What Nitrite is not Nitrite is not an RDBMS. It is also not a distributed NoSQL database like MongoDB or Cassandra. It does not have any server for external application to connect to. 🚀 Getting Started Nitrite database is currently available in Java, Kotlin, Flutter, and Rust. Please visit the respective language page for getting started guidance and repository links. Feature availability can differ slightly by SDK, so each language guide documents its supported modules and capabilities. Java Getting Started Repository Kotlin Getting Started Repository Flutter Getting Started Repository Rust Getting Started Repository 📝 License Nitrite database is an open-source project released under the terms of the Apache License, Version 2.0 . 🤝 Support Give a ⭐ ️ if this project helped you! Please consider donating to support the development and maintenance. 💚 Contributing Contributions, issues and feature requests are welcome. Feel free to open a discussion thread here . 🎞️ Showcase If you are using Nitrite database in your project, please let us know. We will be happy to showcase your project here . Image by Freepik",
+   "email_candidates": [
+    {
+     "email": "anindya@dizitart.com",
+     "where": "job posting",
+     "kind": "other"
+    },
+    {
+     "email": "anidotnet@gmail.com",
+     "where": "GitHub commits (nitrite)",
+     "kind": "personal",
+     "name": "Anindya Chatterjee",
+     "commits": 42
+    },
+    {
+     "email": "brett.wooldridge@gmail.com",
+     "where": "GitHub commits (nitrite)",
+     "kind": "personal",
+     "name": "Brett Wooldridge",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "85bec7ff18",
+   "company": "Quokka Labs",
+   "website": "https://www.quokkalabs.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "AI Native Engineering Services Company. Languages: Dart",
+   "site_text": "[https://quokkalabs.com/]\nAI-Native Engineering and Solutions Company | Quokka Labs Quokka Labs Let's Talk AI AI Services AI Solutions AI Strategy & Consulting AI Workflow Automation AI Development Services Generative AI Agentic AI Engineering AI Governance & Security Services ML & LLM Engineering Secure AI Deployment & Governance AI-Powered QA Automation Enterprise AI Chatbots & Assistants Forward Deployed Engineering Extend your team with engineers embedded in your workflows. HIRE DEDICATED ENGINEERS Services Product Engineering Digital Transformation QA Engineering Cybersecurity Mobile App Development Web App Development Product Designing Data Engineering Cloud Services Blockchain Development AR/VR Development IoT Services Application Modernization Manual QA Testing QA Automation Testing Application Security AI Governance & Security Cloud Security Cybersecurity Consultation Need Help Choosing the Right Service? Share your idea, challenge, or requirement with our experts. ASK EXPERTS Industries Healthcare Fintech Public Sector SaaS Ecommerce Logistics Edtech Real Estate Travel Media & Entertainment Automotive Food Grocery Fitness Lifestyle Social Media OTT Planning an Industry- Focused Product? We'll help you define the right technology approach for your market and users. TALK TO EXPERTS Portfolio Artificial Intelligence Web/App Langprotect Run The Day Evertest Rhubarb Snipr Whisperr Swift Digital SHL- web Adapt Want to Build Something Similar? Explore how we've built AI products, platforms, and digital solutions across real business use cases. VIEW WORK Resources Insights About Us BOOK A CONSULTATION BOOK A CONSULTATION Let's Talk AI â AI Services â AI Strategy & Consulting AI Workflow Automation AI Development Services Generative AI Agentic AI Engineering AI Governance & Security Services ML & LLM Engineering AI Solutions + Secure AI Deployment & Governance AI-Powered QA Automation Enterprise AI Chatbots & Assistants Services + Product Engineering + Mobile App Development Web App Development Product Designing Digital Transformation + Data Engineering Cloud Services Blockchain Development AR/VR Development IoT Services Application Modernization QA Engineering + Manual QA Testing QA Automation Testing Cybersecurity + Application Security AI Governance & Security Cloud Security Cybersecurity Consultation Industries + Healthcare Fintech Public Sector Ecommerce Logistics Edtech Real Estate Travel Media & Entertainment Automotive Food Grocery Fitness Lifestyle Social Media OTT Saas Portfolio + Artificial Intelligence + Langprotect Run The Day Evertest Rhubarb Snipr Whisperr Web/App + Swift Digital SHL- web Adapt Resources + Insights/blog About Us Your browser does not support the video tag. AI-Native Transformation For Enterprise AI Solutions We help enterprises modernize software ecosystems, build AI-native products, and operationalize AI across workflows, data, applications, and governance layers. Book a Consultation Explore AI Solutions Trusted By Startups And Leading Brands Trusted by Teams Moving AI From Strategy to Enterprise Execution From AI-powered products and workflow automation to application modernization and governed AI systems, we help teams build the engineering layer required for AI to work across real business environments. 0 + Products Delivered 0 + AI-Enabled Solutions Built 0 + Enterprise Engagements 0 + Industries Served Why Enterprise AI Initiatives Stall AI Experiments Are Easy. AI-Native Operations Are Not Enterprises are not short on AI ambition. They are short on the operating layer required to make AI work across real workflows, systems, teams, and controls. The gap appears when pilots meet legacy applications, fragmented data, manual approvals, security requirements, compliance obligations, and enterprise-scale execution. 01 Operational Complexity Manual execution creates operational friction. AI cannot scale when business-critical work still depends on manual reviews, approval chains, spreadshee",
+   "email_candidates": [
+    {
+     "email": "suny@quokkalabs.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "letstalk@quokkalabs.com",
+     "where": "https://quokkalabs.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "85bec7ff18-ref",
+   "company": "Quokka Labs",
+   "website": "https://www.quokkalabs.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "AI Native Engineering Services Company. Languages: Dart",
+   "site_text": "[https://quokkalabs.com/]\nAI-Native Engineering and Solutions Company | Quokka Labs Quokka Labs Let's Talk AI AI Services AI Solutions AI Strategy & Consulting AI Workflow Automation AI Development Services Generative AI Agentic AI Engineering AI Governance & Security Services ML & LLM Engineering Secure AI Deployment & Governance AI-Powered QA Automation Enterprise AI Chatbots & Assistants Forward Deployed Engineering Extend your team with engineers embedded in your workflows. HIRE DEDICATED ENGINEERS Services Product Engineering Digital Transformation QA Engineering Cybersecurity Mobile App Development Web App Development Product Designing Data Engineering Cloud Services Blockchain Development AR/VR Development IoT Services Application Modernization Manual QA Testing QA Automation Testing Application Security AI Governance & Security Cloud Security Cybersecurity Consultation Need Help Choosing the Right Service? Share your idea, challenge, or requirement with our experts. ASK EXPERTS Industries Healthcare Fintech Public Sector SaaS Ecommerce Logistics Edtech Real Estate Travel Media & Entertainment Automotive Food Grocery Fitness Lifestyle Social Media OTT Planning an Industry- Focused Product? We'll help you define the right technology approach for your market and users. TALK TO EXPERTS Portfolio Artificial Intelligence Web/App Langprotect Run The Day Evertest Rhubarb Snipr Whisperr Swift Digital SHL- web Adapt Want to Build Something Similar? Explore how we've built AI products, platforms, and digital solutions across real business use cases. VIEW WORK Resources Insights About Us BOOK A CONSULTATION BOOK A CONSULTATION Let's Talk AI â AI Services â AI Strategy & Consulting AI Workflow Automation AI Development Services Generative AI Agentic AI Engineering AI Governance & Security Services ML & LLM Engineering AI Solutions + Secure AI Deployment & Governance AI-Powered QA Automation Enterprise AI Chatbots & Assistants Services + Product Engineering + Mobile App Development Web App Development Product Designing Digital Transformation + Data Engineering Cloud Services Blockchain Development AR/VR Development IoT Services Application Modernization QA Engineering + Manual QA Testing QA Automation Testing Cybersecurity + Application Security AI Governance & Security Cloud Security Cybersecurity Consultation Industries + Healthcare Fintech Public Sector Ecommerce Logistics Edtech Real Estate Travel Media & Entertainment Automotive Food Grocery Fitness Lifestyle Social Media OTT Saas Portfolio + Artificial Intelligence + Langprotect Run The Day Evertest Rhubarb Snipr Whisperr Web/App + Swift Digital SHL- web Adapt Resources + Insights/blog About Us Your browser does not support the video tag. AI-Native Transformation For Enterprise AI Solutions We help enterprises modernize software ecosystems, build AI-native products, and operationalize AI across workflows, data, applications, and governance layers. Book a Consultation Explore AI Solutions Trusted By Startups And Leading Brands Trusted by Teams Moving AI From Strategy to Enterprise Execution From AI-powered products and workflow automation to application modernization and governed AI systems, we help teams build the engineering layer required for AI to work across real business environments. 0 + Products Delivered 0 + AI-Enabled Solutions Built 0 + Enterprise Engagements 0 + Industries Served Why Enterprise AI Initiatives Stall AI Experiments Are Easy. AI-Native Operations Are Not Enterprises are not short on AI ambition. They are short on the operating layer required to make AI work across real workflows, systems, teams, and controls. The gap appears when pilots meet legacy applications, fragmented data, manual approvals, security requirements, compliance obligations, and enterprise-scale execution. 01 Operational Complexity Manual execution creates operational friction. AI cannot scale when business-critical work still depends on manual reviews, approval chains, spreadshee",
+   "email_candidates": [
+    {
+     "email": "rishabh.narayan@quokkalabs.com",
+     "where": "GitHub commits (Quokka-Labs-LLP)",
+     "kind": "personal",
+     "name": "Rishabh Dev Narayan",
+     "commits": 10
+    },
+    {
+     "email": "sachin.negi@quokkalabs.com",
+     "where": "GitHub commits (Quokka-Labs-LLP)",
+     "kind": "personal",
+     "name": "QL-Sachin-Negi",
+     "commits": 6
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "06497ba684",
+   "company": "Explore Embedded",
+   "website": "http://exploreembedded.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Lets Build. Languages: C, HTML, Makefile",
+   "site_text": "[https://colatvttbdh.tv/]\nCola TV - Trá»±c tiáº¿p bÃ³ng ÄÃ¡ miá» n phÃ­, xem ColaTV TTBD HD CÆ°á»£c VSBET Nháº­n KM Cola TV - Trá»±c tiáº¿p bÃ³ng ÄÃ¡ miá» n phÃ­ - Xem ColaTV TTBD HD â¹ âº Táº¥t cáº£ 0 0 Tráº­n hot 0 HÃ´m nay 0 NgÃ y mai 0 Má»¥c Lá»¥c ColaTV ÄÆ°á»£c ÄÃ¡nh giÃ¡ lÃ trang web trá»±c tiáº¿p bÃ³ng ÄÃ¡ uy tÃ­n, mang Äáº¿n cho ngÆ°á»i hÃ¢m má» nhá»¯ng tráº­n cáº§u Äá»nh cao vá»i cháº¥t lÆ°á»£ng hÃ¬nh áº£nh sáº¯c nÃ©t nháº¥t. KhÃ´ng chá» phÃ¡t sÃ³ng miá» n phÃ­, ÄÆ¡n vá» cÃ²n cÃ³ thÃªm nhiá»u tÃ­nh nÄng thÃº vá» giÃºp tráº£i nghiá»m cá»§a báº¡n ÄÆ°á»£c trá»n váº¹n nháº¥t. Giá»i thiá»u Cola TV – trang trá»±c tiáº¿p bÃ³ng ÄÃ¡ uy tÃ­n Cola TV ÄÆ°á»£c biáº¿t Äáº¿n lÃ ná»n táº£ng chuyÃªn cung cáº¥p dá»ch vá»¥ xem bÃ³ng ÄÃ¡ trá»±c tiáº¿p miá» n phÃ­ vá»i cháº¥t lÆ°á»£ng cao. NgÆ°á»i hÃ¢m má» cÃ³ thá» nhanh chÃ³ng theo dÃµi cÃ¡c tráº­n Äáº¥u tá»« cÃ¡c giáº£i hÃ ng Äáº§u tháº¿ giá»i nhÆ° Champions League, Ngoáº¡i háº¡ng Anh, La Liga, Serie A, Bundesliga, World Cup, Euro vÃ nhiá»u giáº£i quá»c gia khÃ¡c. Lá»ch sá»­ thÃ nh láº­p trang web Cola TV ColaTV ÄÆ°á»£c thÃ nh láº­p vá»i má»¥c tiÃªu mang Äáº¿n cho ngÆ°á»i hÃ¢m má» ná»n táº£ng xem bÃ³ng ÄÃ¡ miá» n phÃ­, cháº¥t lÆ°á»£ng cao mÃ khÃ´ng gáº·p pháº£i nhá»¯ng phiá»n toÃ¡i nhÆ° quáº£ng cÃ¡o gÃ¢y giÃ¡n Äoáº¡n hay ÄÆ°á»ng truyá»n kÃ©m á»n Äá»nh. Tá»« nhá»¯ng ngÃ y Äáº§u, Äá»i ngÅ© phÃ¡t triá»n ÄÃ£ táº­p trung xÃ¢y dá»±ng há» thá»ng server máº¡nh máº½, tá»i Æ°u hÃ³a tá»c Äá» phÃ¡t sÃ³ng cho trang. Tráº£i qua nhiá»u nÄm phÃ¡t triá»n, ÄÆ¡n vá» khÃ´ng ngá»«ng cáº£i thiá»n cháº¥t lÆ°á»£ng dá»ch vá»¥, má» rá»ng danh sÃ¡ch giáº£i Äáº¥u lá»n ÄÆ°á»£c phÃ¡t sÃ³ng táº¡i ÄÃ¢y vÃ tÃ­ch há»£p thÃªm nhiá»u tÃ­nh nÄng há»¯u Ã­ch. Hiá»n táº¡i, trang web khÃ´ng chá» phá»¥c vá»¥ ngÆ°á»i xem táº¡i Viá»t Nam mÃ cÃ²n thu hÃºt sá»± quan tÃ¢m cá»§a cá»ng Äá»ng ngÆ°á»i hÃ¢m má» quá»c táº¿. Tá»ng quan thÃ nh láº­p trang web Cola TV Äá»nh hÆ°á»ng quan trá»ng trong tÆ°Æ¡ng lai cá»§a trang web Vá»i táº§m nhÃ¬n dÃ i háº¡n, ÄÆ¡n vá» Äáº·t ra nhá»¯ng má»¥c tiÃªu phÃ¡t triá»n quan trá»ng trong tÆ°Æ¡ng lai nháº±m mang láº¡i tráº£i nghiá»m tá»t nháº¥t cho ngÆ°á»i xem. DÆ°á»i ÄÃ¢y lÃ má»t vÃ i khÃ­a cáº¡nh vá» Äá»nh hÆ°á»ng cá»§a trang web: Trang web sáº½ tiáº¿p tá»¥c má» rá»ng há» thá»ng server cá»§a mÃ¬nh Äá» Äáº£m báº£o tá»c Äá» phÃ¡t sÃ³ng á»n Äá»nh hÆ¡n, háº¡n cháº¿ tá»i Äa tÃ¬nh tráº¡ng giáº­t lag ngay cáº£ trong nhá»¯ng tráº­n cáº§u Äinh cÃ³ lÆ°á»£ng ngÆ°á»i theo dÃµi truy cáº­p cao. Cola TV dá»± kiáº¿n sáº½ má» rá»ng danh sÃ¡ch giáº£i Äáº¥u, bao gá»m cáº£ nhá»¯ng giáº£i cáº§u thá»§ tráº», giáº£i ná»¯ vÃ cÃ¡c lÆ°á»£t Äá»i Äáº§u trong khu vá»±c nháº±m ÄÃ¡p á»©ng nhu cáº§u Äa dáº¡ng cá»§a ngÆ°á»i hÃ¢m má». Trang web hÆ°á»ng tá»i viá»c tÃ­ch há»£p thÃªm cÃ¡c tÃ­nh nÄng tÆ°Æ¡ng tÃ¡c ngay táº¡i trang web nhÆ° bÃ¬nh luáº­n trá»±c tiáº¿p cho ngÆ°á»i xem Äá» táº¡o ra má»t cá»ng Äá»ng bÃ³ng ÄÃ¡ sÃ´i Äá»ng. NhÃ¬n chung, Äá»nh hÆ°á»ng quan trá»ng trong tÆ°Æ¡ng lai cá»§a trang web ColaTV chÃ­nh lÃ khÃ´ng ngá»«ng nÃ¢ng cao cháº¥t lÆ°á»£ng dá»ch vá»¥, má» rá»ng ná»i dung Äá» mang Äáº¿n tráº£i nghiá»m bÃ³ng ÄÃ¡ toÃ n diá»n nháº¥t cho ngÆ°á»i dÃ¹ng. ChÃ­nh vÃ¬ tháº¿, náº¿u báº¡n Äang tÃ¬m kiáº¿m má»t Äá»a chá» xem bÃ³ng ÄÃ¡ trá»±c tuyáº¿n thÃ¬ ÄÃ¢y sáº½ lÃ sá»± lá»±a chá»n phÃ¹ há»£p. CÃ¡c quyá»n lá»£i háº¥p dáº«n cá»§a trang bÃ³ng ÄÃ¡ trá»±c tuyáº¿n Cola TV ColaTV khÃ´ng chá» lÃ má»t trang web phÃ¡t sÃ³ng trá»±c tiáº¿p bÃ³ng ÄÃ¡ mÃ cÃ²n Äáº£m báº£o mang Äáº¿n nhiá»u quyá»n lá»£i háº¥p dáº«n cho ngÆ°á»i xem. Khi truy cáº­p, ngÆ°á»i dÃ¹ng cÃ³ thá» theo dÃµi má»i giáº£i Äáº¥u lá»n trÃªn tháº¿ giá»i vá»i cháº¥t lÆ°á»£ng cao vÃ cÃ¡c Æ°u Äiá»m thÃº vá» dÆ°á»i ÄÃ¢y. Cung cáº¥p nhiá»u giáº£i Äáº¥u lá»n theo quy mÃ´ quá»c táº¿ Má»t trong nhá»¯ng Æ°u Äiá»m ná»i báº­t cá»§a Cola TV lÃ kháº£ nÄng phÃ¡t sÃ³ng Äa dáº¡ng cÃ¡c giáº£i",
+   "email_candidates": [
+    {
+     "email": "yes.sandeep@gmail.com",
+     "where": "GitHub commits (ExploreEmbedded)",
+     "kind": "personal",
+     "name": "Xplorer001",
+     "commits": 6
+    },
+    {
+     "email": "vaibhavkatkar18@gmail.com",
+     "where": "GitHub commits (ExploreEmbedded)",
+     "kind": "personal",
+     "name": "vaibhavkatkar18",
+     "commits": 4
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "1a11dbec2b",
+   "company": "SaveIN",
+   "website": "https://www.savein.money/",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Delhi, DL, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 60. Making private healthcare in India accessible and affordable SaveIN connects people with quality healthcare practices near them and enables them to split their entire medical and wellness bills into monthly instalments. Over 80% of healthcare expense in India is borne out of pocket since less than 10% of Indians have private health insurance. On top of this medical inflation is 15% per annum, thereby making paying for private care expensive and frictional. 5000+ healthcare practices in India now use SaveIN to be discovered by millions of high intent customers near them and offer instant, monthly payment plans for all healthcare services, thereby making it a win-win proposition for all. Fintech, Marketplace, Healthcare, Healthcare, Consumer Health and Wellness, India, South Asia, Remote, Partly Remote",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "jitin@savein.money",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jitin Bhasin",
+     "role": "Founder"
+    },
+    {
+     "email": "gaurav@savein.money",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Gaurav Luthra",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · YC",
+   "referral": false
+  },
+  {
+   "id": "2442fb661a",
+   "company": "Dindows Systems",
+   "website": "http://www.erlsindia.co.in/index.aspx",
+   "title": "Software Engineering (no public opening)",
+   "location": "Delhi, INDIA",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Erls Corporation DashboardX is now Dindows Systems. Languages: HTML",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "dineshkummarc@gmail.com",
+     "where": "GitHub commits (Dindows-Systems)",
+     "kind": "personal",
+     "name": "dineshkummarc",
+     "commits": 10
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "3403726e05",
+   "company": "BiTGApps",
+   "website": "https://bitgapps.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Google Apps Package. Languages: HTML. Topics: android, bitgapps, custom-rom, gapps, google, google-apps, kernelsu, lineageos, magisk, twrp",
+   "site_text": "[https://bitgapps.io/]\nBiTGApps | Google Apps Package BiTGApps BiTGApps Since 2018 Home Development Bug Report Contact Donate About Meet the Team TheHitMan7 Kr Shivam Viraj Mathur Install Google Apps with Ease BiTGApps is a customized Google Apps Package to sideload Google Apps in Custom Android OS. Supports Android 17.0 to 7.1.x with regular updates and bugs fixed. Customization Telegram Group Grab files from the download section below Why BiTGApps? Discover the core features that make our platform flexible and reliable. Android Support All Platforms and All Android Versions are Supported. Customizable Installation BiTGApps can be installed from multiple environments with ease. Wide Support BiTGApps offer several variations from a Google Stock Package to smaller, minimalist packages. Seamless OTA Updates BiTGApps comes with OTA survival support to provide you flash and forget experience. Addons Support We have wide range of freeware Addons that you can use along side BiTGApps. Module Installation BiTGApps can also be installed as Magisk or KernelSU module beside recovery installation. Smart Space This feature allows you to re-flash BiTGApps even with insufficient space in system. Privileged Permission Providing the necessary permissions to the privileged apps. Happy Community We have a friendly community that helps you get what you're looking for in BiTGApps. Platform & Packages Explore lightweight, tailored packages built to support every Android version. All Platforms and All Android Versions are Supported Architectures PLATFORM ARM ARM64 x86 x86-64 Android Versions API 25 - 37 Android 17.0 Android 16.0 Android 15.0 Android 14.0 Android 13.0 Android 12.1 Android 12.0 Android 11.0 Legacy support for versions 10.0, 9.0, 8.1, 8.0, and 7.1 BiTGApps Packages Tailored for Different Setups Core, Mini, Omni, Roar, Nano, Atom, Pico, Full, Tint The Minimal BiTGApps Package includes the Core Google Apps like Google Play Services (GMS), Google Services Framework (GSF), Google Play Store and other essentials. Advanced variants include everything from Minimal alongside more useful Google Apps like Contacts, Dialer, Gboard, etc. Checkout the complete list of Google Apps for each variant below. Seamless OTA Updates via Survival Script The OTA survival script allows you to update your current ROM to its latest version without worrying about having to flash Google Apps again, delivering a true \"flash and forget\" experience. Powered by the latest ADDOND Version . Make sure to read the Seamless OTA Updates section below. Footprint Efficient The minimal BiTGApps Package contains the bare-minimum , keeping downloads swift and installations clean and simple. Installation Size is different from Package Size. Wide Range of Freeware Addons Dialer & Maps Framework Support Seamlessly Replaces AOSP Apps Enabled Play Services Doze Mode Installation Instructions Follow the correct order to avoid crashes and ensure a clean boot. Installing for the first time? Google Apps should be installed via recovery immediately after installing Custom ROM. If you reboot into system before installing Google Apps, you must factory reset and then install them, otherwise expect crashes. Addons should be installed in same manner on top of BiTGApps. Helpful Tip Prevent partition mounting issues in some cases. Always loop back or reboot directly to recovery mode after flashing your Custom ROM for a fresh installation environment. Dirty Flash Installing for the second time and so on? Re-flashing of the same package or upgrading to the latest release doesn't require factory reset. SetupWizard Configuration Required SetupWizard need to be configured before installation. Checkout instructions for SetupWizard below. Configuration Needed SetupWizard ' s main purpose is to assist Android users when they have to first set up their phones, especially if they want to transfer old data, such as apps, pictures, and personalized features, from their previous phone or right after a reset.",
+   "email_candidates": [
+    {
+     "email": "info@bitgapps.io",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "3403726e05-ref",
+   "company": "BiTGApps",
+   "website": "https://bitgapps.io",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Google Apps Package. Languages: HTML. Topics: android, bitgapps, custom-rom, gapps, google, google-apps, kernelsu, lineageos, magisk, twrp",
+   "site_text": "[https://bitgapps.io/]\nBiTGApps | Google Apps Package BiTGApps BiTGApps Since 2018 Home Development Bug Report Contact Donate About Meet the Team TheHitMan7 Kr Shivam Viraj Mathur Install Google Apps with Ease BiTGApps is a customized Google Apps Package to sideload Google Apps in Custom Android OS. Supports Android 17.0 to 7.1.x with regular updates and bugs fixed. Customization Telegram Group Grab files from the download section below Why BiTGApps? Discover the core features that make our platform flexible and reliable. Android Support All Platforms and All Android Versions are Supported. Customizable Installation BiTGApps can be installed from multiple environments with ease. Wide Support BiTGApps offer several variations from a Google Stock Package to smaller, minimalist packages. Seamless OTA Updates BiTGApps comes with OTA survival support to provide you flash and forget experience. Addons Support We have wide range of freeware Addons that you can use along side BiTGApps. Module Installation BiTGApps can also be installed as Magisk or KernelSU module beside recovery installation. Smart Space This feature allows you to re-flash BiTGApps even with insufficient space in system. Privileged Permission Providing the necessary permissions to the privileged apps. Happy Community We have a friendly community that helps you get what you're looking for in BiTGApps. Platform & Packages Explore lightweight, tailored packages built to support every Android version. All Platforms and All Android Versions are Supported Architectures PLATFORM ARM ARM64 x86 x86-64 Android Versions API 25 - 37 Android 17.0 Android 16.0 Android 15.0 Android 14.0 Android 13.0 Android 12.1 Android 12.0 Android 11.0 Legacy support for versions 10.0, 9.0, 8.1, 8.0, and 7.1 BiTGApps Packages Tailored for Different Setups Core, Mini, Omni, Roar, Nano, Atom, Pico, Full, Tint The Minimal BiTGApps Package includes the Core Google Apps like Google Play Services (GMS), Google Services Framework (GSF), Google Play Store and other essentials. Advanced variants include everything from Minimal alongside more useful Google Apps like Contacts, Dialer, Gboard, etc. Checkout the complete list of Google Apps for each variant below. Seamless OTA Updates via Survival Script The OTA survival script allows you to update your current ROM to its latest version without worrying about having to flash Google Apps again, delivering a true \"flash and forget\" experience. Powered by the latest ADDOND Version . Make sure to read the Seamless OTA Updates section below. Footprint Efficient The minimal BiTGApps Package contains the bare-minimum , keeping downloads swift and installations clean and simple. Installation Size is different from Package Size. Wide Range of Freeware Addons Dialer & Maps Framework Support Seamlessly Replaces AOSP Apps Enabled Play Services Doze Mode Installation Instructions Follow the correct order to avoid crashes and ensure a clean boot. Installing for the first time? Google Apps should be installed via recovery immediately after installing Custom ROM. If you reboot into system before installing Google Apps, you must factory reset and then install them, otherwise expect crashes. Addons should be installed in same manner on top of BiTGApps. Helpful Tip Prevent partition mounting issues in some cases. Always loop back or reboot directly to recovery mode after flashing your Custom ROM for a fresh installation environment. Dirty Flash Installing for the second time and so on? Re-flashing of the same package or upgrading to the latest release doesn't require factory reset. SetupWizard Configuration Required SetupWizard need to be configured before installation. Checkout instructions for SetupWizard below. Configuration Needed SetupWizard ' s main purpose is to assist Android users when they have to first set up their phones, especially if they want to transfer old data, such as apps, pictures, and personalized features, from their previous phone or right after a reset.",
+   "email_candidates": [
+    {
+     "email": "krtik.vrma@gmail.com",
+     "where": "GitHub commits (BiTGApps)",
+     "kind": "personal",
+     "name": "TheHitMan7",
+     "commits": 48
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  }
+ ]
+}

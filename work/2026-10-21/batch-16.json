@@ -1,0 +1,462 @@
+{
+ "leads": [
+  {
+   "id": "c094d701c1",
+   "company": "Jiffy Labs",
+   "website": "https://app.jiffyscan.xyz/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, MDX, TypeScript. Topics: 4337, blockchain, erc4337, evm, explorer",
+   "site_text": "[https://app.jiffyscan.xyz/]\nJiffy Scan - User Op Explorer Monad chain now supported UserOp Explorer for 4337 Search Select network to explore Polygon Optimism Mainnet Monad More Recent Transactions Transaction Hash Age #UserOps ‌ ‌ ‌ ‌ ‌ View all bundles Recent User Operations UserOp Hash Age Sender Target ‌ ‌ ‌ ‌ ‌ View all User operations Top Bundlers Address No. of Bundles Gas Collected ‌ ‌ ‌ ‌ ‌ View all Bundlers Top Paymasters Address No. of UserOps Gas Sponsored ‌ ‌ ‌ ‌ ‌ View all Paymasters Faced an Issue? Help us improve.",
+   "email_candidates": [
+    {
+     "email": "gautamgsabhahit@gmail.com",
+     "where": "GitHub commits (jiffy-labs)",
+     "kind": "personal",
+     "name": "lazycoder1",
+     "commits": 36
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "d7a38499de",
+   "company": "Ambibuzz Technologies LLP",
+   "website": "https://www.ambibuzz.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Virtual, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python, Vue. Topics: agentic-coding, ai-agents-automation, end-to-end-ai-pipeline, frappe-agent, frappe-framework, human-in-the-loop, langchain-python, responsible-ai",
+   "site_text": "[https://www.ambibuzz.com/]\nCustom Software Development & ERP Solutions Company in India | Ambibuzz T r a n s f o r m Y o u r B u s i n e s s w i t h t h e P o w e r o f E R P , A I , a n d C l o u d T r a n s f o r m Y o u r B u s i n e s s w i t h t h e P o w e r o f Gain a competitive edge. We empower your business with industry-leading ERP Solutions (AmPowerÂ® Business Suite and SPA's Lab and NDT Production Suite) and advanced Cloud & UI/UX Services designed to optimize, simplify, and turbocharge your day-to-day operations. Experience AmPowerÂ® Suite Experience AmPowerÂ® Suite Shopify Docker Flutter Python Frappe JavaScript IOT Google Cloud ERPNext Odoo Certified ERP Partner You Can Rely On Our solution leverages Frappe expertise to transform business operations. Certified Frappe Partner Streamlining operations for enhanced precision, seamless control, and ultimate success. ERP Services ERP & Business Automation Solutions for Modern Enterprises Boost efficiency, reduce manual effort, and streamline operations with our ERPNext-powered business automation solutions. Tailored for growing businesses, we ensures every department runs smoothly with precision and control. Learn More Learn More Customer Relation Capture leads, track sales, and convert opportunities efficiently to boost revenue and enhance customer interactions. Customer Relation Capture leads, track sales, and convert opportunities efficiently to boost revenue and enhance customer interactions. Core Operations Streamline workflows, improve productivity, and gain full visibility across your business processes. Core Operations Streamline workflows, improve productivity, and gain full visibility across your business processes. Accounting and Financing Automate invoicing, reporting, and budgeting for accurate, real-time financial insights. Accounting and Financing Automate invoicing, reporting, and budgeting for accurate, real-time financial insights. Manufacturing Manage workforce, resources, and compliance to reduce errors and maximize output. Manufacturing Manage workforce, resources, and compliance to reduce errors and maximize output. Workforce Management Handle employees, payroll, leave, and expenses from one unified dashboard. Workforce Management Handle employees, payroll, leave, and expenses from one unified dashboard. Customized Costs Open-source ERP with cloud access, APIs, and mobile supportâadaptable as your business grows. app support. Customized Costs Open-source ERP with cloud access, APIs, and mobile supportâadaptable as your business grows. app support. AmPower AmPowerÂ®: The Ultimate Suite for Business Automation AmPowerÂ®: The Ultimate Suite for Business Automation Transform business operations with our AI-powered AmPowerÂ® Suite. Drive smarter decisions, reduce costs, and enhance growth with apps designed for sales, HR, B2B ordering, and mobile ERP access. AI Business Insights AmPowerÂ® DeepMatrixâ¢ An AI-powered platform that delivers actionable insights to optimize sales, reduce costs, and set targets for growth. Stay ahead with data-driven decisions Request a Free Demo Learn More AI Business Insights AmPowerÂ® DeepMatrixâ¢ An AI-powered platform that delivers actionable insights to optimize sales, reduce costs, and set targets for growth. Stay ahead with data-driven decisions Request a Free Demo Learn More Performance dashboard 98% efficiency Real-Time Analytics AmPowerÂ® FaceITÂ® Powered by ERPNext, streamlines HR for SMEs, eliminating paperwork to enhance workforce engagement Request a Free Demo Learn More Real-Time Analytics AmPowerÂ® FaceITÂ® Powered by ERPNext, streamlines HR for SMEs, eliminating paperwork to enhance workforce engagement Request a Free Demo Learn More Seamless Integrations AmPowerÂ® OrderIT Transforms B2B ordering by replacing paperwork with a seamless digital platform, freeing your sales team to focus on growth Request a Free Demo Learn More Seamless Integrations AmPowerÂ® OrderIT Transforms B2B ordering by replaci",
+   "email_candidates": [
+    {
+     "email": "buzz.us@ambibuzz.com",
+     "where": "https://www.ambibuzz.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "john@ambibuzz.com",
+     "where": "https://www.ambibuzz.com/blog-post/building-a-whatsapp-powered-helpdesk-bot",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "d7a38499de-ref",
+   "company": "Ambibuzz Technologies LLP",
+   "website": "https://www.ambibuzz.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Virtual, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python, Vue. Topics: agentic-coding, ai-agents-automation, end-to-end-ai-pipeline, frappe-agent, frappe-framework, human-in-the-loop, langchain-python, responsible-ai",
+   "site_text": "[https://www.ambibuzz.com/]\nCustom Software Development & ERP Solutions Company in India | Ambibuzz T r a n s f o r m Y o u r B u s i n e s s w i t h t h e P o w e r o f E R P , A I , a n d C l o u d T r a n s f o r m Y o u r B u s i n e s s w i t h t h e P o w e r o f Gain a competitive edge. We empower your business with industry-leading ERP Solutions (AmPowerÂ® Business Suite and SPA's Lab and NDT Production Suite) and advanced Cloud & UI/UX Services designed to optimize, simplify, and turbocharge your day-to-day operations. Experience AmPowerÂ® Suite Experience AmPowerÂ® Suite Shopify Docker Flutter Python Frappe JavaScript IOT Google Cloud ERPNext Odoo Certified ERP Partner You Can Rely On Our solution leverages Frappe expertise to transform business operations. Certified Frappe Partner Streamlining operations for enhanced precision, seamless control, and ultimate success. ERP Services ERP & Business Automation Solutions for Modern Enterprises Boost efficiency, reduce manual effort, and streamline operations with our ERPNext-powered business automation solutions. Tailored for growing businesses, we ensures every department runs smoothly with precision and control. Learn More Learn More Customer Relation Capture leads, track sales, and convert opportunities efficiently to boost revenue and enhance customer interactions. Customer Relation Capture leads, track sales, and convert opportunities efficiently to boost revenue and enhance customer interactions. Core Operations Streamline workflows, improve productivity, and gain full visibility across your business processes. Core Operations Streamline workflows, improve productivity, and gain full visibility across your business processes. Accounting and Financing Automate invoicing, reporting, and budgeting for accurate, real-time financial insights. Accounting and Financing Automate invoicing, reporting, and budgeting for accurate, real-time financial insights. Manufacturing Manage workforce, resources, and compliance to reduce errors and maximize output. Manufacturing Manage workforce, resources, and compliance to reduce errors and maximize output. Workforce Management Handle employees, payroll, leave, and expenses from one unified dashboard. Workforce Management Handle employees, payroll, leave, and expenses from one unified dashboard. Customized Costs Open-source ERP with cloud access, APIs, and mobile supportâadaptable as your business grows. app support. Customized Costs Open-source ERP with cloud access, APIs, and mobile supportâadaptable as your business grows. app support. AmPower AmPowerÂ®: The Ultimate Suite for Business Automation AmPowerÂ®: The Ultimate Suite for Business Automation Transform business operations with our AI-powered AmPowerÂ® Suite. Drive smarter decisions, reduce costs, and enhance growth with apps designed for sales, HR, B2B ordering, and mobile ERP access. AI Business Insights AmPowerÂ® DeepMatrixâ¢ An AI-powered platform that delivers actionable insights to optimize sales, reduce costs, and set targets for growth. Stay ahead with data-driven decisions Request a Free Demo Learn More AI Business Insights AmPowerÂ® DeepMatrixâ¢ An AI-powered platform that delivers actionable insights to optimize sales, reduce costs, and set targets for growth. Stay ahead with data-driven decisions Request a Free Demo Learn More Performance dashboard 98% efficiency Real-Time Analytics AmPowerÂ® FaceITÂ® Powered by ERPNext, streamlines HR for SMEs, eliminating paperwork to enhance workforce engagement Request a Free Demo Learn More Real-Time Analytics AmPowerÂ® FaceITÂ® Powered by ERPNext, streamlines HR for SMEs, eliminating paperwork to enhance workforce engagement Request a Free Demo Learn More Seamless Integrations AmPowerÂ® OrderIT Transforms B2B ordering by replacing paperwork with a seamless digital platform, freeing your sales team to focus on growth Request a Free Demo Learn More Seamless Integrations AmPowerÂ® OrderIT Transforms B2B ordering by replaci",
+   "email_candidates": [
+    {
+     "email": "appurva.talashilkar@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "AppurvaT27",
+     "commits": 17
+    },
+    {
+     "email": "younis.ali@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "younis-amb",
+     "commits": 2
+    },
+    {
+     "email": "soham.pawar@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "Soham-ambibuzz",
+     "commits": 7
+    },
+    {
+     "email": "shreyansh.jain@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "Shreyansh",
+     "commits": 7
+    },
+    {
+     "email": "yash.chaudhari@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "YashOfficial1",
+     "commits": 2
+    },
+    {
+     "email": "sambhav.saxena@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "Sambhav Saxena",
+     "commits": 22
+    },
+    {
+     "email": "hritik.rohilla@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "Hritik Rohilla",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "d7a38499de-ref",
+   "company": "Ambibuzz Technologies LLP",
+   "website": "https://www.ambibuzz.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Virtual, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python, Vue. Topics: agentic-coding, ai-agents-automation, end-to-end-ai-pipeline, frappe-agent, frappe-framework, human-in-the-loop, langchain-python, responsible-ai",
+   "site_text": "[https://www.ambibuzz.com/]\nCustom Software Development & ERP Solutions Company in India | Ambibuzz T r a n s f o r m Y o u r B u s i n e s s w i t h t h e P o w e r o f E R P , A I , a n d C l o u d T r a n s f o r m Y o u r B u s i n e s s w i t h t h e P o w e r o f Gain a competitive edge. We empower your business with industry-leading ERP Solutions (AmPowerÂ® Business Suite and SPA's Lab and NDT Production Suite) and advanced Cloud & UI/UX Services designed to optimize, simplify, and turbocharge your day-to-day operations. Experience AmPowerÂ® Suite Experience AmPowerÂ® Suite Shopify Docker Flutter Python Frappe JavaScript IOT Google Cloud ERPNext Odoo Certified ERP Partner You Can Rely On Our solution leverages Frappe expertise to transform business operations. Certified Frappe Partner Streamlining operations for enhanced precision, seamless control, and ultimate success. ERP Services ERP & Business Automation Solutions for Modern Enterprises Boost efficiency, reduce manual effort, and streamline operations with our ERPNext-powered business automation solutions. Tailored for growing businesses, we ensures every department runs smoothly with precision and control. Learn More Learn More Customer Relation Capture leads, track sales, and convert opportunities efficiently to boost revenue and enhance customer interactions. Customer Relation Capture leads, track sales, and convert opportunities efficiently to boost revenue and enhance customer interactions. Core Operations Streamline workflows, improve productivity, and gain full visibility across your business processes. Core Operations Streamline workflows, improve productivity, and gain full visibility across your business processes. Accounting and Financing Automate invoicing, reporting, and budgeting for accurate, real-time financial insights. Accounting and Financing Automate invoicing, reporting, and budgeting for accurate, real-time financial insights. Manufacturing Manage workforce, resources, and compliance to reduce errors and maximize output. Manufacturing Manage workforce, resources, and compliance to reduce errors and maximize output. Workforce Management Handle employees, payroll, leave, and expenses from one unified dashboard. Workforce Management Handle employees, payroll, leave, and expenses from one unified dashboard. Customized Costs Open-source ERP with cloud access, APIs, and mobile supportâadaptable as your business grows. app support. Customized Costs Open-source ERP with cloud access, APIs, and mobile supportâadaptable as your business grows. app support. AmPower AmPowerÂ®: The Ultimate Suite for Business Automation AmPowerÂ®: The Ultimate Suite for Business Automation Transform business operations with our AI-powered AmPowerÂ® Suite. Drive smarter decisions, reduce costs, and enhance growth with apps designed for sales, HR, B2B ordering, and mobile ERP access. AI Business Insights AmPowerÂ® DeepMatrixâ¢ An AI-powered platform that delivers actionable insights to optimize sales, reduce costs, and set targets for growth. Stay ahead with data-driven decisions Request a Free Demo Learn More AI Business Insights AmPowerÂ® DeepMatrixâ¢ An AI-powered platform that delivers actionable insights to optimize sales, reduce costs, and set targets for growth. Stay ahead with data-driven decisions Request a Free Demo Learn More Performance dashboard 98% efficiency Real-Time Analytics AmPowerÂ® FaceITÂ® Powered by ERPNext, streamlines HR for SMEs, eliminating paperwork to enhance workforce engagement Request a Free Demo Learn More Real-Time Analytics AmPowerÂ® FaceITÂ® Powered by ERPNext, streamlines HR for SMEs, eliminating paperwork to enhance workforce engagement Request a Free Demo Learn More Seamless Integrations AmPowerÂ® OrderIT Transforms B2B ordering by replacing paperwork with a seamless digital platform, freeing your sales team to focus on growth Request a Free Demo Learn More Seamless Integrations AmPowerÂ® OrderIT Transforms B2B ordering by replaci",
+   "email_candidates": [
+    {
+     "email": "buzz.us@ambibuzz.com",
+     "where": "https://www.ambibuzz.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "john@ambibuzz.com",
+     "where": "https://www.ambibuzz.com/blog-post/building-a-whatsapp-powered-helpdesk-bot",
+     "kind": "personal"
+    },
+    {
+     "email": "appurva.talashilkar@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "AppurvaT27",
+     "commits": 17
+    },
+    {
+     "email": "younis.ali@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "younis-amb",
+     "commits": 2
+    },
+    {
+     "email": "soham.pawar@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "Soham-ambibuzz",
+     "commits": 7
+    },
+    {
+     "email": "shreyansh.jain@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "Shreyansh",
+     "commits": 7
+    },
+    {
+     "email": "yash.chaudhari@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "YashOfficial1",
+     "commits": 2
+    },
+    {
+     "email": "sambhav.saxena@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "Sambhav Saxena",
+     "commits": 22
+    },
+    {
+     "email": "hritik.rohilla@ambibuzz.com",
+     "where": "GitHub commits (Ambibuzz)",
+     "kind": "personal",
+     "name": "Hritik Rohilla",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "dd3a51ec77",
+   "company": "Chennaipy",
+   "website": "http://chennaipy.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "Chennai, Tamil Nadu, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Chennai Python User Group. Languages: HTML, Python",
+   "site_text": "[http://chennaipy.org/]\nChennaipy CTRL K Meetups Meeting Minutes 2026 Meetups July 2026 Meetup Minutes May 2026 Meetup Minutes April 2026 Meetup Minutes 2025 Meetups October 2025 Meetup Minutes 2022 Meetups April Meet Minutes May Meet Minutes - Pynguin 2020 Meetups Minutes of the meeting dated 28-11-2020 August 2020 Chennaipy Meetup - Meeting Minutes Meeting Minutes of 7/25/2020 Chennaipy Meeting Minutes of 6/27/2020 Chennaipy MoM - January 25th, 2020 Chennaipy Meetup 2019 Meetups Minutes of Meetup - 23 Nov 2019 April 2019 Meetup - Meeting minutes Chennaipy - January meetup - Meeting Minutes 2018 Meetups Meeting Minutes - Chennaipy Nov 2018 Meetup MOM - October 2018 Chennaipy Meetup MOM - September 2018 Chennaipy Meetup June Meet Minutes May 2018 Meetup Minutes 2017 Meetups May 2017 Meetup Minutes Feb 2017 Meetup Minutes January 2017 Meetup Minutes 2016 Meetups November Meet Minutes August Meet Minutes June Meet Minutes May Meet Minutes March Meet Minutes February Meet Minutes January Meet Minutes 2015 Meetups December Meet Minutes October Meet Minutes September Meet Minutes August Meet Minutes July Meet Minutes June Meet Minutes May Meet Minutes April Meet Minutes March Meet Minutes February Meet Minutes January Meet Minutes 2014 Meetups December Meet Minutes November Meet Minutes October Meet Minutes August Meet Minutes Events 2022 Events 2020 Events 2019 Events 2018 Events 2017 Events March Meetup 2016 Events December Meetup November Meetup October Meetup June Meetup May Meetup April Meetup February Meetup January Meetup 2015 Events December Meetup October Meetup September Meetup August Meetup July Meetup June Meetup May Meetup April Meetup March Meetup February Meetup February Workshop January Meetup 2014 Events December Meetup November Meetup October Meetup Documentation Mailing List Guidelines Credits WhatsApp Code of Conduct SFD 2014 Light Dark System Light Dark System Chennai Python User Group Chennaipy is a Python user group where Pythonistas in and around Chennai come together to share their knowledge and contribute to the promotion of Python. Join Our Meetup July 2026 Meetup Minutes July 2026 - Minutes of the ChennaiPy meetup 25 Jul 2026 Read notes → May 2026 Meetup Minutes The May ChennaiPy meetup featured sessions on Ethernet, AI-powered combat sports training, neural networks, the PI agentic AI tool, and … 23 May 2026 Read notes → April 2026 Meetup Minutes April 2026 - Minutes of the ChennaiPy meetup 25 Apr 2026 Read notes → Mailing List Stay updated with the latest discussions and announcements from the Chennai Python community. Twitter Updates Follow us on Twitter for quick updates, announcements, and Python-related content. Meeting Archives Browse through our comprehensive archive of past meeting minutes and presentations. Become a Volunteer",
+   "email_candidates": [
+    {
+     "email": "michealantojerrishc@gmail.com",
+     "where": "GitHub commits (Chennaipy)",
+     "kind": "personal",
+     "name": "Micheal Anto Jerrish C",
+     "commits": 3
+    },
+    {
+     "email": "sakthirengaraj@gmail.com",
+     "where": "GitHub commits (Chennaipy)",
+     "kind": "personal",
+     "name": "Rengaraj",
+     "commits": 10
+    },
+    {
+     "email": "arockiaraj1994@gmail.com",
+     "where": "GitHub commits (Chennaipy)",
+     "kind": "personal",
+     "name": "Arockiaraj",
+     "commits": 15
+    },
+    {
+     "email": "shrayasr@gmail.com",
+     "where": "GitHub commits (Chennaipy)",
+     "kind": "personal",
+     "name": "Shrayas",
+     "commits": 4
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "0207f72b3b",
+   "company": "Dealwallet",
+   "website": "https://dealwallet.com/en",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, JavaScript, Python",
+   "site_text": "[https://dealwallet.com/]\nTitle: Discover Deals, Coupons & Exclusive Offers\n\nURL Source: https://dealwallet.com/\n\nMarkdown Content:\n[![Image 16: logo](https://dealwallet.com/_next/image?url=%2Fimages%2FdealwalletLogo.png&w=384&q=75)](https://dealwallet.com/)\n\n[Home](https://dealwallet.com/)[Deals](https://dealwallet.com/deals)[Stores](https://dealwallet.com/stores)[Coupons](https://dealwallet.com/coupons)[Blog](https://dealwallet.com/blog)[Forum](https://dealwallet.com/forum)\n\n[Login](https://dealwallet.com/signin)\n\n[Hot Offers Fashion & Lifestyle ### Clothing, accessories, footwear, and lifestyle products. Keeps you stylish and supports modern living ![Image 17](https://firstavenuemagazine.com/wp-content/uploads/2022/04/photo-1483985988355-763728e1935b.jpg) Explore](https://dealwallet.com/categories/fashion)\n\n[Exclusive Stores Myntra ### Myntra is a top Indian fashion e-commerce site for clothing, accessories, and beauty products. ![Image 18](https://tse3.mm.bing.net/th/id/OIP.FaO3wTeAZr85KTyTBbRYAwHaHa?pid=Api&P=0&h=180) Visit Store](https://dealwallet.com/stores/Myntra)\n\n[Trending Ayurveda ### Natural health products made from herbs and traditional methods. Helps improve wellness using Ayurvedic science. ![Image 19](https://tse2.mm.bing.net/th?id=OIP.itasj6bqAZ-NjM8fodgakgHaFj&pid=Api&P=0&h=180) Explore](https://dealwallet.com/categories/ayurveda)\n\nJoin our Smart Shoppers saving money every day!\n\nSmart Shopping Starts with Big Discounts!\n\n Reaching New Brands Partnering across fashion, tech & more\n\n100% Safe, Secure & Verified Shopping\n\nDISCOVER MORE\n\n## New here? There's more to explore.\n\nFresh guides and real shopper conversations are one click away.\n\n[Read the Blog Shopping tips, deal guides, and smart ways to save.](https://dealwallet.com/blog)[Join the Forum Ask questions, swap finds, and shop smarter together.](https://dealwallet.com/forum)\n\n# Flash Sale\n\n[View All](https://dealwallet.com/deals)\n\n![Image 20: Inbase TPU Back Cover for SAMSUNG Galaxy S23+ (Air Cushion Technology, Clear)](https://media-ik.croma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/269381_0_l6wfrr.png?tr=w-400)\n\n💎 All-time Low\n\nEnds in 01:48\n\n## Inbase TPU Back Cover for SAMSUNG Galaxy S23+ (Air Cushion Technology, Clear)\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nCroma\n\n95% OFF\n\n₹ 104₹ 1,999\n\n92\n\nBuy Now\n\n![Image 21: Fish Food (1.8 mm) Daily Nutrition Grow Feed for Gold Fish, Shark, Guppy, Cichlids,Angelfish, Molly, Tetra, Betta, Koi, Sharks| High Protein for Growth, Health & Colour Enhancement (200gm)](https://m.media-amazon.com/images/I/71kMsfco6-L._AC_UY218_.jpg)\n\n💎 All-time Low\n\nEnds in 01:48\n\n## Fish Food (1.8 mm) Daily Nutrition Grow Feed for Gold Fish, Shark, Guppy, Cichlids,Angelfish, Molly, Tetra, Betta, Koi, Sharks| High Protein for Growth, Health & Colour Enhancement (200gm)\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nAmazon\n\n95% OFF\n\n₹ 105.09₹ 1,999\n\n92\n\nBuy Now\n\n![Image 22: Fire-Boltt Phoenix Pro](https://m.media-amazon.com/images/I/71tkAAxauUL._SX522_.jpg)\n\n💎 All-time Low\n\nEnds in 01:48\n\n## Fire-Boltt Phoenix Pro\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nVIP Bags\n\n94% OFF\n\n₹ 1,139.94₹ 18,999\n\n92\n\nBuy Now\n\n![Image 23: NOVOO 6-in-1 USB 3.0 Type C to USB 3.0 Type A, HDMI, SD Card Slot, TF Card, USB Type C USB Hub (Broad Compatibility, Dark Grey)](https://media-ik.croma.com/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/246542_0_yda0oq.png?tr=w-400)\n\n💎 All-time Low\n\nEnds in 01:48\n\n## NOVOO 6-in-1 USB 3.0 Type C to USB 3.0 Type A, HDMI, SD Card Slot, TF Card, USB Type C USB Hub (Broad Compatibility, Dark Grey)\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nCroma\n\n94% OFF\n\n₹ 254₹ 3,999\n\n92\n\nBuy Now\n\n# Thundering Deal\n\n![Image 24: Seasonal Wear](https://squirehood.com/products/files/9_d9511c71-e82b-4218-b7be-08ce6cad01c9.jpg)\nSeasonal Wear\n\n![Image 25: Food](https://tse4.mm.bing.net/th/id/OIP.XITJfQIs4VGEiCCbYGgEuQHaE8?pid=Api&P=0&h=180)\nFood\n\n![Image 26: Ayurveda](https://tse2.mm.bing.net/th?id=OIP.itasj6bqAZ-NjM8fodgakgHaFj&pid=Api&P=0&h=180)\nAy",
+   "email_candidates": [
+    {
+     "email": "croma@gmail.com",
+     "where": "https://dealwallet.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "0207f72b3b-ref",
+   "company": "Dealwallet",
+   "website": "https://dealwallet.com/en",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, JavaScript, Python",
+   "site_text": "[https://dealwallet.com/]\nTitle: Discover Deals, Coupons & Exclusive Offers\n\nURL Source: https://dealwallet.com/\n\nMarkdown Content:\n[![Image 16: logo](https://dealwallet.com/_next/image?url=%2Fimages%2FdealwalletLogo.png&w=384&q=75)](https://dealwallet.com/)\n\n[Home](https://dealwallet.com/)[Deals](https://dealwallet.com/deals)[Stores](https://dealwallet.com/stores)[Coupons](https://dealwallet.com/coupons)[Blog](https://dealwallet.com/blog)[Forum](https://dealwallet.com/forum)\n\n[Login](https://dealwallet.com/signin)\n\n[Hot Offers Fashion & Lifestyle ### Clothing, accessories, footwear, and lifestyle products. Keeps you stylish and supports modern living ![Image 17](https://firstavenuemagazine.com/wp-content/uploads/2022/04/photo-1483985988355-763728e1935b.jpg) Explore](https://dealwallet.com/categories/fashion)\n\n[Exclusive Stores Myntra ### Myntra is a top Indian fashion e-commerce site for clothing, accessories, and beauty products. ![Image 18](https://tse3.mm.bing.net/th/id/OIP.FaO3wTeAZr85KTyTBbRYAwHaHa?pid=Api&P=0&h=180) Visit Store](https://dealwallet.com/stores/Myntra)\n\n[Trending Ayurveda ### Natural health products made from herbs and traditional methods. Helps improve wellness using Ayurvedic science. ![Image 19](https://tse2.mm.bing.net/th?id=OIP.itasj6bqAZ-NjM8fodgakgHaFj&pid=Api&P=0&h=180) Explore](https://dealwallet.com/categories/ayurveda)\n\nJoin our Smart Shoppers saving money every day!\n\nSmart Shopping Starts with Big Discounts!\n\n Reaching New Brands Partnering across fashion, tech & more\n\n100% Safe, Secure & Verified Shopping\n\nDISCOVER MORE\n\n## New here? There's more to explore.\n\nFresh guides and real shopper conversations are one click away.\n\n[Read the Blog Shopping tips, deal guides, and smart ways to save.](https://dealwallet.com/blog)[Join the Forum Ask questions, swap finds, and shop smarter together.](https://dealwallet.com/forum)\n\n# Flash Sale\n\n[View All](https://dealwallet.com/deals)\n\n![Image 20: Inbase TPU Back Cover for SAMSUNG Galaxy S23+ (Air Cushion Technology, Clear)](https://media-ik.croma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/269381_0_l6wfrr.png?tr=w-400)\n\n💎 All-time Low\n\nEnds in 01:48\n\n## Inbase TPU Back Cover for SAMSUNG Galaxy S23+ (Air Cushion Technology, Clear)\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nCroma\n\n95% OFF\n\n₹ 104₹ 1,999\n\n92\n\nBuy Now\n\n![Image 21: Fish Food (1.8 mm) Daily Nutrition Grow Feed for Gold Fish, Shark, Guppy, Cichlids,Angelfish, Molly, Tetra, Betta, Koi, Sharks| High Protein for Growth, Health & Colour Enhancement (200gm)](https://m.media-amazon.com/images/I/71kMsfco6-L._AC_UY218_.jpg)\n\n💎 All-time Low\n\nEnds in 01:48\n\n## Fish Food (1.8 mm) Daily Nutrition Grow Feed for Gold Fish, Shark, Guppy, Cichlids,Angelfish, Molly, Tetra, Betta, Koi, Sharks| High Protein for Growth, Health & Colour Enhancement (200gm)\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nAmazon\n\n95% OFF\n\n₹ 105.09₹ 1,999\n\n92\n\nBuy Now\n\n![Image 22: Fire-Boltt Phoenix Pro](https://m.media-amazon.com/images/I/71tkAAxauUL._SX522_.jpg)\n\n💎 All-time Low\n\nEnds in 01:48\n\n## Fire-Boltt Phoenix Pro\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nVIP Bags\n\n94% OFF\n\n₹ 1,139.94₹ 18,999\n\n92\n\nBuy Now\n\n![Image 23: NOVOO 6-in-1 USB 3.0 Type C to USB 3.0 Type A, HDMI, SD Card Slot, TF Card, USB Type C USB Hub (Broad Compatibility, Dark Grey)](https://media-ik.croma.com/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/246542_0_yda0oq.png?tr=w-400)\n\n💎 All-time Low\n\nEnds in 01:48\n\n## NOVOO 6-in-1 USB 3.0 Type C to USB 3.0 Type A, HDMI, SD Card Slot, TF Card, USB Type C USB Hub (Broad Compatibility, Dark Grey)\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nCroma\n\n94% OFF\n\n₹ 254₹ 3,999\n\n92\n\nBuy Now\n\n# Thundering Deal\n\n![Image 24: Seasonal Wear](https://squirehood.com/products/files/9_d9511c71-e82b-4218-b7be-08ce6cad01c9.jpg)\nSeasonal Wear\n\n![Image 25: Food](https://tse4.mm.bing.net/th/id/OIP.XITJfQIs4VGEiCCbYGgEuQHaE8?pid=Api&P=0&h=180)\nFood\n\n![Image 26: Ayurveda](https://tse2.mm.bing.net/th?id=OIP.itasj6bqAZ-NjM8fodgakgHaFj&pid=Api&P=0&h=180)\nAy",
+   "email_candidates": [
+    {
+     "email": "20h41a0124@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "Rajesh Thota",
+     "commits": 24
+    },
+    {
+     "email": "ai.pavandealwalletdev@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "vissamsettiPavan",
+     "commits": 6
+    },
+    {
+     "email": "ai.aswiniduthdealwalletdev@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "Ashwin muthireddy",
+     "commits": 3
+    },
+    {
+     "email": "manojmaruboina1431@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "Manoj Maruboina",
+     "commits": 13
+    },
+    {
+     "email": "pvssudarsan59@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "PALANKIVINAYSAISUDARSAN",
+     "commits": 14
+    },
+    {
+     "email": "yuvakiran57302@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "Kiran B",
+     "commits": 6
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "0207f72b3b-ref",
+   "company": "Dealwallet",
+   "website": "https://dealwallet.com/en",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, JavaScript, Python",
+   "site_text": "[https://dealwallet.com/]\nTitle: Discover Deals, Coupons & Exclusive Offers\n\nURL Source: https://dealwallet.com/\n\nMarkdown Content:\n[![Image 16: logo](https://dealwallet.com/_next/image?url=%2Fimages%2FdealwalletLogo.png&w=384&q=75)](https://dealwallet.com/)\n\n[Home](https://dealwallet.com/)[Deals](https://dealwallet.com/deals)[Stores](https://dealwallet.com/stores)[Coupons](https://dealwallet.com/coupons)[Blog](https://dealwallet.com/blog)[Forum](https://dealwallet.com/forum)\n\n[Login](https://dealwallet.com/signin)\n\n[Hot Offers Beauty ### Skincare, haircare, and personal grooming products. Helps maintain healthy skin and enhances appearance. ![Image 17](https://masterbundles.com/wp-content/uploads/2023/01/beauty-logo-790-1024x1024.jpg) Explore](https://dealwallet.com/categories/beauty)\n\n[Exclusive Stores Myntra ### Myntra is a top Indian fashion e-commerce site for clothing, accessories, and beauty products. ![Image 18](https://tse3.mm.bing.net/th/id/OIP.FaO3wTeAZr85KTyTBbRYAwHaHa?pid=Api&P=0&h=180) Visit Store](https://dealwallet.com/stores/Myntra)\n\n[Trending Electronics ### TVs, cameras, audio systems, and digital devices. Used for entertainment, communication, and productivity. ![Image 19](https://tse3.mm.bing.net/th/id/OIP.kooIslyRtNuDCTult8lM2QHaFb?pid=Api&P=0&h=180) Explore](https://dealwallet.com/categories/electronics)\n\nJoin our Smart Shoppers saving money every day!\n\nSmart Shopping Starts with Big Discounts!\n\n Reaching New Brands Partnering across fashion, tech & more\n\n100% Safe, Secure & Verified Shopping\n\nDISCOVER MORE\n\n## New here? There's more to explore.\n\nFresh guides and real shopper conversations are one click away.\n\n[Read the Blog Shopping tips, deal guides, and smart ways to save.](https://dealwallet.com/blog)[Join the Forum Ask questions, swap finds, and shop smarter together.](https://dealwallet.com/forum)\n\n# Flash Sale\n\n[View All](https://dealwallet.com/deals)\n\n![Image 20: Inbase TPU Back Cover for SAMSUNG Galaxy S23+ (Air Cushion Technology, Clear)](https://media-ik.croma.com/Croma%20Assets/Communication/Mobile%20Accessories/Images/269381_0_l6wfrr.png?tr=w-400)\n\n💎 All-time Low\n\nEnds in 01:45\n\n## Inbase TPU Back Cover for SAMSUNG Galaxy S23+ (Air Cushion Technology, Clear)\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nCroma\n\n95% OFF\n\n₹ 104₹ 1,999\n\n92\n\nBuy Now\n\n![Image 21: Fish Food (1.8 mm) Daily Nutrition Grow Feed for Gold Fish, Shark, Guppy, Cichlids,Angelfish, Molly, Tetra, Betta, Koi, Sharks| High Protein for Growth, Health & Colour Enhancement (200gm)](https://m.media-amazon.com/images/I/71kMsfco6-L._AC_UY218_.jpg)\n\n💎 All-time Low\n\nEnds in 01:45\n\n## Fish Food (1.8 mm) Daily Nutrition Grow Feed for Gold Fish, Shark, Guppy, Cichlids,Angelfish, Molly, Tetra, Betta, Koi, Sharks| High Protein for Growth, Health & Colour Enhancement (200gm)\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nAmazon\n\n95% OFF\n\n₹ 105.09₹ 1,999\n\n92\n\nBuy Now\n\n![Image 22: Fire-Boltt Phoenix Pro](https://m.media-amazon.com/images/I/71tkAAxauUL._SX522_.jpg)\n\n💎 All-time Low\n\nEnds in 01:45\n\n## Fire-Boltt Phoenix Pro\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nVIP Bags\n\n94% OFF\n\n₹ 1,139.94₹ 18,999\n\n92\n\nBuy Now\n\n![Image 23: NOVOO 6-in-1 USB 3.0 Type C to USB 3.0 Type A, HDMI, SD Card Slot, TF Card, USB Type C USB Hub (Broad Compatibility, Dark Grey)](https://media-ik.croma.com/Croma%20Assets/Computers%20Peripherals/Computer%20Accessories%20and%20Tablets%20Accessories/Images/246542_0_yda0oq.png?tr=w-400)\n\n💎 All-time Low\n\nEnds in 01:45\n\n## NOVOO 6-in-1 USB 3.0 Type C to USB 3.0 Type A, HDMI, SD Card Slot, TF Card, USB Type C USB Hub (Broad Compatibility, Dark Grey)\n\n★\n\n★\n\n★\n\n★\n\n★\n\n0.0 (0)\n\nCroma\n\n94% OFF\n\n₹ 254₹ 3,999\n\n92\n\nBuy Now\n\n# Thundering Deal\n\n![Image 24: Seasonal Wear](https://squirehood.com/products/files/9_d9511c71-e82b-4218-b7be-08ce6cad01c9.jpg)\nSeasonal Wear\n\n![Image 25: Food](https://tse4.mm.bing.net/th/id/OIP.XITJfQIs4VGEiCCbYGgEuQHaE8?pid=Api&P=0&h=180)\nFood\n\n![Image 26: Ayurveda](https://tse2.mm.bing.net/th?id=OIP.itasj6bqAZ-NjM8fodgakgHaFj&pid=Api&P=0&h=180)\nAyurveda\n\n![Image 27: Groc",
+   "email_candidates": [
+    {
+     "email": "croma@gmail.com",
+     "where": "https://dealwallet.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "20h41a0124@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "Rajesh Thota",
+     "commits": 24
+    },
+    {
+     "email": "ai.pavandealwalletdev@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "vissamsettiPavan",
+     "commits": 6
+    },
+    {
+     "email": "ai.aswiniduthdealwalletdev@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "Ashwin muthireddy",
+     "commits": 3
+    },
+    {
+     "email": "manojmaruboina1431@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "Manoj Maruboina",
+     "commits": 13
+    },
+    {
+     "email": "pvssudarsan59@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "PALANKIVINAYSAISUDARSAN",
+     "commits": 14
+    },
+    {
+     "email": "yuvakiran57302@gmail.com",
+     "where": "GitHub commits (dealwallet1)",
+     "kind": "personal",
+     "name": "Kiran B",
+     "commits": 6
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "2c403e3fbc",
+   "company": "Infraspec",
+   "website": "https://infraspec.dev/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go, HCL, JavaScript, TypeScript",
+   "site_text": "[https://www.infraspec.dev/]\nInfrastructure Engineering — Infraspec Your data. Your cloud. Y Our Observability operations. One fewer thing for your engineers to worry about. Talk to us See our work Observability is our problem. Preferably before it becomes yours. Engineering leaders trust us with the systems beneath their products. Five years in, we still earn that trust the same way. By staying close to the work and owning the outcome. Read the case studies “ Infraspec helped us improve operational efficiency by completely owning and building important products that our operations team needed. They owned multiple initiatives in the organization including continuous delivery audit for teams, helped in setting up processes for change management, securing & improving resilience of public APIs. They go the extra mile to understand the requirements at depth and utilize that knowledge to make appropriate technology choices. They constantly challenged the status quo and pushed for technical excellence. They were always aligned with our culture and values. ” “ Working with the Infraspec team has been a very satisfying experience! They were completely dedicated to our mission and our product. Their commitment and dedication to our efforts felt like they are a part of our core team rather than being external consultants. They are a high quality technical team. They were able to take on and deliver projects with both familiar and unfamiliar technologies. Their commitment to writing clean code and good automated tests helped our team level up our own coding skills. ” “ Infraspec delivered exactly what we needed to set up tooling for our customers. Their self-service solution has significantly accelerated our team's productivity. Most importantly, they worked closely with us to design infrastructure that supports our AI agents while maintaining enterprise-grade standards. They provided an easy and reliable infrastructure foundation that we could extend effortlessly. This allowed us to focus on our core business goals, particularly the development of Salesforce AI agents. Their team also supported us in implementing ISO 27001 and SOC 2-compliant AWS infrastructure, complete with automated provisioning and rapid disaster recovery capabilities. ” “ Collaborating with Infraspec was key to adopting practices suited to our growth. They helped drive important projects to closure with transparency. They crucially improved our tooling documentation, reducing key person risks. With infrastructure as code, they helped improve our infrastructure reliability and maintainability while also upskilling the team in infrastructure and DevOps practices. Additionally, they also helped enhance the reliability of our observability tools, reduce infrastructure costs and introduce continuous delivery for containerised workload. ” See clearly. Stay ready. Ship without friction. Your engineers came to build a product. Keeping its foundations standing shouldn’t become their second job. Your engineers came to build a product. Somewhere along the way, keeping dashboards alive, bracing for outages and untangling deployments became a second job. We take on that work. One hyperlocal delivery platform got 58% faster detection and $161k back. We take on that work. A hyperlocal delivery platform handed us its roadmap and, while it kept growing, got 58% faster detection and $161k in infrastructure savings. To build that confidence, start with a clear view. That confidence starts with a clear view of what’s happening. Observability is a clear view, not more data. Most teams aren’t short on data. They’re buried in it. Most teams aren’t short on data. They’re buried in it. Dashboards nobody opens, alerts everyone mutes and a monitoring bill that grows faster than the product. It all works fine. Right up until the night it matters. Less hoarding. More answers. A wellness platform had 20+ services and scattered logs. We gave it one open source observability stack, in its own clo",
+   "email_candidates": [
+    {
+     "email": "ashwinimanoj@gmail.com",
+     "where": "GitHub commits (infraspecdev)",
+     "kind": "personal",
+     "name": "Ashwini Manoj",
+     "commits": 18
+    },
+    {
+     "email": "hemant@infraspec.dev",
+     "where": "GitHub commits (infraspecdev)",
+     "kind": "personal",
+     "name": "hemantz-singh",
+     "commits": 11
+    },
+    {
+     "email": "venkidesh.venu@infraspec.dev",
+     "where": "GitHub commits (infraspecdev)",
+     "kind": "personal",
+     "name": "venkideshVenu",
+     "commits": 9
+    },
+    {
+     "email": "rahul.int24@infraspec.dev",
+     "where": "GitHub commits (infraspecdev)",
+     "kind": "personal",
+     "name": "Rahul-4480",
+     "commits": 1
+    },
+    {
+     "email": "nimisha@infraspec.dev",
+     "where": "GitHub commits (infraspecdev)",
+     "kind": "personal",
+     "name": "nimisha-gj",
+     "commits": 1
+    },
+    {
+     "email": "mufaddalshakir55@gmail.com",
+     "where": "GitHub commits (infraspecdev)",
+     "kind": "personal",
+     "name": "Mufaddal5253110",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "48cdb954a9",
+   "company": "NuPlay AI",
+   "website": "https://www.nuplay.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Java, JavaScript, Python",
+   "site_text": "[https://www.nuplay.ai/]\nNuPlay AI | Enterprise AI transformation platform NuPlay AI (Formerly Nurix) acquires Verloop.io , expanding voice and chat AI capabilities for enterprise. Learn More Your browser does not support the video tag. Let's Talk Hear From Our Customers AI transformation, run on one self-improving platform NuPlay redesigns the process, builds the AI agents, and ensures they get better with every run. Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Your browser does not support the video tag. Your browser does not support the video tag. Trusted by 150+ enterprises running AI in production- across retail, insurance, financial services, and beyond. Read stories And more 140+ happy clients across globe Metrics our agents deliver at scale The shifts in cost, speed, and coverage once NuPlay handles the front line. 1000+ Live agents across sectors. 3x More capacity, same headcount. 55% Reduction in operational costs. 70% Time saved for high-value tasks. How we work Your browser does not support the video tag. 01 Consult & Prioritize We map your processes and prioritize where AI-first redesign has the clearest P&L impact. Your browser does not support the video tag. 02 Build the Agent The agent runs on NuPlay, built from tested components; not generated or a pilot. Your browser does not support the video tag. 03 Deploy & Scale A forward deployment engineer takes it live and scales across the function, in production day one. Your browser does not support the video tag. 04 Keep Improving NuLoop runs a self-improvement loop, diagnosing and shipping fixes as the agent learns. One platform, purpose-built agents for every function Support & Service Sales & Revenue Employee Management Partner Management Marketing Resolve issues end to end Agents handle tickets and calls start to finish, with full context and clean escalation the moment a human is needed. Triage and route every incoming issue is understood, categorized, and sent the right way. Refunds and orders process refunds, fix order problems, and update records without a human. Escalate with context hand off to an agent with the full history attached, not a cold transfer. See support & service agents Turn contacts into pipeline Agents qualify inbound and outbound, move deals faster, and keep the CRM current so reps work only the deals that matter. Qualify and score every lead is qualified and ranked before it reaches a rep. Book the meeting hot leads go straight to a booked slot on the calendar. Keep CRM current activity, notes, and stages update automatically after every touch. See sales & revenue agents The helpdesk that never sleeps Agents answer employee questions, screen candidates, and run onboarding steps around the clock. Answer employees HR, IT, and policy questions resolved instantly, any hour. Screen candidates first-round screening and interview scheduling run on their own. Run onboarding new-hire steps and checklists completed without manual chasing. See employee & management agents Marketplace back office, automated Agents onboard sellers and brands, run catalog operations, and handle vendor queries and disputes. Onboard sellers new brands and sellers set up and verified without ops overhead. Run catalog ops listings, updates, and corrections handled at volume. Resolve disputes vendor queries and disputes triaged and closed automatically. See partner & vendor agents Run campaign ops at volume Agents engage and nurture leads, respond to reviews, and run campaign operations across channels. Nurture leads the right follow-up reaches every lead, at the right time. Respond to reviews reviews and inbound queries answered fast, on brand. Run campaign ops repetitive campaign tasks executed across channels without manual work. ROI you can measure instantly See measurable gains across key business metrics from day one with intelligent automation. 30% More Conversions Via AI-Led Outreach. 76% Lead Contact Rate 100k",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  }
+ ]
+}

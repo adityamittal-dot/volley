@@ -1,0 +1,367 @@
+{
+ "leads": [
+  {
+   "id": "c12ba88558",
+   "company": "Quantorithm",
+   "website": "https://quantorithm.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "A rhythm that ripples the quantum. Languages: TypeScript",
+   "site_text": "[https://quantorithm.com]\nTitle: Quantorithm™\n\nURL Source: https://quantorithm.com/\n\nMarkdown Content:\n![Image 1: Background](https://quantorithm.com/images/banner.jpg)\n\n## Building Custom Software & Innovative Products\n\nWe build custom software and proprietary products to solve your most complex business challenges.\n\n## Our Core Offerings\n\nDiscover our specialized services and innovative products.\n\n![Image 2: Team collaborating](https://quantorithm.com/images/idea.svg)\n\n## Your Partner in Custom Software Development\n\nWe are a small, dedicated team of software experts specializing in contract-based work. Our passion is building bespoke apps, websites, and software from the ground up to meet your unique business needs and specifications.\n\n![Image 3: Graphs and data](https://quantorithm.com/images/hands-up.svg)\n\n## Our Innovative Product Ecosystem\n\nIn addition to our custom development services, we have created our own suite of innovative software products. We offer powerful, ready-to-use solutions in areas like e-commerce, digital business cards, and IoT to help you grow your business more efficiently.\n\n[![Image 4: Quantorithm Logo](https://quantorithm.com/logo.svg)Quantorithm™](https://quantorithm.com/)\nWe are a software company that builds custom applications for clients and develops our own innovative products.\n\n© 2026 Quantorithm™ Pvt Ltd. All rights reserved.\n",
+   "email_candidates": [
+    {
+     "email": "luckycreationsindia@gmail.com",
+     "where": "GitHub commits (quantorithmindia)",
+     "kind": "personal",
+     "name": "Lokesh Jain",
+     "commits": 11
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "cabe1e2f68",
+   "company": "INJI",
+   "website": "https://inji.io/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "The Verifiable credentialing stack that provides a way to share tamper-proof, instantly verifiable data which is cryptographically signed by a trusted issuers. Languages: HTML, Java, Swift, TypeScript",
+   "site_text": "[https://www.inji.io/]\nTitle: Inji - Trusted Digital Credentials\n\nURL Source: https://www.inji.io/\n\nPublished Time: Thu, 16 Jul 2026 05:02:41 GMT\n\nMarkdown Content:\n[![Image 1: Logo](https://www.inji.io/logo.svg)](https://www.inji.io/index.html)✕[About](https://www.inji.io/index.html#About)[Product](https://www.inji.io/index.html#Product)[Implementations](https://www.inji.io/index.html#Implementations)[Docs](https://docs.inji.io/)\n\nTrusted Digital Credential Infrastructure.\n\n# Designed To Verify Share Issue Store\n\n## Your credentials, at your fingertips, and in your control.\n\nInji is designed on open-standards to improve access to services efficiently and securely, at population scale. Discover how the Inji Credentialing Solution can contribute to Digital Transformation.\n\n[Documentation ›](https://docs.inji.io/)[GitHub ›](https://github.com/inji)\n\n![Image 2](https://www.inji.io/Clippath.png)\n\n![Image 3: Woman using a phone](https://www.inji.io/images/hero_fisrt.webp)![Image 4: Second person profile](https://www.inji.io/images/hero_second.webp)![Image 5: Third person profile](https://www.inji.io/images/hero_third.webp)\n\n## Building Trust into Digital  \nCredentials & Data Exchange\n\nFor credentials to be meaningful,people must be able to securely hold,share,verify,and use their documents across real-world interactions and services.This includes environments where paper-based records still exist and may be vulnerable to loss,damage,or theft.  \n  \nA complete credentialing solution brings together issuance,storage,verification,and lifecycle management into a unified system–adding trust directly to data and enabling the shift from paper-heavy processes to secure,interoperable digital services.\n\nInji is designed to enable exactly that – while keeping us in control of our own information.\n\n## Inji Wallet Verify Certify Wallet\n\nInji's complete ecosystem manages digital credentials,supporting every stage from issuance\n\n![Image 6: Inji Platform](https://www.inji.io/image%20inji.png)\n\n![Image 7: Inji Certify](https://www.inji.io/images/inji_certify.svg)\n\nTurning your data into trusted digital credentials\n\n![Image 8: Inji Wallet](https://www.inji.io/images/inji_wallet.svg)\n\nA secure, portable way to hold and share your credential\n\n![Image 9: Inji Verify](https://www.inji.io/images/Inji_Verify.svg)\n\nTrusted credential exchange and verification with service providers\n\n## Key Capabilities\n\n### Trusted\n\n![Image 10](https://www.inji.io/trusted.png)\n\nSecure, consent-based credential exchange, designed to support trusted interactions.\n\n### Supports Versatile & Multi-Modal Environments\n\nInji can be used on web and mobile, both online and offline, remotely and in-person, making it usable in diverse environments.\n\n### Inclusive by Design\n\nDesigned for varying levels of connectivity, device access, and digital literacy, particularly significant for digitally underserved populations.\n\n### User-Controlled\n\nResidents can securely hold and share credentials from personal devices, even offline, with consent and control built into the experience.\n\n### Enables Data Digitalisation\n\n![Image 11: digitalisation](https://www.inji.io/images/enables_data_digitalisation.webp)\nFor residents still dependent on paper-based documents, Inji can bridge the digital divide by enabling QR-based digitalisation of paper credentials.\n\n### Standard-Driven and Interoperable\n\nBuilt on open standards to enable portability across systems and services.\n\nStandards Followed\n\n*   W3C: Verifiable Credentials Data Model 1.1, 2.0\n*   OpenID4VCI, OpenID4VP, OpenID4VP_BLE\n*   IETF: Selective Disclosure for JWTs (SD-JWT)\n*   ISO/IEC 18013-5: For mobile driver's licenses (mDLs)\n*   Claim 169: IANA CBOR Web Token (CWT)\n*   Bitstring Status List v2.0\n\n#### Real World Interactions Across Every Sector\n\n![Image 12](https://www.inji.io/images/Real%20World%20Interactions%20background%20mark.svg)\n\n![Image 13: Team Profile Layout](https://www.inji.io/images/3people.png)\n\nWhat Inji can enable is limited",
+   "email_candidates": [
+    {
+     "email": "info@mosip.io",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "cabe1e2f68-ref",
+   "company": "INJI",
+   "website": "https://inji.io/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "The Verifiable credentialing stack that provides a way to share tamper-proof, instantly verifiable data which is cryptographically signed by a trusted issuers. Languages: HTML, Java, Swift, TypeScript",
+   "site_text": "[https://www.inji.io/]\nTitle: Inji - Trusted Digital Credentials\n\nURL Source: https://www.inji.io/\n\nPublished Time: Thu, 16 Jul 2026 05:02:41 GMT\n\nMarkdown Content:\n[![Image 1: Logo](https://www.inji.io/logo.svg)](https://www.inji.io/index.html)✕[About](https://www.inji.io/index.html#About)[Product](https://www.inji.io/index.html#Product)[Implementations](https://www.inji.io/index.html#Implementations)[Docs](https://docs.inji.io/)\n\nTrusted Digital Credential Infrastructure.\n\n# Designed To Verify Share Issue Store\n\n## Your credentials, at your fingertips, and in your control.\n\nInji is designed on open-standards to improve access to services efficiently and securely, at population scale. Discover how the Inji Credentialing Solution can contribute to Digital Transformation.\n\n[Documentation ›](https://docs.inji.io/)[GitHub ›](https://github.com/inji)\n\n![Image 2](https://www.inji.io/Clippath.png)\n\n![Image 3: Woman using a phone](https://www.inji.io/images/hero_fisrt.webp)![Image 4: Second person profile](https://www.inji.io/images/hero_second.webp)![Image 5: Third person profile](https://www.inji.io/images/hero_third.webp)\n\n## Building Trust into Digital  \nCredentials & Data Exchange\n\nFor credentials to be meaningful,people must be able to securely hold,share,verify,and use their documents across real-world interactions and services.This includes environments where paper-based records still exist and may be vulnerable to loss,damage,or theft.  \n  \nA complete credentialing solution brings together issuance,storage,verification,and lifecycle management into a unified system–adding trust directly to data and enabling the shift from paper-heavy processes to secure,interoperable digital services.\n\nInji is designed to enable exactly that – while keeping us in control of our own information.\n\n## Inji Wallet Verify Certify Wallet\n\nInji's complete ecosystem manages digital credentials,supporting every stage from issuance\n\n![Image 6: Inji Platform](https://www.inji.io/image%20inji.png)\n\n![Image 7: Inji Certify](https://www.inji.io/images/inji_certify.svg)\n\nTurning your data into trusted digital credentials\n\n![Image 8: Inji Wallet](https://www.inji.io/images/inji_wallet.svg)\n\nA secure, portable way to hold and share your credential\n\n![Image 9: Inji Verify](https://www.inji.io/images/Inji_Verify.svg)\n\nTrusted credential exchange and verification with service providers\n\n## Key Capabilities\n\n### Trusted\n\n![Image 10](https://www.inji.io/trusted.png)\n\nSecure, consent-based credential exchange, designed to support trusted interactions.\n\n### Supports Versatile & Multi-Modal Environments\n\nInji can be used on web and mobile, both online and offline, remotely and in-person, making it usable in diverse environments.\n\n### Inclusive by Design\n\nDesigned for varying levels of connectivity, device access, and digital literacy, particularly significant for digitally underserved populations.\n\n### User-Controlled\n\nResidents can securely hold and share credentials from personal devices, even offline, with consent and control built into the experience.\n\n### Enables Data Digitalisation\n\n![Image 11: digitalisation](https://www.inji.io/images/enables_data_digitalisation.webp)\nFor residents still dependent on paper-based documents, Inji can bridge the digital divide by enabling QR-based digitalisation of paper credentials.\n\n### Standard-Driven and Interoperable\n\nBuilt on open standards to enable portability across systems and services.\n\nStandards Followed\n\n*   W3C: Verifiable Credentials Data Model 1.1, 2.0\n*   OpenID4VCI, OpenID4VP, OpenID4VP_BLE\n*   IETF: Selective Disclosure for JWTs (SD-JWT)\n*   ISO/IEC 18013-5: For mobile driver's licenses (mDLs)\n*   Claim 169: IANA CBOR Web Token (CWT)\n*   Bitstring Status List v2.0\n\n#### Real World Interactions Across Every Sector\n\n![Image 12](https://www.inji.io/images/Real%20World%20Interactions%20background%20mark.svg)\n\n![Image 13: Team Profile Layout](https://www.inji.io/images/3people.png)\n\nWhat Inji can enable is limited",
+   "email_candidates": [
+    {
+     "email": "prafulrakhade02@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Praful Rakhade",
+     "commits": 3
+    },
+    {
+     "email": "kongadurgesh20@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Durgesh Konga",
+     "commits": 15
+    },
+    {
+     "email": "jackjain1995@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Jack",
+     "commits": 4
+    },
+    {
+     "email": "chandrakeshavmishra@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Chandra Keshav Mishra",
+     "commits": 6
+    },
+    {
+     "email": "meet2swati@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Swati Goel",
+     "commits": 10
+    },
+    {
+     "email": "piyushshukla2100@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Piyush7034",
+     "commits": 27
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "cabe1e2f68-ref",
+   "company": "INJI",
+   "website": "https://inji.io/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "The Verifiable credentialing stack that provides a way to share tamper-proof, instantly verifiable data which is cryptographically signed by a trusted issuers. Languages: HTML, Java, Swift, TypeScript",
+   "site_text": "[https://www.inji.io/]\nTitle: Inji - Trusted Digital Credentials\n\nURL Source: https://www.inji.io/\n\nPublished Time: Thu, 16 Jul 2026 05:02:41 GMT\n\nMarkdown Content:\n[![Image 1: Logo](https://www.inji.io/logo.svg)](https://www.inji.io/index.html)✕[About](https://www.inji.io/index.html#About)[Product](https://www.inji.io/index.html#Product)[Implementations](https://www.inji.io/index.html#Implementations)[Docs](https://docs.inji.io/)\n\nTrusted Digital Credential Infrastructure.\n\n# Designed To Verify Share Issue Store\n\n## Your credentials, at your fingertips, and in your control.\n\nInji is designed on open-standards to improve access to services efficiently and securely, at population scale. Discover how the Inji Credentialing Solution can contribute to Digital Transformation.\n\n[Documentation ›](https://docs.inji.io/)[GitHub ›](https://github.com/inji)\n\n![Image 2](https://www.inji.io/Clippath.png)\n\n![Image 3: Woman using a phone](https://www.inji.io/images/hero_fisrt.webp)![Image 4: Second person profile](https://www.inji.io/images/hero_second.webp)![Image 5: Third person profile](https://www.inji.io/images/hero_third.webp)\n\n## Building Trust into Digital  \nCredentials & Data Exchange\n\nFor credentials to be meaningful,people must be able to securely hold,share,verify,and use their documents across real-world interactions and services.This includes environments where paper-based records still exist and may be vulnerable to loss,damage,or theft.  \n  \nA complete credentialing solution brings together issuance,storage,verification,and lifecycle management into a unified system–adding trust directly to data and enabling the shift from paper-heavy processes to secure,interoperable digital services.\n\nInji is designed to enable exactly that – while keeping us in control of our own information.\n\n## Inji Wallet Verify Certify Wallet\n\nInji's complete ecosystem manages digital credentials,supporting every stage from issuance\n\n![Image 6: Inji Platform](https://www.inji.io/image%20inji.png)\n\n![Image 7: Inji Certify](https://www.inji.io/images/inji_certify.svg)\n\nTurning your data into trusted digital credentials\n\n![Image 8: Inji Wallet](https://www.inji.io/images/inji_wallet.svg)\n\nA secure, portable way to hold and share your credential\n\n![Image 9: Inji Verify](https://www.inji.io/images/Inji_Verify.svg)\n\nTrusted credential exchange and verification with service providers\n\n## Key Capabilities\n\n### Trusted\n\n![Image 10](https://www.inji.io/trusted.png)\n\nSecure, consent-based credential exchange, designed to support trusted interactions.\n\n### Supports Versatile & Multi-Modal Environments\n\nInji can be used on web and mobile, both online and offline, remotely and in-person, making it usable in diverse environments.\n\n### Inclusive by Design\n\nDesigned for varying levels of connectivity, device access, and digital literacy, particularly significant for digitally underserved populations.\n\n### User-Controlled\n\nResidents can securely hold and share credentials from personal devices, even offline, with consent and control built into the experience.\n\n### Enables Data Digitalisation\n\n![Image 11: digitalisation](https://www.inji.io/images/enables_data_digitalisation.webp)\nFor residents still dependent on paper-based documents, Inji can bridge the digital divide by enabling QR-based digitalisation of paper credentials.\n\n### Standard-Driven and Interoperable\n\nBuilt on open standards to enable portability across systems and services.\n\nStandards Followed\n\n*   W3C: Verifiable Credentials Data Model 1.1, 2.0\n*   OpenID4VCI, OpenID4VP, OpenID4VP_BLE\n*   IETF: Selective Disclosure for JWTs (SD-JWT)\n*   ISO/IEC 18013-5: For mobile driver's licenses (mDLs)\n*   Claim 169: IANA CBOR Web Token (CWT)\n*   Bitstring Status List v2.0\n\n#### Real World Interactions Across Every Sector\n\n![Image 12](https://www.inji.io/images/Real%20World%20Interactions%20background%20mark.svg)\n\n![Image 13: Team Profile Layout](https://www.inji.io/images/3people.png)\n\nWhat Inji can enable is limited",
+   "email_candidates": [
+    {
+     "email": "info@mosip.io",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "prafulrakhade02@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Praful Rakhade",
+     "commits": 3
+    },
+    {
+     "email": "kongadurgesh20@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Durgesh Konga",
+     "commits": 15
+    },
+    {
+     "email": "jackjain1995@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Jack",
+     "commits": 4
+    },
+    {
+     "email": "chandrakeshavmishra@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Chandra Keshav Mishra",
+     "commits": 6
+    },
+    {
+     "email": "meet2swati@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Swati Goel",
+     "commits": 10
+    },
+    {
+     "email": "piyushshukla2100@gmail.com",
+     "where": "GitHub commits (inji)",
+     "kind": "personal",
+     "name": "Piyush7034",
+     "commits": 27
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "e6ce6a6905",
+   "company": "Electrik",
+   "website": "https://electrik.dev",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Open Source full-featured SaaS boilerplate built using Laravel, Livewire.. Languages: Blade, PHP. Topics: billing, blade, blade-components, laravel, laravel-package, laravel-starter-kit, livewire, php, saas, saas-boilerplate, stripe, tailwind-ui, tailwindcss, tall-stack, teams, ui-kit",
+   "site_text": "[https://electrik.dev/]\nElectrik Menu Electrik Launch GitHub Demo Electrik Launch Electrik 5.5.0 · Laravel SaaS kit Ship Laravel SaaS without rebuilding teams and billing again Auth, team workspaces, Stripe on the team, onboarding, and Slate UI — as a Composer package. Your App\\ stays clean. Install free — MIT Try the live demo Electrik Launch MIT open source · Launch $6,900 / 14 days if you want us to ship it Using Cursor or Claude? Paste an agent prompt electrik · team dashboard Used in production Every client Laravel SaaS from Quick Brown Fox ships on Electrik — teams, billing shell, and Slate included. Agent DX Built for Cursor and Claude — not just humans AGENTS.md, llms.txt, and a Cursor skill teach coding agents to composer require Electrik, run the installer, and keep the shell in vendor. Same package either way — agents just install it correctly. → Paste one prompt into Cursor / Claude → Agent reads docs + AGENTS.md before touching App\\ → Auth, teams, and billing stay in vendor Agent install docs Human install guide Agent prompt Install Electrik 5.x as a Composer package. Read https://electrik.dev/llms.txt and https://electrik.dev/docs/getting-started/ai first. Keep the shell in vendor; put product code in App\\. Do not dump Jetstream/Breeze-style auth into App\\. Optional path — demo and composer require still work without an agent. The problem Stop gluing Jetstream, Spark, and a theme Most Laravel SaaS starts as four weekends of the same setup. Electrik is the setup — one package, not a dump into App\\. Without Electrik Jetstream or Breeze for auth Hand-roll teams and roles Spark or DIY Cashier A mismatched admin theme Starter code rotting in App\\ With Electrik Auth, sessions, profile, 2FA Team workspaces + Spatie roles Stripe customer on the team Slate 3 UI in the kit composer require — stays in vendor Teams Workspaces that match real SaaS Create and switch teams, invite members, Spatie roles scoped to the workspace. Your product attaches to the team — not a solo-user afterthought. See teams in the demo Team Invite · roles · switch Spatie permissions, team-scoped from install. Billing Cashier on the team Subscribe, portal, webhooks — B2B-shaped. UI Slate 3 shell Components matched to the product, not bolted on. Billing + UI Stripe on the team. Slate in the kit. The Cashier customer is the team — the shape most B2B Laravel SaaS need. Screens ship on Electrik Slate 3 so auth, billing, and product UI share one system. Install free Slate UI Architecture No boilerplate dump. Lean package architecture. Other kits clone into your app. Electrik lives in vendor. Customize via config, env, and published views — not by owning hundreds of kit files forever. Typical starter dump app/ ├── Actions/Fortify/… ├── Models/User.php ← kit forever ├── Http/… └── …hundreds of kit files resources/views/ └── …auth, teams, billing copies With Electrik app/ ├── Models/… ← your product ├── Http/… ← your product └── … vendor/electrik/ └── electrik/ ← auth, teams, billing composer require → electrik:install → build Stack Works with the Laravel tools you already use Built on Laravel 12, Livewire, Cashier, Spatie Permission, and Tailwind — with Electrik Slate as the UI system. Install from Packagist like any other package. Install guide View demo Lv Laravel 12 Lw Livewire 4 St Stripe Cashier Sp Spatie Permission Tw Tailwind CSS v4 Sl Electrik Slate 3 Pk Packagist Cp Composer Gh GitHub Quick Brown Fox “We don’t reinvent auth, teams, and billing for each client. Every Laravel SaaS we ship runs on Electrik — package in vendor, product in App\\.” Quick Brown Fox · Studio that builds Electrik — and ships client work on it Electrik Production shell “Electrik is the SaaS starter we wanted as a Laravel package: auth, teams, billing, and onboarding stay vendor-owned, with Slate 3 for UI instead of a mismatched admin theme. Full features ship in source, and the BSL grant is explicit about when you need a commercial license.” Neeraj Kumar · Founder · Product Hu",
+   "email_candidates": [
+    {
+     "email": "hello@electrik.dev",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "hello@neerajkumar.name",
+     "where": "GitHub commits (electrikhq)",
+     "kind": "generic",
+     "name": "neerajsohal",
+     "commits": 89
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "f4f2f07f48",
+   "company": "Blockchain Club SRM",
+   "website": "https://www.blockchainsrm.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Adding to the Decentralized World. Languages: JavaScript, Rust, TypeScript",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "codekartikey@gmail.com",
+     "where": "GitHub commits (Blockchain-Club-SRM)",
+     "kind": "personal",
+     "name": "KartikeyCode",
+     "commits": 7
+    },
+    {
+     "email": "ishaankhurana123@gmail.com",
+     "where": "GitHub commits (Blockchain-Club-SRM)",
+     "kind": "personal",
+     "name": "ik04",
+     "commits": 3
+    },
+    {
+     "email": "taseeniqbal.ti@gmail.com",
+     "where": "GitHub commits (Blockchain-Club-SRM)",
+     "kind": "personal",
+     "name": "PaleDeath",
+     "commits": 7
+    },
+    {
+     "email": "abku2504@gmail.com",
+     "where": "GitHub commits (Blockchain-Club-SRM)",
+     "kind": "personal",
+     "name": "abku2504",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "fccc543043",
+   "company": "Diagram Chasing",
+   "website": "https://diagramchasing.fun",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Data stories and tools for India, and our part of the world . Languages: Python, Svelte. Topics: india, radiosonde, weather-station",
+   "site_text": "[https://diagramchasing.fun/]\nDiagram Chasing Diagram Chasing Diagram Chasing Visual stories and tools that make public data worth looking at 2026 Mapping India's Clouds A daily updating map of where it's cloudy 2026 Portraits of Population An archive of 700 hand-drawn charts and graphics from India's census, and why they were made 2025 How Bangalore Uses the Metro We filed an RTI to understand how people travel on Bangalore's metro system. 2025 CBFC Watch 18k movies, 1 lakh censorship records for movies released in India in a searchable database 2025 India Time Use Explorer Explore the Time Use Survey data of India in your browser. 2024 Votes in a name? Finding namesake candidates in India's elections and how they impact the election. 2024 BLR Water Log Natural drains crisscross Bangalore and are often the places which are the first to flood. We mapped where these are. 2024 The new residents in Hurricane Milton's path Mapping recent population growth and housing in areas threatened by Hurricane Milton. 2024 Who is my neta? See legislative activity and affidavits of MLAs from the 17th Lok Sabha â or explore candidates contesting in the 2024 elections. ...seen in places like We are an independent publication made possible by readers like you Support our work\n\n[https://diagramchasing.fun/about]\nAbout | Diagram Chasing Diagram Chasing About Aman and Vivek started Diagram Chasing in 2024 to build the kind of data-driven stories and tools we wished existed for India and our part of the world. The name is apt; everything we create begins with a question, an argument, a passing theory, or a daily annoyance that we decide to 'chase' down using data and design. We practice full-stack data journalism because we genuinely love every step of the process, from collecting datasets and writing analysis pipelines to designing the final interactive experience or story. Because we believe in accessible knowledge and transparency, all our data and code is released publicly under open licenses. Every project is made nomadically in random cafes around Bangalore We are proudly independent, and to our knowledge, the only data publication of its kind in India. Our goal is to take often \"boring\" issuesâlike elections, climate, economics, and bureaucracyâand make them undeniably cool through visual storytelling. These topics can sometimes feel dry on paper, but we hope our work feels like listening to a friend excitedly explain their latest obsession, and make you care about it too. We are also slow by design. Our projects unfold over weeks and months, ensuring that when we finally publish, we are confident about what we produced. To bring these stories to life with the care they deserve, we regularly collaborate with talented illustrators, animators, writers, and creatives of all kinds. Who funds us? So far, it's been mostly us. We've funded the research, infrastructure, software tools, and honorariums for our collaborators straight out of our own pockets. However, our dream is to make Diagram Chasing a truly sustainable, community-backed publication. In 2025, we reached a big milestone where for the very first time, reader support covered a meaningful portion of our running costs. With your help, it's a model we hope to keep growing. Work with us We love building, and we love helping others do the same. While we're always eager to collaborate with fellow creatives on our own stories, we also take on professional commissions. Whether you're a newsroom sitting on an unwieldy dataset, an organization looking to build data stories or applications, or simply someone who needs a team of full-stack data nerds to bring an idea to life, we'd love to connect. Shoot us an email at hello@diagramchasing.fun . Press & Talks IndieWire Indian Film Censorship's Political Aims Exposed by Data Leak Frontline CBFC Watch: Before the censors censored themselves, two coders hit âsaveâ The Hindu Censor Board Discontinues Full Access to Cuts on Website Share of U-R",
+   "email_candidates": [
+    {
+     "email": "hello@diagramchasing.fun",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "fccc543043-ref",
+   "company": "Diagram Chasing",
+   "website": "https://diagramchasing.fun",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Data stories and tools for India, and our part of the world . Languages: Python, Svelte. Topics: india, radiosonde, weather-station",
+   "site_text": "[https://diagramchasing.fun/]\nDiagram Chasing Diagram Chasing Diagram Chasing Visual stories and tools that make public data worth looking at 2026 Mapping India's Clouds A daily updating map of where it's cloudy 2026 Portraits of Population An archive of 700 hand-drawn charts and graphics from India's census, and why they were made 2025 How Bangalore Uses the Metro We filed an RTI to understand how people travel on Bangalore's metro system. 2025 CBFC Watch 18k movies, 1 lakh censorship records for movies released in India in a searchable database 2025 India Time Use Explorer Explore the Time Use Survey data of India in your browser. 2024 Votes in a name? Finding namesake candidates in India's elections and how they impact the election. 2024 BLR Water Log Natural drains crisscross Bangalore and are often the places which are the first to flood. We mapped where these are. 2024 The new residents in Hurricane Milton's path Mapping recent population growth and housing in areas threatened by Hurricane Milton. 2024 Who is my neta? See legislative activity and affidavits of MLAs from the 17th Lok Sabha â or explore candidates contesting in the 2024 elections. ...seen in places like We are an independent publication made possible by readers like you Support our work\n\n[https://diagramchasing.fun/about]\nAbout | Diagram Chasing Diagram Chasing About Aman and Vivek started Diagram Chasing in 2024 to build the kind of data-driven stories and tools we wished existed for India and our part of the world. The name is apt; everything we create begins with a question, an argument, a passing theory, or a daily annoyance that we decide to 'chase' down using data and design. We practice full-stack data journalism because we genuinely love every step of the process, from collecting datasets and writing analysis pipelines to designing the final interactive experience or story. Because we believe in accessible knowledge and transparency, all our data and code is released publicly under open licenses. Every project is made nomadically in random cafes around Bangalore We are proudly independent, and to our knowledge, the only data publication of its kind in India. Our goal is to take often \"boring\" issuesâlike elections, climate, economics, and bureaucracyâand make them undeniably cool through visual storytelling. These topics can sometimes feel dry on paper, but we hope our work feels like listening to a friend excitedly explain their latest obsession, and make you care about it too. We are also slow by design. Our projects unfold over weeks and months, ensuring that when we finally publish, we are confident about what we produced. To bring these stories to life with the care they deserve, we regularly collaborate with talented illustrators, animators, writers, and creatives of all kinds. Who funds us? So far, it's been mostly us. We've funded the research, infrastructure, software tools, and honorariums for our collaborators straight out of our own pockets. However, our dream is to make Diagram Chasing a truly sustainable, community-backed publication. In 2025, we reached a big milestone where for the very first time, reader support covered a meaningful portion of our running costs. With your help, it's a model we hope to keep growing. Work with us We love building, and we love helping others do the same. While we're always eager to collaborate with fellow creatives on our own stories, we also take on professional commissions. Whether you're a newsroom sitting on an unwieldy dataset, an organization looking to build data stories or applications, or simply someone who needs a team of full-stack data nerds to bring an idea to life, we'd love to connect. Shoot us an email at hello@diagramchasing.fun . Press & Talks IndieWire Indian Film Censorship's Political Aims Exposed by Data Leak Frontline CBFC Watch: Before the censors censored themselves, two coders hit âsaveâ The Hindu Censor Board Discontinues Full Access to Cuts on Website Share of U-R",
+   "email_candidates": [
+    {
+     "email": "amanbhargava2001@gmail.com",
+     "where": "GitHub commits (diagram-chasing)",
+     "kind": "personal",
+     "name": "Aman Bhargava",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "fccc543043-ref",
+   "company": "Diagram Chasing",
+   "website": "https://diagramchasing.fun",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Data stories and tools for India, and our part of the world . Languages: Python, Svelte. Topics: india, radiosonde, weather-station",
+   "site_text": "[https://diagramchasing.fun/]\nDiagram Chasing Diagram Chasing Diagram Chasing Visual stories and tools that make public data worth looking at 2026 Mapping India's Clouds A daily updating map of where it's cloudy 2026 Portraits of Population An archive of 700 hand-drawn charts and graphics from India's census, and why they were made 2025 How Bangalore Uses the Metro We filed an RTI to understand how people travel on Bangalore's metro system. 2025 CBFC Watch 18k movies, 1 lakh censorship records for movies released in India in a searchable database 2025 India Time Use Explorer Explore the Time Use Survey data of India in your browser. 2024 Votes in a name? Finding namesake candidates in India's elections and how they impact the election. 2024 BLR Water Log Natural drains crisscross Bangalore and are often the places which are the first to flood. We mapped where these are. 2024 The new residents in Hurricane Milton's path Mapping recent population growth and housing in areas threatened by Hurricane Milton. 2024 Who is my neta? See legislative activity and affidavits of MLAs from the 17th Lok Sabha â or explore candidates contesting in the 2024 elections. ...seen in places like We are an independent publication made possible by readers like you Support our work\n\n[https://diagramchasing.fun/about]\nAbout | Diagram Chasing Diagram Chasing About Aman and Vivek started Diagram Chasing in 2024 to build the kind of data-driven stories and tools we wished existed for India and our part of the world. The name is apt; everything we create begins with a question, an argument, a passing theory, or a daily annoyance that we decide to 'chase' down using data and design. We practice full-stack data journalism because we genuinely love every step of the process, from collecting datasets and writing analysis pipelines to designing the final interactive experience or story. Because we believe in accessible knowledge and transparency, all our data and code is released publicly under open licenses. Every project is made nomadically in random cafes around Bangalore We are proudly independent, and to our knowledge, the only data publication of its kind in India. Our goal is to take often \"boring\" issuesâlike elections, climate, economics, and bureaucracyâand make them undeniably cool through visual storytelling. These topics can sometimes feel dry on paper, but we hope our work feels like listening to a friend excitedly explain their latest obsession, and make you care about it too. We are also slow by design. Our projects unfold over weeks and months, ensuring that when we finally publish, we are confident about what we produced. To bring these stories to life with the care they deserve, we regularly collaborate with talented illustrators, animators, writers, and creatives of all kinds. Who funds us? So far, it's been mostly us. We've funded the research, infrastructure, software tools, and honorariums for our collaborators straight out of our own pockets. However, our dream is to make Diagram Chasing a truly sustainable, community-backed publication. In 2025, we reached a big milestone where for the very first time, reader support covered a meaningful portion of our running costs. With your help, it's a model we hope to keep growing. Work with us We love building, and we love helping others do the same. While we're always eager to collaborate with fellow creatives on our own stories, we also take on professional commissions. Whether you're a newsroom sitting on an unwieldy dataset, an organization looking to build data stories or applications, or simply someone who needs a team of full-stack data nerds to bring an idea to life, we'd love to connect. Shoot us an email at hello@diagramchasing.fun . Press & Talks IndieWire Indian Film Censorship's Political Aims Exposed by Data Leak Frontline CBFC Watch: Before the censors censored themselves, two coders hit âsaveâ The Hindu Censor Board Discontinues Full Access to Cuts on Website Share of U-R",
+   "email_candidates": [
+    {
+     "email": "hello@diagramchasing.fun",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "amanbhargava2001@gmail.com",
+     "where": "GitHub commits (diagram-chasing)",
+     "kind": "personal",
+     "name": "Aman Bhargava",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "c74fc446b1",
+   "company": "REVOtic Engineering",
+   "website": "https://revoticengineering.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "New Delhi",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Revolution in Futuristic Technologies. Languages: CSS, HTML, TypeScript",
+   "site_text": "[https://revoticengineering.com/]\nREVOtic Engineering - Revolution in futuristic solutions REVOtic Engineering Pvt Ltd Let's shape your business Revolution in futuristic technologies Contact Us REVOtic Engineering Pvt Ltd Making dreams come true WEB - AI - Machine Learning - IOT - Robotics - Blockchain Contact Us REVOtic Engineering Pvt Ltd Customised Business Solution & Quality Services Revotic Engineering Pvt Ltd as a team we are providing AI - Machine Learning, IOT, Robotics, Blockchain, Digital Marketing and IT based business solutions and services. We also provide leading-edge training and workshops over the latest innovations and technologies. Website Development App Development Digital Marketing IOT Internet of Things Blockchain Technology Website Development A well-designed website or application will make you stand out from your competition by showcasing your brand personality and messaging. Whatever your reason for considering a Web design, you have results in mind. Increased sales conversions, better brand positioning, increased donations, increased engagement Or maybe your existing website just makes you cringe in Explore Website Development App Development At Revotic Engineering Pvt Ltd, we specialize in everything from web and mobile applications to cloud-based services we render customized, high quality and out-of-the-box apps that successfully lowers down an enterprise’s development expenses and offers an optimal apps solution with outstanding features and interface. Explore App Development Digital Marketing We offer the best digital marketing solutions to help you grow your brand online, take control of the marketing efforts, and help improve your conversions, you have landed at the right place! Our digital marketing solution can help the brands strategically position themselves in the markets they compete. Explore Rapid Digital Marketing IOT Internet of Things Right from our homes to small / big scale modern enterprises and with the technology catching up the pace, Internet of Things (IoT) as we all know has become an integral part of our everyday life. It connects everything and everyone, across any nook and corner in the globe. Connecting lives and people together, IoT is making everyone’s life simpler and smarter. Explore Robotics & IOT Blockchain Technology Blockchain is the new cutting-edge technology which certainly has immense potential to transform our entire economy.We at Revotic engineering Pvt Ltd are helping clients experiment and experience blockchain network to improve performance, increase efficiency and reduce operation losses. Explore Blockchain We Provide Customised Solutions Tailored To Fit Your Needs Contact Us Robust Project Plan We create a comprehensive project plan after studying your brand or idea time-bound and your precise business needs. Our team follows a consultative and personalized consultative approach to your web design requirements. Understanding Business Understanding Requirement Providing Quality Services Improving ROI We are on the Top At REVOtic Engineering Pvt Ltd, we combine creativity and functionality in the web applications to bring effective web designs and graphically appealing at an optimal costs. We design gadget-friendly and web apps which are responsive and adjustable layout. Our Team professionals, have a extensive industry knowledge and years of experience, we will ensure that your business reaches to the next level and obtains new level of success. Learn More 01. Investment Advisor Our Team Advisors will provide you with independent and custom-tailored investment analysis. We Help our clients take advantage latest technology while minimizing their investment budget. 02. Cost-Effective Resources We provide cutting edge IT solutions and services at lowest prices. Our application maintenance fees are designed to wrap up all of our services related to your application into one convenient payment. Including hosting, domain, subscription renewals. With our subscr",
+   "email_candidates": [
+    {
+     "email": "shachindra.spidey@gmail.com",
+     "where": "GitHub commits (REVOtic)",
+     "kind": "personal",
+     "name": "Shachindra",
+     "commits": 16
+    },
+    {
+     "email": "pranj568@gmail.com",
+     "where": "GitHub commits (REVOtic)",
+     "kind": "personal",
+     "name": "pranj4",
+     "commits": 11
+    },
+    {
+     "email": "haronpaulson@gmail.com",
+     "where": "GitHub commits (REVOtic)",
+     "kind": "personal",
+     "name": "Your Name",
+     "commits": 8
+    },
+    {
+     "email": "developergkindia@gmail.com",
+     "where": "GitHub commits (REVOtic)",
+     "kind": "personal",
+     "name": "Gaurav Kumar",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting",
+   "referral": false
+  }
+ ]
+}

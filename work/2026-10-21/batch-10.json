@@ -1,0 +1,318 @@
+{
+ "leads": [
+  {
+   "id": "6e035e2f93",
+   "company": "9sphere AI",
+   "website": "https://9sphere.space",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, Jupyter Notebook, Python",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "muthukrishnan.t@hotmail.com",
+     "where": "GitHub commits (9sphere)",
+     "kind": "personal",
+     "name": "Muthukrishnan",
+     "commits": 7
+    },
+    {
+     "email": "muthukrishnan749@gmail.com",
+     "where": "GitHub commits (9sphere)",
+     "kind": "personal",
+     "name": "krimuthu",
+     "commits": 14
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "89e6f7c443",
+   "company": "CivicDataLab",
+   "website": "https://www.civicdatalab.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Harnessing Data, Tech, Design and Social Science to strengthen the course of Civic Engagements in India.. Languages: Jupyter Notebook, Python. Topics: data-collaboration, data-engineering, data-platform, data-visualization, hacktoberfest, hacktoberfest2025",
+   "site_text": "[https://civicdatalab.in/]\nCivicDataLab | Data, Tech, Design, Social Science We work to strengthen the course of civic engagements using Our Work Climate Action We co-create data collaboratives and tools for effective, data-driven decision making to address climate change. We work closely with multiple stakeholders to institutionalise data and AI capacities, accessibility and usability for public reforms and citizen engagement. Learn more >> DPG&I and Responsible AI We are co-creating people-centric Digital Public Goods (DPGs) and strengthening Digital Infrastructure (DPI) via our Open Data platforms, Data Exchange platform, Intelligent Data Science models, Al-enabled Chatbots and Citizen-led Apps for improving participatory data-driven governance. Our solutions are focused on making data accessible and usable as well as improving data-tech capacities. They are built on principles of privacy by design and adhere to the national and international applicable laws. Learn more >> Gender & Inclusion We work to bring a gender and inclusion lens to data, technology and public systems, building a more holistic understanding of the diverse needs and experiences of women, girls, persons with disabilities (PwDs), and other marginalised communities. We co-create data-driven tools and approaches with governments and ecosystem partners, while building capacities to integrate gender and inclusion into public planning, finance, and decision-making. Learn more >> Law & Justice We create and curate high quality public datasets in the areas of law and justice. We build open data portals to increase information accessibility and conduct trainings and workshops for our partners to enhance their data and tech capacity. Learn more >> Open Contracting We curate Public Finance data by following the flow of funds through budgets all the way through to public procurements. We are working on building open source tools to track, visualize, and analyze this information. Learn more >> Public Finance We curate Public Finance data by following the flow of funds through budgets all the way through to public procurements. We are working on building open source tools to track, visualize, and analyze this information. Learn more >> Urban Development We are delving into the space of urban governance, where we work towards facilitating citizen engagement through making public information accessible on open data platforms. We also work towards involving the citizens in generating information relevant to their well-being, especially during the time of disasters. Learn more >> Latest Blogs Our Partners our team CivicDataLab works across sectors to increase access to information. We use free and open source tools to collaborate and co-create with social change makers. We follow responsible and ethical practices to drive civic engagement and advocacy in the country. Meet the multi-disciplinary team who work behind the scenes to make it all happen! Meet the team >> Work With Us! Let’s co-create the next solution enabling sustainable social change in your area of work Partner With Us Join Us Check our unique Civic Days Write to us at: info@civicdatalab.in License | Site Map Navigate Home Work Team Blogs About Contact Our Events Resources Work DPG&I and Responsible AI Law & Justice Open Contracting Public Finance Urban Development License | Site Map\n\n[https://civicdatalab.in/team/]\nTeam | CivicDataLab The Team Current Job Openings browse jobs Aakash Data Engineer Aashi Climate Action Lead Abhishek Frontend Engineer Ahsin Gender Research Fellow Ahsnat Associate Researcher Akriti Data Analyst Amit Backend Engineer Anant Senior Backend Developer Aparna Associate Product Design - Consultant Archishman PF Research Fellow Avantik AI-DAN Fellow (Himachal Pradesh) Deepthi Founder Dipti Language Data Fellow Divitamayee AI-DAN Fellow (Odisha) Gaurangi Communications Fellow Gaurav Founder & CEO Jahnabi AI-DAN Fellow (Assam) Jatin Climate Action Fellow Jatin Language Data Fellow Kabee",
+   "email_candidates": [
+    {
+     "email": "info@civicdatalab.in",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "careers@civicdatalab.in",
+     "where": "https://civicdatalab.in/contact/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "89e6f7c443-ref",
+   "company": "CivicDataLab",
+   "website": "https://www.civicdatalab.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Harnessing Data, Tech, Design and Social Science to strengthen the course of Civic Engagements in India.. Languages: Jupyter Notebook, Python. Topics: data-collaboration, data-engineering, data-platform, data-visualization, hacktoberfest, hacktoberfest2025",
+   "site_text": "[https://civicdatalab.in/]\nCivicDataLab | Data, Tech, Design, Social Science We work to strengthen the course of civic engagements using Our Work Climate Action We co-create data collaboratives and tools for effective, data-driven decision making to address climate change. We work closely with multiple stakeholders to institutionalise data and AI capacities, accessibility and usability for public reforms and citizen engagement. Learn more >> DPG&I and Responsible AI We are co-creating people-centric Digital Public Goods (DPGs) and strengthening Digital Infrastructure (DPI) via our Open Data platforms, Data Exchange platform, Intelligent Data Science models, Al-enabled Chatbots and Citizen-led Apps for improving participatory data-driven governance. Our solutions are focused on making data accessible and usable as well as improving data-tech capacities. They are built on principles of privacy by design and adhere to the national and international applicable laws. Learn more >> Gender & Inclusion We work to bring a gender and inclusion lens to data, technology and public systems, building a more holistic understanding of the diverse needs and experiences of women, girls, persons with disabilities (PwDs), and other marginalised communities. We co-create data-driven tools and approaches with governments and ecosystem partners, while building capacities to integrate gender and inclusion into public planning, finance, and decision-making. Learn more >> Law & Justice We create and curate high quality public datasets in the areas of law and justice. We build open data portals to increase information accessibility and conduct trainings and workshops for our partners to enhance their data and tech capacity. Learn more >> Open Contracting We curate Public Finance data by following the flow of funds through budgets all the way through to public procurements. We are working on building open source tools to track, visualize, and analyze this information. Learn more >> Public Finance We curate Public Finance data by following the flow of funds through budgets all the way through to public procurements. We are working on building open source tools to track, visualize, and analyze this information. Learn more >> Urban Development We are delving into the space of urban governance, where we work towards facilitating citizen engagement through making public information accessible on open data platforms. We also work towards involving the citizens in generating information relevant to their well-being, especially during the time of disasters. Learn more >> Latest Blogs Our Partners our team CivicDataLab works across sectors to increase access to information. We use free and open source tools to collaborate and co-create with social change makers. We follow responsible and ethical practices to drive civic engagement and advocacy in the country. Meet the multi-disciplinary team who work behind the scenes to make it all happen! Meet the team >> Work With Us! Let’s co-create the next solution enabling sustainable social change in your area of work Partner With Us Join Us Check our unique Civic Days Write to us at: info@civicdatalab.in License | Site Map Navigate Home Work Team Blogs About Contact Our Events Resources Work DPG&I and Responsible AI Law & Justice Open Contracting Public Finance Urban Development License | Site Map\n\n[https://civicdatalab.in/team/]\nTeam | CivicDataLab The Team Current Job Openings browse jobs Aakash Data Engineer Aashi Climate Action Lead Abhishek Frontend Engineer Ahsin Gender Research Fellow Ahsnat Associate Researcher Akriti Data Analyst Amit Backend Engineer Anant Senior Backend Developer Aparna Associate Product Design - Consultant Archishman PF Research Fellow Avantik AI-DAN Fellow (Himachal Pradesh) Deepthi Founder Dipti Language Data Fellow Divitamayee AI-DAN Fellow (Odisha) Gaurangi Communications Fellow Gaurav Founder & CEO Jahnabi AI-DAN Fellow (Assam) Jatin Climate Action Fellow Jatin Language Data Fellow Kabee",
+   "email_candidates": [
+    {
+     "email": "saurabh.levin@gmail.com",
+     "where": "GitHub commits (CivicDataLab)",
+     "kind": "personal",
+     "name": "Saurabh Levin",
+     "commits": 40
+    },
+    {
+     "email": "thakshak@civicdatalab.in",
+     "where": "GitHub commits (CivicDataLab)",
+     "kind": "personal",
+     "name": "thakshak-00",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "3188eb04f4",
+   "company": "Midocean Technologies Pvt Ltd",
+   "website": "https://www.midocean.tech",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "ERPNext Implementation and Development Company | Frappe, Python, Flutter. Languages: JavaScript, Python. Topics: automation, erpnext, flutter, frappe, workflow",
+   "site_text": "[https://www.midocean.tech/]\nMidocean | ERPNext, Frappe & AI Technology Partner ERPNext, Odoo & AI workflow engineering Midocean | ERPNext, Frappe & Odoo Technology Partner We map workflows, configure standard databases, customize apps, and build AI integrations for modern manufacturing, trading, and services enterprises. Book Discovery Call View Services Core service offerings ERPNext implementation: end-to-end blueprinting, setup, and hypercare support. Frappe custom engineering: upgrade-safe custom portal and API development. Odoo implementation: Python/XML development and rescue support. AI workflow automation: connecting autonomous AI agents to your ERP databases. Related ERPNext resources ERPNext services ERPNext consultant ERPNext Starter Pack ERPNext Success Pack Case studies ERPNext blog Contact Midocean\n\n[https://www.midocean.tech/contact?source=homepage]\nContact Midocean Technologies Contact ERPNext implementation, Frappe custom apps, AI workflows, integrations, and dedicated ERP teams for modern enterprises. Contact Midocean Related ERPNext resources ERPNext services ERPNext consultant ERPNext Starter Pack ERPNext Success Pack Case studies ERPNext blog Contact Midocean\n\n[https://www.midocean.tech/blog]\nERPNext, Frappe & AI Insights | Midocean Blog Midocean Blog ERPNext, Frappe and AI insights Read ERPNext implementation guidance, Frappe engineering notes, AI workflow ideas, and practical business system articles from Midocean Technologies. Latest published items How \"Redis\" Makes ERPNext Faster!! : Discover how Redis significantly improves ERPNext performance by reducing database load, accelerating page rendering, processing background jobs efficiently, and enabling real-time communication. How to Set Up Frappe Development Environment on Windows : Learn how to install and configure the complete Frappe v16 development environment on Windows using WSL and Ubuntu 24.04. This guide covers Python, Node.js, MariaDB, Redis, Bench, ERPNext installation, and all required dependencies. Reyn Retail Application : Reyn Retail is a Flutter and ERPNext-powered mobile application that simplifies retail sales, inventory checks, and customer account management. It enables users to create Sales Orders, track outstanding payments, and download business documents anytime, anywhere. Step-by-Step ERPNext Implementation for Retail Businesses : Learn how retail businesses can implement ERPNext step by step using the ERPNext Starter Pack. Covers POS, inventory, accounting, purchases, pricing, reporting, and go-live planning. ERPNext vs SAP Business One: A Practical Comparison for Growing Businesses : Choosing an ERP is not just a software decision. It affects how your finance team closes books, how your warehouse controls stock, how your sales team follows up ReynScanner : ReynScanner is a Flutter-based mobile application that integrates with ERPNext to automate lead creation using OCR-powered business card scanning. It enables users to scan, upload, or manually enter lead details and instantly create ERPNext leads. Zoho ERP vs ERPNext: Real Comparison for SMBs : Compare Zoho ERP and ERPNext for SMBs based on pricing, modules, inventory, accounting, manufacturing, customization, scalability, implementation, and long-term ownership. Why SMBs Should Choose ERPNext Over Odoo | ERPNext vs Odoo Comparison : Introduction: Choosing the Right ERP Is a Business Decision Reyn OPS : Discover how Reyn OPS leverages AI and ERPNext to analyze operational events, generate actionable insights, automate task management, and improve organizational performance with real-time intelligence Reyn Workflow Application : Reyn Workflow Application brings ERPNext workflow approvals to Android and iOS with real-time notifications and secure integration. It helps businesses streamline approvals, improve productivity, and make faster decisions from anywhere. BrassERP : Simplifies manufacturing operations with a Flutter mobile app seamlessly integrated with ERPNext. It e",
+   "email_candidates": [
+    {
+     "email": "sagar@midocean.tech",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "business@midocean.tech",
+     "where": "https://www.midocean.tech/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "3188eb04f4-ref",
+   "company": "Midocean Technologies Pvt Ltd",
+   "website": "https://www.midocean.tech",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "ERPNext Implementation and Development Company | Frappe, Python, Flutter. Languages: JavaScript, Python. Topics: automation, erpnext, flutter, frappe, workflow",
+   "site_text": "[https://www.midocean.tech/]\nMidocean | ERPNext, Frappe & AI Technology Partner ERPNext, Odoo & AI workflow engineering Midocean | ERPNext, Frappe & Odoo Technology Partner We map workflows, configure standard databases, customize apps, and build AI integrations for modern manufacturing, trading, and services enterprises. Book Discovery Call View Services Core service offerings ERPNext implementation: end-to-end blueprinting, setup, and hypercare support. Frappe custom engineering: upgrade-safe custom portal and API development. Odoo implementation: Python/XML development and rescue support. AI workflow automation: connecting autonomous AI agents to your ERP databases. Related ERPNext resources ERPNext services ERPNext consultant ERPNext Starter Pack ERPNext Success Pack Case studies ERPNext blog Contact Midocean\n\n[https://www.midocean.tech/contact?source=homepage]\nContact Midocean Technologies Contact ERPNext implementation, Frappe custom apps, AI workflows, integrations, and dedicated ERP teams for modern enterprises. Contact Midocean Related ERPNext resources ERPNext services ERPNext consultant ERPNext Starter Pack ERPNext Success Pack Case studies ERPNext blog Contact Midocean\n\n[https://www.midocean.tech/blog]\nERPNext, Frappe & AI Insights | Midocean Blog Midocean Blog ERPNext, Frappe and AI insights Read ERPNext implementation guidance, Frappe engineering notes, AI workflow ideas, and practical business system articles from Midocean Technologies. Latest published items How \"Redis\" Makes ERPNext Faster!! : Discover how Redis significantly improves ERPNext performance by reducing database load, accelerating page rendering, processing background jobs efficiently, and enabling real-time communication. How to Set Up Frappe Development Environment on Windows : Learn how to install and configure the complete Frappe v16 development environment on Windows using WSL and Ubuntu 24.04. This guide covers Python, Node.js, MariaDB, Redis, Bench, ERPNext installation, and all required dependencies. Reyn Retail Application : Reyn Retail is a Flutter and ERPNext-powered mobile application that simplifies retail sales, inventory checks, and customer account management. It enables users to create Sales Orders, track outstanding payments, and download business documents anytime, anywhere. Step-by-Step ERPNext Implementation for Retail Businesses : Learn how retail businesses can implement ERPNext step by step using the ERPNext Starter Pack. Covers POS, inventory, accounting, purchases, pricing, reporting, and go-live planning. ERPNext vs SAP Business One: A Practical Comparison for Growing Businesses : Choosing an ERP is not just a software decision. It affects how your finance team closes books, how your warehouse controls stock, how your sales team follows up ReynScanner : ReynScanner is a Flutter-based mobile application that integrates with ERPNext to automate lead creation using OCR-powered business card scanning. It enables users to scan, upload, or manually enter lead details and instantly create ERPNext leads. Zoho ERP vs ERPNext: Real Comparison for SMBs : Compare Zoho ERP and ERPNext for SMBs based on pricing, modules, inventory, accounting, manufacturing, customization, scalability, implementation, and long-term ownership. Why SMBs Should Choose ERPNext Over Odoo | ERPNext vs Odoo Comparison : Introduction: Choosing the Right ERP Is a Business Decision Reyn OPS : Discover how Reyn OPS leverages AI and ERPNext to analyze operational events, generate actionable insights, automate task management, and improve organizational performance with real-time intelligence Reyn Workflow Application : Reyn Workflow Application brings ERPNext workflow approvals to Android and iOS with real-time notifications and secure integration. It helps businesses streamline approvals, improve productivity, and make faster decisions from anywhere. BrassERP : Simplifies manufacturing operations with a Flutter mobile app seamlessly integrated with ERPNext. It e",
+   "email_candidates": [
+    {
+     "email": "bhavesh.m@midocean.tech",
+     "where": "GitHub commits (Midocean-Technologies)",
+     "kind": "personal",
+     "name": "Bhavesh Mahavar",
+     "commits": 28
+    },
+    {
+     "email": "twinkle.patel@midocean.tech",
+     "where": "GitHub commits (Midocean-Technologies)",
+     "kind": "personal",
+     "name": "TwinkleMT",
+     "commits": 1
+    },
+    {
+     "email": "sudeshkakran999@gmail.com",
+     "where": "GitHub commits (Midocean-Technologies)",
+     "kind": "personal",
+     "name": "Anju1207",
+     "commits": 10
+    },
+    {
+     "email": "komal.chavda@midocean.tech",
+     "where": "GitHub commits (Midocean-Technologies)",
+     "kind": "personal",
+     "name": "komalchavda",
+     "commits": 2
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "b247672a79",
+   "company": "Atyantik",
+   "website": "https://atyantik.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Vadodara, Gujarat, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Delivering Excellence | Code. Innovate. Deliver | Open Source Contributor. Languages: HTML, JavaScript, Jinja, TypeScript. Topics: boilerplate, boilerplate-template, cloudflare, cloudflare-pages, cloudflare-workers, dx, web",
+   "site_text": "[https://atyantik.com/]\nCustom & Enterprise Software Development Company | Atyantik Skip to content Your Software Partner. Obsessed With Perfection. From launch to scale, we design and deliver custom software for SMEs and enterprises, reliable and ready for growth. Atyantik means Ultimate. We help founders, product leaders, and global teams turn ideas into software that works. We deliver platforms that go live on time, grow with the business, and fund the research firm we are building. Talk to a real software engineer Explore Our Work How We Build and Scale Software, and How You Can Check It Four commitments, in the order you meet them. Each one names something you can verify before you sign anything. 01 Fast Starts. Confident Launches. Every engagement opens with a written requirements pack and milestones with documented exit criteria. Re-scopes become priced change notes you sign before any code moves. Nothing enters the plan on a re-scope you have not signed, in writing. 02 Built to Scale from Day One. Architecture decisions are written into a Technical Requirements Specification you own, with the reasoning, so a software engineer reading the system years later knows why it is shaped that way. The TRS ships to you as a deliverable. Ask to see a redacted one on the first call. 03 Software Engineering You Can Rely On. Reviewed by a senior software engineer, gated by CI before merge. We build to the controls your SOC 2, GDPR, and HIPAA auditors test. Those certificates are yours, not ours to imply. Any supplier implying they hold those certificates is worth a second question. 04 Real People. Real Partnership. You get a named lead software engineer, no rotation and no ticket queue. Repositories and cloud accounts are in your name from day one, so leaving is a handover, not a negotiation. The exit handover is documented from day one. No client has yet needed to use it. 10+ Years Longest continuously active engagement Measured from engagement start date, client register. 50+ Enterprise-ready products delivered Counted from delivered production systems, 2015 onward. 7 Countries we deliver into Counted from billing jurisdictions on active and closed engagements. How We Help You Move Forward Build & Launch From raw idea to revenue-ready product, we design, build, and deploy platforms that move fast without breaking later. Whether it is your first Minimum Viable Product or your third pivot, we architect for agility, not guesswork. Start lean, launch fast, and scale with clarity. Design & Experience Interfaces matter, not just how they look but how they load and perform under real-world use. We build frontends that meet WCAG 2.2 by default, are SEO-optimized, and fast on every device. Higher compliance targets are supported on request. From a marketing site to an enterprise platform, we apply the same discipline. Scale & Optimize Growth brings pressure, and pressure breaks brittle systems. We strengthen your infrastructure, refactor unstable backends, and build pipelines that target 98-99% uptime under normal operating conditions. Cloud-provider outages sit outside our scope. Everything within it is our responsibility. Security, performance, and reliability are engineered in, not bolted on. Real Stories. Real Results. Founders and operators, in their own words. âEven with our own in-house team, Atyantik is a virtual extension of it. Dedicated, responsive, and they never miss a beat.â - Bob Melian, President, FoxDealer âSix years in, Atyantik is a true partner. They turned an idea we were not sure was possible into the best optical inventory solution in the business.â - Darla Shewmaker & Doug Johnson, WaveRFID âAtyantik thinks beyond the original scope, solving problems before they happen and building for scale.â - Vanessa, Mark & Jade, Drop Delivery âAtyantik brought the platform I had in my head to life, and made me feel genuinely valued along the way.â - Tanique Van Dijk, Founder, Luxe Global Awards âThe most excep",
+   "email_candidates": [
+    {
+     "email": "contact@atyantik.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "hr@atyantik.com",
+     "where": "https://atyantik.com/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "b247672a79-ref",
+   "company": "Atyantik",
+   "website": "https://atyantik.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Vadodara, Gujarat, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Delivering Excellence | Code. Innovate. Deliver | Open Source Contributor. Languages: HTML, JavaScript, Jinja, TypeScript. Topics: boilerplate, boilerplate-template, cloudflare, cloudflare-pages, cloudflare-workers, dx, web",
+   "site_text": "[https://atyantik.com/]\nCustom & Enterprise Software Development Company | Atyantik Skip to content Your Software Partner. Obsessed With Perfection. From launch to scale, we design and deliver custom software for SMEs and enterprises, reliable and ready for growth. Atyantik means Ultimate. We help founders, product leaders, and global teams turn ideas into software that works. We deliver platforms that go live on time, grow with the business, and fund the research firm we are building. Talk to a real software engineer Explore Our Work How We Build and Scale Software, and How You Can Check It Four commitments, in the order you meet them. Each one names something you can verify before you sign anything. 01 Fast Starts. Confident Launches. Every engagement opens with a written requirements pack and milestones with documented exit criteria. Re-scopes become priced change notes you sign before any code moves. Nothing enters the plan on a re-scope you have not signed, in writing. 02 Built to Scale from Day One. Architecture decisions are written into a Technical Requirements Specification you own, with the reasoning, so a software engineer reading the system years later knows why it is shaped that way. The TRS ships to you as a deliverable. Ask to see a redacted one on the first call. 03 Software Engineering You Can Rely On. Reviewed by a senior software engineer, gated by CI before merge. We build to the controls your SOC 2, GDPR, and HIPAA auditors test. Those certificates are yours, not ours to imply. Any supplier implying they hold those certificates is worth a second question. 04 Real People. Real Partnership. You get a named lead software engineer, no rotation and no ticket queue. Repositories and cloud accounts are in your name from day one, so leaving is a handover, not a negotiation. The exit handover is documented from day one. No client has yet needed to use it. 10+ Years Longest continuously active engagement Measured from engagement start date, client register. 50+ Enterprise-ready products delivered Counted from delivered production systems, 2015 onward. 7 Countries we deliver into Counted from billing jurisdictions on active and closed engagements. How We Help You Move Forward Build & Launch From raw idea to revenue-ready product, we design, build, and deploy platforms that move fast without breaking later. Whether it is your first Minimum Viable Product or your third pivot, we architect for agility, not guesswork. Start lean, launch fast, and scale with clarity. Design & Experience Interfaces matter, not just how they look but how they load and perform under real-world use. We build frontends that meet WCAG 2.2 by default, are SEO-optimized, and fast on every device. Higher compliance targets are supported on request. From a marketing site to an enterprise platform, we apply the same discipline. Scale & Optimize Growth brings pressure, and pressure breaks brittle systems. We strengthen your infrastructure, refactor unstable backends, and build pipelines that target 98-99% uptime under normal operating conditions. Cloud-provider outages sit outside our scope. Everything within it is our responsibility. Security, performance, and reliability are engineered in, not bolted on. Real Stories. Real Results. Founders and operators, in their own words. âEven with our own in-house team, Atyantik is a virtual extension of it. Dedicated, responsive, and they never miss a beat.â - Bob Melian, President, FoxDealer âSix years in, Atyantik is a true partner. They turned an idea we were not sure was possible into the best optical inventory solution in the business.â - Darla Shewmaker & Doug Johnson, WaveRFID âAtyantik thinks beyond the original scope, solving problems before they happen and building for scale.â - Vanessa, Mark & Jade, Drop Delivery âAtyantik brought the platform I had in my head to life, and made me feel genuinely valued along the way.â - Tanique Van Dijk, Founder, Luxe Global Awards âThe most excep",
+   "email_candidates": [
+    {
+     "email": "tirthbodawala@atyantik.com",
+     "where": "GitHub commits (Atyantik)",
+     "kind": "personal",
+     "name": "Tirth Bodawala",
+     "commits": 78
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "b048e57023",
+   "company": "GoComet",
+   "website": "https://gocomet.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Java, Python",
+   "site_text": "[https://www.gocomet.com/]\nAI-Powered Supply Chain Visibility & Automation Software Platform The Platform The AI-Native Adaptive Platform for Global Trade. We map your exact process and run it end to end. Live in weeks. See a process-fit demo → How it works Nova: the engine that maps your exact process and runs it. One architecture connecting your products, your AI agents, your data, and your off-platform partners into a single adaptive workflow. Explore Nova Architecture → AI Agents Incident Lens 24/7 monitoring of shipments, ports, and global events, with alerts mapped to your SLA exposure. Viera Conversational analytics that answers in plain language with context, impact, and the next step. GoVista Inbox-native agent that reads, classifies, and actions every shipment email the moment it arrives. Explore AI Agents → Products Planning Control Define what needs to move, and when. Rate Control Test every rate before you award freight. Compliance Control Clear customs and documents without the scramble. Movement Control Track what needs attention across every leg. Disruption Control Connect disruption signals with exposed freight. Payment Control Check billed charges against your contracts. Explore the product portfolio → Solutions Challenges Reduce supply chain costs Manage supply chain spend to enhance profitability Improve customer experience Deliver accurate data and timely shipments Enable data-driven decisions Enhance resilience with crucial data insights Sustainability and ESG Goals Track and manage freight carbon emissions Industries Pharmaceuticals Automotive Chemicals FMCG Contact Us → Market Intelligence Container Tracking Gain real-time visibility of all shipments on a single dashboard Cargo Tracking Maintain real-time control of cargo movements through one view LSP Database World's most reliable repository of freight forwarders for all needs GoComet Freight Index Obtain benchmark freight rates instantly Lead Time Benchmark Obtain the most accurate transit time of all carriers Smart Schedules Get accurate sailing schedules and reliability analysis of all carriers Port Congestion Access live port congestion status and estimate shipment delays AI Workers Workers that watch, act and follow up before your team has to. See all carriers → Contact Us → Insights Customer Spotlight Witness remarkable transformations with our success stories Compare GoComet Explore logistics nuances and dive into supply chain innovations Top 10 Softwares Best Tracking Software Top 10 Logistics management Software Industry Reports Gain a competitive edge with actionable insights and trends Sustainability Embark your sustainability journey with us towards a greener future Blogs Discover innovative strategies in global transport and commerce on our blog Logistics Service Providers Connect orders, shipments, exceptions and customer operations across the systems you already use. Contact Us → Company About Us Who we are and what we do. Find the undeniable reasons to choose us. Contact Us Get unparalleled visibility across your supply chain now Media Coverage GoComet in the news. Check what the buzz is all about Partners Build your freight practice on our AI-native trade platform Careers Join our dynamic team and take your career to new heights Events Curated rooms, sharp minds, real supply chain talk Sign in Book a demo The Platform The AI-Native Adaptive Platform for Global Trade. We map your exact process and run it end to end. Live in weeks. See a process-fit demo → How it works Nova: the engine that maps your exact process and runs it. One architecture connecting your products, your AI agents, your data, and your off-platform partners into a single adaptive workflow. Explore Nova Architecture → AI Agents Orchestrated by Nova. Grounded in your data. Not chatbots. Evidence-backed engines embedded in your workflow. Incident Lens 24/7 monitoring of shipments, ports, and global events, with alerts mapped to your SLA exposure. Viera Conversational ana",
+   "email_candidates": [
+    {
+     "email": "info@gocomet.com",
+     "where": "https://www.gocomet.com/blog/top-10-supply-chain-visibility-software/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "273280fa80",
+   "company": "Sparkout Tech Solutions",
+   "website": "https://www.sparkouttech.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Sparkout Tech Solution is a top-notch product and service company skilled in Blockchain, Mobile Apps, AI, ML, ERP-CRM, AR-VR-MR.. Languages: HTML, JavaScript, PHP. Topics: angular, angular-client-logger, error-handling, error-tracking, ngx",
+   "site_text": "[https://www.sparkouttech.com/]\nAI Agent & Cross Platform Development Company | Sparkout Tech Solutions Top AI Agent Development Company Automation That Fuels Real Results We built intelligent AI agents to eliminate repetitive tasks, boost productivity by 35%, reduce manual work, and effortlessly scale your business with confidence. Expolre to AI Agent development page Learn More Digital Transformation Driving Innovation Forward Sparkout Tech is an custom software development company that helps businesses of all sizes digitally transform their operations. Take a step towards the future with us. Discover More Blockchain Technology Robust Decentralized Solutions As early adopters of Blockchain and Smart Contracts, we founded BlockchainX. Access experts with experience in DeFi and Enterprise Blockchain Solutions. Get in touch Product Traceability TransGenie - Simplified Traceability for Businesses Explore our latest product that allows businesses to track and trace each point in their product's journey, while complying with industry regulations and quality assurance protocols. Know more AI Solutions Intelligent Solutions For Businesses We can help you build scalable applications using the latest technological advancements in Artificial Intelligence and Machine Learning, with end to end guidance from our experts. Explore now News Sparkout's US Expansion After over half a decade of off-shore service in the region, we have successfully entered the US as Sparkout Tech Solutions, Inc. Browse More Recognition & Excellence Featured in The Economic Times Sparkout Tech Solutions is proud to be featured in The Economic Times . Our venture, BlockchainX , was honored with the \"Web3 Startup of the Year\" award, reflecting our commitment to driving innovation in decentralized technologies. About us The Story of Sparkout Tech Solutions A passionate team with a relentless drive to build and innovate We are an enterprise software development company with its genesis in 2017, with 4 founders with a passion to build. This drive has helped us transform businesses around the world with the right tech, including our own. 01 9+ Years of Excellence in Innovation We empower businesses around the world with the right tech, with experience in building complex software solutions 02 150+ Clients All Over the World Our strong focus on premium customer experience has allowed us to serve hundreds of businesses globally. 03 100+ Experts in Multiple Domains We are a team of 100+ happy professionals with experts in multiple tech stacks and industry use cases. 04 240+ Projects in Delivered Globally Our loyal clientele is the result of the quality of services and products that we deliver, on time every time. Case Study Building Technology Products that Impact Lives Delve into our case studies to see how we have transformed businesses globally with innovative tech solutions, delivering exceptional customer experiences. View case study Plan, Book, and Explore with Our AI Travel Chatbot Effortlessly discover destinations, book trips, and get real-time travel assistance with our AI-powered chatbot. Enjoy seamless planning, personalized recommendations, and instant support. Philippines Country AI Agent BotPress Platform Travel Industry Unlocking Global Mining Opportunities with Smart Solutions Discover, evaluate, and acquire global mining opportunities with unparalleled ease, transparency, efficiency, security, scalability, accuracy, reliability, sustainability, speed, and innovation. Country (Australia) Platform - Web & Mobile Apps Industry - Mining Elevate Your Talent Acquisition with a Digital Twin Recruiter Deploy AI agents with Conversational Video Interface (CVI) for seamless interaction, engagement, automation, intelligence, efficiency, scalability, and personalization. Country (USA) Advanced Analytics AI Avatars, CVI, Sentiment Analysis The world's first Blockchain Platform for Farmers Farmer-centric platform helping individuals across the world access agricultura",
+   "email_candidates": [
+    {
+     "email": "contact@sparkouttech.com",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "career@sparkouttech.com",
+     "where": "https://www.sparkouttech.com/",
+     "kind": "hiring"
+    },
+    {
+     "email": "name@gmail.com",
+     "where": "https://www.sparkouttech.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "yokesh@sparkouttech.com",
+     "where": "https://www.sparkouttech.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "contact@codespotfoundation.org",
+     "where": "https://www.sparkouttech.com/contact-us/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "273280fa80-ref",
+   "company": "Sparkout Tech Solutions",
+   "website": "https://www.sparkouttech.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Sparkout Tech Solution is a top-notch product and service company skilled in Blockchain, Mobile Apps, AI, ML, ERP-CRM, AR-VR-MR.. Languages: HTML, JavaScript, PHP. Topics: angular, angular-client-logger, error-handling, error-tracking, ngx",
+   "site_text": "[https://www.sparkouttech.com/]\nAI Agent & Cross Platform Development Company | Sparkout Tech Solutions Top AI Agent Development Company Automation That Fuels Real Results We built intelligent AI agents to eliminate repetitive tasks, boost productivity by 35%, reduce manual work, and effortlessly scale your business with confidence. Expolre to AI Agent development page Learn More Digital Transformation Driving Innovation Forward Sparkout Tech is an custom software development company that helps businesses of all sizes digitally transform their operations. Take a step towards the future with us. Discover More Blockchain Technology Robust Decentralized Solutions As early adopters of Blockchain and Smart Contracts, we founded BlockchainX. Access experts with experience in DeFi and Enterprise Blockchain Solutions. Get in touch Product Traceability TransGenie - Simplified Traceability for Businesses Explore our latest product that allows businesses to track and trace each point in their product's journey, while complying with industry regulations and quality assurance protocols. Know more AI Solutions Intelligent Solutions For Businesses We can help you build scalable applications using the latest technological advancements in Artificial Intelligence and Machine Learning, with end to end guidance from our experts. Explore now News Sparkout's US Expansion After over half a decade of off-shore service in the region, we have successfully entered the US as Sparkout Tech Solutions, Inc. Browse More Recognition & Excellence Featured in The Economic Times Sparkout Tech Solutions is proud to be featured in The Economic Times . Our venture, BlockchainX , was honored with the \"Web3 Startup of the Year\" award, reflecting our commitment to driving innovation in decentralized technologies. About us The Story of Sparkout Tech Solutions A passionate team with a relentless drive to build and innovate We are an enterprise software development company with its genesis in 2017, with 4 founders with a passion to build. This drive has helped us transform businesses around the world with the right tech, including our own. 01 9+ Years of Excellence in Innovation We empower businesses around the world with the right tech, with experience in building complex software solutions 02 150+ Clients All Over the World Our strong focus on premium customer experience has allowed us to serve hundreds of businesses globally. 03 100+ Experts in Multiple Domains We are a team of 100+ happy professionals with experts in multiple tech stacks and industry use cases. 04 240+ Projects in Delivered Globally Our loyal clientele is the result of the quality of services and products that we deliver, on time every time. Case Study Building Technology Products that Impact Lives Delve into our case studies to see how we have transformed businesses globally with innovative tech solutions, delivering exceptional customer experiences. View case study Plan, Book, and Explore with Our AI Travel Chatbot Effortlessly discover destinations, book trips, and get real-time travel assistance with our AI-powered chatbot. Enjoy seamless planning, personalized recommendations, and instant support. Philippines Country AI Agent BotPress Platform Travel Industry Unlocking Global Mining Opportunities with Smart Solutions Discover, evaluate, and acquire global mining opportunities with unparalleled ease, transparency, efficiency, security, scalability, accuracy, reliability, sustainability, speed, and innovation. Country (Australia) Platform - Web & Mobile Apps Industry - Mining Elevate Your Talent Acquisition with a Digital Twin Recruiter Deploy AI agents with Conversational Video Interface (CVI) for seamless interaction, engagement, automation, intelligence, efficiency, scalability, and personalization. Country (USA) Advanced Analytics AI Avatars, CVI, Sentiment Analysis The world's first Blockchain Platform for Farmers Farmer-centric platform helping individuals across the world access agricultura",
+   "email_candidates": [
+    {
+     "email": "praveen@sparkouttech.com",
+     "where": "GitHub commits (sparkouttech)",
+     "kind": "personal",
+     "name": "praveensparkout",
+     "commits": 2
+    },
+    {
+     "email": "mohan@sparkouttech.com",
+     "where": "GitHub commits (sparkouttech)",
+     "kind": "personal",
+     "name": "mohanrajcse96",
+     "commits": 13
+    },
+    {
+     "email": "gotocva@gmail.com",
+     "where": "GitHub commits (gotocva)",
+     "kind": "personal",
+     "name": "Sivabharathy K P",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "leads": [
+  {
+   "id": "caa225f561",
+   "company": "Isourse",
+   "website": "https://isourse.com",
+   "title": "Backend Development Internship",
+   "location": "Delhi",
+   "source": "internshala",
+   "posted_at": "2026-09-09T05:45:20Z",
+   "posting": "About the internship Selected intern's day-to-day responsibilities include: 1. Develop and maintain RESTful APIs using Node.js/NestJS. 2. Manage and optimize databases using MongoDB and SQL with strong focus on stored procedures and performance tuning. 3. Collaborate with frontend teams to ensure seamless integration and responsive application behaviour. 4. Write clean, modular code with appropriate testing (unit/integration). 5. Ensure secure, scalable, and high-performing backend systems. Skill(s) required APIs Express.js JSON MERN MS SQL Server Next.js Node.js REST API SQL Earn certifications in these skills Learn MS SQL Server Learn Node.JS Learn SQL Who can apply Only those candidates can apply who: 1. are available for full time (in-office) internship 2. can start the internship between 29th Aug'26 and 19th Oct'26 3. are available for duration of 6 months 4. have relevant skills and interests * Women wanting to start/restart their career can also apply. Other requirements 1. Proficiency in Node.js, MongoDB, and stored procedures (TSQL). 2. Strong understanding of JavaScript and JSON-based APIs. 3. Experience with schema design, indexing, and query optimisation. 4. Ability to work in a collaborative, fast-paced environment. 5. Candidates must hold a passed degree in BE/BTech/BSc (or equivalent) in computer science, electronics, electrical, mechanical, or related fields from a reputed institute. 6. A minimum of 85% marks throughout the academic career (10th, 12th, and graduation) is mandatory. Only candidates meeting this academic benchmark will be considered. Perks Certificate Letter of recommendation Job offer Additional information Job offer: On successful conversion to a permanent employee, the candidate can expect a salary of ₹ 450000 to 600000/year Number of openings 1 About Isourse Isourse is a tech startup providing comprehensive solutions to customers across their tech and infrastructure needs, primarily in the supply chain, logistics, and e-fulfillment",
+   "site_text": "[https://www.isourse.com/]\nIsourse Technologies - Connected Operations & Supply Chain AI Home Products Services Who We Are Careers AlgosQuest Book a free audit India's only end-to-end warehouse tech & network audit platform Run your supply chain on systems that think ahead Workforce, intelligence, and infrastructure â one platform built for India's fulfilment economy. From gig staffing to plain-language BI to facility audits, Isourse keeps operations moving before disruptions land. Book a Demo 3P EC D2 + Trusted by 3PLs, e-commerce & D2C operators across 120+ facilities GenBI Â· live workspace Which site will miss S GenBI answer Â· 0.8s 46% Bhiwandi 64% Gurugram 88% Hyderabad 58% Kolkata 71% Chennai Hyderabad is trending 24% above forecast â staffing gap flagged. Fix it â â35% network downtime after audit fixes 4,800+ verified gig workers deployed this quarter 0 cr Gig workers in India by 2030 â the market we power 0 + Facilities planned, engineered or audited 0 % Average downtime reduced after network fixes 0 hrs Audit-to-report turnaround, guaranteed Powering fulfilment for teams across India E-COMMERCE LEADERS 3PL NETWORKS D2C BRANDS QUICK COMMERCE MANUFACTURING COLD CHAIN E-COMMERCE LEADERS 3PL NETWORKS D2C BRANDS QUICK COMMERCE MANUFACTURING COLD CHAIN Products Six engines. One connected operation. Each product stands alone; together they close the loop between people, operations, and the economy itself. GigOrbit Three stakeholders. One orbit. Logistics companies, manpower vendors and blue-collar workers move in sync on one platform. Companies: live headcount and AI-verified audits at every site Vendors: win enterprise demand with 1.3M+ gig workers Workers: a verified record, with every day worked paid Explore GigOrbit NEW Gen BI Most BI tools build dashboards for engineers. Gen BI builds answers for everyone. Unified data: every stream, database and document in one source of truth Plain-language answers: no SQL, no tickets, no waiting Proactive AI: builds reports, flags anomalies, forecasts what's next Explore Gen BI Magnetiq Magnetiq doesn't just manage leads. It creates them, with two layers of intelligence on top. Leads generated automatically into a single AI-built pool Every lead prioritized in real time, with Product Fit Mapping Agentic Contact Discovery + WhatsApp & Email Outreach, until the meeting is secured Explore Magnetiq Adaptive HRMS AI-Powered HRMS for Smarter Hiring, Sharper Performance & Stronger Retention. Hire with precision: JD-matched ranking & blind assessments Lead with insight: KRAs, 360Â° reviews & live 9-box grid Compliance built in: PF, ESI, PT & TDS calculated automatically Explore Adaptive HRMS BharatCGE India's first indigenously built Computable General Equilibrium model in 75 years â policy impact answers in minutes, not months. Built on Indian data, for Indian policy questions AI-guided scenario building â no PhD required to run one Month-long analyses delivered in minutes to hours Explore BharatCGE Logistics Suite WMS inside the building, TMS between buildings, aggregation to pick every carrier. WMS â waves, picking & inventory accuracy TMS â routes, fleet & freight cost control Aggregation â best carrier per shipment Explore Logistics Suite Tech-enabled services From blueprint to uptime, our engineers own it. Software is only half the story. Isourse field teams design, audit, and maintain the physical layer your operation runs on â the part most SaaS vendors never touch. Book a Demo 01 Planning & engineering Greenfield facility design, layout simulation, MHE selection, and Industry 4.0 infra planning â from ideation to go-live. 02 Electrical audit FIRST SITE FREE Load analysis, safety compliance, and energy-efficiency scoring that typically pays for itself within a quarter. 03 WiFi & network audit FIRST SITE FREE India's only end-to-end network auditing solution â heat-mapping dead zones, RF interference, and device roaming failures on live floors. 04 Managed I",
+   "email_candidates": [],
+   "pay": {
+    "max": 25001,
+    "min": 25000,
+    "period": "month"
+   },
+   "priority": 1,
+   "priority_note": "Delhi · ₹25,001/mo",
+   "referral": false
+  },
+  {
+   "id": "a09a68f2e9",
+   "company": "Namekart",
+   "website": "http://namekart.com",
+   "title": "Software Development Internship",
+   "location": "Noida, Faridabad, Delhi, Ghaziabad, Gurgaon, Greater Noida (Hybrid)",
+   "source": "internshala",
+   "posted_at": "2026-09-15T05:52:12Z",
+   "posting": "About the internship As a Software Development (AI Systems) intern at Namekart, you will have the opportunity to work with cutting-edge technologies. We are building Agentic AI products AI systems that can reason, plan, and act across tools and workflows. As an intern, you will work on real-world AI applications in production, not just demos or prototypes. You'll build and ship systems end-to-end, spanning frontend, backend, AI orchestration, and deployment. Day-to-day responsibilities: Build agentic AI systems: multi-agent workflows, tool-calling pipelines, and autonomous/human-in-the-loop systems Work with LLM APIs (OpenAI, Anthropic Claude) and frameworks like LangChain and LangGraph Implement prompt engineering, function calling, RAG pipelines, and memory/context systems Develop full stack applications: frontend dashboards and chat interfaces (React/Next.js) and backend APIs with async processing (Node.js/NestJS/FastAPI/Spring Boot) Set up and manage CI/CD pipelines and deployments using Docker, Coolify, and cloud platforms (AWS/GCP/Vercel) Integrate AI systems with real-world tools: APIs, WhatsApp, Slack, and CRM platforms Use AI-native development tools (Claude Code, OpenAI Codex, Cursor, Antigravity) to accelerate development and debugging Skill(s) required Database Management System (DBMS) DevOps Docker FastAPI Java JavaScript LangChain LLM evaluation LLMOps Next.js Node.js Python React REST API Spring Boot TypeScript Earn certifications in these skills Learn Java Learn Node.JS using Javascript Learn Software Testing using Javascript Learn LLMOps Learn Node.JS Learn Python Learn ReactJS Who can apply Only those candidates can apply who: 1. are available for full time (in-office) internship 2. can start the internship between 14th Sep'26 and 19th Oct'26 3. are available for duration of 6 months 4. have relevant skills and interests Other requirements Additional Skills: • Vector Databases (Pinecone, Weaviate), WebSockets/Streaming • Prior demonstrable work on ",
+   "site_text": "[https://namekart.com/]\nDomain Acquisitions & Brand Protection - namekart.com Secure your perfect domain Hey, we’re Namekart! Crafting brands, nurturing stories Amplify your brand with a premium domain and safeguard your online presence! Elevate your brand We’ve worked with over 8000+ clients around the world About Namekart From stealth domain acquisitions to smart brand protection, we’ve got your back Founded in 2012, Namekart has been helping dreamers, doers, and disruptors grab the perfect domain names and protect what matters most—their brand . Whether you’re launching something new or leveling up, we’re here to make it happen. We’re committed to making the extraordinary happen. With Namekart, you’re not just buying a domain—you’re partnering with a team committed to elevating your brand’s authority and visibility. 13 Years of experience 8000 Satisfied clients Our Services Services tailored for future needs Navigating the ever-changing world of domains, our services are built to put your brand front and center—online and unforgettable. Domain Acquisition & Brokerage Got your eye on the perfect domain? We’ll go undercover, negotiate like pros, and secure it— all in stealth mode. Learn More Brand Protection & Domain Management Don’t just build a brand— protect it. We help you lock down your online identity and stay in control. Learn More Strategic Domain Advisory Not sure what your domain strategy should be? We guide you with data-backed insights, pricing trends, and smart naming moves. Learn More Naming & Digital Identity Solutions Launching something new or rebranding? We help you find names that are catchy, clean, and clever. Learn More Selected works Our success in symphonies Web Admin Booking.com – A Domain Name that Defined an Industry The internet has transformed the way we book travel accommodations. Booking.com is […] View Case Study Web Admin Hotels.com – The Strategic Evolution of a Domain Name In the digital age, domain names have become valuable assets for businesses […] View Case Study Web Admin Chat.com – A Testament to Domain Potential In the world of premium domain names, one acquisition has recently taken […] View Case Study What our clients said Alice Smith, Founder \"We had our eye on a premium domain for months but didn’t know how to approach the owner. Namekart swooped in, worked their magic behind the scenes, and got us the deal without overpaying. Total pros.\" John D, Head of Branding \"Our rebrand hinged on securing one domain—and Namekart made it happen. Their negotiation skills, market knowledge, and no-fluff approach were exactly what we needed.\" Maria Mak, Web Expert \"Namekart stands out—not just for their expertise, but for how easy and transparent they make the entire process. Our go-to team for premium domains.\" Confidential, VC-backed Tech Startup \"We needed to acquire a high-value domain quietly, and Namekart nailed it. They kept everything under wraps, handled every detail, and delivered the domain without raising any red flags. Worth every penny.\" Our Process The rythm of our workflow We believe in a systematic approach to domain acquisition. Our methodical process ensures we capture the essence of your brand, understanding its core values and tailoring a unique strategy to acquire the domain name. Learn More process Discovery Tell us your goals, ideas, and challenges—private or public—we listen and learn. Strategy Composing a tailored roadmap, whether it’s a discreet acquisition, a domain portfolio review, or brand protection plan. Execution From stealth outreach to closing the deal—we handle it all while you stay in the loop, stress-free. Launch You walk away with the perfect domain—and a brand identity that’s ready to shine online. Our Pricing Infinite solutions within your budget Choose from our tailored packages that cater to diverse needs, ensuring you get maximum value without compromise on quality Acquisition & Advisory Stealth Domain Acquisitions Expert Negotiation Valuation & Prici",
+   "email_candidates": [],
+   "pay": {
+    "max": 25000,
+    "min": 20000,
+    "period": "month"
+   },
+   "priority": 1,
+   "priority_note": "Gurgaon · ₹25,000/mo",
+   "referral": false
+  },
+  {
+   "id": "8718d9b03e",
+   "company": "DecisionStats",
+   "website": "http://decisionstats.org/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Hauz Khaz, New Delhi",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Data Science Consulting and Analytics. Languages: Jupyter Notebook",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "sarahmasud02@gmail.com",
+     "where": "GitHub member (Decision-Stats) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Sarah Masud",
+     "role": "Engineer"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "e8cea6f22a",
+   "company": "Infrasys Limited",
+   "website": "https://www.infrasys.tech",
+   "title": "Artificial Intelligence (AI) Internship",
+   "location": "Gurgaon",
+   "source": "internshala",
+   "posted_at": null,
+   "posting": "About the internship As an AI intern at Infrasys Limited, you will have the opportunity to work on cutting-edge projects in the fields of Machine Learning, Neural Networks, Data Science, Natural Language Processing (NLP), and Deep Learning. You will be part of a dynamic team from Top Tier Engineering and Management Colleges. Selected intern's day-to-day responsibilities include: 1. Collaborating with senior AI engineers to develop and implement machine learning algorithms. 2. Analyzing large datasets to extract meaningful insights and patterns. 3. Building and training neural networks for various AI applications. 4. Working on NLP tasks such as sentiment analysis and language translation. 5. Optimizing data structures and algorithms for efficient AI processing. 6. Writing clean and efficient Python code for AI models and applications. 7. Researching and implementing state-of-the-art AI techniques to enhance our products and services. If you are passionate about AI and eager to learn and grow in a fast-paced environment, this internship is perfect for you. Skill(s) required Artificial intelligence Data Science Data Structures Deep Learning Machine Learning Natural Language Processing (NLP) Neural Networks Python Earn certifications in these skills Learn Artificial intelligence Learn Data Science Learn Data Structures Learn Deep Learning Learn Machine Learning Learn Python Who can apply Only those candidates can apply who: 1. are available for full time (in-office) internship 2. can start the internship between 8th Oct'26 and 12th Nov'26 3. are available for duration of 6 months 4. have relevant skills and interests * Women wanting to start/restart their career can also apply. Perks Certificate Letter of recommendation Flexible work hours 5 days a week Additional information Stipend Structure: Fixed pay: ₹ 12,000 - 20,000 /month Incentive pay: ₹ 3,000 - 5,000 /month Number of openings 4 About Infrasys Limited Website We are a global technology and consulting partner h",
+   "site_text": "[https://www.infrasys.tech/]\nInfrasys Limited — Transforming Through Technology Loading... Contact About Us Domain Tech Process Careers Investor Relations Blogs Contact Quick Links ERP Solutions AI & ML Cybersecurity Cloud Industries Insights Careers Contact Global Technology & Consulting Partner Transforming Through | for a Digital World. We Help Organizations Accelerate Growth, Optimize Operations, and Unlock Business Value Through ERP Implementations, AI Automation, Cloud Transformation, Cybersecurity, and Advanced Analytics - Delivered by Specialists with Deep Domain Expertise. Get in Touch Learn More Scroll Down 0 Years Since 2016 0 Projects Delivered 0 Countries Active 0 Industry Sectors About Infrasys Your Global Technology & Consulting Partner We are a global technology and consulting partner helping organizations accelerate growth, optimize operations, and unlock business value through innovative digital solutions. Founded in 2016 and headquartered in Gurugram, India, we serve enterprises across industries worldwide. Our expertise spans ERP & Enterprise Applications (SAP, Oracle, Microsoft Dynamics), AI & Machine Learning, Data Analytics, Cybersecurity, Cloud & Digital Transformation, and Managed Services — combining deep domain knowledge with cutting-edge technology. SAP, Oracle & MS Dynamics AI-Powered Automation Cloud & Digital Transformation Cybersecurity & Data Risk Explore Solutions 4.9/5 Client Rating The Infrasys Advantage Why Choose Infrasys We combine deep technical expertise with business acumen to deliver solutions that last. Infrastructure Expertise Decades of combined engineering experience in high-availability data center design and operations. Digital Innovation Translating complex technological transformations into reliable, measurable business advantages. Global Reach Designing and scaling infrastructure operations spanning across continents with local knowledge. End-to-End Delivery Fully integrated consulting, execution planning, and post-launch performance monitoring. Security-First Design Every architecture we deliver is built with enterprise-grade security and compliance at its core. Dedicated Support Round-the-clock access to our expert team for monitoring, escalation, and rapid resolution. Capabilities What We Do End-to-End Technology and Consulting Services Spanning ERP, AI, Cloud, Cybersecurity, and Data Analytics. 01 ERP & Enterprise Applications SAP, Oracle, and Microsoft Dynamics implementations, rollouts, and legacy system modernization to streamline core business processes. 02 Artificial Intelligence & ML AI-powered automation, machine learning model deployment, and intelligent process optimization to transform complex challenges into strategic opportunities. 03 Cybersecurity & Data Risk Enterprise security assessments, compliance frameworks, threat detection, and data risk management to protect your most critical digital assets. 04 Data Analytics & BI Data Lake Architecture, Real-Time Telemetry, Data Pipelines, and BI dashboards that turn raw operational data into measurable business intelligence. 05 Cloud & Digital Transformation Cloud Modernization, secure migrations, and enterprise-wide digital transformation programs across AWS, Azure, and GCP ecosystems. 06 Business Consulting & Managed Services Strategic advisory, Programme Governance, and ongoing managed services to help enterprises innovate faster, operate smarter, and scale with confidence. Sectors We Serve Industries We deliver customised technology solutions tailored to the compliance, security, and scalability requirements of key industry verticals. Energy & Utilities Smart grid, SCADA & OT security. Banking & Finance ERP, compliance & fintech platforms. Telecom & Fiber Network design & connectivity. Manufacturing Industry 4.0 & IoT integration. Government & Public Sector Digital governance & smart cities. Healthcare HIPAA-compliant health data & HIS. Logistics & Transit Fleet telemetry & supply chain. Real Estate & REITs Pr",
+   "email_candidates": [
+    {
+     "email": "info@infrasys.tech",
+     "where": "https://www.infrasys.tech/",
+     "kind": "generic"
+    },
+    {
+     "email": "infrasyslimited.tech@gmail.com",
+     "where": "https://www.infrasys.tech/careers.html",
+     "kind": "personal"
+    }
+   ],
+   "pay": {
+    "max": 25000,
+    "min": 15000,
+    "period": "month"
+   },
+   "priority": 1,
+   "priority_note": "Gurgaon · ₹25,000/mo",
+   "referral": false
+  },
+  {
+   "id": "429616f830",
+   "company": "AntStack",
+   "website": "https://antstack.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We help you shape your ideas and dreams into reality, provide better solutions to grow your business by simplifying technology at every step in your journey.. Languages: TypeScript",
+   "site_text": "[https://www.deloitte.com/global/en/services/consulting/services/engineering.html]\nEngineering | Deloitte Global Link opens in a new tab opens in new window Skip to main content GLOBAL - EN Main Menu Select your location Clear No results found Welcome to Deloitte If we have selected the wrong experience for you, please change it above. Contact Us Submit RFP Engineering Powering progress. Seamlessly engineered. In a world driven by data, harnessing the power of engineering and technology transformation is essential. Combining a platform engineering mindset with a product-centric model and industry insights, Deloitte Engineering supports the full lifecycle of software delivery—powering progress for your business from start to finish. Contact us Submit RFP Technology transformation at the heart of your business At Deloitte, your success is at the heart of everything we develop. Combining exceptional engineering talent with a product-centric mindset and sharp business insights, we build end-to-end solutions tailored to your organization’s needs. Through the power of Engineering, we help sharpen your organization’s competitive edge. From strategy to product software and development to aftercare support, we drive business and tech transformations through engineering to help create efficiencies, unlock new value for your enterprise, and more. Deloitte Engineering aligns with your strategic goals, focusing on outcomes that elevate business performance, drive impactful results, and empower breakthrough innovation. Explore our Engineering capabilities Connected Device Engineering Design, prototype, develop, and scale connected devices, including hardware and firmware. Find out more Connected Device Engineering Design, prototype, develop, and scale connected devices, including hardware and firmware. Example services: Digital Trust & Privacy for Connected Device Digital Twin Development Engineering & Artificial Intelligence / Machine Learning Make your data accessible, secure, and scalable. Reduce time to insights, drive automation, and enable Artificial Intelligence / Machine Learning. Find out more Engineering & Artificial Intelligence / Machine Learning Make your data accessible, secure, and scalable. Reduce time to insights, drive automation, and enable Artificial Intelligence / Machine Learning. Example services: Trustworthy and Secure AI Product Development Mobile App Development Custom Enterprise App Development AI/GenAI App Development Data Product/Platform Development Software Engineering Operating Model & Talent Source and retain high-quality talent, from around the globe, to maximize performance of your engineering organization. Find out more Software Engineering Operating Model & Talent Source and retain high-quality talent, from around the globe, to maximize performance of your engineering organization. Example services: Engineering Hub Stand-Up Software Platform Engineering Build your modern platform by leveraging a microservices-based architecture, API-driven connectivity, packaged products, and scalable DevOps. Find out more Software Platform Engineering Build your modern platform by leveraging a microservices-based architecture, API-driven connectivity, packaged products, and scalable DevOps. Example services: Quality Engineering Custom Enterprise App Development Enterprise Platform Optimization, including ERP integration API Microservices Development Industry Specific Solutions Mobile AI/GenAI App Development Software Product & App Development Meet your most pressing needs with Software Product & App Development. This capability enables the design and release of new innovative features more frequently. Find out more Software Product & App Development Meet your most pressing needs with Software Product & App Development. This capability enables the design and release of new innovative features more frequently. Example services: Secure Software Delivery Lifecycle (SDLC) Custom Enterprise App Development Industry Specific S",
+   "email_candidates": [
+    {
+     "email": "prashanth@antstack.com",
+     "where": "GitHub member (antstackio)",
+     "kind": "personal",
+     "name": "Prashanth HN",
+     "role": "Engineer"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "642fb9cb3d",
+   "company": "Terrum",
+   "website": "https://terrum.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Kotlin, TypeScript. Topics: nextjs, shadcn-ui",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "darkabhi1520@gmail.com",
+     "where": "GitHub member (terrum-in) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Abhishek AN",
+     "role": "Engineer"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "9c32c912ec",
+   "company": "Codeniti",
+   "website": "https://codeniti.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Mumbai",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: PHP, Python",
+   "site_text": "[https://codeniti.com/]\nCodeniti Code Your Future Today Code Your Future Today Code Your Future Today Code Your Future Today Code Your Future Today Code Your Future Today Code Your Future Today Code Your Future Today Contact Us Copyright © 2025 Codeniti - All Rights Reserved. Powered by This website uses cookies. We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data. Accept",
+   "email_candidates": [
+    {
+     "email": "amitab.das@outlook.com",
+     "where": "GitHub member (Codeniti) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Amitabh Das",
+     "role": "Engineer"
+    },
+    {
+     "email": "kaushikwavhal@gmail.com",
+     "where": "GitHub member (Codeniti) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Kaushik Wavhal",
+     "role": "Engineer"
+    },
+    {
+     "email": "vikasyaligar.it@gmail.com",
+     "where": "GitHub member (Codeniti) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Vikas S Yaligar",
+     "role": "Engineer"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "a6fbebf248",
+   "company": "blinkit",
+   "website": "https://lambda.blinkit.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Gurgaon",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Go, JavaScript, Kotlin, Python. Topics: android, android-library, performance, performance-analysis, performance-monitoring",
+   "site_text": "[https://lambda.blinkit.com/]\nTitle: Lambda by Blinkit\n\nURL Source: https://lambda.blinkit.com/\n\nMarkdown Content:\n[Sitemap](https://lambda.blinkit.com/sitemap/sitemap.xml)\n\n[Open in app](https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=---publication_layout_nav-------------------------------------------)\n\nSign up\n\n[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Flambda.blinkit.com%2F&source=collection_home---publication_layout_nav-----------------------global_nav--------------------)\n\n[](https://medium.com/?source=---publication_layout_nav-------------------------------------------)\n\nGet app\n\n[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---publication_layout_nav-----------------------new_post_topnav--------------------)\n\n[Search](https://medium.com/search?source=---publication_layout_nav-------------------------------------------)\n\nSign up\n\n[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Flambda.blinkit.com%2F&source=collection_home---publication_layout_nav-----------------------global_nav--------------------)\n\n![Image 1: Unknown user](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)\n\n![Image 2: Publication header background image](https://miro.medium.com/v2/resize:fit:0/1*KuXBZHdtn8fGoRmz2nGSgg.png)\n\n[![Image 3: Lambda by Blinkit](https://miro.medium.com/v2/resize:fill:128:128/1*OyKtojPPoX72J1Eict1iRA.png)](https://lambda.blinkit.com/?source=collection_home_page----42df4a1e8725------------------------------------------)\n\n[![Image 4: Lambda by Blinkit](https://miro.medium.com/v2/resize:fill:160:160/1*OyKtojPPoX72J1Eict1iRA.png)](https://lambda.blinkit.com/?source=collection_home_page----42df4a1e8725------------------------------------------)\n\n## Lambda by Blinkit\n\n[1.95K followers](https://lambda.blinkit.com/followers?source=collection_home_page----42df4a1e8725------------------------------------------)·\n\n![Image 5: Blinkit Tech Blog](https://miro.medium.com/v2/resize:fill:40:40/1*uxgZjtY4hFOhldSQxQACHw.png)\n\n![Image 6: Sushant Beriwal](https://miro.medium.com/v2/da:true/resize:fill:40:40/0*UdoVKkR43vgeOnYe)\n\n![Image 7: Shruti Anand](https://miro.medium.com/v2/da:true/resize:fill:40:40/0*135oAnvoYcZaWAup)\n\n![Image 8: Bilal Shaikh](https://miro.medium.com/v2/da:true/resize:fill:40:40/0*gn4HIaHA7ijV-gNR)\n\n![Image 9: Deepu Thomas Philip](https://miro.medium.com/v2/resize:fill:40:40/0*Xuo3rP3C40_h8B4B.)\n\n5 editors\n\nFollow\n\n[Engineering](https://lambda.blinkit.com/all?topic=engineering&source=collection_home_page----42df4a1e8725-----0-------------------------------------)\n\n[Product](https://lambda.blinkit.com/all?topic=product&source=collection_home_page----42df4a1e8725-----1-------------------------------------)\n\n[Design](https://lambda.blinkit.com/all?topic=design&source=collection_home_page----42df4a1e8725-----2-------------------------------------)\n\n[Data](https://lambda.blinkit.com/all?topic=data&source=collection_home_page----42df4a1e8725-----3-------------------------------------)\n\n[DevOps](https://lambda.blinkit.com/all?topic=infrastructure&source=collection_home_page----42df4a1e8725-----4-------------------------------------)\n\n[Culture](https://lambda.blinkit.com/all?topic=culture&source=collection_home_page----42df4a1e8725-----5-------------------------------------)\n\n[Internship Stories](https://lambda.blinkit.com/all?topic=internships&source=collection_home_page----42df4a1e8725-----6-------------------------------------)\n\n[Open Source](https://github.com/grofers/?source=collection_home_page----42df4a1e8725-----8-------------------------------------)\n\n## Latest at Lambda\n\n## results, not rules.\n\n[check out open positions at blinkit](https://blinkit.com/careers/?source=collection_home_page----42df4a1e8725------------------------------------------)\n\n## What's Trending?\n\n## deep dive into the ideas that run blinkit\n\n## Infras",
+   "email_candidates": [
+    {
+     "email": "17sushmita@gmail.com",
+     "where": "GitHub member (grofers) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Sushmita",
+     "role": "Engineer"
+    },
+    {
+     "email": "aditbiswas1@gmail.com",
+     "where": "GitHub member (grofers) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Adit Biswas",
+     "role": "Engineer"
+    },
+    {
+     "email": "dpaleria@gmail.com",
+     "where": "GitHub member (grofers) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Daksh Paleria",
+     "role": "Engineer"
+    },
+    {
+     "email": "dheeraj.kotwani41@gmail.com",
+     "where": "GitHub member (grofers) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Dheeraj Kotwani",
+     "role": "Engineer"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Gurgaon · active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "b27ad8673e",
+   "company": "Bitloka Solutions",
+   "website": "https://bitloka.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript",
+   "site_text": "[https://bitloka.com/]\nBitloka Solutions Be part of our story. Sky is the limit \"Customer Delight\" epitomizes our journey, encapsulating our purpose: ensuring unparalleled satisfaction among our clientele. Our cloud solution optimizes performance, scalability, and efficiency through state-of-the-art technology. We deliver adaptable, dependable, secure services tailored to evolving client requirements. A dedicated team of UX specialists and adept technologies deliver cutting-edge solutions, ensuring exceptional performance across the technology stack. We're committed to crafting innovative solutions that enhance education, streamline communication, optimize cloud infrastructure bolster observability, and leverage GenAI's power. Building a high-performance team and core competencies is vital for growth. We recruit diverse talent and foster a collaborative learning culture. Through targeted training, we align strengths with objectives, enhancing innovation. < > About Founded by IT professionals with over 50 years of combined experience in management and technical roles across Education, Insurance, Finance, and Data Center Applications, our team has worked with global leaders like HP, IBM, Tech Mahindra, Wipro, and BMC. Our flagship platform, CampusTrack, offers a user-friendly solution for all educational stakeholders, addressing diverse needs with simplicity and power. Bitloka has since evolved beyond EdTech, integrating LMS, Cloud services, Observability, and Generative AI features. Cloud Leveraging Kubernetes in conjunction with leading cloud hosting services, our team excels in orchestrating the deployment, management, and scaling of applications, capitalizing on the inherent advantages of cloud-native technologies. Our adept approach ensures enhanced flexibility, scalability, and resilience. Streamlining and automating software deployment processes Orchestrating containerized applications with Kubernetes Utilizing cloud services (Digital Ocean, AWS, etc.) for scalability and reliability Employing Infrastructure as Code tools like Terraform for efficient management Expertise in implementing CI/CD pipelines (GitHub / GitHub Actions / Docker / Kubernetes / Helm) Integration with tools like Github Actions for real-time deployment and automation Commitment to enhancing operational efficiency and delivering robust solutions for clients' evolving needs. Connect Effective communication is vital for engagement and collaboration in educational institutions. Features like SMS, email, notifications, chat, and chatbots ensure seamless connectivity by enabling instant alerts, formal communication, real-time collaboration, and automated reminders. Timely notifications and interactive chatbots further enhance support with 24/7 assistance, event updates, and critical information sharing. Connectivity: Ensures engagement with SMS, email, notifications, chat, and chatbots SMS Communication: Enables instant alerts for attendance, exams, and critical updates Email Channel: Facilitates formal communication, document sharing, and two-way interaction Timely Notifications: Delivers updates on events, deadlines, and reminders via web and mobile Real-Time Chat: Enhances collaboration among students, teachers, parents, and administrators Interactive Chatbot: Provides instant support, FAQs, and onboarding assistance 24/7 Event Reminders: Automates alerts for schedules, deadlines, and academic activities EdTech Experience the future of education management with CampusTrack — a flexible solution for your institution's success. An Umbrella app that can handle institutes at all levels. Flagship product serving 100,000+ students A simple yet powerful, and extensible platform for stakeholders of an Educational Institution - Students, Parents, Academia, and Management A cloud based solution with cutting edge technologies Key Features: Handle Admissions, Attendance, Fees Transactions, Exams, Performance, Generate marks card, Generate reports, Manage Assets, Cal",
+   "email_candidates": [
+    {
+     "email": "contact@bitloka.com",
+     "where": "job posting",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "8ab77fb72d",
+   "company": "AdeptJ",
+   "website": "https://adeptj.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Gurgaon, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Runtime & Modules. Languages: Java, Shell. Topics: adeptj-modules, cache, felix, graphql, http2, java8, jdbc, jetty, jpa, jwt, maven-plugin, microservices, modular, mongodb, mybatis, osgi, rest, restful, tomcat, undertow",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "23imak@gmail.com",
+     "where": "GitHub member (AdeptJ) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Asif Khan",
+     "role": "Engineer"
+    },
+    {
+     "email": "aroraprince151@gmail.com",
+     "where": "GitHub member (AdeptJ) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Prince Arora",
+     "role": "Engineer"
+    },
+    {
+     "email": "irakeshk@outlook.com",
+     "where": "GitHub member (AdeptJ) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Rakesh",
+     "role": "Engineer"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Gurgaon · active GitHub org, no posting",
+   "referral": false
+  }
+ ]
+}

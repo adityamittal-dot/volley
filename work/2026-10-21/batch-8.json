@@ -1,0 +1,406 @@
+{
+ "leads": [
+  {
+   "id": "81dc47b462",
+   "company": "ODWEN",
+   "website": "https://www.odwen.co.in",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Delhi, DL, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 21. AirBnB for Small Warehouses ODWEN enables India’s 60m SME's to find curated warehouses in minutes at prices 20% below current market and transport their inventory in and out with just a few clicks. With 2000+ warehouses across 180 locations, we are the largest integrated 3PL/ warehouse network in India. Marketplace, Warehouse Management Tech, B2B, B2B, Supply Chain and Logistics, India, South Asia, Remote, Partly Remote",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "vijay@odwen.co.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "VIJAY ANAND BHAGAVATULA",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Delhi · YC",
+   "referral": false
+  },
+  {
+   "id": "844eb6ffdf",
+   "company": "Stackbox",
+   "website": "https://stackbox.xyz",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript. Topics: squad-devops, squad-shared, squad-wms",
+   "site_text": "[https://www.stackbox.xyz/]\nStackbox | Cloud WMS, TMS, OMS & Route-to-Market Platform — India Schedule a demo Join Stackbox at the SCMAP Supply Chain Conference 2024 • Manila, Philippines • 12-13 September'2024 Schedule a demo Lead the next fulfilment era. Join the ranks of industry leaders who trust Stackbox to streamline their supply chain. Get in touch Unlock potential Streamline your fulfilment journey with automation We are the premier supply chain SaaS partners for growing enterprises. Our robust and reliable solution streamlines complex fulfillment processes, ensuring seamless enterprise growth. Get in touch 100% Fulfilment accuracy 25% Higher fill rate 99.9% Inventory accuracy 225mt CO2 reduction Products Supply chain solutions for next-generation Warehouse management system Built for execution excellence with unprecedented flexibility. Enhanced throughput with optimized load distribution Easy orchestration of any Automation hardware Adaptive task management across stages Learn more Transport management system Optimizer that effortlessly manages complex planning and load building challenges. Seamless Multi-leg distribution planning Strategic route optimization that manages real-world scenarios Resilient transport execution with improved visibility Learn more Order management system Orchestrate your entire supply chain seamlessly with a unified platform. Omni-channel order orchestration Unified distribution control Real-time inventory sync across nodes Learn more Integrated Solution Suite Unleash the power of integrated supply chain Transform your disparate systems and complex supply chain elements into one super agile fulfillment platform. Why Stackbox The benchmark for superior fulfilment Strategy Optimized storage strategies with 3D classification Operations Precision solutions for complex supply chain Implementation Fast deployment with reliable quality and support Support Effortless scalability with reliable support Strategy that drives productivity Our strategical approach leverages 3D classification to determine storage and material management techniques tailored to your business needs. By focusing on throughput volume, order frequency patterns, and the affinity of items ordered together, we deliver unmatched efficiencies in your operations. Engineered by operators, tailored for operators Our meticulously crafted solutions tackle intricate supply chain challenges, addressing every conceivable edge case. These distinctive configurations ensure seamless adoption, enhanced productivity, and absolute accuracy in your day-to-day operations. Fast-track your market entry with rapid implementation Our implementation methodology ensures rapid deployment with a focus on robust governance, transparent reporting, and hypercare support, delivering swift time to market and seamless user adoption We've got you covered around the clock We keep your ecosystem up to date with evolving demands, offering effortless scalability, seamless integration, and top-tier support to ensure smooth operations at all times. Industries Leading the way in every Industry FMCGs/CPGs Streamline inventory management for rapid consumer goods turnover and ensure shelf availability. Retail Enhance omnichannel capabilities with efficient order fulfillment to improve customer satisfaction and reduce operational costs. E-commerce Seamless order processing and last-mile delivery to meet the demands of online shoppers. Pharma Ensure compliance and traceability while safeguarding product integrity and regulatory requirements. D2C Commerce Achieve the highest level of customer satisfaction by consistently delivering on time. B2B Commerce Streamline transport and warehousing processes to minimize cost and simultaneously enhance customer experience. Security Built on a foundation of trust and security At StackBOX, trust is woven into the fabric of everything we do. We deploy industry-leading safeguards to keep your data safe and private, so you can rest easy know",
+   "email_candidates": [
+    {
+     "email": "github@stackbox.xyz",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "contact@stackbox.co.in",
+     "where": "https://www.stackbox.xyz/",
+     "kind": "generic"
+    },
+    {
+     "email": "grievances@stackbox.xyz",
+     "where": "https://www.stackbox.xyz/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "844eb6ffdf-ref",
+   "company": "Stackbox",
+   "website": "https://stackbox.xyz",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript. Topics: squad-devops, squad-shared, squad-wms",
+   "site_text": "[https://www.stackbox.xyz/]\nStackbox | Cloud WMS, TMS, OMS & Route-to-Market Platform — India Schedule a demo Join Stackbox at the SCMAP Supply Chain Conference 2024 • Manila, Philippines • 12-13 September'2024 Schedule a demo Lead the next fulfilment era. Join the ranks of industry leaders who trust Stackbox to streamline their supply chain. Get in touch Unlock potential Streamline your fulfilment journey with automation We are the premier supply chain SaaS partners for growing enterprises. Our robust and reliable solution streamlines complex fulfillment processes, ensuring seamless enterprise growth. Get in touch 100% Fulfilment accuracy 25% Higher fill rate 99.9% Inventory accuracy 225mt CO2 reduction Products Supply chain solutions for next-generation Warehouse management system Built for execution excellence with unprecedented flexibility. Enhanced throughput with optimized load distribution Easy orchestration of any Automation hardware Adaptive task management across stages Learn more Transport management system Optimizer that effortlessly manages complex planning and load building challenges. Seamless Multi-leg distribution planning Strategic route optimization that manages real-world scenarios Resilient transport execution with improved visibility Learn more Order management system Orchestrate your entire supply chain seamlessly with a unified platform. Omni-channel order orchestration Unified distribution control Real-time inventory sync across nodes Learn more Integrated Solution Suite Unleash the power of integrated supply chain Transform your disparate systems and complex supply chain elements into one super agile fulfillment platform. Why Stackbox The benchmark for superior fulfilment Strategy Optimized storage strategies with 3D classification Operations Precision solutions for complex supply chain Implementation Fast deployment with reliable quality and support Support Effortless scalability with reliable support Strategy that drives productivity Our strategical approach leverages 3D classification to determine storage and material management techniques tailored to your business needs. By focusing on throughput volume, order frequency patterns, and the affinity of items ordered together, we deliver unmatched efficiencies in your operations. Engineered by operators, tailored for operators Our meticulously crafted solutions tackle intricate supply chain challenges, addressing every conceivable edge case. These distinctive configurations ensure seamless adoption, enhanced productivity, and absolute accuracy in your day-to-day operations. Fast-track your market entry with rapid implementation Our implementation methodology ensures rapid deployment with a focus on robust governance, transparent reporting, and hypercare support, delivering swift time to market and seamless user adoption We've got you covered around the clock We keep your ecosystem up to date with evolving demands, offering effortless scalability, seamless integration, and top-tier support to ensure smooth operations at all times. Industries Leading the way in every Industry FMCGs/CPGs Streamline inventory management for rapid consumer goods turnover and ensure shelf availability. Retail Enhance omnichannel capabilities with efficient order fulfillment to improve customer satisfaction and reduce operational costs. E-commerce Seamless order processing and last-mile delivery to meet the demands of online shoppers. Pharma Ensure compliance and traceability while safeguarding product integrity and regulatory requirements. D2C Commerce Achieve the highest level of customer satisfaction by consistently delivering on time. B2B Commerce Streamline transport and warehousing processes to minimize cost and simultaneously enhance customer experience. Security Built on a foundation of trust and security At StackBOX, trust is woven into the fabric of everything we do. We deploy industry-leading safeguards to keep your data safe and private, so you can rest easy know",
+   "email_candidates": [
+    {
+     "email": "nandini.agrawal@stackbox.xyz",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "nandini6324",
+     "commits": 3
+    },
+    {
+     "email": "tushargoel.tg@gmail.com",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "Github Action Bot",
+     "commits": 27
+    },
+    {
+     "email": "dinesh.kumar@stackbox.xyz",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "Github Action Bot",
+     "commits": 9
+    },
+    {
+     "email": "saby@stackbox.xyz",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "Sabyasachi",
+     "commits": 38
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "844eb6ffdf-ref",
+   "company": "Stackbox",
+   "website": "https://stackbox.xyz",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: TypeScript. Topics: squad-devops, squad-shared, squad-wms",
+   "site_text": "[https://www.stackbox.xyz/]\nStackbox | Cloud WMS, TMS, OMS & Route-to-Market Platform — India Schedule a demo Join Stackbox at the SCMAP Supply Chain Conference 2024 • Manila, Philippines • 12-13 September'2024 Schedule a demo Lead the next fulfilment era. Join the ranks of industry leaders who trust Stackbox to streamline their supply chain. Get in touch Unlock potential Streamline your fulfilment journey with automation We are the premier supply chain SaaS partners for growing enterprises. Our robust and reliable solution streamlines complex fulfillment processes, ensuring seamless enterprise growth. Get in touch 100% Fulfilment accuracy 25% Higher fill rate 99.9% Inventory accuracy 225mt CO2 reduction Products Supply chain solutions for next-generation Warehouse management system Built for execution excellence with unprecedented flexibility. Enhanced throughput with optimized load distribution Easy orchestration of any Automation hardware Adaptive task management across stages Learn more Transport management system Optimizer that effortlessly manages complex planning and load building challenges. Seamless Multi-leg distribution planning Strategic route optimization that manages real-world scenarios Resilient transport execution with improved visibility Learn more Order management system Orchestrate your entire supply chain seamlessly with a unified platform. Omni-channel order orchestration Unified distribution control Real-time inventory sync across nodes Learn more Integrated Solution Suite Unleash the power of integrated supply chain Transform your disparate systems and complex supply chain elements into one super agile fulfillment platform. Why Stackbox The benchmark for superior fulfilment Strategy Optimized storage strategies with 3D classification Operations Precision solutions for complex supply chain Implementation Fast deployment with reliable quality and support Support Effortless scalability with reliable support Strategy that drives productivity Our strategical approach leverages 3D classification to determine storage and material management techniques tailored to your business needs. By focusing on throughput volume, order frequency patterns, and the affinity of items ordered together, we deliver unmatched efficiencies in your operations. Engineered by operators, tailored for operators Our meticulously crafted solutions tackle intricate supply chain challenges, addressing every conceivable edge case. These distinctive configurations ensure seamless adoption, enhanced productivity, and absolute accuracy in your day-to-day operations. Fast-track your market entry with rapid implementation Our implementation methodology ensures rapid deployment with a focus on robust governance, transparent reporting, and hypercare support, delivering swift time to market and seamless user adoption We've got you covered around the clock We keep your ecosystem up to date with evolving demands, offering effortless scalability, seamless integration, and top-tier support to ensure smooth operations at all times. Industries Leading the way in every Industry FMCGs/CPGs Streamline inventory management for rapid consumer goods turnover and ensure shelf availability. Retail Enhance omnichannel capabilities with efficient order fulfillment to improve customer satisfaction and reduce operational costs. E-commerce Seamless order processing and last-mile delivery to meet the demands of online shoppers. Pharma Ensure compliance and traceability while safeguarding product integrity and regulatory requirements. D2C Commerce Achieve the highest level of customer satisfaction by consistently delivering on time. B2B Commerce Streamline transport and warehousing processes to minimize cost and simultaneously enhance customer experience. Security Built on a foundation of trust and security At StackBOX, trust is woven into the fabric of everything we do. We deploy industry-leading safeguards to keep your data safe and private, so you can rest easy know",
+   "email_candidates": [
+    {
+     "email": "github@stackbox.xyz",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "contact@stackbox.co.in",
+     "where": "https://www.stackbox.xyz/",
+     "kind": "generic"
+    },
+    {
+     "email": "grievances@stackbox.xyz",
+     "where": "https://www.stackbox.xyz/",
+     "kind": "personal"
+    },
+    {
+     "email": "nandini.agrawal@stackbox.xyz",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "nandini6324",
+     "commits": 3
+    },
+    {
+     "email": "tushargoel.tg@gmail.com",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "Github Action Bot",
+     "commits": 27
+    },
+    {
+     "email": "dinesh.kumar@stackbox.xyz",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "Github Action Bot",
+     "commits": 9
+    },
+    {
+     "email": "saby@stackbox.xyz",
+     "where": "GitHub commits (stackbox-dev)",
+     "kind": "personal",
+     "name": "Sabyasachi",
+     "commits": 38
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "89ef8cea2b",
+   "company": "Infopercept",
+   "website": "https://www.infopercept.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Infopercept Consulting Private Limited. Languages: JavaScript, Python, Rust, Shell",
+   "site_text": "[https://www.infopercept.com/]\nUnifying Offense, Defense & Compliance for Modern Enterprise Cybersecurity | Infopercept Infopercept featured on Gartner®’s latest report on Adversarial Exposure Validation (AEV) Read more Invinsense built the Security Foundation. Regiment AI builds the Autonomous Future. Explore Regiment AI Offensive, Defensive. and Compliance. Together. As One. AI-Enhanced Cybersecurity with Attacker’s Mind and Defender’s Brain. Book a Demo Exposure Finding to Risk Remediation Continuum. Delivered. With AI. For AI. Against AI. Explore Regiment AI What is Regiment AI? The power of governed and explainable AI for unified SecOps Most security AI is either everywhere or unsupervised. Neither is an operating model a CISO can sign. Regiment AI is the command layer of Invinsense. It runs offensive testing, defensive response, and compliance verification as three coordinated battalions under governed autonomy: dual-approval on high-risk actions, deterministic execution by default, and a full audit trail on every decision. It is platform - and security-stack agnostic, and works with the infrastructure customers already run - no rip-and-replace required. Read more about Regiment AI Read more about Regiment AI Our Trust Ecosystem – Recognitions, Partnerships, and Certifications AWS Reviewed Partner AWS Consulting Partner AWS Level 1 MSSP Competency Partner ISO 22301 ISO 27001 ISO 20000 ISO 9001 SOC 2 CERT-In Financial Services Information Sharing and Analysis Center Electromech ISC The PCI Security Standards Council ISOQAR Data Security Council of India Google Cloud Oracle Microsoft Azure SASTRA Deemed University IIT-Jammu AWS Reviewed Partner AWS Consulting Partner AWS Level 1 MSSP Competency Partner ISO 22301 ISO 27001 ISO 20000 ISO 9001 SOC 2 CERT-In Financial Services Information Sharing and Analysis Center Electromech ISC The PCI Security Standards Council ISOQAR Data Security Council of India Google Cloud Oracle Microsoft Azure SASTRA Deemed University IIT-Jammu Trusted by 300+ enterprises across highly regulated industries Infopercept Ratings : Gartner Peer Insights Infopercept IT Security 4.5 ★★★★★ 5 Ratings > Submit a review > ★★★★★ Reviewed January 20, 2025 \"Significantly Improving Security with Innovative Product...\" (Read more) ★★★★★ Reviewed November 29, 2024 \"360-Degree Cybersecurity Coverage with Invinsense MDR in the Entertainment Industry...\" (Read more) ★★★★★ Reviewed November 29, 2024 \"Unlocking Seamless Security Operations with Invinsense MDR...\" (Read more) ★★★★★ Reviewed November 22, 2024 \"Invinsense MDR...\" (Read more) ★★★★★ Reviewed November 8, 2024 \"Invinsense Product Exemplifies Ease In Threat and Risk Management...\" (Read more) Infopercept is Recognized As A Representative Vendor in the following Gartner® Reports Emerging Tech Impact Radar: India January 2025 The report identifies emerging technologies in five key areas: generative AI, data and analytics, security, enterprise software and cloud Gartner includes Infopercept in the list of sample vendors for “Automated Moving Target Defense (AMTD)” technology Read More Read More Emerging Tech: Pivot to Preemptive Exposure Management Services to Grow Revenue July 2025 The report discusses Preemptive exposure management as a rapidly emerging opportunity for security service providers. Gartner includes Infopercept in the list of sample vendors for “Unified Exposure Management Platforms (UEMPs)” Read More Read More Emerging Tech Impact Radar: Global Attack Surface Grid September 2025 The report identifies emerging technologies in AI-enabled exposure management and attack surface reduction Gartner includes Infopercept in the list of sample vendors for “Unified Exposure Management Platforms (UEMPs)” Read More Read More Emerging Tech Impact Radar: India October 2025 The report identifies emerging technologies in key areas: AI, infrastructure, platforms, intelligent transformation and cybersecurity, Gartner includes Infopercept in the list of sample vendo",
+   "email_candidates": [
+    {
+     "email": "amitk@infopercept.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "89ef8cea2b-ref",
+   "company": "Infopercept",
+   "website": "https://www.infopercept.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Infopercept Consulting Private Limited. Languages: JavaScript, Python, Rust, Shell",
+   "site_text": "[https://www.infopercept.com/]\nUnifying Offense, Defense & Compliance for Modern Enterprise Cybersecurity | Infopercept Infopercept featured on Gartner®’s latest report on Adversarial Exposure Validation (AEV) Read more Invinsense built the Security Foundation. Regiment AI builds the Autonomous Future. Explore Regiment AI Offensive, Defensive. and Compliance. Together. As One. AI-Enhanced Cybersecurity with Attacker’s Mind and Defender’s Brain. Book a Demo Exposure Finding to Risk Remediation Continuum. Delivered. With AI. For AI. Against AI. Explore Regiment AI What is Regiment AI? The power of governed and explainable AI for unified SecOps Most security AI is either everywhere or unsupervised. Neither is an operating model a CISO can sign. Regiment AI is the command layer of Invinsense. It runs offensive testing, defensive response, and compliance verification as three coordinated battalions under governed autonomy: dual-approval on high-risk actions, deterministic execution by default, and a full audit trail on every decision. It is platform - and security-stack agnostic, and works with the infrastructure customers already run - no rip-and-replace required. Read more about Regiment AI Read more about Regiment AI Our Trust Ecosystem – Recognitions, Partnerships, and Certifications AWS Reviewed Partner AWS Consulting Partner AWS Level 1 MSSP Competency Partner ISO 22301 ISO 27001 ISO 20000 ISO 9001 SOC 2 CERT-In Financial Services Information Sharing and Analysis Center Electromech ISC The PCI Security Standards Council ISOQAR Data Security Council of India Google Cloud Oracle Microsoft Azure SASTRA Deemed University IIT-Jammu AWS Reviewed Partner AWS Consulting Partner AWS Level 1 MSSP Competency Partner ISO 22301 ISO 27001 ISO 20000 ISO 9001 SOC 2 CERT-In Financial Services Information Sharing and Analysis Center Electromech ISC The PCI Security Standards Council ISOQAR Data Security Council of India Google Cloud Oracle Microsoft Azure SASTRA Deemed University IIT-Jammu Trusted by 300+ enterprises across highly regulated industries Infopercept Ratings : Gartner Peer Insights Infopercept IT Security 4.5 ★★★★★ 5 Ratings > Submit a review > ★★★★★ Reviewed January 20, 2025 \"Significantly Improving Security with Innovative Product...\" (Read more) ★★★★★ Reviewed November 29, 2024 \"360-Degree Cybersecurity Coverage with Invinsense MDR in the Entertainment Industry...\" (Read more) ★★★★★ Reviewed November 29, 2024 \"Unlocking Seamless Security Operations with Invinsense MDR...\" (Read more) ★★★★★ Reviewed November 22, 2024 \"Invinsense MDR...\" (Read more) ★★★★★ Reviewed November 8, 2024 \"Invinsense Product Exemplifies Ease In Threat and Risk Management...\" (Read more) Infopercept is Recognized As A Representative Vendor in the following Gartner® Reports Emerging Tech Impact Radar: India January 2025 The report identifies emerging technologies in five key areas: generative AI, data and analytics, security, enterprise software and cloud Gartner includes Infopercept in the list of sample vendors for “Automated Moving Target Defense (AMTD)” technology Read More Read More Emerging Tech: Pivot to Preemptive Exposure Management Services to Grow Revenue July 2025 The report discusses Preemptive exposure management as a rapidly emerging opportunity for security service providers. Gartner includes Infopercept in the list of sample vendors for “Unified Exposure Management Platforms (UEMPs)” Read More Read More Emerging Tech Impact Radar: Global Attack Surface Grid September 2025 The report identifies emerging technologies in AI-enabled exposure management and attack surface reduction Gartner includes Infopercept in the list of sample vendors for “Unified Exposure Management Platforms (UEMPs)” Read More Read More Emerging Tech Impact Radar: India October 2025 The report identifies emerging technologies in key areas: AI, infrastructure, platforms, intelligent transformation and cybersecurity, Gartner includes Infopercept in the list of sample vendo",
+   "email_candidates": [
+    {
+     "email": "gizalig@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "gizalig",
+     "commits": 2
+    },
+    {
+     "email": "rajv@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Raj V",
+     "commits": 2
+    },
+    {
+     "email": "daandeboer@gmail.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Daan de Boer",
+     "commits": 13
+    },
+    {
+     "email": "sakirm@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Malek Sakir",
+     "commits": 20
+    },
+    {
+     "email": "mihir.somaiya@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "MIhir Somaiya",
+     "commits": 4
+    },
+    {
+     "email": "hiteshp@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "hiteshp-icpl",
+     "commits": 1
+    },
+    {
+     "email": "omv@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Om Vaghela",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "89ef8cea2b-ref",
+   "company": "Infopercept",
+   "website": "https://www.infopercept.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Infopercept Consulting Private Limited. Languages: JavaScript, Python, Rust, Shell",
+   "site_text": "[https://www.infopercept.com/]\nUnifying Offense, Defense & Compliance for Modern Enterprise Cybersecurity | Infopercept Infopercept featured on Gartner®’s latest report on Adversarial Exposure Validation (AEV) Read more Invinsense built the Security Foundation. Regiment AI builds the Autonomous Future. Explore Regiment AI Offensive, Defensive. and Compliance. Together. As One. AI-Enhanced Cybersecurity with Attacker’s Mind and Defender’s Brain. Book a Demo Exposure Finding to Risk Remediation Continuum. Delivered. With AI. For AI. Against AI. Explore Regiment AI What is Regiment AI? The power of governed and explainable AI for unified SecOps Most security AI is either everywhere or unsupervised. Neither is an operating model a CISO can sign. Regiment AI is the command layer of Invinsense. It runs offensive testing, defensive response, and compliance verification as three coordinated battalions under governed autonomy: dual-approval on high-risk actions, deterministic execution by default, and a full audit trail on every decision. It is platform - and security-stack agnostic, and works with the infrastructure customers already run - no rip-and-replace required. Read more about Regiment AI Read more about Regiment AI Our Trust Ecosystem – Recognitions, Partnerships, and Certifications AWS Reviewed Partner AWS Consulting Partner AWS Level 1 MSSP Competency Partner ISO 22301 ISO 27001 ISO 20000 ISO 9001 SOC 2 CERT-In Financial Services Information Sharing and Analysis Center Electromech ISC The PCI Security Standards Council ISOQAR Data Security Council of India Google Cloud Oracle Microsoft Azure SASTRA Deemed University IIT-Jammu AWS Reviewed Partner AWS Consulting Partner AWS Level 1 MSSP Competency Partner ISO 22301 ISO 27001 ISO 20000 ISO 9001 SOC 2 CERT-In Financial Services Information Sharing and Analysis Center Electromech ISC The PCI Security Standards Council ISOQAR Data Security Council of India Google Cloud Oracle Microsoft Azure SASTRA Deemed University IIT-Jammu Trusted by 300+ enterprises across highly regulated industries Infopercept Ratings : Gartner Peer Insights Infopercept IT Security 4.5 ★★★★★ 5 Ratings > Submit a review > ★★★★★ Reviewed January 20, 2025 \"Significantly Improving Security with Innovative Product...\" (Read more) ★★★★★ Reviewed November 29, 2024 \"360-Degree Cybersecurity Coverage with Invinsense MDR in the Entertainment Industry...\" (Read more) ★★★★★ Reviewed November 29, 2024 \"Unlocking Seamless Security Operations with Invinsense MDR...\" (Read more) ★★★★★ Reviewed November 22, 2024 \"Invinsense MDR...\" (Read more) ★★★★★ Reviewed November 8, 2024 \"Invinsense Product Exemplifies Ease In Threat and Risk Management...\" (Read more) Infopercept is Recognized As A Representative Vendor in the following Gartner® Reports Emerging Tech Impact Radar: India January 2025 The report identifies emerging technologies in five key areas: generative AI, data and analytics, security, enterprise software and cloud Gartner includes Infopercept in the list of sample vendors for “Automated Moving Target Defense (AMTD)” technology Read More Read More Emerging Tech: Pivot to Preemptive Exposure Management Services to Grow Revenue July 2025 The report discusses Preemptive exposure management as a rapidly emerging opportunity for security service providers. Gartner includes Infopercept in the list of sample vendors for “Unified Exposure Management Platforms (UEMPs)” Read More Read More Emerging Tech Impact Radar: Global Attack Surface Grid September 2025 The report identifies emerging technologies in AI-enabled exposure management and attack surface reduction Gartner includes Infopercept in the list of sample vendors for “Unified Exposure Management Platforms (UEMPs)” Read More Read More Emerging Tech Impact Radar: India October 2025 The report identifies emerging technologies in key areas: AI, infrastructure, platforms, intelligent transformation and cybersecurity, Gartner includes Infopercept in the list of sample vendo",
+   "email_candidates": [
+    {
+     "email": "amitk@infopercept.com",
+     "where": "job posting",
+     "kind": "personal"
+    },
+    {
+     "email": "gizalig@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "gizalig",
+     "commits": 2
+    },
+    {
+     "email": "rajv@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Raj V",
+     "commits": 2
+    },
+    {
+     "email": "daandeboer@gmail.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Daan de Boer",
+     "commits": 13
+    },
+    {
+     "email": "sakirm@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Malek Sakir",
+     "commits": 20
+    },
+    {
+     "email": "mihir.somaiya@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "MIhir Somaiya",
+     "commits": 4
+    },
+    {
+     "email": "hiteshp@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "hiteshp-icpl",
+     "commits": 1
+    },
+    {
+     "email": "omv@infopercept.com",
+     "where": "GitHub commits (Infopercept)",
+     "kind": "personal",
+     "name": "Om Vaghela",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "92fc4ed323",
+   "company": "Anatomic",
+   "website": "https://askanatomic.com",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "Gurugram, HR, India; Noida, UP, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Real-world healthcare data for medical AI Anatomic works with hospitals and doctors to collect surgical video, doctor-patient conversations and medical imaging for AI and robotics research. Our data library includes multi-perspective surgical recordings, diarized and transcribed clinical conversations, and annotated X-ray, CT and MRI series linked to longitudinal patient records. Built through a network of 100+ hospitals and 1,000+ clinicians, with HIPAA- and GDPR-compliant data. B2B, Digital Health, Healthcare, Data Labeling, AI, Healthcare, Healthcare IT, India, South Asia",
+   "site_text": "[https://askanatomic.com/]\nAnatomic: real-world healthcare data for medical AI Skip to content Data Library For hospitals Reach Real-world healthcare data for medical AI. We work with hospitals and doctors to collect surgical video, doctor-patient conversations and medical imaging for AI and robotics research. Backed by Request Sample VIDEO AUDIO IMAGING CLINICAL LONGITUDINAL Pause Data Library Explore the data library. Real clinical environments, captured across perspectives and modalities. Governance Clinical dataset compliant with HIPAA, GDPR. 01 Modality Surgical video Surgical recordings from multiple perspectives, with procedural context for surgical AI, computer vision and robotics research. Access to 1,000+ surgeons Coming soon Inertial motion capture, palm or wrist Active depth sensing Surgeon POV View surgical sample Contains surgical footage Telemetry Microscope view Synchronized views Surgeon POV Telemetry Microscope view Synchronized views Excerpt 0:05 Resolution 3840 × 2160 (4K) Frame rate 50 fps Preview streamed at 1080p Request Sample 02 Modality Clinical conversations Real doctor-patient conversations in high-fidelity audio, with speaker diarization, multilingual transcription, event-boundary tagging and accent mapping. Access to 1,000+ clinicians Sample 1 · 0:44 Sample 2 · 0:35 Doctor · Patient 48 kHz · 16-bit · mono Audio Doctor Patient English 0:00 / 0:44 Transcript Doctor 0:00 They they cause a lot of sleep. So maybe you can take only one tablet at night and not the other one in the morning. Like, both are to be taken? Patient 0:08 At night. Doctor 0:09 Both are to be taken at night. So maybe if the, like, sleepiness is more, you can stop that Cetirizine and just take the Bilastine. Patient 0:19 Okay. It's causing hallucinations sort of things. It's Doctor 0:22 very Stop one medicine. Okay. Stop that Cetirizine. Okay. Okay? And, ask if they have got this medicine because once you'll start that, it will automatically decrease. Okay. Patient 0:34 And, also, doctor, I also feel, like, some pain on that throat. Doctor 0:38 It's a pain from here. Any cough who's also there? Patient 0:43 Yeah. Speakers Doctor, Patient Format .wav Diarization Speaker turns, timed Transcription Multilingual Tags Event boundaries, accent Request Sample 03 Modality Multimodal imaging series + longitudinal context Annotated X-ray, CT and MRI series across organs, pathologies and patient groups, each linked to its interpretation and to the patient's record over time. 5B+ images A Series B Interpretation C Longitudinal record X-ray · Cervical spine Signal Source Before surgery After surgery B Interpretation Radiology report Study 3T MRI - Cervical Spine Plain Patient 34 years / Male TECHNIQUE T1-T2 sagitals, T2 axials, STIR - Saggitals & Coronals. FINDINGS & IMPRESSION Loss of normal cervical curvature. Mild disc desiccation changes noted at multiple vertebral levels. C3-C4 vertebral level: Right foraminal disc protrusion noted causing right neural foraminal narrowing. Severe compression noted on right exiting nerve root. C4-C5 vertebral level: Mild diffuse disc bulge noted. C5-C6 vertebral level: Bilateral paracentral and right foraminal disc protrusion with ligamentum flavum hypertrophy noted causing anterior, posterior thecal sac indentation, bilateral neural foramina narrowing and secondary spinal canal stenosis with maximum spinal canal diameter measuring 7.9 mm. Severe compression on right and moderate to severe compression on left exiting nerve roots. C6-C7 vertebral level: Bilateral paracentral and bilateral foraminal disc protrusion with ligamentum flavum hypertrophy noted causing anterior, posterior thecal sac indentation, bilateral neural foramina narrowing and secondary spinal canal stenosis with maximum spinal canal diameter measuring 6.1 mm. Severe compression on bilateral exiting nerve roots. Mild T2, STIR hyperintensities noted within spinal cord at this level - S/o Focal myelomalacia. Spinal canal AP diameters C2-C3 : ",
+   "email_candidates": [
+    {
+     "email": "abhishek@askanatomic.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Abhishek Bhayana",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "Gurugram · YC",
+   "referral": false
+  },
+  {
+   "id": "94f8f03857",
+   "company": "Projexa AI",
+   "website": "https://projexa.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Projexa is a modern SAAS built entirely around project-based, collaborative learning.. Languages: HTML, TypeScript",
+   "site_text": "[https://projexa.ai/]\nTitle: The Project-First LMS for Modern Universities\n\nURL Source: https://projexa.ai/\n\nMarkdown Content:\n![Image 6: Projexa](https://cdn.projexa.ai/projexa-logo.svg)\n\n[Features](https://projexa.ai/#features)[Team](https://projexa.ai/#team)[Demo](https://projexa.ai/#demo)[Sign In](https://projexa.ai/authenticate)Get Started\n\n[Sign In](https://projexa.ai/authenticate)Get Started\n\nNew: AI Project Assistant\n\n# Ship Academic   \nProjects Faster\n\nThe all-in-one workspace for universities. Manage student projects, track progress with AI, and collaborate seamlessly with GitHub integration.\n\nStart Free Trial Watch Demo\n\n5000+ Students\n\n2000+ Projects\n\nGitHub Verified\n\nStudent Dashboard\n\nAI Code Review\n\nAnalyzing pull request #42...\n\nRunning\n\nRepo Sync\n\nUpdated 2 mins ago\n\n![Image 7: Team member 1](https://cdn.projexa.ai/user/profile-pictures/0c0f75e7f6104822a7b3314749c42363/profile.jpg)![Image 8: Team member 2](https://cdn.projexa.ai/user/profile-pictures/a81887c09a774f78be55c9e323bedd97/profile.jpg)![Image 9: Team member 3](https://cdn.projexa.ai/user/profile-pictures/ad9fb5dbefcb4a37a4da245e411fb909/profile.jpg)\n\n➜git commit -m \"feat: implemented ai analysis\"\n\n➜git push origin main\n\nEnumerating objects: 15, done.\n\nTeam Velocity\n\n+24% this week \n\nFor Universities & Management\n\n## 20th-Century Methodologies Are   \nSabotaging 21st-Century   \nAcademic Innovation\n\nTransform administrative chaos into strategic oversight with the world's first AI-powered academic project management system.\n\nThe Old Way The Projexa Way\n\n### 20th-Century Methodologies\n\nTraditional, fragmented approaches that slow down innovation.\n\nManual spreadsheet tracking\n\nDisconnected departments\n\nReactive problem solving\n\nDelayed accreditation reports\n\n### Intelligent Oversight\n\nComprehensive visibility and control over the entire project lifecycle.\n\n#### Real-Time Dashboard Analytics\n\nGet instant visibility into all projects across departments with comprehensive performance metrics.\n\nImpact 95% faster reporting\n\n#### Automated Compliance Reporting\n\nGenerate accreditation-ready reports with one click. Export data in multiple formats for NAAC & NBA.\n\nImpact 80% time saved\n\n#### Intelligent Resource Allocation\n\nAI-powered mentor assignment based on expertise and workload. Monitor faculty engagement.\n\nImpact 40% better balance\n\n#### Predictive Insights\n\nIdentify at-risk projects early with AI-driven analytics. Track interaction frequency and submissions.\n\nImpact 60% early detection\n\n### Why Universities Choose Projexa AI\n\n100%\n\nAccreditation Ready\n\n2000+\n\nProjects Managed\n\n2+\n\nInstitutions Trust Us\n\nFor Faculty & Mentors\n\n## From Overwhelmed to   \nEmpowered & Efficient\n\nFocus on what matters most - mentoring students - while AI and automation handle the administrative burden.\n\n### The Daily Struggle\n\nMentoring multiple teams means juggling endless administrative tasks that take time away from meaningful guidance.\n\n#### Time-Consuming Reviews\n\nHours spent manually reviewing code and providing feedback to each team\n\n#### Communication Chaos\n\nScattered emails, messages, and documents make tracking difficult\n\n#### No Code Visibility\n\nDifficult to access and review student code without downloading repositories\n\n#### Scheduling Headaches\n\nEndless back-and-forth to coordinate meetings with multiple teams\n\n### The Projexa AI Solution\n\nAI-powered tools that amplify your impact and automate the repetitive tasks.\n\n#### AI-Powered Code Insights\n\nGet instant, intelligent code summaries and quality assessments across 20+ programming languages. AI analyzes structure, patterns, and best practices automatically.\n\nReal-time code summarization\n\nQuality metrics & insights\n\nPattern detection\n\nBest practice suggestions\n\n#### Integrated GitHub Workspace\n\nBrowse, review, and analyze student code directly in Projexa AI. No more downloading repositories or switching between tools.\n\nIn-platform code viewer\n\nSyntax highlighting\n\nCommit history tracking\n\nContribution analytics\n\n###",
+   "email_candidates": [
+    {
+     "email": "hello@projexa.ai",
+     "where": "job posting",
+     "kind": "generic"
+    },
+    {
+     "email": "contact@projexa.ai",
+     "where": "https://projexa.ai/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "94f8f03857-ref",
+   "company": "Projexa AI",
+   "website": "https://projexa.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Projexa is a modern SAAS built entirely around project-based, collaborative learning.. Languages: HTML, TypeScript",
+   "site_text": "[https://projexa.ai/]\nTitle: The Project-First LMS for Modern Universities\n\nURL Source: https://projexa.ai/\n\nMarkdown Content:\n![Image 6: Projexa](https://cdn.projexa.ai/projexa-logo.svg)\n\n[Features](https://projexa.ai/#features)[Team](https://projexa.ai/#team)[Demo](https://projexa.ai/#demo)[Sign In](https://projexa.ai/authenticate)Get Started\n\n[Sign In](https://projexa.ai/authenticate)Get Started\n\nNew: AI Project Assistant\n\n# Ship Academic   \nProjects Faster\n\nThe all-in-one workspace for universities. Manage student projects, track progress with AI, and collaborate seamlessly with GitHub integration.\n\nStart Free Trial Watch Demo\n\n5000+ Students\n\n2000+ Projects\n\nGitHub Verified\n\nStudent Dashboard\n\nAI Code Review\n\nAnalyzing pull request #42...\n\nRunning\n\nRepo Sync\n\nUpdated 2 mins ago\n\n![Image 7: Team member 1](https://cdn.projexa.ai/user/profile-pictures/0c0f75e7f6104822a7b3314749c42363/profile.jpg)![Image 8: Team member 2](https://cdn.projexa.ai/user/profile-pictures/a81887c09a774f78be55c9e323bedd97/profile.jpg)![Image 9: Team member 3](https://cdn.projexa.ai/user/profile-pictures/ad9fb5dbefcb4a37a4da245e411fb909/profile.jpg)\n\n➜git commit -m \"feat: implemented ai analysis\"\n\n➜git push origin main\n\nEnumerating objects: 15, done.\n\nTeam Velocity\n\n+24% this week \n\nFor Universities & Management\n\n## 20th-Century Methodologies Are   \nSabotaging 21st-Century   \nAcademic Innovation\n\nTransform administrative chaos into strategic oversight with the world's first AI-powered academic project management system.\n\nThe Old Way The Projexa Way\n\n### 20th-Century Methodologies\n\nTraditional, fragmented approaches that slow down innovation.\n\nManual spreadsheet tracking\n\nDisconnected departments\n\nReactive problem solving\n\nDelayed accreditation reports\n\n### Intelligent Oversight\n\nComprehensive visibility and control over the entire project lifecycle.\n\n#### Real-Time Dashboard Analytics\n\nGet instant visibility into all projects across departments with comprehensive performance metrics.\n\nImpact 95% faster reporting\n\n#### Automated Compliance Reporting\n\nGenerate accreditation-ready reports with one click. Export data in multiple formats for NAAC & NBA.\n\nImpact 80% time saved\n\n#### Intelligent Resource Allocation\n\nAI-powered mentor assignment based on expertise and workload. Monitor faculty engagement.\n\nImpact 40% better balance\n\n#### Predictive Insights\n\nIdentify at-risk projects early with AI-driven analytics. Track interaction frequency and submissions.\n\nImpact 60% early detection\n\n### Why Universities Choose Projexa AI\n\n100%\n\nAccreditation Ready\n\n2000+\n\nProjects Managed\n\n2+\n\nInstitutions Trust Us\n\nFor Faculty & Mentors\n\n## From Overwhelmed to   \nEmpowered & Efficient\n\nFocus on what matters most - mentoring students - while AI and automation handle the administrative burden.\n\n### The Daily Struggle\n\nMentoring multiple teams means juggling endless administrative tasks that take time away from meaningful guidance.\n\n#### Time-Consuming Reviews\n\nHours spent manually reviewing code and providing feedback to each team\n\n#### Communication Chaos\n\nScattered emails, messages, and documents make tracking difficult\n\n#### No Code Visibility\n\nDifficult to access and review student code without downloading repositories\n\n#### Scheduling Headaches\n\nEndless back-and-forth to coordinate meetings with multiple teams\n\n### The Projexa AI Solution\n\nAI-powered tools that amplify your impact and automate the repetitive tasks.\n\n#### AI-Powered Code Insights\n\nGet instant, intelligent code summaries and quality assessments across 20+ programming languages. AI analyzes structure, patterns, and best practices automatically.\n\nReal-time code summarization\n\nQuality metrics & insights\n\nPattern detection\n\nBest practice suggestions\n\n#### Integrated GitHub Workspace\n\nBrowse, review, and analyze student code directly in Projexa AI. No more downloading repositories or switching between tools.\n\nIn-platform code viewer\n\nSyntax highlighting\n\nCommit history tracking\n\nContribution analytics\n\n###",
+   "email_candidates": [
+    {
+     "email": "sharshit0369@gmail.com",
+     "where": "GitHub member (ProjexaAI) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Harshit Singh",
+     "role": "Engineer"
+    },
+    {
+     "email": "kush2012bhardwaj@gmail.com",
+     "where": "GitHub member (ProjexaAI) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Kushagra Bhardwaj",
+     "role": "Engineer"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  }
+ ]
+}
