@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-21T10:15:09Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-21T14:09:39Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 269 · **Sent:** 269 · **Replies:** 33 (12%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 269 · **Sent:** 269 · **Replies:** 35 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,18 +10,18 @@ _Updated 2026-10-21T10:15:09Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 19 |
 | no_contact | 853 |
 | low_fit | 683 |
-| sent | 39 |
+| sent | 31 |
 | followup_1 | 50 |
 | followup_2 | 66 |
-| replied | 33 |
-| bounced | 12 |
+| replied | 35 |
+| bounced | 18 |
 | closed | 69 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 143 | 17 |
+| medvault | 143 | 19 |
 | canopy | 87 | 12 |
 | basepair | 39 | 4 |
 
@@ -29,7 +29,7 @@ _Updated 2026-10-21T10:15:09Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 228 | 25 |
+| role | 228 | 27 |
 | short | 41 | 8 |
 
 ## Replies
@@ -41,6 +41,8 @@ _Updated 2026-10-21T10:15:09Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **CABLE** — Theo <theo@cable.energy> replied 2026-10-07
 - **True Arrow Software** —  <info@truearrow.software> replied 2026-10-19
 - **Stripe** — rishikej-stripe <rishikej@stripe.com> replied 2026-10-06
+- **Midocean Technologies Pvt Ltd** —  <sagar@midocean.tech> replied 2026-10-21
+- **Midocean Technologies Pvt Ltd** — Bhavesh Mahavar <bhavesh.m@midocean.tech> replied 2026-10-21
 - **GroMo** —  <contact@gromo.in> replied 2026-10-12
 - **Leeroo** —  <founders@leeroo.com> replied 2026-10-07
 - **Complir** —  <contact@complir.io> replied 2026-10-06
@@ -72,12 +74,12 @@ _Updated 2026-10-21T10:15:09Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
-| 2026-10-21 | StackRyze | hello@stackryze.com | canopy | sent |
-| 2026-10-21 | RDash | amit@rdash.io | medvault | sent |
-| 2026-10-21 | LimeTray | gaurav@limetray.com | medvault | sent |
+| 2026-10-21 | StackRyze | hello@stackryze.com | canopy | bounced |
+| 2026-10-21 | RDash | amit@rdash.io | medvault | bounced |
+| 2026-10-21 | LimeTray | gaurav@limetray.com | medvault | bounced |
 | 2026-10-21 | Skcript | karthik@skcript.com | medvault | sent |
 | 2026-10-21 | Infraspec | hemant@infraspec.dev | canopy | sent |
-| 2026-10-21 | Ambibuzz Technologies LLP | sambhav.saxena@ambibuzz.com | medvault | sent |
+| 2026-10-21 | Ambibuzz Technologies LLP | sambhav.saxena@ambibuzz.com | medvault | bounced |
 | 2026-10-21 | Tenstorrent | viktorpus@tenstorrent.com | canopy | sent |
 | 2026-10-21 | Squadcast Inc | mohammad@squadcast.com | canopy | sent |
 | 2026-10-21 | ViitorCloud Technologies | careers@viitorcloud.com | canopy | sent |
@@ -87,13 +89,13 @@ _Updated 2026-10-21T10:15:09Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-21 | CivicDataLab | saurabh.levin@gmail.com | canopy | sent |
 | 2026-10-21 | CivicDataLab | careers@civicdatalab.in | canopy | sent |
 | 2026-10-21 | Stackbox | saby@stackbox.xyz | medvault | sent |
-| 2026-10-21 | Midocean Technologies Pvt Ltd | bhavesh.m@midocean.tech | medvault | sent |
+| 2026-10-21 | Midocean Technologies Pvt Ltd | bhavesh.m@midocean.tech | medvault | replied |
 | 2026-10-21 | Kloudi | nitishmehrotra@gmail.com | canopy | sent |
 | 2026-10-21 | Fewinfos | naveenrajthiyagarajan6@gmail.com | medvault | sent |
 | 2026-10-21 | StackRyze | sudheerbhuvana25@gmail.com | canopy | sent |
 | 2026-10-21 | LimeTray | lt.login@limetray.com | medvault | sent |
-| 2026-10-21 | Ambibuzz Technologies LLP | john@ambibuzz.com | medvault | sent |
+| 2026-10-21 | Ambibuzz Technologies LLP | john@ambibuzz.com | medvault | bounced |
 | 2026-10-21 | Tenstorrent | recruiting-jp@tenstorrent.com | canopy | sent |
 | 2026-10-21 | Infopercept | amitk@infopercept.com | canopy | sent |
-| 2026-10-21 | Midocean Technologies Pvt Ltd | sagar@midocean.tech | medvault | sent |
+| 2026-10-21 | Midocean Technologies Pvt Ltd | sagar@midocean.tech | medvault | replied |
 | 2026-10-21 | Fewinfos | fewinfos@gmail.com | medvault | sent |
