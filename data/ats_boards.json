@@ -1149,6 +1149,11 @@
   "found": "2026-10-14",
   "website": "https://digitap.ai"
  },
+ "freshteam:haptik": {
+  "company": "Jio Haptik Technologies Limited",
+  "found": "2026-10-22",
+  "website": "https://haptik.ai"
+ },
  "greenhouse:7shifts": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -1534,6 +1539,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "keka:10decoders": {
+  "company": "10decoders Consultancy Services Pvt Ltd",
+  "found": "2026-10-22",
+  "website": "https://10decoders.com"
+ },
  "keka:cloudsufi": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -1553,6 +1563,11 @@
   "company": "NuPlay AI",
   "found": "2026-10-20",
   "website": "https://www.nuplay.ai"
+ },
+ "keka:urbanpiper": {
+  "company": "UrbanPiper",
+  "found": "2026-10-22",
+  "website": "https://urbanpiper.com"
  },
  "lever:agiloft": {
   "company": "Cargo",
@@ -1648,5 +1663,15 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "zoho:ayanworks": {
+  "company": "AYANWORKS",
+  "found": "2026-10-22",
+  "website": "https://ayanworks.com"
+ },
+ "zoho:f22labs": {
+  "company": "F22 Labs",
+  "found": "2026-10-22",
+  "website": "https://f22labs.com"
  }
 }
