@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-21T18:51:59Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-22T14:00:36Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 269 · **Sent:** 269 · **Replies:** 35 (13%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 269 · **Sent:** 269 · **Replies:** 36 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -11,9 +11,9 @@ _Updated 2026-10-21T18:51:59Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | no_contact | 853 |
 | low_fit | 683 |
 | sent | 31 |
-| followup_1 | 50 |
+| followup_1 | 49 |
 | followup_2 | 66 |
-| replied | 35 |
+| replied | 36 |
 | bounced | 18 |
 | closed | 69 |
 
@@ -21,7 +21,7 @@ _Updated 2026-10-21T18:51:59Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 143 | 19 |
+| medvault | 143 | 20 |
 | canopy | 87 | 12 |
 | basepair | 39 | 4 |
 
@@ -29,7 +29,7 @@ _Updated 2026-10-21T18:51:59Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 228 | 27 |
+| role | 228 | 28 |
 | short | 41 | 8 |
 
 ## Replies
@@ -58,6 +58,7 @@ _Updated 2026-10-21T18:51:59Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **ColoredCow** — Vaibhav Rathore <vaibhav@coloredcow.com> replied 2026-10-01
 - **Hackerrank** —  <internship-queries@hackerrank.com> replied 2026-10-14
 - **Nagu** — kj1352 <nikhilkj24@gmail.com> replied 2026-10-20
+- **Signzy** — Ankur <ankur@signzy.com> replied 2026-10-22
 - **HivarSoft** — Hitesh Kumar <dev.hitesh.k@gmail.com> replied 2026-10-05
 - **Pocket** —  <hey@heypocket.com> replied 2026-10-08
 - **GattyWorks** —  <hello@gattyworks.com> replied 2026-10-09

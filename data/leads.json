@@ -66006,6 +66006,7 @@
   "priority_note": "active GitHub org, no posting",
   "recontacted": "2026-10-13",
   "referral": true,
+  "replied_at": "2026-10-22T13:58:47Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "Signzy's identity and compliance APIs handle sensitive personal documents, the same auth, per-user isolation and data-privacy work MedVault does on health records.",
@@ -66022,7 +66023,7 @@
   },
   "score": 8.0,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Signzy",
   "website": "https://signzy.com",
