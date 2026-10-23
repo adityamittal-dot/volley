@@ -1,0 +1,237 @@
+{
+  "leads": [
+    {
+      "id": "71501abc80",
+      "relevant": true,
+      "summary": "Prembly sells identity verification, KYC, AML and fraud-prevention APIs and an SDK widget so digital businesses can verify individuals and businesses across emerging markets, starting with Nigeria.",
+      "stack": [
+        "webhooks",
+        "MCP server",
+        "SDK widget"
+      ],
+      "hook": "Your site announces that the Prembly MCP Server is now live, so an AI assistant can connect to Prembly directly.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Django REST backend with JWT auth and per-user isolation matches a verification API that handles sensitive identity data for many businesses.",
+      "fit": 6,
+      "region": "africa",
+      "people": [
+        {
+          "name": "Lanre Ogungbe",
+          "role": "Founder"
+        },
+        {
+          "name": "Niyi Adegboye",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "lanre@prembly.com",
+      "contact_name": "Lanre Ogungbe",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "9e50bed97c",
+      "relevant": true,
+      "summary": "Complif automates compliance operations for financial institutions, covering KYC/KYB, AML monitoring, risk profiling and regulatory reporting, with AI agents that handle screening and investigation tasks.",
+      "stack": [],
+      "hook": "Your Screena agent auto-investigates sanctions and PEP matches to rule out false positives, which is a hard triage problem to automate.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Gemini pipeline with a fixed output schema and hard safety rules is the same pattern as Complif's AI agents making bounded decisions on regulated financial data.",
+      "fit": 6,
+      "region": "americas",
+      "people": [
+        {
+          "name": "Lucas Ranallo",
+          "role": "Founder"
+        },
+        {
+          "name": "Mathias Caramutti",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "lucas@complif.com",
+      "contact_name": "Lucas Ranallo",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "d51cbe6d3d",
+      "relevant": true,
+      "summary": "Fleek is a B2B wholesale marketplace where resellers and vintage stores buy second-hand fashion lots from used-clothing suppliers, with a mobile app and buyer protection.",
+      "stack": [],
+      "hook": "Your site's 'Customs & duties handled' promise, with a note that new US tariffs may apply, is a real cross-border problem for resellers.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Django REST backend with per-user isolation at the queryset level maps onto a two-sided marketplace that must keep buyer and supplier data separate.",
+      "fit": 5,
+      "region": "europe",
+      "people": [],
+      "contact_email": "careers@joinfleek.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "dfc8dda9c2",
+      "relevant": true,
+      "summary": "Conveo runs AI-moderated consumer research interviews and stores the results in a queryable knowledge base so enterprise brands can answer customer questions from past studies.",
+      "stack": [],
+      "hook": "Your site's NEW banner says Conveo raised $50M to build consumer understanding infrastructure.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's LLM pipeline with a fixed output schema and per-user data isolation fits Conveo's AI-moderated interviews and sensitive enterprise research data.",
+      "fit": 6,
+      "region": "europe",
+      "people": [
+        {
+          "name": "Dieter De Mesmaeker",
+          "role": "Founder/CTO"
+        },
+        {
+          "name": "Hendrik Van Hove",
+          "role": "Founder/COO"
+        }
+      ],
+      "contact_email": "hendrikvanhove01@gmail.com",
+      "contact_name": "Hendrik Van Hove",
+      "contact_role": "Founder/COO",
+      "red_flags": []
+    },
+    {
+      "id": "00db84a603",
+      "relevant": true,
+      "summary": "Hammr makes payroll, time-tracking, scheduling, benefits and HR software for specialty construction contractors, with integrations into common accounting systems.",
+      "stack": [
+        "QuickBooks",
+        "Sage Intacct",
+        "Xero",
+        "Acumatica"
+      ],
+      "hook": "Your Hammr listing just went live on the Sage Intacct Marketplace.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Django REST backend with JWT auth and per-user isolation fits a payroll product that handles employee pay and HR records for many contractors.",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {
+          "name": "Brek Goin",
+          "role": "Founder"
+        },
+        {
+          "name": "Sanket Firodiya",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "brek@hammr.com",
+      "contact_name": "Brek Goin",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "0546a18f4a",
+      "relevant": true,
+      "summary": "PoloTab sells point-of-sale software to coffee shops and restaurants in Mexico, bundling payments, kitchen display, inventory, delivery integrations and invoicing across more than 1,200 venues.",
+      "stack": [],
+      "hook": "Your site claims 22.8M comandas processed a year with a reliability promise that keeps working without internet.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Django REST backend with per-user isolation and JWT auth matches a multi-venue POS backend that must keep each venue's sales and payment data separate.",
+      "fit": 6,
+      "region": "americas",
+      "people": [],
+      "contact_email": "founders@polotab.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "05eb5222e4",
+      "relevant": true,
+      "summary": "Voltic builds US-built electric cargo ships with battery and solar propulsion and sells shipping capacity to freight forwarders and cargo owners. The posting is for a role open to new grads but limited to US citizens and visa holders.",
+      "stack": [],
+      "hook": "Your site says every Voltic ship keeps a traditional diesel system on board as a backup.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's graph and dependency analysis is the closest software match to a shipping company's lane and fleet-scheduling systems, though the overlap is weak.",
+      "fit": 3,
+      "region": "us",
+      "people": [
+        {
+          "name": "Prosser Cathey",
+          "role": "CEO"
+        }
+      ],
+      "contact_email": "contact@volticshipping.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "05fb5dd04d",
+      "relevant": true,
+      "summary": "adyn sells an at-home test that analyzes hormone levels and genetic background to help people choose a birth control method with fewer side effects, followed by a telehealth prescription.",
+      "stack": [],
+      "hook": "Your 'Map your hormones over time' step after the at-home test suggests ongoing data rather than a one-off result.",
+      "angle": "medvault",
+      "angle_reason": "MedVault is a health-data product whose prompt rules forbid diagnosis or prescription, the same regulated health-data constraint adyn works under.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "hello@adyn.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0a478ab1be",
+      "relevant": false,
+      "summary": "Cascade Space is building an array-based commercial ground-station network as an alternative to NASA's Deep Space Network, starting with a Moon downlink station.",
+      "stack": [],
+      "hook": "Your Array design uses many small dishes instead of one large dish, so the cost to build shrinks over time.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's graph and dependency analysis is a loose match for network-and-operations tooling, but the only open role is senior mechanical.",
+      "fit": 2,
+      "region": "us",
+      "people": [
+        {
+          "name": "Jacob Portukalian",
+          "role": "Co-Founder, CEO"
+        },
+        {
+          "name": "Arlen Abraham",
+          "role": "Co-Founder, CTO"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0c543332d7",
+      "relevant": true,
+      "summary": "Senso (YC W24, Toronto, team of 8) builds a verified-context layer that lets companies publish ground-truth data so AI agents and LLMs cite them accurately instead of third-party sources; it was recently announced to be acquired by Zeta Global.",
+      "stack": [
+        "AI",
+        "LLM",
+        "CLI tooling",
+        "Node.js/npm packaging"
+      ],
+      "hook": "their dev docs have you run `npm install -g @senso-ai/cli` to ingest a knowledge base so LLMs like ChatGPT/Gemini/Perplexity cite the verified source instead of a random third-party page",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Gemini pipeline with a fixed JSON output schema and a tolerant parser for malformed model output mirrors Senso's job of turning messy enterprise docs into structured, LLM-citable ground truth.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {
+          "name": "Saroop Bharwani",
+          "role": "Founder"
+        },
+        {
+          "name": "Thomas Nelson",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "saroop@senso.ai",
+      "contact_name": "Saroop Bharwani",
+      "contact_role": "Founder",
+      "red_flags": []
+    }
+  ]
+}

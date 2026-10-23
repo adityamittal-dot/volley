@@ -1,0 +1,185 @@
+{
+ "leads": [
+  {
+   "id": "cedc59bb85",
+   "relevant": false,
+   "summary": "Investment app for people in Latin America to buy US stocks, ETFs and 50+ cryptocurrencies with zero commissions. Hapi is a US-registered broker.",
+   "stack": [],
+   "hook": "Homepage pitches investing from $1 with a $0 broker commission for people across Latin America.",
+   "angle": "medvault",
+   "angle_reason": "Closest project is MedVault's Django backend with per-user data isolation, but the lead is excluded before outreach as a crypto business.",
+   "fit": 3,
+   "region": "americas",
+   "people": [
+    {"name": "Dusko Kelez", "role": "Founder"},
+    {"name": "Billy Caballero", "role": "Founder"},
+    {"name": "Piero Sifuentes", "role": "Founder"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "e471f459f0",
+   "relevant": true,
+   "summary": "CRM and drop platform that helps musicians, festivals and creators capture fan sign-ups, message fans by SMS, email and Instagram, and sell tickets and merch. Claims 10,000+ users.",
+   "stack": [],
+   "hook": "Homepage says its new AI Agents recover abandoned merch and ticket sales on autopilot.",
+   "angle": "medvault",
+   "angle_reason": "Laylo's new AI Agents are an AI product feature, and MedVault is the LLM pipeline project with a fixed output schema and safety rules.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "eb10b84f1d",
+   "relevant": true,
+   "summary": "Alternative-investment platform for wealth managers and fund managers. It launches SPVs and feeder funds, automates alternatives compliance, and handles paperwork for direct alternatives purchases.",
+   "stack": [],
+   "hook": "Site says the platform eliminates paperwork and NIGOs (not in good order) for direct alternatives purchases.",
+   "angle": "medvault",
+   "angle_reason": "Aqua is regulated fintech workflow software, and MedVault's JWT-authenticated Django backend with per-user isolation and privacy rules is the closest work.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Rohan Marwaha", "role": "Founder"},
+    {"name": "Dev Patel", "role": "Founder"}
+   ],
+   "contact_email": "rohan@investwithaqua.com",
+   "contact_name": "Rohan Marwaha",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "ecdc4ad4a6",
+   "relevant": true,
+   "summary": "Financial data platform for e-commerce brands. It reconciles orders, payments, fees, refunds and bank deposits into one transaction-level source of truth for finance teams and AI agents.",
+   "stack": [],
+   "hook": "Fabric page says AI agents hallucinate without a reconciled source of truth underneath them.",
+   "angle": "medvault",
+   "angle_reason": "Blue Onion's AI-facing finance data needs reliable structured output, which MedVault's fixed-schema LLM pipeline and tolerant parser handle.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "hello@blueonion.ai",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "f0c4f78849",
+   "relevant": true,
+   "summary": "Enterprise AI security and compliance platform. It provides guardrails against prompt injection and jailbreaks, hallucination detection, red-teaming and audit reporting for regulated companies.",
+   "stack": [],
+   "hook": "Site describes real-time hallucination detection with root-cause analysis for LLM failure modes.",
+   "angle": "medvault",
+   "angle_reason": "MedVault is an LLM pipeline with enforced output schema and safety rules that forbid unsafe claims, the same problem space as Dynamo's guardrails.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Christian Lau", "role": "Co-Founder"},
+    {"name": "Vaikkunth Mugunthan", "role": "Founder"}
+   ],
+   "contact_email": "christian@dynamo.ai",
+   "contact_name": "Christian Lau",
+   "contact_role": "Co-Founder",
+   "red_flags": []
+  },
+  {
+   "id": "f237ad413b",
+   "relevant": true,
+   "summary": "Data software for biomanufacturing. It connects bioreactors and lab instruments, normalizes and organizes process data, and adds AI features for scientists.",
+   "stack": [],
+   "hook": "Careers and product copy say bioprocess teams spend over 50% of their time managing data, which Invert handles for instrument exports and timestamp alignment.",
+   "angle": "medvault",
+   "angle_reason": "Invert is a regulated life-science data product with AI features, and MedVault is a health-data app with an LLM pipeline and per-user data isolation.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Martin T. Permin", "role": "Founder"},
+    {"name": "Holger Thorup", "role": "Founder"}
+   ],
+   "contact_email": "martin@invertbio.com",
+   "contact_name": "Martin T. Permin",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "fcd1eae90f",
+   "relevant": true,
+   "summary": "AI leasing and resident-lifecycle platform for multifamily property managers. Its Kelsey agent handles leasing calls, rent-collection follow-ups and move-outs with human support. A blog post says Zuma is joining Venn.",
+   "stack": [],
+   "hook": "Kelsey's AI receptionist handles property calls and tracks promise-to-pay dates for late rent.",
+   "angle": "medvault",
+   "angle_reason": "Kelsey is an AI agent talking to residents, and MedVault's LLM pipeline with guardrails and fixed output schema fits that kind of guarded AI output.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Shiv Gettu", "role": "Co-Founder"}
+   ],
+   "contact_email": "careers@getzuma.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "feba06571a",
+   "relevant": true,
+   "summary": "Data and AI platform that turns messy card and bank transactions into structured, verified merchant and location records for fintechs and banks, delivered through an API.",
+   "stack": [],
+   "hook": "Site says its enrichment API returns merchant and location data in under 40 milliseconds.",
+   "angle": "medvault",
+   "angle_reason": "Spade is fintech infrastructure with a real-time API over messy financial data, and MedVault has a Django REST backend plus a parser for malformed model output.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Oban MacTavish", "role": "Founder"}
+   ],
+   "contact_email": "oban@spade.com",
+   "contact_name": "Oban MacTavish",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "38e5e3db00",
+   "relevant": true,
+   "summary": "Vietnamese employee-benefits fintech that gives underbanked workers on-demand pay, buy-now-pay-later and phone top-ups through their employers. Claims 700,000+ workers.",
+   "stack": [],
+   "hook": "On-demand pay page offers access to up to 60% of earned wages before payday.",
+   "angle": "medvault",
+   "angle_reason": "GIMO is a consumer fintech handling worker pay data, and MedVault's Django REST backend with JWT auth and per-user isolation is the closest match.",
+   "fit": 5,
+   "region": "asia",
+   "people": [
+    {"name": "Quan Nguyen", "role": "Founder"}
+   ],
+   "contact_email": "quan@gimo.vn",
+   "contact_name": "Quan Nguyen",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "4e019e6147",
+   "relevant": true,
+   "summary": "Energy orchestration platform. A single integration connects EV chargers, home batteries, solar and meters to energy retailers, covering device connectivity and grid flexibility.",
+   "stack": [],
+   "hook": "Site says one integration covers 1,000+ energy device models and 1.7M+ connected households.",
+   "angle": "canopy",
+   "angle_reason": "Enode is a developer-facing integration layer over many device types, the same kind of multi-system backend that Canopy's multi-language analyzer handles.",
+   "fit": 6,
+   "region": "europe",
+   "people": [
+    {"name": "Henrik Langeland", "role": "CEO and co-founder"}
+   ],
+   "contact_email": "henrik@enode.com",
+   "contact_name": "Henrik Langeland",
+   "contact_role": "CEO and co-founder",
+   "red_flags": []
+  }
+ ]
+}

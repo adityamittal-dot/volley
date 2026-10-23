@@ -1,0 +1,185 @@
+{
+ "leads": [
+  {
+   "id": "3975f6ef59",
+   "relevant": true,
+   "summary": "HumanLayer sells a multiplayer coding-agent IDE and cloud workspace where teams run background agents and review their sessions, plan artifacts and code diffs in one place.",
+   "stack": ["Homebrew", "Claude Code"],
+   "hook": "your homepage says a local daemon runs many agent sessions in parallel on a laptop and syncs through your API, so agents keep working after the laptop closes.",
+   "angle": "canopy",
+   "angle_reason": "Canopy maps a repo's call graph and architecture, the code-understanding layer a team needs to review large agent-written diffs in a shared workspace like HumanLayer's.",
+   "fit": 7,
+   "region": "us",
+   "people": [{"name": "Dexter Horthy", "role": "Founder/CEO"}],
+   "contact_email": "contact@humanlayer.dev",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "4272ac117e",
+   "relevant": true,
+   "summary": "Paragon AI records sales calls and turns them into call notes, Q&A, follow-up emails and filled CRM fields for Salesforce, HubSpot, Pipedrive and Zoho.",
+   "stack": ["Zoom", "Microsoft Teams", "Google Meet", "Salesforce", "HubSpot", "Chrome extension"],
+   "hook": "your site says every custom CRM field, such as budget and decision maker, is filled automatically from the call transcript.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Gemini pipeline turns free-form lab report text into a fixed JSON schema with a fallback parser, the same extraction problem as pulling CRM fields out of a call.",
+   "fit": 7,
+   "region": "us",
+   "people": [{"name": "Max Lu", "role": "Founder"}],
+   "contact_email": "hello@paragon.ai",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "49b027f64b",
+   "relevant": true,
+   "summary": "SilkChart analyzes sales calls to measure how well reps follow a playbook such as MEDDIC or SPIN, and surfaces coaching for reps and managers from the results.",
+   "stack": [],
+   "hook": "your AI Coach shows each rep a 'what you could have said' rephrasing right after the call, scored against the playbook.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's LLM pipeline with a fixed output schema and safety rules is the closest match to scoring call transcripts against a playbook and returning structured feedback.",
+   "fit": 7,
+   "region": "us",
+   "people": [{"name": "Andreea Francis", "role": "Founder"}],
+   "contact_email": "andreea@silkchart.com",
+   "contact_name": "Andreea Francis",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "49b0a561a6",
+   "relevant": true,
+   "summary": "Rubbrband is a creative company that makes commercials for large brands and describes itself as a new kind of creative company; its homepage is a portfolio reel of brand video.",
+   "stack": ["Google Tag Manager"],
+   "hook": "your homepage is a portfolio reel of brand commercials, and the posting describes a 10-person team that calls itself 'a new kind of creative company'.",
+   "angle": "medvault",
+   "angle_reason": "The posting tags the company as AI, and MedVault's LLM pipeline is the nearest project to generative AI work, though the overlap with commercial video production is thin.",
+   "fit": 3,
+   "region": "us",
+   "people": [
+    {"name": "Darren Hsu", "role": "Founder"},
+    {"name": "Jeremy Lee", "role": "Founder"},
+    {"name": "Abhinav Gopal", "role": "Founder"}
+   ],
+   "contact_email": "darren7070@gmail.com",
+   "contact_name": "Darren Hsu",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "56f5c4d2b7",
+   "relevant": true,
+   "summary": "Cargo is go-to-market infrastructure for coding agents: a git repo defines a company's GTM system as TypeScript, and the Cargo runtime deploys and runs it on triggers or schedules.",
+   "stack": ["TypeScript", "MCP", "npm", "Git"],
+   "hook": "your CLI says 'cargo-ai project deploy' plans the diff before it runs and can roll back to any previous state.",
+   "angle": "canopy",
+   "angle_reason": "Cargo keeps the system as a git repo that agents write to and Cargo deploys, the same code-first, git-aware infrastructure Canopy works in (commit-hash caching, git ls-remote before cloning).",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Aurelien Aubert", "role": "Founder"},
+    {"name": "Maxence De Villepion", "role": "Founder"}
+   ],
+   "contact_email": "aurelien@getcargo.io",
+   "contact_name": "Aurelien Aubert",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "584b9a9ce6",
+   "relevant": true,
+   "summary": "Syncly is an AI social listening and creator discovery platform for consumer brands, with video analysis across TikTok, Reels and Shorts and a customer feedback product.",
+   "stack": ["MCP"],
+   "hook": "your Syncly MCP connector brings social listening into Claude and ChatGPT through a remote MCP server.",
+   "angle": "medvault",
+   "angle_reason": "Syncly's Ask Syncly feature answers plain-language questions with cited source videos, the grounded-LLM-over-structured-data pattern MedVault implements.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Joseph Lee", "role": "Founder"},
+    {"name": "Jongsoo Keum", "role": "Founder"},
+    {"name": "Kwan Yoon", "role": "Founder"}
+   ],
+   "contact_email": "joseph@syncly.app",
+   "contact_name": "Joseph Lee",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "5c3162c84b",
+   "relevant": true,
+   "summary": "Glass Health builds clinical AI for clinicians, offering differential diagnosis support, ambient scribing and care planning, grounded in peer-reviewed evidence.",
+   "stack": [],
+   "hook": "your homepage announces 'New Glass for Patients is now available', a patient-facing product alongside the clinician tools.",
+   "angle": "medvault",
+   "angle_reason": "MedVault is a health-data LLM product with a fixed JSON output schema and safety rules that forbid diagnosis or prescription, a comparable constraint set to a clinical AI product.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "William Hart", "role": "Founder/CTO"},
+    {"name": "Dereck Paul", "role": "Founder/CEO"}
+   ],
+   "contact_email": "william@glass.health",
+   "contact_name": "William Hart",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "74f551e319",
+   "relevant": true,
+   "summary": "Magic Patterns is an AI design tool where product teams prototype UI from prompts, PRDs and repos, then hand the result to a coding agent or deploy it to a site.",
+   "stack": [],
+   "hook": "your 'Design System' feature asks teams to bring in their components and design rules so every generated concept comes out in their style.",
+   "angle": "canopy",
+   "angle_reason": "Magic Patterns takes a team's repo as generation context, and Canopy turns a repo into an architecture map, the code-understanding side of that same input.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Teddy Ni", "role": "GitHub committer"},
+    {"name": "Alex Danilowicz", "role": "GitHub committer"},
+    {"name": "Bernardo", "role": "GitHub committer"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "75adf3e689",
+   "relevant": true,
+   "summary": "Narrative, now rebranded as Zorro, sells AI regression tests written in plain English that self-heal, plus AI bug bashes that explore an app to find bugs, as an alternative to Playwright, Selenium and Cypress scripts.",
+   "stack": ["MCP server", "browser automation"],
+   "hook": "your demo shows autohealing matching a renamed 'Add employee' button to 'New employee' and flagging the rename as a potential bug.",
+   "angle": "canopy",
+   "angle_reason": "Zorro runs regression tests on pull requests, and Canopy computes which functions and call paths a change touches, the input a PR-triggered test selector needs.",
+   "fit": 7,
+   "region": "us",
+   "people": [{"name": "Suchit Dubey", "role": "Founder"}],
+   "contact_email": "suchit@trynarrative.com",
+   "contact_name": "Suchit Dubey",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "8203f863e1",
+   "relevant": true,
+   "summary": "Cogram sells AI tools for architecture and engineering firms, covering RFIs and submittals, email filing, meeting minutes, field reports and a project Q&A agent, integrated with Procore and Microsoft Teams.",
+   "stack": ["Procore", "Microsoft Teams", "Outlook", "Zoom", "Google Meet"],
+   "hook": "your field reports draft into each firm's own templates, and RFIs and submittals sync with Procore.",
+   "angle": "medvault",
+   "angle_reason": "Cogram drafts structured documents such as field reports and meeting minutes from messy input in a customer's template, the same structured-generation problem as MedVault's fixed-schema LLM output.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Alexander von Boetticher", "role": "Founder"},
+    {"name": "Ricardo Wolker", "role": "Founder"}
+   ],
+   "contact_email": "alexander@cogram.com",
+   "contact_name": "Alexander von Boetticher",
+   "contact_role": "Founder",
+   "red_flags": []
+  }
+ ]
+}

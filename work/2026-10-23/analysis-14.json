@@ -1,0 +1,191 @@
+{
+ "leads": [
+  {
+   "id": "f69aaf4c90",
+   "relevant": true,
+   "summary": "Accend builds AI agents that automate commercial credit underwriting for banks and fintechs, covering document intake, financial statement spreading, cash flow modeling and credit memos. Its customers include Brex, Rippling and Rho.",
+   "stack": ["REST API"],
+   "hook": "Your site offers a free first financial spread and describes human-in-the-loop review on every AI-generated financial statement spread.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Gemini pipeline with a fixed JSON output schema and a tolerant parser for malformed model output maps directly onto Accend's extraction of structured numbers from messy financial statements.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Pranjal Daga", "role": "Founder"},
+    {"name": "Yutong Pei", "role": "Founder"},
+    {"name": "Joseph Zhou", "role": "Founder"}
+   ],
+   "contact_email": "info@withaccend.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "f97f4d197f",
+   "relevant": true,
+   "summary": "Powder is an AI document-analysis tool that helps wealth advisors turn brokerage, tax, estate and portfolio documents into personalized sales proposals. It is a six-person YC startup.",
+   "stack": ["LLMs", "REST API"],
+   "hook": "Your site says the document parser handles brokerage, 401k, IRA, estate and tax documents and that you expose an API customers build on.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's LLM extraction pipeline with a fixed output schema and a tolerant parser for malformed output is the same problem as Powder's document parser, applied to financial documents instead of lab reports.",
+   "fit": 8,
+   "region": "us",
+   "people": [
+    {"name": "Kanishk Parashar", "role": "Founder/CEO"},
+    {"name": "Soo Yung Cho", "role": "Founder/CTO"},
+    {"name": "David Goerz", "role": "Founder"},
+    {"name": "Dominic Tully", "role": "Founder"}
+   ],
+   "contact_email": "soo@powderfi.com",
+   "contact_name": "Soo Yung Cho",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "fbfe9ea903",
+   "relevant": true,
+   "summary": "Loopfour builds deterministic, auditable workflow automation for finance teams, covering AR, AP, revenue recognition, reconciliation and month-end close. It is a 20-person YC W23 company.",
+   "stack": [],
+   "hook": "Your site says every change to a live workflow creates a new version that is retained, and every run is logged for auditors.",
+   "angle": "canopy",
+   "angle_reason": "Canopy's deterministic cross-file call-graph resolution, which marks unresolved calls as external instead of guessing, matches Loopfour's core promise of deterministic code over black-box AI.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "fd8dabd12c",
+   "relevant": true,
+   "summary": "Bot MD builds AI patient-engagement agents for hospitals and clinics in Asia-Pacific, covering FAQs, scheduling, intake, education and surveys across messaging channels. It is a 15-person YC-backed company in Singapore.",
+   "stack": [],
+   "hook": "Your site lists seven patient channels (WhatsApp, Messenger, Viber, LINE, Telegram, SMS, Web) behind one agent platform with human handover.",
+   "angle": "medvault",
+   "angle_reason": "MedVault is a health-tech LLM product with safety rules that forbid diagnosis and a Django REST backend, which matches Bot MD's clinical assistant work and its channel-agnostic API layer.",
+   "fit": 7,
+   "region": "asia",
+   "people": [
+    {"name": "Dorothea Koh", "role": "Founding CEO"},
+    {"name": "Yanchuan Sim", "role": "Founder/CTO"}
+   ],
+   "contact_email": "hello@botmd.io",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "ff677987ef",
+   "relevant": true,
+   "summary": "Swif.ai sells unified device management, security compliance and AI-agent governance for companies, covering Apple, Windows, Linux and Android. It is a 20-person YC company.",
+   "stack": ["Linux", "RustDesk", "MCP"],
+   "hook": "Your site lists Linux MDM for Omarchy and live terminal access through RustDesk, not just Apple and Windows fleets.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's JWT auth with refresh-token rotation and per-user queryset isolation is the same security and data-isolation work Swif's compliance and device-governance product depends on.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "0e94c601af",
+   "relevant": true,
+   "summary": "Aren builds AI tools for nurses that digitize shift report sheets, verify verbal handoffs and integrate charting with Epic and Meditech. It is a YC W24 healthcare company.",
+   "stack": ["FHIR", "Epic", "Meditech"],
+   "hook": "Your site describes a verbal-handoff check that flags missing critical information for every transition of care, from the ER to discharge.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's LLM pipeline with a fixed JSON output schema and safety rules is close to Aren's need to check structured clinical handoff data for missing or wrong fields.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Sarah Raza", "role": "Founder/CEO"},
+    {"name": "Umar Nadeem", "role": "Founder/CTO"}
+   ],
+   "contact_email": "umar@aren.com",
+   "contact_name": "Umar Nadeem",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "1bc56b7ba2",
+   "relevant": true,
+   "summary": "Sendblue provides iMessage lines and APIs for sales teams and developers, including AI agents that send and reply over iMessage. It is a 50-person YC S23 company in New York.",
+   "stack": ["TypeScript", "npm CLI"],
+   "hook": "Your site says a developer can provision an iMessage number with `npm i sendblue` and a single POST in under 30 seconds.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Django REST API and LLM agent client sit where Sendblue's messaging API and AI-agent product meet, and the candidate has built the same kind of backend.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Rob Haber", "role": "Founder (former ML Engineer at Scale AI)"},
+    {"name": "Alex Luis", "role": "Founder (former PM at PwC telecom practice)"}
+   ],
+   "contact_email": "rob@sendblue.com",
+   "contact_name": "Rob Haber",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "204abd28a4",
+   "relevant": true,
+   "summary": "Kivo Health runs AI-powered virtual pulmonary rehab for seniors with COPD, delivered through home kits, small group sessions and coaching. It is a 40-person Series A company that sells to health plans.",
+   "stack": [],
+   "hook": "Your site reports 83% median attendance and 83% program completion for the nine-week COPD program.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's health-tech LLM work with safety rules and per-user data isolation maps onto Kivo's patient-facing AI care program, where patient data has to stay separated.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Victor Sadauskas", "role": "Founder"},
+    {"name": "Vaughn Koch", "role": "Founder/CTO"}
+   ],
+   "contact_email": "vaughn@kivohealth.com",
+   "contact_name": "Vaughn Koch",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "29117253f4",
+   "relevant": true,
+   "summary": "Kodex is a SaaS portal that lets companies receive, verify, track and respond to government subpoenas and data requests securely. It is a 30-person YC company with customers including Coinbase and Bitfinex.",
+   "stack": [],
+   "hook": "Your site says Kodex verifies every requesting agent, encrypts every exchange and keeps the full record of each request.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's JWT auth, per-user isolation and data-privacy handling match Kodex's need to verify requestors and protect sensitive user data in every exchange.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Matt Donahue", "role": "Founder"},
+    {"name": "Danny Mendoza", "role": "Founder"}
+   ],
+   "contact_email": "matt@kodexglobal.com",
+   "contact_name": "Matt Donahue",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "2ea7c2875b",
+   "relevant": true,
+   "summary": "Ankr Health builds generative-AI virtual staff (VCX) that handle front-desk, phone and patient-outreach work for medical practices. It is a 30-person YC company based in Houston and San Francisco.",
+   "stack": ["generative AI", "EHR integrations"],
+   "hook": "Your site promises critical results delivered same day and instant phone responses in place of phone trees.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's LLM pipeline with a fixed output schema and strict safety rules that forbid medical advice is the same guardrail problem Ankr faces in AI-run patient calls and outreach.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Arpit Rao", "role": "Founder"},
+    {"name": "Shivani Rao", "role": "Founder"}
+   ],
+   "contact_email": "arpit@ankr.us",
+   "contact_name": "Arpit Rao",
+   "contact_role": "Founder",
+   "red_flags": []
+  }
+ ]
+}

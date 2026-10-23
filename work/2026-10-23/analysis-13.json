@@ -1,0 +1,191 @@
+{
+  "leads": [
+    {
+      "id": "d710aca872",
+      "relevant": true,
+      "summary": "Telmai builds a data observability and data quality platform that continuously validates data in lakes and warehouses without sampling. It is aimed at enterprise data teams running open-architecture data stacks.",
+      "stack": ["Apache Iceberg", "MCP"],
+      "hook": "Their blog post 'What Is Write-Audit-Publish in Apache Iceberg and Why It Matters for Data Quality' and the MCP access that lets AI agents query validated data and its quality context.",
+      "angle": "canopy",
+      "angle_reason": "Telmai's Lineage Agent maps dependencies across sources and targets, the same kind of graph resolution Canopy does across files for call graphs.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Mona Rakibe", "role": "Founder"},
+        {"name": "Maxim Lukichev", "role": "Founder"}
+      ],
+      "contact_email": "mona@telm.ai",
+      "contact_name": "Mona Rakibe",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "da03763f4e",
+      "relevant": true,
+      "summary": "Venu AI sells event production software that automates in-person conferences so B2B companies can meet sales leads at events. It includes AI-powered matchmaking for attendees.",
+      "stack": [],
+      "hook": "Their site cites a 100-attendee hospital AI conference at Stanford run in 90 days, and an engineering AI conference with a Netgear CTO among the attendees.",
+      "angle": "medvault",
+      "angle_reason": "Venu's AI-powered matchmaking over attendee data is the nearest match to MedVault's AI pipeline with per-user data isolation, though the overlap is weak.",
+      "fit": 4,
+      "region": "us",
+      "people": [
+        {"name": "Jeremy Lam", "role": "Founder"},
+        {"name": "Fanny Chen", "role": "Founder"},
+        {"name": "Justin Chen", "role": "Founder"},
+        {"name": "Nanette Jackson", "role": "Founder"},
+        {"name": "Patrick Nguyen", "role": "Founder"}
+      ],
+      "contact_email": "jeremy@venu3d.com",
+      "contact_name": "Jeremy Lam",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "dbb82674bd",
+      "relevant": true,
+      "summary": "Tab builds card payment and booking tools for independent tourism businesses, with payouts sent weekly in local currency. It also runs a travel guide where recommendations lead to direct bookings.",
+      "stack": [],
+      "hook": "Their posting says the payment platform handles over 100 currencies natively, with payment types ranging from on-arrival payments to deposits taken in advance.",
+      "angle": "medvault",
+      "angle_reason": "Tab's payment platform moves money for many tenant businesses, the same multi-tenant isolation and JWT auth problem MedVault solves at the queryset level.",
+      "fit": 5,
+      "region": "europe",
+      "people": [
+        {"name": "Mark Datta", "role": "Founder/CEO"}
+      ],
+      "contact_email": "mark@tab.travel",
+      "contact_name": "Mark Datta",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "e001bc8362",
+      "relevant": true,
+      "summary": "Fifth Door is a browser-based platform where people describe a game in plain words, an AI builder makes it, and they publish it to a shareable link. It also hosts games built by other developers and offers an MCP server for publishing from editors.",
+      "stack": ["MCP"],
+      "hook": "Their site says developers can build in Claude Code, Cursor or Codex and publish to Fifth Door through their MCP server.",
+      "angle": "medvault",
+      "angle_reason": "Their AI builder turns a plain-language description into a playable game, the same prompt-to-structured-output problem MedVault solves with a fixed JSON schema.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Daniel Kan", "role": "Founder/CEO"},
+        {"name": "Amir Ghazvinian", "role": "Founder/CTO"}
+      ],
+      "contact_email": "amir@fifthdoor.com",
+      "contact_name": "Amir Ghazvinian",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "e96cece5d7",
+      "relevant": true,
+      "summary": "Haystack is a delivery analytics platform that connects to GitHub and Jira to report on engineering speed, bottlenecks and risks for product and engineering leaders.",
+      "stack": ["GitHub", "Jira"],
+      "hook": "Their site says the metrics are built from Git and JIRA data, with a team health report and an investments view of where engineering capacity goes.",
+      "angle": "canopy",
+      "angle_reason": "Haystack builds analytics on top of GitHub data, the same kind of repository analysis Canopy does with its zero-scope GitHub OAuth and commit-keyed caching.",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {"name": "Julian Colina", "role": "Founder"},
+        {"name": "Kan Yilmaz", "role": "Founder"}
+      ],
+      "contact_email": "julian@usehaystack.io",
+      "contact_name": "Julian Colina",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "ebbe24a814",
+      "relevant": true,
+      "summary": "Kabilah, now renamed Aren, builds an AI platform for nursing workflows covering verbal handoffs, digital report sheets, task management and EHR charting. It is sold to health systems as enterprise software.",
+      "stack": ["FHIR"],
+      "hook": "Their site says Aren connects to Epic and Meditech over FHIR, and a Becker's Hospital Review piece covers the rename from Kabilah.",
+      "angle": "medvault",
+      "angle_reason": "Aren's clinical handoff and charting work handles patient data under compliance rules, the same safety and privacy constraints MedVault enforces with its no-diagnosis rules and per-user isolation.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Sarah Raza", "role": "Founder/CEO"},
+        {"name": "Umar Nadeem", "role": "Founder/CTO"}
+      ],
+      "contact_email": "umar@kabilah.com",
+      "contact_name": "Umar Nadeem",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "ef539bb926",
+      "relevant": true,
+      "summary": "Compose AI sells a free Chrome extension that autocompletes what people type in any web tool, with a paid tier for personalization. It targets individual writers and teams.",
+      "stack": ["Chrome extension", "NLP"],
+      "hook": "Their personalization feature learns each user's writing voice and suggests phrases, and your FAQ says user text is used only for autocompletions and never sold.",
+      "angle": "medvault",
+      "angle_reason": "Compose runs generative AI over users' typed text, which is the same prompt pipeline and privacy handling MedVault applies to users' lab reports.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Wilson Mitchell", "role": "Founder"}
+      ],
+      "contact_email": "wilsonmitchell92@gmail.com",
+      "contact_name": "Wilson Mitchell",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "f0399b35ce",
+      "relevant": true,
+      "summary": "CoLoop is an AI platform for qualitative research that plans studies, recruits panels, runs interviews with live transcripts and analyses the results. It is sold to research and strategy teams.",
+      "stack": [],
+      "hook": "Your Analyse step says every answer carries the participants behind it, and Thought Partner Chat was rebuilt for verifiable analysis.",
+      "angle": "canopy",
+      "angle_reason": "CoLoop's answers are meant to trace back to the underlying participant data, the same grounded-chat design as Canopy, whose optional AI chat only answers from computed call-graph results.",
+      "fit": 6,
+      "region": "europe",
+      "people": [
+        {"name": "Jack Bowen", "role": "Founder"},
+        {"name": "Adrien Wald", "role": "Founder"}
+      ],
+      "contact_email": "adrien@coloop.ai",
+      "contact_name": "Adrien Wald",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "f32c3e00e9",
+      "relevant": true,
+      "summary": "IronLedger sells AI-run corporate cards and invoice processing that automates accounts payable and expense coding for property managers, developers and contractors. It integrates with property and accounting systems such as Rent Manager and Yardi.",
+      "stack": [],
+      "hook": "Your FAQ lists integrations with Rent Manager, AppFolio, RealPage, Entrata, Buildium, MRI, QuickBooks and Sage Intacct, all through read-only bank connections.",
+      "angle": "medvault",
+      "angle_reason": "IronLedger moves financial data for many multi-entity tenants through read-only integrations, the same per-user isolation and auth problems MedVault solves in its Django REST backend.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "nick@ironledger.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "f403688790",
+      "relevant": true,
+      "summary": "SafeBeat is developing an ECG AI platform that analyses signals from FDA-cleared cardiac monitors and recommends treatment steps for clinicians on a phone. The product is still under development and limited to investigational use.",
+      "stack": [],
+      "hook": "Your site says the ECG software is built to avoid burying clinicians in alerts and to show explainable AI results on a phone.",
+      "angle": "medvault",
+      "angle_reason": "SafeBeat's explainable clinical AI needs bounds on what it may claim, like MedVault's schema-constrained model output and its rules that forbid diagnosis or prescription.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Rachita Navara", "role": "Founder"}
+      ],
+      "contact_email": "rachita@safebeat.com",
+      "contact_name": "Rachita Navara",
+      "contact_role": "Founder",
+      "red_flags": []
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+ "leads": [
+  {
+   "id": "d6f78130f0",
+   "relevant": true,
+   "summary": "Omnichannel home and kitchen brand that raised Rs 63 Cr (about $6.6M) and plans to build focused consumer brands across home and kitchen. The website given has no visible content, so the business cannot be checked against it.",
+   "stack": [],
+   "hook": "The funding article says you plan to use AI across cataloguing and demand forecasting, from product assortment to customer retention.",
+   "angle": "medvault",
+   "angle_reason": "They plan to use AI for cataloguing and demand forecasting, which is the same kind of LLM-plus-backend pipeline MedVault built.",
+   "fit": 3,
+   "region": "india",
+   "people": [
+    {"name": "Nitin Chugh", "role": "cofounder"},
+    {"name": "Akarsh Bharadwaj", "role": "founder"},
+    {"name": "Shrey Mittal", "role": "founder"},
+    {"name": "Dhiraj Jain", "role": "founder"},
+    {"name": "Dheeraj Goyal", "role": "founder"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": ["website empty, no product visible"]
+  },
+  {
+   "id": "349a0dda80",
+   "relevant": true,
+   "summary": "Builds a self-hosted private AI agent OS for home and office that runs on local models with encrypted chats and memory. Its GitHub org is C#/JavaScript with local-LLM and speech-to-text repos.",
+   "stack": ["C#", "JavaScript", ".NET", "Ollama", "Whisper", "Kokoro"],
+   "hook": "Your site says agents keep working with the network blocked, backed by an Egress Audit that lists every moment data left the machine.",
+   "angle": "medvault",
+   "angle_reason": "Both are privacy-first LLM products on personal data; MedVault's LLM pipeline, per-user isolation and data-privacy rules match what Oscova sells.",
+   "fit": 6,
+   "region": "india",
+   "people": [],
+   "contact_email": "hello@syn.co.in",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "349a0dda80-ref",
+   "relevant": true,
+   "summary": "Builds a self-hosted private AI agent OS for home and office that runs on local models with encrypted chats and memory. Its GitHub org is C#/JavaScript with local-LLM and speech-to-text repos.",
+   "stack": ["C#", "JavaScript", ".NET", "Ollama", "Whisper", "Kokoro"],
+   "hook": "Your site says agents keep working with the network blocked, backed by an Egress Audit that lists every moment data left the machine.",
+   "angle": "medvault",
+   "angle_reason": "Both are privacy-first LLM products on personal data; MedVault's LLM pipeline, per-user isolation and data-privacy rules match what Oscova sells.",
+   "fit": 6,
+   "region": "india",
+   "people": [],
+   "contact_email": "anbrandi@gmail.com",
+   "contact_name": "dev_bre",
+   "contact_role": "engineer (GitHub committer)",
+   "red_flags": []
+  },
+  {
+   "id": "70a443f86e",
+   "relevant": true,
+   "summary": "Builds autonomous VTOL cargo aircraft and cargo-handling robotics to cut middle-mile logistics latency. It is an early Hyderabad company that raised seed funding and is still between flight-tested prototypes and its first aircraft.",
+   "stack": [],
+   "hook": "Your company page says you flight-tested several sub-scale pathfinder prototypes before the first aircraft, Codename Winghead.",
+   "angle": "canopy",
+   "angle_reason": "Weak match: a hardware company with in-house software could use Canopy's static analysis and code-graph work, but its software needs are not visible.",
+   "fit": 4,
+   "region": "india",
+   "people": [],
+   "contact_email": "office@logixair.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "61e7a9a44e",
+   "relevant": false,
+   "summary": "The website is an open-source and human intelligence firm offering tailored intelligence solutions to governments and corporations. It is not the AI lab in the funding article.",
+   "stack": [],
+   "hook": "",
+   "angle": "medvault",
+   "angle_reason": "Not relevant: the website is a different company from the funding news.",
+   "fit": 1,
+   "region": "middle_east",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": ["website unrelated to posting"]
+  },
+  {
+   "id": "b284f94827",
+   "relevant": false,
+   "summary": "The funding article describes a construction robotics startup whose OG-1 robot does wall finishing and raised $20M. The website given belongs to an outdoor-business booking software company, so it is a different company.",
+   "stack": [],
+   "hook": "",
+   "angle": "medvault",
+   "angle_reason": "Not relevant: the website is a different company from the funding news.",
+   "fit": 1,
+   "region": "india",
+   "people": [
+    {"name": "Yogesh Ghaturle", "role": "founder"},
+    {"name": "Ashish Daga", "role": "founder"},
+    {"name": "Tushar Makkar", "role": "founder"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": ["website is a different company (outdoor booking software)"]
+  },
+  {
+   "id": "f77f13746f",
+   "relevant": true,
+   "summary": "Enterprise AI platform that pairs agentic AI with field engineers to build and run custom AI applications for large enterprises. It raised a $29M Series B and is growing its field AI engineering team across India, the US and Brazil.",
+   "stack": [],
+   "hook": "Your Series B post says you are growing a field AI engineering team across India, the US and Brazil.",
+   "angle": "medvault",
+   "angle_reason": "They run LLM applications in production with governed outputs, which matches MedVault's fixed-schema LLM pipeline and mockable client.",
+   "fit": 6,
+   "region": "india",
+   "people": [
+    {"name": "Rahul Pangam", "role": "cofounder"}
+   ],
+   "contact_email": "uttam@rapidcanvas.ai",
+   "contact_name": "Uttam",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "a4fa85341b",
+   "relevant": false,
+   "summary": "Runs quick-stop convenience kiosks and stores at transit hubs, petrol pumps and hospitals, expanding through franchise partners. The roles it lists are operations, supply chain and partnerships, none of them engineering.",
+   "stack": [],
+   "hook": "",
+   "angle": "medvault",
+   "angle_reason": "Not relevant: no engineering roles are open.",
+   "fit": 2,
+   "region": "india",
+   "people": [
+    {"name": "Gauravv Rana", "role": "co-founder and CEO"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "05f2489e15",
+   "relevant": true,
+   "summary": "A volunteer Java user group in Tamil Nadu that runs campus chapters, Java labs and open-source study groups. It has no products or job openings, and its organizers are faculty and working engineers.",
+   "stack": ["Java", "Spring Boot", "HTML"],
+   "hook": "Your site says the group pairs faculty mentors and student organizers to run hands-on Java labs at campus chapters.",
+   "angle": "canopy",
+   "angle_reason": "Their open-source labs and Java tooling are the closest to a code-analysis tool like Canopy.",
+   "fit": 2,
+   "region": "india",
+   "people": [
+    {"name": "Sathish Kumar", "role": "founder and CEO, Our Kadai Technologies; organizer"},
+    {"name": "Hari Nikesh R", "role": "senior software engineer at Tiket.com; organizer"},
+    {"name": "Rohan J", "role": "developer associate at SAP Ariba; head of open source labs"},
+    {"name": "Dr. Geetha M", "role": "associate professor; head of chapters"}
+   ],
+   "contact_email": "hari.nikesh.r.cce@gmail.com",
+   "contact_name": "Hari Nikesh R",
+   "contact_role": "senior software engineer at Tiket.com",
+   "red_flags": []
+  },
+  {
+   "id": "05f2489e15-ref",
+   "relevant": true,
+   "summary": "A volunteer Java user group in Tamil Nadu that runs campus chapters, Java labs and open-source study groups. It has no products or job openings, and its organizers are faculty and working engineers.",
+   "stack": ["Java", "Spring Boot", "HTML"],
+   "hook": "Your site says the group pairs faculty mentors and student organizers to run hands-on Java labs at campus chapters.",
+   "angle": "canopy",
+   "angle_reason": "Their open-source labs and Java tooling are the closest to a code-analysis tool like Canopy.",
+   "fit": 2,
+   "region": "india",
+   "people": [
+    {"name": "Sathish Kumar", "role": "founder and CEO, Our Kadai Technologies; organizer"},
+    {"name": "Hari Nikesh R", "role": "senior software engineer at Tiket.com; organizer"},
+    {"name": "Rohan J", "role": "developer associate at SAP Ariba; head of open source labs"},
+    {"name": "Dr. Geetha M", "role": "associate professor; head of chapters"}
+   ],
+   "contact_email": "yuthistan24@gmail.com",
+   "contact_name": "yuthistan24",
+   "contact_role": "engineer (GitHub committer)",
+   "red_flags": []
+  }
+ ]
+}

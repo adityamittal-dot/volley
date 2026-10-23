@@ -1,0 +1,194 @@
+{
+ "leads": [
+  {
+   "id": "842d5d4864",
+   "relevant": true,
+   "summary": "Builds AI agents that answer calls, emails and bookings for trades and field-service businesses. Sells mainly to UK trades firms such as heating, gas and fire-and-security companies.",
+   "stack": [],
+   "hook": "your Operator agent is pitched as answering a business question and then acting on it inside the job-booking system",
+   "angle": "medvault",
+   "angle_reason": "Elyos's agents take live customer requests and act on them, which is the same LLM-driven workflow MedVault runs behind a fixed output schema and a mockable client.",
+   "fit": 5,
+   "region": "europe",
+   "people": [
+    {"name": "Adrian Johnston", "role": "Founder"},
+    {"name": "Philippa Brown", "role": "Founder"},
+    {"name": "Panos Stravopodis", "role": "Founder/CTO"}
+   ],
+   "contact_email": "pstrav@hotmail.com",
+   "contact_name": "Panos Stravopodis",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "8a02c06721",
+   "relevant": true,
+   "summary": "Builds Interfaze, an AI model for deterministic tasks such as OCR, document extraction, classification and audio understanding, sold through an API and TypeScript and Python SDKs.",
+   "stack": ["TypeScript", "Python", "Zod", "Vercel AI SDK", "LangChain"],
+   "hook": "your quickstart passes a Zod schema through responseFormat so the model returns JSON that matches it",
+   "angle": "medvault",
+   "angle_reason": "Interfaze's core promise is schema-constrained model output, which MedVault already implements with a fixed JSON schema and a tolerant fallback parser.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Yoeven D Khemlani", "role": "Founder/CEO"},
+    {"name": "Harsha Vardhan Khurdula", "role": "Founder/CTO"}
+   ],
+   "contact_email": "harsha@interfaze.ai",
+   "contact_name": "Harsha Vardhan Khurdula",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "8caa5a29c9",
+   "relevant": true,
+   "summary": "Builds AI voice agents that handle patient calls, scheduling, refills, pre-visit intake and chart documentation for medical practices, with EMR integrations.",
+   "stack": ["AWS"],
+   "hook": "your EMR Agent page says call content is written straight into the patient chart",
+   "angle": "medvault",
+   "angle_reason": "Simbie turns patient calls into structured chart data, which is the same health-tech LLM pipeline problem MedVault solves for lab reports with a schema-bound output.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "founders@simbie.ai",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "9bd280cd76",
+   "relevant": true,
+   "summary": "Builds Dart, a project-management workspace where teams and AI agents share tasks, plans and reports, with agent integrations such as Codex, Claude Code and Cursor.",
+   "stack": [],
+   "hook": "your integrations list has Codex, Claude Code and Cursor as agents you can assign tasks to from a Dart task",
+   "angle": "medvault",
+   "angle_reason": "Dart's agents read shared team context and act on it per workspace, which maps onto MedVault's LLM pipeline with per-user data isolation and JWT auth.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Milad Malek", "role": "Founder"},
+    {"name": "Zack Swafford", "role": "Technical Cofounder"}
+   ],
+   "contact_email": "zack@dartai.com",
+   "contact_name": "Zack Swafford",
+   "contact_role": "Technical Cofounder",
+   "red_flags": []
+  },
+  {
+   "id": "9e9eab4eb8",
+   "relevant": true,
+   "summary": "Builds a white-labeled digital engagement platform for mortgage servicers and lenders, giving homeowners home-finance tools and personalized offers inside payment portals.",
+   "stack": [],
+   "hook": "your careers copy says you launch a servicer's existing stack in weeks, not months, so the integration layer matters",
+   "angle": "medvault",
+   "angle_reason": "Haven's borrower-facing financial data and white-label multi-tenant portals match MedVault's per-user isolation and JWT auth in a regulated fintech setting.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Jonathan Chao", "role": "Chief Executive Officer"},
+    {"name": "Cole Murray", "role": "Chief Technology Officer"},
+    {"name": "Stacy Ng", "role": "Founding Engineer"},
+    {"name": "Aditya Acharya", "role": "Founder"},
+    {"name": "Nipun Kant", "role": "Founder"}
+   ],
+   "contact_email": "aditya@havenservicing.com",
+   "contact_name": "Aditya Acharya",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "a41b5c3c52",
+   "relevant": true,
+   "summary": "Builds an AI-first product data platform for ecommerce, enriching product attributes, writing brand-voice descriptions and cleaning product images for enterprise retail catalogs.",
+   "stack": [],
+   "hook": "your product page says the attribute enrichment fills gaps by searching the web, UPC databases and spec sheets",
+   "angle": "medvault",
+   "angle_reason": "Hypotenuse runs LLM generation over a catalog at scale, the same problem MedVault solves by forcing model output into a fixed JSON schema with a fallback parser.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Joshua Wong", "role": "Founder"}
+   ],
+   "contact_email": "joshua@hypotenuse.ai",
+   "contact_name": "Joshua Wong",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "a7078bc14f",
+   "relevant": true,
+   "summary": "Builds AI agents for lending (origination, servicing, collections and processing) that handle borrower conversations and loan operations for lenders.",
+   "stack": [],
+   "hook": "your Processing Agent is pitched as chasing missing loan documents like pay stubs and keeping the file moving",
+   "angle": "medvault",
+   "angle_reason": "Feather's agents handle sensitive borrower data through an LLM workflow, which is the same domain-safe pipeline with per-user isolation that MedVault implements.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Aahan Sawhney", "role": "Founder"},
+    {"name": "Saurabh Jain", "role": "Founder"}
+   ],
+   "contact_email": "aahan@featherhq.com",
+   "contact_name": "Aahan Sawhney",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "ae220a313a",
+   "relevant": true,
+   "summary": "Builds an AI retention platform for consumer subscription businesses, with ML-generated audiences, A/B experiment tracking and automated lifecycle campaigns.",
+   "stack": [],
+   "hook": "your experiment page computes retention lift and statistical significance automatically for treatment vs control",
+   "angle": "medvault",
+   "angle_reason": "Subsets trains models on a customer's own first-party data behind an API, which is close to MedVault's backend design of per-user isolated data and a mockable LLM layer.",
+   "fit": 5,
+   "region": "europe",
+   "people": [
+    {"name": "Martin Johnsen", "role": "Founder"},
+    {"name": "Oliver Brandt", "role": "Founder"},
+    {"name": "Nikolai Skelbo", "role": "Founder"}
+   ],
+   "contact_email": "martin@subsets.com",
+   "contact_name": "Martin Johnsen",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "ae2857d2c1",
+   "relevant": true,
+   "summary": "Builds an HR data platform that connects HRIS, payroll, benefits and ATS systems, with analytics and an agent that answers employee questions in Slack and Teams.",
+   "stack": [],
+   "hook": "your Integration Studio sends each vendor the format it needs, such as base_pay to ADP, pay_amount to Fidelity and cash_comp to Carta",
+   "angle": "medvault",
+   "angle_reason": "Aragorn's agent answers employee questions from real HR records while showing only what each user may see, which mirrors MedVault's LLM pipeline with per-user queryset isolation.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Ed Adjei", "role": "Founder"},
+    {"name": "Gladys Adjei", "role": "Founder"}
+   ],
+   "contact_email": "ed@aragorn.ai",
+   "contact_name": "Ed Adjei",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "af1b4a9490",
+   "relevant": true,
+   "summary": "Builds Star, a browser-based tool where users describe a game and AI generates a playable, shareable game with optional multiplayer rooms and leaderboards.",
+   "stack": ["Claude"],
+   "hook": "your homepage says free accounts build and edit games with Claude Haiku 5.5 and that Star hosts the multiplayer rooms",
+   "angle": "medvault",
+   "angle_reason": "Star turns a free-form prompt into a working game, the same kind of LLM output that MedVault has to constrain to a fixed schema.",
+   "fit": 4,
+   "region": "us",
+   "people": [
+    {"name": "Ryan Endacott", "role": "Founder"}
+   ],
+   "contact_email": "ryan@buildwithstar.com",
+   "contact_name": "Ryan Endacott",
+   "contact_role": "Founder",
+   "red_flags": []
+  }
+ ]
+}

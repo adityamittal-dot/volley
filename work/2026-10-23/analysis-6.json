@@ -1,0 +1,180 @@
+{
+  "leads": [
+    {
+      "id": "8adf970498",
+      "relevant": false,
+      "summary": "Prishusoft is a software outsourcing company that builds custom web, mobile and enterprise applications for clients, using .NET, Angular and React.",
+      "stack": ["Microsoft .NET", "AngularJS", "React"],
+      "hook": "Its site advertises offshore outsourcing software development for global clients.",
+      "angle": "medvault",
+      "angle_reason": "No project maps to a business-development research role; MedVault is the nearest web-app match if they hire engineers later.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0501b375b9",
+      "relevant": true,
+      "summary": "Babaclick is a commerce company that lists and sells products across global marketplaces and builds Atlas, its internal software for purchasing, fulfilment and margin tracking.",
+      "stack": ["Shopify", "ShipStation"],
+      "hook": "Your site describes Atlas coordinating purchase orders, receiving, allocation and dispatch across Amazon, Walmart, eBay, Shopify and TikTok Shop.",
+      "angle": "medvault",
+      "angle_reason": "Their AI-assisted catalog classification and Atlas workflows are structured-output LLM and backend API work, like MedVault's Gemini JSON pipeline on a Django REST API.",
+      "fit": 7,
+      "region": "india",
+      "people": [
+        {"name": "Gautam Chadha", "role": "Founder & CEO"},
+        {"name": "Hamza Shaikh", "role": "COO"},
+        {"name": "Hemani Chadha", "role": "Legal, Compliance & People Ops"}
+      ],
+      "contact_email": "hr@babaclick.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "c5940fdc0c",
+      "relevant": true,
+      "summary": "Flair Labs builds AI voice and text agents that call, text and follow up with leads and borrowers for mortgage and lending teams.",
+      "stack": ["AI voice agents", "Salesforce", "HubSpot"],
+      "hook": "The site says its agents chase open underwriting conditions and missing docs across voice, SMS and email until every checklist item clears.",
+      "angle": "medvault",
+      "angle_reason": "Flair's borrower agents in a regulated lending setting need the same guarded LLM pipeline with a fixed output schema that MedVault uses in health and fintech.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {"name": "Samir Sen", "role": "Founder"}
+      ],
+      "contact_email": "samir@flairlabs.ai",
+      "contact_name": "Samir Sen",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "d9c8547e67",
+      "relevant": false,
+      "summary": "Uplers is a recruitment platform that sources and places software engineers from India with tech companies through curated sourcing and full-service hiring.",
+      "stack": [],
+      "hook": "Its homepage lists Full Stack, AI, Forward Deployed and Backend Engineers as roles it fills for clients.",
+      "angle": "medvault",
+      "angle_reason": "Uplers is a recruiter, so no project maps to its business; MedVault is the closest engineering match if the role is reconsidered.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["staffing agency, hiring for a client"]
+    },
+    {
+      "id": "344a23f1f7",
+      "relevant": true,
+      "summary": "Solve Intelligence sells AI software for patent work, including drafting, prosecution, claim charting and litigation analysis, to more than 700 IP firms and in-house teams.",
+      "stack": [],
+      "hook": "Your site says the drafting agent turns any file type into patent figures and drafts complete applications.",
+      "angle": "medvault",
+      "angle_reason": "Solve's drafting and analysis agents on confidential legal documents match MedVault's LLM pipeline with a fixed output schema and per-user data isolation.",
+      "fit": 7,
+      "region": "europe",
+      "people": [
+        {"name": "Chris Parsonson", "role": "Founder/CEO"},
+        {"name": "Sanj Ahilan", "role": "Founder"},
+        {"name": "Angus Parsonson", "role": "Founder"}
+      ],
+      "contact_email": "chris@solveintelligence.com",
+      "contact_name": "Chris Parsonson",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "0b3974af24",
+      "relevant": true,
+      "summary": "Miyagi Labs is an AI exam-prep platform with an AI tutor, adaptive practice and score prediction for SAT, ACT, NEET, UTME, KCSE and other exams.",
+      "stack": [],
+      "hook": "Your 15-minute adaptive score predictor says it reveals a predicted score and high-yield gaps using AI-powered analytics.",
+      "angle": "medvault",
+      "angle_reason": "Their AI tutor's step-by-step explanations need the same structured LLM output and guardrails that MedVault uses for lab report explanations.",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {"name": "Tyrone Davis III", "role": "Founder/CEO"},
+        {"name": "Guang Cui", "role": "Founder/CTO"}
+      ],
+      "contact_email": "guang@miyagilabs.ai",
+      "contact_name": "Guang Cui",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "1e5f36fd07",
+      "relevant": true,
+      "summary": "Winggo Soft is an Indian web and custom software studio that also sells ready-made software for NGOs, health cards, cafes, news portals and attendance tracking.",
+      "stack": ["Laravel"],
+      "hook": "Your site lists ready-made NGO, health card and cafe management software alongside custom web and mobile builds for clients.",
+      "angle": "medvault",
+      "angle_reason": "Their Laravel internship is backend API work, and MedVault's Django REST backend with JWT auth is the closest backend match, though the framework differs.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "b81c415755",
+      "relevant": true,
+      "summary": "Pax is an AI-native customs broker that finds and files tariff drawback refunds for enterprise importers and manages their trade compliance in one platform.",
+      "stack": [],
+      "hook": "Your import analytics page breaks each month's tariffs into regular duty, Section 301, reciprocal, MPF and HMF line items.",
+      "angle": "medvault",
+      "angle_reason": "Pax's document extraction from customs filings into structured claims follows the same extract-to-fixed-schema pattern as MedVault's lab report pipeline.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {"name": "Penny Chen", "role": "Founder/CEO"},
+        {"name": "Chris Le", "role": "Founder"}
+      ],
+      "contact_email": "chris@paxai.com",
+      "contact_name": "Chris Le",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "da5090e2d9",
+      "relevant": true,
+      "summary": "Lab0 builds AI agents that automate ERP implementation work, from requirements and configuration to integration testing and hypercare, for enterprise software vendors and system integrators.",
+      "stack": [],
+      "hook": "Your testing agent follows one failure, applies the fix and reruns the affected checks across the ERP suite.",
+      "angle": "medvault",
+      "angle_reason": "Lab0's agents turn requirements into configuration and tickets into scoped changes, the same structured-output agent pattern as MedVault's LLM pipeline.",
+      "fit": 7,
+      "region": "india",
+      "people": [],
+      "contact_email": "founders@lab0.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "95118e8b70",
+      "relevant": true,
+      "summary": "Digichorus is a Pune IT services firm offering software development, testing, cloud migration and AI services, plus resource augmentation, to clients across industries such as banking and e-commerce.",
+      "stack": ["Java"],
+      "hook": "Its services list pairs software development with testing, cloud migration and resource augmentation for clients.",
+      "angle": "medvault",
+      "angle_reason": "The junior Java role is backend API work, and MedVault's Django REST backend with JWT auth is the nearest match, though the language differs.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

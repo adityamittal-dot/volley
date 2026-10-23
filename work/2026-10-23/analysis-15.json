@@ -1,0 +1,183 @@
+{
+  "leads": [
+    {
+      "id": "398f452801",
+      "relevant": true,
+      "summary": "Healthtech-1 builds clinical AI for NHS GP practices, automating eligibility checks, triage and appointment booking through its Bookable products.",
+      "stack": [],
+      "hook": "Bookable Navigator has doctor-developed AI route patients to the right care 'every time', taking requests from forms, texts and phone calls.",
+      "angle": "medvault",
+      "angle_reason": "Bookable's AI routes free-text patient requests to structured outcomes, the same LLM-to-fixed-schema problem MedVault solves with its Gemini pipeline and safety rules.",
+      "fit": 7,
+      "region": "europe",
+      "people": [
+        {"name": "Raj Paul", "role": "Founder"},
+        {"name": "Peter Huang", "role": "Founder"}
+      ],
+      "contact_email": "raj@healthtech1.uk",
+      "contact_name": "Raj Paul",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "4554f430a5",
+      "relevant": true,
+      "summary": "Rally sells agentic user-research infrastructure: participant recruiting, scheduling, consent, incentives and recordings for product teams, with an agent and MCP access.",
+      "stack": ["MCP"],
+      "hook": "Rally's agent runs recruitment end to end, with consent, permissions and data governance enforced underneath it.",
+      "angle": "medvault",
+      "angle_reason": "Rally's consent, permissions and data-governance layer is the kind of per-user access control and privacy enforcement MedVault implements at the queryset level, and its agent is LLM-driven.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Oren Friedman", "role": "Founder"},
+        {"name": "Alec Robins", "role": "Founder"}
+      ],
+      "contact_email": "oren@rallyuxr.com",
+      "contact_name": "Oren Friedman",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "4e93763c9a",
+      "relevant": true,
+      "summary": "Adaptyv runs an automated protein lab that tests customers' designed proteins and returns clean experimental data for AI models, sold per protein through a platform and API.",
+      "stack": [],
+      "hook": "Its $40M Series A (announced Aug 25, 2026) is to expand the Lausanne team and build out the automated lab.",
+      "angle": "medvault",
+      "angle_reason": "Adaptyv's AI-first data product with an API is the closest match to MedVault's API-backed LLM pipeline, though the core business is wet-lab automation.",
+      "fit": 5,
+      "region": "europe",
+      "people": [
+        {"name": "Julian Englert", "role": "Founder"},
+        {"name": "Daniel Nakhaee-Zadeh Gutierrez", "role": "Founder"}
+      ],
+      "contact_email": "julian@adaptyvbio.com",
+      "contact_name": "Julian Englert",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "5aef2bcfd6",
+      "relevant": true,
+      "summary": "Karat is a fintech offering business banking, credit and cards to small businesses and creators in the US, with banking provided by partner banks.",
+      "stack": [],
+      "hook": "The site says Karat is a financial technology company, not a bank, with its accounts provided by Grasshopper Bank and First Internet Bank under separate licenses.",
+      "angle": "medvault",
+      "angle_reason": "Karat's business accounts need per-user data isolation and auth, which MedVault's JWT refresh-token rotation and queryset-level isolation cover.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Eric Wei", "role": "Founder"},
+        {"name": "Will Kim", "role": "Founder"}
+      ],
+      "contact_email": "eric@trykarat.com",
+      "contact_name": "Eric Wei",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "634ab3eb46",
+      "relevant": true,
+      "summary": "Great Question sells a UX research platform covering participant recruiting, scheduling, surveys and an AI moderator, mainly for product and design teams.",
+      "stack": [],
+      "hook": "Its AI moderator runs interviews your team can steer, and its findings cite every session.",
+      "angle": "medvault",
+      "angle_reason": "Great Question's AI moderator summarizes interviews into findings, the same pattern as MedVault's grounded AI explanations with rules on what the model may claim.",
+      "fit": 5,
+      "region": "us",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "76e669461f",
+      "relevant": true,
+      "summary": "Soraban sells an AI tax workflow platform for accounting firms, covering client intake, workpaper prep, tax-software data entry and e-signature delivery.",
+      "stack": [],
+      "hook": "Soraban says its AI builds review-ready workpapers tied back to source documents, with an auditable trail from worksheet to source.",
+      "angle": "medvault",
+      "angle_reason": "Soraban turns uploaded client documents into AI-prepared, cited output, which is what MedVault does with an uploaded lab report and a schema-bound explanation.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Enoch Ko", "role": "Founder/CEO"}
+      ],
+      "contact_email": "enoch232@gmail.com",
+      "contact_name": "Enoch Ko",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "77fc34fd73",
+      "relevant": true,
+      "summary": "Seam sells a single developer API to control third-party smart locks, thermostats, sensors and cameras, for platforms and AI agents.",
+      "stack": ["REST API", "webhooks", "MCP", "npx CLI"],
+      "hook": "Seam's access-grant flow issues PIN codes and mobile keys and sends webhooks as access changes, all through one API across lock brands.",
+      "angle": "canopy",
+      "angle_reason": "Seam is a developer-facing API that unifies many device vendors behind one interface, like Canopy's single analyzer interface across 10 languages.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "791bec1749",
+      "relevant": true,
+      "summary": "Solo helps consumers respond to debt lawsuits and settle debts with collectors, using an AI assistant and charging a settlement fee.",
+      "stack": ["ChatGPT"],
+      "hook": "SoloSettle's calculator takes a sliding fee from 19% down to 5%, depending on how close the settlement comes to the face value of the debt.",
+      "angle": "medvault",
+      "angle_reason": "Solo's AI assistant answers legal and financial questions for consumers, and MedVault's pipeline has the no-diagnosis safety rules and tolerant parsing that kind of advice product needs.",
+      "fit": 3,
+      "region": "us",
+      "people": [
+        {"name": "George Simons", "role": "Founder"}
+      ],
+      "contact_email": "george@solosuit.com",
+      "contact_name": "George Simons",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "7cb17d569b",
+      "relevant": true,
+      "summary": "testRigor sells a plain-English test automation tool for web, mobile, API and AI features, used by QA teams and developers.",
+      "stack": ["MCP", "Claude Code"],
+      "hook": "testRigor says Claude Code can generate its tests through MCP and Skills, then use /goal to fix code until the tests pass.",
+      "angle": "canopy",
+      "angle_reason": "testRigor is a developer testing tool that plugs into Claude Code via MCP, in the same dev-tools and CI territory as Canopy's code analysis.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Artem Golubev", "role": "Founder"},
+        {"name": "Enzo Biancato", "role": "Founder"}
+      ],
+      "contact_email": "artem@testrigor.com",
+      "contact_name": "Artem Golubev",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "817d1f8a7f",
+      "relevant": true,
+      "summary": "IOMETE sells a self-hosted data lakehouse platform that runs on premises or in customers' clouds, for analytics and ML on Apache Spark.",
+      "stack": ["Apache Spark", "Spark Connect", "Jupyter", "Python", "SQL"],
+      "hook": "IOMETE's access controls go down to rows and columns, and the platform runs in the customer's own on-prem or cloud environment.",
+      "angle": "medvault",
+      "angle_reason": "IOMETE's row- and column-level access controls mirror the per-user isolation MedVault enforces at the queryset level, and its Python and SQL stack is closer to the candidate's than Spark is.",
+      "fit": 5,
+      "region": "us",
+      "people": [],
+      "contact_email": "careers@iomete.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

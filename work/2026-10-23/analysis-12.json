@@ -1,0 +1,191 @@
+{
+ "leads": [
+  {
+   "id": "b13685b37f",
+   "relevant": true,
+   "summary": "Quadrant Health sells voice and agentic AI that answers patient calls, books and reschedules appointments, runs care-gap outreach and writes results into EHRs for medical groups and health systems.",
+   "stack": [],
+   "hook": "Your Medent page says Quadrant's voice and agentic AI run natively inside Medent as a first-party extension of the EHR, not as a bolt-on.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Gemini pipeline forces model output into a fixed schema under explicit safety rules, the same kind of LLM work as Quadrant's agents completing structured chart actions in a clinical system.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Anin Sayana", "role": "Founder"},
+    {"name": "Krishna Gorrepati", "role": "Founder"}
+   ],
+   "contact_email": "anin@quadrant.health",
+   "contact_name": "Anin Sayana",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "c3f5504dee",
+   "relevant": true,
+   "summary": "inBuild automates subcontractor invoice intake for home builders and construction firms: it matches invoices to project commitments and cost codes, routes approvals, and syncs approved bills to Procore and QuickBooks.",
+   "stack": ["Procore", "QuickBooks"],
+   "hook": "Your homepage demo walks a Meridian Electric Supply invoice through extraction, a 98% contract match and line-by-line coding before it syncs to Procore.",
+   "angle": "medvault",
+   "angle_reason": "MedVault turns an uploaded PDF into structured fields under a fixed JSON schema, the same extract-then-validate step inBuild needs to read invoices and match them to commitments.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Ty Sharp", "role": "Founder"},
+    {"name": "Ian Sharp", "role": "Founder"}
+   ],
+   "contact_email": "ty@inbuild.ai",
+   "contact_name": "Ty Sharp",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "c6c7f9546c",
+   "relevant": true,
+   "summary": "TeamOut is an online marketplace where managers book venues, accommodation, activities and transport for company retreats, offsites and events.",
+   "stack": [],
+   "hook": "Your venue listings pair each property's nightly rate with drive time from the nearest airport, such as AutoCamp Sequoia at $356 to $498 a night, 41 minutes from Visalia.",
+   "angle": "medvault",
+   "angle_reason": "Weak match: MedVault's Django REST API with JWT auth and queryset-level per-user isolation is the closest backend pattern to a booking marketplace.",
+   "fit": 3,
+   "region": "us",
+   "people": [
+    {"name": "Thomas", "role": "Co-founder"},
+    {"name": "Vincent", "role": "Co-founder"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "c9e38374da",
+   "relevant": true,
+   "summary": "Solum Health automates front-office work for therapy and specialty clinics: it pulls referrals from faxes, portals and email, collects intake documents, checks insurance eligibility, handles prior authorizations and syncs the result to the practice's EHR.",
+   "stack": ["CentralReach"],
+   "hook": "Your demo shows a faxed ABC Pediatric referral scanned and its 10 fields extracted within a minute, with the intake packet texted and emailed out automatically.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's pipeline pulls structured fields out of an uploaded lab-report PDF under a fixed schema, the same extract-then-validate step Solum runs on faxed referrals.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "JP Montoya", "role": "Founder"}
+   ],
+   "contact_email": "hello@getsolum.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "ca9e710cdb",
+   "relevant": true,
+   "summary": "Zensors sells visual physical-AI agents that turn camera, sensor and operational data into real-time decisions for airports, retail and large commercial facilities.",
+   "stack": [],
+   "hook": "Your June 2026 post on Zensors and TSA deploying physical AI to automate checkpoint efficiency.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Gemini pipeline is built around enforced safety rules and fixed output schemas, a guardrail pattern that matches Zensors' multimodal AI agents acting on operational data.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Anuraag Jain", "role": "Founder"},
+    {"name": "Alex Covarrubias", "role": "Chief Growth Officer"}
+   ],
+   "contact_email": "anuraag@zensors.com",
+   "contact_name": "Anuraag Jain",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "d01c6bb68e",
+   "relevant": true,
+   "summary": "Bolto sells an AI-assisted payroll, HR, benefits and recruiting platform, including global contractor payments, for startups, scale-ups and enterprises.",
+   "stack": [],
+   "hook": "Your Instant Pay launch promises same-day and next-day payouts to global hires in 190+ countries.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Django REST backend with JWT auth and per-user isolation at the queryset level is the same multi-tenant, sensitive-data foundation a payroll platform needs.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Mrinal Singh", "role": "Founder"},
+    {"name": "Jake Johnson", "role": "Founder"}
+   ],
+   "contact_email": "info@bolto.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "d0a6d06439",
+   "relevant": true,
+   "summary": "Spot Health provides white-label at-home lab testing as a service: brands order tests via API, and Spot handles collection kits, logistics, physician authorization and lab integrations, returning interpreted results.",
+   "stack": [],
+   "hook": "Your docs say brands order tests through your API and you handle the collection kits, logistics, physician authorization and lab integrations.",
+   "angle": "medvault",
+   "angle_reason": "MedVault is a health-data API that returns lab results with plain-language interpretation under safety rules and per-user data isolation, the same shape of result delivery Spot sends into partner apps.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Andrew Jajack", "role": "Founder"}
+   ],
+   "contact_email": "andrew@spotdx.com",
+   "contact_name": "Andrew Jajack",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "d2d2212cef",
+   "relevant": true,
+   "summary": "Rivet is an open-source orchestrator that runs stateful Actors, each with its own SQLite database and filesystem, for AI agents, realtime apps and durable workflows, available self-hosted or hosted.",
+   "stack": ["Rust", "FoundationDB", "SQLite", "S3"],
+   "hook": "Your Actors page says every Actor gets its own SQLite database and POSIX filesystem tiered to S3, and an idle Actor drops to 0 MB while hibernating.",
+   "angle": "canopy",
+   "angle_reason": "Canopy's deterministic analysis backend with a Postgres cache keyed on commit hash is the closest of my projects to Rivet's stateful platform work.",
+   "fit": 4,
+   "region": "us",
+   "people": [
+    {"name": "Nathan Flurry", "role": "GitHub committer (rivet-dev, 9 commits)"}
+   ],
+   "contact_email": "git@nathanflurry.com",
+   "contact_name": "Nathan Flurry",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "d2d2212cef-ref",
+   "relevant": true,
+   "summary": "Rivet is an open-source orchestrator that runs stateful Actors, each with its own SQLite database and filesystem, for AI agents, realtime apps and durable workflows, available self-hosted or hosted.",
+   "stack": ["Rust", "FoundationDB", "SQLite", "S3"],
+   "hook": "Your Actors page says every Actor gets its own SQLite database and POSIX filesystem tiered to S3, and an idle Actor drops to 0 MB while hibernating.",
+   "angle": "canopy",
+   "angle_reason": "Canopy's deterministic analysis backend with a Postgres cache keyed on commit hash is the closest of my projects to Rivet's stateful platform work.",
+   "fit": 4,
+   "region": "us",
+   "people": [
+    {"name": "Sree Narayanan", "role": "Engineer (GitHub committer, 29 commits)"},
+    {"name": "Nathan Flurry", "role": "GitHub committer (rivet-dev, 9 commits)"}
+   ],
+   "contact_email": "sreeaadhi07@gmail.com",
+   "contact_name": "Sree Narayanan",
+   "contact_role": "Engineer (GitHub committer, 29 commits)",
+   "red_flags": []
+  },
+  {
+   "id": "d2d2212cef-ref",
+   "relevant": true,
+   "summary": "Rivet is an open-source orchestrator that runs stateful Actors, each with its own SQLite database and filesystem, for AI agents, realtime apps and durable workflows, available self-hosted or hosted.",
+   "stack": ["Rust", "FoundationDB", "SQLite", "S3"],
+   "hook": "Your Actors page says every Actor gets its own SQLite database and POSIX filesystem tiered to S3, and an idle Actor drops to 0 MB while hibernating.",
+   "angle": "canopy",
+   "angle_reason": "Canopy's deterministic analysis backend with a Postgres cache keyed on commit hash is the closest of my projects to Rivet's stateful platform work.",
+   "fit": 4,
+   "region": "us",
+   "people": [
+    {"name": "Sree Narayanan", "role": "Engineer (GitHub committer, 29 commits)"},
+    {"name": "Nathan Flurry", "role": "GitHub committer (rivet-dev, 9 commits)"}
+   ],
+   "contact_email": "sreeaadhi07@gmail.com",
+   "contact_name": "Sree Narayanan",
+   "contact_role": "Engineer (GitHub committer, 29 commits)",
+   "red_flags": []
+  }
+ ]
+}

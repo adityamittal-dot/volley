@@ -1,0 +1,186 @@
+{
+ "leads": [
+  {
+   "id": "0b2e21a2a4",
+   "relevant": true,
+   "summary": "Builds agentic workflow automation for finance and operations teams, covering invoice-to-cash, procure-to-pay and expense processes, with one-click ERP integrations. Serves 100+ businesses from scale-ups to enterprises.",
+   "stack": ["LLM-as-Judge", "AI browser agents", "generative AI"],
+   "hook": "your site says the agents use LLM-as-Judge to evaluate their own workflow output, then auto-apply the best-performing pattern",
+   "angle": "medvault",
+   "angle_reason": "Peakflo's agents run LLM output through an evaluation loop and structured outputs, the same fixed-schema LLM pipeline with safety constraints that MedVault uses.",
+   "fit": 6,
+   "region": "asia",
+   "people": [
+    {"name": "Saurabh Chauhan", "role": "Founder"},
+    {"name": "Dmitry Vedenyapin", "role": "Founder"}
+   ],
+   "contact_email": "saurabh@peakflo.co",
+   "contact_name": "Saurabh Chauhan",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "2b7fb7fd62",
+   "relevant": true,
+   "summary": "Builds digital identity and trusted-data infrastructure for government agencies, including identity wallets, SSO, document intake and fraud-prevention tooling.",
+   "stack": ["digital wallets", "SSO", "mDL"],
+   "hook": "your Document Intake page says documents and uploads arrive unstructured, so systems can't validate or reuse what comes in",
+   "angle": "medvault",
+   "angle_reason": "SpruceID's identity and access work (SSO, credential validation, access controls) is the auth and per-user data isolation problem MedVault handles with JWT refresh rotation and queryset-level isolation.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Wayne Chang", "role": "Founder"},
+    {"name": "Gregory Rocco", "role": "Founder"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": ["posting requires US citizen or visa holder"]
+  },
+  {
+   "id": "4d8374de35",
+   "relevant": true,
+   "summary": "Builds an identity verification API that orchestrates local KYC and AML methods (video, biometrics, banking data, government eIDs) so businesses can verify customers online in Europe.",
+   "stack": ["eIDAS 2.0", "zero-knowledge proofs", "biometrics"],
+   "hook": "your site says one call pulls attributes from multiple eID and wallet sources, and that zero-knowledge proofs verify age without exposing the underlying data",
+   "angle": "medvault",
+   "angle_reason": "Authologic handles sensitive identity data with retention rules and privacy requirements, which is the backend auth and data-privacy problem MedVault covers with per-user isolation and JWT rotation.",
+   "fit": 6,
+   "region": "europe",
+   "people": [
+    {"name": "Bartlomiej Kuban", "role": ""}
+   ],
+   "contact_email": "bartlomiej.kuban@authologic.com",
+   "contact_name": "Bartlomiej Kuban",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "941ae9aaaa",
+   "relevant": true,
+   "summary": "Develops PCR-based molecular diagnostic kits that let hospital labs run multi-biomarker breast cancer prognosis tests on standard qPCR machines, instead of sending samples to central labs.",
+   "stack": ["qPCR", "RNA signatures"],
+   "hook": "your homepage says the kits run on standard qPCR machines and bring turnaround from over three weeks down to a few days",
+   "angle": "medvault",
+   "angle_reason": "Signatur's results go to clinicians about patients, so MedVault's health-data handling (no diagnosis, safety rules, per-user isolation) is the closest software match, though their software side is not visible.",
+   "fit": 4,
+   "region": "europe",
+   "people": [
+    {"name": "Celestin de Wergifosse", "role": "CEO"},
+    {"name": "Dr. Adrian Moody", "role": "Chief Development Officer"}
+   ],
+   "contact_email": "hiring@signatur.bio",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "9f55c15942",
+   "relevant": false,
+   "summary": "Makes customized apparel and lifestyle products on made-to-order technology for B2B and D2C brands, with over 1,000 employees. Its platform team is rebuilding internal developer services on AWS and Kubernetes.",
+   "stack": ["AWS", "Kubernetes"],
+   "hook": "your posting says about 175 services from 13 product teams run on more than a dozen Kubernetes clusters and are being migrated while everything keeps running",
+   "angle": "canopy",
+   "angle_reason": "Their platform work on golden paths and CI-facing self-service is closest to Canopy's dependency analysis and CI-oriented developer tooling.",
+   "fit": 3,
+   "region": "europe",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "ca753ec5f0",
+   "relevant": false,
+   "summary": "Nagpur-based AI-powered digital infrastructure firm that builds business and school software (CRM, payroll, academic management) for clients and runs AI and cloud training programs.",
+   "stack": ["GCP", "AWS", "Azure", "Python", "Bitbucket"],
+   "hook": "your Mera Udyog page says CRM, payroll and employee management sit in one system for growing organisations",
+   "angle": "medvault",
+   "angle_reason": "Their school and business platforms are multi-tenant backends, which map to MedVault's Django REST API with JWT auth and per-user data isolation.",
+   "fit": 3,
+   "region": "india",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "5b2f2f5c28",
+   "relevant": true,
+   "summary": "Embedded insurance platform and MGA: lets tech platforms offer insurance inside their product, with underwriting, policy management, claims and billing on one system.",
+   "stack": ["API"],
+   "hook": "your site says rate tables and eligibility rules change without an engineering deployment, taking effect across every program immediately",
+   "angle": "medvault",
+   "angle_reason": "Tint's API-driven underwriting and claims flows run on regulated customer data, the same Django REST API and per-user isolation problem MedVault solves.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Matheus Riolfi", "role": "Founder"},
+    {"name": "Jérôme Selles", "role": "Founder"}
+   ],
+   "contact_email": "matheus@tint.ai",
+   "contact_name": "Matheus Riolfi",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "184bdcb460",
+   "relevant": true,
+   "summary": "Automated frontend testing tool that records user sessions through a JavaScript snippet, then replays them on pull requests to generate visual end-to-end tests and flag UI diffs.",
+   "stack": ["Chromium", "Next.js", "React", "Vue", "Angular", "Nuxt", "SvelteKit"],
+   "hook": "your site says the recorder is built from the Chromium level up with a deterministic scheduling engine to eliminate flakes",
+   "angle": "canopy",
+   "angle_reason": "Meticulous is a developer tool that runs on pull requests and picks tests from executed code paths, close to Canopy's static analysis of call graphs and CI-facing tooling.",
+   "fit": 7,
+   "region": "europe",
+   "people": [
+    {"name": "Gabriel Spencer-Harper", "role": "Founder"}
+   ],
+   "contact_email": "gabriel@meticulous.ai",
+   "contact_name": "Gabriel Spencer-Harper",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "31b1de4298",
+   "relevant": true,
+   "summary": "Cloud platform for AI inference, sandboxes and agents, offering persistent microVMs, GPUs and serverless inference that agents control over MCP.",
+   "stack": ["MCP", "microVMs", "GPUs"],
+   "hook": "your VM page says RAM and running processes resume from memory snapshots in under a second",
+   "angle": "medvault",
+   "angle_reason": "Beam's agents drive VMs through MCP tools and API calls, and MedVault wraps all its LLM calls behind one mockable client with a structured-output fallback.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Eli Mernit", "role": "Founder"},
+    {"name": "Luke Lombardi", "role": "Founder"}
+   ],
+   "contact_email": "eli@beam.cloud",
+   "contact_name": "Eli Mernit",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "36bbacd2d7",
+   "relevant": true,
+   "summary": "AI-powered ERP, MES and test management software for complex engineering, manufacturing and operations teams in aerospace, energy, defense, maritime and biotech.",
+   "stack": ["SaaS"],
+   "hook": "your 'Ask' feature answers questions cited to the exact step, signature and reading, and proposed changes apply only when a person accepts them",
+   "angle": "canopy",
+   "angle_reason": "Epsilon3's AI answers are grounded in and cited to the operating record, the same grounded-only-in-computed-results design Canopy uses for its optional chat.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Laura Crabtree", "role": "Founder"},
+    {"name": "Max Mednik", "role": "Founder"}
+   ],
+   "contact_email": "laura@epsilon3.io",
+   "contact_name": "Laura Crabtree",
+   "contact_role": "Founder",
+   "red_flags": []
+  }
+ ]
+}
