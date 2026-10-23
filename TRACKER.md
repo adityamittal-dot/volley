@@ -1,17 +1,17 @@
 # Tracker
 
-_Updated 2026-10-23T06:33:53Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-23T10:03:11Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 269 · **Sent:** 269 · **Replies:** 36 (13%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 284 · **Sent:** 284 · **Replies:** 36 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
 | new | 176 |
 | skipped | 21 |
-| no_contact | 901 |
-| low_fit | 683 |
-| researching | 179 |
-| sent | 31 |
+| no_contact | 970 |
+| low_fit | 767 |
+| queued | 11 |
+| sent | 46 |
 | followup_1 | 38 |
 | followup_2 | 60 |
 | replied | 36 |
@@ -22,15 +22,15 @@ _Updated 2026-10-23T06:33:53Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 143 | 20 |
-| canopy | 87 | 12 |
+| medvault | 154 | 20 |
+| canopy | 91 | 12 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 228 | 28 |
+| role | 243 | 28 |
 | short | 41 | 8 |
 
 ## Replies
@@ -76,6 +76,21 @@ _Updated 2026-10-23T06:33:53Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-23 | Conveo | hendrikvanhove01@gmail.com | medvault | sent |
+| 2026-10-23 | CoLoop | adrien@coloop.ai | canopy | sent |
+| 2026-10-23 | Dexter | vincent.garrigues@gmail.com | medvault | sent |
+| 2026-10-23 | Enode | henrik@enode.com | canopy | sent |
+| 2026-10-23 | Authologic | bartlomiej.kuban@authologic.com | medvault | sent |
+| 2026-10-23 | Babaclick | india@babaclick.com | medvault | sent |
+| 2026-10-23 | Waydev | alex.circei@gmail.com | canopy | sent |
+| 2026-10-23 | Lab0 | founders@lab0.ai | medvault | sent |
+| 2026-10-23 | Babaclick | hr@babaclick.com | medvault | sent |
+| 2026-10-23 | Web3task PVT LTD | hr@web3task.com | medvault | sent |
+| 2026-10-23 | Cuttle.ai | melvinodsa@gmail.com | canopy | sent |
+| 2026-10-23 | Oscova AI | anbrandi@gmail.com | medvault | sent |
+| 2026-10-23 | Envora Innovation | avinashk8650@gmail.com | medvault | sent |
+| 2026-10-23 | RapidCanvas | uttam@rapidcanvas.ai | medvault | sent |
+| 2026-10-23 | Confido Health | founders@confido.health | medvault | sent |
 | 2026-10-21 | StackRyze | hello@stackryze.com | canopy | bounced |
 | 2026-10-21 | RDash | amit@rdash.io | medvault | bounced |
 | 2026-10-21 | LimeTray | gaurav@limetray.com | medvault | bounced |
@@ -86,18 +101,3 @@ _Updated 2026-10-23T06:33:53Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-21 | Squadcast Inc | mohammad@squadcast.com | canopy | sent |
 | 2026-10-21 | ViitorCloud Technologies | careers@viitorcloud.com | canopy | sent |
 | 2026-10-21 | Atyantik | tirthbodawala@atyantik.com | canopy | sent |
-| 2026-10-21 | Atyantik | hr@atyantik.com | canopy | sent |
-| 2026-10-21 | Infopercept | sakirm@infopercept.com | canopy | sent |
-| 2026-10-21 | CivicDataLab | saurabh.levin@gmail.com | canopy | sent |
-| 2026-10-21 | CivicDataLab | careers@civicdatalab.in | canopy | sent |
-| 2026-10-21 | Stackbox | saby@stackbox.xyz | medvault | sent |
-| 2026-10-21 | Midocean Technologies Pvt Ltd | bhavesh.m@midocean.tech | medvault | replied |
-| 2026-10-21 | Kloudi | nitishmehrotra@gmail.com | canopy | sent |
-| 2026-10-21 | Fewinfos | naveenrajthiyagarajan6@gmail.com | medvault | sent |
-| 2026-10-21 | StackRyze | sudheerbhuvana25@gmail.com | canopy | sent |
-| 2026-10-21 | LimeTray | lt.login@limetray.com | medvault | sent |
-| 2026-10-21 | Ambibuzz Technologies LLP | john@ambibuzz.com | medvault | bounced |
-| 2026-10-21 | Tenstorrent | recruiting-jp@tenstorrent.com | canopy | sent |
-| 2026-10-21 | Infopercept | amitk@infopercept.com | canopy | sent |
-| 2026-10-21 | Midocean Technologies Pvt Ltd | sagar@midocean.tech | medvault | replied |
-| 2026-10-21 | Fewinfos | fewinfos@gmail.com | medvault | sent |
