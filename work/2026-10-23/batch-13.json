@@ -1,0 +1,315 @@
+{
+ "leads": [
+  {
+   "id": "d710aca872",
+   "company": "Telmai",
+   "website": "https://www.telm.ai/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "San Francisco, CA, USA; Foster City, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 12. Automated data observability and quality for Data Lake Telmai is a Data observability and Data Quality platform designed for Open architecture. It monitors data stored/managed in any data system, such as a data lake or data warehouse, in its raw format at scale without sampling Analytics, AI, ML, B2B, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.telm.ai/]\nTelmai - AI-based Data Observability for Open Architecture Introducing Telmai’s Data Reliability Agents. Watch the product launch announcement! Autonomous ready data for Agentic AI Continuous data validation and quality signal within your data lake and lakehouse so every decision runs on reliable data. Join Waitlist Take a product Tour Storylane.Play({ type: \"popup\", demo_type: \"image\", width: 2560, height: 1280, scale: \"0.95\", demo_url: \"https://app.storylane.io/demo/gk7ntokptgv5?embed=popup\", padding_bottom: \"calc(50.00% + 25px)\", }); Meet Your Data Reliability Agents Orchestration Agent Acts as the control layer for configurations, metadata, and integrations to automate & simplify your onboarding and configurations Validation Agent Continuously learns data quality trends to suggest and apply validation rules, reducing manual effort and keeping pipelines reliable Incident Diagnosis Agent Analyzes anomalies and incidents to identify likely causes, highlighting dependencies across the pipeline for faster resolution Lineage Agent Maps data flows across sources and targets, helping users trace dependencies and understand downstream impact Data Insight Agent Transforms raw data into actionable insights by generating charts and summaries that make complex data quality trends easy to interpret Help Agent Acts as your guide and delivers step-by-step explanations and context, ensuring teams always have the information they need at their fingertips Routing Agent Directs users to the right rules, incidents, or assets, reducing time spent searching across the platform. Customers Data observability leader “Great Data Quality & Observability with granular details and easy to share summary” “Accelerated our data validations and anomaly detection work-flow using Telmai” “Telmai offers a top-tier SaaS-based data observability platform with no/low-code development” “AI-based data quality monitoring and anomaly detection for complex data” Real-Time, Continuous, AI-Ready Data Telmai continuously validates structured, semi-structured, and unstructured data as it lands in the lake Generates context-rich data quality metadata that is accessed directly by agents or via catalogs AI-agents can query both the validated data and its context via MCP to decide if it’s fit-for-purpose in workflows Read Further Natural Language Interfaces to Decentralize Data Trust With Telmai’s data reliability agents, both technical and business users can set up data monitors, query data quality issues and validations in plain English Provides clear explanations of anomalies and root causes Reduces dependency on engineering teams while accelerating data trust across the enterprise Customer stories See all articles Buying a home is one of the biggest decisions people make, and our customers rely on us for accurate, trustworthy data. But managing property data across multiple markets, with different systems, sources, and standards alongside a multi-cloud infrastructure, makes data reliability a complex challenge. Telmai has become a critical partner in helping us stay ahead. Marek Tuchalski Director of Engineering for Data, PropertyGuru Group Autonomous Detection and Continuous Resolution Telmai’s AI-powered assistants continuously monitor data pipelines for anomalies Explain issues in plain language, and suggest tailored steps for quick resolution Assists enterprise data teams to prevent failures, reduce alert fatigue, and drive continuous improvement across data pipelines Articles Blog What is autonomous-ready data? Jul 02, 2025 What does it take to build Agentic AI Workflows? Sep 18, 2025 The Critical Role of Unstructured Data Quality in the Age of Agentic AI Jul 22, 2025 What Is Write-Audit-Publish in Apache Iceberg and Why It Matters for Data Quality Aug 10, 2025 See what’s possible with Telmai Request a demo to see the full power of Telmai’s data observability tool for yourself Book a demo Contact Us\n\n[https://www.telm.ai/blog/]\nTelmai Blog Int",
+   "email_candidates": [
+    {
+     "email": "mona@telm.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mona Rakibe",
+     "role": "Founder"
+    },
+    {
+     "email": "maxim@telm.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Maxim Lukichev",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "da03763f4e",
+   "company": "Venu AI",
+   "website": "https://www.venu3d.com",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Meet qualified leads in person by automating conference production Meet qualified leads in person by automating conference production with Venu AI. Host a conference and meet 100 qualified sales leads in person every 3 months fully automated with Venu AI. Artificial Intelligence, B2B, Community, Sales, Marketing, B2B, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.venu3d.com/]\nMeet Qualified Leads In Person | Venu AI Contact Us Meet qualifed leads in person Meet qualified leads, new customers, and investors in person by automating event production with Venu. Contact Us Trusted by Industry Leaders Love events but too labor intensive? Let us make your event organizing process less manual labor intensive, less time consuming, and easier to consistently produce high quality, well attended events every time. Let Qualified Sales Leads Come To You Business networking Host an event to solve the pain point of your customer persona and let your qualified sales leads come to you. Never Worry About Event Logistics Again AI-powered matchmaking Set your events on track to be successful, high quality, and well attended every time with every aspect you used to juggle now tracked, driven to completion, and aligned with strategy. Use An Events-Led Sales Process Compelling interaction Use your events to qualify sales leads, multiply response rate, have your first sales calls, nurture relationships in person, and close deals after each event. Take Time Back From Execution To Focus On Pivotal Strategy Water cooler conversations Reprioritize your time and energy from not being able to book calls or meet qualified leads to utilizing the calls, in person meetings, and relationships gained from events to close more deals and expand product-market-fit. So easy your intern can host successful events with Venu Own the event yourself, or if you're too busy, turn your intern into a high performing Event Director with Venu. High school and college interns have been hosting successful events using Venu for 2 years because Venu guides you, provides safety railings to help you overcome challenges during event production, and keeps you on track to deliver a successful event every time. Founder love Venu Investment Management Summit in San Mateo, 100+ attendees in just 90 days. Featuring Chief Investment Officers from Empiric Institutional and Dipsea Capital, Portfolio Managers, and CEOs. View case study Hospital AI conference at Stanford, 100 attendees in only 90 days, with hospital CIOs, CIO of Stanford Health Care, CIO of El Camino Health, CHITO of County of Santa Clara, GoodRx, Providence. View case study Engineering AI conference, CTO of Netgear, VP of Engineering at Iridex, Director of Engineering at Gatan. View case study \"The event ran extremely smoothly. ​I highly recommend this platform. Thrilled with the post event report.\" Jo Ryall Head of Marketing, Microsoft \"Venu is the virtual events platform of choice to bring together more than 1,000 CEOs from around the world.\" Hunter Howard Conference Chair, YPO \"Venu has been integral to Hirect's brand awareness and customer acquisition strategy and brought early-stage founders together. Vishal Kolar Director of Event Marketing, Hirect \"Venu built a world that far exceeded our expectations. Attendees were delighted by customizations that made our event personal.\" Malaka Grant CEO, Masi Media \"Venu is the best virtual conference platform we've seen so far. It's been really exciting getting to use them for events for the batch.\" Jared Fiedman Group Partner, Y Combinator “Great experience. Venu made it easy for us to do networking without physically attending an event.\" Ryan Hu Executive Director, AWE Build your community today with Venu AI Contact Us Join our newsletter and stay updated on upcoming events! By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company. Thank you, your submission has been received! Something went wrong while submitting the form! Follow us Youtube LinkedIn Twitter Facebook © 2023 Venu. All rights reserved. Privacy Policy Terms of Service\n\n[https://www.venu3d.com/contact]\nContact Contact Us Build your community with Venu Tell us about yourself and our sales experts will get back to you soon. Thank you, your submission has been received. We will get back to you shortly! Something wen",
+   "email_candidates": [
+    {
+     "email": "jeremy@venu3d.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jeremy Lam",
+     "role": "Founder"
+    },
+    {
+     "email": "fanny@venu3d.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Fanny Chen",
+     "role": "Founder"
+    },
+    {
+     "email": "justin@venu3d.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Justin Chen",
+     "role": "Founder"
+    },
+    {
+     "email": "nanette@venu3d.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Nanette Jackson",
+     "role": "Founder"
+    },
+    {
+     "email": "patrick@venu3d.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Patrick Nguyen",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "dbb82674bd",
+   "company": "Tab",
+   "website": "https://www.tab.travel",
+   "title": "Engineering (YC Winter 2015)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 9. Revolutionising the way travellers discover, plan and book a trip At Tab, we’re revolutionising the way travellers discover, plan and book a trip. The Guide lets travellers find and book anywhere — with helpful recommendations from friends & local experts, rather than bland listings with endless reviews. Planning your trip should be a joy, not a chore! We help people to travel responsibly, by booking direct instead of using traditional booking sites. Travellers get the best price and they help local businesses avoid unnecessary fees. Travel experts, content creators and the friends you always ask for recommendations can use The Guide to showcase their favourite places to stay and things to do. When you book one of their recommendations, you’ll get a discount from the business and they receive bonus credit to say thanks. The Tab platform gives independent tourism businesses the tools to improve their online presence, be discovered, take direct bookings — and also to take payments. Our payment platform is uniquely designed for tourism businesses, handling over 100 currencies natively, and every payment type securely and easily. As travel returns after a difficult period, it’s time for a fresh approach. That’s why we’re building a social commerce platform for tourism — helping to spread the benefits of tourism far and wide, and helping travellers make the most of their precious time abroad. We're headquartered in London, and backed by Y Combinator (the investors behind Airbnb, Dropbox and Stripe). Fintech, Marketplace, Travel, Consumer, Travel, Leisure and Tourism, United Kingdom, Europe, Remote, Partly Remote",
+   "site_text": "[https://business.tab.travel/?cc=us]\nTab â Accept Card Payments for Hotels, Tours & Tourism Businesses Trusted by thousands of businesses worldwide Payments built to grow your tourism business Take card payments wherever your guests are, from in-advance to on-the-move, worldwide. With free payouts sent weekly in your local currency, we're here to help your business thrive. Apply now Trusted by thousands of businesses worldwide Payments built to grow your tourism business Take card payments wherever your guests are, from in-advance to on-the-move, worldwide. With free payouts sent weekly in your local currency, we're here to help your business thrive. Apply now Trusted by thousands of businesses worldwide Payments built to grow your tourism business Take card payments wherever your guests are, from in-advance to on-the-move, worldwide. With free payouts sent weekly in your local currency, we're here to help your business thrive. Apply now Trusted by thousands of businesses worldwide Payments built to grow your tourism business Take card payments wherever your guests are, from in-advance to on-the-move, worldwide. With free payouts sent weekly in your local currency, we're here to help your business thrive. Apply now Benefits Powerful payments your tourism business can rely on See how easy it is to start taking payments with Tab â no hardware, no complications, just instant flexibility for your team. Benefits Powerful payments your tourism business can rely on See how easy it is to start taking payments with Tab â no hardware, no complications, just instant flexibility for your team. Benefits Powerful payments your tourism business can rely on See how easy it is to start taking payments with Tab â no hardware, no complications, just instant flexibility for your team. Secure bookings in advance Give guests confidence in a confirmed booking and reduce no-shows. On-the-spot sales Take payments easily for extras that occur throughout the stay or tour, even with weak WiFi signal. On-the-spot sales Take payments easily for extras that occur throughout the stay or tour, even with weak mobile or WiFi signal. Reliable payouts Get paid weekly to your bank account in your preferred currency, wherever you operate. Secure bookings in advance Give guests confidence in a confirmed booking and reduce no-shows. On-the-spot sales Take payments easily for extras that occur throughout the stay or tour, even with weak mobile or WiFi signal. Reliable payouts Get paid weekly to your bank account in your preferred currency, wherever you operate. Payment types Take payments anytime, anywhere From direct payments on your website to sending payment links in advance, Tab's flexible payment system is custom-built for global tourism, so getting paid is never a hassle. In person Take payments on arrival using the Tab app on any device. In advance Secure bookings and reduce no-shows with deposits. On your website Add our booking widget to your website for direct payments. Integrations Plug us into your existing booking engine/PMS and OTA ecosystem easily. Payment types Take payments anytime, anywhere From direct payments on your website to sending payment links in advance, Tab's flexible payment system is custom-built for global tourism, so getting paid is never a hassle. In person Take payments on arrival using the Tab app on any device. In advance Secure bookings and reduce no-shows with deposits. On your website Add our booking widget to your website for direct payments. Integrations Plug us into your existing booking engine/PMS and OTA ecosystem easily. Payment types Take payments anytime, anywhere From direct payments on your website to sending payment links in advance, Tab's flexible payment system is custom-built for global tourism, so getting paid is never a hassle. In person Take payments on arrival using the Tab app on any device. In advance Secure bookings and reduce no-shows with deposits. On your website Add our booking widget to your webs",
+   "email_candidates": [
+    {
+     "email": "mark@tab.travel",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mark Datta",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "e001bc8362",
+   "company": "Fifth Door",
+   "website": "https://fifthdoor.com",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Create and play games with AI Fifth Door unlocks the power of imagination by making it easy for everyone to create, share, and play games anywhere, with anyone. We exist to stimulate the creativity, connection, and joy that people get when they play games. Consumer, Gaming, AI, Consumer, Gaming, United States of America, America / Canada",
+   "site_text": "[https://play.fifthdoor.com/]\nFifth Door: make and play AI games in your browser Make and play AI games on Fifth Door Fifth Door is a platform for making and playing games made with AI. Describe a game in plain words and an AI builder makes it. Keep changing it by chatting with the builder, then publish it. Every game runs in the web browser and has its own link, so anyone can play it from a shared link. Developers can build a game in their own editor with Claude Code, Cursor or Codex and publish it to Fifth Door with the Fifth Door MCP server. See Publish from your editor . Games to play Gauntlet: Unbridled Violence by @backinajiffy: Pick one of six heroes, carve through three realms of tyrant-held lands, level up, claim ultimates, and face the Hidden Lord, an underworld god. Bring friends. Crownfall by @Bellaziel: Ride as a Lord, gather gold, raise a swarming war-host, topple rival Lords to steal their troops, and storm the skeleton-guarded Skull Keep. REV Spirit by @Kapouet: A PSX-style car collector's racing sim. Pass license tests, buy and tune your car, and race 6-car grids for credits and prize cars. Rug or Riches by @hello-its-joe: A neon memecoin casino parody: pay 5 Keys to mint a ridiculous coin, pump it like a maniac, and cash out before you get rugged, exposed, or accidentally legit. My Grillfriend Can't Be This Hot! by @AtticWizard: A classic anime dating sim, played completely straight, except every heroine is a barbecue grill. You have twelve days until the Summer Cookout to win over the… GRILLFRIENDS by @AtticWizard: A gacha game where every waifu is a barbecue grill. Summon from 64 lavishly drawn, fully voiced anime grills — from Foil-chan (one afternoon only) and Heikin-k… Emoji Rebus Rush by @Games0ver: Decode emoji puzzles against a ticking clock. Tap letters to spell the answer, bank seconds for every solve, and see how far you get on three strikes. Tumbleblock by @Jonathan: Tip a tall stone block end over end across floating tile grids and drop it upright into the hole. One wrong roll and it's gone. Superlative Dungeon by @RigoJMortis: ERA II: THE DUNGEON WAKES — the dungeon now reads your power. Heavies take a share of your health and hunters come for you, and how you play still names you. Stagger by @musiccraty: You left the bar. Home is somewhere out there. Hop block by block through an endless neon city, dodge the taxis, and try to beat your best. Skywrath by @musiccraty: You are the storm above the desert. Mortals stream from their camps in ever-thicker columns to raise a spire to your heavens — hold them off with rock, bolt, s… Roll-a-dillo by @hello-its-joe: Can you navigate the desert and collect every gem?\n\n[https://play.fifthdoor.com/blog]\nFifth Door Blog Fifth Door Blog Guides, ideas, and news about making and playing AI-made games on Fifth Door. How to Make a Game with Claude Code (and Put It Online) Make a game with Claude Code: the first prompt, a play-and-fix loop, art and sound, and publishing to a public link with the Fifth Door MCP server. October 21, 2026 Free AI Games Online with No Download (Browser Play Guide) Play free AI games online with no download via Fifth Door Discover in your browser. Android users can also install the Play Store app. Instant play FAQ. October 19, 2026 AI Game Ideas: 40 Small Games You Can Make with AI Today 40 AI game ideas scoped to build in one session: arcade, puzzle, daily, platformer, story, party, and games that use AI or the camera while you play. October 19, 2026 How to Make a Daily Puzzle Game Like Wordle with AI Make a daily puzzle game like Wordle with AI: the five rules of a good daily, copyable word, number, and trivia prompts, and same-puzzle-for-everyone on Fifth Door. October 17, 2026 How to Make a Platformer Game with AI (Prompts That Feel Good) Make a platformer game with AI: what to put in the prompt, five copyable platformer prompts, follow-ups that fix floaty jumps, and how to share it on Fifth Door. October 15, 2026 How to Publish a Vi",
+   "email_candidates": [
+    {
+     "email": "daniel@fifthdoor.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Daniel Kan",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "amir@fifthdoor.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Amir Ghazvinian",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "e96cece5d7",
+   "company": "Haystack",
+   "website": "https://usehaystack.io/",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. Delivery Analytics for Software Teams We are bringing the competitive advantage data-driven engineering teams like Google have - to everyone else. Our analytics platform plugs directly into developer tools like Github to provide insights on delivery speeds, bottlenecks, and risks that impact team velocity & developer happiness. We're trusted by some of the world’s most innovative teams: Microsoft, The Economist, and Indiegogo and backed by Y Combinator, Soma Capital, Funders Club, and strategic angels (Founder @Optimizely, SVP Sales @Amplitude) . Haystack is a culture of tinkering, learning, testing and iterating. We ship quickly and help our customers do the same. We're led by founded by two technical founders who have experienced this problem first-hand after scaling their startups from 0 to 100m+ users. Analytics, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.usehaystack.io/]\nDelivery Ops for Product & Engineering Leaders | Haystack Sign in Start free trial Try now Deliver software faster, better, and more predictably Haystack helps you automize best practices and create reports by linking to Git and JIRA Start free trial Deliver better at every level Works across whole product engineering team Engineering Leadership Managers Product Operational metrics Report to execs Investments See where you spend time Team health report Help whose in need Risks alerts Identify blockers Effective standups Understand progress Flexible Metrics Report progress Epics Track roadmap progress Investments Understand capacity AI Release Notes Keep up to date Learn more about product Toolkit for product engineering teams Improve the entire lifecycle of planning, executing, and reporting your deliverables Retrospective Understand why you missed your sprint goals AI generated Release Notes Streamline communication with outside your teams Integrates with everything Sits on top your Git and Jira Epic progress Prevent last minute roadmap delays Alerts Catch risk before it’s too late Flexible report Easy metrics across Git & JIRA Effective standups Get status updates in 10 second Trusted by 100s of companies Will Truong Head of Engineering at Doxel Haystack has been a game-changer for us. Unlike other tools, which can sometimes be misused in a top-down approach that reduces team trust and engagement, Haystack fosters trust across the organization. It avoids turning team members into numbers and instead ensures everyone is on the same page. Teams see what executives see, promoting transparency and collaboration. Ronan Reilly Head of Platform at Air Apps Haystack helped us realize the potential for improvement. It was an eye-opener. It helped us manage scope better, leading to more consistent delivery and success. TJ Andrews Engineering Manager at Bubble Haystack transformed my approach to planning and managing tasks. With clear capacity estimations and investment visibility, I no longer dread the quarterly planning process. My team’s efficiency has skyrocketed, allowing us to hit goals with confidence and ease! Denali Lumma Director of Engineering at Box We decreased our cycle time from 40 days to 3 days using the insights from Haystack Chris Downwards VP of Engineer at GigSmart Haystack has become my go-to tool for monitoring and optimizing our engineering output. The way it simplifies complex data into actionable insights is phenomenal. It truly empowers our team to stay ahead of potential issues. Tales Cione Head of Engineering at Heyjobs I’m impressed with how Haystack facilitated our delivery check-ins and improved our team’s delivery practices. It provides clear, actionable data that helps in making informed decisions quickly. It’s more than a tool; it’s a partner in enhancing our team’s efficiency and effectiveness. Learn more about product You're in good company Join the thousands of teams loving Haystack. \"We decreased our cycle time from 40 days to 3 days using the insights from Haystack.\" Denali Lumma Director of Engineering, Box \"I don't have to chase things anymore, it's like I have a radar looking for blockages.\" Zach Zimmerman Engineering Manager, The Economist \"Haystack took us from gut feelings to a data-driven culture. That's been priceless.\" Matt Edwards Head of International Engineering, Robinhood \"Simple. Easy to use and lets you to dig in if you need to. No fluff metrics or 'big brother' reporting.\" Robert Hucik VP of Engineering, Outsystems \"This is the product you thought of while reading Accelerate. We can experiment and make more changes - while knowing we're headed in the right direction.\" Gady Pitaru CTO, BadgerMaps \"I've tried just about every one of these tools and ended up choosing Haystack. Easy to use, no fluff and I love reading insights with my morning coffee.\" Jean-vicente De Carvalho CTO, LyteHouse Deliver Software Faster, Better, and More Predictably Start free ",
+   "email_candidates": [
+    {
+     "email": "julian@usehaystack.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Julian Colina",
+     "role": "Founder"
+    },
+    {
+     "email": "kan@usehaystack.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Kan Yilmaz",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ebbe24a814",
+   "company": "Kabilah",
+   "website": "https://www.kabilah.com",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "Unspecified",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Agentic AI for Nursing Workflows Kabilah is the most trusted enterprise-grade AI platform designed specifically for nursing workflows. We reduce burnout, enhance system efficiency, and enable high quality care. Generative AI, Digital Health, Healthcare, AI, Healthcare, Unspecified",
+   "site_text": "[https://www.aren.com]\nAren: Powering Successful Nursing Shifts x Skip to content Book a demo Book a demo Loading More clarity. More time for care. M o r e c l a r i t y . M o r e t i m e f o r c a r e . Empowering nurses to execute successful shifts, while illuminating their critical role in health system financial performance. Learn More Becker’s Hospital Review, Beyond Documentation: How Aren (previously Kabilah) Is Redefining ROI for Nursing AI Becker’s Hospital Review, Beyond Documentation: How Aren (previously Kabilah) Is Redefining ROI for Nursing AI ( 1 ) Platform Powering Successful Shifts P o w e r i n g S u c c e s s f u l S h i f t s Aren builds on the ingenuity of nurses' existing workflows, integrating seamlessly into daily practice to help nurses navigate complexity through an intuitive experience. ( 1 ) Consistent & Complete Verbal Handoffs Aren offers a proprietary solution for all transitions of care - from the ER, all the way to discharge. This system guarantees every verbal handoff is thorough and accurate by notifying nurses of any missing critical information and providing corrections for inaccuracies, ensuring reliable and effective communication. ( 2 ) Simple Digital Report Sheets Aren revamps fragmented paper report sheets into a clean digital format that saves time and eliminates the risk of lost or incorrect information. Nurses no longer need to rewrite all patient details at the beginning of each shift by hand, and everything they need is consistently in one place. ( 3 ) Guided Task Management Aren streamlines task management with context-aware support that prioritizes urgency and helps organize tasks the way nurses would. Our platform simplifies workflows, ensuring the highest degree of patient safety while making the day more manageable for each nurse. ( 4 ) Efficient Charting & Flowsheet Completion Aren integrates with your health system's tech stack, eliminating the need for redundant charting. Nurses can export their report sheets to various note types and flowsheets within the EHR, reducing documentation burden and allowing more focus on patient care. ( 1 ) Consistent & Complete Verbal Handoffs Aren offers a proprietary solution for all transitions of care - from the ER, all the way to discharge. This system guarantees every verbal handoff is thorough and accurate by notifying nurses of any missing critical information and providing corrections for inaccuracies, ensuring reliable and effective communication. ( 2 ) Simple Digital Report Sheets Aren revamps fragmented paper report sheets into a clean digital format that saves time and eliminates the risk of lost or incorrect information. Nurses no longer need to rewrite all patient details at the beginning of each shift by hand, and everything they need is consistently in one place. ( 3 ) Guided Task Management Aren streamlines task management with context-aware support that prioritizes urgency and helps organize tasks the way nurses would. Our platform simplifies workflows, ensuring the highest degree of patient safety while making the day more manageable for each nurse. ( 4 ) Efficient Charting & Flowsheet Completion Aren integrates with your health system's tech stack, eliminating the need for redundant charting. Nurses can export their report sheets to various note types and flowsheets within the EHR, reducing documentation burden and allowing more focus on patient care. Enterprise Grade E n t e r p r i s e G r a d e Aren comes with everything you need for a successful deployment. (1) (1) (1) EHR Integrated EHR Integrated EHR Integrated Aren connects with Epic and Meditech using FHIR interoperability standards to securely exchange health information. Aren connects with Epic and Meditech using FHIR interoperability standards to securely exchange health information. Aren connects with Epic and Meditech using FHIR interoperability standards to securely exchange health information. (2) (2) (2) HIPAA + SOC2 Compliant HIPAA + SOC2 Compliant HIPAA ",
+   "email_candidates": [
+    {
+     "email": "sarah@kabilah.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sarah Raza",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "umar@kabilah.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Umar Nadeem",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ef539bb926",
+   "company": "Compose.ai",
+   "website": "https://compose.ai",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "Carlsbad, CA, USA; San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. Cut your writing time by 40% with AI-powered autocomplete Compose AI is a free Chrome extension that helps automate your writing using AI. You know how Gmail autocompletes your emails? Compose.ai is like that but everywhere, like how Grammarly works. Artificial Intelligence, NLP, Email, B2B, Productivity, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.compose.ai/]\nCompose AI: Automated Your Writing Pricing Features Testimonials FAQ Sign In Install Extension AI-Powered Writing Tool Generate any text using AI. Autocomplete your sentences where you type. With Compose AI, you can write emails, create documents, and chat faster. Sign Up It's free Install Extension Backed by Try it now Trusted by 10,000+ teams and 400,000 people Write Faster With AI, Save Time Compose AI is your personal AI writing assistant that cuts your writing time by 40% Autocomplete Everywhere Use autocomplete across all of your tools & accelerate your writing. Personalization Of Your Writing Style Our platform learns your \"voice\" & suggests personalized phrases. Unobtrusive Universal Integration Our system seamlessly integrates with your existing platforms & tools. Loved by Everybody A recent study found that $100k+ earners spend 87% of their workweek typing. Our platform is changing that: consider Compose AI as your personal writing assistant. Frequently Asked Questions What is Compose AI? Compose AI is a free Chrome plugin that accelerates your writing, lets you use auto complete anywhere, and will decrease your time spent typing. What is the cost? The plugin is free to use forever, and there is a premium version with some advanced features including use of some of our personalization features. How do I contact support? We can be contacted with any questions at support (at) Compose AI, and we'd love to help you in any way that we can. What about my privacy? We take your privacy extremely seriously. Your text is only used to provide you with the best autocompletions possible. We will never sell your data. View our privacy policy for more details. Guide Watch guide Jobs Join the team Social Links Twitter Linkedin TikTok Instagram Facebook Legal Privacy Policy Terms of Use Copyright © 2024 Compose AI, INC. All rights reserved.",
+   "email_candidates": [
+    {
+     "email": "wilsonmitchell92@gmail.com",
+     "where": "YC profile · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Wilson Mitchell",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f0399b35ce",
+   "company": "CoLoop",
+   "website": "https://coloop.ai/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 16. AI Copilot for insights & strategy At CoLoop we’re on a mission to make every company in the world as customer obsessed as Amazon. We’re doing this by giving the next generation of workers immediate, intuitive access to the customer knowledge they need to make better decisions, faster. Generative AI, Market Research, B2B, United Kingdom, Europe",
+   "site_text": "[https://www.coloop.ai/]\nCoLoop — AI Analysis for Qualitative Research Skip to content Product : CoLoop Memory is live, and Thought Partner Chat has been rebuilt for verifiable analysis Blog : Introducing the new Thought Partner Chat Events : Co-working at CoLoop HQ, see upcoming dates Log in Book a call Log in Book a call Qualitative research, end to end Plan, recruit, interview and analyse in one place. 400+ research and strategy teams have replaced fragmented tool stacks with CoLoop. SOC 2 and GDPR compliant PII masking No model training Plan Describe the study in plain language and get objectives, questions and a method back to edit. Recruit Build the panel from a CSV, or straight out of Salesforce, Mixpanel or PostHog. Interview Run the session with your guide beside you while the transcript arrives live. Analyse Ask a question, get a column. Every answer carries the participants behind it. Share Cut the moments that landed into reels the whole team can watch and share. app.coloop.ai/guided-setup/plan Question Configure Plan Discussion guide Continue to discussion guide Let’s set up your project Ask for changes, and I’ll draft them for review yep Draft applied Research plan Applied Purpose and background Research objectives and questions Revert Generate the research plan Drafting Drafting the research plan… Share more context, paste notes, or ask a question… Research plan Refine the plan your study will follow. Saved Purpose and background Research objectives and research questions Objective 1: Understand how PMs and designers do UX work today. Objective 2: Identify unmet needs in their current workflow. Objective 3: Surface concrete opportunity areas for CoLoop. Method and sample Timeline app.coloop.ai/panel/people All people Filter by tag Search people… Add person Name Email Panels Tags Last seen Bob Alice bob@example.org Independent researchers — — Jane Doe jane-doe@example.org Power users — 04/08 Bill Alice bill-alice@example.org In-house researchers Power users Meeting bot — Alex Rider alex@example.org In-house researchers Org > 1000 27/07 Sam Reed sam@example.org Meeting bot users Meeting bot — Priya Raman priya@example.org Power users Independent researchers Org > 1000 02/08 Gayathri S. gayathri@example.org In-house researchers — — Marco Bianchi marco@example.org Independent researchers Meeting bot users Meeting bot 19/07 Dana Okafor dana@example.org Power users Org > 1000 — Add people from Upload CSV Map columns Salesforce Contacts Mixpanel Cohorts PostHog Persons app.coloop.ai/meetings/live Interview with Priya (PM) Copilot on Research objective Introduction and consent 5m Explain that the session is recorded and transcribed. Confirm they are comfortable with the recording. Let them know the session runs 45 to 60 minutes. Warm-up 10m Tell me a bit about your role and what you own day to day. Where does your team sit, and who do you work with most closely? How does research fit in, next to your other responsibilities? Current workflow deep dive 25m Tell me about the last time you needed to understand users better. Walk me through how you decided what to do and planned it out. Tools and workarounds 15m Which tools do you lean on today, and where do they let you down? What have you tried that did not work, and what did you do instead? Live transcript You 100% Jack Bowen 00:15 Thanks for making the time. Before we start — happy for me to record and transcribe this? Priya Raman 00:24 Yes, that’s fine. Jack Bowen 00:31 Great. So tell me a bit about your role and what you’re responsible for day to day. Priya Raman 00:42 I’m a PM on the growth team, so mostly onboarding and activation. There’s no researcher on the team, which means when we need to understand something about our users I end up doing it myself — pulling a list, running four or five calls, then trying to make sense of the recordings between other work. Jack Bowen 01:05 Can you walk me through the last time you did that? What set it off? Priya Raman 01:18 Ac",
+   "email_candidates": [
+    {
+     "email": "jack@coloop.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jack Bowen",
+     "role": "Founder"
+    },
+    {
+     "email": "adrien@coloop.ai",
+     "where": "YC profile · GitHub commits",
+     "kind": "personal",
+     "name": "Adrien Wald",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f32c3e00e9",
+   "company": "IronLedger.ai",
+   "website": "https://ironledger.ai",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "AI-enabled Corporate Cards and Invoice Processing for Real Estate IronLedger automates property accounting for property managers, developers and contractors, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 80K multifamily units. https://www.ironledger.ai/ Real Estate and Construction, Housing and Real Estate, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.ironledger.ai/]\nIronLedger Book Demo 🎉 IronLedger raises $2.5M to support 100s of CRE managers, developers and contractors AI built for real estate accounting Handle invoices and card expenses in a snap Supporting: 100K+ units Millions of sq ft 100s of developers and contractors Case Study How Treplus closes the books 30 days faster Case Study How Baron Management increased profits by >5% Case Study How AWM saved $70K in accounting costs Learn more below Card expenses Invoices An AI agent that handles expenses from start to finish. We work with your existing credit cards and accounting system (e.g., Rent Manager). 01 Never chase another receipt Automated texts are sent to your team after purchases 02 Close your books faster Our AI collects property splits and expense details for you 03 Expenses straight to your PMS Our AI uploads expenses to your accounting system in one click 04 New Never enter a billback again Our card splits the bill and charges property accounts directly Never chase another receipt The only complete Spend and AP platform for Real Estate : Complex Approval Flows Route receipts to the right approver based on your org chart One-click approvals online, over email and text Reimbursements Submit and get paid for out-of-pocket expenses via text Automated payouts directly to employee accounts Precise Card Controls Easily set spend limits ($300/month only at Gas Pumps) Require authorization before any purchase (decline spend over text) Multi-Entity Support Tie cards to Corporate- or Property-Level entities Avoid painful and tedious billbacks Mileage Track, calculate and reimburse mileage in one place Set your own reimbursement rates Automated Policy Flags Receive immediate text alerts for spend over certain limits and out-of-policy spend Save 100s of hours for your team Expect 20 hours back for every 100 transactions Reduce expense and invoice spend by 1% Our AI stops unauthorized spend and finds savings Automatically entered in your accounting system We work with Yardi, Rent Manager and more New Never enter a billback again IronLedger Cards split your bill and charge properties what they owe directly. Your account doesn't have to front the money. Cards are issued by First Internet Bank of Indiana, pursuant to a license from Visa Inc. Concept card shown above. Reach out to learn more. Frequently Asked Questions How does IronLedger connect with my bank or credit cards? IronLedger works with all banks and credit issuers through secure, read-only integrations. We pull in transaction data so your team never has to manually enter purchases. Other providers have struggled to work with my accounting system. Can IronLedger connect with my system? Yes. IronLedger works with all property management and accounting platforms including Rent Manager, AppFolio, RealPage, Entrata, Buildium, MRI, QuickBooks, Sage Intacct and more. Coded expenses and invoices are uploaded directly into your system with a single click or upload. How does IronLedger code accurately? We build a model specific to your organization that learns from your historical coding patterns and chart of accounts. Coding is >97% accurate and every edit is auditable by your team and reviewed by our support team of CPAs. How does IronLedger protect my data? IronLedger uses enterprise-grade security practices including bank-level encryption at rest. We enforce role-based access controls and all connections to systems are scoped to the minimum permissions required. My team has limited bandwidth. How long does it take to get onboarded? Most teams are fully onboarded in 1 week. We need ~2 hours with an accounting admin and then we handle the rest. What time or cost savings should I expect? Customers typically save 20 hours per 100 receipts and can close their books in real-time. IronLedger has also flagged credit card misuse and identified missed bill backs to customers which has translated to a >5% profit increase. My team doesn't want to download another ap",
+   "email_candidates": [
+    {
+     "email": "info@ironledger.ai",
+     "where": "https://www.ironledger.ai/",
+     "kind": "generic"
+    },
+    {
+     "email": "nick@ironledger.ai",
+     "where": "https://www.ironledger.ai/blog/seed-announcement",
+     "kind": "personal"
+    },
+    {
+     "email": "u003enick@ironledger.ai",
+     "where": "https://www.ironledger.ai/blog/seed-announcement",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f403688790",
+   "company": "SafeBeat",
+   "website": "https://safebeat.com",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 9. First ECG AI to go beyond diagnostics and recommend treatment AI-Enhanced Learning, Medical Devices, Digital Health, Therapeutics, Healthcare, Medical Devices, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://safebeat.com/]\nSafeBeat Rx – Powering Cardiac Therapeutics – All From Your Phone Skip to main content SafeBeat Rx Menu Powering Cardiac Therapeutics - All From Your Phone SafeBeat goes beyond diagnostics to guide cardiac care. Our specialized ECG analysis powers the SafeBeat platform to expand access to remote therapeutic monitoring using third party FDA-cleared cardiac monitoring devices (mobile ECG, mobile cardiac telemetry, and implantable cardiac monitor), all from your phone. Get in touch Designed for Clinicians, by Clinicians Our unique algorithms and software platform are designed to help clinicians quickly assess important information about their patients, without being buried in alerts and notifications. All software is streamlined for use from a mobile phone, with explainable AI and custom tools that display diagnostic information and, treatment steps customized for the patient. With patient and clinician experience as first priority, our platforms unlock the full capabilities of digital health and remote care. Advanced Artificial Intelligence Our proprietary machine learning algorithms power our solutions, and we are making our software available to power your products as well. From ECG interpretation to treatment management, our world-class AI delivers efficiency and streamlined insights. Caution : Product under development. Not currently for sale. Limited by Federal (or United States) Law to Investigational Use Only. Testimonials and Support: ” “Heart Rhythm Society plays a key role in supporting new technologies like yours, which respond to the needs of both patients and healthcare systems and help advance our specialty.” Christine Albert, MD, MPH Past President, Heart Rhythm Society , Founding Chair of the Department of Cardiology at Cedars-Sinai ” “SafeBeat has the potential to dramatically improve care of patients who require in-patient monitoring for drug initiation, and may thus improve patient care and workflows.” Sanjiv M. Narayan, MD, PhD Professor of medicine , Co-Director, Arrhythmia Center , Stanford University Medical Center ” “I expect the technology developed…to make an immediate and widespread impact on the treatment of atrial fibrillation patients in the VA system and in the broader community, by improving access and reducing health disparities.” Cara Pellegrini, MD Director, Cardiac Electrophysiology , San Francisco VA Medical Center ” “In assessing the digital health landscape today, the capability of your technology to go beyond diagnostics to bring mortality reducing medications to larger populations will both reduce healthcare costs and improve cardiovascular outcomes.” Melvin Scheinman, MD Founding Father of Cardiac Electrophysiology , Walter H. Shorenstein Endowed Chair in Cardiology, UCSF ” “The alternative you offer to current standard of care is not just incrementally better but radically improved, and your [team’s] backgrounds make you uniquely qualified to solve the pain points facing doctors and patients.” Jared Friedman Partner at Y Combinator ” Over the summer, I was looking to get an insight on how it would be to work in a startup company. What I got in return was far greater than what I have imagined. Working for a Y Combinator company gave me the opportunity to work with highly competent individuals that I learned a tremendous amount from. As a machine learning intern, I was given the chance to actually contribute to their product, which lead to me working on something that actually had meaning. If you’re looking to work for a company where your contributions actually matter, then Safebeat Rx is one that I would highly recommend. Amadu Swaray Founder & Managing Partner , Fusion Fund, VC Testimonials and Support: Heart Rhythm Society plays a key role in supporting new technologies like yours, which respond to the needs of both patients and healthcare systems and help advance our specialty. Christine Albert, MD, MPH Past President, Heart Rhythm Society Founding Chair of th",
+   "email_candidates": [
+    {
+     "email": "rachita@safebeat.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Rachita Navara",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

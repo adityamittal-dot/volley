@@ -1,0 +1,316 @@
+{
+ "leads": [
+  {
+   "id": "ee1ccfbf6b",
+   "company": "Greptile",
+   "website": "https://www.greptile.com",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 35. AI code review agent with complete context of your codebase Greptile reviews pull requests with full context of the codebase. Top YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. When companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average Greptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC. Developer Tools, AI, B2B, Engineering, Product and Design, United States of America, America / Canada",
+   "site_text": "[https://www.greptile.com/]\nAI Code Review | Greptile | Merge 4X Faster, Catch 3X More Bugs Greptile raised a $50M Series B led by Menlo Ventures. Read the announcement The AI Code Reviewer AI agents that review and test pull requests with full context of the codebase. Contact sales Start now onboard with your agent Over 22,000+ teams use Greptile “ We've tried more code review tools than I can count. Greptile outperforms them all by a mile. Honestly the only AI reviewer that doesn't annoy the s**t out of me. ” CTO , Brex James Reggio View Brex case study [ AGENT ] How Greptile reviews every PR Greptile constructs a graph index of your codebase, then uses a swarm of agents to catch potential issues that humans might miss Learn more How it works STEP 01 Indexes your codebase Builds a graph of your repo - files, functions, and dependencies. STEP 02 Swarm of agents review the PR Parallel agents review changes, assess their impact beyond the diff, and flag issues. STEP 03 Greptile learns your codebase over time Reads other engineers' comments to understand your coding standards. Catch them all From style violations to security risks and multi-file logical bugs Three bugs that should not hit prod. NVIDIA 8.6k Stars 1.3k Forks 3 Repositories dali/core/device_guard.cc 01 - 01 + 02 + greptile Unbalanced CUDA release wipes context See PR Meta PyTorch 1.8k Stars 350 Forks meta-pytorch/OpenEnv Repository envs/repl_env/server/repl_environment.py 01 - 01 + 02 + greptile Undefined method breaks every step() See PR Solana 174 Stars 249 Forks solana-foundation/kora Repository crates/lib/src/transaction/instruction_util.rs 01 - 01 + 02 + greptile Mid-loop overflow leaves orphaned keys See PR See more examples [ PERSONALIZATION ] Reviews that adapt to your team From custom rules to continuous learning, Greptile gets smarter about your codebase with every review. [ CUSTOM RULES ] Your house, your rules Write standards in plain English, point Greptile at repo-specific context, and enforce the patterns your team actually cares about on every PR. Set your rules [ LEARNING ] We're getting to know each other Greptile learns your codebase and coding standards by reading your team' PR comments. See learning [ YOUR STACK ] The Central Validation Layer. Designed to work seamlessly with every coding agent, Greptile serves as the unified validation agent for all code changes. Learn more Ways Greptile plugs into your workflow 01 Fix in your IDE One-click send issue context to Claude Code, Cursor, Codex, or Devin 02 Greptile MCP Connect Greptile to any AI agent to share comment context. 03 Claude Code Plugin Let Claude Code automatically read and resolve Greptile comments. 04 /greploop Let any coding agent iterate with Greptile until all issues are resolved. TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE [ INTRODUCING TREX ] Autonomously Test Every PR TREX runs your PR branch in a sandbox to catch the bugs that only show up at runtime. Explore TREX TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE Security-First Design Built for enterprises across defense, healthcare, and financial services. Learn more 01 Self-Hosted Deployment Host Greptile in your own air-gapped environment. 02 SOC 2 Compliance Independent audits, reports avail",
+   "email_candidates": [
+    {
+     "email": "rodrigo@greptile.com",
+     "where": "https://www.greptile.com/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "hiring@greptile.com",
+     "where": "https://www.greptile.com/blog",
+     "kind": "hiring"
+    },
+    {
+     "email": "daksh@greptile.com",
+     "where": "https://www.greptile.com/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "soohoon@greptile.com",
+     "where": "https://www.greptile.com/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "hello@greptile.com",
+     "where": "https://www.greptile.com/blog",
+     "kind": "generic"
+    },
+    {
+     "email": "contact@dejaydev.com",
+     "where": "GitHub commits (greptileai)",
+     "kind": "generic",
+     "name": "Dj Isaac",
+     "commits": 20
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ee1ccfbf6b-ref",
+   "company": "Greptile",
+   "website": "https://www.greptile.com",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 35. AI code review agent with complete context of your codebase Greptile reviews pull requests with full context of the codebase. Top YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. When companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average Greptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC. Developer Tools, AI, B2B, Engineering, Product and Design, United States of America, America / Canada",
+   "site_text": "[https://www.greptile.com/]\nAI Code Review | Greptile | Merge 4X Faster, Catch 3X More Bugs Greptile raised a $50M Series B led by Menlo Ventures. Read the announcement The AI Code Reviewer AI agents that review and test pull requests with full context of the codebase. Contact sales Start now onboard with your agent Over 22,000+ teams use Greptile “ We've tried more code review tools than I can count. Greptile outperforms them all by a mile. Honestly the only AI reviewer that doesn't annoy the s**t out of me. ” CTO , Brex James Reggio View Brex case study [ AGENT ] How Greptile reviews every PR Greptile constructs a graph index of your codebase, then uses a swarm of agents to catch potential issues that humans might miss Learn more How it works STEP 01 Indexes your codebase Builds a graph of your repo - files, functions, and dependencies. STEP 02 Swarm of agents review the PR Parallel agents review changes, assess their impact beyond the diff, and flag issues. STEP 03 Greptile learns your codebase over time Reads other engineers' comments to understand your coding standards. Catch them all From style violations to security risks and multi-file logical bugs Three bugs that should not hit prod. NVIDIA 8.6k Stars 1.3k Forks 3 Repositories dali/core/device_guard.cc 01 - 01 + 02 + greptile Unbalanced CUDA release wipes context See PR Meta PyTorch 1.8k Stars 350 Forks meta-pytorch/OpenEnv Repository envs/repl_env/server/repl_environment.py 01 - 01 + 02 + greptile Undefined method breaks every step() See PR Solana 174 Stars 249 Forks solana-foundation/kora Repository crates/lib/src/transaction/instruction_util.rs 01 - 01 + 02 + greptile Mid-loop overflow leaves orphaned keys See PR See more examples [ PERSONALIZATION ] Reviews that adapt to your team From custom rules to continuous learning, Greptile gets smarter about your codebase with every review. [ CUSTOM RULES ] Your house, your rules Write standards in plain English, point Greptile at repo-specific context, and enforce the patterns your team actually cares about on every PR. Set your rules [ LEARNING ] We're getting to know each other Greptile learns your codebase and coding standards by reading your team' PR comments. See learning [ YOUR STACK ] The Central Validation Layer. Designed to work seamlessly with every coding agent, Greptile serves as the unified validation agent for all code changes. Learn more Ways Greptile plugs into your workflow 01 Fix in your IDE One-click send issue context to Claude Code, Cursor, Codex, or Devin 02 Greptile MCP Connect Greptile to any AI agent to share comment context. 03 Claude Code Plugin Let Claude Code automatically read and resolve Greptile comments. 04 /greploop Let any coding agent iterate with Greptile until all issues are resolved. TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE [ INTRODUCING TREX ] Autonomously Test Every PR TREX runs your PR branch in a sandbox to catch the bugs that only show up at runtime. Explore TREX TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE TEST · RUN · EXECUTE Security-First Design Built for enterprises across defense, healthcare, and financial services. Learn more 01 Self-Hosted Deployment Host Greptile in your own air-gapped environment. 02 SOC 2 Compliance Independent audits, reports avail",
+   "email_candidates": [
+    {
+     "email": "ravernkoh@gmail.com",
+     "where": "GitHub commits (greptileai)",
+     "kind": "personal",
+     "name": "Ravern Koh",
+     "commits": 6
+    },
+    {
+     "email": "ravern@greptile.com",
+     "where": "GitHub commits (greptileai)",
+     "kind": "personal",
+     "name": "Ravern Koh",
+     "commits": 2
+    },
+    {
+     "email": "daksh510@gmail.com",
+     "where": "GitHub commits (greptileai)",
+     "kind": "personal",
+     "name": "Daksh Gupta",
+     "commits": 16
+    },
+    {
+     "email": "tobias@greptile.com",
+     "where": "GitHub commits (greptileai)",
+     "kind": "personal",
+     "name": "Tobias Hofmann",
+     "commits": 17
+    },
+    {
+     "email": "cam.avarley@gmail.com",
+     "where": "GitHub commits (greptileai)",
+     "kind": "personal",
+     "name": "cameronvarley",
+     "commits": 6
+    },
+    {
+     "email": "dj@greptile.com",
+     "where": "GitHub commits (greptileai)",
+     "kind": "personal",
+     "name": "Dj Isaac",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  },
+  {
+   "id": "9315eab5a7",
+   "company": "Capgemini",
+   "website": "https://capgemini.com",
+   "title": "Group Internal Auditor (CA Fresher)",
+   "location": "Mumbai",
+   "source": "unstop",
+   "posted_at": "2026-10-14T11:04:18Z",
+   "posting": "Capgemini is hiring for the role of Group Internal Auditor (CA Fresher)! Responsibilities of the Candidate: Performing internal audit assignments, Mapping processes Identifying process-level controls Assessing the design and effectiveness of financial, operational, and compliance processes Requirements: Experience: 0 to 1 year post-qualification Qualification: CA 2026",
+   "site_text": "[https://www.capgemini.com/]\nCapgemini - Make it real. Skip to content Back Insights Insights Explore our latest thought leadership, ideas, and insights on the issues that are shaping the future of business and society. Learn more Hot topics Hot topics Reshape your future with AI Leading sustainability The future of technology Marketing for customer experience Conversations for tomorrow The Scale Effect Initiatives with the World Economic Forum Our research library Expert perspectives Industries Industries Choose a partner with intimate knowledge of your industry and first-hand experience of defining its future. Learn more Aerospace and defense Automotive Banking and capital markets Consumer products Energy and utilities Healthcare High-tech Hospitality and travel Insurance Life sciences Manufacturing Media and entertainment Public sector Retail Telecoms Services Services Discover our portfolio – constantly evolving to keep pace with the ever-changing needs of our clients. Learn more Cloud Customer first Cybersecurity Data and artificial intelligence Digital sovereignty Enterprise management Intelligent industry Sustainable business Careers Careers Become part of a diverse collective of free-thinkers, entrepreneurs and experts – and help us to make a difference. Learn more Why join Capgemini Life at Capgemini Meet our people Career paths Career paths Students and graduates Experienced professionals Executives Our professions Careers at Capgemini Engineering Careers at Capgemini Invent Join us Join us Recruitment process Interview tips Job search News News See our latest news, and stories from across the business, and explore our archives. Learn more Press releases Analyst recognition Client stories Inside stories Social media Events About us About us We are a global leader in partnering with companies to transform and manage their business by harnessing the power of technology. Learn more Who we are Who we are What we do The way we work Our innovation ecosystem Values and Ethics Our brands Management and governance Management and governance Board of Directors Executive committee Responsible business Policies Environment, Social & Governance Corporate Social Responsibility Corporate Social Responsibility Digital inclusion Diversity and inclusion Environmental sustainability Partnerships Tech4Positive Futures Transforming sports Transforming sports Peugeot Sport Rugby Ryder Cup Tour de France The America’s Cup Technology partners Locations Investors Contact us Global | EN Dark and light mode toggle, currently light mode Your location Global | EN Worldwide Global | EN Americas Argentina | ES Brazil | PT Canada | EN Canada | FR Colombia | ES Guatemala | EN Mexico | ES United States | EN Asia Pacific Australia | EN China | ZH India | EN Japan | JP New Zealand | EN Singapore | EN Europe, Middle East & Africa Austria | EN Belgium | EN Czech Republic | EN Denmark | EN Egypt | EN Finland | EN France | FR Germany | DE Hungary | EN Ireland | EN Italy | IT Luxembourg | EN Morocco | EN Netherlands | NL Norway | NO Poland | PL Portugal | EN Romania | EN KSA | EN Spain | ES Sweden | EN Switzerland | EN UAE | EN UK | EN Your location Global | EN Worldwide Global | EN Americas Argentina | ES Brazil | PT Canada | EN Canada | FR Colombia | ES Guatemala | EN Mexico | ES United States | EN Asia Pacific Australia | EN China | ZH India | EN Japan | JP New Zealand | EN Singapore | EN Europe, Middle East & Africa Austria | EN Belgium | EN Czech Republic | EN Denmark | EN Egypt | EN Finland | EN France | FR Germany | DE Hungary | EN Ireland | EN Italy | IT Luxembourg | EN Morocco | EN Netherlands | NL Norway | NO Poland | PL Portugal | EN Romania | EN KSA | EN Spain | ES Sweden | EN Switzerland | EN UAE | EN UK | EN News News See our latest news, and stories from across the business, and explore our archives. Learn more About us About us We are a global leader in partnering with companies to transform and manage their business by harnessing the power o",
+   "email_candidates": [
+    {
+     "email": "name@capgemini.com",
+     "where": "https://www.capgemini.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "e1658d82d9",
+   "company": "Groww",
+   "website": "https://groww.in",
+   "title": "React Native Developer",
+   "location": "Bengaluru, KA, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: React Native Developer (Bengaluru, Karnataka; experience: Any (new grads ok); US citizen/visa only). Making financial services simple, transparent and delightful. Groww aims to empower people in India by making financial services simple, transparent and delightful. By leveraging technology, we build reliable and accessible financial services. Groww is India's largest stock broker (in terms of active NSE clients) and the largest distributor of mutual fund SIPs. India, Investing, Fintech, Asset Management",
+   "site_text": "[https://groww.in/]\nGroww - Online Demat, Trading and Direct Mutual Fund Investment in India Stocks Invest in Stocks Invest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions. Intraday Monitor top intraday performers in real time ETF Screener Get the best of Mutual Funds and flexibility of Stocks IPO Track upcoming and ongoing IPOs MTFs Buy now, pay later Stock Screener Filter based on RSI, PE ratio and more Stock Events Dividends, bonus, buybacks and more Demat Account Begin your stock market journey Share Market Today Live news updates from stock market F&O Trade in Futures & Options Trade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space Indices Track markets across the globe Terminal Track charts, orders, positions, watchlists in one place Option chain Analyse chains, view payoffs, create baskets Pledge Get extra balance for trading Commodities Trade in Crude Oil, Gold, Silver and more API trading Set up and execute trades through our API Mutual Funds Invest in Mutual Funds Invest in direct mutual funds at zero charges via lump sump investments or SIPs Mutual Fund Houses Know about AMCs, funds, fund managers NFO’s Track all active NFOs in one place Mutual Funds by Groww Mutual funds by Groww designed for your investment goals Start SIP Build long-term wealth through disciplined monthly investing. Mutual Funds screener Filter funds based on risk, fund size and more Track Funds Import funds and track all investments in a single place Compare Funds More SIP calculator Estimate returns on a SIP Brokerage calculator Estimate charges for your trade/investment Margin calculator Estimate balance needed to buy/sell a stock SWP calculator Returns on your systematic withdrawal plan Pricing Brokerage and charges on Groww Blog Credit Loan against securities and Personal loan Groww your wealth Get started India's #1 Investing Platform Trusted by 2 Cr+ active investors India’s stock market at your fingertips Stocks ETFs Gold, Silver, International & Index ETFs Gold Silver International Index IPOs Bonds Earn fixed interest with regular payouts Build wealth, SIP by SIP Invest in Direct Mutual Funds Invest now Trade Futures & Options like a pro Track charts, positions, and trade in a customisable layout Explore Terminal Analyse Chains, view payoffs, create baskets Option Chain One-tap trade with Scalper mode on mobile Explore Scalper mode Trade in real world assets like Crude Oil, Gold, Silver and more Explore Commodities Stock trading made simple Fast, simple and secure stock trading. All in one app. Monitor top Intraday stocks in real time Explore Intraday stocks Upto 4x leverage with MTF (Margin Trading Facility) Explore MTF stocks Pledge: Unlock instant margin from your holdings Explore Pledge Trusted by 130,8 34,586 + Indians No account opening charges, no barriers. Just Groww. Start now When I came across Groww, I found it much much easier to understand because of user-friendly design and much easier to operate in selecting funds and making investments. The cherry on top, I got advice from the team not only as an expert but as a friend who understands risk taking capacity and paying capacity. Rahul Gupta Entrepreneur Your support team has been quite helpful in answering my queries. And your Whatsapp group team helps a lot in making the right choices. Sangeeta Mukherjee Groww is a great platform for investment. Interactive and clean User Interface. Features like creating your own portfolio are great..I started investing in MF due to Groww only. Very responsive Support team. Always available to help for any query Anoop Singh Team Lead at Esyasoft Technology Groww.in was the platform where I first got onboard to MF and I would have to say, even for a beginner like me it made things quite easier to explore and invest. Groww actually helped me make better-informed decisions. Ankit Puri Technical Product Specialist a",
+   "email_candidates": [
+    {
+     "email": "lalit@groww.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Lalit Keshre",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "ishan@groww.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ishan Bansal",
+     "role": "Founder"
+    },
+    {
+     "email": "harsh@groww.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Harsh Jain",
+     "role": "Founder/COO"
+    },
+    {
+     "email": "neeraj@groww.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Neeraj Singh",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "3f71ed35e4",
+   "company": "CloudUnicorn Private Limited",
+   "website": "https://cloudunicorn.com",
+   "title": "Network (Support) Engineer",
+   "location": "Bangalore",
+   "source": "unstop",
+   "posted_at": "2026-10-22T14:18:43Z",
+   "posting": "About the Organization: CloudUnicorn Private Limited is the organization offering this Network (Support) Engineer opportunity. Candidates are encouraged to learn more about the organization and understand how this role contributes to its network support operations. Roles and Responsibilities: Monitor network systems and support the reliable operation of connectivity services. Respond to network-related support requests, incidents, and service disruptions. Investigate connectivity issues and work toward timely resolution of technical problems. Assist with the installation, configuration, and maintenance of network infrastructure. Escalate complex network incidents to the appropriate internal teams or service providers. Perform routine checks to identify potential network performance or availability concerns. Maintain accurate records of incidents, troubleshooting activities, and resolutions. Collaborate with relevant teams to coordinate network changes and support activities. Contribute to network documentation, support procedures, and operational knowledge resources. Stay informed about recurring issues and assist in identifying opportunities to improve network support processes. Job Summary: CloudUnicorn Private Limited is offering a Network (Support) Engineer job opportunity focused on helping maintain dependable network operations and resolving connectivity-related concerns. The role involves supporting day-to-day network activities, responding to incidents, documenting solutions, and collaborating with relevant teams to promote service continuity.",
+   "site_text": "[https://cloudunicorn.com/]\nTitle: Cloud Unicorn\n\nURL Source: https://cloudunicorn.com/\n\nMarkdown Content:\n## **Cloud Unicorn** is a private investment fund based in Colorado.\n\n*   [Email](mailto:hello@cloudunicorn.com)\n\n© Cloud Unicorn. All rights reserved.\n",
+   "email_candidates": [
+    {
+     "email": "hello@cloudunicorn.com",
+     "where": "https://cloudunicorn.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "44a0b38d73",
+   "company": "Black Pen Recruitment",
+   "website": "https://blackpenrecruitment.com",
+   "title": "Swiss German Speaking Inbound & Outbound Customer Communication Specialist (BPO/",
+   "location": "United States",
+   "source": "himalayas",
+   "posted_at": "2026-10-20T15:20:37Z",
+   "posting": "Our client specialises in inbound multichannel customer support across multiple verticals from their quality, strategically located centres in Fiji, South Africa and Peru and via their work from home colleagues in Namibia. As an international, award-winning, multilingual contact centre, they know that our staff and the relationships they have with their clients are their greatest and most valuable assets. Because of this, they work tirelessly to embody their client's brands. They call this client experience: Our people, your brand. Job Type: Full Time/Permanent Location : Cape Town Work Place: Fully Remote Your Profile You are a cheerful, friendly, and communicative person who enjoys talking to people and is motivated to achieve challenging goals. Ideally, you bring: Native Swiss German speaker Experience in inbound telephony (customer service, support hotline) Experience in outbound telephony (sales, B2C/B2B appointment setting) A persuasive personality with strong potential and drive for outbound sales success Quick understanding and confidence with common IT tools Loyalty, reliability, and an efficient, precise working style Enjoyment and genuine interest in the job Stable internet connection (ideally fiber optic) Personal Qualities (for Home Office) Self-organization: Ability to structure work independently and meet deadlines Discipline and self-motivation: Staying productive without constant supervision Sense of responsibility: Acting proactively when customer issues arise Remote teamwork: Willingness to collaborate digitally via Teams, Slack, or Zoom Our client’s Services Telephone Sales Promotion: Acquiring new customers through direct sales or appointment setting Strengthening customer loyalty through loyalty offers, additional sales, or cross-selling Winning back customers with special offers Conducting surveys to determine customer needs or satisfaction Telephone and Written Customer Service: Managing customer service processes from order acceptance to inv",
+   "site_text": "[https://blackpenrecruitment.com/]\nFinTech Recruitment Agency Cape Town South Africa | Black Pen Skip to content Hire Now Find a Job Leading Global FinTech Recruitment Partner We Build Your Team In Africa Find Your FinTech Talent Our Expertise in FinTech Cryptocurrency & Mobile Money Find Cryptocurrency & Mobile Money Talent Payments & Digital Banking Find Payments & Digital Banking Talent Blockchain & InsurTech Find Blockchain & InsurTech Talent Legal, Compliance & Regulation Find Legal, Compliance & Regulation Talent Customer Service & Foreign Language Find Customer Service & Foreign Language Talent Sales, Marketing & Human Resources Find Sales, Marketing & Human Resources Talent Global Placement Map Our 5 Steps to Success The perfect process to help you achieve your mission FIND FINTECH TALENT 1 - Connect We discuss your specific needs and talent requirements, ensuring guarantee, and commitment by reviewing our Terms & Conditions. 2 - Headhunting We advertise across our platforms, utilise AI technology, and tap into our network to source top talent for your role. We conduct pre-screenings, in-depth interviews, and assessments (if needed) ensuring that your requirements are met. 3 - Review We put together candidate profiles, including key details such as notice periods, salary expectations, and relevant experience, to better inform your decision. 4 - Support Selected candidates are then integrated into your in-house recruitment process, providing continuous support. We conduct reference checks to verify candidate credentials, if needed. 5 - Offer We then invoice based on your chosen package, ensuring transparency and adherence to agreed terms, upon hiring the perfect candidate. Our Service Packages Commission Based Exclusive partnership for ongoing or high-volume hiring needs Standalone service for successful placements. Flexibility and adaptability in cost. Businesses of varying sizes looking for results-driven solutions. Learn More Start Up Package Tailored solution for start-ups Essential services for kickstarting hiring. Per-hire pricing for cost efficiency. Newly established businesses or start-ups. Learn More Fixed Fee Transparent and predictable cost structure in the Fixed Fee package Clear, predictable costs. Controlled budgeting via per-hire model. Ideal for mid to large-sized companies with defined hiring needs. Learn More Our Clients Company Accreditations What Some of Our Clients Say Black Pen Recruitment are our go-to head hunters. As PayHippo builds financial solutions for Nigeria's SMEs, we need a strong team to take on the big problems that we provide solutions for. Black Pen has been instrumental in helping us build our best team. Zach CEO | PayHippo Black Pen Recruitment has built probably more than half of our team at this point. With Nora running the company, they are able to find the best talent across the continent, Europe and US. I highly recommend Black Pen Recruitment to anyone who needs a great recruitment agency. Chris CEO & Co-Founder | Yellow Card I first came to be acquainted with Nora and Black Pen when she recruited me for the position of General Counsel at a leading pan-Africa cryptocurrency exchange and related financial services infrastructure provider. I have subsequently become more acquainted with Nora and Black Pen via their role as a strategic recruitment partner. I have found Nora and Black Pen to be an invaluable strategic recruitment partner. Their attention to detail, responsiveness, and hands-on approach in guiding both candidates and companies through the recruitment process is unmatched in my 30 years of experience dealing with outside recruitment firms. I would highly recommend Nora and Black Pen for any legal or other recruitment assignment. Craig Ex-Partner | Latham Watkins During my role as CEO of Lindt & Sprüngli South Africa (2011-16) we have worked closely with Black Pen to obtain top candidates and work visas for senior expat managers. All applications were handled profe",
+   "email_candidates": [
+    {
+     "email": "info@blackpenrecruitment.com",
+     "where": "https://blackpenrecruitment.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "7e19105767",
+   "company": "Signify",
+   "website": "https://signify.com",
+   "title": "ML Operations Engineer",
+   "location": "Bangalore",
+   "source": "unstop",
+   "posted_at": "2026-10-13T11:20:50Z",
+   "posting": "Signify is hiring for the role of ML Operations Engineer! Responsibilities of the Candidate: Contribute to the design and implementation of scalable ML infrastructure supporting model training, deployment, and inference. Develop and deploy ML solutions as modular, reusable microservices using APIs, enabling flexible integration with enterprise applications. Package ML models and services using Docker and deploy them using orchestration platforms such as Kubernetes to ensure scalability, portability, and reliability. Monitor production systems for model performance, latency, and drift; support optimization and improvements. Build and maintain CI/CD pipelines for ML workflows, including versioning, testing, and automated deployment. Develop and maintain scalable data pipelines for batch and real-time processing to support model training and inference. Contribute to the development of multi-agent or agent-based solutions (e.g., orchestration of LLM agents, task-specific services, or workflow agents) to solve complex business problems. Troubleshoot issues across distributed ML systems and microservices; ensure system stability and uptime. Follow best practices for secure deployment, API management, and data privacy across distributed systems. Work with engineering, data science, and business teams to deliver scalable, production-ready solutions. Stay updated on emerging technologies in ML, MLOps, distributed systems, and AI (including GenAI and agent-based frameworks). Requirements: Bachelor’s or Master’s degree in Computer Science, Data Science, or a related field. Strong understanding of machine learning algorithms, statistical modeling, and applied data science use cases. Experience with ML lifecycle management and tools such as AWS SageMaker, Azure ML, Dataiku, or similar platforms. Hands-on experience building RESTful APIs and deploying ML models as microservices using frameworks such as FastAPI, Flask, or similar. Working knowledge of Docker for containerization a",
+   "site_text": "[https://www.signify.com/en-us]\nCommercial Lighting Company | Genlyte Solutions | Signify You are now visiting the Signify website. A localized version is available for you. Continue Be the first! Get the latest news and updates subscribe to our newsletter! ... Home Suggestions Philips Smart Lighting launches Screen Sync and HDMI 2.1 Sync Box Read the press release View all press releases Philips Hue expands the possibilities of smart lighting Read the press release View all press releases Capital Markets Day 2026 Read the press release View all press releases Vari-Lite theater lighting renovation at North Central Texas College Read the press release View all press releases Philips Skylight, designed to bring the feeling of daylight indoors Read the press release View all press releases Our brands Signify is the world leader in lighting. We provide professional customers and consumers with quality products, systems and services. And our connected lighting offerings bring light and the data they collect to devices, places and people - redefining what light can do and how people use it. Our innovations contribute to a safer, smarter more sustainable world. Consumer Professional OEM Our lighting products, systems and services Signify enhances public spaces, work places, and homes. Our lighting products, systems and services enable our customers to enjoy a unique quality of light and make people’s lives safer and comfortable; businesses and cities more energy efficient, productive and livable; and the world more sustainable. Discover our offers Latest case studies Signify’s Lighting Services take care of your lighting, allowing you to take care of your business. Discover how our customers are creating value and benefitting from our tailored Professional, Lifecycle and Managed Services, across a wide range wide of applications and around the world View all case studies Lighting academy Signify Lighting Academy offers a comprehensive range of educational resources to advance your lighting knowledge. The educational lighting materials are provided by world-class lighting experts and professionals. Self-learning has never been easier than it is now. Be brighter by the day! Go to Signify Lighting Academy Driven by responsible innovation Signify and Mercedes-AMG PETRONAS F1 are driven by a shared passion for technology and the desire to push the boundaries of what is possible. Our innovations in lighting support the team’s ambition to become the world’s most sustainable in sport, serve the well-being and performance of drivers and team members, and deliver powerful experiences for fans, trackside and at home. Read more This might also interest you Investor relations Lighting Services Warranties Energy Solutions Stock Ready Design Ready We'd love to hear from you Contact us\n\n[https://www.signify.com/en-us/our-company]\nOur company | Signify You are now visiting the Signify website. A localized version is available for you. Continue Be the first! Get the latest news and updates subscribe to our newsletter! ... Home Our company Suggestions Our company Our company About us News & Events Investor relations Corporate Responsibility Intellectual Property Number one In conventional lighting, LED and c onnected lighting 175 million Connected light points 5.8 billion Euro sales in 2025 Watch company video About us Signify is the world leader in lighting for professionals, consumers and lighting for the Internet of Things. Our energy efficient lighting products, systems and services enable our customers to enjoy a superior quality of light, and make people’s lives safer and more comfortable, and businesses more productive and cities more livable. Go to about us Our press releases Vari-Lite theatrical lighting renovation at North Central Texas College A full Vari-Lite renovation unlocks the creative potential of North Central Texas College’s performing arts center. Read more Signify awarded EcoVadis Platinum medal with its highest-ever score of 88 T",
+   "email_candidates": [
+    {
+     "email": "beth.brenner@signify.com",
+     "where": "https://www.signify.com/en-us/our-company/news",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "9d0f17acc4",
+   "company": "infisical",
+   "website": "https://infisical.com",
+   "title": "Design Engineer, Site",
+   "location": "Brazil,  Canada,  Europe,  USA",
+   "source": "jobicy",
+   "posted_at": "2026-10-20T09:59:32Z",
+   "posting": "Level: Any. Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face, OpenRouter, LG, and NVIDIA. Join us on a mission to make security easier for all developers — starting with secrets management. We’re looking to hire exceptional talent to join us in building the open source security infrastructure stack for the AI era. About the role We’re looking for an exceptional Design Engineer (Site) to own https://infisical.com and show the world what we're about. In this role, you'll work with engineering, design, and marketing to be the go-to person for everything having to do with building and maintaining the design and infrastructure of the landing page; we want this surface to be iconic and performant to drive organic traffic and user adoption. This role is for someone who has a frontend-leaning full stack engineering background, who obsesses over crafting pixel-perfect experiences, cares about building sound underlying infrastructure, and is motivated to help build out our growth engine. You'll work closely with our co-founder, engineering, design, and marketing to: Design and ship pixel-perfect, reusable components and complex designs. Build and maintain core website pages (home, product, blogs, learning/resource hub etc.), microsites, frontend architecture, code quality, CMS integration and experience. Implement SEO best practices, run A/B tests, and optimize conversion funnels. Integrate analytics, attribution, and marketing tooling - Google Analytics, Google Tag Manager, HubSpot, etc. Requirements Deep mastery of JavaScript, React.js, Node.js, TypeScript, and frameworks like React/Next.js. Experience building high-quality frontend systems and components with strong attention to performance, accessibility, and maintainability. Experience with web design and design systems. Exceptional attention to detail and eagerness to learn. Bias toward action: able to make decisions, iterate quickly, and take calculated risks. Based in the Americas (SF preferred) or able to work EST hours. Nice to have Technical SEO fundamentals. Experience with CMS platforms (e.g. Contentful, Sanity, etc.). Experience configurin",
+   "site_text": "[https://infisical.com/]\nInfisical | The modern security platform for developers and agents 27k stars Talk to an expert Get started for free Security Infrastructure for Developers and Agents All-in-one platform to securely manage application secrets, certificates, and privileged access across cloud, on-prem, and AI infrastructure. Get started for free Talk to an expert PAM All Active Expired Session recording Time Activity Duration 14:32:08 SSH login to prod-db-01 1h 14:32:44 psql prod_accounts 30m 14:34:03 sudo systemctl restart api 15m 14:35:58 Read-only window closed Expired 14:37:26 Session terminated Expired 14:39:10 RDP login to win-bastion 45m 14:41:02 kubectl exec payments-7f4 20m 14:44:37 Approval window lapsed Expired PKI All Active Expiring Expired Auto-renew Common name Status Expires api.infisical.com Active Apr 01 2027 vault.internal Expiring Jun 08 2026 infisical.com Expired May 23 2026 db.internal Active Feb 18 2027 gateway.infisical.com Active Jan 05 2027 staging.infisical.com Expired Apr 30 2026 mesh.internal Expiring Jul 14 2026 edge.infisical.com Active Nov 22 2027 Agent Vault All Active Expired Auto-revoke Identity Bundle Expires Status checkout-agent payments-ro in 6d Active etl-runner warehouse-rw in 4h Active support-bot tickets-ro in 12d Active deploy-agent infra-admin Expired Expired analytics-agent warehouse-ro in 2d Active billing-agent stripe-ro Expired Expired crawler-agent web-scrape in 9d Active onboarding-bot users-rw Expired Expired Secrets All Secrets Folders Imports Name Development Dev Staging Stg Prod–Core Core Prod–US US Prod–EU EU API_KEY stripe_api_key — datadog_api_key — — postgres_connection_url — — redis_password — — API_TOKEN_REFRESH — — Services gitlab_cicd_variables — — aws_credentials — — — — third_party_integrations — — — — dynamic-db — — — — azure-infisical-test — — — — aws-canary-prod-key — — — — Staging /k8s-operator-secrets — — — — Development /ai-agents — — — — Development Staging Prod–Core Prod–US Prod–EU Products Meet the all-in-one identity security stack for developers and AI agents. Secrets, certificates, and privileged access — one platform, one identity model, one place to audit every credential your applications and agents use. Explore product features Secrets Management Sync, rotate, and audit application credentials across every environment and workload — without the sprawl of vault forks, env files, and ad-hoc scripts. Explore Secrets Management Granular Access Controls Scope access to secrets by environment, path, and identity with fine-grained RBAC. See Access Controls Secret Rotation + Dynamic Secrets Rotate credentials on a schedule and issue short-lived, on-demand secrets scoped to each request. See Secret Rotation Approval Workflows Require reviews for sensitive changes and access requests before they reach production. See Approval Workflows Name Development Staging Prod – Core Staging /k8-operator-secrets aws_credentials gitlab_cicd_variables stripe_api_key datadog_api_key k8-operator-secrets third_party_integrations postgres_connection_url redis_password Agents shouldn't see your secrets. Give agents access without handing them credentials. See Agent Vault # on-call on-call Jadden 10:42 AM @Agent our checkout p99 is spiking, can you investigate? Agent App 10:42 AM Thinking... Root cause: an N+1 query from the 10:30 deploy. Opened #412 to fix it, CI is green. Sandboxed Agent Proxy Agent Vault Anthropic Datadog Datadog GitHub GitHub Scoped access You decide which tools and APIs each agent can reach. Everything else is blocked at the proxy. No leaked secrets The agent only ever sees placeholders. Real secrets are attached at the proxy and never reach the agent. Full audit trail Every request an agent makes is routed through Infisical and logged, so you can see exactly what your agents are doing. Certificate Management Stand up private CAs and automate the full certificate lifecycle — issuance, renewal, revocation — with identity-based access and full auditab",
+   "email_candidates": [
+    {
+     "email": "team@infisical.com",
+     "where": "https://infisical.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "08ed2d3a0c",
+   "company": "Sava Trust Company",
+   "website": "https://www.savatrustcompany.com",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Building the future of trusts If you are a trusts & estates attorney, RIA, fintech, or family office interested in Sava, reach us at founders@savahq.com Fintech, United States of America, America / Canada",
+   "site_text": "[https://savatrustcompany.com/]\nA chartered Nevada trust company · Sava Trust Company Skip to content Solutions Attorneys Advisors Accountants Founders Early employees Investors Services QSBS Dynasty Trust SLAT IDGT Sale CRUT Purpose Trust Estate & Gift Planning Company About Trust & security Press Sign In Get in touch You deserve a better trustee. Faster setup, experienced trust officers, and full visibility. All on one modern platform. Start a conversation Sava is a Nevada Chartered Trust Company providing trust administration services to clients across the nation. “We built the trust company we wished existed.” A Nevada trust company, built on modern software, for families and their advisors. — Nimit Maru , Co-founder and CEO · Read the letter Here’s what better looks like Four things you can expect on every trust. Clear timelines From initial review to funding, know what needs to happen, who’s responsible, and when to expect the next step. Full visibility Track progress in real time. See what’s complete, what’s pending, and what needs your attention, all in one place. A named officer Work directly with someone who knows your trust. Get a quick decision on distribution requests, or a clear update on what’s needed next. Independent custody Your advisor continues managing your investments, with assets held at an independent custodian. We take care of the trust administration. For the professionals you rely on 01 Attorneys You draft the trust. We simplify administration. Every client trust in one portal, with its status, the next step and who owns it. Learn more for attorneys 02 Advisors You manage the portfolio. We administer the trust. You keep managing the investments, with live status. We never try to take them over. Learn more for advisors 03 Accountants You prepare the returns. We keep the ledger. Fiduciary accounting and reporting, without chasing the trustee or the client. Learn more for accountants Know where your trust stands. At every step. Follow your trust’s progress from document review to funding. See what’s complete, what we’re working on, and what needs your attention, all in one place. Morrison Family Trust With Sava Intake Client details and the trust document. Done · day 1 Documents Trust document read, trust profile drafted for review Done · day 1 Compliance Identity and source-of-funds checks In progress · day 2 Acceptance Sava signs the acceptance of trusteeship Next Funded Accounts opened and assets transferred in Expected · day 10 A platform built for trust administration One place for families, advisors, attorneys and trust officers, from onboarding to reporting. Attorneys and advisors see every client trust from one login. Fund Fund it without the back-and-forth. Custody account $1.2M Transfer initiated Custodian Trust Documents matched · custodian confirmation next Brokerage transfer Documents matched $640K Onboard Onboard a trust in days. We make onboarding effortless. Everyone on the trust sees the same status. Nobody has to ask. 9:41 Sava Trust Company Questions? VA Welcome, Victoria. We’ll guide you through your information, the people involved, and the next steps for your trust. Get started About twenty minutes. Your answers save as you go. Ashford Dynasty Trust A Nevada dynasty trust. Sava Trust Company will serve as trustee. Compliance Provide your information and ID Review people and roles Provide Theodore’s information Not yet available Share the trust’s finances app.savatrustcompany.com Every step Refer, onboard, fund, distribute, report. Refer Onboard Fund Distribute Report Distribute Get distributions decided the same day. Requested $24,000 Officer review Sarah Chen, trust officer Approved for the requested date. The history is updated. Report See every statement the moment it is ready. Q1 Jan 1 – Mar 31 Q2 Apr 1 – Jun 30 Quarterly statement Whitfield Irrevocable Jul 1 – Sep 30 Q3 Ready Why Nevada Nevada’s trust law is written for the long term. It offers favorable taxes, flexible trust ",
+   "email_candidates": [
+    {
+     "email": "founders@savahq.com",
+     "where": "job posting",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "51608a8385",
+   "company": "Brafton",
+   "website": "https://brafton.com",
+   "title": "Full Stack Developer (Frontend-Focused) - Mexico",
+   "location": "Canada",
+   "source": "jobicy",
+   "posted_at": "2026-10-19T13:40:25Z",
+   "posting": "Level: Senior. Brafton is one of the world's leading content marketing firms, with offices in Boston, London, Toronto and Sydney. We aspire to continually raise the bar on what people consider \"marketing content.\" We create result-focused strategies and content to drive SEO, social engagement and leads for our clients. Our teams continuously build expertise across new media formats, including video, blogs, infographics and web design. We're looking for a Full Stack Developer who loves building clean, performant interfaces and knows their way around a CMS well enough to make the backend work for the frontend, not against it. You'll spend most of your time in HTML, CSS/SASS, and JavaScript — building custom Gutenberg blocks, theming, and pixel-perfect implementations from design mockups — while staying comfortable enough in PHP and WordPress/Drupal internals to troubleshoot, extend, and integrate when needed. You'll work directly with our design and consulting teams to turn mockups into fast, accessible, well-crafted websites for clients across a range of industries. What You'll Do Build custom WordPress themes, Gutenberg blocks (ACF or React-based), and plugins from provided designs Translate mockups into responsive, accessible frontend code using HTML, CSS/SASS, and modern JavaScript Work within Drupal for client sites that require it — theming, content types, and module-level troubleshooting Diagnose and fix frontend and backend issues across a variety of CMS platforms Collaborate directly with designers, consultants, and occasionally clients to solve problems and refine implementations Use AI tools like Claude Code to plan out and execute aspects of a large project. What You Bring Must-haves 5+ years of professional frontend development — strong HTML, CSS/SASS, and JavaScript fundamentals 3+ years building and customizing WordPress sites, including Gutenberg block development (ACF or React-based blocks) Solid working knowledge of PHP (7.x/8.x) — enough to read, debug, and extend WordPress/Drupal codebases confidently Practical Drupal experience — theming, content architecture, or module-level work Familiarity with WordPress hooks/filters and general LAMP-stack conventions (MySQL, Git) Strong communication skills and comfort collaborating in a remote, client-facing environment Familiarity with AI tools such as Claude Code. Nice-to-haves Experience with React or Angular Laravel or Symfony Docker and Linux environment familiarity AWS or other cloud platform",
+   "site_text": "[https://www.brafton.com/]\nWorld's Best Content Marketing Agency 2026 | Brafton Subscribe | The Content Marketer Login Contact Us Creative Content Marketing Simplify high-impact content marketing with Brafton’s platform, strategy, and comprehensive content marketing services. CREATE MY STRATEGY Content A full-service content marketing agency with a foolproof formula: Killer marketing data + in-house creative geniuses = high-quality content every time. Our content marketing services are designed to elevate your brand and drive results. Content for SEO eBooks & White Papers Graphic Design Web Design Video Production & Animation Newsletters & Email Copy Sales Enablement Content Content for SEO Rank on Page 1 with data-led website copy provided by our expert SEO agency. Every landing page and blog post our content marketing company creates targets a carefully chosen, intent-driven keyword. Our patented approach to SEO content lets us consistently create copy that’s personalized for your target audience and optimized for search. With our SEO services, you can expect engaging content that boosts your search engine rankings. Start Ranking eBooks & White Papers Demonstrate expertise, build trust, earn credibility with our content writing services. eBooks and white papers are like picture books adults read at work. They’re lead magnets infused with expertise about any subject matter under the sun, no matter how niche, and formatted for readability. Our agency writes and designs these assets, but also helps you put them to meaningful use through strategic content promotion and distribution. Start creating Graphic Design Turn heads with visually stunning graphic design and branded content. Our award-winning graphic design team has all your visual content marketing needs covered: shareable infographics that emphasize visual storytelling, formatted white papers that demonstrate brand expertise, display ads for PPC campaigns and so much more. We ensure your visual content stands out in the crowded digital landscape. Start designing Web Design Make a killer first impression with our web design and development services. A world-class website is optimized for search performance, visually compelling enough to demonstrate your brand’s class, value, and credibility, and designed to encourage user interaction. As a digital marketing agency, our website designers deliver nothing less, every time, creating platforms that drive performance marketing results. Start impressing Video Production & Animation Show, don’t tell, with our video marketing solutions. With on-location shoots, animated software explainers, corporate promos, in-studio productions, and more, our visual marketing services bring your message to life and cement brand awareness with stunning videos and unforgettable animations. Our content production team excels in creating video content that engages and converts. Start producing Newsletters & Email Copy Earn your place in their inbox through effective email marketing. Nurture email subscribers, turn contacts into clients, and clients into loyal brand advocates with creative and strategic email marketing content. Our email marketing services cover newsletter templates, email campaign copy, graphics, and more, ensuring your messages resonate and drive action. Start sending Sales Enablement Content Get potential customers excited about investing with you using engaging content. We mean it when we say we’re a full-service content marketing agency. Our teams can help you win deals at the point of sale with case studies, testimonials, slide presentations, social-proof campaigns and more. We specialize in creating content that supports your sales efforts and accelerates the buyer’s journey. Start enabling Interested in our services? Let's talk Our content marketing services help enterprises & growth-focused SMBs all over the world. View Case Study View Case Study View Case Study View Case Study View Case Study View Case Study View Case Study",
+   "email_candidates": [
+    {
+     "email": "info@brafton.com",
+     "where": "https://www.brafton.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "techsupport@brafton.com",
+     "where": "https://www.brafton.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  }
+ ]
+}

@@ -1,0 +1,371 @@
+{
+ "leads": [
+  {
+   "id": "817d1f8a7f-ref",
+   "company": "IOMETE",
+   "website": "https://www.iomete.com/",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 21. Self-hosted data lakehouse platform The IOMETE self-hosted data lakehouse platform unifies all data - regardless of where the data resides - enabling large-scale analytics (BI/ML/AI) on the entire data set. IOMETE runs always in the customer's environment, whether on premises, on public cloud or private cloud thereby maximizing data security, data privacy and data ownership while reducing cost. Analytics, B2B, Infrastructure, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://iomete.com/]\nThe Sovereign Data Lakehouse Platform | IOMETE Skip to Main Content Get in touch the data platform for the ai era The sovereign data platform. Your data, your future. A sovereign data lakehouse, self-hosted in your trusted environment. Built to handle the scale, cost, and privacy challenges of the AI era. Run it on-premise, in your cloud, or hybrid — always under your control. Get in touch About us WHY IOMETE? Yesterday’s platforms were built for the cloud era. IOMETE was built for the AI era. Data volumes are exploding and privacy and data ownership is more critical than ever. Why limit yourself to public cloud alone? Why stomach forever growing bills? Why endure vendor lock-in? Why risk data breaches? Yesterday’s data platforms were not created to power tomorrow's AI. Ours was built for it. DEPLOYMENT IOMETE SELF-HOSTED Hybrid first Our platform runs on-premises, in your data centers, in your private cloud, your public cloud or all of the above (hybrid). Competitors SaaS Public cloud only Cloud SaaS solutions such as Databricks and Snowflake run on US public clouds only. DATA OWNERSHIP IOMETE SELF-HOSTED Customer-controlled You remain as free as a bird. No vendor lock-in, so you keep your future options open. Competitors SaaS Vendor-controlled The SaaS vendor controls the infrastructure, software and hardware where the data is stored. This may result in vendor lock-in. DATA SECURITY AND PRIVACY IOMETE SELF-HOSTED Customer independence You can implement bespoke security measures and manage all aspects of data protection tailored to your needs. Competitors SaaS Vendor-dependent SaaS makes you dependent on external parties for critical aspects of your data security and privacy. COST IOMETE SELF-HOSTED Cost efficient Reduce storage and compute cost by optimizing your on-premise/cloud mix. Put cloud discounts in your own pocket. Save 2-5x over SaaS/cloud. Competitors SaaS Expensive Forever pay the SaaS cloud premium; this gets expensive quickly at petabyte-size. SERVICE MODEL IOMETE SELF-HOSTED Customizable Get an open and flexible platform. Tailor it to your specific needs. Competitors SaaS One-size-fits-all SaaS is one-size-fits-all. This may not matter for a startup with a few gigabytes, but is suboptimal for petabyte-scale deployments. Only cloud is too restrictive Built for the hybrid era. Store your data anywhere. Organize it into clear data domains and apply mesh principles for true self-serve. Advanced access controls let you fine-tune permissions down to users, teams, tables, columns, or rows — so every team gets precisely the data they need. ON-PREMISES AWS CLOUD AZURE CLOUD GOOGLE CLOUD all-in-one platform With IOMETE, your team can easily manage massive data sets and turn them into business results. IOMETE Sovereign Data Platform Data Lakehouse(s) Data Catalog SQL Editor Advanced Data Controls Spark Jobs ML Notebooks Spark Connect Orchestration Engine Explore our platform UNIQUE ENGINEERING APPROACH Our forward-deployed engineers: Your team, extended. Sometimes software is only a part of the solution. We can provide FDEs that become an extension of your team. They bridge the gap between technology and execution, making sure you see results faster. Learn about our team PLATFORM FEATURES See what IOMETE can do. Compute Easily spin up multiple lakehouses tailored to specific needs – separate environments for development, testing, and production workloads, or dedicated lakehouses for different business units, regions, or data domains. ‍ Spark Connect lets you seamlessly run Spark workloads from your preferred development environment. Code in Python, R, or SQL using familiar tools like Jupyter notebooks while leveraging IOMETE’s distributed computing power. Connect, analyze, and process data at scale without leaving your local setup. Jupyter notebooks Connect to IOMETE’s lakehouses through interactive Jupyter notebooks. Run Python, R, or SQL code against your data using familiar notebook interfaces, w",
+   "email_candidates": [
+    {
+     "email": "theabhishekpathania@gmail.com",
+     "where": "GitHub commits (iomete)",
+     "kind": "personal",
+     "name": "Abhishek Pathania",
+     "commits": 10
+    },
+    {
+     "email": "maksym@iomete.com",
+     "where": "GitHub commits (iomete)",
+     "kind": "personal",
+     "name": "Maksym",
+     "commits": 9
+    },
+    {
+     "email": "hasan@iomete.com",
+     "where": "GitHub commits (iomete)",
+     "kind": "personal",
+     "name": "Hasan Niftiyev",
+     "commits": 9
+    },
+    {
+     "email": "sourabhjajoria@gmail.com",
+     "where": "GitHub commits (iomete)",
+     "kind": "personal",
+     "name": "Sourabh Jajoria",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  },
+  {
+   "id": "86127c5fa0",
+   "company": "Per Diem",
+   "website": "https://tryperdiem.com",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 25. The AI operating system for restaurants Restaurants today rely on dozens of disconnected tools to manage ordering, loyalty, marketing, and operations. Per Diem replaces that fragmented software stack with AI agents that build and maintain branded apps, run marketing campaigns, manage loyalty, automate operations, and help restaurants grow first-party sales. Built natively on Square, 800+ brands use Per Diem to power more than 500,000 monthly orders as their operating system for commerce, customer retention, and growth. Payments, Consumer, B2B, B2B, Marketing, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://tryperdiem.com/]\nPer Diem â Branded mobile apps & online ordering for coffee shops Skip to content Customize your experience by Ordering Marketing Sign In SIGN UP Ordering Mobile Apps Catering Web Ordering Delivery Franchises App Merchant Dashboard Marketing AI Copilot CRM & Marketing Loyalty Waitlist Push Notifications Website Builder & SEO SMS Email Marketing Solutions Coffee Shops Restaurants Bakeries Smoothie Shops Franchises Switch to Per Diem Resources Pricing Case Studies Blog App Launch Features E-Book More About Us Solutions Monthly Plans Custom Development Help Center Webinars Partner Newsroom Releases Download App to Test It Out Products Ordering Mobile Apps Catering Web Ordering Delivery Franchises App Merchant Dashboard Marketing AI Copilot CRM & Marketing Loyalty Waitlist Push Notifications Website Builder & SEO SMS Email Marketing Solutions Resources More Customize your experience by Ordering Marketing Demo A better way to grow with Square Per Diem gives your restaurant a custom mobile app, website, loyalty program, and marketing tools, all powered by the Square setup you already use. More direct orders, more repeat customers, no extra operational work. HOW IT WORKS SIGN UP Branded. Beautiful. Built for Square. Ordering synced with Square Every order goes straight into your Square POS. No copying, syncing, or extra tools needed. One-tap, fast checkout Customers sign in fast and pay in a few taps using Apple Pay or store credit. That's it. Loyalty your customers love Built-in rewards with Square Loyalty at the core, plus extras like streaks and birthday perks that keep them returning. Powering more than 500,000 orders a month Hidden Grounds Hidden Grounds uses a custom app to make ordering easy across their eight locations in New Jersey and NYC. Customers can order ahead, earn rewards, and pay with Apple Pay or store creditâall in one smooth, branded experience. Think Coffee Think Coffee built an app that fits right into their flow. With 11 locations across NYC, customers can order ahead, earn rewards, and refer friends. It's branded, fast, and up and running in a day. Tikka Shack Tikka Shack has grown into a fast rising Indian fast casual brand with more than 20 locations across the country. Speed, consistency, and loyalty are core to their model, and their branded Tikka Shack app is now a major part of how guests order every day. Crave Cookies With 50+ locations nationwide, Crave Cookies shows how dessert and smart tech drive real loyaltyâthrough rewards, streaks, flavor drops, soda, and commission-free delivery. Newsbar Newsbar's app makes everyday visits faster and more rewarding. Customers place orders ahead, pay with Apple Pay, and rack up points along the way. It's simple, branded, and built to keep things running smoothly behind the counter. Choc O Pain With locations across Hoboken and Jersey City, Choc O Pain gives regulars an easy way to order ahead and skip the rush. Their app syncs with Square Loyalty and delivers a fully branded experience for just $99 a month. Kona Coffee Roasters Kona Coffeeâs app makes it easy to order on the go. Whether customers are meeting friends or picking up in a hurry, they enjoy a fast, branded experience thatâs live in just 24 hours. Think Coffee Level up your regulars Per Diem builds the apps Square businesses dream about. Rewards that work, order tracking that's seamless, and customers who stick around. LEARN MORE about Level up your regulars Mobile app users spend 3x more When ordering is this easy, once a week becomes twice a day. One-tap ordering and saved favorites make every visit effortless. LEARN MORE about Mobile app users spend 3x more See why we're rated #1 on Square Rated â â â â â on Square Marketplace This is our second go at a mobile app, and this has completely exceeded our expectations. The customer service was beyond helpful. Setting it up was incredibly easy and everything on the platform is very user-friendly. VALI Coffee Co S",
+   "email_candidates": [
+    {
+     "email": "tomer@tryperdiem.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Tomer Molovinsky",
+     "role": "Founder"
+    },
+    {
+     "email": "doron2402@gmail.com",
+     "where": "YC profile · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Doron Segal",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "9638bcbdf3",
+   "company": "Pulse",
+   "website": "https://www.runpulse.com/",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 22. Production-grade unstructured document extraction Pulse converts complex information into LLM-ready inputs. Our API supports all document formats, from PDFs to Word, Excel, etc. Pulse integrates seamlessly with any existing data pipeline in minutes without any training or complexity. B2B, Infrastructure, United States of America, America / Canada",
+   "site_text": "[https://www.runpulse.com/]\nPulse AI | Document Processing & OCR for Enterprises Log in Chat with Sales Introducing PulseBench-Tab. The new benchmark for table extraction • Read More Document intelligence for trust and scale Pulse uses OCR, layout, and vision models to produce high quality outputs from complex documents for enterprise and AI-native teams. Chat with Sales Try for free We’ve processed over 1 billion pages for teams from new AI startups to Fortune 10 enterprises Document Vision pipeline How Pulse processes unstructured data From layout detection to table parsing, every layer is optimized for precision, speed, and context awareness. Step 1 Layout understanding with component detection models Step 2 Low-latency OCR models for individual extraction Step 3 Reading order algorithms for various document types Step 4 Table structure recognition + parsing models Step 5 Fine-tuned VLMs for chart, table, figure conversion Layout-Aware Understanding Understands page structure before reading content, identifying tables, charts, and text with precision. Fast, Specialized OCR Low-latency extraction tuned for each component type, ensuring accuracy across complex layouts. Reading Order Intelligence Processes multi-column and irregular layouts in human-like sequence for better context retention. Flexible Deployment Run Pulse securely from anywhere you need it From private VPCs to on-prem servers, Pulse integrates with your existing infrastructure while maintaining full isolation and compliance. Get started Audit Process Automation Run Pulse entirely within your secure VPC or on-prem environment in all the major hyperscaler networks. No external dependencies and full data isolation. Multi-cloud / hybrid cloud approaches also supported. Enterprise-grade Security and Compliance SOC 2, ISO 27001, GDPR, and HIPAA ready by default. Pulse meets the same standards used by Fortune 50 data infrastructure. Custom Integrations and Control Deploy using Docker, Kubernetes, or internal API gateways with complete control over data flow and model endpoints. Have full visibility with detailed logging / metrics over document type, latency, etc. Scalable Performance Process millions of pages with built-in load balancing and GPU acceleration. The same architecture powers our largest regulated clients. Security Enterprise-grade security, verified and enforced We ensure top-tier security and compliance, continuously verified by Oneleet and independent audits. SOC 2 Type II Certified for ongoing security controls. GDPR Aligned with EU data protection laws. ISO 27001 Compliant with global ISMS standards. HIPAA BAA available for enterprise plans. SOC 2 Type II Certified for ongoing security controls. GDPR Aligned with EU data protection laws. ISO 27001 Compliant with global ISMS standards. HIPAA BAA available for enterprise plans. Testimonials From Fortune 10 enterprises to the next generation of AI startups. Over one billion pages processed. Finance Healthcare Insurance Legal Real Estate Supply Chain Finance Healthcare Insurance Legal Real Estate Supply Chain “Pulse unlocked workflows we’d struggled with for years. Out of 25+ platforms, it was the only one accurate enough for production.” Director of Engineering, Top 10 PE Firm \"We tested other OCR and LLM-based approaches, including Claude, Gemini, and a few vendor tools. Pulse was the only one that consistently handled the real-world documents we see across clinics. It is fast, accurate, and reliable, so it has become core infrastructure for us.” Aniketh Kolla, CTO at Syntra “Across our evaluations, Pulse was the first system that consistently delivered 99 percent plus accuracy on real claims packets and policy documents. It held up across scale, formats, and edge cases, which gave us confidence to move forward with an enterprise-wide rollout.” Head of AI Engineering, Top 3 Global Insurance Broker “We ran Pulse on a backlog of historical contracts purely to test it. The extraction quality was steady ac",
+   "email_candidates": [
+    {
+     "email": "hello@trypulse.ai",
+     "where": "https://www.runpulse.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "sid@runpulse.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sid Manchkanti",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "ritvik@runpulse.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ritvik Pandey",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a5df1f7d3e",
+   "company": "Datafold",
+   "website": "https://datafold.com",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 30. Automating manual and repetitive data engineering tasks with AI Datafold automates manual work in data engineering. We leverage agentic AI to automate both day-to-day tasks, such as testing and code reviews, and massive one-off projects, such as data platform code migrations. Companies from Perplexity to Disney use Datafold to unlock more value from their data by freeing up their data teams from manual work, accelerating developer velocity, and ensuring data quality. SaaS, Analytics, Data Engineering, AI, B2B, Analytics, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.datafold.com/]\nDatafold | Automate Data Engineering â AI-Powered Migrations, Optimization & Development Data Engineering in 2026: 12 Predictions Read the blog post Request a 30-minute demo Our product expert will guide you through our demo to show you how to automate testing for every part of your workflow. See data diffing in real time Data stack integration Discuss pricing and features Get answers to all your questions Submit your credentials Schedule date and timeâ¨for the demo Get a 30-minute demoâ¨and see datafold in action The AI-powered platform for data teams Automate Data Engineering Specialized agents for migration, optimization, and code reviews. The context layer and tools that make your coding agents reliable. Migrate Build Migration as an outcome AI-powered code translation combined with automated data validation, delivered as a service. Guaranteed price, timeline & quality Transparent pricing based on # of objects, timeline and quality contractually ensured. Lift & shift or modernize at the same speed The Migration Agent deeply understands your pipelines, code, and data semantics via the Data Knowledge Graph â enabling optimization and remodeling during the migration. Learn more The Datafold process â translating with the right LLM, validating the results, and letting humans review what falls out â is how I'd recommend every migration be done. It's faster, more accurate, and eliminates many sources of human error, especially in the complex final reporting layer where mistakes matter most. Abigail Green Data Engineering Manager, CHG Healthcare Read the case study The context layer and tools that make your AI coding agents reliable Data Knowledge Graph The context layer that serves lineage, business logic, usage, ontology, and organizational knowledge via MCP. Without it, even the best agents produce unreliable output. Learn more Data Quality Tools Data Diff and monitors exposed via MCP so your coding agents can validate their own work, reconcile data across sources, and debug production issues. Learn more Security & Governance Single Tenant / VPC Deployment + Datafold can be deployed in your Virtual Private Cloud inside AWS, GCP or Azure to make sure your data never leaves your security perimeter. SOC 2 & HIPAA Compliance + See our trust center for details. Governed LLM Inference + Datafold can use the LLM inference endpoints approved by your Security & IT, including those in your AWS, GCP, Azure accounts or via Snowflake or Databricks. “No question, I would recommend Datafold for any large-scale migration. We migrated 5000+ tables from Redshift to Snowflake 6 months faster than planned with 100% parity.” Jon Medwig | Staff Data Engineer, Faire Read the full story “Seeing statistics and visualizations on how new model data compares to existing model data makes it easy to verify our migration SLAs with stakeholders. We saved 900+ hours in our migration to Snowflake.” Adam Underwood | Staff Analytics Engineer, Eventbrite Read the full story “Datafold helps you find the hidden changes you didn’t know you made to your data, helping you if they’re unintended or understanding what’s causing them.” Zachary Baustein | Lead Product Analyst, Rocket Money Read the full story Ready to learn more? Request a demo\n\n[https://www.datafold.com/blog/data-engineering-in-2026-predictions/]\nData Engineering in 2026: 12 Predictions Data Engineering in 2026: 12 Predictions Read the blog post Request a 30-minute demo Our product expert will guide you through our demo to show you how to automate testing for every part of your workflow. See data diffing in real time Data stack integration Discuss pricing and features Get answers to all your questions Submit your credentials Schedule date and timeâ¨for the demo Get a 30-minute demoâ¨and see datafold in action March 5, 2026 16 min read Data Engineering in 2026: 12 Predictions Tectonic shifts in technology are underway. Here are 12 predictions on what this means for d",
+   "email_candidates": [
+    {
+     "email": "filip.popa@gmail.com",
+     "where": "GitHub commits (datafold)",
+     "kind": "personal",
+     "name": "Filip Popa",
+     "commits": 7
+    },
+    {
+     "email": "fernhoutchiel@gmail.com",
+     "where": "GitHub commits (datafold)",
+     "kind": "personal",
+     "name": "Chiel Fernhout",
+     "commits": 9
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a754b3b433",
+   "company": "HyLight",
+   "website": "https://www.hylight.aero/",
+   "title": "GNC Drone Engineer Internship",
+   "location": "Paris, Île-de-France, France",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: GNC Drone Engineer Internship (Paris, France; experience: Any (new grads ok); US citizen/visa only). Team size: 37. Unmanned airships for inspecting our critical assets HyLight builds and operates the HyLighters. Our autonomous airships for long range monitoring. We focus on critical infrastructure inspections: - detecting methane leaks on pipelines. - defects & vegetation risks on power lines. - defects & vegetation risks on railways. Our innovation, the HyLighter, is a crossover between drone and airship technology. Like a drone, it is easily controllable and transportable. And, like an airship, it is extremely energy-efficient, enabling it to fly for up to 10 hours at slow speed (22mph) for optimal data collection which represents a range of 220miles. Today, energy infrastructure operators struggle with conducting inspections that are simultaneously: massive and precise. HyLight offers a solution to precisely detect issues on the infrastructure at an industrial scale, and all of this without emitting GHGs. We are 3 co-founders experienced in hardware and energy companies with Masters in Mechanical Engineering, Computer Science and Business from the best Engineering and Business School in France. We have manufactured 20 HyLighter and are deploying across Europe. Hydrogen Energy, B2B, Climate, Energy, Aerospace, Industrials, Climate, France, Europe",
+   "site_text": "[https://hylight.aero/]\nHyLight | Zero-Emission Aerial Inspection Prevent failures . Protect societies . Revolutionize inspection . Launch Inspection HyLight uses autonomous airships and AI to safeguard infrastructures with millimeter precision, spotting risks before they become disasters . HyLight uses autonomous airships and AI to safeguard infrastructures with millimeter precision, spotting risks before they become disasters . Backed by top tier investors Backed by top tier investors HyLight is trusted by Europeâs largest infrastructure operators. From gas networks to high-voltage grids , they rely on us to deliver safe, clean, millimetric inspection, at scale. HyLight is trusted by Europeâs largest infrastructure operators. From gas networks to high-voltage grids , they rely on us to deliver safe, clean, millimetric inspection, at scale. HyLight is trusted by Europeâs largest infrastructure operators. From gas networks to high-voltage grids , they rely on us to deliver safe, clean, millimetric inspection, at scale. E n e r g y Â· U t i l i t i e s Â· T r a n s p o r t Â· L o c a l G o v e r n m e n t Â· E n v i r o n m e n t a l A g e n c i e s SNCF SNCF ENEDIS ENEDIS NaTran NaTran Terega Terega VINCI VINCI The Problem Infrastructure Inspection Is Broken Infrastructure Inspection Is Broken Critical assets like railways , powerlines , and pipelines still rely on helicopters or short-range drones for monitoring . Critical assets like railways , powerlines , and pipelines still rely on helicopters or short-range drones for monitoring . Critical assets like railways , powerlines , and pipelines still rely on helicopters or short-range drones for monitoring . They are slow, costly, polluting and they canât keep up with the growing need of data... They are slow, costly, polluting and they canât keep up with the growing need of data... They are slow, costly, polluting and they canât keep up with the growing need of data... The world needs a better way to monitor and protect its critical assets. The world needs a better way to monitor and protect its critical assets. The world needs a better way to monitor and protect its critical assets. Introducing HyLight Ultra Efficient Aerial Inspection At Scale Ultra Efficient Aerial Inspection At Scale HyLight pairs hydrogen-powered airships with advanced sensors and AI to deliver millimeter-level data over long distances, with zero emissions. HyLight pairs hydrogen-powered airships with advanced sensors and AI to deliver millimeter-level data over long distances, with zero emissions. 1 2 3 4 5 Long-endurance flights Millimeter-level resolution Zero-emission operations Cost-effective at scale Fully autonomous missions Several hours of continuous flight Our airships operate for extended periods without interruption â enabling large-scale inspection campaigns with no need for constant refueling or landing. See the benefits 1 2 3 4 5 Long-endurance flights Millimeter-level resolution Zero-emission operations Cost-effective at scale Fully autonomous missions Several hours of continuous flight Our airships operate for extended periods without interruption â enabling large-scale inspection campaigns with no need for constant refueling or landing. See the benefits 1 2 3 4 5 Long-endurance flights Millimeter-level resolution Zero-emission operations Cost-effective at scale Fully autonomous missions Several hours of continuous flight Our airships operate for extended periods without interruption â enabling large-scale inspection campaigns with no need for constant refueling or landing. See the benefits 0:59 Already trusted by major infrastructure players See HyLight in action Contact us 0:59 Already trusted by major infrastructure players See HyLight in action Contact us 0:59 See HyLight in action Contact us Investors and supporters Backed By Top Partners And Investors Backed By Top Partners And Investors Learn more about us Learn more about us LEONARD BERKELEY SKYDECK RING CAPITAL",
+   "email_candidates": [
+    {
+     "email": "thomas@hylight.aero",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Thomas Laporte",
+     "role": "Founder"
+    },
+    {
+     "email": "martin@hylight.aero",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Martin Bocken",
+     "role": "Founder"
+    },
+    {
+     "email": "josef@hylight.aero",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Josef Rokusek",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a78a7f03f7",
+   "company": "AlemHealth",
+   "website": "https://www.alemhealth.com",
+   "title": "Engineering (YC Winter 2017)",
+   "location": "Singapore, Singapore",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 25. AI Radiologist in a Box - We provide a vertically integrated AI… AlemHealth connects hospitals and diagnostic centres in emerging markets to a global network of diagnostic imaging services. Our suite of plug-and-play radiology solutions makes it easy for any facility anywhere to access and provide world-class diagnostic care to its patients. We designed our hardware and software from the ground up specifically for emerging markets, where access to internet, electricity, and clinicians can be difficult. Learn more about our solutions at www.alemhealth.com. Health Tech, AI, Healthcare, Healthcare Services, Singapore, Southeast Asia, Remote, Partly Remote",
+   "site_text": "[https://alemhealth.com/]\nTitle: AlemHealth — Teleradiology & Medical Imaging Platform\n\nURL Source: https://alemhealth.com/\n\nMarkdown Content:\nAI-Powered Teleradiology Platform\n\n## Elevate Your Radiology Network with AI-Driven Intelligence.\n\nUnify your entire radiology ecosystem on one platform. AlemHealth delivers the clinical, operational, and diagnostic insights that scale your practice and drive better care.\n\n![Image 1: AlemHealth platform showing DICOM viewer, radiology worklist, and hardware devices](https://alemhealth.com/images/hero-product-mockup.png)\n\n![Image 2: AlemHealth platform showing DICOM viewer, radiology worklist, and hardware devices](https://alemhealth.com/images/hero-product-mockup.png)\n\n5M+\n\nStudies Read Annually\n\n40+\n\nCountries\n\n500+\n\nRadiologists\n\n46%\n\nFaster Turnaround\n\nEverything you need for modern teleradiology — from image acquisition to AI-powered reporting and analytics.\n\nSync\n\nAlemBox\n\n### Hybrid Cloud\n\nLocal edge storage syncing seamlessly with unlimited cloud storage for remote viewing and archive.\n\nReferral\n\nConsult\n\n### Collaboration\n\nIntegrated referrals, study sharing, and real-time peer consultations.\n\nReplace fragmented tools with a single, unified platform. From smart incoming referrals and automated scheduling to diagnostic reading and patient delivery, every step works seamlessly together.\n\n## Accelerate Turnaround for Every Modality\n\nExperience a radically simplified reporting workflow. Whether it's a routine X-ray or a complex MRI, go from study to signed report in a fraction of the time.\n\nStep 01\n\n### Create & Select\n\nSelect images uploaded for you or upload new ones. Our system automatically recommends the ideal reporting template for the study.\n\nSelect images uploaded for you or upload new ones. Our system automatically recommends the ideal reporting template for the study.\n\nStep 02\n\n### Generate AI Report\n\nDictate or type shorthand findings. AI drafts the full, structured report in seconds, significantly reducing dictation time.\n\nStep 03\n\n### QC & Finalize\n\nReview the AI draft, make refinements via voice or text, and utilize the built-in QC Assistant to catch discrepancies before finalizing.\n\nStep 04\n\n### Share or Print\n\nDistribute the signed report instantly to patients and referring physicians, or print locally with your custom letterhead.\n\nPurpose-Built Hardware\n\n## Hardware That Powers Your Workflow\n\nFrom image acquisition to reporting — AlemBox and AlemHub connect your facility to the cloud.\n\nTailored solutions and purpose-built interfaces for every stakeholder in the imaging workflow.\n\nSkip the sales calls and waiting for custom quotes. See exactly what you'll pay with our upfront monthly plans, complemented by attractive annual discounts.\n\n### AlemHealth Free\n\nIdeal for Personal Use and Low-Volume Sites\n\nIncluded Monthly\n\n[Claim Your Free Account](https://signup.alem.health/)\n\n*   25 study uploads per month\n*   Web FDA-Approved DICOM Viewer\n*   Share Studies with Patients & Physicians\n*   Unlimited Users\n*   Online Support\n\n### AlemHealth Connect\n\nIdeal for Growing Practices and Mid-Volume Sites\n\n/facility-month\n\nIncluded Monthly\n\n[Sign Up for a Free Trial](https://signup.alem.health/)\n\n*   All Free features, plus:\n*   Unlimited Study Uploads\n*   AI Assisted Report Drafting and QA\n*   Windows Desktop Uploader Software\n*   Low-latency, high speed cloud servers\n*   Dedicated Email Support Channel\n\n### AlemBox Pro\n\nAutomated DICOM Gateway Device for Seamless Transfers\n\n/month\n\nIncluded Monthly\n\n[Order Now](https://billing.alem.health/b/00g6s1ePt2Gw6g828b)\n\n*   All Connect features, plus:\n*   Dedicated AlemBox Gateway Device\n*   Bi-directional HL7/FHIR/API Integration\n*   Included Branded Referral Portal\n*   One-time prior image transfer\n*   Dedicated WhatsApp Support\n\nMost Popular\n\n### AlemHub Enterprise\n\nReading Center Solution for Multiple Radiologists\n\n/month\n\nIncluded Monthly\n\n[Order Now](https://billing.alem.health/b/9AQ17HcHlbd29skeUY)\n\n*   All Pro features, plus:\n*  ",
+   "email_candidates": [
+    {
+     "email": "sajjad@alemhealth.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sajjad Kamal",
+     "role": "Founder/CTO"
+    },
+    {
+     "email": "aschkan@alemhealth.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Aschkan Abdul Malek",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "b3f15915a5",
+   "company": "Craftwork",
+   "website": "https://craftwork.com/",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "Charlotte, NC, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 50. Digital-native home painting franchise Craftwork is a full-service home painting company that uses software to dramatically improve the homeowner and operator experience. Proptech, Home Services, Home Automation, Real Estate and Construction, Construction, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://craftwork.com/]\nPainters in Charlotte & Raleigh, NC | Interior & Exterior Painting | Craftwork Paint your home The Right Way You'll Love the Results, Guaranteed Fully Licensed & Insured 300+ Five-Star Reviews Get your estimate Fast estimates. No home visits required. The Carolinas' Most Trusted Painters With over 1,200 happy homeowners across the Carolinas, we know what it takes to deliver exceptional results. 300+ Five-Star Reviews Across the Carolinas A reputation built on quality craftsmanship and happy homeowners across North and South Carolina. Premium Paints. Professional Results. As a certified Sherwin-Williams partner, we use industry-leading paints for beautiful, long-lasting finishes. Love Your Paint Job. Guaranteed. Every project is backed by the Craftwork 3-Year Guarantee. If you're not completely satisfied, we'll come back and make it right. Real Homes. Real Results. Hundreds of homeowners across the Carolinas trust Craftwork to transform their homes. Browse a few of our recent projects. Start your estimate Talk to a pro Fast estimate. No home visits required. Interiors -> Exteriors -> Cabinetry -> Professional Painting Services Expert painting services designed to refresh, protect, and transform your home. Interior Walls, ceilings, trim, and full-room transformations. View Interiors -> Exterior Durable exterior painting designed to protect and last. View Exteriors -> Cabinetry Professional cabinet refinishing for a modern kitchen refresh. View Cabinetry -> “Craftwork was by far the easiest and quickest service provider I have ever used for my home.” Chase R. / Interior customer Google Reviews How We Deliver Exceptional Results From your estimate to the final walkthrough, our process is designed to be simple, professional, and stress-free. Clear Communication You’ll always know what’s happening and when to expect it. Our team keeps you informed from estimate to final walkthrough. Meticulous Preparation Before a single brush touches your walls, we carefully protect floors, furniture, and surfaces to keep your home clean and safe. Professional Craftsmanship Our experienced painters deliver precise lines, smooth finishes, and results designed to last. Respect for Your Home We treat every home like it’s our own — maintaining a clean workspace and leaving your space better than we found it. Request your estimate Talk to a pro Fast estimate. Clear pricing. No pressure. Trusted by Homeowners Across North & South Carolina Over 300 five-star reviews from homeowners who trusted Craftwork with their homes. Craftwork made it easy to select paint colors and their blog posts help guide you in selecting colors and paint type for your specific project. The team is responsive and ensures you’ve made the selections for your project. The Craftwork team showed up promptly at the agreed upon start time and communicated effectively about subsequent days schedule. They were professional, provided everything needed to complete the job, and the paint job looked excellent. I will definitely be hiring Craftwork for future projects and I would highly recommend their services to anyone looking to paint their home. Anne Marie H. 5 MILLION STARS!!! ⭐️⭐️⭐️⭐️⭐️ I cannot say enough good things about the people, the quality, and the customer service. I am a real estate broker, my colleague, recommended Omar and the team at Craftwork to me. They painted the entire interior of my home, and I will not hesitate to recommend them to family, friends and clients alike! From quote to finish it’s been an incredible experience! Jessy H. Extremely fast and lovely people did an amazing job, I had a bunch of strange walls and tight spots and they did a perfect job everywhere! What would have taken me weeks to do worse took them 2 days. It's a very well run operation from scheduling to final walk through! Jackson W. After a not so great experience with another painting company my husband and I were hesitant to hire another crew in our new home. However,",
+   "email_candidates": [
+    {
+     "email": "tim@craftwork.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Tim Griffin",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "mike@craftwork.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mike Bifulco",
+     "role": "Founder"
+    },
+    {
+     "email": "suzanne@craftwork.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Suzanne Griffin",
+     "role": "Founder"
+    },
+    {
+     "email": "joey@craftwork.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Joey Skavroneck",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "b607e55a82",
+   "company": "SwiftSku",
+   "website": "https://swiftsku.com",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 35. Management and analytics software for convenience stores SwiftSku connects the $650B convenience store industry with management and analytics. SwiftSku’s app connects to point of sales at convenience stores in real time, enabling owners to remotely manage and monitor their stores. We take the guesswork out of running a convenience store with predictive analytics, dashboards, and reports. SwiftSku's CEO, Mit Patel, grew up managing the inventory, pricebook, and reporting of his family’s convenience stores, and, when vendors would come by, he’d bridge the language barrier as a translator. More than 85% of independent convenience stores are owned by Indian families like Mit’s. Solving convenience store owners' pains of today leads to SwiftSku's greater vision of optimizing the supply chain, facilitating a retailer agnostic consumer to brand relationship, and providing real time insights to brands and retailers. Fintech, SaaS, B2B, Analytics, Retail Tech, B2B, Retail, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.swiftsku.com/]\nSwiftSku - C-Store Back Office Software Solutions Dropdown Get a Quote Get a Quote Your submission has been successful Thanks! We have received your submission, and we'll be in touch really soon. Done Oops! Something went wrong while submitting the form. Save Up to $10K on Card Fees! Zero Setup Cost, keep your Ruby POS, fast and easy switch. Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Manage your C-store with our centralized SwiftSku application SwiftSku helps independent c-store owners onboard their store with the easy to manage technology to leverage promotional discounts and increase revenue with State of the Art Business Intelligence. Get a Quote Watch Video 2.3k Happy Customers 4.8/5 Rating SwiftSku App SwiftSku's mobile app automates away manual tasks and pricebook management. View live transactions View POS activity in real time directly on your smartphone. Keep track of voids, no sales, and refund events and get real-time notifications when anomaly events are detected in the audit history. Update cash and credit fuel prices remotely Update in one shot go cash and credit fuel price remotely. Monitor fuel sales with granularity in real time. Real Time Dashboard View total sales at a glance without having to print flash reports. Track top sellers for your business period. View sales breakdowns in easy to understand visuals. Update prices in bulk Managing your pricebook is now as simple as scan, update, save. Bulk Price changes take seconds not hours. Get Started with the Mobile App Today Let our mobile app make things easy & quick to manage for your convenience store. Install within 2 minutes SwiftSku Benefits SwiftSku connects to your Point of Sale system in minutes and enables you to focus on maximizing profitability! Secure and Encrypted Your Data is YOUR Data. SwiftSku does not sell your data without your permission. Scan Data Submissions Increase your Store Profits and drive customers to your c-store by leveraging promotional discounts. Multilingual Customer Service SwiftSku provides customer service in English, Hindi, and Gujarati. Have any questions? Send us a message on WhatsApp! SwiftSku IQ Module Our unique hardware solution allows you to focus on maximizing your business potential. You don't have to worry about keeping back office computers online 24/7. Business Intelligence SwiftSku specializes in providing business analytics to your store to help you compete with big box retailers, grocery stores, and large chains. What customers say about SwiftSku Wow, I am absolutely loving the SwiftSKU mobile app! Not only is it super affordable, but it's also been a total game-changer for my business. With its amazing features, I can monitor my employees even when I'm not physically at my store. This means less stress and more time to focus on other important things, like spending quality time with my children. And let's not forget about the money I've saved thanks to this app - it's been a total lifesaver! In fact, I've been able to make my first big purchase in over a year, all thanks to the success I've achieved with SwiftSKU. I couldn't be happier with this app and I highly recommend it to anyone who's looking for a powerful yet affordable tool to help their business thrive. Nil Patel Breinas Food Mart I am Dinesh Patel, Being a SwiftSku customer, I can give my important time to my beloved wife exactly after started using SwiftSku mobile application for my C-store because I can monitor my sales transactions even though I am not at my store. SwiftSku ગુજરાતી ભાષામાં મદદ પૂરી પાડે છે તેથી અંગ્રેજી આવશ્યક નથી. તે સંપૂર્ણ છે. They are helping customers in many ways. Dinesh Patel Quick and Easy I am very pleased to tell you that I am very satisfied with your service and I have not faced any problems and your quick follow up I really like so thank you for providing a great service Imran Chowdhury Scotts Country Store I have been using the pr",
+   "email_candidates": [
+    {
+     "email": "info@swiftsku.com",
+     "where": "https://www.swiftsku.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "mit@swiftsku.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mit Patel",
+     "role": "Founder"
+    },
+    {
+     "email": "daniel@swiftsku.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Daniel Mazur",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "baf2693e68",
+   "company": "Datrics",
+   "website": "https://datrics.ai",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 22. Generative AI Healthcare Coding Automation Datrics HCP streamlines healthcare insurance claims with advanced AI technology, improving accuracy, reducing processing time, and eliminating costly errors. B2B, Analytics, Healthcare, Health Insurance, AI, Healthcare, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://datrics.ai/]\nTitle: Datrics — AI Claim Processing & Workflow Automation\n\nURL Source: https://datrics.ai/\n\nMarkdown Content:\n[![Image 1: Datrics](blob:http://localhost/2d50dce070910e0d87042c7c898969c6)](https://datrics.ai/)\n\n![Image 2](https://datrics.ai/assets/hero-bg-BjsTLirn.jpg)\n\n## The AI Decision Engine for Claims & Regulated Operations\n\nPowering healthcare, insurance, and public-sector workflows — from intake to adjudication.\n\n90%+ claims auto-validation in production public-sector deployment\n\nWorking with Public Institutions and Enterprise Partners\n\nStrategic Infrastructure & Delivery Partners\n\n[View case study →](https://datrics.ai/case-studies)\n\nPlatform DNA\n\n## Built as Infrastructure, Not a Point Solution\n\nDatrics is an enterprise-grade decision engine designed to be embedded, extended, and governed — not just deployed.\n\n![Image 3: Operations team reviewing claims workflow with Datrics](https://datrics.ai/assets/clinical-team-CDsH2kS5.jpg)\n\n### API-first integration\n\nEvery capability exposed via secure, versioned REST APIs.\n\n### Modular workflow engine\n\nCombine deterministic rules with machine learning and large language models.\n\n### Explainable decision layer\n\nEvery decision comes with a human-readable rationale and audit trail.\n\n### Human-in-the-loop governance\n\nConfigurable review and approval workflows for high-stakes decisions.\n\n### Audit ledger\n\nImmutable record of every action, decision, and data transformation.\n\n### Cloud-native\n\nRuns on GCP, Azure, AWS — or sovereign private cloud via NEAR.\n\nSee It in Action\n\n## 2-Minute Platform Walkthrough: Claims → Decisions → ROI\n\nSee how Datrics automates benefit validation, audit, and adjudication in production environments.\n\n[Video 3](https://www.youtube.com/watch?v=BLzP7Gc7hWU)\n\n## One Engine. Many Workflows.\n\nA single decision engine powering claims automation, compliance validation, and operational QA.\n\n### Healthcare & Insurance\n\n#### Benefit code automation\n\n#### Post-adjudication audit\n\n#### Medical document extraction\n\n### Compliance & Operations\n\n#### Regulatory compliance validation\n\n#### Explainable decision scoring\n\n#### Workflow orchestration\n\n### Enterprise Platform\n\n#### Real-time analytics dashboards\n\n#### Continuous QA monitoring\n\n#### Multi-tenant architecture\n\n## From Documents to Decisions — In Days, Not Months\n\nStep 1\n\n### Ingest\n\nClaims, medical records, contracts, and supporting documents via secure APIs.\n\nStep 2\n\n### Normalize\n\nAI-powered extraction and structured data pipelines.\n\nStep 3\n\n### Validate\n\nRules, models, and explainable scoring ensure accuracy and compliance.\n\nStep 4\n\n### Automate\n\nEnd-to-end workflow orchestration inside your existing stack.\n\nStep 5\n\n### Monitor\n\nReal-time analytics, QA, and continuous optimization.\n\nProven at Scale\n\n## Proven at Scale in Regulated Environments\n\n90% automation in public-sector deployment\n\n9× processing capacity\n\n<12 weeks to production\n\n95% faster data onboarding\n\nFull audit trail\n\nCase Study\n\n## International Public-Sector Institution\n\nPowering claims processing for a major international public-sector institution — supporting 30,000+ recorded claims across damage and reimbursement categories with full audit traceability.\n\nKey outcome: 90%+ claims auto-validated with full audit traceability in under 12 weeks.\n\n[Read full case study →](https://datrics.ai/case-studies)\n\nProven Impact\n\n## Measurable Results in Public-Sector Claims Processing\n\nDatrics was selected by a major international public-sector institution to power claims adjudication at scale — delivering transformational outcomes in under 12 weeks.\n\n>95%\n\n### Faster data source onboarding\n\nFrom 3–5 months to under 1 week\n\n99.9%\n\n### Assessment accuracy\n\nWith low touch and full auditability\n\n90%\n\n### Faster report generation\n\nFrom 10 days down to 1 day\n\n9x\n\n### Processing capacity increase\n\nUp to 9x processing capacity without proportional headcount increase\n\n90%+\n\n### Auto-validated claims\n\nAutomated ingestion, validation, and asses",
+   "email_candidates": [
+    {
+     "email": "volodymyr@datrics.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Volodymyr Sofinskyi",
+     "role": "Founder"
+    },
+    {
+     "email": "kirill@datrics.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Kirill Kirykov",
+     "role": "Founder"
+    },
+    {
+     "email": "anton@datrics.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Anton Vaisburd",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "bffa85b032",
+   "company": "MDalgorithms Inc.",
+   "website": "https://www.mdalgorithms.com",
+   "title": "Engineering (YC Winter 2017)",
+   "location": "Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 40. Democratizing Dermatology with AI MDalgorithms is revolutionizing dermatology by delivering convenient, effective AI-powered solutions for skin and hair care. Since pioneering machine-learning models for acne treatment in 2017, we’ve advanced to develop the world’s first AI-powered scalp analysis for hair regrowth. Our proprietary AI technology, built entirely in-house, analyzes blemishes, lesions, and hair conditions with unmatched precision, utilizing the largest global dataset of acne and scalp images. Clinically validated and tested by dermatologists, our personalized treatment kits—MDacne for acne and MDhair for hair regrowth—are customized to each individual’s unique needs, combining over 100 medical and botanical ingredients for optimal results. We empower users to track their progress, adjust treatments as needed, and access real-time support from our team of dermatologists and nurses. By doing so, we make personalized dermatological care accessible to all. Artificial Intelligence, Consumer Health Services, Consumer, Healthcare, Telemedicine, Healthcare, Consumer Health and Wellness, Israel, Middle East and North Africa, Remote, Fully Remote",
+   "site_text": "[https://www.mdalgorithms.com/]\nMDalgorithms dermatologist recommended Democratizing dermatology with AI. We deliver convenient, effective solutions in skin and hair for all. contact us analyzing... identifying... building kit... recommending: Hydrating clarifying protecting backed by Pioneers in AI-powered personalized care for all. Since 2017, we have pioneered personalized over-the-counter skincare â first for people with acne-prone skin, then with the worldâs first AI-powered scalp analysis for hair regrowth. With Nuvane, we bring that same precision to longevity skincare, using AI and next-generation peptide technology to help turn back the clock on skin aging. Every product is built around one principle: care tailored to each individualâs unique needs. OUR BRANDS MDacne explore MDACNE MDhair explore MDhair Nuvane explore Nuvane + M Customer images analyzed across our brands since 2017 + K Treatments shipped to our customers mins Average time to complete our online quiz Our Philosophy MDalgorithms continues to deliver cutting-edge acne treatment, hair regrowth, and anti-aging skincare solutions through a careful, extensive process. Best-in-class AI Our proprietary AI technology, built entirely in-house, sets the gold standard in personalized skin and hair care: Unlike off-the-shelf tools, our AI analyzes skin attributes, hair conditions, and skin aging patterns with unmatched precision. Weâve compiled the largest global dataset of scalp and skin images, enabling more precise analysis and accurate assessments of cosmetic skin and hair attributes. analyzing... identifying... building kit... recommending: hair serum supplements moisturizer Customized treatment kits Each individual receives a treatment kit customized to their skin and hair specific needs. For acne, our treatment creams, cleansers, and moisturizers are customized based on a userâs reported acne severity, personal factors, and skin sensitivity, as well as other attributes such as skin type, hydration, skin texture, generalized redness/irritation. For hair regrowth, we offer the worldâs first personalized hair loss treatment, addressing the root causes and type of customer needs. For anti-aging, Nuvane delivers personalized longevity skincare kits powered by SenoP3™ peptides, targeting fine lines, dark spots, and cellular aging based on each personâs unique skin profile. With over 100 medical and botanical ingredients, our products are scientifically designed to deliver the best possible outcomes. Superior results We provide a targeted, effective solution that minimizes irritation while maximizing results â all in a convenient package that minimizes the hassle and guesswork of acne, hair, and skincare. In addition, customers can track their progress, adjust treatments as needed, and access real-time support and guidance from our team of dermatologists and nurses. Superior total care, tailored to You . Their Products Our Products One size fits all vs. Customized Retail vs. Shipped directly to your door Donât address other concerns vs. Customized kits for acne, hair, and skin aging â including skin type, texture, redness, dark spots, and type of hair loss Costly follow-up costs vs. Unlimited medical support Harmful ingredients vs. Cutting-edge, clean ingredients Cosmetic grade with limited functionality vs. High-efficacy, clinically-tested proprietary formulas Clinical trials MDhair Clinical Trial MDhairâs treatment kits have been clinically validated. They were rigorously tested in a six-month study in the USA, which was approved by an Institutional Review Board. The study demonstrated statistically significant improvements in hair growth, coverage, and thickness. J Drugs Dermatol. 2025 Mar;24(3) 0 reported an overall improvement in their hair after 4 weeks. 0 reported a reduction in the brittleness of their hair after 4 weeks. 0 reported reduction of shedding of their hair after 12 weeks. 0 reported an overall improvement in the shine of th",
+   "email_candidates": [
+    {
+     "email": "contact@mdalgorithms.com",
+     "where": "https://www.mdalgorithms.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "oded@mdalgorithms.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Oded Harth",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "yoram@mdalgorithms.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Yoram Harth MD",
+     "role": "Founder/Chief Medical Officer"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

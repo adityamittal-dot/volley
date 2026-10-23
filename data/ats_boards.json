@@ -279,6 +279,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:datafold": {
+  "company": "Datafold",
+  "found": "2026-10-23",
+  "website": "https://datafold.com"
+ },
  "ashby:datasnipper": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -329,6 +334,11 @@
   "found": "2026-10-14",
   "website": "https://www.elyos.ai/"
  },
+ "ashby:enode": {
+  "company": "Enode",
+  "found": "2026-10-23",
+  "website": "http://www.enode.com"
+ },
  "ashby:fal-ai": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -338,6 +348,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:fleek": {
+  "company": "Fleek",
+  "found": "2026-10-23",
+  "website": "https://www.joinfleek.com/"
  },
  "ashby:flowengineering": {
   "company": "Cargo",
@@ -488,6 +503,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:invert": {
+  "company": "Invert",
+  "found": "2026-10-23",
+  "website": "http://www.invertbio.com/"
  },
  "ashby:ironcladhq": {
   "company": "Cargo",
@@ -728,6 +748,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:ostrom": {
+  "company": "Ostrom",
+  "found": "2026-10-23",
+  "website": "https://ostrom.de"
  },
  "ashby:owner": {
   "company": "Cargo",
@@ -1474,6 +1499,11 @@
   "found": "2026-10-14",
   "website": "https://sourcegraph.com"
  },
+ "greenhouse:speechify": {
+  "company": "Speechify",
+  "found": "2026-10-23",
+  "website": "https://speechify.com"
+ },
  "greenhouse:supermetricsoy": {
   "company": "Cargo",
   "found": "2026-10-20",
@@ -1604,6 +1634,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "lever:getzuma": {
+  "company": "Zuma",
+  "found": "2026-10-23",
+  "website": "https://www.getzuma.com/"
+ },
  "lever:immuta": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -1658,6 +1693,11 @@
   "company": "Malama Health",
   "found": "2026-10-14",
   "website": "https://www.heymalama.co"
+ },
+ "workable:testrigor": {
+  "company": "testRigor",
+  "found": "2026-10-23",
+  "website": "https://testrigor.com"
  },
  "workable:vitesse-psp": {
   "company": "Cargo",

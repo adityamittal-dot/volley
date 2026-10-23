@@ -1,0 +1,280 @@
+{
+ "leads": [
+  {
+   "id": "b13685b37f",
+   "company": "Quadrant Health",
+   "website": "https://quadrant.health",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Analyzing EHR and messaging data to predict disease before it occurs. SaaS, Healthcare IT, AI, Healthcare, Healthcare IT, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://quadrant.health/]\nTitle: Quadrant Health — AI Agents Powering Healthcare Operations\n\nURL Source: https://quadrant.health/\n\nMarkdown Content:\nQuadrant Health\n\n## The AI Workforce for Healthcare.\n\nProactive voice and agentic AI that absorbs the administrative work, lifts outcomes, and raises satisfaction across every patient touchpoint.\n\nThe Problem\n\n## Healthcare has an execution shortage.\n\nRoughly 30% of every U.S. healthcare dollar goes to administrative work that still leaves patient calls unanswered, care gaps open, and follow-ups quietly slipping past their window. Quadrant is the layer that finishes the work.\n\n![Image 1: Completed patient chart](https://quadrant.health/assets/Asset5.svg)\n\nResults\n\n83%\n\npatient engagement on AI-led outreach campaigns\n\n70%+\n\nof patient calls handled without staff involvement\n\n2M+\n\npatient interactions annually\n\nCustomers\n\nTrusted by medical groups and health systems across the country.\n\nCustomer Outcomes\n\n## What completed work looks like.\n\nWorked with leading organizations\n\n![Image 2: Stanford Health Care](https://quadrant.health/customer-logos/stanford-health-care.svg)\n\n![Image 3: Mayo Clinic Platform](https://quadrant.health/customer-logos/mayo-clinic-platform.webp)\n\nFeatured Partnership · EHR\n\n### Quadrant × medent®\n\n![Image 4: Medent logo](https://quadrant.health/logos/medent.png)\n\nMedent is a Quadrant EHR partner. Our voice and agentic AI agents run natively inside Medent, giving every Medent practice a path to 24/7 front-desk coverage, automated care-gap closure, and complete visit workflows.\n\nFor four decades Medent has served independent practices with EHR software they trust. Quadrant adds the AI workforce piece. Voice, agents, and chart updates, built into Medent as a first-party extension of the clinical surface.\n\n24/7 Front-desk coverage\n\n<2 wk Onboarding\n\nThe Platform\n\n## First ring. Chart updated.Everything in between.\n\nVoice and text get the patient on the line. Agentic AI completes the work inside your systems. Every action logged, every outcome tracked.\n\n### Every call answered. Every action completed.\n\nQuadrant picks up on the first ring. 24/7, in 20+ languages, via voice and bi-directional text. Handles the conversation, then operates your EHR to finish the job. Staff only see the calls that actually need them.\n\nScheduling & Reschedules\n\nBooks, reschedules, and cancels appointments across providers, locations, and visit types. Configurable rules, buffers, and insurance mapping.\n\nPatient Intake\n\nCollects demographics, insurance, and clinical information before the visit. Writes it to the chart so the patient arrives ready.\n\nMedication Refills\n\nTakes refill requests, checks controlled substance logic, and routes to the provider with the right context. No phone tag.\n\nInsurance Verification\n\nCaptures insurance details, walks patients through finding card info, and logs it to the chart.\n\n### Proactive outreach that closes gaps and fills chairs.\n\nDefine the goal. Set the sequence. Quadrant runs calls and texts until the success criteria are met. Configurable retry logic, time-zone-aware delivery, TCPA-compliant opt-out.\n\nCare Gap Closure\n\nAWV reminders, mammograms, colorectal screenings, diabetic eye exams, HbA1c, blood pressure management. Calls the patient, books the appointment, logs it to the EHR.\n\nAppointment Reminders & Confirmations\n\nConfirms upcoming visits, reschedules on the spot, and backfills cancellations.\n\nNo-Show Recovery\n\nCalls back within minutes of a missed appointment, reschedules, and updates the chart.\n\nPre-Op & Post-Op Check-Ins\n\nRuns pre-surgical checklists and post-op recovery surveys. Escalates issues in real time.\n\n### The work before, during, and after the visit.\n\nQuadrant doesn't stop at the phone. AI scribe captures encounters live. Care management agents keep chronic patients engaged between visits and support billable CCM programs.\n\nAmbient Scribe\n\nCaptures encounters in real time, drafts SOAP and procedure notes, and writes back to Epic",
+   "email_candidates": [
+    {
+     "email": "anin@quadrant.health",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Anin Sayana",
+     "role": "Founder"
+    },
+    {
+     "email": "krishna@quadrant.health",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Krishna Gorrepati",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "c3f5504dee",
+   "company": "inBuild",
+   "website": "https://www.inbuild.ai/",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "Wilmington, DE, USA; San Francisco, CA, USA; Aspen, CO, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 12. Workflow Automation for Construction Finance inBuild boosts revenue for home builders by automating the thousands of invoices they receive for every project. For example, when a subcontractor sends an invoice for work they completed, inBuild checks the cost against the project budget, handles any approvals, pays the bill, and updates Quickbooks. AI-Enhanced Learning, Fintech, Payments, Construction, Proptech, B2B, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.inbuild.ai/]\ninBuild | AI Invoice Processing for Procore Made for builders using Procore invoice entry, handled An AI inbox collects subcontractor invoices, matches them to your commitments and cost codes, and stages them for review, so all you do is approve before it syncs to Procore. BOOK A DEMO GET STARTED Get started in 5 minutes or less Meridian Electric Supply 1420 Foundry Rd · Portland, OR Vendor INVOICE Invoice no. 48213 Invoice no. Date Sep 3, 2026 Date Terms Net 30 Job Riverside Tower Description Amount 12/2 MC cable, 2,500 ft 6,240.00 EMT conduit, 3/4\" 3,180.00 Panelboard, 400A 7,850.00 Recessed LED fixtures (48) 5,760.00 Junction boxes & fittings 2,470.00 Freight & handling 1,950.00 Total due $27,450.00 Total Invoice details Extracted Contract 98% match Line items 6 of 6 coded Invoice #48213 Meridian Electric Supply $27,450.00 Contract PO-1042 Line items 6 coded Date Sep 3, 2026 Approval Approved Synced Powering the world's best construction teams. From local businesses to established enterprises. Built for Teams inBuild automates invoice entry, cuts administrative overhead, and gives your team a clear, accurate record of every dollar that moves through Procore. SEE IT IN ACTION PROCORE MARKETPLACE Invoice scanned INV-1986 Matched ✓ Materials $555.22 ✓ Labor $4,875.00 Centralize and simplify Automatically centralize invoices from your inbox and the field into a single, intelligent inbox. Each invoice gets matched to the right project, vendor, and commitment, no manual entry. SEE MORE JS Jordan Sorin 2h ago Hey @allison , just wanted to let you know to watch out for this one. AC Allison Campbell 30m ago Hey @jordan , sounds good! Thank you. Real-time collaboration Keep your team aligned with instant alerts, comments, and invoice review, all inside inBuild. WATCH A DEMO How inBuild works inBuild syncs securely with your Procore data and uses AI to match incoming invoices to the right commitments and cost codes. Once you approve an invoice, it syncs back to Procore and updates your budgets in real time. With the QuickBooks integration, invoices can also export directly to your accounting system, keeping job costs and books aligned. HAVE MORE QUESTIONS? Purpose Built Toolkit Projects & Vendors Accurate assignment of invoices. Commitments Apply invoices against commitments. Change Orders Create instantly when costs overrun. Invoices Seamless creation of invoices in Procore. Direct costs Automated syncing of direct costs. 80% less time on invoice data entry Abode Custom Homes 625 worry-free builders inBuild Pro Builders 120 hours saved every month Springpoint Group Key Insights Change builders actually feel These aren't projections. They're what Procore teams report back after they stop matching invoices to commitments by hand. LEARN MORE Don't just take our word for it Hear directly from our customers about how we've transformed their projects and workflows. Chris N. JT Builders I can't say enough good things about this company! They are always pushing the boundaries and looking to improve their software every day... This new feature has streamlined our workflow and made document management so much easier. Toraye I. Genova Construction In the bigger picture, this software makes my life SO much easier! It has streamlined my daily tasks and allowed me to focus on what truly matters. From managing invoices to handling receipts, it’s an absolute game-changer. I can't imagine going back to how we operated before. Isaac M. David Wilkes Builders InBuild has been a great resource to David Wilkes Builders in processing invoices in a much simpler and time-saving way. From the accounting team to the Project Managers, it is a great way to approve invoices and reflect immediately on budgets. This helps both the office and field stay on track with subs and their invoices. Hayley S. Hendrickson Construction This software has easily saved hours of busy work and made my job more effective. The system is extremely user-frien",
+   "email_candidates": [
+    {
+     "email": "ty@inbuild.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ty Sharp",
+     "role": "Founder"
+    },
+    {
+     "email": "ian@inbuild.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ian Sharp",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "c6c7f9546c",
+   "company": "TeamOut",
+   "website": "https://www.teamout.com/",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Los Angeles, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. Online marketplace for team retreat venues TeamOut is a retreat platform for team managers. We offer easy-to-book venues for team retreats. Managers spend months planning for a retreat. We help them do it in just a few days. How? We offer 20+ bedroom private places with robust Wifi that companies can book in a few clicks. This is an incredibly exciting time to meet with your team again, build memorable experiences that your team will remember forever. Marketplace, Travel, B2B, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.teamout.com/]\nTeamOut | The Retreat Platform Login Log in Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Over 100,000 travelers with TeamOut You got put in charge of the company event. We've done this 3,000 times. We've spent years inside the events industry, so we know what gets missed and where the leverage lives. We put that experience on your side. Offsite / Retreat SKO Client Event Conferences Incentive Trip Simple Meetings Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Our philosophy The best company moments do not happen by accident. They come from experience. A leadership retreat. A sales kickoff. A company-wide gathering. These are the moments that shape culture and trust. But the people responsible for them usually are not event professionals. They are executive assistants, chiefs of staff, people leaders, and founders, Navigating an industry they were never hired to understand. Hotels have pricing strategies. Contracts have tradeoffs. Venues carry risks that never show up in a proposal. The first offer is rarely the best one. We built TeamOut so nobody has to learn that the hard way. Our team comes from inside the industry: hotels, venues, production, events, technology. We have spent years on the other side of the table. Now we are on yours. Thomas & Vincent Co-founders, TeamOut Explore our top venues Explore extraordinary and unconventional event venues, from boutique hotels to glamping, ranches, houses, and unique event spaces. Get Started AutoCamp Sequoia Three Rivers, California, United States 85 rooms Visalia Municipal Airport - VIS (41 min) Three Rivers, California, United States $356 - $498 /night Get Started Ace Hotel and Swim Club Palm Springs Palm Springs, California 179 rooms San Diego Intl - SAN (141 min) Palm Springs, California $300 /night Get Started Chablé Maroma Playa del Carmen, Quintana Roo, Mexico 70 rooms Cancun Intl - CUN (47 min) Playa del Carmen, Quintana Roo, Mexico $586 - $820 /night Get Started Tarrytown House Estate on Hudson Tarrytown, New York 212 rooms La Guardia - LGA (38 min) Tarrytown, New York $159 /person Get Started The Standard, East Village New York, New York, United States 142 rooms La Guardia - LGA (26 min) New York, New York, United States $115 /person Get Started The William Vale Brooklyn, New York 183 rooms La Guardia - LGA (23 min) Brooklyn, New York $100 /person Get Started The Brown, Marriott Autograph colecction Guatape, Antioquia, Colombia 116 rooms Jose Maria Cordova - MDE (85 min) Guatape, Antioquia, Colombia $203 /night Get Started Drift Palm Springs Palm Springs, California, United States 87 rooms San Diego Intl - SAN (139 min) Palm Springs, California, United States $223 /night Get Started Wildhaven Yosemite Mariposa, California 42 rooms Norman Y Mineta San Jose Intl - SJC (162 min) Mariposa, California $224 /night Get Started Las Canas Beach Retreat Gaspar Hernández, Dominican Republic 24 rooms Gregorio Luperon Intl - POP (56 min) Gaspar Hernández, Dominican Republic $203 /night Get Started See TeamOut in action Get Started Everything you need to put your corporate event in place Accommodation Explore the largest catalog of properties, from boutique hotels and resorts to ranches, cabins, glamping spots, and more. Whatever your style, we’ve got the perfect place for your team to stay. Event Space Select from a wide range of venues for corporate parties, cocktail receptions, and more. We offer spaces that fit any event, ensuring a memorable setting for your team. Activities Find exciting activities near your venue—whether team-building exercises, workshops, outdoor adventures, or classes, we have options for every taste and age group to make your event unforgettable. Transportation We’ve partnered with the most reliable shuttles, limousines, and bo",
+   "email_candidates": [
+    {
+     "email": "destinations@teamout.com",
+     "where": "https://www.teamout.com/destination-management-company-service",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "c9e38374da",
+   "company": "Solum Health",
+   "website": "https://www.getsolum.com/",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. AI Automation for Therapy Practices Turning therapy admin chaos into automated calm—VoiceAI for intakes, seamless prior auths, referral and scheduling management. Built by practice owners, for practice owners (www.getsolum.com). Healthcare, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://getsolum.com/]\nAI Front Office Automation for Healthcare Practices | Solum Health Free analysis Schedule a call Capture Every Patient, Automate Intake Insurance Verification Referrals Authorizations Insurance Updates Referral intake, benefit checks and prior authorizations, on autopilot for specialty clinics. Free Coverage Analysis Book a Demo More billable visits/units Less admin time Fewer denied claims Trusted by the Fastest-Growing Group Practices Case study Case study Case study Explore Success Stories [01] products Your EHR Stores Data. We Run the Workflows Explore how each module automates referral intake, insurance verification, and prior authorization. Referral Intake Eligibility & Benefits Prior Authorization Coverage Monitoring Referral & Patient Intake Automation Annie pulls referrals from faxes, portals and emails, extracts the patient data, collects missing documents, and syncs the finished intake to your EHR. AI referral data extraction Automated document collection Patient follow-up sequences Direct EHR synchronization Learn More about intake automation Demo Clinic Dashboard Patients Tasks 3 Insurance Monitoring Eligibility Checks Verification of Benefits Authorizations AI Faxes 2 Messages 7 Forms 4 Help frontdesk@democlinic.com Patient Details Payors Referrals Files Referral from ABC Pediatric Associates of America Scanning Extracted Received via AI Fax · Sep 21, 2026, 8:42 AM ABC PEDIATRIC ASSOCIATES OF AMERICA FAX · REFERRAL FOR SERVICES · p. 1/3 E. Vasquez, MD Scanning 3 pages… 10 fields extracted Patient Maya Thompson Date of birth 04/12/2020 Guardian Laura Thompson (mother) Phone (512) 555-0148 Referring provider Elena Vasquez, MD Referring NPI 1234567893 Diagnosis (ICD-10) F84.0 Autistic disorder Requested service ABA assessment · 97151 Payer Aetna Choice POS II Member ID W284915637 Intake checklist In progress 5 of 5 · Ready Referral order Diagnostic report (CDE) Insurance card Signed intake packet Prescription for ABA services Documents consolidated 4 Referral_Thompson_Maya.pdf 3 pages · AI Fax Diagnostic_Evaluation_CDE.pdf 6 pages · parent upload Insurance_Card_Front_Back.jpg 2 images · intake form Signed_Intake_Packet.pdf e-signed · 4 pages Activity · Maya Thompson CentralReach Monday, September 21, 2026 AI Fax received ABC Pediatric Associates of America · 3 pages · 8:42 AM Referral scanned and extracted Patient, guardian, payer, diagnosis · 8:43 AM Hi Laura, this is Annie from Demo Clinic. We received Maya's referral. Please complete her intake packet and upload her insurance card here: app.getsolum.com/forms/… Intake packet sent automatically · 8:44 AM · SMS + email ✓ Tuesday, September 22, 2026 Intake packet completed Signed by Laura Thompson · card + CDE uploaded · 10:17 AM Record consolidated and synced Demographics, payer and 4 files in CentralReach · 10:18 AM Ready to get started Eligibility check and prior auth (97151) queued Eligibility & Benefits Verification Annie checks eligibility and pulls benefits by CPT code, with place of service and authorization requirements, across your full patient list. Real-time eligibility checks Verification of benefits (VOB) breakdowns Batch eligibility verification Coverage alert notifications Learn More about insurance verification Demo Clinic Dashboard Patients Tasks 3 Insurance Monitoring Eligibility Checks Verification of Benefits Authorizations AI Faxes 2 Messages 7 Forms 4 Help frontdesk@democlinic.com NB Noah Bennett · DOB 07/30/1986 · Physical Therapy · Low back pain M54.50 Moved: Needs Verification → Ready to Schedule Patient Details Payors Referrals Files Primary c Cigna Open Access Plus Active Complete VOB Actions Member ID U7729184001 Group # 3341987 Plan type PPO · Self-funded Effective 01/01/2026 Term date 12/31/2026 Benefit year Calendar Network In Network Subscriber Self COB status: Primary No other coverage on file · verified 09/22 Birthday rule n/a Subscriber is patient (self) Ded. $1,500 met OOP $2,110.40 of $5,000 Benefits by C",
+   "email_candidates": [
+    {
+     "email": "hello@getsolum.com",
+     "where": "https://getsolum.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "jp@getsolum.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "JP Montoya",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ca9e710cdb",
+   "company": "Zensors",
+   "website": "https://www.zensors.com",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 12. AI to understand and automates the physical world AIOps, Artificial Intelligence, B2B, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.zensors.com/]\nZensors - Visual AI agents for real world understanding Learn about Zensors Physical AI at Harry Reid International Airport (LAS) Physical AI for mission critical decisions AI to automate physical world processes between humans, buildings & machines Request A Demo Operational Efficiencies Strategic Planning Financial Performance Safety & Sustainability AI for precision autonomy over large complex spaces Activate industry-specific, pre-trained AI to understand spaces, provide unparalleled real-time operational support and forecast accurately to guarantee in efficiency, safety and fast time-to-value. For Aviation & Transit For Retail For Large Commercial Facilities Fusion of physical world data Zensors processes data from sensors, cameras and other devices, combining it with text and metadata from data warehouses into a standardized, aligned data format. Contact us Learn more Multimodal AI with a spatial guardrail AI that runs across video, time-series and text to create an understanding of the spaces and activities that are core to your business. Contact us Learn more AI Agents to deliver smart actions Automate operational decisions with AI agents. Enable your operations team to act instantly instead of “trying to decide what to do.” Contact us Learn more Why companies choose Zensors Replace a dozen point solutions with a single AI Multi-purpose foundation AI can replace several legacy devices like LIDAR, Beacons, and other traditional CV point solution providers. High accuracy out of the box on day one No extensive re-training or turning required, as Zensors AI is trained on billions of images, videos, and text data specific to each vertical. Unlocking value while maintaining privacy Designed to deliver actionable insights to IT, Operations, and Business stakeholders while maintaining the anonymity of individual customers. Trusted by global companies And many more AI knowledge center BLOG POST How to choose a right AI platform for airports July 24, 2023 BLOG POST How to ensure your enterprise AI project succeeds from the start September 15, 2023 BLOG POST How to budget for 2024 AI initiative to avoid slow adoption November 9, 2023 Leverage physical AI for unparalleled insights and efficiency Take a step into the future of operating with AI in minutes. Contact us About Zensors Close Cookie Preference Manager Cookie Settings By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist in our marketing efforts. More info\n\n[https://www.zensors.com/ai-resources/blog-on-innovating-cx-for-complex-physical-businesses]\nLatest AI trends and resources Learn about Zensors Physical AI at Harry Reid International Airport (LAS) BLOG POST Harry Reid International Airport (LAS) Elevates Passenger Experience with Physical AI Read More ` BLOG POST Zensors and TSA deploy physical AI to automate checkpoint efficiency & improve passenger experience June 3, 2026 BLOG POST Harry Reid International Airport (LAS) Elevates Passenger Experience with Physical AI November 5, 2025 BLOG POST Is your Airport missing out on the AI revolution? August 26, 2024 BLOG POST Traditional airport data integration challenges are emerging as ideal AI opportunities July 10, 2024 NEWS Zensors AI, AWS, Nvidia, and Cities Today Institute gathers aviation industry players to accelerate AI adoption June 14, 2024 NEWS Zensors Appoints Alex Covarrubias as Chief Growth Officer January 17, 2024 BLOG POST Why end-of-life LiDAR and sensors present a golden opportunity for airport tech November 27, 2023 BLOG POST How to budget for 2024 AI initiative to avoid slow adoption November 9, 2023 BLOG POST Occupancy sensors: Everything enterprise buyers need to know before buying October 12, 2023 Next NEWS Zensors AI, AWS, Nvidia, and Cities Today Institute gathers aviation industry players to accelerate AI adoption June 14, 2024 NEWS Zensors Appoints Alex Covarrubias as Chief Growth ",
+   "email_candidates": [
+    {
+     "email": "anuraag@zensors.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Anuraag Jain",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d01c6bb68e",
+   "company": "Bolto",
+   "website": "https://www.bolto.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. AI Powered All-In-One Payroll, HR + Recruiting AI-powered payroll, hr, and recruiting platform. Hire and scale teams easily in the US and globally. Recruiting, HR Tech, AI, B2B, Human Resources, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.bolto.com/]\nBolto | AI Payroll, HR, and Recruiting Skip to content New Bolto Instant Pay for Global Contractors Read the Announcement Login L Book a demo B Payroll & HR Payroll Fast, accurate payroll Tax and Compliance Taxes and filings, handled Benefits Flexible, connected benefits 01 Global & hiring Global HR Manage your people, globally Recruiting Find and hire your next teammate 02 Connected tools Integrations Connect the tools you already use 03 By size Startups Get your team and payroll up and running Scale-ups Keep people operations growing with you Enterprise Bring your people operations together 01 For founders Founders Build your team. Stay focused on growth. Migrate to Bolto Free – bring your history with you. YC × Bolto Explore Bolto for YC companies 02 Featured Customer Story 180 team members, moved from Gusto in 27 days. “Bolto’s platform showed me what a modern payroll system should look like. It would be sort of silly not to go with Bolto if you’re serious about AI transformation.” 03 Learn Blogs Ideas for hiring, payroll, and people 01 Company Our team Meet the people building Bolto Careers Help build the future of work 02 Login Book a demo People management, without the management. Payroll, HR, and recruiting, run on autopilot with the help of AI. Powering teams at Customer Stories 3 Customer Stories 400+ global team members paid compliantly on Bolto. Hiring across 3 continents A 180-person team, moved off Gusto in 27 days. 80+ tax registrations automated A five-person engineering team, hired in 17 days. 100% retention rate All Customer Stories Products Your HR stack, unified Payroll, Global HR, compliance, and recruiting, in one system. Payroll and HR that handles itself Tax and compliance done for you by Bolto experts Benefits integrated for seamless enrollment Global payroll run compliantly everywhere Expert recruiting to find great talent, faster Features & benefits Leave your legacy HRIS behind. Payroll, HR, compliance, and recruiting in a single AI-powered system that automates the busywork. Book a demo B One record, from offer to payday Every hire’s profile, employment history, and pay live in one place, so nothing gets re-entered between recruiting, HR, and payroll. Connected employee profiles Full employment history Payroll that updates with every change Explore HR Compliant by default, not by catching up Bolto handles state registrations and payroll tax filings, and flags anything that needs you before it affects payroll. State registrations handled for you Automated payroll tax filings Alerts before payroll, not after Explore payroll Hire anywhere, no entity required Local contracts, onboarding, and payroll run through one workflow, whether your next hire is in Brazil, Germany, or the UK. Compliant local contracts Onboarding in days, not weeks One view of employees and contractors Explore global HR See your whole team as it grows Track headcount against budget, keep records updated automatically, and bring on every new hire without manual handoffs. Headcount and budget at a glance Records that update themselves Every new hire in one view Book a demo The fastest growing companies grow faster with Bolto. Read Customer Stories Read Customer Story Read Customer Story Read Customer Story You build the company. Bolto handles the busywork. Payroll, benefits, compliance, and hiring in one system. Book some time to explore the platform today. Book a demo News & articles See the latest updates from Bolto. Bolto raises $12M Series A Backed to build the HR layer for teams scaling across borders. Where the money goes, which countries open next, the roles we’re hiring for, and what we’re building toward. Introducing Instant Pay by Bolto Companies can now pay global hires compliantly in real time, with same-day and next-day payouts in 190+ countries. Cookie preferences Your cookie preferences × With your permission, we use analytics and visitor insights to understand site usage and improve our market",
+   "email_candidates": [
+    {
+     "email": "info@bolto.com",
+     "where": "https://www.bolto.com/blog/instant-pay-launch",
+     "kind": "generic"
+    },
+    {
+     "email": "mrinal@bolto.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mrinal Singh",
+     "role": "Founder"
+    },
+    {
+     "email": "jake@bolto.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jake Johnson",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d0a6d06439",
+   "company": "Spot Health",
+   "website": "https://spotdx.com",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Cincinnati, OH, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 9. At-home diagnostics as a service Spot is building the infrastructure to support the future of at-home diagnostics. Our fully white-labeled platform helps brands offer lab-analyzed diagnostic tests using at-home collection kits. Companies simply order tests via our API, and we handle the rest—the collection kits, the logistics, physician authorization, and the lab integrations. Telehealth, Healthcare, Diagnostics, Healthcare, Diagnostics, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.spotdx.com/]\nSpot: At-home lab testing as a service Book a call Home Testing for Health Brands Everything you need to offer your users lab-analyzed blood, urine, and saliva tests with at-home sample collection. Get Started At-home testing is the future At-home testing is fast, convenient, and more efficient than in-person lab visits. This is the future of diagnostics. HIPAA compliant End-to-end logistics and lab integrations Launch in days, not months Your users, your brand Launch with packaging and digital tools that match the brand your users already know and love. Find out more Our Process 1 Order kits We send an at-home collection kit to your user. Some states require a doctor’s order. We handle this for you. 2 User collects a sample After collecting a sample, your user sends it to one of our partner labs using the provided prepaid mailer. 3 Get results We make it easy to integrate results into your customer-facing app. We provide results, normal ranges, and medically-vetted interpretations. Get Started A turnkey solution for home testing Launching a testing operation is hard, but it doesn't need to be. Focus on what you do best, let us handle the rest. Read the docs Spot powers the brands transforming remote care Whatever your connection to diagnostics, Spot is here to help you launch faster and better. Personalize Products Tailor to a user's specific needs and track their progress - supplements, fitness programs, meal plans, and more. Improve Patient Experience Stop sending users to draw sites. Monitor chronic conditions and screen for cancers, STIs and more at home. Demonstrate Efficacy Promote your product with evidence-based claims. We help you run efficacy studies at a fraction of the cost. Learn how home testing adds value to your brand Let's work together to change the future of patient care. Get in touch Spot Health 1776 Mentor Avenue Cincinnati, OH 45212",
+   "email_candidates": [
+    {
+     "email": "andrew@spotdx.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Andrew Jajack",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d2d2212cef",
+   "company": "Rivet",
+   "website": "https://rivet.dev",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Rivet Actors are the primitive for stateful workloads Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution. Open-source. B2B, Open Source, Infrastructure, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://rivet.dev/]\nRivet - The Orchestrator for Agentic Workloads Skip to main content Toggle navigation menu GitHub Sign In The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. Open-source and self-hostable. 12 ms cold starts 72 KB per Actor Billions of Actors Start Building npx skills add rivet-dev/skills npx skills add rivet-dev/skills Give this to your coding agent The Thinker Auguste Rodin · modeled 1880 Latest update: Introducing agentOS 0.4 & Hosted VMs Whatever the workload, there’s an Actor for it. Actors Long-lived processes with state, realtime, and scheduling built in Agents A durable process per agent, with memory that survives restarts Workflows Multi-step operations that replay instead of starting over agentOS A filesystem, shell, and network for code you did not write Preview Dynamic Apps A backend per user, deployed the moment it is generated Explore more Actors Built for everything agents need. Coding agents agentOS Actors Workflows agent-7f2c · acme/shop running › Fix the flaky test in checkout.spec.ts $ pnpm vitest run checkout 12 passed · 1 failed · total.ts:41 rounding ~ src/checkout/total.ts +3 −1 $ pnpm vitest run checkout 13 passed › Opened PR #482 · resumed after 2 restarts Explore agentOS → Agent app builders Dynamic Apps Actors northwind-crm.example.app Build a CRM for my roofing business with a quotes pipeline. ✓ Generated schema · 4 tables ✓ Wrote API · 11 routes ✓ Deployed release v3 Release v3 · live for 2 users Quotes Live New 6 Sent 3 Won 9 Hendricks · full replacement $12,400 Sent Okafor · re-shingle $8,900 New Lindqvist · leak repair $3,250 Won Explore Dynamic Apps → Company-specific agents Actors agentOS Your VPC · no data leaves your cloud #4821 · Refund not processed Helpdesk · 2m Agent Support triage Postgres Orders API Helpdesk ✓ Refund issued · ticket resolved 3 systems connected Explore Enterprise → Personal agents Actors Workflows Morning briefing weekdays · 07:00 Move my 3pm with Sam to tomorrow. Done. Sam accepted 10am tomorrow, and I'll remind you at 9:45. ✓ Reminder · tomorrow 9:45 Online 214 days 1,204 memories 1,205 memories Explore Actors → Realtime apps Actors Q3 launch plan AK JM RS Launch checklist Ship pricing page Draft announcement post JM Schedule webinar Send launch email RS 3 editing now synced · 12 ms syncing… Explore Actors → Run 2,829× more workloads per server. An Actor lives inside a worker process you already run, not in its own container or VM. A server that held hundreds of pods holds hundreds of thousands of Actors. 72.4 KB per running Actor RSS increase per running Actor. Measured on FoundationDB with the Rust rivetkit SDK. Rivet Actors 0 × 72.4 KB Kubernetes pods 0 × 200 MB Start in milliseconds, not minutes. A cold start includes scheduling the Actor, loading its state, and serving the first request. No image pull, no container boot. 12.3 ms cold start Round trip of an HTTP request waking an Actor from hibernation: 12.3 ms p50, 27.7 ms p99. Measured on FoundationDB with the Rust rivetkit SDK. Uses an experimental Rivet feature that will be enabled by default in an upcoming update . Rivet Actor 12.3 ms Kubernetes pod ~6 s Built for scale. Actors are scheduled independently, so adding capacity means adding machines. The same control plane runs a thousand Actors or a billion. Billions of Actors 1 Actors Billions of Actors on one control plane. Hibernates when idle, wakes on demand. An idle Actor writes its state and unloads. The next request brings it back in 12.3 ms with nothing lost. 0 MB while hibernating Awake Hibernating Durable state for every workload. Every Actor gets a SQLite database and a POSIX filesystem, tiered to S3. Idle Actors cost nothing, so millions can sit parked with their state intact. SQLite POSIX filesystem S3 tiered storage Storage architecture → A plane of thirty-six small databases, one per Actor, with writes landing on them continuously. Run code agents generate",
+   "email_candidates": [
+    {
+     "email": "git@nathanflurry.com",
+     "where": "GitHub commits (rivet-dev)",
+     "kind": "generic",
+     "name": "Nathan Flurry",
+     "commits": 9
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d2d2212cef-ref",
+   "company": "Rivet",
+   "website": "https://rivet.dev",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Rivet Actors are the primitive for stateful workloads Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution. Open-source. B2B, Open Source, Infrastructure, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://rivet.dev/]\nRivet - The Orchestrator for Agentic Workloads Skip to main content Toggle navigation menu GitHub Sign In The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. Open-source and self-hostable. 12 ms cold starts 72 KB per Actor Billions of Actors Start Building npx skills add rivet-dev/skills npx skills add rivet-dev/skills Give this to your coding agent The Thinker Auguste Rodin · modeled 1880 Latest update: Introducing agentOS 0.4 & Hosted VMs Whatever the workload, there’s an Actor for it. Actors Long-lived processes with state, realtime, and scheduling built in Agents A durable process per agent, with memory that survives restarts Workflows Multi-step operations that replay instead of starting over agentOS A filesystem, shell, and network for code you did not write Preview Dynamic Apps A backend per user, deployed the moment it is generated Explore more Actors Built for everything agents need. Coding agents agentOS Actors Workflows agent-7f2c · acme/shop running › Fix the flaky test in checkout.spec.ts $ pnpm vitest run checkout 12 passed · 1 failed · total.ts:41 rounding ~ src/checkout/total.ts +3 −1 $ pnpm vitest run checkout 13 passed › Opened PR #482 · resumed after 2 restarts Explore agentOS → Agent app builders Dynamic Apps Actors northwind-crm.example.app Build a CRM for my roofing business with a quotes pipeline. ✓ Generated schema · 4 tables ✓ Wrote API · 11 routes ✓ Deployed release v3 Release v3 · live for 2 users Quotes Live New 6 Sent 3 Won 9 Hendricks · full replacement $12,400 Sent Okafor · re-shingle $8,900 New Lindqvist · leak repair $3,250 Won Explore Dynamic Apps → Company-specific agents Actors agentOS Your VPC · no data leaves your cloud #4821 · Refund not processed Helpdesk · 2m Agent Support triage Postgres Orders API Helpdesk ✓ Refund issued · ticket resolved 3 systems connected Explore Enterprise → Personal agents Actors Workflows Morning briefing weekdays · 07:00 Move my 3pm with Sam to tomorrow. Done. Sam accepted 10am tomorrow, and I'll remind you at 9:45. ✓ Reminder · tomorrow 9:45 Online 214 days 1,204 memories 1,205 memories Explore Actors → Realtime apps Actors Q3 launch plan AK JM RS Launch checklist Ship pricing page Draft announcement post JM Schedule webinar Send launch email RS 3 editing now synced · 12 ms syncing… Explore Actors → Run 2,829× more workloads per server. An Actor lives inside a worker process you already run, not in its own container or VM. A server that held hundreds of pods holds hundreds of thousands of Actors. 72.4 KB per running Actor RSS increase per running Actor. Measured on FoundationDB with the Rust rivetkit SDK. Rivet Actors 0 × 72.4 KB Kubernetes pods 0 × 200 MB Start in milliseconds, not minutes. A cold start includes scheduling the Actor, loading its state, and serving the first request. No image pull, no container boot. 12.3 ms cold start Round trip of an HTTP request waking an Actor from hibernation: 12.3 ms p50, 27.7 ms p99. Measured on FoundationDB with the Rust rivetkit SDK. Uses an experimental Rivet feature that will be enabled by default in an upcoming update . Rivet Actor 12.3 ms Kubernetes pod ~6 s Built for scale. Actors are scheduled independently, so adding capacity means adding machines. The same control plane runs a thousand Actors or a billion. Billions of Actors 1 Actors Billions of Actors on one control plane. Hibernates when idle, wakes on demand. An idle Actor writes its state and unloads. The next request brings it back in 12.3 ms with nothing lost. 0 MB while hibernating Awake Hibernating Durable state for every workload. Every Actor gets a SQLite database and a POSIX filesystem, tiered to S3. Idle Actors cost nothing, so millions can sit parked with their state intact. SQLite POSIX filesystem S3 tiered storage Storage architecture → A plane of thirty-six small databases, one per Actor, with writes landing on them continuously. Run code agents generate",
+   "email_candidates": [
+    {
+     "email": "sreeaadhi07@gmail.com",
+     "where": "GitHub commits (rivet-dev)",
+     "kind": "personal",
+     "name": "Sree Narayanan",
+     "commits": 29
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  },
+  {
+   "id": "d2d2212cef-ref",
+   "company": "Rivet",
+   "website": "https://rivet.dev",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Rivet Actors are the primitive for stateful workloads Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution. Open-source. B2B, Open Source, Infrastructure, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://rivet.dev/]\nRivet - The Orchestrator for Agentic Workloads Skip to main content Toggle navigation menu GitHub Sign In The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. Open-source and self-hostable. 12 ms cold starts 72 KB per Actor Billions of Actors Start Building npx skills add rivet-dev/skills npx skills add rivet-dev/skills Give this to your coding agent The Thinker Auguste Rodin · modeled 1880 Latest update: Introducing agentOS 0.4 & Hosted VMs Whatever the workload, there’s an Actor for it. Actors Long-lived processes with state, realtime, and scheduling built in Agents A durable process per agent, with memory that survives restarts Workflows Multi-step operations that replay instead of starting over agentOS A filesystem, shell, and network for code you did not write Preview Dynamic Apps A backend per user, deployed the moment it is generated Explore more Actors Built for everything agents need. Coding agents agentOS Actors Workflows agent-7f2c · acme/shop running › Fix the flaky test in checkout.spec.ts $ pnpm vitest run checkout 12 passed · 1 failed · total.ts:41 rounding ~ src/checkout/total.ts +3 −1 $ pnpm vitest run checkout 13 passed › Opened PR #482 · resumed after 2 restarts Explore agentOS → Agent app builders Dynamic Apps Actors northwind-crm.example.app Build a CRM for my roofing business with a quotes pipeline. ✓ Generated schema · 4 tables ✓ Wrote API · 11 routes ✓ Deployed release v3 Release v3 · live for 2 users Quotes Live New 6 Sent 3 Won 9 Hendricks · full replacement $12,400 Sent Okafor · re-shingle $8,900 New Lindqvist · leak repair $3,250 Won Explore Dynamic Apps → Company-specific agents Actors agentOS Your VPC · no data leaves your cloud #4821 · Refund not processed Helpdesk · 2m Agent Support triage Postgres Orders API Helpdesk ✓ Refund issued · ticket resolved 3 systems connected Explore Enterprise → Personal agents Actors Workflows Morning briefing weekdays · 07:00 Move my 3pm with Sam to tomorrow. Done. Sam accepted 10am tomorrow, and I'll remind you at 9:45. ✓ Reminder · tomorrow 9:45 Online 214 days 1,204 memories 1,205 memories Explore Actors → Realtime apps Actors Q3 launch plan AK JM RS Launch checklist Ship pricing page Draft announcement post JM Schedule webinar Send launch email RS 3 editing now synced · 12 ms syncing… Explore Actors → Run 2,829× more workloads per server. An Actor lives inside a worker process you already run, not in its own container or VM. A server that held hundreds of pods holds hundreds of thousands of Actors. 72.4 KB per running Actor RSS increase per running Actor. Measured on FoundationDB with the Rust rivetkit SDK. Rivet Actors 0 × 72.4 KB Kubernetes pods 0 × 200 MB Start in milliseconds, not minutes. A cold start includes scheduling the Actor, loading its state, and serving the first request. No image pull, no container boot. 12.3 ms cold start Round trip of an HTTP request waking an Actor from hibernation: 12.3 ms p50, 27.7 ms p99. Measured on FoundationDB with the Rust rivetkit SDK. Uses an experimental Rivet feature that will be enabled by default in an upcoming update . Rivet Actor 12.3 ms Kubernetes pod ~6 s Built for scale. Actors are scheduled independently, so adding capacity means adding machines. The same control plane runs a thousand Actors or a billion. Billions of Actors 1 Actors Billions of Actors on one control plane. Hibernates when idle, wakes on demand. An idle Actor writes its state and unloads. The next request brings it back in 12.3 ms with nothing lost. 0 MB while hibernating Awake Hibernating Durable state for every workload. Every Actor gets a SQLite database and a POSIX filesystem, tiered to S3. Idle Actors cost nothing, so millions can sit parked with their state intact. SQLite POSIX filesystem S3 tiered storage Storage architecture → A plane of thirty-six small databases, one per Actor, with writes landing on them continuously. Run code agents generate",
+   "email_candidates": [
+    {
+     "email": "sreeaadhi07@gmail.com",
+     "where": "GitHub commits (rivet-dev)",
+     "kind": "personal",
+     "name": "Sree Narayanan",
+     "commits": 29
+    },
+    {
+     "email": "git@nathanflurry.com",
+     "where": "GitHub commits (rivet-dev)",
+     "kind": "generic",
+     "name": "Nathan Flurry",
+     "commits": 9
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  }
+ ]
+}

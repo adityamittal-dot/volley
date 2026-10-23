@@ -1,0 +1,316 @@
+{
+ "leads": [
+  {
+   "id": "0b2e21a2a4",
+   "company": "Peakflo",
+   "website": "https://peakflo.co",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Singapore, Singapore",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 45. Agentic workflows that automate your back‑office operations Peakflo, with its Agentic Workflows and one-click ERP integrations, helps finance teams eliminate manual work across the entire invoice-to-cash, procure-to-pay, travel and expense reimbursement, and operations. 100+ businesses—from scale-ups to enterprises, use Peakflo each to: ✅ Save 1000 man-hours/month on finance ops ✅ Get paid faster on customer invoices by 15-25 days ✅ Cut vendor bill payment time by 50% ✅ Automate three-way matching Fintech, SaaS, B2B, Fintech, Payments, Singapore, Southeast Asia, Remote, Partly Remote",
+   "site_text": "[https://peakflo.co/]\nAgentic workflows that automate and execute your back-office operations. Agentic workflows that automate and execute your business operations Peakflo's Agentic Workflows integrate seamlessly with your finance and operations processes, continuously learning from your workflows to automate tasks, enhance accuracy, and accelerate decision-making. Schedule a Demo Trusted By Global Enterprises Across Industries What businesses can achieve with Peakflo Agentic Workflow 4X acceleration in process performance 40% reduction in operational cost 30% improvement in decision accuracy Pre-Built Templates Choose from a library of pre-built workflow templates fully loaded with domain specific expertise for finance, HR, procurement, and more that lets you get started in minutes. Build Your Own Workflow No need to map it all out manually. Simply upload a screen recording or describe the AS-IS flow of your business process, Peakflo AI will analyze it and generate a draft workflow for you. Fine-tune, optimize, and launch—your ops, your way. Multi-Channel Process Triggers Peakflo doesn't ask your team to change platforms, it meets them where they are. Connect your everyday tools—Slack, ERP, HRM, CRM, Calendly, and more— so workflows can start automatically, from any touchpoint. AI Browser Agents Peakflo AI agents can browse internal web apps and browser-based systems, makes decisions and takes action, just like a human would. AI agent just logs in and gets the job done. Voice AI Agents Automate calls without lifting a finger for collections, follow-ups, reminders, or survey responses powered by human-like voice agents. Gen AI-Powered Reports Forget dashboards that require manual input. Our generative AI creates reports from real-time data across your systems. Knowledge Base Insights Our AI agents can instantly search and understand vast data sources, turning static, complex information into actionable insights. Agents use this knowledge to make informed decisions and power workflows with confidence. Self-Evaluation & Continuous Optimization Peakflo's agentic system uses LLM-as-Judge, enabling agents to evaluate their own workflow output and optimize based on your success criteria. Agents test different workflow patterns, identify the best-performing one, and auto-apply it, making each execution smarter than the last. See Peakflo’s Agentic Workflows in action below with a few real-world use cases. Autonomous Finance Workflows, Tailored to Your Industry Peakflo helps global businesses across industries eliminate manual finance work, accelerate receivables and payables, and streamline payment cycles—without changing how you work or increasing headcount. Food & Beverage F&B businesses face rising financial pressures and manual inefficiencies. Peakflo's AI-powered automation streamlines invoicing, payments, and reconciliation—cutting costs and boosting efficiency so teams can focus on growth. Explore more Manufacturing Logistics companies face complex payments and compliance. Peakflo's AI-powered AP automation simplifies vendor onboarding, invoice checks, and cross-border payments—cutting errors, costs, and back-office strain. Explore more Logistics Manufacturers face complex supply chains, heavy paperwork, and strict compliance. Peakflo's AI automation streamlines 3-way matching, tax validation, and vendor collaboration—reducing errors, delays, and manual work across the procure-to-pay cycle. Explore more IT & Services IT and service firms struggle with budget gaps, manual entry, and complex approvals. Peakflo's AI automation enforces budgets, auto-codes GLs, flags duplicates, and streamlines AP—cutting costs and boosting audit-ready efficiency. Explore more Why Peakflo's Agentic Workflows Automate at Scale Peakflo's Agentic Workflows bring expert-level automation to finance and operations teams, handling high-volume, complex workflows with precision—eliminating manual bottlenecks and reducing overhead. Intelligent AI with Deep C",
+   "email_candidates": [
+    {
+     "email": "info@peakflo.co",
+     "where": "https://peakflo.co/",
+     "kind": "generic"
+    },
+    {
+     "email": "saurabh@peakflo.co",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Saurabh Chauhan",
+     "role": "Founder"
+    },
+    {
+     "email": "dmitry@peakflo.co",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Dmitry Vedenyapin",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "2b7fb7fd62",
+   "company": "SpruceID",
+   "website": "https://www.spruceid.com",
+   "title": "Full-Stack Software Engineer (New Grad) – Remote",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Full-Stack Software Engineer (New Grad) – Remote (United States / Remote (US); experience: Any (new grads ok); US citizen/visa only). Team size: 25. SpruceID lets users control their data across the web. SpruceID lets users control their data across the web. Instead of people signing into platforms, we imagine platforms should sign into people’s data vaults. We implement this pattern into digital wallet ecosystems for governments, enterprises, and blockchains. We believe that architectures that enable individual autonomy in the digital world are necessary for free societies and dynamic economies to thrive. GovTech, Crypto / Web3, Identity, Privacy, Infrastructure, Government, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://spruceid.com/]\nDigital Trust Infrastructure for Government | SpruceID Digital trust from intake to decision Securely modernizing government services, from resident identity to fraud prevention and workflow optimization. Why SpruceID Get in touch Where digital services break Most government modernization efforts fail not because of policy or ambition, but because trust, identity, and data donât move cleanly through systems. Data enters unstructured Documents, identity signals, and user inputs arrive as PDFs, uploads, or one-off checks. Systems canât easily validate, reuse, or trust what comes in. Fragmentation multiplies cost Disconnected identity systems and data silos force repeated verification across services and agencies, driving delays, higher fraud risk, and poor user experiences. Trust isn't built in Identity, data capture, validation, and access controls are often added piecemeal, leaving gaps that slow decisions and increase risk. How we can fix it SpruceID builds trusted digital services that save time, reduce fraud, and lower costs. Identity & Credentials Secure wallets, SSO, and credential platforms that cut duplicative identity verification costs and increase trust in every interaction. Digital Transformation Digitize forms, automate manual work, and connect legacy systems to save time and deliver faster, more consistent services. Trust & Risk Privacy-preserving verification and fraud prevention tools that protect residents while improving service outcomes. Improve service delivery Connect services across programs through shared identity and trusted data. Deliver faster decisions, smoother renewals, and simpler experiences end to end. Digital Transformations Improve service delivery Connect services across programs through shared identity and trusted data. Deliver faster decisions, smoother renewals, and simpler experiences end to end. Digital Transformations Get in touch Secure by design Standards-based solutions that strengthen confidence in government services. Request a Demo Secure by design Standards-based solutions that strengthen confidence in government services. Digital trust is the foundation of fast, reliable public services. Digital trust is the foundation of fast, reliable public services. Digital trust is the foundation of fast, reliable public services. Selected reads View all Digital Identity in America Digital Identity in America Zero Trust in Government Data Flows Zero Trust in Government Data Flows What \"Digital Transformation\" Really Means What \"Digital Transformation\" Really Means Build faster, more secure services. See how SpruceID can help you reduce costs, improve service delivery, and strengthen trust. Get in touch Build faster, more secure services. See how SpruceID can help you reduce costs, improve service delivery, and strengthen trust. Get in touch KNOWLEDGE BASE Explore the foundations of digital trust What Is Digital Identity? Learn About Digital Identity Fundamentals What Is Digital Identity? Learn About Digital Identity Fundamentals What Is Credential Portability? Learn About Lifecycle Management What Is Selective Disclosure? Learn About Privacy-Preserving Design What Is Selective Disclosure? Learn About Privacy-Preserving Design How to Use Digital IDs for Government Services? Learn About Real-World Use Cases What Is An Identity Gateway? Learn About Authentication & Access Protocols How Are Digital Credentials Verified? Learn About Verification Mechanisms How Do mDLs Work for KYC? Learn About Real-World Use Cases What Is An Identity Gateway? Learn About Authentication How Are Digital Credentials Verified? Learn About Verification Mechanisms Go to Knowledge Base Identity Infrastructure Digital IDs Identity Wallets Identity Gateway Modernization Document Intake Digital Transformation Form Modernization Systems Integration Trust & Risk Verification Security & Compliance Zero Trust Exchange Resources Success Stories Knowledge Base Blog Documentation Company Why SpruceID A",
+   "email_candidates": [
+    {
+     "email": "wayne@spruceid.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Wayne Chang",
+     "role": "Founder"
+    },
+    {
+     "email": "gregory@spruceid.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Gregory Rocco",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "4d8374de35",
+   "company": "Authologic",
+   "website": "https://authologic.com",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "Warsaw, Masovian Voivodeship, Poland; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 44. Stripe for online identity verification Authologic is an orchestration and aggregation layer for local KYC & AML methods. We allow businesses to check the identity of their clients online using video/biometrics, banking data, and government issued digital IDs. Our API allows a flexible definition of verification scenarios based on the risk profile of the client or risk involved in the given process. B2B, Engineering, Product and Design, Poland, Europe, Remote, Fully Remote",
+   "site_text": "[https://authologic.com/]\nIdentity Infrastructure to Boost Your KYC Conversion Rates New The EUDI & Wallet Playground: test real wallet flows in your browser for free. Try it now eID-Native Identity Infrastructure Authologic verifies every user with the best available method automatically — from EUDI and Apple, Google & Samsung Wallet to biometrics and document-based verification. Built for humans. Ready for AI Agents. Get started Contact Sales AI threats & eIDAS 2.0 — the identity landscape just changed. AI fraud is accelerating . Governments are issuing digital IDs. Apple, Google, and Samsung are making them easy to carry. eIDAS 2.0 is redrawing the compliance map across Europe. Your users expect it to be seamless. Your compliance team expects it to be secure. Authologic makes it seamless, secure, and simple. Physical Documents Deepfakes broke document verification. 44% of fraud now involves AI-generated content. Synthetic identities. Fabricated documents. Faces that don't exist. Gen-1 eIDs Every new market is another integration nightmare. New country. New eID scheme. New vendor. New contract. New compliance requirements. New maintenance overhead. Next Gen Identity Wallets eIDAS 2.0 makes them mandatory across Europe. Built on open standards. Designed for privacy. Ready for humans and AI agents alike. The organisations that integrate now won't be scrambling in 2027. eID-Native Identity Infrastructure Meet OmniID. One Platform that connects the past, present, and future of identity. Physical Documents Gen-1 eIDs Next Gen Identity Wallets Verify Identity One API. Every wallet. Every eID. Every market. The internet needs a new identity layer that can deliver proof of human, age verification, and authenticated access that works for both people and machines. Authologic provides clarity, elegance and efficiency to the ID verification, payment or authentication process by reducing this insane complexity to a single button. Every attribute. One call. Pull attributes from multiple sources in a single request. Exactly what you need — nothing more, nothing less. Data that doesn't linger Set your own retention rules. We purge what you no longer need — clean by default, auditable by design. Privacy by proof, not promise Zero Knowledge Proofs verify age and humanity without exposing the underlying data. The verification happens. The data never leaves. Compliance as architecture Built to eIDAS 2.0, GDPR, and EU cybersecurity standards. Compliance isn't an afterthought — it's the architecture. Certificates & Licenses ISO 27001 Information Security ISO 9001 Quality Management ISO 22301 Business Continuity PCI DSS Payment Security GDPR Data Protection PSD2 AIS Payment Security Every eID. One connection. The fastest way to every eID. Every EU member state is getting a digital identity wallet. Private wallets are multiplying. Legacy eIDs aren't going anywhere. One integration handles all of it. Contact Sales See coverage Everything you need for modern identity verification. Customize verification flows, improve conversion, and support identity methods globally — all in one platform . OmniPanel gives you real-time visibility into every verification. Branding Our UI. Your branding. Customize every pixel of the verification flow to match your brand. Themes, colors, and copy — all configurable. Custom themes Brand colors Personalized copy Theme builder Analytics Conversion rates up. Errors down. Measure eID performance with real-time OmniPanel analytics. No more blurry photos or manual checks. Coverage Global support for eIDs. Wallets, BankIDs, national eIDs — unified through one platform and a single API. MyGovID Diia Slovak eID MojeID mObywatel ATK e-ID karte ID-kaart DigiD LuxTrust OneID Cartão de Cidadão DNIe SPID FranceConnect+ SwissID ID Austria itsme IDIN Personalausweis FINeID Mit-ID MinID Freja eID MyGovID Diia Slovak eID MojeID mObywatel ATK e-ID karte ID-kaart DigiD LuxTrust OneID Cartão de Cidadão DNIe SPID FranceConnect+ SwissID ID Au",
+   "email_candidates": [
+    {
+     "email": "contact@authologic.com",
+     "where": "https://authologic.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "kontakt@authologic.com",
+     "where": "https://authologic.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "bartlomiej.kuban@authologic.com",
+     "where": "https://authologic.com/blog/melements-case-study",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "941ae9aaaa",
+   "company": "Signatur Biosciences",
+   "website": "https://www.signatur.bio/",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Simple tests for complex diseases. We make precision diagnostics more accessible, starting with breast cancer prognosis. Current tests that guide the use of therapy are really slow and expensive because they need to be run in complex centralized facilities. Our tests are designed to be easily run by local hospital labs, reducing turnaround time from over three weeks to a few days and for a fraction of the price. Biotech, Healthcare, Diagnostics, Healthcare, Diagnostics, United Kingdom, Europe, Remote, Partly Remote",
+   "site_text": "[https://www.signatur.bio/]\nSignatur Biosciences :: Expanding PCR testing to a whole new range of conditions 0 Skip to Content Open Menu Close Menu Open Menu Close Menu We’re making precision diagnostics accessible around the planet. One disease at the time — starting with Breast Cancer Prognosis Our molecular technology makes diagnosing complex diseases simple. No need for laborious tests and expensive machines, our kits bring molecular intelligence to widely accessible PCR equipment. Traditional PCR can’t keep up with modern medicine. Conventional PCR tests detect one or two biomarkers — ideal for infections, but not for cancers or chronic diseases that depend on complex molecular patterns. To capture these patterns today, samples must be sent to specialised central laboratories, where analysis depends on sophisticated equipment, complex workflows, expert staff, and multi-step data processing. The result: high costs, long turnaround times, and limited access to precision diagnostics outside major reference centres — creating a real bottleneck for precision medicine adoption and leading to underserved disease areas. We simplify precision molecular diagnostics — without compromise. Signatur Biosciences’ platform transforms standard qPCR machines into powerful precision diagnostic tools. By condensing complex RNA signatures into a single PCR assay, we make precision diagnostics decentralised, faster, and more affordable — while maintaining the same clinical utility as reference-lab genomic assays. Built for compatibility with standard qPCR machines and workflows, our kits integrate seamlessly into existing hospital infrastructure, enabling clinicians to deliver precision insights within days, not weeks. Smarter tests. Covering more diseases. Supporting more people. Supported & backed by:\n\n[https://www.signatur.bio/team]\nTeam — SIGNATUR BIO 0 Skip to Content Open Menu Close Menu Open Menu Close Menu Our Team This is who we are. Founders Celestin de Wergifosse CEO Startups since the age of 14. First patent at 15. World Intellectual Property Organization Best Young Inventor 2010. Twice TEDx speaker. Co-founded Young Change Maker, a social startup that highlights inspiring individuals. Co-founded and sold a company called Sauna en Bois. Bio-engineering from Imperial College London. LinkedIn — Twitter Prof Dame Molly Stevens DBE FRS FREng, Scientific Advisory Board Chair Co-inventor. Founder and Director of diverse and vibrant Stevens Group at Imperial College London and Deputy Director of the i-Sense interdisciplinary biosensing centre. Serial entrepreneur, NED experience, previous CSO and Foreign Member of the US National Academy of Engineering and of the US Academy of Arts and Sciences. LinkedIn — Website Dr John Goertz Scientific Advisor Co-inventor and PCRchitect. NIH F32 Postdoctoral Fellow in the Stevens Group at Imperial College London; PhD Bioengineering from the White Lab at University of Maryland, College Park; BSc Physics and Cell & Molecular Biology from Seattle University. LinkedIn — Twitter Team Dr. Adrian Moody Chief Development Officer An experienced technical leader in Molecular Diagnostics with a track record in developing regulated PCR applications for regulated diagnostic markets. Adrian brings 25 years of experience, having previously held equivalent roles at Qiagen and Biocartis. At Signatur Biosciences, Adrian leads all development and manufacturing operations. LinkedIn Bertrand Duquesne Chief Operating Officer Bertrand is a hands-on operations leader with extensive experience in regulated IVD and medical device environments. As COO at Signatur Biosciences, he leads operational strategy, manufacturing, quality, and execution as the company transitions to commercial-stage operations. Based in Liège, he oversees manufacturing scale-up and ISO 13485-compliant quality systems, working closely with R&D, regulatory, lab operations, HR, and finance to build a high-performing organization. LinkedIn Leigh Pugh Head of",
+   "email_candidates": [
+    {
+     "email": "contact@signatur.bio",
+     "where": "https://www.signatur.bio/",
+     "kind": "generic"
+    },
+    {
+     "email": "hiring@signatur.bio",
+     "where": "https://www.signatur.bio/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "9f55c15942",
+   "company": "Spread Group",
+   "website": "https://spreadgroup.com",
+   "title": "Platform Engineer (f/m/d)",
+   "location": "Remote job (Remote)",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-21T02:31:22Z",
+   "posting": "Who We Are Spread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. Our core business model revolves around producing precisely what our customers desire, precisely when they desire it. As pioneers in this space, we combine sustainability with on-demand personalization, enabling individuals and businesses to express their unique identities through bespoke creations. Join us to be part of a global leader in the exciting world of personalized apparel and lifestyle products! As we continue to expand our business, we are seeking a curious and passionate individual to join our team as the Platform Engineer (f/m/d) and drive our business forward. What Will Your Role Be In the Platform Engineering team, you will build the next generation of the internal developer platform behind Spread Group's core services - a cloud-native platform on AWS, designed from the ground up. We see our platform as a product and our developers as our customers. This is a greenfield build with real design freedom: you shape the architecture, the golden paths and the self-service capabilities - not just keep existing systems running. Your platform will serve roughly 175 services from 13 product teams in our European and North American regions. Today they run on more than a dozen Kubernetes clusters with around 280 nodes and 4,000 running pods - migrating them step by step onto the new platform while everything keeps running is a core part of the mission. What You´ll Do Build the next-generation cloud-native platform on AWS - you own the architecture and design decisions from day one Design and build platform services, APIs and self-service capabilities that let teams build, deploy and operate their core services end-to-end Provide \"golden paths\": standardized templates, pipelines and building blocks that get teams to production quickly and safely Build and evolve the AWS cloud infrastructure with Infrastruc",
+   "site_text": "[https://www.spreadgroup.com/]\nSpread Group English German Tech-Driven Fashion For Tomorrow Empowering Creativity and Personalization Spread Group Is A Global Provider Of Customized Apparel And Lifestyle Products. Our strong USP is the made-to-order technology, which enables personalization and individualization. With our B2B and D2C brands, our customers and partners can easily design, produce, and market fashion and customized lifestyle products people love. Our Brands Our technology empowers made-to-order lifestyle products people love. Who we are $206M Revenue 2021 10.2M Shipped items 2021 2.6M Customers 2021 We are committed to a greener future. By 2025, we will triple our sustainability efforts to become one of the greenest made-to-order company there is. Our Commitment Our Jobs Are Missions Our people are our biggest asset. A global team of over 1,000 employees from 40 countries work on fulfilling our mission every day. Feel like becoming part of a highly motivated team? Then please apply. Dream Jobs News 18. Nov 2025 Driving sustainabilty and innovation in Fashion 15. Nov 2024 Spread Group strengthens B2B business with takeover of BerlinTextil 04. Jun 2024 Innovation in Fashion: Spread Group introduces sustainable printing technology at Rock am Ring and Rock im Park Festival 04. Jun 2024 Wearable Success: How xdeck and Spread Group Elevate Startups",
+   "email_candidates": [
+    {
+     "email": "live@spreadgroup.com",
+     "where": "https://www.spreadgroup.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "jobs@spreadgroup.com",
+     "where": "https://www.spreadgroup.com/",
+     "kind": "hiring"
+    },
+    {
+     "email": "info@spreadgroup.com",
+     "where": "https://www.spreadgroup.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "ca753ec5f0",
+   "company": "Fireblaze AI School",
+   "website": "https://fireblaze.in",
+   "title": "Cloud Computing Engineer (Trainer)",
+   "location": "United States",
+   "source": "himalayas",
+   "posted_at": "2026-10-20T15:17:40Z",
+   "posting": "Category: Education Location: Conduct training sessions on Cloud Computing concepts, architecture, and security . Teach AWS, Azure, and Google Cloud (GCP) , covering key services and best practices. Provide hands-on labs, real-time projects, and practical demonstrations . Train students in cloud automation, DevOps integration, and cost optimization . Guide learners on cloud certifications (AWS Certified Solutions Architect, Azure Fundamentals, GCP Associate, etc.). Assess student progress through assignments, quizzes, and live projects . Develop course materials, assignments, and case studies for interactive learning. Stay updated with the latest cloud trends, security updates, and industry demands . Provide guidance and career mentorship to students. Collaborate with the placement team to help students prepare for job interviews. Requirements Proven experience with GCP services: Cloud Functions, Cloud Run, Cloud Build, and Cloud Storage. Strong understanding of GCP networking, IAM policies, and security configurations. Strong in Python programming language and basic in Unix shell scripting. Familiarity with CI/CD principles and Bitbucket Cloud integration. Experience with Cloud Logging, Monitoring, and resource optimization. Details Originally posted on Himalayas",
+   "site_text": "[https://fireblaze.in/]\nFireblaze Technologies â AI-Powered Digital Infrastructure Company Skip to content Products Shiksha Saarathi Mera Udyog Fireblaze AI School Gurukul One Services Custom Software Development HRMS Solutions CRM Solutions Web Development AI Solutions Data & Analytics Company Work Industries About Careers Talk to us +91 93250 13467 AI-POWERED Â· DIGITAL_INFRASTRUCTURE AI-powered digital infrastructure, engineered to ship. Since 2017, we've helped businesses, educational institutions and enterprises build, automate and scale with artificial intelligence, enterprise software, data and digital transformation â from AI-native platforms we operate ourselves to custom engineering delivered for a client's own workflow. Explore our products See our work 3 Products in production 6 Named enterprise clients 6 Engineering services 35+ Yr-old institution served 2017 Founded OUR_PLATFORMS Products built for how organisations actually work Not configurable templates. Each platform was built because the existing tools in its market forced organisations into workflows that did not fit them. Shiksha Saarathi A comprehensive academic management platform that connects institutions, teachers, students, and parents through a single intelligent system â simplifying every aspect of educationalâ¦ Learning Academic Management Explore Shiksha Saarathi Mera Udyog An all-in-one business management platform that consolidates CRM, payroll, employee management, and team collaboration into a single, powerful system for growing organizations. CRM Payroll Operations Explore Mera Udyog Fireblaze AI School Nagpur's leading AI and technology training institute, delivering industry-focused programs in Data Science, Machine Learning, Full Stack Development, and Cloud Computing with hands-onâ¦ Artificial Intelligence Training Future Tech Explore Fireblaze AI School NEW_INITIATIVE Building the future of learning Gurukul One is our Kâ12 Technology & Innovation Education Ecosystem. It brings 100% project-based technology education to schools â coding, artificial intelligence, robotics, data science, cybersecurity and emerging technologies, structured as one continuous progression from Grade 1 to Grade 12. Students don't just learn about technology. They build with it â websites, models, robots, dashboards and applications that work â and leave school with a portfolio of what they have actually made. Explore Gurukul One Partner with us Grade 1 to 12 One progression, not disconnected courses. 11 domains From digital foundations to AI and cloud. Teacher-first Curriculum, lesson plans, rubrics and training. Project-based Every unit ends in something that works. ENGINEERING_SERVICES What we build for clients Six practices, each addressing a problem organisations tend to describe the same way. Custom Software Development Eliminates dependency on generic software that doesn't match your workflows. About this service HRMS Solutions Eliminates manual HR processes, reduces compliance risks, and improves employee experience. About this service CRM Solutions Prevents revenue loss from poor lead management and fragmented customer data. About this service Web Development Replaces slow, outdated web presence with a professional, high-converting digital platform. About this service AI Solutions From AI strategy and consulting to generative and agentic AI, chatbots, LLM integration and RAG systems â applied AI built into production systems. About this service Data & Analytics Data analytics, interactive dashboards, ETL pipelines and business intelligence that turn the data your organisation already holds into decisions. About this service DEPLOYED_WITH Organisations running on our software Every logo here is a live deployment, not a pilot or a conversation. Uniconnect A leading educational connectivity platform leveraging Shiksha Saarathi to transform academic management. Educational Platform Nagpur, Maharashtra Siddheshwar RMC Ready-mix concrete ind",
+   "email_candidates": [
+    {
+     "email": "info@fireblaze.in",
+     "where": "https://fireblaze.in/",
+     "kind": "generic"
+    },
+    {
+     "email": "hr@fireblaze.in",
+     "where": "https://fireblaze.in/careers/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "5b2f2f5c28",
+   "company": "Tint",
+   "website": "http://www.tint.ai",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 40. Makes it easy for tech platforms to embed insurance into products Tint makes it easy for tech platforms to embed insurance into their products. For example, when you go to Outdoorsy to rent an RV, the insurance that is sold with the rental is powered by our technology. Our product provides anything that is needed from underwriting software to access to insurers to compliance, in a simple API. Developer Tools, Fintech, AI, Fintech, Insurance, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.tint.ai/]\nTint â Embedded Insurance Platform & MGA Skip to main content Operating System Core Overview Underwriting & Rating Policy Management Operations Claims Payments & Billing Communications Intelligence Intelligence Security & Compliance Build Studio Developers Embedded Insurance Programs Industries Mobility Property & Travel Transportation & Logistics Pet Programs Off-trip Insurance Mechanical Coverage SmartSTRâ¢ TrustedTransportâ¢ Resources Resources Resource Library Case Studies Blog Partners Company Company About Us Careers Newsroom Log in Contact Us ð Beach House Â· Malibu Next booking Â· Jun 12â15 Â· 3 nights $540 Sarah M. 4.9 â Â· 48 trips Â· Verified ID Message Host Protection â Host Protection Insurance $1M property Â· $1M guest liability Included per stay Accept Booking View Policy Make insurance a feature, not a product. Most platforms sell infrastructure. Most MGAs run programs. Tint does both â because we built the technology to run our own programs, and that changes everything about how the programs work. Request a demo Explore our programs ð Beach House Â· Malibu Next booking Â· Jun 12â15 Â· 3 nights $540 Sarah M. 4.9 â Â· 48 trips Â· Verified ID Message Host Protection â Host Protection Insurance $1M property Â· $1M guest liability Included per stay Accept Booking View Policy Powered by our AI-native operating system for embedded insurance. Trusted by Where do you fit? Brand Partner I run a platform or marketplace. I want to offer great coverage to my customers â embedded directly in my product, without having to become an insurance company. See how it works MGA / Program Builder I'm building an insurance program or evaluating infrastructure to run one. I need infrastructure â underwriting, rating, policy management, claims â without building it from scratch or locking into a system that doesn't fit. See the platform For MGAs & Program Builders The operating system for embedded insurance. Proven at scale. Our platform is Tint's proprietary embedded insurance infrastructure â the same one that powers every program we run. That means it's not theoretical. Every capability we offer you has been stress-tested by our own programs, in real markets, with real risk. Configuration in seconds. Not deployment cycles. Modify rate tables, coverage rules, and eligibility logic without an engineering deployment. Changes take effect immediately across every program you run. AI-native at the architecture level. AI runs inside the operational architecture itself â workflow execution, pricing decisions, underwriting logic, and claims triage. Not a dashboard bolted on after the fact. Your capacity. Your terms. Your moat. No lock-in to a single carrier panel. Your rates, risk model, and coverage logic belong to you. The IP that makes your program defensible stays yours. Built to run our programs. Now available to power yours. Every capability in our platform has been battle-tested by Tint's own programs. When you build on it, you're building on infrastructure that has processed real risk, real claims, and real data. Core Capabilities Underwriting & Rating Real-time quoting, configurable rate tables, AI-assisted submissions. No engineering required to make changes. Policy Management End-to-end lifecycle: bind, endorse, renew, cancel. All digital, all auditable, all inside one environment. Claims Digital from first notice to final payment. AI-assisted triage, configurable workflows, full audit trail. Also includes: Data & Analytics Â· Compliance & Regulatory Reporting Â· Billing & Payments Â· Partner & API Management Â· and more Request a demo Turn coverage into a feature your customers actually want. Tint designs and manages embedded insurance programs for the verticals we know best â mobility, transportation & logistics, and property management. We bring the carriers, handle the compliance, and pay the claims. You bring the platform and the customers. No license required on your end",
+   "email_candidates": [
+    {
+     "email": "hello@tint.ai",
+     "where": "https://www.tint.ai/",
+     "kind": "generic"
+    },
+    {
+     "email": "contact@tint.ai",
+     "where": "https://www.tint.ai/contact-us",
+     "kind": "generic"
+    },
+    {
+     "email": "matheus@tint.ai",
+     "where": "YC profile · GitHub commits",
+     "kind": "personal",
+     "name": "Matheus Riolfi",
+     "role": "Founder"
+    },
+    {
+     "email": "jerome@tint.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jérôme Selles",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "184bdcb460",
+   "company": "Meticulous",
+   "website": "https://www.meticulous.ai",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. Automated e2e screenshot testing without writing or maintaining tests Meticulous is a tool to automatically catch UI bugs in your web application with zero-effort. Install our JavaScript snippet onto production or staging and dev environments, which records user sessions by collecting clickstream and network data. When you post a pull request, Meticulous selects a subset of sessions which are relevant and simulates these against the frontend of your application. Meticulous takes screenshots at key points and detects any visual differences. It posts those diffs in a comment for you to inspect in a few seconds. This eliminates the setup and maintenance burden of UI testing. Developer Tools, Hard Tech, SaaS, B2B, Engineering, Product and Design, United Kingdom, Europe",
+   "site_text": "[https://www.meticulous.ai/]\nMeticulous AI - Automated Frontend Testing Without Writing Tests Sign In Book a Demo exhaustive verification. zero developer effort . Automated. Exhaustive. Deterministic. Ship code at the speed your agents write it. Built for the world's most complex codebases. Get Started Trusted by over 100 organizations including... Trusted by over 100 organizations including... Trusted by organizations including... \"Engineers loved it instantly—no more debugging after merge, zero maintenance, and no flakes. Once we started using Meticulous, we couldn't imagine working without it.\" Tony Xu Engineering Leader at Dropbox Testing at a new level of robustness 01. Meticulous monitors your daily interactions with your application as you develop it Add a script tag to your local development, staging, and preview URL environments to record sessions. Optional: record production sessions too for additional coverage. Learn More 02. Our AI engine generates a continuously evolving test suite that covers every corner of your application By tracking the code branches executed by each interaction Meticulous curates a suite of visual end-to-end tests that cover of every line of your codebase. Every user flow. Every edge-case. Learn More 03. Open a pull request, and see the impact it will have across user workflows before you hit merge By default Meticulous mocks out the responses from your backend by saving and replaying the original recorded responses - this means side-effect free tests with no false positives from changing data, and no need to set up special test accounts or mock test data for each test run. Just add the recorder script, click to install the integration for your CI and you're good to go. Learn More Never write, fix or maintain a test again: your tests automatically evolve as your app evolves. Iterate at velocity Dramatically increase the speed you can ship reliable regression-free code. Meticulous continually adds new tests as new features or edge cases are introduced, and removes old tests as they become out of date - ensuring your test suite is always up to date and complete, without any intervention required by developers. Built to eliminate all flakes, from the ground up Built from the Chromium level up with a deterministic scheduling engine – making it the only testing tool that eliminates flakes. This technology also allows Meticulous to execute tests at lightning fast speeds. Battle-tested to work with even the most complex applications. \"We piloted the tool, were immediately impressed and rolled it out across the entire engineering organization. Meticulous is unlike anything else, developers love it and it is now an essential guardrail of our software development process.\" Erdem A. Head of Developer Experience at Notion What makes meticulous different from other testing tools for me is the amount of effort we're putting in for the value. We're getting a lot of feedback points across our application for no investment. Colin Hanna Principal Software Engineer at Engine Use in combination with your existing test suite, or as a replacement You can use Meticulous to complement any existing tests you have, or replace your existing tests entirely. Lightning fast testing – at scale Tests are heavily parallelized across a compute cluster, allowing you to test 1000s of screens and get results in under 120 seconds. Integrations & Security Docs get started by adding the meticulous recorder script tag NextJS React Vue Angular Nuxt SvelteKit Add to your _document.js <Head> or /app/layout.tsx <head>: { process .env. NODE_ENV === \" development \" && ( <script data-project-id =\" ... \" src =\" https://snippet.meticulous.ai/v1/meticulous.js \" ></script> )} import { tryLoadAndStartRecorder } from '@alwaysmeticulous/recorder-loader' async function startApp () { // Record all sessions on localhost, staging stacks and preview URLs if (!isProduction()) { await tryLoadAndStartRecorder ({ projectId : ' ... ', isProduction : false",
+   "email_candidates": [
+    {
+     "email": "gabriel@meticulous.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Gabriel Spencer-Harper",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "31b1de4298",
+   "company": "Beam",
+   "website": "https://beam.cloud",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. AI-Native Cloud Platform Beam is cloud platform for AI inference, sandboxes, and agents. Artificial Intelligence, Developer Tools, Open Source, Cloud Computing, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.beam.cloud/]\nHigh-Performance Compute for Agents | Beam {{<({[[ { ([ { {[<[ [ { [ {{ < < [ ([[ {{ [<[([[[ ( {([<[{[([ ( { { {<{{({ { (<<<({{{( [ < < { { ( ( <{< ( {[ ( [[[{<[{{ ( (((< < ( ([ <{<[(((<{(< < <<[ [( ({(( [ [(({<{[<[( { (([{{<[ ( {( < <{<[[ {{ [[ {( ([[{{{{[([ { { [ <([ ( [[[ { <{ {( ( ( ( { [ [ [(< [( [<<[{[[[[((( { <[((<([[ ([ [[{<(( [ {(( ( [[{[[[(<(< ([ {{(<([<([{({< < (< [ [<[[ { [ < ( ( ( (( (<{<(([([ { {({[[{ ( [[< [ { [ (([ < [ [ < { {{[([{{([[{ < { ({ [ ( [{ ( (<( [ [[([ [ <([<({<<( {( [{{{((<<[{ < [[{<({ < ({[{[ ({ <<(<[( { {<[{ < {< ( {<(<{ {{ ({ ( { { New Cloud VMs for Agents · Read the docs ) ]]] ) } > } >> }] )])}>}> > ) ] } ) }] } }]))]]>]> ] ]> ] )}}) } }]>>} ] }]>]})) } }>))}>)]>]} } >}) ) }}>}>>]]] > ] ] ]>]>>)}}>))])]>]}> )> ] ] ]>>}]})>]> ] } ]))]}>] }) ) }]}>}}} ] ]}>) > ] ) ]]]>)}} ] ]>] )} ))>)} ] )> }> >)>] ) })}]}]>])])>})}}}}> ) >>]] ) > ] } )} ]]) ] ] }) }>)>]]>>}} )) )>])] } ]]>>)] } })}]))] } }]] } ] > })>}}) >))}]])}))}}>}]] } }]])}])]] } )] ) ))>>>] ) >)] } }}))]> > ]}> ] >]>>)]) ] >]}]})])]])}] > ]>]) > >)]})})>}]]}>>>>])] } ) ] >>})} ] ]> ) > > >>) > > } >}}>>] }> )} H100 80GB VRAM B200 180GB VRAM RTX 4090 24GB VRAM H200 141GB VRAM RTX 5090 32GB VRAM A100 80GB VRAM Backed by Y Combinator High-Performance Compute for Agents Give every agent an ultrafast computer in the cloud. Boot in seconds, pause and resume for free, and connect GPUs. Starting from $ 0.0306 per hour . Get Started Copy Prompt VM Sandboxes Inference Functions curl -fsSL https://www.beam.cloud/install | sh -s -- -- vm Running in US East · 4 vCPU · 8 GiB · 50 GiB disk $ 0.144 /hr · $0 while stopped Powering products and agents at Performance Agents, Meet Serverless Beam is building the first bare-metal cloud for agents. We provide persistent, forkable microVMs you can expose, pause, network-isolate, and GPU-accelerate, billed only while they run. Resumed in ~1s RUNNING PAUSED RESUMED · ~1s RAM 12.4 / 16 GiB · restored PID PROCESS MEM STATE 412 python agent.py 6.1 G running 977 node server.js 1.8 G running 1203 postgres 2.9 G running 1388 chromium --headless 1.6 G running Memory snapshots Stateful pause and resume RAM and running processes resume in under a second. Disk usage (GiB) Used 23.4 GiB Limit 100 GiB Billed 23.4 GiB PERSISTENT billed · 23.4 GiB free · not billed data/ 11.0 G .cache/hf/ 6.0 G .venv/ 5.0 G repo/ 1.4 G Usage-based storage Fast, persistent local disks Up to 100Gi per machine. Only pay for what you use. Clock speed (GHz) Cores 16 Threads 32 Boost 5.7 GHz 6 4 2 0 typical cloud vCPU 5.7 GHz boost 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 Your VM · bare metal up to 5.7 GHz Typical cloud vCPU ~ 2.6 – 3.6 GHz Raw performance High-performance CPUs and GPUs S-tier hardware, virtualized on bare metal. agent-7f3a.app.beam.cloud Requests 21 Awake 15 min Asleep 45 min GET / VM GET / → awake in ~1s paused paused paused idle → pauses itself 0m 15 m 30 m 45 m 60 m BILLED COMPUTE · LAST HOUR Scale to zero 4 × less 15 min Always on 60 min Pay for what runs Scale to zero Idle VMs pause and wake automatically when invoked. Platform The only cloud your agent needs Agents drive every VM over MCP, while keys, network rules and URLs stay under your control. GPUs, images and volumes are on the same platform. MCP connected MCP tools 100+ Calls 0 / 6 create_vm ubuntu-24.04 · 4 vCPU … fork_vm vm-7f3a → 3 forks run_command pytest -q screenshot desktop · 1280×800 click x 412 · y 268 type_text \"ship it\" vm-7f3a · desktop Ask the agent… Run MCP server The entire cloud, at your fingertips 100+ MCP tools to create, fork, run commands, and drive the desktop: screenshot, click, type. Outbound request vm-7f3a inside the VM $ echo $OPENAI_API_KEY placeholder_openai outbound request Beam egress key swap ✓ api.openai.com real key added ✕ any other host placeholder only responses key removed workspace token in VM none Egress proxy Secrets never enter the machine Your keys are proxied to the VM, so real secrets are never exposed ",
+   "email_candidates": [
+    {
+     "email": "eli@beam.cloud",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Eli Mernit",
+     "role": "Founder"
+    },
+    {
+     "email": "luke@beam.cloud",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Luke Lombardi",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "36bbacd2d7",
+   "company": "Epsilon3",
+   "website": "https://www.epsilon3.io/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Los Angeles, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 12. AI-Powered ERP, MES, and Test Software for Complex Operations Epsilon3 is the AI-Powered ERP, MES, and Test Management Software for Complex Engineering, Manufacturing, & Operations. We are a growing team of engineers from SpaceX, NASA, Google, and Stanford with unique experience planning and executing over 100 space missions. We are applying what we learned to develop web-based solutions that make building and operating advanced systems as efficient, error-free, and enjoyable as possible. Want to join a fully remote, US-based SaaS startup on a mission to solve complex problems in aerospace, energy, defense, maritime, and biotech? Apply today! Commercial Space Launch, SaaS, Space Exploration, B2B, Enterprise Software, B2B, Operations, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.epsilon3.io/]\nEpsilon3® | AI-powered Procedure & Resource Management Software 0 Skip to Content Request a Demo Open Menu Close Menu Request a Demo Open Menu Close Menu Epsilon3 is the operations platform for complex hardware. We run the build, test, operations, and sustainment lifecycle in a single connected platform that gets complex hardware built and in the field. Request a Demo TRUSTED BY THE MOST CONSEQUENTIAL HARDWARE PROGRAMS IN THE COUNTRY WHAT WE DELIVER 98 % fewer execution errors versus paper checklists 20 x faster execution than paper procedures 3 x reduction in procedure management overhead 5 x faster procedure authoring THE PLATFORM One platform. Every capability you need. You are already doing all of this work, across a manufacturing system, a quality system, a maintenance system, a requirements tool, and the spreadsheets are filling every gap between them. Epsilon3 is where that work runs on one record instead of many. THE SOLUTION One connected platform at the core of your operations. One platform, every phase. From design through sustainment, one system holds the program together through every phase, team, and revision. One view, every role. The operator sees the current revision in real time. The engineer pulls a part's full history in a click. The director sees deviation rates and quality across every program. The auditor sees the whole trail immediately. One thread, every part. From the drawing through the build, the test, the deployment, the field event, the repair. Pull on any part of the thread and the program comes with it. Epsilon3 — Without / With SOFTWARE FOR MISSION-CRITICAL OPERATIONS Run Complex Programs Every phase writes to a different place, so nothing adds up to one record. WITH EPSILON3 WITHOUT EPSILON3 3 TOOLS FOR TEST DATA 5 PEOPLE CC-ED SCATTERED. DISCONNECTED. UNAUDITABLE. ONE RECORD — every phase writes to the same source of truth LIVE PROCEDURES Digital Execution SHARED SERVICES One Record One platform. One record. Complete traceability. ARTIFICIAL INTELLIGENCE AI that helps you speed up execution Every suggestion arrives as a proposal you accept or reject, not something you discover after the fact. That's a deliberate break from the agentic tools flooding this market, and it's why our customers actually turn AI on. Underneath, it's grounded in your own operating record: procedures, runs, sign-offs, deviations, test data, telemetry . 01 — Find it faster Ask the record instead of hunting through it. \"Has this valve ever failed checkout?\" \"What changed between Rev 12 and Rev 14?\" Ask across every program you've run and get an answer cited to the exact step, signature, and reading it came from, instead of six people and an afternoon. INSTITUTIONAL MEMORY , MADE QUERYABLE 02 — Decide faster It proposes. You accept. A schedule resequence, a procedure revision, a flagged inconsistency. Each one surfaces as a suggestion you approve or dismiss right where you’re working. Nothing applies itself, and every proposal leaves an audit trail whether you take it or not. HUMAN-IN-THE-LOOP, BY DESIGN. 03—Start faster Productive right away. Onboarding agents walk a new team through configuration and answer from documentation that’s always current. The setup that used to take weeks takes under an hour, and the people who join in year three get the same answers as the people who built it. WEEKS TO UNDER AN HOUR 04—Keep your data yours Never trained on your data. Your data is not used to train models. Each call carries context for a single decision and then forgets it. Model-agnostic by architecture: we swap in better models as they ship, and on-prem or classified programs bring their own, including models you've tuned yourself. BYOM ON-PREM & AIR-GAPPED Ask Answers questions against the full record, cited back to the exact step, run, or reading. Suggest Proposes revisions, resequences, and flags. Surfaced for approval. Applied only when you say so. Prepare Agents coordinate multi-step work acr",
+   "email_candidates": [
+    {
+     "email": "laura@epsilon3.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Laura Crabtree",
+     "role": "Founder"
+    },
+    {
+     "email": "max@epsilon3.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Max Mednik",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

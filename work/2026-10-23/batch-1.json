@@ -1,0 +1,326 @@
+{
+ "leads": [
+  {
+   "id": "1ee31e73f4",
+   "company": "Geektrust",
+   "website": "http://www.geektrust.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: Java, JavaScript, Python, TypeScript",
+   "site_text": "[https://www.geektrust.com/]\nTitle: Geektrust | Because great teams can't wait\n\nURL Source: https://www.geektrust.com/\n\nPublished Time: Thu, 08 Oct 2026 09:16:40 GMT\n\nMarkdown Content:\nWielded by\n\nhumans.\n\nPowered by AI.\n\nAI that interviews like your best engineer.  \n Recruiters who source like your best teammate.\n\nGeektrust brings you this team to  deliver better hires, faster.\n\nTalk to us\n\n![Image 1](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/companies-page/hero-image.webp)\n\n![Image 2](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/companies-page/hero-image.webp)\n\n![Image 3](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/zomato.svg)\n\n![Image 4](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/rapido.svg)\n\n![Image 5](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/companies-page/intuit.webp)\n\n![Image 6](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/target.svg)\n\n![Image 7](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/companies-page/thoughtworks.webp)\n\n![Image 8](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/siemens.svg)\n\n![Image 9](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/v2/website/how-it-works/gojek.png)\n\n![Image 10](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/bigbasket.svg)\n\n![Image 11](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/tcs.svg)\n\n![Image 12](https://geektrust.sgp1.digitaloceanspaces.com/assets/images/company-logos/scripbox.png)\n\n![Image 13](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/common/mcKinsey-full.webp)\n\n![Image 14](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/common/companies/idfc%20logo.webp)\n\n![Image 15](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/common/companies/m2p-og-logo.webp)\n\n![Image 16](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/common/companies/BCG_MONOGRAM.webp)\n\n![Image 17](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/common/companies/axi_logo.webp)\n\n![Image 18](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/companies-page/zensar.webp)\n\n![Image 19](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/zomato.svg)\n\n![Image 20](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/rapido.svg)\n\n![Image 21](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/companies-page/intuit.webp)\n\n![Image 22](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/target.svg)\n\n![Image 23](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/companies-page/thoughtworks.webp)\n\n![Image 24](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/siemens.svg)\n\n![Image 25](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/v2/website/how-it-works/gojek.png)\n\n![Image 26](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/bigbasket.svg)\n\n![Image 27](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/images/v2-static-pages/recruiters/companies/tcs.svg)\n\n![Image 28](https://geektrust.sgp1.digitaloceanspaces.com/assets/images/company-logos/scripbox.png)\n\n![Image 29](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/common/mcKinsey-full.webp)\n\n![Image 30](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/common/companies/idfc%20logo.webp)\n\n![Image 31](https://geektrust.sgp1.cdn.digitaloceanspaces.com/assets/website/common/companies/m2p-og-logo.webp)\n\n![Image 32](https://geektrust.sgp1.cdn.d",
+   "email_candidates": [
+    {
+     "email": "dhanush@geektrust.in",
+     "where": "GitHub member (geektrust) · GitHub commits",
+     "kind": "personal",
+     "name": "Dhanush Gopinath",
+     "role": "Engineer"
+    },
+    {
+     "email": "linkwithjoydeep@gmail.com",
+     "where": "GitHub member (geektrust) · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Joydeep Bhattacharya",
+     "role": "Engineer"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "c5f13e13fd",
+   "company": "Mybankauction",
+   "website": "https://www.mybankauction.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru,karnataka",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python, TypeScript",
+   "site_text": "[https://www.mybankauction.com]\nTitle: Modern Banking Services: A Practical Guide | .Consulting\n\nURL Source: https://www.mybankauction.com/\n\nMarkdown Content:\nThis guide explains the core pillars of today's banking ecosystem and how consumers can use them to their advantage. It covers personal banking, loans, investment services, credit cards, and wealth management with practical tips for smarter decisions.\n\nModern banking services have transformed the way we manage money, offering integrated solutions that combine convenience and efficiency. These services encompass everything from user-friendly interfaces on mobile banking apps to 24/7 customer service and personalized financial advisory. With the growing trend of digital-first banking and the integration of AI technologies, consumers have access to tools that not only streamline financial tasks but also provide insights into their spending patterns. Understanding these tools is essential for making informed financial decisions and optimizing financial health in a rapidly changing world.\n\nBanking has evolved into a seamless mix of in-branch support and powerful digital tools. Advanced security measures such as multi-factor authentication, encryption technologies, and biometrics offer enhanced protection for customer accounts. Tools like personalized budgeting dashboards and real-time transaction alerts empower users by providing detailed insights into their financial activities, leading to smarter savings strategies and more informed spending habits. Financial institutions are continually investing in cybersecurity enhancements to ensure that customers' data remains secure.\n\nFor those financing a home, car, education, or consolidating debt, loans are specifically tailored to fit various needs. A comprehensive understanding of different types of loans—comparing fixed versus variable rates, secured versus unsecured loans, and installment versus revolving credit—can significantly impact financial decisions. Utilizing loan calculators, maintaining a strong credit profile, and consulting with financial advisors can further aid in smart borrowing. Additionally, exploring interest-free periods and refinancing options can offer more favorable terms.\n\nBanks now offer an extensive range of investment services, from traditional brokerage platforms to modern robo-advisors. Understanding individual risk tolerance and financial goals is key to choosing the appropriate investment strategy, whether it be through self-directed accounts or professionally managed portfolios. Regularly diversifying investments, conducting fee analyses, and performing periodic reviews help ensure alignment with long-term aspirations. With the growing interest in sustainable and impact investing, consumers are increasingly leaning towards options that align financial gains with ethical values.\n\nCredit cards, when managed wisely, can enhance credit scores and provide substantial rewards. It's essential to comprehend card terms and optimize benefits by aligning them with personal spending patterns. Resources like credit utilization reports play a critical role in maintaining a solid credit profile. Furthermore, taking advantage of complimentary benefits such as airline miles, cashback rewards, and purchase protections can offer significant value. It's important for consumers to stay informed about changes in terms, and utilizing comparison tools can help identify the best credit card options available.\n\nDigital banking innovations such as mobile wallets and contactless payments are revolutionizing transaction processes. Platforms like Apple Pay and Samsung Pay operate with advanced encryption to protect user financial information. As these technologies advance, keeping abreast of new features such as biometric authentication and virtual card numbers will enhance both security and user experience. Emerging technologies like blockchain, which offer increased transparency and security, are also worth exploring to unde",
+   "email_candidates": [
+    {
+     "email": "myisabeiucy2002@gmail.com",
+     "where": "GitHub commits (Mybankauction)",
+     "kind": "personal",
+     "name": "myisa-4112",
+     "commits": 19
+    },
+    {
+     "email": "surajgupta3553@gmail.com",
+     "where": "GitHub commits (Mybankauction)",
+     "kind": "personal",
+     "name": "builtbysuraj",
+     "commits": 29
+    },
+    {
+     "email": "ashokmommyguy@gmail.com",
+     "where": "GitHub commits (Mybankauction)",
+     "kind": "personal",
+     "name": "ashok",
+     "commits": 19
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "20c230b8e6",
+   "company": "NeoGrowth",
+   "website": "https://neogrowth.in",
+   "title": "Software Engineering (recently funded)",
+   "location": "Mumbai, India",
+   "source": "funding_news",
+   "posted_at": "2026-10-09T08:47:54Z",
+   "posting": "NeoGrowth Raises ₹85 Cr To Expand Digital Lending Capabilities. MSME-focused lending platform NeoGrowth has secured ₹85 Cr ($8.8 Mn) in a mix of debt and equity round led by Dutch development bank FMO, with participation from LeapFrog Investments. The startup is planning to use the fresh capital to scale its digital lending capabilities, deepen market presence across India and expand access to credit for MSMEs. Founded in 2012 by brothers Dhruv and Piyush Khaitan, NeoGrowth offers loans to MSMEs across more than 75 business segments, targeting small businesses that often have difficulty accessing credit. Its lending model also includes daily repayment options and multiple repayment channels. The fresh capital will aid the NBFC in scaling and supporting more MSMEs with timely and accessible formal credit, “enabling more small business owners to pursue their growth aspirations through our financially inclusive lending solutions,” managing director and CEO Arun Nayyar said. The Mumbai-based startup uses its proprietary AI initiatives to strengthen underwriting, portfolio monitoring and risk management. It offers collateral-free loans in the range of ₹5-75 Lakh, through products including NeoCash, NeoCash Insta, NeoCash Express, which cater to different business scales and segments. NeoGrowth manages assets under management (AUM) of nearly ₹2,000 Cr and has engaged with more than 4 Lakh businesses. It has disbursed over ₹16,000 Cr in loans to date. During FY26, NeoGrowth added 17 branches, taking its total branch network to 46 locations in India. NeoGrowth last raised ₹300 Cr in equity funding 2022 , with FMO footing over half the round. Its existing investors also include Omidyar Network, Lightrock, Khosla Impact, Accion Frontier Inclusion Fund–Quona Capital and 360 ONE Asset. The lender has also raised nearly ₹2,000 Cr in debt from 18 lenders between April 2025 and July 2026. The fresh round comes as digital lenders increase focus on MSMEs, which often have difficulty",
+   "site_text": "[https://neogrowth.in]\nTitle: The request could not be satisfied\n\nURL Source: https://neogrowth.in/\n\nWarning: Target URL returned error 403: Forbidden\n\nMarkdown Content:\n## 403 ERROR\n\n* * *\n\n Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.   \n If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.   \n\n* * *\n\nGenerated by cloudfront (CloudFront)\nRequest ID: df3GdD7mNf50Jdza7uKl-3yDSS7ZHENndOyujLjUBbc_VZIbrcjSrw==\n",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded",
+   "referral": false
+  },
+  {
+   "id": "7192a1fd2d",
+   "company": "Robert Bosch Centre for Cyber Physical Systems, IISc",
+   "website": "https://cps.iisc.ac.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, Jupyter Notebook, Python",
+   "site_text": "[https://cps.iisc.ac.in]\nTitle: A simple HTML document\n\nURL Source: https://cps.iisc.ac.in/\n\nWarning: Target URL returned error 502: Bad Gateway\n\nMarkdown Content:\n\"The website is under maintenance\"\n",
+   "email_candidates": [
+    {
+     "email": "srikrishna3118@gmail.com",
+     "where": "GitHub commits (rbccps-iisc)",
+     "kind": "personal",
+     "name": "acharya",
+     "commits": 22
+    },
+    {
+     "email": "duttaabhigyan.1998@gmail.com",
+     "where": "GitHub commits (rbccps-iisc)",
+     "kind": "personal",
+     "name": "Abhigyan Dutta",
+     "commits": 25
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "864a833fe3",
+   "company": "EdYoda",
+   "website": "http://www.edyoda.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, Karnataka",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Jupyter Notebook, Python",
+   "site_text": "[http://www.edyoda.com]\nTitle: EdYoda Digital University - LIVE Classes from top 1% Industry Experts\n\nURL Source: http://www.edyoda.com/\n\nMarkdown Content:\n![Image 3: close icon](http://www.edyoda.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon-close-black.85bc6cf6.png&w=48&q=75&dpl=dpl_9BwYgWFpyUrhRysbsyKfenbS3Snh)\n\n*   [AI Labs](http://www.edyoda.com/ai-labs/all) \n\n*   Gen AI![Image 4: Dropdown Icon](http://www.edyoda.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftop-menu-dropdown-black.60b19105.png&w=32&q=75&dpl=dpl_9BwYgWFpyUrhRysbsyKfenbS3Snh)   \n\n[Microsoft Azure AI Engineer Associate (AI-200) Certification](http://www.edyoda.com/micro-degree/microsoft-azure-ai-engineer-associate-micro-degree)\n\n[Generative AI & Machine Learning Engineer - Specialist](http://www.edyoda.com/micro-degree/generative-ai-machine-learning-engineer-micro-degree)\n\n[Forward Deployed Engineer (FDE) CareerTrack](http://www.edyoda.com/micro-degree/forward-deployed-engineer-career-track-micro-degree)\n\n[Agentic AI with RAG Specialization](http://www.edyoda.com/micro-degree/agentic-ai-with-rag-specialization-micro-degree)\n\n[AI Solutions Architect](http://www.edyoda.com/micro-degree/ai-solutions-architect-micro-degree)\n\n[AI Platform Architect](http://www.edyoda.com/micro-degree/ai-platform-architect-micro-degree)\n\n[AI Engineer Career Track](http://www.edyoda.com/micro-degree/ai-engineer-career-track-micro-degree)\n\n[AI Product Management](http://www.edyoda.com/micro-degree/ai-product-management-micro-degree)\n\n[AI Agent Development - Specialist](http://www.edyoda.com/micro-degree/ai-agent-development-micro-degree)\n\n[Generative AI Engineer - Specialist](http://www.edyoda.com/micro-degree/generative-ai-using-python-micro-degree)\n\n[RAG Specialization for Agentic AI](http://www.edyoda.com/micro-degree/rag-specialization-micro-degree)\n\n[AI Entrepreneurship](http://www.edyoda.com/micro-degree/ai-automation-entrepreneurship-micro-degree)\n\n[Generative AI & AI Agent Development Engineer - Specialist](http://www.edyoda.com/micro-degree/genai-multi-aiagent-developer-micro-degree)\n\n[AI for Leaders - Strategy, Governance & Transformation](http://www.edyoda.com/micro-degree/ai-for-leaders-micro-degree)\n\n[Generative AI Engineer - Practitioner](http://www.edyoda.com/micro-degree/generative-ai-engineer-practitioner-micro-degree)\n\n[AI Platform Engineer - MLOps, LLMOps & AgentOps](http://www.edyoda.com/micro-degree/mlops-architect-micro-degree)\n\n[Generative AI & AI Agents without Coding](http://www.edyoda.com/micro-degree/generative-ai-for-non-coder-micro-degree)\n\n[Forward Deployed Architect (FDA) CareerTrack](http://www.edyoda.com/micro-degree/forward-deployed-architect-career-track-micro-degree)\n\n[AI Agent deployment on Multi-cloud](http://www.edyoda.com/micro-degree/ai-agent-deployment-on-aws-azure-gcp-micro-degree)\n\n[Generative AI & Agentic AI CareerTrack](http://www.edyoda.com/micro-degree/generative-ai-and-ai-agent-career-track-micro-degree)\n\n*   Cloud![Image 5: Dropdown Icon](http://www.edyoda.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftop-menu-dropdown-black.60b19105.png&w=32&q=75&dpl=dpl_9BwYgWFpyUrhRysbsyKfenbS3Snh)   \n\n*   Job Programs![Image 6: Dropdown Icon](http://www.edyoda.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftop-menu-dropdown-black.60b19105.png&w=32&q=75&dpl=dpl_9BwYgWFpyUrhRysbsyKfenbS3Snh)   \n\n*   Drone & Robotics![Image 7: Dropdown Icon](http://www.edyoda.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftop-menu-dropdown-black.60b19105.png&w=32&q=75&dpl=dpl_9BwYgWFpyUrhRysbsyKfenbS3Snh)   \n\n*   Cybersecurity![Image 8: Dropdown Icon](http://www.edyoda.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftop-menu-dropdown-black.60b19105.png&w=32&q=75&dpl=dpl_9BwYgWFpyUrhRysbsyKfenbS3Snh)   \n\n*   Data Engineer![Image 9: Dropdown Icon](http://www.edyoda.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftop-menu-dropdown-black.60b19105.png&w=32&q=75&dpl=dpl_9BwYgWFpyUrhRysbsyKfenbS3Snh)   \n\n*   Entrepreneurship![Image 10: Dropdown Icon](http://w",
+   "email_candidates": [
+    {
+     "email": "a.baliyan008@gmail.com",
+     "where": "GitHub commits (edyoda)",
+     "kind": "personal",
+     "name": "ankit",
+     "commits": 10
+    },
+    {
+     "email": "awantikdas@gmail.com",
+     "where": "GitHub commits (edyoda)",
+     "kind": "personal",
+     "name": "Kunal",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "f42f78f123",
+   "company": "DREAM:Lab",
+   "website": "http://www.dream-lab.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "IISc, Bangalore, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Public Repository of DREAM:Lab. Unless noted otherwise, all public repos are under Apache License 2.0. Languages: Jupyter Notebook, OpenQASM, Python",
+   "site_text": "[http://www.dream-lab.in]\nTitle: Distributed Research on Emerging Applications & Machines (DREAM:Lab)\n\nURL Source: http://www.dream-lab.in/\n\nMarkdown Content:\nThe unprecedented ability to collect massive datasets from smart city sensors, autonomous vehicles and fintech platforms offers grand challenges for**data-driven computing** to leverage advances in **machine learning** and analytics for **scientific and social impact**. At the same time,**computing infrastructure**is undergoing swift changes both in architecture and resource access models, ranging from smartphones and **edge accelerators** like Nvidia Jetson, to **cloud**and **quantum computing**. _Distributed computing_ across dozens to 100s of resources is the norm rather than the exception.\n\nTranslating this opportunity to **transformative advances** requires advances in **distributed machine learning, algorithms and software platforms**. This includes _novel programming abstractions_ to compose ML applications over new classes of datasets such as video streams and dynamic graphs,_innovative algorithms_ that can make use of the potential of such abstractions to scale their techniques, and _execution platforms_ that leverage ML for transparent, resilient, and efficient usage of distributed computing facilities.\n\n> _The Distributed Research on Emerging Applications and Machines Lab (**DREAM:Lab**) at the Indian Institute of Science (**IISc**) focuses on distributed systems research that enables the effective and efficient use of emerging distributed data and computing systems, using resilient software architectures, innovative computing and data platforms, and distributed algorithms and analytics, to support scalable machine learning and societal applications, which can lead to transformative advances to science and society._\n\nHoused at the[Indian Institute of Science](http://www.iisc.ac.in/)‘s[Department of Computational and Data Sciences (CDS)](https://web.archive.org/web/20210419221006/http://cds.iisc.ac.in/), a unique inter-disciplinary department in India offering programs on computational and data sciences, the DREAM:Lab explores the verticals of the data science stack, from scalable analytics to Big Data platforms to emerging distributed infrastructure.[**Prof. Yogesh Simmhan**](https://web.archive.org/web/20210419221006/http://cds.iisc.ac.in/faculty/simmhan/)heads the[group](https://web.archive.org/web/20210419221006/https://dream-lab.cds.iisc.ac.in/people/), and is joined by an enthusiastic **team of PhD and Masters students, research staff and interns** who conduct world-class research that is published to [top-tier conferences and journals](https://cds.iisc.ac.in/faculty/simmhan/#pubs), and released as [open source artifacts](https://github.com/dream-lab/). We also actively collaborate with industry and government agencies such as **IBM Research, Microsoft Research, Accenture, VMWare, Facebook**, etc. and with government agencies such as **NPCI, BWSSB**, etc.\n\n## **PhD and MTech Research Admissions Open at the DREAM:Lab, IISc**!\n\nEmbark on a research journey in**distributed systems**and **scalable machine learning** at India’s top university! Explore**scalable ML, cloud, edge computing, quantum computing, blockchain, and graph analytics**.\n\n## **Why Us?**\n\n*   Work with**top-tier faculty** and **top students in India**.\n*   Engage in**high-impact projects** and **publish papers at leading venues**.\n*   Access to**cutting-edge accelerators and distributed computing facilities**.\n*   Collaborate with **industry and government agencies** for transnational research.\n\n## **Seeking**\n\n*   Candidates with a strong CS background.\n*   Programming, data structures, algorithms, ML and hands-on systems skills\n*   Passion for research and innovation.\n\n## _**Apply Now!**_\n\n**[IISc Admissions](https://iisc.ac.in/admissions/research-programmes/#ffs-tabbed-120)** are due by **March 22, 2024**. Select the **Department of Computational and Data Sciences (CDS)** in your preferen",
+   "email_candidates": [
+    {
+     "email": "tuhinkhare3@gmail.com",
+     "where": "GitHub commits (dream-lab)",
+     "kind": "personal",
+     "name": "tuhinkhare",
+     "commits": 13
+    },
+    {
+     "email": "roshini22ramesh@gmail.com",
+     "where": "GitHub commits (dream-lab)",
+     "kind": "personal",
+     "name": "Roshini Ramesh",
+     "commits": 3
+    },
+    {
+     "email": "chandrachudpati@gmail.com",
+     "where": "GitHub commits (dream-lab)",
+     "kind": "personal",
+     "name": "Chandrachud Pati",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "01cb2af5fa",
+   "company": "Trinkerr Learning Technologies Private Ltd",
+   "website": "https://trinkerr.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore, Karnataka, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript",
+   "site_text": "[https://trinkerr.com]\nTitle: \n\nURL Source: https://trinkerr.com/\n\nPublished Time: Mon, 15 Sep 2025 15:25:05 GMT\n\nWarning: This page contains iframe that are currently hidden, consider enabling iframe processing.\n\nMarkdown Content:\nCopyright © 1999-2026 GoDaddy, LLC. All rights reserved.[Privacy Policy](https://trinkerr.com/#!)\n\nDisclaimer: References to any specific company, product or services on this Site are not controlled by GoDaddy.com LLC and do not constitute or imply its association with or endorsement of third party advertisers.\n",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "29519f0f72",
+   "company": "Bangalore Opensource Java User Group",
+   "website": "http://bangalorejug.org/",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: HTML, Java. Topics: community, java, javausergroups",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "iamadityasharma7@gmail.com",
+     "where": "GitHub commits (bangalorejug)",
+     "kind": "personal",
+     "name": "Aditya Sharma",
+     "commits": 38
+    },
+    {
+     "email": "sk.jshree@gmail.com",
+     "where": "GitHub commits (bangalorejug)",
+     "kind": "personal",
+     "name": "Jayashree S Kumar",
+     "commits": 5
+    },
+    {
+     "email": "sathishkumar.thiyagarajan@gmail.com",
+     "where": "GitHub commits (bangalorejug)",
+     "kind": "personal",
+     "name": "sathishk",
+     "commits": 18
+    },
+    {
+     "email": "rm.haripriya@gmail.com",
+     "where": "GitHub commits (bangalorejug)",
+     "kind": "personal",
+     "name": "rmhari",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "3405ad827b",
+   "company": "Bangalore Ruby User Group",
+   "website": "http://bangaloreruby.org",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bangalore",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: CSS, CoffeeScript, JavaScript, Ruby",
+   "site_text": "[https://bangaloreruby.org/]\nTower Rush India 2026: Crash Game with Instant UPI Payouts Tower Rush Game ☰ Published: June 17, 2026 · Updated: June 17, 2026 Tower Rush Game 2026 — Play Slots Online with Instant Rewards Tower Rush has rapidly established itself as one of the most thrilling arcade-style crash experiences available at online gambling platforms today. Developed by Galaxsys, this fast-paced title replaces traditional reels and paylines with a captivating construction mechanic where players stack floors to build an ever-growing tower. Each successfully placed floor increases your multiplier, but one misstep and the entire structure can come tumbling down — taking your potential winnings with it. The tower rush game tension between greed and caution is what makes every single round unforgettable. Get Bonus ☰ Table of Contents ▼ 1 Introduction to Tower Rush by Galaxsys 2 Theme, Design, and Visual Atmosphere 3 Bonus Features and Special Floor Mechanics 4 General Specifications and Key Features 5 Playing in Demo Mode versus Real Money 6 Symbols, Payouts, and Multiplier Structure 7 Compatibility Across Devices and Platforms 8 Mathematical Model and Statistical Foundation 9 Strategies and Practical Tips for Success 10 Pros and Cons — An Honest Assessment 11 Choosing a Safe Platform for Real Money Play 12 Complete Gameplay Walkthrough 13 Understanding Provably Fair Technology 14 Final Verdict on Tower Rush 15 Frequently Asked Questions about Tower Rush Introduction to Tower Rush by Galaxsys Tower Rush is a quick-fire crash title produced by Galaxsys, a studio that has built its reputation on delivering innovative turbo games and skill-influenced casino entertainment. Unlike conventional slot machines that rely on spinning reels and matching symbols, Tower Rush introduces an entirely different paradigm. Players construct a tower by placing floors one at a time, and with each successful placement the payout multiplier climbs higher. What truly separates this title from other instant games is the constant tension it generates. At any moment during a round, you can choose to cash out your winnings and walk away with a guaranteed payout tied to your current multiplier. Alternatively, you can push your luck by adding another floor, chasing bigger rewards while accepting the very real possibility that the tower will crash and erase your accumulated gains. Galaxsys has infused the experience with several proprietary bonus mechanics that add layers of unpredictability. The Frozen Floor, Temple Floor, and Triple Build bonus each appear randomly during gameplay, offering players unexpected advantages that can dramatically shift the outcome of a round. These features ensure that no two sessions ever feel identical. Why Galaxsys Created This Title Galaxsys recognized a gap in the market for crash games that offered more than a simple ascending multiplier line. By wrapping the core mechanic in a construction theme and adding interactive bonus floors, the studio created something that appeals to both casual players seeking quick entertainment and experienced gamblers looking for strategic depth. Core Appeal and Player Base The primary audience for Tower Rush includes fans of high-speed decision-making, crash game enthusiasts, and players who appreciate transparent, provably fair technology. Because each round lasts only seconds, the title is perfect for short gaming sessions during breaks or commutes. How It Compares to Other Crash Games While many crash games feature a single rising multiplier that can bust at any moment, Tower Rush differentiates itself through its floor-by-floor construction metaphor and the inclusion of special bonus events. The Frozen Floor mechanic has no direct equivalent in most competing titles, and the Temple Floor wheel of fortune adds a layer of excitement that purely numerical crash games simply cannot replicate. Theme, Design, and Visual Atmosphere Although Tower Rush is fundamentally an arcade crash experie",
+   "email_candidates": [
+    {
+     "email": "arunagw@gmail.com",
+     "where": "GitHub commits (bangaloreruby)",
+     "kind": "personal",
+     "name": "Arun Agrawal",
+     "commits": 13
+    },
+    {
+     "email": "hemanth.hm@gmail.com",
+     "where": "GitHub commits (bangaloreruby)",
+     "kind": "personal",
+     "name": "hemanth.hm",
+     "commits": 6
+    },
+    {
+     "email": "swanand.pagnis@gmail.com",
+     "where": "GitHub commits (bangaloreruby)",
+     "kind": "personal",
+     "name": "Swanand Pagnis",
+     "commits": 11
+    },
+    {
+     "email": "emil.soman@gmail.com",
+     "where": "GitHub commits (bangaloreruby)",
+     "kind": "personal",
+     "name": "Emil Soman",
+     "commits": 6
+    },
+    {
+     "email": "vkanakala@gmail.com",
+     "where": "GitHub commits (bangaloreruby)",
+     "kind": "personal",
+     "name": "Vamsee Kanakala",
+     "commits": 4
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "3541efa7d4",
+   "company": "Cuttle.ai",
+   "website": "https://play.octopus.cuttle.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "Bengaluru, India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Platform for creating next generation insights. Languages: Go, JavaScript. Topics: interpreter, nlp, nlu",
+   "site_text": "",
+   "email_candidates": [
+    {
+     "email": "melvinodsa@gmail.com",
+     "where": "GitHub commits (cuttle-ai)",
+     "kind": "personal",
+     "name": "Melvin Davis",
+     "commits": 38
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  }
+ ]
+}

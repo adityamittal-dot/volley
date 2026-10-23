@@ -1,0 +1,305 @@
+{
+ "leads": [
+  {
+   "id": "842d5d4864",
+   "company": "Elyos AI",
+   "website": "https://www.elyos.ai/",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. AI Customer Service Agents for trades and field services Elyos AI is a fully autonomous AI Agent, built specifically for trades and field services businesses. Artificial Intelligence, SaaS, B2B, AI Assistant, B2B, Operations, United Kingdom, Europe",
+   "site_text": "[https://elyos.ai/]\nElyos AI | AI Agents for Field Services & Trades The AI Workforce built for trades & field services. Grow your business with AI agents Get started Our Agents Play Play Listen to a call Hundreds are already growing their business with AI Agents. Join us. WHAT WE DO Meet our AI Agents Learn how we grow your business. Out-of-hours AI Agent Never miss a call. Ever. Keep your business running with an automated on-call process Learn More Daytime AI Agent A fully autonomous customer service rep. Learn more Outbound campaigns Grow your business with custom campaigns, speed to lead, sales exec Learn more Operator Ask your business a question, get the answer in seconds, then have Operator go and act on it. Learn more Email Agent Every email answered in under two minutes, and work orders booked while your competitors' inboxes are still unread. Learn more Field Engineer AI Assistant For operators bleeding time to missing job notes - and admins who can't invoice until they've chased the engineer Learn more WHAT OUR CUSTOMERS SAY Success Stories \"It's a software that can grow with the company. As your business scales, it's there to grow with you\" Gordon Mack Operations Director, James Frew Ltd Read the case study \"AI really is the future. We have all six Elyos AI Agents live across our business and are growing quicker than ever.\" Carl Enser CEO, GasCare Group \"It takes time to hire and every time we win a new contract we take on more customers and more work. Our AI Agents give us the benefit of flexibility and scale, especially if you want to grow fast.\" Lincoln Smith Managing Director, Custom Heat \"We have been using the appointment confirmation agent to reduce our no-access rates and it's working well. Our customers have actually taken to AI surprisingly well! We have the Out-of-hours AI Agent supporting emergency calls as well and it saves us dealing with poor performing outsourced providers.\" Tejas Mehta Managing Director, Amax Fire and Security \"We’ve had a great experience with Elyos AI. The team is really impressed by it. We are now booking a lot of new appointments that we would have previously missed.” Guy Holdsworth Hunt Managing Director, H2 Property Services AI, built for trades and field services AI is making already great trades businesses, unstoppable. Automate office tasks and boost engineering output. Grow your business Grow your business Trained AI Sales Executives to help you scale Learn More Scheduling, but powered by AI Jobs automatically booked at the right time, in the right place. Always optimised. Learn more Never miss a call. Your AI Agent is always on. Learn More Customer Insights Boost customer satisfaction Understand your customers better and improve your service with the AI powered Elyos insights Learn more Automate admin Streamlined operations Fully integrated with your job booking platform, no more time wasted on admin Learn More Field engineering expertise AI built specifically for trades and field services. Join our community. Learn more Our Agent performance Elyos AI Agents transform businesses. Experience increased efficiency, more job bookings and improved customer service. > 96% Customer satisfaction After a call with one of our AI Agents. > 80% Leads convert to jobs Turn leads into loyal customers > 30% Reduce cost base Manage your admin overheads with AI Blog Insights for your Business News and insights to grow your business. A note from the Founders We've been heads down building, and today we’re excited to share some news about what we've been up to at Elyos AI. Read more AI is Going to Make Great Trades Businesses, Unstoppable The companies figuring out how to use AI are becoming the local businesses engineers actually want to work for. These businesses will soon become unstoppable. Read more GasCare: Powering Growth with AI \"AI really is the future. We have all Elyos AI Agents live across our business and are growing quicker than ever.\" - Carl, GasCare CEO Read more View all Ge",
+   "email_candidates": [
+    {
+     "email": "adrian@elyos.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Adrian Johnston",
+     "role": "Founder"
+    },
+    {
+     "email": "philippa@elyos.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Philippa Brown",
+     "role": "Founder"
+    },
+    {
+     "email": "pstrav@hotmail.com",
+     "where": "YC profile · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Panos Stravopodis",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "8a02c06721",
+   "company": "Interfaze",
+   "website": "https://interfaze.ai",
+   "title": "Engineering (YC Spring 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. AI model built for high accuracy deterministic tasks Interfaze is an AI model built on a new architecture that merges specialized DNN/CNN models with transformers for tasks that require deterministic output and high consistency like Document intelligence, Object detection, Classification, Audio understanding and more. Interfaze outperforms large lab models like Gemini flash, Claude Sonnet and the GPT-5.4 mini series Architecture paper: https://arxiv.org/abs/2602.04101 Full open benchmarks: https://interfaze.ai/leaderboards B2B, Infrastructure, United States of America, America / Canada",
+   "site_text": "[https://interfaze.ai/]\nA model built for deterministic tasks - Interfaze Interfaze we're hiring models pricing help docs blog sign in Backed by Combinator A model built for deterministic tasks A new model architecture for deterministic tasks achieving the highest accuracy, precision and consistency for tasks like OCR, Audio understanding, Structured Data Extraction and more Build now -> Setup with agents Vision Web Audio Object Classify Compute Interfaze 1 Lite 1.1 Extract all text Drop a PDF or image, or click to browse One file, up to 20MB Try one: ID card Financial document Medical memo Government form Verifying your browser before you can run the demo... Trusted by builders at Works with any AI SDK Official SDKs for TypeScript and Python, and chat completion API compatible so it works with every AI SDK or framework out of the box Interfaze SDK Vercel AI SDK LangChain SDK typescript python typescript typescript python import { Interfaze, responseFormat } from \"interfaze\" ; import { z } from \"zod\" ; const interfaze = new Interfaze ({ apiKey: \"<your-api-key>\" }); const IDSchema = z. object ({ first_name: z. string (). describe ( \"First name on the ID\" ), last_name: z. string (). describe ( \"Last name on the ID\" ), dob: z. string (). describe ( \"Date of birth on the ID\" ), driver_licence_number: z. string (). describe ( \"Driver licence number on the ID\" ), }); const response = await interfaze.chat.completions. create ({ messages: [ { role: \"user\" , content: [ { type: \"text\" , text: \"Extract the details from this ID\" }, { type: \"image_url\" , image_url: { url: \"https://r2public.jigsawstack.com/interfaze/examples/id.jpg\" , }, }, ], }, ], response_format: responseFormat (z. toJSONSchema (IDSchema), \"id_schema\" ), }); console. log ( JSON . parse (response.choices[ 0 ]?.message.content ?? \"{}\" )); Setup with agents Models View models -> Pick by accuracy, context size, or whether you want to self-host. Interfaze 1 Our flagship model for the highest accuracy on deterministic tasks. Input $1.50 / MTok Output $3.50 / MTok Context window 1M tokens Max output 32k tokens Reasoning Available Input Text Images Audio File Video Interfaze 1.1 Lite Open weights Smaller open weight model. Available for self-hosting. Input $0.85 / MTok Output $1.50 / MTok Context window 128k tokens Max output 32k tokens Reasoning Available Input Text Images Audio File Deterministic accuracy Consistent, high-precision results built for repeatable, production tasks. Verifiable outputs Confidence scores and bounding boxes you can build real rules on. Multimodal input Text, images, audio, files, and video handled in a single model. Multilingual by default Understands 100+ languages across every supported modality. Controllable Handles complex instructions for workflow with configurable params. Intelligence Optimal reasoning capabilities for complex understanding tasks. Model Comparison Full breakdown -> Overview OCRBench V2 olmOCR RefCOCO VoxPopuli-Cleaned-AA SOB Value Acc Spider-2.0-Lite GPQA Diamond MMMLU MMMU-Pro Breakdown *Each axis is normalized per benchmark so shapes are comparable. VoxPopuli (audio) is excluded here; see its tab for scores. Verifiable outputs OCR docs -> Data you can verify and build rule based systems on with confidence scores, bounding boxes and more { \"first_name\" : { \"value\" : \"WESTON COLE\" , \"confidence\" : 0.99 , \"bounds\" : { \"top_left\" : { \"x\" : 866 , \"y\" : 701 }, \"bottom_right\" : { \"x\" : 992 , \"y\" : 737 } } }, \"last_name\" : { \"value\" : \"BAILEY\" , \"confidence\" : 1.0 , \"bounds\" : { \"top_left\" : { \"x\" : 861 , \"y\" : 739 }, \"bottom_right\" : { \"x\" : 991 , \"y\" : 774 } } }, \"age\" : { \"value\" : 61 , \"note\" : \"Derived from date of birth 05/01/1965 as of 2026-06-28\" , \"confidence\" : 0.98 , \"bounds\" : { \"top_left\" : { \"x\" : 865 , \"y\" : 1008 }, \"bottom_right\" : { \"x\" : 1063 , \"y\" : 1044 } } }, \"eye_color\" : { \"value\" : \"BLU\" , \"confidence\" : 1.0 , \"bounds\" : { \"top_left\" : { \"x\" : 1030 , \"y\" : 1078 }, \"bottom_right\" : { \"x\" : 1095 , \"y\" : 1111 } }",
+   "email_candidates": [
+    {
+     "email": "yoeven@interfaze.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Yoeven D Khemlani",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "harsha@interfaze.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Harsha Vardhan Khurdula",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "8caa5a29c9",
+   "company": "Simbie AI",
+   "website": "http://www.simbie.ai",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. We get patients to their next appointment SaaS, Health Tech, AI, Healthcare, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.simbie.ai/]\nAI Medical Staff | 24/7 Patient Support & Cost Savings Skip to content Voice AI Agent AI AGENT Patient Registration Scheduling & Refills Patient Education Pre-Visit Intake Features feature Inbound & Outbound Calls EMR Agent Chart Documentation Resources RESOURCES About Integrations Blogs Contact About Blogs Contact Contact See how it works Transform your practice with AI clinical agents Automate all follow-up work after visits: From results to orders, refills and scheduling. See how it works Calculate your savings Built by researchers and physicians from Administrative overload is draining healthcare practices High turnover & training costs Constantly hiring and training new staff drains time and resources, leaving practices stretched thin. Human errors & inefficiencies Manual processes lead to mistakes, delays, and frustrated patients-costing practices time, money, and quality of patient care. Physician & staff burnout Overworked staff and doctors are burning out, impacting morale and patient satisfaction. Your 24/7 AI staff: smarter, faster, and always on Imagine a world where your practice runs smoothly-appointments are scheduled, refills are managed, and patients are happy – all without adding to your workload. Patient Registration Scheduling & Refills Patient Education Pre-Visit Intake Smart Call Management​ Inbound & Outbound Calls Registers & schedules patients Collects pre-visit HPI & fills late cancellations Reiterates patient education discussed in visit Learn more Smart Monitoring EMR Agent Conducts pre-visit tasks & reminders Completes medication reconciliation Monitors Simbie's actions & allows for manual takeover at any point in the process Learn more Practice Optimized Chart Documentation Translates all information gathered in patient calls directly into the patient chart Queues refills & reads chart notes to appropriately answer questions Gathers & documents patient questionnaires Learn more integrations Seamlessly integrates into your existing workflows Connect Simbie AI with your existing systems to automate error-prone, manual tasks—freeing up your staff to focus on what matters most: patient care. See all integrations Why customers choose Simbie AI Always-on patient access 24/7 coverage, 0 missed calls Never miss a patient 100s of simultaneous phone calls, 0 second hold time Slash staff costs 60% cost savings on administrative staff Customer testimonials Simbie AI has been a game-changer for our practice. We never miss a call, are there for our patients 24/7 without any wait times, and my staff can finally focus on the patients walking in the door. My staff and patients alike are singing Simbie’s praises. Dr. Marwaha Internal Medicine Everything you need to know about Simbie AI How does Simbie AI work? Simbie AI Agents integrate with your existing systems and are customized to your specific practice needs and workflows. Can Simbie make outbound calls? Yes. Simbie can both receive from and place calls to patients, other providers, pharmacies, etc. Is Simbie AI secure and HIPAA-compliant? Yes. Simbie AI is secure and HIPAA-compliant. All data is stored securely. How does Simbie AI reduce costs? Simbie’s cost is based on utilization, so you’re only paying for direct value adds to your practice. Patient testimonials “Perfect as always! Excellent experience and invaluable knowledge—thank you for your help.” Margaret T. Refills “Ten out of ten! Quick response, no waiting, no voicemail.” James L. Patient Intake \"Phenomenal. It is unbelievable groundbreaking.\" Dorothy K. General Inquiry \"If I rate this from one to ten, this will be a twenty. Amazing. Night and day better.\" Robert P. Refills “Good experience—loved the personal touch instead of voicemail.” Evelyn S. Scheduling \"This is the best AI I've talked to yet. My experience calling the clinic has gotten significantly better since they started using it. A fantastic improvement.\" James Wilson General Inquiry \"Shockingly lifelike and genu",
+   "email_candidates": [
+    {
+     "email": "founders@simbie.ai",
+     "where": "https://www.simbie.ai/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "9bd280cd76",
+   "company": "Dart",
+   "website": "https://www.dartai.com",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. The work and agent management platform Dart is a fully-featured project management tool that lets you chat with AI to create tasks, plan roadmaps, generate reports, and handle any other PM work. You can then use customizable agents to complete work across every role. Thousands of teams use Dart in order to chat with their tasks, plan better, and eliminate regular PM chores from their schedule, freeing up seven hours per week to focus on other work. Artificial Intelligence, Generative AI, B2B, Productivity, AI, B2B, Productivity, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.dartai.com/]\nThe Workplace for the Agent Era - Dart Dart launched on Product Hunt today âcheck it out! The workplace for the agent era Create, manage, and orchestrate agents alongside your team. Keep every handoff and result connected to the work. Sign up for free Join over 100,000 teams on Dart Your whole team in one place People and agents, working together Bring your teammates, build custom agents, and connect the agents you already use. Manage them all in Dart, with shared tasks, context, and goals. Your team Teammates, custom agents, and connected agents in one shared workspace Laurel Pike Product lead Sets priorities, assigns tasks to teammates and agents, and follows everyoneâs progress in one place Planning with Jamie Jamie Park Software engineer Builds with Codex, reviews Robâs feedback, and keeps technical decisions connected to the teamâs tasks Building with Codex Codex Coding agent Builds features and fixes bugs from assigned tasks, then shares changes with Jamie and Rob for review Building Jamieâs feature Sam Rivera Product designer Shapes the experience and reviews designs, keeping feedback and decisions alongside the teamâs work Reviewing designs with Laurel Rob Code review agent Reviews code against your teamâs standards, flags issues, and shares findings with Jamie and Sam Reviewing Codexâs changes Sara Customer support agent Drafts customer replies, spots recurring issues, and shares feedback with Laurel to guide priorities Sharing feedback with Laurel Add teammate or agent Agent integrations Bring the agents you already use Connect coding, research, and design agents to Dart, with access to models from the providers your team trusts Codex Assign coding work and review the result from the task Claude Code Delegate implementation work with repository context Cursor Send development tasks to background agents Manus Delegate research, planning, and operational work OpenClaw Connect an OpenClaw agent directly to Dart tasks Grok Delegate research, analysis, and problem-solving from a Dart task Hermes Run multi-step workflows with a learning agent Devin Hand off engineering tasks that Devin can plan, code, test, and debug Plus more models from Gemini Meta Amazon Cohere Thinking Machines Multi-agent orchestration Let agents plan, delegate and deliver together From the first brief to the final result, Dart gives agents one shared plan and the authority to carry work through to completion. A lead agent breaks down the goal and coordinates specialists along the way. People step in when their context or judgment helps. Lead agents Turn the goal into a plan, coordinate specialists, and keep execution moving Specialist agents Research, build, design, and analyze in parallel or in sequence Your team Set direction, follow progress, and step in when context or judgment adds value Research Plan Design Build Review Ship G Push notifications Search Workflow AI chat Summarize notification needs research Sara In progress Scope push notifications planning Laurel To-do Design notification settings design Sam To-do Build push notifications build Codex To-do Review notification delivery review Rob To-do Ship push notifications release Jamie To-do Summarize notification needs Properties In progress Sara Customer support agent Description Review customer feedback about missed mentions and task assignments. Summarize which updates need push notifications and share the findings with Laurel. Relationships Blocks Scope push notifications Put your first agent to work Connect an agent you already use, give it a task, and watch the result land on the plan Sign up for free Free plan Â· No credit card required Use cases Agents for every team Give agents a goal and the context they need. They can run the work from start to finish, or bring people in when it helps. Product & engineering Marketing Sales Customer success Design People & HR Operations Product & engineering Marketing Sales Customer success Design People &",
+   "email_candidates": [
+    {
+     "email": "milad@dartai.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Milad Malek",
+     "role": "Founder"
+    },
+    {
+     "email": "zack@dartai.com",
+     "where": "YC profile · GitHub commits",
+     "kind": "personal",
+     "name": "Zack Swafford",
+     "role": "Technical Cofounder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "9e9eab4eb8",
+   "company": "Haven",
+   "website": "http://www.havenservicing.com",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "New York City, NY, USA; New York, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. Homeownership reimagined for the 21st century. Haven is re-imagining the $11 trillion U.S. mortgage industry, with a focus on engaging the 53 million homeowners with a mortgage. The incumbent technologies used by mortgage lenders and servicers are decades old, and the borrowers who are served by them increasingly demand modern digital experiences and frictionless financial products throughout the home journey. Haven’s mission is to deliver them at a transformational scale, and to improve lives in one of the world’s largest asset classes. The company is well capitalized and backed by top fintech and mortgage venture funds and led by seasoned veterans of tech startups and financial marketplaces. Fintech, Proptech, Fintech, Credit and Lending, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://havenservicing.com/]\nEngage & retain more homeowners – Haven How it Works Use Cases Company Get a Demo Meet Haven Get the most out of MSR Drive meaningful engagement via servicing — helping you understand, educate, and convert borrowers for mortgage & beyond. Get a demo 1.4M+ homeowners 11% high-intent leads generated 11+ offer types The most effective way to retain homeowners Predict prepayment and deliver personalized offers that convert by making the tough decisions of homeownership simple and intuitive. For Servicers Improve yields on your MSR with technology that enables your recapture and cross-sell strategy. Servicers For Subservicers Win more servicing deals by offering your clients best-in-class recapture functionality. Subservicers For Lenders Ensure your LOs focus to recapture the highest-intent leads from your portfolio. Lenders Generate value with your borrowers through an all-in-one hub for home finances Understand borrower intent Anticipate your borrowers’ future plans ahead of anyone else with modules that help borrowers build a plan for their homes and their futures. Educate homeowners to drive engagement Empower your customers to make sense of their home finances, drawing them in outside of just making payments. Present personalized offers Turn payment portals into a digital marketing channel that presents personalized offers in the right place at the right time. Fully white-labeled Advance your strategy, brand, and look and feel. Have multiple brands? We support that too. We’re on a mission to make life simpler for homeowners Who we are Haven was founded on the premise that homeownership shouldn’t be complicated or stressful. Meet our team. Hear from our customers We work with mortgage companies, helping them connect with their customers more deeply than ever before. See our latest insights We’re busy creating content to help you implement our technology with clarity — and to good effect. Integration Haven integrates into your existing servicing experience Whether you service in-house or use a subservicer, launch deeper engagement with your borrowers in weeks (not months) with a platform that integrates into your existing servicing stack. See how it works\n\n[https://havenservicing.com/about/]\nLearn more about team Haven – Haven How it Works Use Cases Company Get a Demo Our mission Since our founding in 2020, we’ve made it our mission to eliminate complexity from homeownership. Why? Because we believe owning a home should make people proud, not stressed Our Story Cutting the key for better home financing There are tools out there to help homeowners get a mortgage, but after move-in, it's a complete black box. Escrow? Refis? Insurance? It can all get a little overwhelming — especially considering the home is most people's biggest financial asset. This is something we experienced ourselves as first-time buyers, inspiring us to create Haven. By connecting homeowners and mortgage companies via a modern, easy-to-use digital platform, Haven makes home financing simple and intuitive. Join team Haven 800,000+ homeowners 11% high-intent leads generated 11 offer types Meet the team unlocking new possibilities for homeowners Jonathan Chao Chief Executive Officer Blake Clark Chief Operating Officer Cole Murray Chief Technology Officer Stacy Ng Founding Engineer Daniel Kalick Director of Product Jennifer Micieli Director of Innovation Chris Hill Senior Product Designer Join team Haven We value partnership, creativity, and growth for each other and the people we serve. Join a fast-growing startup and find your place. Remote & office options Meaningful equity WFH stipend Team events & offsites Join team Haven We’re backed by leading investors\n\n[https://havenservicing.com/careers/]\nJoin a startup with big ambitions – Haven How it Works Use Cases Company Get a Demo We're Haven Join our team and help us unlock a new kind of homeownership — one that’s smarter, fairer, and all around better, for everyone involved See ope",
+   "email_candidates": [
+    {
+     "email": "aditya@havenservicing.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Aditya Acharya",
+     "role": "Founder"
+    },
+    {
+     "email": "nipun@havenservicing.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Nipun Kant",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a41b5c3c52",
+   "company": "Hypotenuse AI",
+   "website": "https://hypotenuse.ai/",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. AI-native Operating System for Enterprise Ecommerce Companies Hypotenuse AI is an AI-native platform for managing, creating and optimizing your ecommerce product data and content. Fortune 500 ecommerce brands use us to enrich their product data, edit images, and create high-quality product copy at scale to make their teams 10x faster. Generative AI, Machine Learning, E-commerce, AI, B2B, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.hypotenuse.ai/]\nAI-first PXM Platform for Ecommerce | Hypotenuse AI Login Book Demo Double click into the component to add or edit the content inside. The displayed links are best to edit here as it is shared with the mobile and desktop function. The system of intelligence behind ecommerce product information An AI-first PIM for ecommerce. Runs product data enrichment across your catalog, writes on-brand descriptions and perfects catalog images for SEO and GEO. Book demo Trusted by leading global brands and Fortune 500 ecommerce teams what we do One AI-native platform to manage and optimize your ecommerce products Enhance data accuracy with AI auto-enrichment Fill missing attributes and standardize data without searching and copy-pasting. Generate product descriptions in your brand voice Create thousands of SEO-optimized titles and descriptions in your brand voice, in minutes. Enhance and standardize images to studio quality Increase resolutions. Crop, clean up and apply realistic, high-quality backgrounds with AI. Track performance and optimize content Monitor product performance and keep content optimized for search and AI discovery. Built for enterprises Create on-brand content that scales with peace of mind. Bespoke brand voice Team workflows SOC 2 compliant Granular access control Built for enterprises Create on-brand content that scale with a peace of mind. Bespoke brand voice Custom workflows Data privacy & security Granular access control Enrich product attributes in a centralized repository Learn more Enrich from everywhere Fill missing product attributes using AI to search the web, UPC, and spec sheets Extract attributes from images Automatically pull specs, color, and other product details directly from images Tag and categorize Apply accurate tags and categories that align with Google, Amazon or your custom taxonomy Normalize and standardize Standardize formats and fix errors to ensure clean, reliable product information on every channel Generate and optimize product page content Learn more Bulk generate Generate thousands of unique product descriptions in one click Bespoke brand voice Apply brand guidelines and custom formatting with AI SEO best practices Optimize your product pages for traffic and conversions Localized content Localize and translate content for your global audience Enhance and standardize product images with AI Learn more Standardize images Generate and align backgrounds and shadows for a consistent, studio-quality look Frame products with precision Crop and resize with smart padding based on product shape and layout Enhance details Sharpen details, boost resolution and reduce noise for crisp and clear images Place products in lifestyle scenes Position and adapt products naturally, like shaping clothing on models or angling furniture in a room Track and monitor product performance Learn more Track ranking Monitor product rankings across Google, Amazon, Walmart and more Suggest keywords Boost rankings with our SEO keyword suggestions on a product and category level Check guidelines Use our AI guideline checker to flag inconsistencies against retailer requirements Get your products discovered by AI and search engines Visibility today goes beyond traditional SEO. Hypotenuse AI enriches your catalog with accurate product data and context-aware descriptions that highlight use cases and benefits — helping your products surface wherever customers search. Appear where buying decisions start: Integrate with your preferred commerce platforms Request demo Don’t waste time copying and pasting. Integrate directly with your commerce systems, partner marketplaces and any custom platforms — with no coding involved. “A lot of tools promise to boost productivity, but Hypotenuse AI has literally tripled our team's output, and with better quality! We were onboarding hundreds of products a week with little to no usable information, and filling in the gaps manually just wasn’t sustainable. Hypotenuse took",
+   "email_candidates": [
+    {
+     "email": "joshua@hypotenuse.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Joshua Wong",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a7078bc14f",
+   "company": "Feather",
+   "website": "https://featherhq.com",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "Seattle, WA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Voice AI The platform powering human like phone calls at AI speed Artificial Intelligence, SaaS, B2B, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.featherhq.com/]\nTitle: Feather | AI Agents for Enterprise\n\nURL Source: https://www.featherhq.com/\n\nMarkdown Content:\n[![Image 1](https://framerusercontent.com/images/aeKVwEnvvUqi2EuQcTN5W6peiw.png?width=475&height=87)](https://www.featherhq.com/)\n\n[Product](https://www.featherhq.com/)\n\n[Contact Us](https://www.featherhq.com/contact-us)\n\n[Blog](https://www.featherhq.com/blog)\n\n[Book a Demo](https://cal.com/aahan-sawhney-feather/feather-demo)✕\n\n# **AI agents that move every loan from application to repayment.**\n\nF e a t h e r h a n d l e s b o r r o w e r c o n v e r s a t i o n s a n d l e n d i n g o p e r a t i o n s s o y o u c a n c l o s e m o r e l o a n s,r e s o l v e r e q u e s t s f a s t e r,a n d r e c o v e r m o r e w i t h o u t a d d i n g h e a d c o u n t.\n\n[Learn more](https://www.featherhq.com/contact-us)\n\n[Video 3](https://framerusercontent.com/assets/R55lYL0fTAlnoIaq878aFyoN6I.mp4)\n\nM Maya\n\nWhat can I afford?\n\nLoan assistant\n\nYou're prequalified up to $525K.\n\nPrequalification Checking…Ready\n\n$0 max\n\nBased on verified income and current debts\n\nIncome verified\n\nDTI calculated · 31%\n\nLetter ready to download\n\nJ James\n\nIs anything still missing?\n\nOpen condition Needs pay stub Condition cleared\n\npaystub_latest.pdf\n\nUploading from phone…Pay stub received\n\nLoan assistant\n\nYou're clear for final review.\n\nP Priya\n\nWhat's today's 30-year fixed?\n\n30-year fixed Today\n\nRate\n\n5.500%\n\nEst. monthly\n\n$0\n\nIllustrative quote on a $420K loan. Principal and interest only.\n\n**TODAY**2:30\n\nCall booked · 2:30 PM\n\nLoan officer notified\n\nYour mortgage now\n\nYour escrow payment changed.\n\nWhat changed Annual escrow review\n\nProperty taxes+$42/mo\n\nHomeowners insurance Unchanged\n\nNew payment starts Aug 1\n\nNew monthly payment$2,184\n\nLoan assistant\n\nQuestions answered. No call needed.\n\n**Adopted by renowned, trusted, and leading enterprises**\n\n*   ![Image 2: Brand Image](https://framerusercontent.com/images/irAECG9X1xAOyhNOrNelNiJw8A.svg?width=216&height=161)  \n*   ![Image 3: Brand Image](https://framerusercontent.com/images/htgEQJ4stNHBRyJ4nhcP2MNEG4.svg?width=392&height=161)  \n*   ![Image 4: Brand Image](https://framerusercontent.com/images/c6OqT8sEj2Zl9TGsayV7OG824Ow.svg?width=475&height=158)  \n*   ![Image 5: Brand Image](https://framerusercontent.com/images/htgEQJ4stNHBRyJ4nhcP2MNEG4.svg?width=392&height=161)  \n*   ![Image 6: Brand Image](https://framerusercontent.com/images/SEg3jFCBlxS2kDVAdglg8MDOBI.png?width=2170&height=725)  \n*   ![Image 7: Brand Image](https://framerusercontent.com/images/9bsY6ADY5EbPhsb6vRMSSFZ8b8Y.svg?width=442&height=158)  \n*   ![Image 8: Brand Image](https://framerusercontent.com/images/uuURyalc7JrWFVhqPlMohSoEew.svg?width=553&height=158)  \n*   ![Image 9: Brand Image](https://framerusercontent.com/images/nJpcWAXfeusXmcjoSI6Q0TcLQY8.svg?width=488&height=158)  \n*   ![Image 10: Brand Image](https://framerusercontent.com/images/9eugt9FvqUAJt8EKOEwWDiosOg.svg?width=636&height=158)  \n\n## Four purpose-built agents\n\n### One AI workforce across the lending lifecycle\n\nSlide 1 of 2\n\n![Image 11](https://framerusercontent.com/images/xp9A3Lnc6hGYcd4AGxPabVss.png?width=1254&height=1254)\n\n### Origination Agent\n\nEngages and qualifies leads, then connects them with the right loan officer.\n\n![Image 12](https://framerusercontent.com/images/bm7F8H1ScvQse5D6HzMCuNph0.png?width=1254&height=1254)\n\n### Servicing Agent\n\nHandles account requests, completes approved actions, and escalates exceptions.\n\n![Image 13](https://framerusercontent.com/images/BNZP5AGiHKynE4InzW6ZZp9lU.png?width=1254&height=1254)\n\n### Collections Agent\n\nEngages past-due borrowers, tracks commitments, and routes sensitive cases.\n\n![Image 14](https://framerusercontent.com/images/Mi1agmD0qqOsuIYh8M4TtgqIZU.png?width=1254&height=1254)\n\n### Processing Agent\n\nCollects missing documents, flags issues, and keeps loan files moving.\n\n## One borrower. Too many handoffs.\n\nMost lending operations still lose time between the steps.\n\nBefore Feather\n\nBefore Feather 5",
+   "email_candidates": [
+    {
+     "email": "aahan@featherhq.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Aahan Sawhney",
+     "role": "Founder"
+    },
+    {
+     "email": "saurabh@featherhq.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Saurabh Jain",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ae220a313a",
+   "company": "Subsets",
+   "website": "https://www.subsets.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "Copenhagen, Denmark",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. AI-driven Retention Automation for subscription media businesses. Subsets is the leading lifecycle growth platform for consumer subscription teams. We are building the AI decisioning layer that unifies and powers the existing growth stack, enabling teams to automate and scale lifecycle experimentation, orchestrate personalized user journeys, and measure impact across retention, engagement, and LTV without engineering support. Trusted by consumer subscription businesses like The Atlantic, NBCUniversal, Daily Mail, Matas Group, and Hearst. Subsets has raised $6.1m and launched out of Y Combinator’s Summer 2023 batch in San Francisco, and is now based in Copenhagen. Machine Learning, B2B, Enterprise Software, AI, B2B, Denmark, Europe",
+   "site_text": "[https://www.subsets.com/]\nSubsets – AI Retention Automation Platform for Consumer Subscriptions Login Request a demo Subsets secures $1.65M to build the leading AI retention platform AI-driven lifecycle experimentation and automation for consumer subscriptions Improve retention and LTV with AI recommendations. Easily run experiments and A/B tests. See the impact on engagement, forecast revenue opportunities and seamlessly set up automations. Designed for commercial teams – no coding required. Request a demo Backed by Experiments Step-up pricing high risk Results Confidence Overview Results Metrics +11.7% Treatment Group Participants: 4,238 Churned: 2,180 48.6% retention Control Group Participants: 4,306 Churned: 2,719 36.9% retention Retention Rate Lift Treatment group Control group 10 days since treatment Treatment group 97.1% Retention rate lift +1.5% Participants 4,119 Churned 119 Control group 95.6% Participants 4,122 Churned 184 Behavior Metrics All Count DAU 30 days 7 days 1 day Metrics Effect% Control group Treatment group Sessions +7% 11,338 12,132 Downloaded app +7% 4,174 4,466 Visits +100 seconds +11% 5,203 5,775 Invited family member +8% 4,023 4,345 Content breadth 4% 4,251 4,421 Case Study Case Study Subsets is purpose-built for commercial teams to increase retention without requiring engineers Empowering commercial teams with AI-driven automation to streamline the entire retention workflow and turn successful experiments into scalable automations. Discover Discover AI-generated retention audiences that cover the full subscription lifecycle. Understand Understand the behavioural drivers leading to churn across the lifecycle stages. Experiment Run A/B tests and analyze the impact on engagement and retention metrics automatically. Automate Turn successful experiments into automations that optimize subscriber revenue streams. The depth and breadth of the results analysis we can generate from Subsets have been invaluable. We are aiming to turn validated experiments into 'always on' and let Subsets select subscribers for targeting and trigger the campaigns. Andy Wilson Head of Subscriber Retention @ Daily Mail Modeled around your data and workflow Subsets trains a unique machine learning model on top of your proprietary 1st party data, enabling you to activate the insights across your engagement channels. Improve retention and engagement with AI, experimentation and automation Integrated with your subscription, product, and CRM data to deliver a complete view of your subscribers. Predictive audiences Use AI to predict your most important audiences within your subscription base. Identify retention, engagement, and upsell opportunities at every stage of the subscription lifecycle, focusing on the areas that drive the greatest lifetime value. Explainable AI Leverage explainable AI to understand the behavioral drivers behind each audience across the subscription lifecycle. Uncover key behaviors contributing to retention risks, providing the context needed to suggest experiments or treatments that influence retention and engagement. Experiment across your tools and channels Run experiments on predictive subscriber audiences directly through your existing channels and tools. Experiment with retention, engagement, and upsell strategies while tracking the impact in real-time, automatically within Subsets. Automate results analysis across your key metrics Automatically track and understand the impact of your experiments across key metrics like retention rate and lifetime value, as well as engagement metrics like sessions, pageviews, and articles read. Follow key metrics in real-time Track the metrics that matter most for your experiments, without needing engineering support. Automatically analyze key metrics like retention rate and lifetime value in real-time, alongside engagement metrics such as sessions, pageviews, and articles read. Detect statistical significance Automatically calculate sample size and time left before resu",
+   "email_candidates": [
+    {
+     "email": "martin@subsets.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Martin Johnsen",
+     "role": "Founder"
+    },
+    {
+     "email": "oliver@subsets.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Oliver Brandt",
+     "role": "Founder"
+    },
+    {
+     "email": "nikolai@subsets.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Nikolai Skelbo",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ae2857d2c1",
+   "company": "Aragorn AI",
+   "website": "https://www.aragorn.ai",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "Dallas, TX, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 4. Operating system for HR in the AI era We’re building a new way of working in People Ops for the AI era—one that starts by solving a painful problem no one talks about: HR data integrations. And from there, it grows into something far more powerful: personalized, agentic HR analysts that any team can create and deploy on their own. B2B, Human Resources, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.aragorn.ai/]\nThe People Data Platform for HR | Aragorn The People Data Platform HR in control of its own data. Connect your HR systems, turn workforce data into insights, and put AI to work, all on one platform Get Started Take the 3-minute tour Systems you already own HR HRIS · Workday PY Payroll · ADP BN Benefits · carriers TA ATS / Recruiting · Greenhouse EN Engagement · 9-box FL Custom Files · spreadsheets Aragorn Managed and run by HR. No IT ticket, no consultant. 6 systems Integration Studio Waiting Sending Sent Integration Studio Sends it to every vendor, in the format each one needs ADP base_pay Fidelity 401(k) pay_amount Carta cash_comp Analytics Studio Waiting Updating Updated Analytics Studio Updates your workforce metrics, with one definition Already in every dashboard Agentic Studio Waiting Syncing Ready Agentic Studio Answers employee questions in Slack and Teams Does my promotion change my 401(k) match? Your 4% match now applies to $98,000. That's $3,920 a year, from 1 Oct. Your record only Entered once. Updated everywhere. Trusted by teams running complex HR operations Start with your problem Which one sounds like your week? “ Our vendor files keep breaking ” Payroll, benefits and 401(k) feeds fail quietly, and you find out when an employee does. Aragorn sends every vendor what it needs, watches every feed, and lets you fix and replay in minutes. Explore Integration Studio “ Our numbers never match ” Finance, HR and the board each have a different headcount. Aragorn defines every metric once, keeps the history, and puts the same number in every dashboard. Explore Analytics Studio “ HR answers the same questions all day ” PTO balances, benefits, policies. Aragorn agents answer in Slack and Teams from your real HR data, and only show people what they're allowed to see. Explore Agentic Studio Where this goes Build the data foundation for everything that comes next. Integration Studio connects your HR systems and populates the Ontology. Analytics Studio and Agentic Studio sit on top of it, with the same permissions and the same lineage. Analytics Studio Ask Attrition by org, last 12 months 12.6% Attrition Reads 3 entities Learn more Agentic Studio Ask Is Ada on the new comp band? Yes. Ada moved to the new band, effective 1 Sep. Reads 2 entities Learn more The Ontology One governed model of your workforce. Permissions and history included. Connected Employee Position Event Status Event Compensation Event Generated for you Employment Org Chart Organization Start Event Promotion Event Exit Event Pay Statements Your own Contractor Spend Engagement Survey Any Custom Data Integration Studio Connects your HR systems and populates the entities above. Workday Greenhouse ICIMS ADP UKG SuccessFactors 6 systems connected Attrition 12.6% Agentic Studio Answer Product tour See Aragorn work, one click at a time Choose the problem that best matches yours. Each path takes about a minute, uses recreated product screens with sample data, and requires no sign-up. Integration Studio Analytics Studio Agentic Studio app.aragorn.ai/integrations/health Integration health Today Destination Cadence Status ADP Daily Delivered 06:02 Fidelity 401(k) Weekly Delivered Mon NYL benefits Daily Delivered 06:05 Carta equity Daily Failed: field missing FIX AND REPLAY STEP 1 OF 4 Integration Studio Every vendor feed on one screen Payroll, 401(k), benefits and equity, with when each one last ran. This is what your team opens in the morning. Click the highlighted area, or Next ← → to move Restart Skip to a demo\n\n[https://www.aragorn.ai/solutions/hris-people-operations]\nHRIS Integrations for People Ops | Take Control of Your HR Systems | Aragorn HRIS & PEOPLE OPS Run HR integrations in hours, not months Take control of your tech stack without relying on IT or consultants. Build and manage HRIS integrations directly, reduce errors, and get work moving faster. Aragorn is an HR data integration platform for managing HRIS integrations across your ",
+   "email_candidates": [
+    {
+     "email": "ed@aragorn.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ed Adjei",
+     "role": "Founder"
+    },
+    {
+     "email": "gladys@aragorn.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Gladys Adjei",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "af1b4a9490",
+   "company": "Star",
+   "website": "https://buildwithstar.com",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "Springfield, MO, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 1. Make games with AI - no coding required Star makes game development accessible to anyone with an idea. Using AI, you can create complex, playable games without writing code - just describe what you want and iterate. We're building the future of creative tools for the next generation of game makers. Consumer, Gaming, No-code, Creator Economy, AI, Consumer, Gaming, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://buildwithstar.com/]\nStar - Make Real Games from a Description | Multiplayer, Leaderboards, Hosting Included The Halloween Update is here. See what’s new → Star Make a game your friends can play. Describe your idea. Star builds a game you can edit and share. Change Animation: a typed game idea breaks apart and builds a game, then a follow-up request changes it. The Halloween Update Nova multiplayer. Voices, music and video. Tools you can build into your games. Explore the update → Already building with a coding agent? See how Star fits Play a game made in Star No download. It runs right here in your browser. Play DEEPSMOKE DEEPSMOKE Made in Star by crwlspaceINTERACTIVE Watch trailer Fullscreen Play after each change. Keep what feels good, and tell Star what you want to change next. Read the full guide Give your friends a reason to play. Play together. Ask for multiplayer. Star hosts the rooms so you can invite friends to the same game. Give players a score to beat. Ask for a leaderboard so players can compare scores and come back for another run. Publish it. Take it with you. Share a link your friends can play in their browser. Export to itch.io, Windows, or your own files when you want. Build in 3D. Ask for a kart race or a first-person arena and Star builds it in real 3D. It runs in the browser, with no engine to install. 42,000+ games made here. Every one taught the agent something about game feel, collision, and difficulty. First versions play better, and edits land where you meant. Tune it without prompting. Drag sliders to adjust gravity, speed, and spawn rates while the game runs. Star Picks Play what people made. A few games made by Star creators. Finished games often take more than one prompt. Browse all games → 4477 play s Stick Slaughter by Ryze 23 23 1663 play s Moonlit Carnage by Ryze 14 11 306 play s The Crucible by Drax 6 2 Build with other creators. Share your game, find playtesters, and trade ideas in the Star Discord. Join the Discord Common Questions Is Star free? Yes. Playing and sharing any Star game is free for everyone, and you can start building free with Claude Haiku 5.5. When you want to keep building, buy a one-time credit pack or subscribe from $20/month for the best credit rate. Do I need coding experience? No. Describe what the player does, like 'jump between platforms and collect coins'. Star builds a first version you can play and change with follow-up instructions. How long does it take to make a game? A first version usually takes a few minutes. Bigger ideas can take longer. Play it, then tell Star what to change, like 'add enemies' or 'make it faster'. Can I share my games anywhere? Publish your game, then send the link in a message, group chat, or social post. Friends can open it in their browser without installing Star. Do people have to pay to play my game? No. Anyone can play and share your published games free, with no account or plan. Your friends never pay to play what you build. How is Star different from ChatGPT, Claude, or Cursor? Star combines a game editor with hosting, multiplayer rooms, leaderboards, and exports. Build and revise your game here, then send friends a playable link. You can also export to itch.io, Windows, or your own files. Can Star make multiplayer games? Yes. Say 'make it multiplayer' and Star hosts the rooms on our servers. No backend setup, no netcode, and the match keeps running when the host closes their tab. Which AI models does Star run? Free accounts build and edit with Claude Haiku 5.5. Claude Sonnet 5.5 and Claude Opus 5.5 are also in the main picker; GPT-6 Luna and other models are under More models. Paid accounts can choose their model, and Star remembers that choice. Credit usage depends on the model and the work requested. What game do you want to play? Start with one idea. You can build on it from there. Make a game\n\n[https://buildwithstar.com/blog]\nBlog - Star The Halloween Update is here. See what’s new → Star Blog Guides for creating and",
+   "email_candidates": [
+    {
+     "email": "ryan@buildwithstar.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ryan Endacott",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}
