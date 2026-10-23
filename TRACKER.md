@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-23T10:03:11Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-23T13:48:32Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 284 · **Sent:** 284 · **Replies:** 36 (13%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 295 · **Sent:** 295 · **Replies:** 36 (12%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,8 +10,7 @@ _Updated 2026-10-23T10:03:11Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 21 |
 | no_contact | 970 |
 | low_fit | 767 |
-| queued | 11 |
-| sent | 46 |
+| sent | 57 |
 | followup_1 | 38 |
 | followup_2 | 60 |
 | replied | 36 |
@@ -22,15 +21,15 @@ _Updated 2026-10-23T10:03:11Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 154 | 20 |
-| canopy | 91 | 12 |
+| medvault | 162 | 20 |
+| canopy | 94 | 12 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 243 | 28 |
+| role | 254 | 28 |
 | short | 41 | 8 |
 
 ## Replies
@@ -76,6 +75,17 @@ _Updated 2026-10-23T10:03:11Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-23 | PoloTab | founders@polotab.com | medvault | sent |
+| 2026-10-23 | IOMETE | theabhishekpathania@gmail.com | medvault | sent |
+| 2026-10-23 | Soraban | enoch232@gmail.com | medvault | sent |
+| 2026-10-23 | Compose.ai | wilsonmitchell92@gmail.com | medvault | sent |
+| 2026-10-23 | Dart | zack@dartai.com | medvault | sent |
+| 2026-10-23 | Simbie AI | founders@simbie.ai | medvault | sent |
+| 2026-10-23 | Tint | matheus@tint.ai | medvault | sent |
+| 2026-10-23 | IronLedger.ai | nick@ironledger.ai | medvault | sent |
+| 2026-10-23 | Circuithub | andrew@circuithub.com | canopy | sent |
+| 2026-10-23 | Greptile | tobias@greptile.com | canopy | sent |
+| 2026-10-23 | Greptile | daksh@greptile.com | canopy | sent |
 | 2026-10-23 | Conveo | hendrikvanhove01@gmail.com | medvault | sent |
 | 2026-10-23 | CoLoop | adrien@coloop.ai | canopy | sent |
 | 2026-10-23 | Dexter | vincent.garrigues@gmail.com | medvault | sent |
@@ -90,14 +100,3 @@ _Updated 2026-10-23T10:03:11Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-23 | Oscova AI | anbrandi@gmail.com | medvault | sent |
 | 2026-10-23 | Envora Innovation | avinashk8650@gmail.com | medvault | sent |
 | 2026-10-23 | RapidCanvas | uttam@rapidcanvas.ai | medvault | sent |
-| 2026-10-23 | Confido Health | founders@confido.health | medvault | sent |
-| 2026-10-21 | StackRyze | hello@stackryze.com | canopy | bounced |
-| 2026-10-21 | RDash | amit@rdash.io | medvault | bounced |
-| 2026-10-21 | LimeTray | gaurav@limetray.com | medvault | bounced |
-| 2026-10-21 | Skcript | karthik@skcript.com | medvault | sent |
-| 2026-10-21 | Infraspec | hemant@infraspec.dev | canopy | sent |
-| 2026-10-21 | Ambibuzz Technologies LLP | sambhav.saxena@ambibuzz.com | medvault | bounced |
-| 2026-10-21 | Tenstorrent | viktorpus@tenstorrent.com | canopy | sent |
-| 2026-10-21 | Squadcast Inc | mohammad@squadcast.com | canopy | sent |
-| 2026-10-21 | ViitorCloud Technologies | careers@viitorcloud.com | canopy | sent |
-| 2026-10-21 | Atyantik | tirthbodawala@atyantik.com | canopy | sent |
