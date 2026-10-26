@@ -1,0 +1,191 @@
+{
+  "leads": [
+    {
+      "id": "30b7e20141",
+      "relevant": false,
+      "summary": "PYOR sells custom dashboards, in-depth analytics and developer tools to crypto protocols and DAOs, and is backed by Antler.",
+      "stack": [],
+      "hook": "Their developer tools and onboarding offering, custom tools for engineers moving into new ecosystems, is the nearest match, but the company is a crypto data business.",
+      "angle": "canopy",
+      "angle_reason": "Their custom developer tooling is closest to Canopy's developer-tool focus, though the crypto business makes this lead non-relevant.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "ec6083c94a",
+      "relevant": true,
+      "summary": "ReplyAll is a direct-to-consumer apparel brand selling performance and lifestyle clothing such as joggers, tees and jackets, with a temperature-regulating fabric line.",
+      "stack": [],
+      "hook": "Their Temperform fabric page claims to drop skin temperature by 3 degrees C, a specific product claim the note can reference.",
+      "angle": "medvault",
+      "angle_reason": "Their storefront is a catalogue, cart and checkout, so MedVault's Django REST API with JWT auth is the closest project, though overlap is weak.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "contact@replyall.in",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0730c82456",
+      "relevant": true,
+      "summary": "Rovia is a wealth-management platform for global professionals covering RSUs, cross-border investments and taxation, according to its posting. The site text was not captured.",
+      "stack": [],
+      "hook": "Their posting describes an all-in-one platform for RSUs, cross-border investments and taxation, but the site scrape came back empty, so check the live page first.",
+      "angle": "medvault",
+      "angle_reason": "Rovia handles sensitive personal financial and tax data per user, the same auth and per-user isolation problem MedVault solves for health records.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "066e8241e7",
+      "relevant": true,
+      "summary": "Saras (formerly Finosauras) is building a credibility engine for the stock market that rates advisor reliability, per its posting. Its website is currently a placeholder page.",
+      "stack": [],
+      "hook": "The site still shows a Something Exciting is Cooking placeholder with a jump game, so there is no product to reference yet.",
+      "angle": "medvault",
+      "angle_reason": "Rating advisor reliability from text is closest to MedVault's LLM pipeline with a fixed output schema, but there is no visible product to connect it to.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "no real product: website is an under-construction placeholder"
+      ]
+    },
+    {
+      "id": "736fd1e1ac",
+      "relevant": true,
+      "summary": "Segwise is an AI creative analytics platform that tags and analyzes ads, tracks competitors, and generates new static, video and playable ads for performance marketing teams.",
+      "stack": [],
+      "hook": "Their Creative Strategy feature answers questions grounded in each client's own creative data, and their generation step drafts ads from top patterns.",
+      "angle": "medvault",
+      "angle_reason": "Segwise's AI answers and ad generation over client data map to MedVault's Gemini prompting pipeline with a fixed output schema.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "00ea888537",
+      "relevant": true,
+      "summary": "Sonar Labs builds construction project-management software and AI agents for contractors, including material tracking, with more agents listed as coming soon.",
+      "stack": [],
+      "hook": "Their site lists a sub-admin AI agent that tracks insurance, sub licenses and renewals automatically, marked as coming soon.",
+      "angle": "medvault",
+      "angle_reason": "Their AI agent works from structured compliance and material records, which matches MedVault's LLM pipeline with a fixed JSON schema.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "c5f03b60e7",
+      "relevant": true,
+      "summary": "StepChange sells carbon, ESG and climate-risk software and APIs to banks and industrial companies, with 350+ enterprise platform integrations.",
+      "stack": [
+        "API integrations",
+        "SFTP"
+      ],
+      "hook": "Their site says they support 350+ enterprise platform integrations, with dedicated SFTP and API-based connectors.",
+      "angle": "medvault",
+      "angle_reason": "Ingesting sensitive client data from many enterprise systems through an API backend lines up with MedVault's Django REST backend and per-user isolation.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "9e6acc941f",
+      "relevant": true,
+      "summary": "Tradeface is an asset-light B2B marketplace connecting kirana stores with distributors and logistics providers in Bengaluru, Hyderabad and Mysuru, and runs Tezroot, a route and load planner.",
+      "stack": [
+        "Android apps",
+        "iOS (coming soon)"
+      ],
+      "hook": "Tezroot, their route and load planner, started as an internal tool and went through two years of iteration before becoming a product.",
+      "angle": "medvault",
+      "angle_reason": "Verified identities for buyers, sellers and transporters need the same JWT auth and per-user isolation that MedVault implements.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Sebastian Vempeny",
+          "role": "Director, Shipma Commerce"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "3ba9e5cc42",
+      "relevant": true,
+      "summary": "Uncharted AI builds autonomous robots and sensor-fusion AI for critical-mineral exploration, with field trials in Perth, Bengaluru, Germany, Finland and Montreal.",
+      "stack": [
+        "LiDAR",
+        "hyperspectral sensing",
+        "GPR",
+        "legged robotics"
+      ],
+      "hook": "Their FiND model is described as continuously learning from sensor data to detect anomalies, with field trials in Perth and Bengaluru.",
+      "angle": "medvault",
+      "angle_reason": "Their ML pipeline over sensor data is loosely analogous to MedVault's LLM pipeline and mockable model client, though the domain match is weak.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Pradyumna Vyshnav",
+          "role": "CEO & Co-Founder"
+        },
+        {
+          "name": "Vivek Varadharajan",
+          "role": "CTO & Co-Founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a46672d4c4",
+      "relevant": true,
+      "summary": "August is a telehealth service where patients chat with an AI to get triage, see a licensed doctor, and receive prescriptions and next-day lab tests.",
+      "stack": [],
+      "hook": "Their chat hands a symptom summary to a licensed doctor, and they recently got Utah approval to pilot AI-assisted prescription renewals.",
+      "angle": "medvault",
+      "angle_reason": "August's symptom chat with clinician handoff is the same problem as MedVault's LLM explanation pipeline, including its rules against diagnosis and prescription.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

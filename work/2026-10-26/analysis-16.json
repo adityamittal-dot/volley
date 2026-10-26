@@ -1,0 +1,207 @@
+{
+  "leads": [
+    {
+      "id": "68094f319a",
+      "relevant": true,
+      "summary": "Turno leases commercial EVs, mostly electric buses, to operators and gives the retired batteries a second life as energy storage, backed by a Battery Intelligence System that values batteries for lenders and fleets. The site text is from turnoev.com while the lead domain is turno.club, but the posting describes the same commercial EV business.",
+      "stack": [],
+      "hook": "Site says the Battery Intelligence System does the per-battery valuation for lenders and fleet operators, and that the cells are 'validated, and tracked'.",
+      "angle": "medvault",
+      "angle_reason": "Turno's valuation and financing workflows are fintech backend work, closest to MedVault's Django REST API with JWT auth and a structured-output AI pipeline.",
+      "fit": 5,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "20e4d335a3",
+      "relevant": false,
+      "summary": "The posting describes an on-demand two-wheeler rental platform, but the site text is a Korean online shopping storefront selling groceries and household goods. The lead is probably a wrong site or a different company.",
+      "stack": [],
+      "hook": "Site at vogoplay.com is a Korean grocery and household shopping storefront, not a two-wheeler rental product.",
+      "angle": "medvault",
+      "angle_reason": "No overlap: the site and the posting do not describe the same product, so no project maps to it.",
+      "fit": 1,
+      "region": "asia",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "site is an unrelated Korean shopping storefront, not the rental platform in the posting"
+      ]
+    },
+    {
+      "id": "1dbe28b05d",
+      "relevant": true,
+      "summary": "Whatfix sells a digital adoption platform that adds in-app guidance, product analytics and sandbox training (Mirror) for enterprise software teams. It has no public engineering opening in the lead.",
+      "stack": [],
+      "hook": "Its Mirror product clones live apps into sandbox environments for training, with AI roleplay that adapts to performance.",
+      "angle": "medvault",
+      "angle_reason": "Whatfix's AI content authoring turns plain-text prompts into structured in-app guidance, the same problem as MedVault's fixed-JSON LLM pipeline.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "21af36424a",
+      "relevant": true,
+      "summary": "Floracene lets healthcare operators describe an internal tool in plain language and deploy it on production data with HIPAA-oriented authentication and user-scoped access. It is a two-person YC Summer 2026 startup in New York.",
+      "stack": [],
+      "hook": "Posting says staff tools die on builders' laptops because IT won't allow PHI-touching tools without first-class authentication and permissioning.",
+      "angle": "medvault",
+      "angle_reason": "Health data with auth and permissioning is MedVault's domain: JWT with refresh rotation, per-user isolation at the queryset level, and a safety-bounded LLM pipeline.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {
+          "name": "Asaph Kupferman",
+          "role": "Founder/CEO"
+        },
+        {
+          "name": "Jonah Kaye",
+          "role": "Founder/CTO"
+        }
+      ],
+      "contact_email": "jonah@floracene.com",
+      "contact_name": "Jonah Kaye",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "a812b854af",
+      "relevant": true,
+      "summary": "Bear Systems is a Delhi NCR engineering agency that builds custom ERPs, SAP and Shopify systems, and LLM agents for enterprise clients. The posting is a paid, on-site software engineering internship for students.",
+      "stack": [
+        "SAP",
+        "Odoo",
+        "Shopify",
+        "Claude",
+        "RAG"
+      ],
+      "hook": "Site says its agentic layers use write gates and fail-closed write rules for LLM agents, and the posting says interns own vertical slices with review.",
+      "angle": "medvault",
+      "angle_reason": "Their agentic systems need write gates and evaluation on model output, which MedVault's schema-enforced pipeline and mockable LLM client already demonstrate.",
+      "fit": 7,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "eaf1379633",
+      "relevant": true,
+      "summary": "Tryzent Technologies builds AI-powered products, SaaS platforms and custom software, with agentic AI, RAG and real-time voice translation among its live projects. The posting is a full-time Full Stack Engineer role for 0-2 years of experience in Gurugram.",
+      "stack": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "TypeScript",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "LangGraph",
+        "LlamaIndex",
+        "OpenAI",
+        "Claude",
+        "Gemini",
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "hook": "Site says it is building 10+ agentic AI systems, including offline RAG implementations and real-time voice translation.",
+      "angle": "medvault",
+      "angle_reason": "Tryzent's agentic and RAG work runs on LLM APIs, which matches MedVault's Gemini pipeline with a fixed output schema and tolerant parsing.",
+      "fit": 9,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "75a1f03ce7",
+      "relevant": false,
+      "summary": "Votiko is a customer support outsourcing company that sells 24/7 call answering, live chat and email handling to other businesses. The posting is a night-shift international call center executive role, not engineering.",
+      "stack": [],
+      "hook": "Site sells human call answering and chat agents for other businesses, not software.",
+      "angle": "medvault",
+      "angle_reason": "No real overlap: the role and the company are customer support operations.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "entry-level pay of 20,000-70,000 per month, below 8 LPA"
+      ]
+    },
+    {
+      "id": "3d9fec444f",
+      "relevant": true,
+      "summary": "unbundl is a Delhi growth agency for D2C and consumer brands, covering performance marketing, Shopify development and data pipelines. The lead is a web development internship in Delhi, though the scraped posting text is empty.",
+      "stack": [
+        "Shopify",
+        "BigQuery",
+        "Looker Studio",
+        "Google Tag Manager"
+      ],
+      "hook": "Site lists custom Shopify 2.0 sections and BigQuery and Looker Studio data pipelines for brands.",
+      "angle": "medvault",
+      "angle_reason": "The internship is web development against a data-heavy brand stack, and MedVault's Django REST backend with auth is the most web-app-like project I have.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "hr@unbundl.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a3a2b23b80",
+      "relevant": false,
+      "summary": "1Password makes an enterprise password manager and identity platform with over $500M ARR and 180,000 business customers, which implies a large company. The posting is a senior-leveled Winter 2027 developer internship on cryptography, remote within Canada or the US only.",
+      "stack": [],
+      "hook": "Posting asks the intern to build cryptographic libraries, implement new specifications in client apps, and review code for cryptographic hygiene.",
+      "angle": "canopy",
+      "angle_reason": "The role's code-review and hygiene focus is close to Canopy's static analysis, but the company is too large and the role is cryptography-specific.",
+      "fit": 2,
+      "region": "americas",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "e348af66bf",
+      "relevant": false,
+      "summary": "Dscout is a UX research platform with AI-moderated studies, interviews and analytics for large brands. The posting is a Director-level Cybersecurity Engineer role for its SaaS environment and internal IT.",
+      "stack": [
+        "AWS",
+        "SIEM"
+      ],
+      "hook": "Posting asks for security built into the SaaS development lifecycle, with SIEM monitoring and weekly threat intelligence reports.",
+      "angle": "canopy",
+      "angle_reason": "Security-in-the-SDLC and vulnerability monitoring are close to Canopy's static analysis and CI tooling, but this is a senior security role.",
+      "fit": 2,
+      "region": "us",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

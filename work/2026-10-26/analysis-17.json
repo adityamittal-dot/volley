@@ -1,0 +1,245 @@
+{
+  "leads": [
+    {
+      "id": "9915afbff7",
+      "relevant": true,
+      "summary": "InLoop builds robotic arms that do warehouse fulfillment work (kitting, box assembly, packing), sold as a flat monthly service with a remote human operator as fallback. The team is about 10 people.",
+      "stack": [],
+      "hook": "Your posting says every failure becomes training data and every intervention makes the system better, and the site describes a remote operator taking over when a robot can't recover.",
+      "angle": "medvault",
+      "angle_reason": "Their failure-to-training-data loop is an AI pipeline that must be trustworthy, which is the part MedVault's schema-constrained model pipeline and tolerant output parser handle; their domain is robot control, so the overlap is thin.",
+      "fit": 4,
+      "region": "europe",
+      "people": [
+        {
+          "name": "Zakariea Sharfeddine",
+          "role": "CEO"
+        },
+        {
+          "name": "Stepan Feduniak",
+          "role": "CTO"
+        },
+        {
+          "name": "Yahya Hefnawi",
+          "role": "CPO"
+        }
+      ],
+      "contact_email": "founders@inloop-robotics.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "56747c5811",
+      "relevant": true,
+      "summary": "Altur sells voice and messaging AI agents that run debt collection and banking sales calls in Latin America, following up over WhatsApp and SMS. The site names no team members.",
+      "stack": [],
+      "hook": "Your site says the agents keep full context on every account, and that your A/B testing of call flows automatically deploys the winning version (v5) to all agents.",
+      "angle": "medvault",
+      "angle_reason": "Their agents run LLM-driven conversations under compliance rules and per-account data, the same shape as MedVault's Gemini pipeline with a fixed output schema, safety rules and per-user isolation.",
+      "fit": 6,
+      "region": "americas",
+      "people": [],
+      "contact_email": "careers@altur.io",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "4ac414f40f",
+      "relevant": false,
+      "summary": "The posting is for Cinder Expert Network, a pool of paid, project-based specialists who red-team AI models. The linked website cinderatlanta.com is a film lighting and grip rental business in Atlanta, so the text does not show the posting's company.",
+      "stack": [],
+      "hook": "None: the linked site is a different business, so there is nothing real to open with.",
+      "angle": "medvault",
+      "angle_reason": "No real overlap: the work is adversarial testing of models for harm, and the linked site is a rental shop.",
+      "fit": 1,
+      "region": "us",
+      "people": [
+        {
+          "name": "Ben Lambeth",
+          "role": "owner, Cinder Lighting & Grip (linked site, not the posting's company)"
+        },
+        {
+          "name": "Gabe Pippas",
+          "role": "owner, Cinder Lighting & Grip (linked site, not the posting's company)"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "website unrelated to posting (film equipment rental site)"
+      ]
+    },
+    {
+      "id": "878428843f",
+      "relevant": true,
+      "summary": "Audun is a Norwegian YC company that automates debt collection for businesses, building a debtor profile from invoices, payment history and public records and keeping human judgement in the loop. The posting lists a team of 5.",
+      "stack": [],
+      "hook": "Your site says Audun builds a debtor profile from invoices, payment history, demographics, public records and credit information before planning the next step.",
+      "angle": "medvault",
+      "angle_reason": "Both handle sensitive personal and financial data with an LLM-driven pipeline, and MedVault's per-user isolation and privacy-first design map directly onto a collections product.",
+      "fit": 6,
+      "region": "europe",
+      "people": [
+        {
+          "name": "Jacob Hambro",
+          "role": "Founder/CEO"
+        },
+        {
+          "name": "Magnus Vonen",
+          "role": "Founder"
+        },
+        {
+          "name": "Henrik Brun Fevang",
+          "role": "Founder"
+        },
+        {
+          "name": "Peter Flo",
+          "role": "Founder & Chief Scientist"
+        }
+      ],
+      "contact_email": "jacob@audun.co",
+      "contact_name": "Jacob Hambro",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "efbb4a6933",
+      "relevant": true,
+      "summary": "Mederva is an AI-enabled primary-care service that analyzes a patient's records, labs and wearable data against longevity research, then pairs them with a dedicated coach. It works through clinics and insurance, with a US focus and remote roles.",
+      "stack": [],
+      "hook": "Your site says you analyze 'all your records, labs, and wearables' against longevity research and then pick the 2-3 changes with the highest impact.",
+      "angle": "medvault",
+      "angle_reason": "Their core is turning lab and health records into a plain-language plan with AI, which is what MedVault does with lab reports, including the privacy and output-safety concerns that come with health data.",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {
+          "name": "Sabih Mir",
+          "role": "Founder"
+        },
+        {
+          "name": "Mohammed Kaleel",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "sabih@medervahealth.com",
+      "contact_name": "Sabih Mir",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "c1ea4a14c0",
+      "relevant": true,
+      "summary": "Inflection designs standardized spacecraft (the Exponent platform) and is building automated factories to mass-produce them for commercial and government customers, with in-house flight, ground and fleet software. It is building a founding team in Los Angeles, mostly for hardware and systems engineering.",
+      "stack": [],
+      "hook": "Your site says you write your own flight software and fleet-management software and test 'like we fly'.",
+      "angle": "canopy",
+      "angle_reason": "Their in-house flight and ground software is a large codebase that has to be understood across components, which is what Canopy's cross-file call-graph mapping does; the role mix is mostly hardware, so the match is partial.",
+      "fit": 3,
+      "region": "us",
+      "people": [
+        {
+          "name": "Alex Lisso",
+          "role": "Co-Founder, CEO"
+        },
+        {
+          "name": "Matt Hanley",
+          "role": "Co-Founder, CTO"
+        },
+        {
+          "name": "Jackson Smith",
+          "role": "Founding Engineer"
+        }
+      ],
+      "contact_email": "matt@inflection-space.com",
+      "contact_name": "Matt Hanley",
+      "contact_role": "Co-Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "ad3a767d58",
+      "relevant": false,
+      "summary": "Zet B is a Stuttgart advertising agency specialising in 3D visualisation, B2B communication and brand building. The posting is for an experienced graphic designer, which is not an engineering role.",
+      "stack": [
+        "Adobe Creative Suite",
+        "Canva",
+        "PowerPoint"
+      ],
+      "hook": "None: the open role is graphic design, not engineering.",
+      "angle": "canopy",
+      "angle_reason": "No overlap: the role is graphic design and neither project applies.",
+      "fit": 1,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "958705150d",
+      "relevant": true,
+      "summary": "Swarm Aero builds the Gamera Group 5 autonomous aircraft and Legion, a command-and-control platform for coordinating drone swarms for US defense customers. The DevOps role builds the CI/CD and Kubernetes infrastructure that ships Legion.",
+      "stack": [
+        "Kubernetes",
+        "CI/CD",
+        "infrastructure as code",
+        "containerized services"
+      ],
+      "hook": "The posting says Legion has to 'ship fast, run reliably, and deploy anywhere our customers need it', including on-site deployments at customer and test sites.",
+      "angle": "canopy",
+      "angle_reason": "Canopy is a deployed backend with a git-aware, commit-hash-keyed cache and CI-oriented design, which is the closest of the two projects to pipeline and deployment work.",
+      "fit": 5,
+      "region": "us",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0dff6ebde9",
+      "relevant": true,
+      "summary": "Regbase is an AI research tool that tracks new and proposed laws and regulatory changes, including draft bills, local portals and non-English sources, for compliance teams. It sells trackers and email alerts, and the posting lists a team of 3.",
+      "stack": [],
+      "hook": "Your site says some laws are published only in Japanese, Arabic, Portuguese or Korean and never reach English media, and that you track them anyway.",
+      "angle": "medvault",
+      "angle_reason": "Their AI agents turn messy, multilingual sources into structured regulatory alerts, the same extract-to-fixed-schema problem as MedVault's Gemini pipeline and tolerant JSON parser.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "founders@regbase.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "12b6468603",
+      "relevant": true,
+      "summary": "Yondu builds drop-in AI robots that do bin-picking and other repetitive work in 3PL warehouses without new infrastructure. The posting lists a team of 12 based in Gardena, CA.",
+      "stack": [],
+      "hook": "Your site says the robots work within the existing warehouse layout, picking any SKU with no retrofit, starting with brownfield bin-picking.",
+      "angle": "medvault",
+      "angle_reason": "Weak overlap: their robots are learned control systems rather than software services, but MedVault's AI pipeline and backend discipline is the closest of the two projects.",
+      "fit": 4,
+      "region": "us",
+      "people": [
+        {
+          "name": "Michael Chen",
+          "role": "Founder/CEO"
+        },
+        {
+          "name": "Tahmid Jamal",
+          "role": "Founder/CTO"
+        }
+      ],
+      "contact_email": "tahmid@yondu.ai",
+      "contact_name": "Tahmid Jamal",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    }
+  ]
+}
