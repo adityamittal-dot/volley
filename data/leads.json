@@ -36228,6 +36228,7 @@
   "posted_at": null,
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
+  "replied_at": "2026-10-26T20:01:18Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "Courtroom document analysis is an LLM extraction problem like MedVault's lab-report pipeline with a fixed JSON output schema.",
@@ -36244,7 +36245,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/adalat-ai-tech",
   "website": "https://adalat.ai/",
@@ -36309,6 +36310,7 @@
   "priority": 1,
   "priority_note": "active GitHub org, no posting",
   "referral": true,
+  "replied_at": "2026-10-26T20:01:18Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "Courtroom document analysis is an LLM extraction problem like MedVault's lab-report pipeline with a fixed JSON output schema.",
@@ -36330,7 +36332,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "followup_1",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/adalat-ai-tech",
   "website": "https://adalat.ai/",

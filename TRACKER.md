@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-26T15:24:24Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-26T20:05:12Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 313 · **Sent:** 313 · **Replies:** 38 (12%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 313 · **Sent:** 313 · **Replies:** 40 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -11,9 +11,9 @@ _Updated 2026-10-26T15:24:24Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | no_contact | 1066 |
 | low_fit | 893 |
 | sent | 42 |
-| followup_1 | 31 |
+| followup_1 | 29 |
 | followup_2 | 54 |
-| replied | 38 |
+| replied | 40 |
 | bounced | 19 |
 | closed | 129 |
 
@@ -21,7 +21,7 @@ _Updated 2026-10-26T15:24:24Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 178 | 21 |
+| medvault | 178 | 23 |
 | canopy | 96 | 13 |
 | basepair | 39 | 4 |
 
@@ -29,7 +29,7 @@ _Updated 2026-10-26T15:24:24Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 272 | 30 |
+| role | 272 | 32 |
 | short | 41 | 8 |
 
 ## Replies
@@ -47,6 +47,8 @@ _Updated 2026-10-26T15:24:24Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **GroMo** —  <contact@gromo.in> replied 2026-10-12
 - **Leeroo** —  <founders@leeroo.com> replied 2026-10-07
 - **Complir** —  <contact@complir.io> replied 2026-10-06
+- **Adalat AI** —  <tech@adalat.ai> replied 2026-10-26
+- **Adalat AI** — Kavya Manohar <kavya@adalat.ai> replied 2026-10-26
 - **Unsiloed AI** — André Castro <andre@unsiloed.ai> replied 2026-10-05
 - **Ionage** —  <careers@ionage.in> replied 2026-10-13
 - **Hopit** —  <arkid@hopit.ai> replied 2026-10-19
