@@ -724,6 +724,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:onebrief": {
+  "company": "Onebrief",
+  "found": "2026-10-26",
+  "website": "https://onebrief.com"
+ },
  "ashby:oneleet": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -1003,6 +1008,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:swarmaero": {
+  "company": "Swarmaero",
+  "found": "2026-10-26",
+  "website": "https://swarmaero.com"
  },
  "ashby:taktile": {
   "company": "Cargo",
@@ -1594,6 +1604,16 @@
   "found": "2026-10-20",
   "website": "https://www.nuplay.ai"
  },
+ "keka:platinumrx": {
+  "company": "PlatinumRx",
+  "found": "2026-10-26",
+  "website": "https://www.platinumrx.in/"
+ },
+ "keka:turno": {
+  "company": "Turno",
+  "found": "2026-10-26",
+  "website": "http://turno.club/"
+ },
  "keka:urbanpiper": {
   "company": "UrbanPiper",
   "found": "2026-10-22",
@@ -1643,6 +1663,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "lever:kenko": {
+  "company": "Kenko",
+  "found": "2026-10-26",
+  "website": "https://www.gokenko.com/"
  },
  "lever:leantaas": {
   "company": "Cargo",
@@ -1713,5 +1738,15 @@
   "company": "F22 Labs",
   "found": "2026-10-22",
   "website": "https://f22labs.com"
+ },
+ "zoho:keyvalue": {
+  "company": "KeyValueSoftwareSystems",
+  "found": "2026-10-26",
+  "website": "https://www.keyvalue.systems/"
+ },
+ "zoho:revenuehero": {
+  "company": "Revenuehero",
+  "found": "2026-10-26",
+  "website": "http://revenuehero.io"
  }
 }

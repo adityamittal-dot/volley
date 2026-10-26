@@ -1,0 +1,276 @@
+{
+ "leads": [
+  {
+   "id": "142721e20a",
+   "company": "TrueBiz",
+   "website": "https://truebiz.io/",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "Miami, FL, USA; New York, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. Instant Background Checks for Businesses TrueBiz helps financial service providers reduce manual review during business onboarding. We add color to the company's background with 250+ data points on the company from around the web (such as industry and address), and summarize key risk indicators. The process takes seconds – not days, so financial service providers can efficiently meet risk requirements and onboard new businesses faster. Fintech, B2B, Identity, Regtech, B2B, Operations, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://truebiz.io/]\nTrueBiz - Merchant Risk Made Simple NEW: How Nexio caught a fraud ring hiding in plain sight. Read the case study → Solutions Web Presence Review Merchant Monitoring API Docs Resources Company Updates Case Studies Get In Touch Log In Menu Solutions Web Presence Review Merchant Monitoring API Docs Resources Company Updates Case Studies Get In Touch Log In Merchant Risk Made Simple Automate analysis of a merchant's internet footprint in under 30 seconds Schedule Live Demo Our Solutions Web Presence Review In seconds, TrueBiz’s AI synthesizes hundreds of contextual data points from across the web, providing a dynamic snapshot of a business's legitimacy and risk profile tailored to your rules and preferences. Read More Merchant Monitoring TrueBiz’s AI persistently monitors a business's entire internet footprint to proactively alert you to meaningful changes in risk signals before they become costly problems. Read More Deep Investigation TrueBiz uses advanced AI reasoning to deliver detailed, actionable insights for complex cases, automating extensive online investigations. Read More How We Help Enabling payments providers to automate more of the underwriting process Speed Up Time to Activation Reduce the good merchants from dropping out due to manual review wait times Reduce Manual Review Remove the need to analyst to spend 20 minutes Googling each merchant Reduce Risk Prevent prohibited merchants from accessing your service Read the latest news How Visa Cross-Border Solutions increased merchant onboarding automation by 56% Mastercard selects TrueBiz for Start Path Security Solutions innovation program Backed by Leading Investors As seen in TechCrunch \"TrueBiz helps financial services providers onboard business customers faster, avoid fraud. TrueBiz’s end goal is to fundamentally change how financial services organizations verify businesses during account opening\" Read more Ready to get started? Get in touch for a demo Schedule Demo API Docs\n\n[https://truebiz.io/blog]\nTrueBiz Blog NEW: How Nexio caught a fraud ring hiding in plain sight. Read the case study → Solutions Web Presence Review Merchant Monitoring API Docs Resources Company Updates Case Studies Get In Touch Log In Menu Solutions Web Presence Review Merchant Monitoring API Docs Resources Company Updates Case Studies Get In Touch Log In TrueBiz Blog Insights and updates from the TrueBiz team Sign up to receive insights straight to your inbox How Coast Pay built a fraud model around trusted legitimacy signals Published by Marketing Team on September 11, 2026 Coast needed a fast, consistent way to determine whether an applicant was a real, operating business. TrueBiz became a trusted legitima... Read More CloudWalk partners with TrueBiz to power merchant monitoring on JIM Published by Danny Hakimian - CEO & Founder on August 20, 2026 CloudWalk is a global technology company serving more than 7 million monthly active users in Brazil – and it’s rapidly expanding ... Read More How Nexio caught a fraud ring hiding in plain sight Published by Marketing Team on August 17, 2026 Several merchant applications looked clean in isolation. A connected-entity view told a different story. ... Read More Introducing Network Intelligence in Web Presence Review Published by Danny Hakimian - CEO & Founder on August 11, 2026 Fraudulent and high-risk merchants rarely apply to just one payment provider. They often submit applications across multiple acquirers, processors, and fintech platforms at the same time, looking for the fastest route to approval.As TrueBiz has grown, we have gained a broader view of this ... Read More How to balance speed and safety in merchant onboarding Published by TrueBiz Team on May 21, 2026 On April 15 2026, TrueBiz brought together three senior risk leaders to talk about one of the most persistent tensions in payments: how do you onboard mer... Read More Older Posts\n\n[https://truebiz.io/contact-us]\nTrueBiz - Contact Us NEW: How Nexio caught a f",
+   "email_candidates": [
+    {
+     "email": "danny@truebiz.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Danny Hakimian",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "20b15188e7",
+   "company": "Exonic",
+   "website": "https://exonic.ai",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Exonic is an AI-native cell and gene therapeutics company. We program DNA sequences to be context-aware, unlocking new kinds of genetic therapies. Healthcare, Drug Discovery and Delivery, United States of America, America / Canada",
+   "site_text": "[https://www.exonic.ai/]\nTitle: Exonic – AI for adaptive medicine.\n\nURL Source: https://www.exonic.ai/\n\nMarkdown Content:\n## Imagine if medicine   \ncould sense and adapt  \nto disease\n\n![Image 1](https://www.exonic.ai/YC-Logo-Square.png)Backed by Y Combinator\n\n## Exonic designs  \nDNA sensors\n\nWe use AI to design regulatory DNA that adapts to complex biological contexts. We see a world of safer, more powerful cancer immunotherapies.\n\nIntroducing\n\n## Kaleidoscope\n\n### Frontier genomic language model.\n\nMultimodality for controllable DNA generation.\n\n### Zero-shot context generalization\n\nKaleidoscope uses language to contextualize biology. It detects DNA with cell-specific expression in our 15 paper hold-out eval.\n\nDNA rank-shift across settings: Top-10% accuracy Lift vs. chance\n\nKaleidoscope+29.8%\n\nEnformer (DeepMind)+0.1%\n\n## For  \nSmarter  \nBlood\n\nUnlocking precision payload control in blood and next-gen CAR-T cell therapy.\n\n### Last year we announced state of the art cell-line-targeting DNA.\n\n[Cell-Type-Specific cis-Regulatory Elements in HepG2](https://www.exonic.ai/media/cre)\nWe're working on something exciting. Stay tuned.\n",
+   "email_candidates": [
+    {
+     "email": "ben@exonic.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ben Brimacombe",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "25e7415031",
+   "company": "nsave",
+   "website": "https://www.nsave.com",
+   "title": "Engineering (YC Summer 2022)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. Trusted $€£ accounts abroad for people from unstable economies. nsave is a fintech that provides trusted $€£ accounts abroad for people from countries where inflation is high and banking is broken. Fintech, Neobank, Fintech, United Kingdom, Europe",
+   "site_text": "[https://www.nsave.com/]\nOpen a Global USD Account and Send Money Today Learn Articles Helpdesk Get the app About us Get the app Back Your global USD, EUR & GBP Account Get the app 4.4 ★ On the App Store 500k+ nsave users 150+ Supported countries $1B+ Yearly money moved 1m+ Transactions a year Trusted by 500 5 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 k+ users across the globe nsave opens up the global banking system to people traditional banks leave behind. Wherever you are, you can hold USD, GBP and EUR, get real account details in your own name, and move money across borders the way people in stable economies always have. How to get started Receive USD Transfers Get your own ACH and Wire details and receive payments from employers, clients and platforms in USD. GBP Transfers Get paid by UK companies and clients quickly and reliably, via wire or faster payments (FPS). EUR Transfers Receive EUR payments with your own IBAN over SEPA. Accept salaries, invoices and transfers from across Europe. Egypt EGP, USD, EUR, GBP Pakistan PKR, USD, EUR, GBP Bangladesh BDT, USD, EUR, GBP United States USD Europe USD, EUR Turkey TRY, USD Morocco MAD, USD United Arab Emirates AED, USD Qatar QAR, USD Saudi Arabia SAR, USD Nigeria NGN, USD Syria SYP, USD United Kingdom GBP, USD Transfer Send money home Send money home to local PKR, BDT, EGP, SYP and many more bank accounts or mobile wallets. Try the calculator Bank transfers Send USD, EUR and GBP straight to any bank account, at home or abroad. Convert Convert between your USD, GBP & EUR accounts Switch between your balances instantly, whenever the rate suits you. 24/7 Conversion Convert any time, day or night, even when the markets are closed. Great rates, low fees The real exchange rate with one transparent fee and no hidden spread. The safe space for your money Your money's safety comes first at nsave. We hold your funds in segregated accounts, kept fully separate from our own, so they're always yours and never used to run the business. A dedicated engineering team protects your balance around the clock, and a real support team is on hand whenever you hit a problem, so help is always a message away. About nsave Backed by the same investors as the world's best Built for people just like you Remote Workers Freelancers Travelers Frequently asked Questions Who can open a USD, GBP or EUR account with nsave? Are these real bank account details? How safe is my money? How long does it take to open an account? What does it cost? Which currencies can I hold and convert between? 4.4 4 0 1 2 3 4 5 6 7 8 9 . 4 0 1 2 3 4 5 6 7 8 9 of 5.0 on the App Store and Google Play Store Get the app Get the app\n\n[https://www.nsave.com/about]\nAbout nsave | Global USD Accounts Learn Articles Helpdesk Get the app About us Get the app Back A global account for the rest of us. Download Émanuel Grenier-Benoit Abdallah AbuHashem Marie Hubulova Abdul Gofur Amer Baroudi Mira Hoteit Youssef Ramzy Gaelle Yammine Zaid Kaddour Like so many others, our founders escaped a struggling economy. We work for a world in which everyone has access to a trusted account. Meet the team nsave is on a mission to democratise safe and secure financial services for all. The team has experienced financial exclusion firsthand, and is driven by a strong desire to empower its users. Join us as we shift the financial sector from exclusion to action. This is your story and ours. Work at nsave We're looking for the right people to help us do it. If you're passionate about making change in the world, this might be the place for you. See open positions 4.4 4 0 1 2 3 4 5 6 7 8 9 . 4 0 1 2 3 4 5 6 7 8 9 of 5.0 on the App Store and Google Play Store Get the app Get the app\n\n[https://www.nsave.com/careers]\nCareers at nsave Learn Articles Helpdesk Get the app About us Get the app Back Work at nsave nsave is on a mission to democratise safe and secure financial services for all. Open positions Backend Engineer EGYPT Backend Engineer BANGLAD",
+   "email_candidates": [
+    {
+     "email": "amer@nsave.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Amer Baroudi",
+     "role": "Founder"
+    },
+    {
+     "email": "abdallah@nsave.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Abdallah AbuHashem",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "278895d7fd",
+   "company": "AIVideo.com",
+   "website": "https://aivideo.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 12. Superhuman video production as a service Superhuman video production as a service B2B, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.aivideo.com/]\nAIVideo — AI video generation platform Ad Services FAQ Pricing Login Sign Up What will you MUSIC VISUALS Try Now Pro Music Video Try Now Lyric Video Try Now Looping Try Now Visualizer Try Now Image Slideshow Try Now Cutout Tutorial Complete AI Music Video Tutorial TOOLS NEW Try Now Desktop only Model Playground NEW Try Now Desktop only Model Playground NEW Try Now Script to Video Try Now AI Editor (Chat) AI Editor Try Now Desktop only Image to Video Try Now Desktop only Image to Video Try Now Desktop only Audio to Video Try Now Desktop only Audio to Video Try Now Desktop only Edit Image Try Now Desktop only Edit Image Try Now Desktop only Text to Image Try Now Desktop only Text to Image Try Now Desktop only Text to Video Try Now Desktop only Text to Video Try Now Desktop only Matchcut Try Now Desktop only Matchcut Try Now Remove Background Try Now Music Generator Try Now Sound Effects View all E-COMMERCE Try Now Script to Ad Try Now Giant Product Try Now Exploded View Try Now Before & After Try Now Bullet Time Try Now Billboard Ad Try Now Product Review Try Now UGC Split-Screen Try Now Poster Ad View all Privacy Policy • Terms & Conditions • llms.txt",
+   "email_candidates": [
+    {
+     "email": "justin@aivideo.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Justin Harvey",
+     "role": "Founder"
+    },
+    {
+     "email": "eduardo@aivideo.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Eduardo Faraday",
+     "role": "Founder"
+    },
+    {
+     "email": "orestis@aivideo.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Orestis Lykouropoulos",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "2b558bdb54",
+   "company": "Akute Health",
+   "website": "https://www.akutehealth.com",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Austin, TX, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 4. The medical record & infrastructure stack for digital health companies Akute is an automation-first electronic medical health record system (EMR). It’s a co-pilot for digital health and direct primary care companies that are growing modern practices. Akute’s platform is fully programmable and customizable that enables clinical businesses to cut admin overhead and give time back to providers so they can spend more time with patients. In a space of legacy tech, our team and platform’s agility and exceptional customer support makes us stand out. Join a VC-backed company in its seed stage and help make real improvements to healthcare. SaaS, B2B, Telemedicine, Healthcare, Healthcare IT, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.akutehealth.com/]\nAkute Health | An Automation-First EHR for Modern Care Book a Demo Login An Automation-First EHR for Modern Care An Automation-First EHR for Modern Care Streamline your practice operations so you can focus on what truly matters â your patients. Streamline your practice operations so you can focus on what truly matters â your patients. Streamline your practice operations so you can focus on what truly matters â your patients. Book a Demo Streamline your practice operations so you can focus on what truly matters â your patients. Book a Demo Streamline your practice operations so you can focus on what truly matters â your patients. Book a Demo Proudly serving clinics like: Everything you need to run the show. Everything you need to run the show. Akute isnât just an EHR, itâs your co-pilot for launching and growing a modern, patient-focused care practice. We built it to reduce admin work and enhance patient connection so you can lead with your clinical instincts. Efficient, Flexible, and Built for Growth Manage your entire clinic with customizable charting, flexible scheduling, task workflows, billing tools, and an intuitive provider dashboard. Easy to use calendar Task & document management Custom chart templates Secure file storage Communication that Feels Human Text, message, and automate intake workflows with built-in tools that make patient interactions simple, secure, and efficient. Secure messaging Online intake forms Appointment reminders Patient portal access Actionable Data at Your Fingertips Track key metrics, cohort trends, and practice performance with intelligent dashboards designed for direct care decision-makers Custom reports Intelligent Cohortsâ¢ Patient population insights Exportable analytics Connect the Tools You Already Love Akute integrates with industry-leading tools so you always have access to the tools and features that help you grow your modern practice. E-Rx & pharmacy integrations Labs & imaging Spruce + Hint integration Open API for developers Explore All Features Is Akute Health right for your practice? Direct Primary Care Clinics Less tech sprawl means more time with patients. Concierge Practices Digital Health MedSpa & Aesthetics Wellness & Integrative Health Direct Primary Care Clinics Less tech sprawl means more time with patients. Concierge Practices Digital Health MedSpa & Aesthetics Wellness & Integrative Health Direct Primary Care Clinics Less tech sprawl means more time with patients. Concierge Practices Digital Health MedSpa & Aesthetics Wellness & Integrative Health Learn More Don't just take our word for it; Here's what our customers are sayingâ¦ âI didnât want something bloated or overly complex...I needed a system that worked for me, not the other way around. [The Akute Team] is always checking in...and theyâre receptive to feedback and updates, which makes a big difference.â Dr. Su-Anne Hammond, DO Founding Physician, 4Health Family Medicine, Maine âIt's not lost on the Akute team how much this tool impacts my day-to-day life and work. I really appreciate that Iâm not yelling into a void when I have feedback -- itâs always heard.â Rob Lamberts, MD CEO, Welcome Health âWe want our top employees to handle patient and practice satisfaction challenges, not counting beans. The automated text feature alone has saved our Enrollment Specialist 15 hours per month, improving her satisfaction at work and giving our patients a better experience.â Travis Bockenstedt President & Chief Experience Officer, Pinnacle Advanced Primary Care \"Iâm really pleased with this tool - this thing is really powerful and I can go from one patient to the other. I love the prescribing system. The entire process is super seamless - itâs just that good.\" Genevieve Montoya, DNP, FNP-BC Owner, Salud Healthcare \"Akute Health has been my support system as I've grown my practice. It's made everything not just easier and more efficient - but actually func",
+   "email_candidates": [
+    {
+     "email": "info@akutehealth.com",
+     "where": "https://www.akutehealth.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "373580bc94",
+   "company": "PAX Markets",
+   "website": "https://pax.markets/",
+   "title": "Founding Hardware Engineer",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Founding Hardware Engineer (Redwood City, CA, US; experience: Any (new grads ok); Will sponsor). Team size: 6. Co-located trading facility and matching engine on one chip. PAX delivers more 𝛼 with its in-silicon exchange and HFT technology. The PAX on-chip λ API provides deterministic nanosecond tick-to-trade latency. HFT λ traders experience non-adverse counterparty selection by pairing with free-tier traders who access PAX using our zero-cost and rebated API. Using our patented technology, PAX is building a new generation of exchange co-lo facilities that unite HFT with exchange. Fintech, Banking and Exchange, United States of America, America / Canada",
+   "site_text": "[https://pax.markets/]\nPAX Markets Now in public alpha → Trade In Nanoseconds Your trading logic, on-chip with the market. The most co-located you can get. LEARN MORE SIGN UP Regulated services provided by 1Money USA, Inc. , a licensed money transmitter, NMLS ID 2628653 · Licenses OUR MISSION No fees, new rebates, and a faster market. HOW IT WORKS PATENTED λ API Co-Location on a chip: trade from the same silicon as the matching engine. Existing platforms require that orders originate from external servers. PAX delivers zero-distance trading. This means your orders aren't delayed by network latency when new market data is published; they fire instantly. An order placed through the PAX λ API has a speed advantage over orders placed from external servers. It's the fastest path from decision to execution in any market, anywhere. ALIGNED INTERESTS Built for Wall Street and Main Street Institutions need trusted infrastructure: third-party custody and settlement, plus ultra-low latency matching. Retail traders deserve the same institutional-grade protections without the institutional barriers. With transparent pricing, no hidden fees, and speed as a service, PAX ensures every trader gets a fair shot at the best execution possible. GET PAID Monetizing what matters: we sell speed, not trades. Most exchanges charge a fee to trade, but give their biggest customers - the market makers - deep discounts on their fees. At PAX, the majority of our customers trade with zero fees, including ordinary traders who would normally pay the highest fee tier at existing venues. PAX makes money by selling access to its λ API, a feature that is open to every PAX client but primarily of use to market makers. Realized fee or rebate rate depends on blend of order types. Learn more THE DIFFERENTIATOR Moving the needle with rebates for taking order flows Taking at PAX is free and can put money back in your pocket, while most trading venues charge fees that eat into your profits. Typical exchange: -10 bps fee Taking at PAX: +0.25 bps rebate Net to customer 10.25 bps Up to 10.25 bps back to your bottom line.\n\n[https://pax.markets/blog/]\nBlog - PAX Markets Nov 6th, 2024 Fees & Rebates In Crypto, Fees are High and Speeds are Slow We discuss crypto trading fees and how at PAX all standard marketable and limit orders incur zero-fees and can earn a rebate. This is completely unique in all capital markets. READ MORE Jan 15th, 2025 Algorithmic Trading PAX Î» API: The Fastest Tick-to-Trade PAX offers instant order placement - the fastest tick-to-trade at any venue in any asset class. In this blog post, we present the PAX Î» API, the algorithmic trader's interface to PAX liquidity. READ MORE Jan 20th, 2025 Algorithmic Trading PAX Î» Use Cases: Market Making and Taking Exploring ultra-low latency event-driven trading with PAX Î» API. We discuss market making & taking, how PAX Î»s reduce exposure risk, and several specific use cases for the PAX Î» API. READ MORE Feb 11th, 2025 Market Structure An alternative to PFOF: on-exchange trading incentives with inherent price competition We discuss the PAX zero-fee + cash-back model and compare it to payment-for-order-flow (PFOF). PAX's model channels value back to traders while promoting price competition. READ MORE More Coming Soon. Stay tuned for our upcoming articles and updates.\n\n[https://pax.markets/blog/rebates/]\nIn Crypto, Fees are High and Speeds are Slow - PAX Markets In Crypto, Fees are High and Speeds are Slow We discuss crypto trading fees and introduce the PAX \"zero-fee + cash-back\" fee and rebate structure - a completely unique model in both crypto and traditional capital markets. PAX offers zero-cost API and web app based marketable and limit orders Marketable orders execute immediately because their price automatically meets the best price offered by the market. Limit orders may not execute immediately; e.g. a limit order to buy at $99.99, when the best offer to sell is at $100.00, is \"not marketable.\" Market orde",
+   "email_candidates": [
+    {
+     "email": "info@pax.markets",
+     "where": "https://pax.markets/",
+     "kind": "generic"
+    },
+    {
+     "email": "pete@pax.markets",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Pete Stevenson",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "benjamin@pax.markets",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Benjamin Kilimnik",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "3764e80c6f",
+   "company": "Buoyant Aero",
+   "website": "https://www.buoyant.aero",
+   "title": "Avionics Lead (2-week contract, NYC area, on-site)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Avionics Lead (2-week contract, NYC area, on-site) (New York, NY, US; experience: Any (new grads ok); US citizen/visa only). Team size: 2. Bringing back blimps Buoyant Aero builds zero-emissions autonomous drone blimps to break free from existing advertising paradigms and reach new audiences in new places. Whether it’s on the beach, outside the convention center, or through the window of your target executive’s office, Buoyant’s blimps amplify your message to create measurable brand benefits. Robotics, Drones, Advertising, Industrials, Drones, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.buoyant.aero/]\nBuoyant Aero - Zero Emissions Automated Blimps Get in Touch UNLOCK THE SKY We believe airspace should be more than transit — for centuries, we’ve looked up whenever we wanted to feel inspired, connected, and full of possibility. Buoyant is the world's first zero-emissions blimp built to carry messages that move people. Get in Touch Frequently Asked Questions Client Stories Director of Marketing Amazon Prime Video \" I'm already planning my next campaign to include you guys again! Obsessed with what you have created. \" Movie Release Activation Anthony Scarpone-Lambert Adni \" Partnering with Buoyant was a game-changer. The blimp stole the show at NTI – people couldn't stop taking photos, scanning the QR, or talking about it. It turned our brand into the centerpiece of the entire conference and after two days over 5,000 nurses knew about or had signed up to join our community. \" Brand Awareness at Conference Lureena Cheerio Collective \" Walking the blimp down the street to the shop literally stopped traffic – people were pulling over to ask about it. Once it was inside, it changed everything. Everyone who saw it commented on how amazing it looked. It brought a dreamy, floaty energy that made people hang out longer and smile. \" Retail Launch Activation Introducing Blimps-as-a-Service Blimps haven’t changed in 100 years — until now. We’ve reinvented them as fully electric, self-flying aerial platforms powered by cutting-edge drone research. From envelope design and printing to real-time flight ops and audience engagement, Buoyant delivers the entire experience turnkey. Up to 35 Feet Long School bus-sized 8 Hour Flight Duration 4K On-Board Camera Aerial livestream 6.5x Better Brand Recall As compared to traditional billboards FAA Compliant Fully certified and compliant with Federal Aviation Administration regulations Zero Emissions Environmentally friendly operation with no carbon footprint Custom Graphics Fully customizable branding and messaging for your campaign Pre-Planned Routes Automated flight paths optimized for maximum visibility and safety WiFi Lead Capture Built-in connectivity for real-time audience engagement and data collection Advanced Safety Ballistic nylon envelope, geofenced airspace, and manual control override Schedule Consultation Ready to Take to the Skies? Join the growing list of organizations leveraging Buoyant's aerial platform to deliver unforgettable brand experiences — from live-streaming events from above to immersive ground-level experiences and interactive blimp encounters. Get in Touch View Case Studies Get in Touch Interested in learning more about how Buoyant Aero can elevate your business or event? Contact our team today. Backed by Take the Controls Ever wondered if we could fly a blimp near you? Our Flight Simulator lets you explore possibilities in your area. You're the pilot now. Real airspace data Instant feasibility check Custom deployment plan Launch Flight Simulator 🎯 Enter any address • Get instant results • No obligation",
+   "email_candidates": [
+    {
+     "email": "benjamin@buoyant.aero",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Benjamin Claman",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "3e9bb1d713",
+   "company": "Vesence",
+   "website": "https://vesence.com",
+   "title": "Engineering (YC Spring 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. The Agent-Native Computer Vesence is a computer built for agents doing 99% of the work. Device-agnostic and model-agnostic, it brings your inbox, files, browser, and tools into one workspace. Run Claude Code and Codex, direct agents in parallel, and stay in control from any device. Finance, B2B, Legal, AI, B2B, United States of America, America / Canada",
+   "site_text": "[https://www.vesence.com/]\nVesence | The Agent-Native Computer for ambitious work The computer built for agents doing 99% of the work. The agent-native computer for your most ambitious work. Built for you to manage hundreds of agents with control. Request an invite Book a 15-minute demo â Backed by Paul Graham Anton Osika V Desktops V 9+ 2 Desktop 1 Why Vesence Direct more. Stay in control. Do many things at once, from any device, on the models you choose, with agents that work from whatever you point them at. Made for multitasking Think like a manager with Vesence. Each agent gets its own desktop for you to review its work. Device agnostic Your computer runs in the cloud. Start Claude Code on your laptop, close it, and keep it going from your phone. Model agnostic The latest models from Anthropic and OpenAI, side by side. Pick the one you want for each chat. Human and AI collaboration You and your agents work on the same things. Select an email, a file, a clause or a range of cells at any point, typing or talking, and your agent has it as context. The Operative System An operating system for you and your agents. Built for you and your agents to work together on what matters most: your email, calendar, browser, files, documents and code, shared by both of you. Email client Calendar Browser Drive Terminal Documents Spreadsheets Email client Your inbox, answered for you. Replies are written and waiting in Drafts, so all that's left is to send them. Calendar Your week, scheduled for you. Meetings land where they fit, and invites go out when you send them. Browser Web work done for you, signed in as you. Watch every click, and take over whenever you like. Drive Files found, put together and filed for you, so everything is where your team expects it. Terminal Code written and run for you, from quick scripts to bug fixes, ready for your review. Documents Documents edited for you, in the file itself. Every change is tracked for you to accept or reject. Spreadsheets Spreadsheets kept up to date for you. New numbers arrive as tracked changes, and your formulas stay intact. Email client . Your inbox, answered for you. Replies are written and waiting in Drafts, so all that's left is to send them. Who it's for One computer. Different ambitions. Raising a round, shipping a release, closing a deal, backing the next company. Whatever your most ambitious work is, Vesence gives you the agents to take it on, each in its own desktop. Founders Sell, hire and raise at the same time, while agents keep your inbox and the investor update moving. Engineers Fix, review and ship in parallel. Run Claude Code or Codex in the terminal, on the same computer as your mail and calendar. Lawyers Take on more matters. Agents review the markup and work through the data room, and every edit comes back tracked for you to accept. Investors Look at more companies, from the first intro to the IC memo, with agents reading the data room and your call notes. Where we're headed The computer built to scale your judgment. We're building the computer with the ambition to make people 100x more productive. The more agents do, the more your judgment matters. So every agent works where you can see it, and the decisions stay yours. Try Vesence out Request an invite or book a 15-minute demo â\n\n[https://www.vesence.com/about]\nAbout Vesence | Human judgment, augmented About Vesence Human judgment, augmented. We're building the computer to scale your judgment with hundreds of agents. I . Why we build We live in an age of infinite leverage. We believe humans will direct hundreds of agents each. That makes human judgment more important than it has ever been. Yet no platform today balances the power of agents with a clear view of what they actually did. Weâre building the one that does: where judging the work is as simple as it can be. II . What we're building The agentic experience, with a human in the loop. Vesence is one desktop for documents, spreadsheets, decks and email. Age",
+   "email_candidates": [
+    {
+     "email": "hello@vesence.com",
+     "where": "https://www.vesence.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "careers@vesence.com",
+     "where": "https://www.vesence.com/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "3f0e830410",
+   "company": "Adentris",
+   "website": "https://www.adentris.com",
+   "title": "Engineering (YC Spring 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Real-time AI Compliance & Revenue Integrity for Medical Providers US healthcare providers lose billions every year to denied claims, most of them traced back to documentation and coding gaps no one catches until the payer says no. Adentris is an AI revenue integrity platform that catches them first. Our AI agents read EHR and payer interfaces directly, no API integration required, across five modules: documentation, coding QA, prior authorization, appeals and denials, and discharge summaries. And for providers that don't have their own CDI or billing teams, we run billing as a service on top of the platform. Artificial Intelligence, Health Tech, B2B, Compliance, Enterprise Software, Healthcare, Healthcare IT, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.adentris.com/]\nAdentris Â· AI for Healthcare Revenue Integrity & Compliance Skip to content ADENTRIS Contact Sales The AI platform for revenue integrity and compliance. Continuously audit every chart, every claim, and every prior auth in real time, across any EHR, with no integration project required. Hospitals, health systems, and behavioral health networks use Adentris to recover revenue, prevent denials, and stay audit-ready every day. Request a demo Contact Sales How to get started â 73 â 96% documentation accuracy pre-submission, customer data â62% claim denials 90 days, multi-site BH 60 days contract to full production app.adentris.com / coding / BATCH-2026-001 10 claims MODULES Documentation integrity Coding & billing Utilization review Quality measures Audit response Claim #3 Â· Patient A Â· 01/07/2026 Â· Pain Mgmt 89% confidence 01 Codes parsed 99213 Â· 36415 Â· 85025 Â· 85610 â 0.3s 02 Coverage & medical necessity LCD validated Â· payer rules applied â 1.1s 03 AI suggestions 99213 â 99214-25-U5 Â· add +82607 Â· +83540 Running 04 Revenue & risk impact +$70â$130 Â· audit risk caught Queued Claims reviewed 10 Revenue uplift $620â$1,290 Audit risk caught $1,450â$2,300 Clean claims 1 / 10 Documentation integrity just now Added missing problem-list entry F33.1. Supported by note timestamp 13:48. Coding accuracy 2s ago Modifier 25 missing on CPT 99214. Suggested 99214-25-U5 Â· routed to coder for review. Running right now 0 chart reviews this month 0 claims reviewed this month Customers Programs & institutional partners Platform coverage Solve the immediate need today. Add the rest later. Five modules on one platform with one agent layer. Same architecture, same security review, same deployment playbook. From intake to claim, and back when appeals fire. Documentation Compliance Patient intake to discharge CMS, Medicare, Medicaid, state, accreditation, and payer audit rules, plus your own QA playbook, turned into a proactive compliance engine. Every chart checked against the full framework while the patient is still on census. Documentation co-pilot Any EMR, no extra tool Drafts treatment plans, progress notes, and discharge summaries directly in your EMR through browser integration. Clinicians review and sign instead of writing from scratch. No new tool, no copy-paste. Coding QA Every claim, every specialty Reads every claim against the underlying chart. Flags E/M under-coding, missing add-on codes, modifier errors, NCCI bundling, LCD and medical necessity gaps, DME accuracy. Every finding cites the chart. Benchmark: $640â$1,225 recoverable revenue per 10 claims Note 14:52 Â· query auto-sent to MD Note 14:55 Â· awaiting attestation Prior Authorization All channels, one workflow Pulls diagnosis, ASAM level, treatment plan, and medical necessity from the EHR. Generates a payer-ready Utilization Review PDF. Submits via portal, fax, and phone in a single workflow. Pipeline visibility across every payer and level of care. Appeals & Denials Root cause to recovery Automates root-cause analysis, supporting-documentation assembly, and appeal letter generation. Regulatory citation attached. Recoveries faster, with audit-ready trail. Platform layer Workflow execution and team handoffs Findings routed by role: coders see codes, clinicians see clinical gaps, compliance sees the audit trail. No more triage meetings. â62% denials in 90 days 7.6Ã ROI in 4 months Platform layer Dashboards and operational visibility Documentation quality, financial risk, and operational performance in one view. Drill down to the chart that's costing you money. Compliance score 84% Docs accuracy 96% Open topics 47 Avg resolution 2.4d Specialized Specialized capabilities Utilization review, quality measures, sepsis bundle adherence, and behavioral health documentation. Enabled per program or facility. Specialized capabilities for utilization review, quality measures, sepsis bundle adherence, and behavioral health documentati",
+   "email_candidates": [
+    {
+     "email": "founders@adentris.com",
+     "where": "https://www.adentris.com/about",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "3fc0a68f6d",
+   "company": "OpenUnit",
+   "website": "https://www.openunit.com/",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "Toronto, ON, Canada; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Software for managing self-storage facilities. OpenUnit is the all-in-one platform self-storage facilities need to run their business - whether they’re a single mom-and-pop site or a multi-facility corporation. Our complete set of tools gives storage operators what they need most—a powerful online presence, reservation system, legal agreements, insurance, merchant solutions and management software to simplify the process of running a storage facility. On top of that, OpenUnit gives facilities: • Team Management & Communication: Every account includes a space that lets you share messages with co-workers & head office. All without reaching for a separate app. • Payments & Point-of-Sale: Increase your revenue with payment options that support all card types, and increase in-store purchases with Point-of-Sale (POS) software. • Accounting & Bookkeeping: From sales and purchases to cashflow, taxes and reporting. OpenUnit Books will make you feel like a professional accountant, even if you aren't. SaaS, B2B, Operations, Canada, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.openunit.com/]\nOpenUnit | The Modern Solution for Self-Storage Facilities Questions? Talk to our team Everything you need to run your self-storage facilities, whether you’re big or small. Get a demo — it's free Contact us to learn how OpenUnit software can work at your self-storage facilities. Our team will be in touch within 24 hours. An integrated back office for your facilities and call center. OpenUnit is a complete set of tools that gives storage operators the things they need most—a powerful online presence, reservation system, merchant solutions, and management software to simplify running a storage business. Loved by the frontline and the boardroom We’ve designed OpenUnit from the ground up with your customers, your team, and your security in mind. Why use legacy software that was built for the way business used to be done? Our fast, intuitive, and modern software is built on a tech stack that provides best-in-class usability, performance, and security right out-of-the-box. Manage Understand customer data and act on it with pre-built segments like top locations, common tags, and even customer lifetime value. Market Reach your customers in new ways online, and custom design your online store and checkout experience to match your brand. Optimize See how your facilities are performing with valuable operational analysis & insights to help understand your tenants. Sales Accept payments every way your customers want to pay, and increase in-store purchases with Point-of-Sale (POS) software. We scale with your business needs All the tools you need in one OpenUnit account. Every OpenUnit account includes a complete set of management tools to ensure you and your team are set up for success. Customer Relationship Management What's included Customer relationship management Price & revenue management tools Rich customer profiles Text & email messaging Digital signatures Lease agreement templates Payments & Point of Sale Terminal What's included Flexible payment methods PCI compliant ACH payments Real-time risk & fraud assessments Simplified reporting & reconciliation EMV Level 1, 2, 3 pre-certified card readers Marketing Website & Search Engine Optimization What's included Free website hosting & SSL certificate Online reservations & payments Omni-channel discounts & promotions Online Tenant Rental Hub White label & branding SEO & PPC management Team Chat & Employee Management What's included Real-time group chats Direct messages (DMs) Custom to-do's lists Rental comp collection Universal search and tagging Accounting & Bookkeeping What's included Double-entry bookkeeping Accrual & cash-basis accounting Profitability & expense tracking Extended team accountant provisioning Reporting dashboard Enterprise Security What's included Two-factor authentication 90-day expiring passwords Encrypted Personally Identifiable Information (PII) Compliant document & file storage Legally-binding digital signatures Custom roles & team permissions Get a demo — it's free The modern solution for self-storage facilities Let's talk OpenUnit Learn how OpenUnit can help you effortlessly onboard and manage your self-storage facilities, whether you have 1 location or 1,000. Get a Demo — it's free Contact us to learn how OpenUnit software can work at your self-storage facilities. Our team will be in touch within 24 hours.\n\n[https://www.openunit.com/about]\nOpenUnit | Our Story Questions? Talk to our team About OpenUnit We build management software to take self-storage teams to the next level, whether you're big or small. Photo by Scott Webb Our story OpenUnit is the all-in-one platform self-storage facilities need to run their business - whether a single mom-and-pop site or a multi-facility corporation. We help operators focus on what matters, providing a flawless customer experience through empowering teams and driving better and faster decision making. Founded in Toronto, Canada in 2019, our complete set of tools gives storage operators the thing",
+   "email_candidates": [
+    {
+     "email": "taylor@openunit.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Taylor Cooney",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

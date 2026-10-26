@@ -1,0 +1,273 @@
+{
+ "leads": [
+  {
+   "id": "5f24f1612d",
+   "company": "CodeGraphContext",
+   "website": "https://cgc.codes",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Graph Engineering approach towards development of swarm of agents. Languages: HTML, Python. Topics: agentic-ai, codegraph, codegraphcontext, graph-engineering, graph-orchestration, hacktoberfest2025, social-winter-of-code",
+   "site_text": "[https://cgc.codes/]\nTitle: CodeGraphContext - AI-Powered Code Knowledge Graphs\n\nURL Source: https://cgc.codes/\n\nMarkdown Content:\nVersion 0.5.1 • MIT License\n\n## THE CODEBASE   \nKNOWLEDGE GRAPH\n\nA powerful CLI toolkit and MCP server that instantly indexes your local code into a fully navigable graph for AI assistants.\n\n4352 Stars\n\n•\n\n843 Forks\n\n•\n\nLoading stats...\n\n## See CodeGraphContext in Action\n\nWatch how CodeGraphContext transforms complex codebases into interactive knowledge graphs.\n\nExperience the next generation of AI‑powered code understanding with graph‑based intelligence.\n\n| Feature | C | R | CodeGraphContext |\n| --- | --- | --- | --- |\n| Smart Code Completion | ✓Strong | ✓Strong | ✓Strong |\n| Dependency Tracking | ✕No | ✕No | ✓Direct + Multi‑hops |\n| Context‑Aware Refactoring | ▲Limited | ▲Limited | ✓Via dependency tracing |\n| Deep Codebase Understanding | ✕Limited | ▲Partial | ✓Graph‑based analysis |\n| Cross‑Repository Navigation | ✕Very low | ▲Some | ✓Complete code view |\n| AI Explanation Quality | ✕Low | ▲Hallucinated | ✓Extremely accurate |\n| Scalable Performance | ✕Slows with size | ✕Slows with size | ✓Graph DB scaling |\n\n## Powerful Features\n\nTransform your codebase into an intelligent knowledge graph that AI assistants can understand and navigate\n\n01\n\nAnalyzes code and builds a comprehensive knowledge graph of its components, relationships, and dependencies.\n\n02\n\nQuery for callers, callees, class hierarchies, and complex code relationships through natural language.\n\n03\n\nWatches local files for changes and automatically updates the graph in real-time as you code.\n\n04\n\nUser-friendly command-line wizard for easy setup. FalkorDB Lite is default (Unix and WSL), with Neo4j available via Docker or native installation.\n\n## Get Started in Minutes\n\nInstall CodeGraphContext globally and configure it for your workflow.\n\n1\n\n### Global Installation\n\nInstall the package globally via pip to access the `cgc` command everywhere.\n\n### Choose Your Mode\n\nConnect to AI IDEs (VS Code, Cursor, Windsurf, Claude). Let AI agents query your codebase using natural language.\n\n2\n\n#### 2 Run Setup Wizard\n\nConfigures your preferred IDE (Cursor, VS Code, etc.) with the correct paths.\n\n3\n\n#### 3 Start Server\n\nLaunches the background server. Your AI assistant is now ready to query the graph!\n\nBundle Registry\n\n## Pre-indexed CGC Bundles\n\nBrowse and download pre-compiled context bundles for popular repositories. Or search servers and community contributions.\n\nSearch bundles\n\nLoading bundles...\n\n## Natural Language Interface\n\nInteract with your code graph using plain English. No complex queries or syntax to learn.\n\nIndexing\n\n### Add Projects to Graph\n\n\"Please index the code in the `/path/to/my-project` directory.\"\n\n\"Add the project at `~/dev/my-app` to the code graph.\"\n\nAnalysis\n\n### Code Relationships\n\n\"Show me all functions that call `process_data()`\"\n\n\"Find the class hierarchy for `BaseProcessor`\"\n\nMonitoring\n\n### Live Updates\n\n\"Watch the `/project` directory for changes.\"\n\n\"Keep the graph updated for my active development.\"\n\nInsights\n\n### Code Quality\n\n\"Find dead code in my project\"\n\n\"Show the most complex functions by cyclomatic complexity\"\n\n## Loved by Developers\n\nSee what the community is saying about the future of code intelligence\n\n\"\n\n### Teams Love It\n\n“Seems an interesting solution to the context problem in large codebases🤩”\n\nStunning-Worth-5022\n\nReddit User\n\nPractical examples and patterns for using CodeGraphContext with AI assistants. Copy the JSON arguments and use them directly with your MCP-enabled AI tools.\n\n### Basic Navigation & Discovery\n\nEssential queries for exploring and understanding your codebase structure.\n\n#### Find all definitions of a function\n\nFind all definitions of the 'helper' function.\n\nanalyze_code_relationships\n\n#### Find all calls to a specific function\n\nFind all calls to the 'helper' function.\n\nanalyze_code_relationships\n\n#### Find what a function calls\n\nWhat functions are called inside the 'foo' function?\n\n",
+   "email_candidates": [
+    {
+     "email": "codegraphcontext@gmail.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "ee270be2d0",
+   "company": "Bucketlistt.com",
+   "website": "https://bucketlistt.com",
+   "title": "Software Engineering (recently funded)",
+   "location": "Ahmedabad, India",
+   "source": "funding_news",
+   "posted_at": "2026-10-26T05:31:17Z",
+   "posting": "Kairon Capital leads Rs 7.6 Cr seed round in travel-tech startup Bucketlistt.com. Travel-tech startup Bucketlistt.com has raised Rs 7.6 crore in a seed funding round led by Kairon Capital, with participation from Titan Capital, Divisa Family Office and Kunal Popat. The startup had earlier raised Rs 1.07 crore in a pre-seed angel funding round at a post-money valuation of Rs 10.07 crore. The round saw participation from angel investors including Arvind Choudhar, Aenik Shah, Kartik Khatri, and Yash Mehta. The fresh funds will be utilized to strengthen technology and product, onboard more high-quality operators, and expand beyond Rishikesh, starting with Manali and Bir, and invest in content, organic discovery and distribution partnerships, Bucketlistt said in a press release. Launched last year by Shubham Makhecha, Nitant Desai and Divyam Shah, Bucketlistt.com is a platform to discover and book experiences across India. Its operator platform, OkGhumo, is an operating system for experience providers that digitises bookings, inventory, agents and payments. The Ahmedabad based startup helps travellers discover and book verified travel experiences, from skydiving in Mt. Abu and front row seats at the Ganga Aarti in Rishikesh to dinner with royal families in Jaipur. The company launched in Rishikesh in December 2025. Alongside the marketplace, it runs OkGhumo, a platform that experience providers use to manage bookings, inventory, agents, payments and daily operations. In the last 10 months, Bucketlistt.com and OkGhumo claimed to have together managed more than Rs 22.5 crore in bookings, while Bucketlistt.com has served more than 12,000 customers. About one in five of its customers now comes through word of mouth. Launched in March 2026, OkGhumo has served more than 50,000 customers. Leading adventure operators in Rishikesh use it daily to manage bookings, inventory, agent settlements and payments, replacing calls, WhatsApp and spreadsheets. It also provides Bucketlistt.co",
+   "site_text": "[https://www.bucketlistt.com/]\nBungee Jumping, Rafting & Adventure activities in India | Bucketlistt Booking desk — +91 85118 38237 Bungee Rafting Paragliding Hot air ballon Zipline Hand-picked experiences for tourists Explorers Explore India's best destinations Hear what our customers are saying ❤️ FROM ‘I CAN'T’ TO ‘I JUST DID.’ 2200+ Happy Customers Unfiltered stories from the bridge, the sky and the river — every one booked and lived on Bucketlistt. 4.9 Rating in Google REEL “From can’t to just did .” REEL “From can’t to just did .” + 24 Customer reviews Read all reviews → ” “ I am not usually a traveler, but a few days ago I visited Rishikesh for a solo trip. I did not know much about adventure activities, but I… ” Sachin Padyar ✓ Solo Traveler · Rishikesh Adventure Ac… ” “ Hey Bucketlistt, it was a great pleasure doing our booking via your platform. Your team was very supportive and cooperative as it was our f… ” Mahek Shah Nishar ✓ India · Rishikesh River Rafting ” “ We had an awesome experience. It was our 1st time doing rafting and we were a little worried, but with all the support from Bucketlistt and… ” Radhika Vishal Patel ✓ India · Rishikesh River Rafting Bestsellers Media Coverage bucketlistt in the press — pre-seed funding and India's experiences marketplace. Online ET Entrepreneur Bucketlistt raises ₹1.07 crore pre-seed funding YourStory Startup news and updates: daily roundup (May 26, 2026) VCCircle C2i Semiconductors, Bucketlistt, Two Others Secure Funding Daily Hunt Startup news and updates: daily roundup (May 26, 2026) Indian Startup Times Bucketlistt Raises ₹1.07 Crore in Pre Seed Funding to Build India's Experiences Infrastructure TICE News Startup News Today: Profitability, AI, Scale Take Centre Stage Vie Stories Bucketlistt Raises ₹1.07 Crore in Pre Seed Funding to Build India's Experiences Infrastructure Silicon India Bucketlistt Raises Rs 1.07 Crore To Expand Experiences Platform IPO News Rishikesh based startup Bucketlistt Raises ₹ 1.07 Crore Press Network Of India Bucketlistt Raises ₹1.07 Crore in Pre Seed Funding to Build India's Experiences Infrastructure ET Entrepreneur Bucketlistt raises ₹1.07 crore pre-seed funding YourStory Startup news and updates: daily roundup (May 26, 2026) VCCircle C2i Semiconductors, Bucketlistt, Two Others Secure Funding Daily Hunt Startup news and updates: daily roundup (May 26, 2026) Indian Startup Times Bucketlistt Raises ₹1.07 Crore in Pre Seed Funding to Build India's Experiences Infrastructure TICE News Startup News Today: Profitability, AI, Scale Take Centre Stage Vie Stories Bucketlistt Raises ₹1.07 Crore in Pre Seed Funding to Build India's Experiences Infrastructure Silicon India Bucketlistt Raises Rs 1.07 Crore To Expand Experiences Platform IPO News Rishikesh based startup Bucketlistt Raises ₹ 1.07 Crore Press Network Of India Bucketlistt Raises ₹1.07 Crore in Pre Seed Funding to Build India's Experiences Infrastructure Know more Choose Your Adventure Handpicked local vendors across the India. View more 5+ Amazing Cities 47+ Verified Partners 2200+ Happy Customers bucketlistt provides you with a reliable service through which you can book all your adventure activities, whether it be India’s highest bungee jump, trekking, and river rafting, or any other adventure activities in India. Forget about spending countless hours browsing operator reviews and worrying about safety. We, as an adventure booking platform, bring you guaranteed adventures, affordable prices, and immediate confirmation. Whether you want to get away for the weekend or check off items on your bucketlistt, we ensure your adventure begins stress-free. No hassles. No hidden costs. Just an adventure. Adventure Guides & Inspiration Expert tips, destination insights, and activity guides to help you plan unforgettable adventures across India. Shubham Makhecha 21 Oct 2026 Rishikesh Adventure Activities: Best Things to Do for Thrill Seekers Discover top Rishikesh adventure activities, from bungee jump",
+   "email_candidates": [
+    {
+     "email": "seo@bucketlistt.com",
+     "where": "https://www.bucketlistt.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded",
+   "referral": false
+  },
+  {
+   "id": "a7e911041e",
+   "company": "Firstwork",
+   "website": "https://firstwork.org",
+   "title": "Software Engineering (recently funded)",
+   "location": "India",
+   "source": "funding_news",
+   "posted_at": "2026-10-24T06:37:00Z",
+   "posting": "Firstwork Raises $15 Mn In Series A Round Led By Earlybird Venture Capital. Firstwork Raises $15 Mn In Series A Round Led By Earlybird Venture Capital TradingView",
+   "site_text": "[https://firstwork.org/]\nHome - First Work Skip to content Recommendations to Government Cut the Red Tape, Boost Client Connections Career Development Professionals are essential to connecting Ontarians to meaningful work, yet over 40% of time is spent on administrative tasks, instead of client services. Leverage existing employment verification pathways to reduce administrative burden. Read 'The Weight of Paperwork' to see how policy is slowing career progress in Ontario. Cut the Red Tape Recommendations to Government Strengthen Frontline Services, Drive Workforce Growth Ontario needs a strong workforce to compete. Since 2010, service providers have adapted to stretch every dollar — but funding hasn’t kept pace with demand. It’s time to invest in direct-to-client services. The need to strengthen our public employment services is clear — to secure Ontario’s Future. Drive Workforce Growth Recommendations to Government Invest in Youth Employment for lasting economic impact Youth Unemployment is Rising—Support is Shrinking. Youth need pre-employment supports to set them up for success. Programs like Youth Job Connection (YJC) have been cut, leaving young people without critical job search support. Investing in targeted services is the only way forward. Invest in Targeted Services Now Building Expertise in Employment Services Strengthening employment service providers through training, resources, and best practices to enhance workforce capacity. Advance Your Expertise Ontario’s community-based employment services network Discover the organizations driving workforce success across Ontario. Explore our network of trusted employment service providers. See Who’s Leading the Way Empowering the Next Generation Aspire connects young people with skills, opportunities, and support they need to launch meaningful careers. Discover Aspire CURRENT OPPORTUNITIES Find out more about Northern Pathways Initiative (NPI) Find out more about Youth Thrive Program Find out more about GPS for Your Career Find out more about Building Tech Careers in the Agri-Food Events Register for Futures 2026! Training Find out more! First Work is Ontario’s Workforce Development Network. We support accessible, high quality, outcomes-based employment services to jobseekers seeking opportunities. First Work is the association membership group responsible for supporting and advocating for a sustainable employment delivery network in Ontario. Advocacy: First Work’s objective is to foster the development healthy workforce development sector. We work to achieve this goal by offering our community expertise and insight with government on any forth coming regulatory and legislative changes that affect our sector. Research: Recognizing the need to advance our strategy through evidence-based research and policy, First Work articulates priority research topics that will enable us to deliver on our mission. Training: First Work provides timely training opportunities for our members and for providers across the province to ensure programming for jobseekers has the latest, best practices in delivery. Sector Collaboration First Work creates partnerships and strategic alliances to leverage our ability to address employment challenges and increase our collective impact. We find partners who share our commitment to jobseekers and their employment journey. Become a member Join our growing network of providers, educators, and policy-makers to enhance professional development for your staff, to collaborate with like-minded organizations and ensure your concerns are addressed by government. Join the network. Explore Ontario’s Employment Services Transformation. Discover key insights from First Work’s 2025 State of the Sector Report. See how the new system is impacting jobseekers and shaping a stronger, more inclusive future for employment services across the province. Read the latest report for deeper analysis. Collaborate with us We know that job-creators, job-seekers, and the link betwee",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "recently funded",
+   "referral": false
+  },
+  {
+   "id": "5969ab0a1f",
+   "company": "KeyValueSoftwareSystems",
+   "website": "https://www.keyvalue.systems/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python, TypeScript. Topics: desktop-pet, electron, linux, macos, pixel-art, typescript, windows",
+   "site_text": "[https://www.keyvalue.systems/]\nKeyValue | Global outsourced product development partner Letâs talk What we do AI-first product development End to end product development Point solutions Our products Our joint ventures Our tech stack How we did Our clients Testimonials Case studies Key highlights Success stories Company About us Our team Newsroom CSR Careers Blogs Premier global early-stage AI-first product development hub The best delivery engine for product development â leveraging AI to deliver high-value software products and solutions across industries, geographies, and technologies. 10 + Years 450 + Engineers 95 + Clients 150 + Products 40 + Series A Our clients We build ideas together. A robust and flexible billing & subscription management tool. Subscription Management United States Series H Key Investors : Case study An out-of-the-box AI-powered ad-generating platform. Adtech AI Singapore Seed Key Investors : Testimonials Global fintech innovator powering seamless digital payments and commerce through its fully reserved stablecoins like USDC and EURC. Cryptocurrency USA Series E Key Investors : Data & AI governance platform (control-plane for AI-ready data). AI Singapore USA Series C Key Investors : Asia's most loved smile cosmetic brand. E-commerce Singapore Series B Key Investors : Case study Testimonials All-in-One wedding registry that gives couples a smarter way to plan their big day. Event management United States Series B Key Investors : Testimonials Artificial Intelligence solution for the retail industry. Artificial Intelligence United States Series C Key Investors : A financial services platform offering non-dilutive capital designed to fuel user acquisition strategies efficiently and effectively. Fintech Singapore AI-powered cybersecurity platform helping enterprises automate security compliance. Cybersecurity AI Singapore Key highlights AI-native identity security platform helping enterprises discover, govern, and secure AI agents. Identity Security AI Agents USA AI operating system helping CISOs keep security programs on track. Security Operations USA Key highlights AI workforce helping hospitality businesses automate operations and improve guest experience. Hospitality AI USA AI SOC partner to automate threat detection and scale security operations. Cybersecurity AI USA AI-native contract lifecycle management for enterprises. LegalTech Artificial Intelligence United States Series D AI-powered voice and chat agents for enterprise customer service. Artificial Intelligence Customer Management Digital-first retail bank modernizing everyday banking in Timor-Leste. FinTech Banking Timor Leste Securing mobile-first enterprises against new-age cyber fraud. Security & Risk management United States Series B Key Investors : Testimonials Mobile payment app for small businesses. Fintech United States Pre-Seed Key Investors : Testimonials Success stories Streamlining workflows by reducing multi-click processes to a single click. AI Robotic Process Automation United States Series A Key Investors : Testimonials Fastest growing Edtech in SE Asia with 5 million+ users. Edtech Indonesia Series A Key Investors : Case study Testimonials Venture capital firm that invests in consumer, technology, and healthcare. Growth Investing India South East Asia Case study A platform that facilitates liquidity for ESOPs and provides access to exclusive high-growth investment opportunities. FinTech India Seed Round Key Investors : One of the largest conglomerates in Indonesia. Conglomerate Indonesia A biopharmaceutical company offering medicines and vaccines for diverse diseases. HealthTech United States Post IPO Equity Round Key Investors : Vietnam's largest B2B digital commerce platform. B2B E-commerce Vietnam Serise B Key Investors : Case study Testimonials No-code platform to build custom AI agents that integrate with company data. AI USA Seed Round Key Investors : Generative AI video personalization platform. AI United States Non-",
+   "email_candidates": [
+    {
+     "email": "letsbuild@keyvalue.systems",
+     "where": "https://www.keyvalue.systems/",
+     "kind": "personal"
+    },
+    {
+     "email": "careers@keyvalue.systems",
+     "where": "https://www.keyvalue.systems/contact-us/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "5969ab0a1f-ref",
+   "company": "KeyValueSoftwareSystems",
+   "website": "https://www.keyvalue.systems/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Languages: JavaScript, Python, TypeScript. Topics: desktop-pet, electron, linux, macos, pixel-art, typescript, windows",
+   "site_text": "[https://www.keyvalue.systems/]\nKeyValue | Global outsourced product development partner Letâs talk What we do AI-first product development End to end product development Point solutions Our products Our joint ventures Our tech stack How we did Our clients Testimonials Case studies Key highlights Success stories Company About us Our team Newsroom CSR Careers Blogs Premier global early-stage AI-first product development hub The best delivery engine for product development â leveraging AI to deliver high-value software products and solutions across industries, geographies, and technologies. 10 + Years 450 + Engineers 95 + Clients 150 + Products 40 + Series A Our clients We build ideas together. A robust and flexible billing & subscription management tool. Subscription Management United States Series H Key Investors : Case study An out-of-the-box AI-powered ad-generating platform. Adtech AI Singapore Seed Key Investors : Testimonials Global fintech innovator powering seamless digital payments and commerce through its fully reserved stablecoins like USDC and EURC. Cryptocurrency USA Series E Key Investors : Data & AI governance platform (control-plane for AI-ready data). AI Singapore USA Series C Key Investors : Asia's most loved smile cosmetic brand. E-commerce Singapore Series B Key Investors : Case study Testimonials All-in-One wedding registry that gives couples a smarter way to plan their big day. Event management United States Series B Key Investors : Testimonials Artificial Intelligence solution for the retail industry. Artificial Intelligence United States Series C Key Investors : A financial services platform offering non-dilutive capital designed to fuel user acquisition strategies efficiently and effectively. Fintech Singapore AI-powered cybersecurity platform helping enterprises automate security compliance. Cybersecurity AI Singapore Key highlights AI-native identity security platform helping enterprises discover, govern, and secure AI agents. Identity Security AI Agents USA AI operating system helping CISOs keep security programs on track. Security Operations USA Key highlights AI workforce helping hospitality businesses automate operations and improve guest experience. Hospitality AI USA AI SOC partner to automate threat detection and scale security operations. Cybersecurity AI USA AI-native contract lifecycle management for enterprises. LegalTech Artificial Intelligence United States Series D AI-powered voice and chat agents for enterprise customer service. Artificial Intelligence Customer Management Digital-first retail bank modernizing everyday banking in Timor-Leste. FinTech Banking Timor Leste Securing mobile-first enterprises against new-age cyber fraud. Security & Risk management United States Series B Key Investors : Testimonials Mobile payment app for small businesses. Fintech United States Pre-Seed Key Investors : Testimonials Success stories Streamlining workflows by reducing multi-click processes to a single click. AI Robotic Process Automation United States Series A Key Investors : Testimonials Fastest growing Edtech in SE Asia with 5 million+ users. Edtech Indonesia Series A Key Investors : Case study Testimonials Venture capital firm that invests in consumer, technology, and healthcare. Growth Investing India South East Asia Case study A platform that facilitates liquidity for ESOPs and provides access to exclusive high-growth investment opportunities. FinTech India Seed Round Key Investors : One of the largest conglomerates in Indonesia. Conglomerate Indonesia A biopharmaceutical company offering medicines and vaccines for diverse diseases. HealthTech United States Post IPO Equity Round Key Investors : Vietnam's largest B2B digital commerce platform. B2B E-commerce Vietnam Serise B Key Investors : Case study Testimonials No-code platform to build custom AI agents that integrate with company data. AI USA Seed Round Key Investors : Generative AI video personalization platform. AI United States Non-",
+   "email_candidates": [
+    {
+     "email": "ajay.sukumar@keyvalue.systems",
+     "where": "GitHub commits (KeyValueSoftwareSystems)",
+     "kind": "personal",
+     "name": "ajaysukumar998",
+     "commits": 1
+    },
+    {
+     "email": "aleena@keyvalue.systems",
+     "where": "GitHub commits (KeyValueSoftwareSystems)",
+     "kind": "personal",
+     "name": "Aleena",
+     "commits": 11
+    },
+    {
+     "email": "yedhu@keyvalue.systems",
+     "where": "GitHub commits (KeyValueSoftwareSystems)",
+     "kind": "personal",
+     "name": "Yedhu Krishnan",
+     "commits": 11
+    },
+    {
+     "email": "doyle@keyvalue.systems",
+     "where": "GitHub commits (KeyValueSoftwareSystems)",
+     "kind": "personal",
+     "name": "Doyle Fermi",
+     "commits": 1
+    },
+    {
+     "email": "milan@keyvalue.systems",
+     "where": "GitHub commits (KeyValueSoftwareSystems)",
+     "kind": "personal",
+     "name": "milan",
+     "commits": 19
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "1512ec16f7",
+   "company": "SuperHQ Labs",
+   "website": "https://superhq.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We are geeks building free and open-source AI tools.. Languages: Ruby, Rust, Shell, TypeScript",
+   "site_text": "[https://superhq.ai/]\nSuperHQ | An independent AI lab AI that runs where you are. SuperHQ is an independent AI lab. We build small models and the tools to run them on your own hardware. Get started Models on Hugging Face Drive the car Park it Our work voice-1 Coming soon model Â· text to speech A natural-sounding text-to-speech model that runs on your device, with zero-shot voice cloning. Expressive Zero-shot voice cloning flo Coming soon models Â· small foundation models Small foundation models built for your own hardware. Fine-tune Flo-Base for instructions, tool calling, decisions, or your own task. shuru Available tool Â· microVM sandboxes Disposable microVM sandboxes for AI agents on your Mac, with sane defaults. $ brew tap superhq-ai/tap && brew install shuru copy shuru.run Source The best model is the one you can run, trust, and keep. 01 Local first Models and tools run on your hardware or at the edge. Your data stays where it is unless you send it somewhere. 02 Quality is not the trade Local should not mean second best. What we release has to be good enough to replace what people use today. 03 Secure by construction Isolation is the default. Agents run in their own VMs, secrets stay on the host, networks start closed. WASD to drive, Space to boost, Escape to park. drive boost Tap to drive park",
+   "email_candidates": [
+    {
+     "email": "developer@superhq.ai",
+     "where": "GitHub commits (superhq-ai)",
+     "kind": "generic",
+     "name": "SuperHQ Developer",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "1512ec16f7-ref",
+   "company": "SuperHQ Labs",
+   "website": "https://superhq.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "We are geeks building free and open-source AI tools.. Languages: Ruby, Rust, Shell, TypeScript",
+   "site_text": "[https://superhq.ai/]\nSuperHQ | An independent AI lab AI that runs where you are. SuperHQ is an independent AI lab. We build small models and the tools to run them on your own hardware. Get started Models on Hugging Face Drive the car Park it Our work voice-1 Coming soon model Â· text to speech A natural-sounding text-to-speech model that runs on your device, with zero-shot voice cloning. Expressive Zero-shot voice cloning flo Coming soon models Â· small foundation models Small foundation models built for your own hardware. Fine-tune Flo-Base for instructions, tool calling, decisions, or your own task. shuru Available tool Â· microVM sandboxes Disposable microVM sandboxes for AI agents on your Mac, with sane defaults. $ brew tap superhq-ai/tap && brew install shuru copy shuru.run Source The best model is the one you can run, trust, and keep. 01 Local first Models and tools run on your hardware or at the edge. Your data stays where it is unless you send it somewhere. 02 Quality is not the trade Local should not mean second best. What we release has to be good enough to replace what people use today. 03 Secure by construction Isolation is the default. Agents run in their own VMs, secrets stay on the host, networks start closed. WASD to drive, Space to boost, Escape to park. drive boost Tap to drive park",
+   "email_candidates": [
+    {
+     "email": "harshsingh.js@gmail.com",
+     "where": "GitHub commits (superhq-ai)",
+     "kind": "personal",
+     "name": "harshdoesdev",
+     "commits": 44
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": true
+  },
+  {
+   "id": "c8d7cfe889",
+   "company": "daslearning.in",
+   "website": "https://daslearning.in",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "Love to learn & explore. Languages: Python. Topics: android-application, automation, bluetooth, cross-platform, esp32, indicator, kivy, kivy-application, kivymd, maps, mobile-app, open-source, opensource, python, sms-api, sms-gateway, speech-synthesis, speech-to-text, text-to-speech, tts, tts-android, vehicle, ws2812",
+   "site_text": "[https://daslearning.in]\nTitle: DasLearning | Let's learn from the Internet\n\nURL Source: https://daslearning.in/\n\nMarkdown Content:\n## What is Cloud Computing?\n\nDo you want to learn cloud from scratch? Do you want to polish your cloud knowledge? We can do that together.\n\n[Video 19](https://www.youtube.com/watch?v=cjs6sze3kMI)\n\n[Video 20](https://www.youtube.com/watch?v=7sJE0yvOm3w)\n\n## Azure DevOps with AI Power\n\nLet's see the demo to understand how cool or powerful it is to use an AI API from our DevOps Pipeline.\n\n## GitHub Actions Pipeline for AWS with Terraform with an API Trigger\n\nThis excercise is really cool. We have build a DevOps pipeline for AWS and deployment will happen via Terraform. There is also an UI for en users which can trigger the Pipeline.\n\n[Video 21](https://www.youtube.com/watch?v=Mm8Q8uKRjqQ)\n\n[Video 22](https://www.youtube.com/watch?v=dKpPKNaie_Q)\n\n## Do you need a Personal AI Assistant for Work?\n\nYes, that is right, you can share your screen & ask any questions to Gemini AI. Welcome to Google AI Studio which can help us a lot.\n\n## Google AgentSpace, new Era of AI on your Private Data\n\nGetting the right information at right time is crucial in Enterprises. Searching through various tools & data sources takes huge time. Let us go through this demo to understand how Google AgentSpace can help this challanges.\n\n[Video 23](https://www.youtube.com/watch?v=_d9nuGA1GCQ)\n\n[Video 24](https://www.youtube.com/watch?v=HOWPTqItwdU)\n\n## Create RG, Spare Disk, Primary LDEVs in Hitachi Storage\n\nI know Hitachi storage is complicated, especially when it comes to configuring the array like RAID Group Creation, Spare Drive configuration, creation of Primary LDEVs etc. So, here is a step by step video guide.\n\n## Automatic Vehicle Indicator?\n\nWhat about turning on/off vehicle indicators like left / right turn, or u-turns just by using navigation on Google Maps?  \n[Check more details](https://blog.daslearning.in/microcontroller/esp32/automatic-vehicle-indicator.html)\n\n[Video 25](https://www.youtube.com/watch?v=jOAoAuspS8E)\n\n[Video 26](https://www.youtube.com/watch?v=_UuAIjSzUJQ)\n\n## Do you like Sketch Animation Style Videos?\n\nWe might have seen story telling using Sketch Animation Video, which looks really cool. While exploring the public offerings, I could not find a satisfactory platform. So, I built an Open Source App for this, check this out.  \n[Check more details](https://blog.daslearning.in/llm_ai/genai/image-to-animation.html)\n\nGet connected with us on social networks:\n\n###### Das Learning\n\nWe make some useful tutorials about many useful topics like Cloud, DevOps, Datacenter, Coding etc. Here you can find some other topics like DIY Projects, DasXplore for Travel experiences.\n\n###### Contact\n\n[About Us](https://daslearning.in/contact)\n\nsomnath.das@daslearning.in\n\n© 2026 Copyright: [DasLearning.in](https://daslearning.in/)\n",
+   "email_candidates": [
+    {
+     "email": "somnath.das@daslearning.in",
+     "where": "https://daslearning.in",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "d00bce55e3",
+   "company": "Embedded Systems GCEK",
+   "website": "https://es-gcek-ai.vercel.app/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "github_orgs",
+   "posted_at": null,
+   "posting": "https://embedded-systems-gcek.github.io/esdc-website/. Languages: C++, TypeScript",
+   "site_text": "[https://es-gcek-ai.vercel.app/]\nTitle: AI Voice Assistant\n\nURL Source: https://es-gcek-ai.vercel.app/\n\nPublished Time: Sat, 17 Oct 2026 02:41:08 GMT\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\n\nMarkdown Content:\n\n",
+   "email_candidates": [
+    {
+     "email": "fathimathsafakt86@gmail.com",
+     "where": "GitHub commits (Embedded-Systems-GCEK)",
+     "kind": "personal",
+     "name": "fathimathsafakt",
+     "commits": 7
+    },
+    {
+     "email": "anamikavv30@gmail.com",
+     "where": "GitHub commits (Embedded-Systems-GCEK)",
+     "kind": "personal",
+     "name": "Anamika VV",
+     "commits": 8
+    },
+    {
+     "email": "aruncs31ss@gmail.com",
+     "where": "GitHub commits (Embedded-Systems-GCEK)",
+     "kind": "personal",
+     "name": "Arun cs",
+     "commits": 10
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "active GitHub org, no posting",
+   "referral": false
+  },
+  {
+   "id": "05811b85de",
+   "company": "Kusho",
+   "website": "https://kusho.ai",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "portfolio",
+   "posted_at": null,
+   "posting": "Backed by Antler. AI-powered tool that automates API testing.",
+   "site_text": "[https://kusho.ai/]\nKushoAI New Report: State of API Security 2026 â Read now New Report: State of API Security 2026 â Read now KushoAI PLATFORM SOLUTIONS RESOURCES PRICING Book a Demo Sign In KushoAI PLATFORM SOLUTIONS RESOURCES PRICING Book a Demo Sign In KushoAI The reliability layer for modern software Catch failures and security gaps before production. Spend less time fixing, more time building. Book a Demo Explore the Platform From 7Mn+ test executions across our customer base 80% Less QA time 93%+ Test coverage <30 Days Payback Period The reliability layer for modern software Catch failures and security gaps before production. Spend less time fixing, more time building. Book a Demo Explore the Platform From 7Mn+ test executions across our customer base 80% Less QA time 93%+ Test coverage <30 Days Payback Period Trusted By 5200+ Organizations 1 1 Start with KushoAI: API Contract Testing Where most enterprise teams begin Point KushoAI at your OpenAPI spec or Postman collection. It generates your test suite automatically KushoAI reads your API definitions and checks every change against the contract. Breaking changes are caught before they move forward. You move from reactive fixes to controlled validation. Point KushoAI at your OpenAPI spec or Postman collection. It generates your test suite automatically KushoAI reads your API definitions and checks every change against the contract. Breaking changes are caught before they move forward. You move from reactive fixes to controlled validation. 2 2 Add: Continuous Security Scanning Your first force multiplier Once your APIs are live, security cannot be an afterthought. KushoAI continuously scans your APIs for vulnerabilities, misconfigurations, and access control risks based on how they are actually built and secured. Security testing runs automatically in your CI pipeline. Protection becomes continuous, not periodic. Once your APIs are live, security cannot be an afterthought. KushoAI continuously scans your APIs for vulnerabilities, misconfigurations, and access control risks based on how they are actually built and secured. Security testing runs automatically in your CI pipeline. Protection becomes continuous, not periodic. 3 3 Enable: Comprehensive Coverage One platform, your entire stack API testing alone is not enough for enterprise-grade assurance. KushoAI validates complete workflows across services, databases, and UI layers. Critical user journeys are tested end to end. Testing shifts from individual endpoints to real business flows. API testing alone is not enough for enterprise-grade assurance. KushoAI validates complete workflows across services, databases, and UI layers. Critical user journeys are tested end to end. Testing shifts from individual endpoints to real business flows. 4 4 Activate: Self-Healing Testing Infrastructure Testing that maintains itself As your APIs evolve, tests often break. KushoAI detects contract drift and automatically updates impacted tests. Your suite stays current and complete as your codebase changes. Testing remains reliable without constant manual fixes. As your APIs evolve, tests often break. KushoAI detects contract drift and automatically updates impacted tests. Your suite stays current and complete as your codebase changes. Testing remains reliable without constant manual fixes. 5 5 Achieve: Release Intelligence From QA tool to decision system Every release is a judgment call. KushoAI gives you the data to make it confidently KushoAI assigns every release an AI-computed risk score based on what changed, what was tested, and where failures occurred before. Engineering leaders get a clear signal for ship or no-go decisions without reading through test logs. Every release is a judgment call. KushoAI gives you the data to make it confidently KushoAI assigns every release an AI-computed risk score based on what changed, what was tested, and where failures occurred before. Engineering leaders get a clear signal for ship or no-g",
+   "email_candidates": [
+    {
+     "email": "hello@kusho.ai",
+     "where": "https://kusho.ai/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "",
+   "referral": false
+  }
+ ]
+}

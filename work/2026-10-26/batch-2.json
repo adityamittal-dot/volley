@@ -1,0 +1,221 @@
+{
+ "leads": [
+  {
+   "id": "cb2d6d2167",
+   "company": "Milo Drive",
+   "website": "https://milodrive.com",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "portfolio",
+   "posted_at": null,
+   "posting": "Backed by Antler. Milo is building a decentralised EV Fleet Platform which provides access to capital, demand integrations and tech leverage to enable fleets in the ride hailing ecosystem to increase their efficiency & thus their profitability.",
+   "site_text": "[https://milodrive.com]\nTitle: The operating system behindmobility businesses.\n\nURL Source: https://milodrive.com/\n\nMarkdown Content:\nFleet OS for EV mobility\n\nMilo Drive connects vehicles, Pilots, demand, charging, maintenance and capital through one operating layer, so distributed fleets perform like a single system.\n\n## Already running in Bengaluru and Delhi-NCR.\n\n_**0****1****2****3****4****5****6****7****8****9****0****1****2****3****4****5****6****7****8****9**_ M+\n\nTrips powered\n\n_**0****1****2****3****4****5****6****7****8****9****0****1****2****3****4****5****6****7****8****9**_ _**0****1****2****3****4****5****6****7****8****9****0****1****2****3****4****5****6****7****8****9**_+\n\nGridX partners (small fleet owners)\n\n_**0****1****2****3****4****5****6****7****8****9****0****1****2****3****4****5****6****7****8****9**_\n\nDemand channels\n\n_**0****1****2****3****4****5****6****7****8****9****0****1****2****3****4****5****6****7****8****9**_ M+\n\nClean km a month\n\nMetrics as of September 2026.\n\nDemand platforms\n\nVehicles & financing\n\nDrivers (Pilots)\n\nCash collection\n\nCharging\n\nWorkshops\n\nPayouts & reporting\n\n7 tools**0**connections\n\n## Running a 4-wheeler fleet means running seven businesses at once.\n\nDemand platforms, vehicle financing, drivers (Pilots), charging, workshops, cash collection and payouts. Each has its own app, its own spreadsheet and its own way of failing, and none of them talk to each other.\n\nCurrent industry challenges\n\n**15-19%**interest on vehicle finance\n\n**~9 hrs**active runtime per vehicle, per day\n\n**~20%**of vehicles in the workshop at any time\n\n**10%**driver (Pilot) bad debt\n\n## One operating layer. Seven connected stages.\n\nThe same pieces, organised into one system. Every stage hands its data to the next, and the last one feeds the first.\n\n01 of 07\n\n### Capital & vehicle access\n\n## Two surfaces. One operating picture.\n\nOrbit is where operators run the fleet. The Milo Drive Pilot App is where drivers (Pilots) run their day. Together they make earnings, utilisation, charging and settlements visible to the people who act on them.\n\n#### Orbit\n\nLive Sample data\n\n**64**On trip\n\n**9**Charging\n\n**4**Workshop\n\n**7**Ready\n\nFleet earnings, last 14 days₹ / day\n\nDL1C 4412 On trip₹1,840\n\nHR55 2087 On trip₹2,210\n\nDL3C 7731 Charging₹1,460\n\nHR26 1940 On trip₹1,990\n\nDL8C 5520 Ready₹980\n\nHR55 9163 On trip₹2,370\n\nOnline\n\nTODAY'S EARNINGS**₹2,140**\n\n**11**Trips**7h 24m**Online**₹610**Cash\n\nBattery**68%**\n\nNEAREST CHARGING\n\nSector 18\n\n1.2 km, 2 bays free\n\nTHIS WEEK\n\n₹11,480 earned\n\nDues on track\n\nSignal\n\nVehicle status and exceptions in one view\n\nAction\n\nAct on what needs attention\n\nOutcome\n\nFewer lost earning days\n\n## One vehicle. Many sources of demand.\n\nRide-hailing, corporate mobility, airport transfers, rentals and OTA demand reach the same Pilot workflow. A fleet that doesn't depend on one channel is a fleet that stays utilised.\n\n05:00 09:00 13:00 17:00 21:00 24:00\n\nRide-hailing\n\nCorporate mobility\n\nAirport transfers\n\nRentals\n\nOTA demand\n\nOne vehicle, one Pilot workflow\n\n**05:00**\n\n**0.0h**earning hours\n\n**0**trips\n\n**1**demand channels\n\nIllustrative day. Across Milo Drive's fleet, active runtime averages about 9 hours per vehicle, per day.\n\n## What an operating layer actually changes.\n\nEvery outcome comes from a mechanism in the system. None of it depends on owning the vehicles.\n\nMulti-channel demand.Every vehicle draws on ride-hailing, corporate, airport, rental and OTA demand at once.\n\nUtilisation.Vehicles earn across several channels instead of waiting on one.\n\nUptime.Issues validated and routed through a managed workshop network.\n\nVisibility.Performance measured every day, not estimated at month end.\n\nLeakage.Cash collected is matched to trips as it happens.\n\nSettlements.Payouts run on a fixed schedule, automatically.\n\nOutcomes vary by city, vehicle, financing, utilisation and shift adherence.\n\nFor fleet owners, operators & investors\n\n## You own the fleet. Milo Drive runs the operating layer.\n\nGridX is fo",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "216a6ea559",
+   "company": "OnArrival",
+   "website": "https://onarrival.travel/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "portfolio",
+   "posted_at": null,
+   "posting": "Backed by Antler. Full-stack travel-as-a-service platform that enables businesses to seamlessly embed and sell flights, hotels, insurance, visas, and ancillaries through modern APIs and AI-powered tools.",
+   "site_text": "[https://www.onarrival.com/]\nTravel API: One Integration for the Whole Trip | OnArrival Skip to content Search Book a demo BLR DXB SFO BOM CDG SYD LHR SIN NRT JFK GRU HND BLR → LHR · ₹41,230 DXB → SIN · $612 SFO → NRT · $840 BOM → JFK · ₹78,400 CDG → GRU · €710 SYD → HND · A$920 Travel infrastructure for the whole trip. One API to search, book, change and settle flights, hotels, buses and experiences. We run the suppliers, payments and 24/7 operations behind it. Your customers only see your brand. Start building Book a demo ✽ New: the world’s first travel agent for AI agents 190+ countries 517+ carriers 2M+ properties 1 integration The platform You write one integration. We handle the other 450. Airlines, hotel suppliers and bus operators all speak different languages, change prices mid-checkout and move flights without asking. We turn all of it into one clean answer for your app, and keep watching long after the booking is made. OnArrival · one integration 01 450+ sources Supply GDSs · NDC · LCCs · bedbanks · buses 02 1 schema Normalization hotels deduped · fares & seats mapped 03 24/7 live ops Operations IROPs · schedule changes · 2am outages 04 Trip protection Cover eligible policies · documents · claims 05 38 currencies Money FX · settlement · chargebacks 5 products Flights Hotels Buses Experiences Travel Fintech 3 infrastructure layers Bundles Payments & ledger MCP for travel Integration Three ways in. Pick the one that fits. Ship a checkout this sprint, build your own, or let an agent book. Drop-in Embedded Programmatic APIs & SDKs Flagship Agentic · MCP-native MCP Drop-in · Embedded Drop in a checkout that already looks like yours. Product & growth teams Fastest integration path Ready-made components for React, React Native, Vue and the web, white-label or co-branded. Your travellers see your brand. Your team ships one import. React, React Native, Vue & web components Fully themeable, white-label or co-branded Compose any product into one flow ~38 kB gzipped, lazy-loaded Explore embedded travel app.acme.com/travel powered by OnArrival a Acme Travel Building your trip… Live lifecycle Watch a booking happen, step by step. Six steps, from “where to?” to a confirmed ticket. Pause anywhere to see exactly what your app hears from us. Read the docs booking.trace.jsonl tenant: acme-travel 01 · Discover Pause Replay step 01 search · Search (current step) DEL → SIN · 1 adult step 02 fare · Fare rechecked Singapore Airlines · SQ 403 · ₹24,180 step 03 anc · Ancillary attached Extra bag (23kg) · ₹2,400 step 04 insure · Insurance offered CFAR + medical · ₹890 step 05 book · Booking confirmed PNR: OA-K4X9PL · ticketed step 06 webhook · booking.created webhook delivered downstream New The world’s first travel agent for AI agents. No website to book on and no app to download. You tell your agent where you want to go, it books with OnArrival, and you approve the payment. We took the front desk down, and honestly, we don’t miss it. Join the waitlist Meet the agentic travel agent Your agent connected to OnArrival Goa this weekend, under ₹25k. Aisle seat please. ↳ OnArrival flights.search + stays.search 38 fares · 112 stays Found a good one: ₹21,540 all in, aisle seat, 6 minutes from the beach. Book it? Yes! OA OnArrival · needs your OK Approve ₹21,540 Not now Approve Approved by you ✓ Booked. Tickets are in your inbox. Message your agent… ↑ In production The stack behind names you know. Anyone can take a booking. The real test comes after checkout, when plans change and the promise still has to hold. OneCard CheQ novio POPclub Kiwi Your logo, next? What we’ve learned building travel All field notes → Strategy · 9 min Why travel infrastructure has to work after checkout The comparison with payment infrastructure is useful until a confirmed trip changes. Travel infrastructure also has to manage supplier updates, booking changes, refunds and settlement. Ankit Sawant → Business · 11 min Travel loyalty points: what redemption really costs The c",
+   "email_candidates": [
+    {
+     "email": "pawanshetty@outlook.com",
+     "where": "GitHub commits (OnArrival)",
+     "kind": "personal",
+     "name": "Pawan Shetty",
+     "commits": 15
+    },
+    {
+     "email": "pawan@onarrival.travel",
+     "where": "GitHub commits (OnArrival)",
+     "kind": "personal",
+     "name": "Pawan Shetty",
+     "commits": 9
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "d3b92eb811",
+   "company": "Sustvest",
+   "website": "https://sustvest.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "portfolio",
+   "posted_at": null,
+   "posting": "Backed by Antler. A sustainable investment platform offering securitized debt instruments backed by renewable energy projects. Investors earn 12-14% XIRRs while helping corporates, MSMEs and government transition to clean energy with zero upfront capital and 40-50% electricity savings.",
+   "site_text": "[https://sustvest.com/]\nZero-Investment Rooftop Solar for Industry | SustVest . . . . Rooftop solar for your business, with zero capex We finance, build, own and maintain the plant. You buy its power at a fixed tariff up to 50% below your DISCOM rate , from day one. Get my savings estimate Talk to an engineer 30+ MW Capacity under management 86+ Projects delivered 22K+ tonnes CO₂ offset to date 13+ States covered Recognized as CRISIL Top-10 Rooftop Solar Developer in India (2025) Featured in 40+ publications Our solutions All Solar, One Destination From generation to storage, monitoring, ownership and O&M, one partner across the entire solar lifecycle. OPEX We own, finance, and operate solar assets, you buy clean power at a lower tariff. Capex Prefer to own the asset? We design, build, and deliver solar you keep outright. BESS i Battery Energy Storage System Battery storage that cuts demand charges and keeps you powered when the grid drops. Monitoring Every inverter brand, every plant, one live dashboard, independent and vendor-agnostic. O&M i Operations & Maintenance In-house maintenance that protects your generation, fewer outages, higher output, year after year. Footprint Powering plants nationwide. From factory rooftops in the south to ground-mount sites up north, every dot is a working plant we own or operate, generating clean power and metered in real time. Our clients Trusted by businesses across India. Ready to switch to clean power? Book a free site assessment and discover how SustVest can lower your energy costs and keep your operations running on reliable, clean power. Book a free assessment Speak to us →\n\n[https://sustvest.com/about]\nAbout SustVest | Rooftop Solar Developer & EPC for Indian Industry Solar developer and EPC since 2018 SustVest is a solar IPP and full-stack energy partner built for India's clean energy transition. Recognised by CRISIL Bridge to India among India's Top 10 rooftop solar project developers (Solar Rooftop Map, December 2025), we manage 86+ plants nationwide and are backed by leading investors. Our mission is to make solar accessible, reliable, and effortless across the country, owning every project we take on and standing behind its performance for the long term. 2020 2024 2025 2025 2025 2026 Our Story 2020 August 2020, Incorporated with the MCA. Our team Built by people who know solar end to end. Hardik Bhatia CEO & Co-founder Devansh Shah CTO & Co-founder Vandana Jhinjheria Chief Compliance Officer Kunal Khanna Head of EPC Nandeesh Vasanth Chief Marketing & Growth Officer Neha Reddy Chief Investor Relations Officer Nikhil Rajani Product & Marketing Manager Prakhar Bhatnagar Fullstack Developer Ayesha Oswal Finance Manager Hardik Bhatia CEO & Co-founder Devansh Shah CTO & Co-founder Vandana Jhinjheria Chief Compliance Officer Kunal Khanna Head of EPC Nandeesh Vasanth Chief Marketing & Growth Officer Neha Reddy Chief Investor Relations Officer Nikhil Rajani Product & Marketing Manager Prakhar Bhatnagar Fullstack Developer Ayesha Oswal Finance Manager Hardik Bhatia CEO & Co-founder Devansh Shah CTO & Co-founder Vandana Jhinjheria Chief Compliance Officer Kunal Khanna Head of EPC Nandeesh Vasanth Chief Marketing & Growth Officer Neha Reddy Chief Investor Relations Officer Nikhil Rajani Product & Marketing Manager Prakhar Bhatnagar Fullstack Developer Ayesha Oswal Finance Manager Backed & recognised by Backed by leading investors, partners, and institutions. Ready to switch to clean power? Book a free site assessment and discover how SustVest can lower your energy costs and keep your operations running on reliable, clean power. Book a free assessment Speak to us →\n\n[https://sustvest.com/blog]\nRooftop Solar Insights for Indian Industry | OPEX, CAPEX, Policy | SustVest The Latest RTC & 24x7 Renewable Power for Industry in India 15 Oct 2026 What round-the-clock (24x7) renewable power means for Indian factories — how solar, wind and BESS combine, what FDRE-RTC tenders changed, and where rooftop",
+   "email_candidates": [
+    {
+     "email": "info@sustvest.com",
+     "where": "https://sustvest.com/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "ac3040283a",
+   "company": "Adaptive",
+   "website": "https://adaptive.live/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "portfolio",
+   "posted_at": null,
+   "posting": "Backed by Antler. Adaptive is a cybersecurity platform that is reimagining access for an AI native world",
+   "site_text": "[https://adaptive.live/]\nAdaptive | Hyperconverged Privileged Access, Data and Identity Security Features Resources Pricing Partners Careers About Request a Demo adaptive Demo Features Resources Pricing Partners Careers About Request a Demo Unlock security hyperconvergence. Identity, data, infrastructure, access and governance in one control plane — the right access for every human and non-human identity, with complete visibility. Request a Demo The platform Not just any Privileged Access Management platform. PAM and DAM have traditionally treated infrastructure access and data protection as separate layers. Adaptive brings them together in the same session, so you know who accessed the infrastructure, what access they were granted, and what they actually did with the data, with the full activity captured in one audit trail. Folds in IAM NHI PAM JIT DAM UEBA Point at a tool to see where it lands on the path. Identities IAM NHI Users AI agents Workloads CLI / API / Terraform SSO via Okta, Entra ID, LDAP authenticate Control plane PAM JIT Identity catalog · SSO · MFA Authorization RBAC · JIT · approvals Vault secrets · rotation approvals in Slack, Teams, Jira scoped grant Data plane DAM SSH RDP / VNC Database HTTP inspected in-line Activity monitoring Classification Masking Preventive policy the only route to a resource brokered Resources Postgres MySQL MongoDB Snowflake Kubernetes AWS / Azure / GCP nothing installed on targets attributed Oversight UEBA Session recording Access reviews Access graph Audit log Compliance reports streamed to Splunk, Datadog, Coralogix Features The most complete platform for identity, access and security Govern agents through MCP → Privileged sessions in the browser → Role-based Access → Every query and command logged → Dynamic data masking → Time-bound access, approved in Slack → Find sensitive data before it leaks → Credential rotation → Approved scripts Certification campaigns → Access matrix and graph → Stream activity where you work → Isolated browser sessions → Device inventory and posture Evidence for every framework → CLI, Terraform and API → AI agents & MCP Govern agents through MCP MCP servers exposed through Adaptive OAuth-authorized MCP access Agent skills generated per endpoint MCP access logs and review Privileged access Privileged sessions in the browser Terminal, RDP and VNC Session recording and playback Session, event and proxy logs Authorization Role-based Access Read-only and read-write roles Team and group assignment Import existing database grants Activity monitoring Every query and command logged Full query and command audit Preventive policies, enforced in-line Database user management Data protection Dynamic data masking Built-in masks for email, SSN, cards Proxy-based, no database changes Postgres, MySQL, MongoDB, SQL Server, Redshift Just-in-time Time-bound access, approved in Slack Single, multi-approver and auto-approval Grants that expire, extend or revoke Access schedules Approve directly from Slack Discovery & classification Find sensitive data before it leaks Scans with reusable scan profiles Data catalog and schema explorer Data classes and labels Vault Credential rotation Automatic password rotation Firewalls and switches included Password policies and history Runbooks Approved scripts Curated script library Execution behind approvals Run history and output audit Access reviews Certification campaigns Reviewer, manager and owner sign-off Revoke straight from findings Completion tracking Visibility Access matrix and graph Who can reach what, at a glance Event logs and triggers Risk and posture dashboard SIEM & alerting Stream activity where you work Splunk, Datadog, Coralogix, Syslog Alerts to Slack, Teams and email Freshservice ticket creation Browser access Isolated browser sessions Managed browser isolation Browser session recording SSO app catalog Devices Device inventory and posture Devices and machine IDs Vulnerability scans VPN monitoring Compliance Evidence ",
+   "email_candidates": [
+    {
+     "email": "info@adaptive.live",
+     "where": "https://adaptive.live/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "841ca8ccc9",
+   "company": "Aignosis",
+   "website": "https://aignosis.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "portfolio",
+   "posted_at": null,
+   "posting": "Backed by Antler. Revolutionizing early autism detection with AI-driven, cost-effective solutions.To make it accessible to all.",
+   "site_text": "[https://aignosis.in/]\nAI-Powered Cognitive & Neural Diagnostics | Aignosis Autism & Early Developmental Screening for Every Child Book a free demo Autism & early developmental screening for every child Autism & Early Developmental Screening for Every Child A ten-minute video session that gives you an objective read on your child's development — and a same-day report to act on. Pioneering non-invasive early detection of neurodevelopmental and cognitive conditions through real-time AI biomarkers and digital phenotyping. Book a free demo Partner with us Scroll Scroll Non-Invasive AI Assessment An interactive video session turns what you've been noticing into an objective child developmental report. No waiting list. No sensors, no needles, nothing attached to your child. Explore More Partner with Us Recognize the Signs Notice. Understand. Act Early. These are the earliest signs of a developmental delay. They usually show up years before anyone measures them. Not Turning When Called by Name You call out your child's name, but they don't look up, turn around, or acknowledge your voice. An early delay in responding to familiar voices is one of the most common early markers of developmental differences. Being Lost in Their Own World Your child becomes intensely immersed in solitary play routines, rarely seeking eye contact or sharing emotional reactions with parents, family members, and caregivers. Prolonged Screen Usage & Isolation Children navigating sensory overload often retreat into screens for hours, finding digital repetition more predictable and calming than everyday face-to-face conversations. Limited Interaction with Other Kids While other children chatter, share toys, and play together, your child hesitates to participate, often standing apart and finding group dynamics confusing or overwhelming. Repeating the Same Movement for Comfort Repetitive hand-flapping, rocking back and forth, or spinning objects help them manage sensory overload and stay calm. AI video tracking catches these subtle patterns easily. Get Help 5 simple steps towards clarity Turn parental worry into developmental clarity. Screening, insights, therapy, and support: Aignosis powers your child's journey from first concern to real progress. 01 Step 01 · Notice Notice a concern and reach out to our team. 02 Step 02 · Detect Visit your nearest clinic to complete a clinically guided developmental screening in minutes. 03 Step 03 · Understand Get a free psychologist evaluation and a detailed, easy-to-understand report. 04 Step 04 · Act We match you with verified therapists and specialists based on your child's personalized report. 05 Step 05 · Thrive Monitor your child's progress and get access to appropriate developmental tools, all in one place. See How It Works Empowering Families & Clinicians At Every Step 0 + Children Screened 0 + Parents Reached 0 + Government UPHCs 0 + Partner Clinics Certifications Certified, Approved & Clinically Validated CDSCO Approved AIIMS Validated Govt. of Rajasthan NHM India CDSCO Approved AIIMS Validated Govt. of Rajasthan NHM India CDSCO Approved AIIMS Validated Govt. of Rajasthan NHM India CDSCO Approved AIIMS Validated Govt. of Rajasthan NHM India Are you a parent? Are you a parent? Screen your child at a clinic near you. Get a therapist-reviewed report the same day! Screen Your Child Are you a paediatrician or clinic? Are you a paediatrician or clinic? Offer developmental screening in your own clinic, and get listed so parents nearby can find you. Partner With Us Are you a psychologist or therapist? Are you a psychologist or therapist? Screen at intake for an objective baseline before your first session, or join the referral network and be where flagged families go next. Partner With Us Are you a parent? Screen your child at a clinic near you. Get a therapist-reviewed report the same day! Screen Your Child Are you a paediatrician or clinic? Offer developmental screening in your own clinic, and get listed so parents nearby",
+   "email_candidates": [
+    {
+     "email": "jobs@aignosis.in",
+     "where": "https://aignosis.in/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "4d706c5e31",
+   "company": "ApniBus",
+   "website": "https://apnibus.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "portfolio",
+   "posted_at": null,
+   "posting": "Backed by Antler. A just-in-time booking, ticketing and fleet solution for the 30 million daily intercity travelers",
+   "site_text": "[https://apnibus.com/]\nOnline Bus Ticket Booking. Get discount upto Rs 500 | Apnibus Sun Mon Tue Wed Thu Fri Sat How was yout trip? ✕ Jaipur (Rajasthan) Ringus Wed 26 Sep, 13:15 PM Rajasthan Roadways Rate your trip experience! × × FromTown ToTown Today, 10:15 AM , FromTown , From Town Stop - 00 > Buy for 15 ₹ ₹100 ₹ / ₹500 0 28 September 2024 Coins 0.00 ₹ 1.2k 10 3 ₹ / ₹500 ₹ For Bus Owner English English Hindi Account My bookings Logout Bharat Ka No. 1 Bus Booking App 1 Lakh + Routes Buses in India Enter Your Departure Arrival Journey Date 25 Dec Wed Search Bus 4.3 ★ 5L+ ApniBus is an Official RSRTC Booking Partner Book RSRTC Buses Book Bus Ticket Online With ApniBus ApniBus is Bharat Ka #1 platform for online bus ticket booking, making intercity travel simple, convenient, and affordable. Trusted by thousands of travelers, ApniBus connects you to over 1 lakh bus services across 3.5 lakh routes, offering partnerships with RSRTC (Rajasthan State Road Transport Corporation) and other trusted private operators. Whether you’re commuting for work, planning a family trip, or exploring Rajasthan’s top tourist destinations, ApniBus is your one-stop solution for bus bookings. Booking a bus ticket online on the ApniBus app or website is quick and hassle-free. Just enter your departure city, destination, and travel date to browse the best-rated buses available. Compare bus ticket prices, user reviews, and amenities, select your preferred seat, boarding and dropping points, and complete your payment using secure options like UPI, debit/credit cards, net banking, or digital wallets. With ApniBus, you get safe, secure payment methods and instant e-ticket confirmation—all you need is your m-ticket on your phone to board the bus. HOW TO BOOK BUS TICKETS ONLINE WITH APNIBUS? Download the ApniBus App: Available on Android and iOS, or visit ApniBus.com. Search for Your Route: Enter your departure and arrival cities along with your travel date. Compare Options: View bus timings, fares, and amenities to select the best option. Select Your Seat: Choose your preferred seat from the interactive seat map. Pay Securely: Complete your booking using secure payment methods like UPI, net banking, or credit/debit cards. Get Your E-Ticket: Receive your ticket instantly via SMS or email and show it to the bus operator while boarding. WHY BOOK BUS TICKETS ON APNIBUS? Flexible Ticket Booking: Enjoy easy bus ticket booking with the option to reschedule or cancel as needed. Exclusive Offers: Save more with discounts for new and existing users. Live Bus Tracking: Never miss your bus with real-time tracking that updates you on your bus location and estimated time of arrival. 24/7 Customer Support: Get round-the-clock assistance in English, Hindi, and Hinglish, making your booking experience seamless. Multiple Operators & Bus Types: Choose from trusted bus operators, including RSRTC, and a variety of bus types such as AC, non-AC, Sleeper, Semi-Sleeper, and Luxury. EXPERIENCE THE BEST WITH APNIBUS With ApniBus, you can be assured of a safe, comfortable, and on-time travel experience. Whether you need an AC Sleeper for a luxurious overnight journey or an affordable non-AC Seater for a quick day trip, we have options tailored to every traveler's need. Our platform also offers multiple boarding and dropping points across major cities and towns, giving you the flexibility to plan your journey conveniently. EXCLUSIVE BENEFITS FOR APNIBUS USERS Flexible Cancellations: Modify or cancel your bookings with ease and receive instant refunds, subject to the operator's policy. Cheapest Bus Ticket Booking: Book affordable tickets with exclusive ApniBus discount codes. Guaranteed Seats: Reserve your preferred seat in advance for a comfortable and stress-free journey. Top Operators: Travel with trusted bus operators like RSRTC, Rajdhani Travels, and more. Eco-Friendly Options: Explore sustainable travel with electric and multi-axle buses available on select routes. WHY CHOOSE APNIBU",
+   "email_candidates": [],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "a37fd0e105",
+   "company": "Armory",
+   "website": "https://www.armory.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "portfolio",
+   "posted_at": null,
+   "posting": "Backed by Antler. Armory is a new age defence technology startup building next-generation counter-drone (C-UAS) systems to protect against the growing threat of low-cost, agile aerial threats.",
+   "site_text": "[https://www.armory.in/]\nArmory | Building the best C-UAS for Bharat. 0% Contact Careers At Armory, you will do the best work of your life See Open Positions Connect LinkedIn Email X (formerly Twitter) Contact Us cuas@armory.in +91 9560952022 Gurugram, Haryana, India Drone Jammer Drone Detector Drone Jammer They're fast Autonomous Uncontainable Not under our watch We’re building for Sovereignty over the sky Introducing Surge C-UAS weaponised drones are making airspace unpredictable Borders, infrastructure, and critical operations now face a new layer of vulnerability, the low-altitude battlefield. built from the ground up No outsourcing. No vendor lock-in. From circuit boards to AI algorithms, we control the entire stack. Threat detected. Signature verified. Response deployed. In Seconds. Simultaneous multi-threat detection. 24/7. Precision jamming. Single frequency, specific band, or full spectrum. All-weather operational. -30°C to +50°C. 95% humidity. One system. Any terrain. Mission-ready. Swap modules in the field. Antennas, power units, upgrades. Mission-specific configuration. Operational in under 60 seconds. Unpack and deploy. Comprehensive mission suite. Electronic countermeasures. Direction finding. Geolocation. One unit sees. All units know. Network responds. Distributed coordination. Multiple units work as one. Optimised coverage across terrain. Shared intelligence. Threat data, geolocation, RF signatures. Instant network-wide awareness. Configurable alerts. Operators see priority threats only. No noise. Self-learning architecture. Regular updates. Always ahead of the threat. Detailed intelligible system logs. Full visibility into every decision. coordination. Deploy anywhere. Cloud, on-premises, or edge. Performance scales. Complete threat intelligence. New threats, RF signatures, communication patterns. Learns continuously. Drones have redefined warfare. We are redefining the defence Because Sovereignty isn’t given. It’s built. contact us See open positions Featured News December 9, 2025 Shoot The Drones? Why do military operators prefer destroying drones over jamming them? Explore the psychological drivers behind hard-kill preference in counter-drone technology. Read article June 25, 2025 Armory raises INR 13Cr to build indigenous C-UAS for Bharat Anti Drone Startup Armory raises INR 13 Crore funding in seed round from led by GrowX Ventures, and co-invested by Industrial 47, Antler, AC Ventures, and Dexter Ventures Read article June 19, 2025 Surge - 6 Months to a C-UAS Hardware is hard building defence is harder. We at Armory took paper prototypes to field ready anti drone system in a span of 6 months. Read article View All Borders, infrastructure, and critical operations now face a new layer of vulnerability, the low-altitude battlefield. This is some text inside of a div block. This is some text inside of a div block.\n\n[https://www.armory.in/contact-us]\nContact Us | Armory Contact Careers At Armory, you will do the best work of your life See Open Positions Connect LinkedIn Email X (formerly Twitter) Contact Us cuas@armory.in +91 9560952022 Gurugram, Haryana, India Securing India's skies from drone threats. Together. EMAIL US AT cuas@armory.in THE QUICKEST WAY TO REACH US +91 95609 52022 LOCATION Gurugram, Haryana, India Partnerships. Investments. Demonstrations. Careers. Whatever brings you here, we're ready. Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. change to Image view Gurugram, Haryana Our Location Where We Are Armory is where innovation thrives. A creative hub where engineers bring bold ideas to life, driven by a sense of purpose. We are confident in our team, and we will almost always ship products earlier than promised. Join us in building the Join us in building the future of defence. future of Defence. See Open Positions\n\n[https://www.armory.in/careers]\nCareers | The best work of your life awaits. Join us! Contact Careers At Armory, you will do t",
+   "email_candidates": [
+    {
+     "email": "cuas@armory.in",
+     "where": "https://www.armory.in/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "695d1311b0",
+   "company": "Aspera Industries",
+   "website": "https://asperaindustries.com/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "portfolio",
+   "posted_at": null,
+   "posting": "Backed by Antler. World's first autonomous, amphibious aircrafts.",
+   "site_text": "[https://www.asperaindustries.com/]\nAspera Industries Join Us Autonomy in the skies World's first autonomous, amphibious aircraft. coming soon... coming soon... coming soon . . . At Aspera, we are building purpose-built, long range airplanes capable of taking off and landing both on water and flat land, without a pilot onboard. Our mission Most of the world's goods still travel by ship because flight costs too much. We think that's a solvable problem. We build machines that move goods through the sky. Our goal is to manufacture tens of thousands of the cheapest, fastest, most efficient airplanes, from India. We're building aircraft cheap enough to compete with boats on cost, while being twenty times faster. When the cost of flying cargo falls below the cost of not flying it, we'll know we've succeeded.\n\n[https://www.asperaindustries.com/careers]\nCareers | Aspera Industries Careers 01 What to Expect 01 We are a small team that moves fast and questions every extra gram, rupee, line of code, and step in the process. 02 We want to go from whiteboard to flight tests in days. 03 We believe in full-ownership. You own your piece of the plane, from napkin sketch to failure report. Launch it, fix it, fly it. 04 Our goal is to deliver thousands of autonomous planes that change how the world moves cargo. If what you're doing doesn't get us closer to that, stop doing it. ↓ scroll WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · WE'RE HIRING · BENGALURU, INDIA · ASPERA INDUSTRIES · AUTONOMOUS AIRCRAFT · Open Roles AVIONICS ENGINEER Bengaluru, India (in-person) || Full-time HYDRODYNAMICS ENGINEER Bengaluru, India (in-person) || Full-time FLIGHT OPERATIONS ENGINEER Bengaluru, India (in-person) || Full-time ENGINEERING RECRUITER Bengaluru, India (in-person) || Full-time POLICY AND REGULATORY RESEARCH ASSOCIATE Bengaluru, India (in-person) || Full-time Ready to join us? If you're excited by this mission but don't tick every box above, we still want to hear from you. We value diverse backgrounds, unorthodox experience, and relentless drive.",
+   "email_candidates": [
+    {
+     "email": "humans@asperaindustries.com",
+     "where": "https://www.asperaindustries.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "092a7bd4a9",
+   "company": "Autodraft",
+   "website": "https://autodraft.in/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "portfolio",
+   "posted_at": null,
+   "posting": "Backed by Antler. Best AI animation tool for YouTubers and storytellers.",
+   "site_text": "[https://autodraft.in/]\nâ¡ 5x Faster Channel Growth Best AI Animation Tool for YouTubers Create stunning cartoon stories with AI. Generate characters, backgrounds, and voices automatically. Sign Up for Free 1500+ channels monetized with Autodraft Kahani Toonbox 12M Views $ Monetized Scary Zone Hub 7M Views $ Monetized AatmaLok Horror Tales 7M Views $ Monetized Quest Toons Tv 6M Views $ Monetized Secrets Toon 4M Views $ Monetized Best Story Toons 4.5M Views $ Monetized Cartoon Story Book 45M Views $ Monetized Jim jam Toons 32M Views $ Monetized Modern Toons 22M Views $ Monetized Savera Anand 20M Views $ Monetized Goldy Toons 17M Views $ Monetized Cartoon Plus 14M Views $ Monetized Moral Tale Stories 10M Views $ Monetized Drama Kahaniya 8M Views $ Monetized BuzzFunn Story 3M Views $ Monetized Raat Ka Raaz 8M Views $ Monetized Toonsi Hindi 8.5M Views $ Monetized Kahani Ghar 4.5M Views $ Monetized Lazy Toons 616K Views $ Monetized Kahani Toonbox 12M Views $ Monetized Scary Zone Hub 7M Views $ Monetized AatmaLok Horror Tales 7M Views $ Monetized Quest Toons Tv 6M Views $ Monetized Secrets Toon 4M Views $ Monetized Best Story Toons 4.5M Views $ Monetized Cartoon Story Book 45M Views $ Monetized Jim jam Toons 32M Views $ Monetized Modern Toons 22M Views $ Monetized Savera Anand 20M Views $ Monetized Goldy Toons 17M Views $ Monetized Cartoon Plus 14M Views $ Monetized Moral Tale Stories 10M Views $ Monetized Drama Kahaniya 8M Views $ Monetized BuzzFunn Story 3M Views $ Monetized Raat Ka Raaz 8M Views $ Monetized Toonsi Hindi 8.5M Views $ Monetized Kahani Ghar 4.5M Views $ Monetized Lazy Toons 616K Views $ Monetized â Trusted By 400K+ Creators â¬ Animation Downloaded 6M+ Mins â¦ Assets Created 30M+ Assets Built for Storytellers Advanced AI Tools With Creative Controls Autodraft helps you generate premium quality assets & animations in consistent styles Generate AI Voiceover Generate life like AI Voiceover from 100s of voice presets Generate AI Backgrounds Generate consistent style backgrounds from storyboards, sketches and references Advanced Editing Tools Generate AI Characters Generate AI animated characters using prompts with high detail Generate Now! Advanced Editing Tools Editing Tools Effects, chroma key, and layer controls for polished outputs Effects & Chroma Key Layer Management Get Started Built for Storytellers Advanced Animation Controls Autodraft AI provides various controls for Expressions, Lip Syncing, Props, Primary Animations, Secondary Animations and so on... 1000+ Action Controls 100+ Expressions & Lip-Syncing Power Of Custom Props Multiplatform Support Supports Android & IOS and Desktop & Laptop Your Questions answered FAQs These are some of the common questions asked by our users What is Autodraft AI ? â Autodraft is a platform for creating animation backgrounds and others assets in 100+ consistent styles. It can generate images with prompt, storyboards, sketches or even flat colored images. It can also create character turnaround vectors for flash animators. Is Autodraft AI free to use? + How is Autodraft AI different from other AI tools? + What is the difference between Base, Pro and Enterprise plans? + What payment methods are supported in Autodraft AI? + What kind of support will I get post subscription? + What's the meaning of credits and how are they deducted? + How much content will I be able to generate in let us say 1000 credits? + What are the templates? + What's the custom model training in Autodraft AI? + How do I get my own models trained? + What kind of training data will I need for custom model training? + What if I don't have the training data? + Can I use Autodraft generated content commercially? + Will I get any copyright claim or strike from Autodraft AI once I upload my contents on YouTube? + Best Cartoon Animation Maker out there Supercharge your Cartoon Animation Process For Free! Cartoon Maker Animation AI Cartoon Background Maker AI Image Generator AI Cartoon Voice AI Character Creato",
+   "email_candidates": [
+    {
+     "email": "team@autodraft.in",
+     "where": "https://autodraft.in/blog/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "68a414a080",
+   "company": "Chainrisk",
+   "website": "https://www.chainrisk.io/",
+   "title": "Software Engineering (no public opening)",
+   "location": "India",
+   "source": "portfolio",
+   "posted_at": null,
+   "posting": "Backed by Antler. Chainrisk (prev. UNSNARL) automates cyber risk management for decentralised applications.",
+   "site_text": "[https://www.chainrisk.io/]\nCalvin's Radical Site steerING ORGANIZATIONS & individuals around THE risks of blockchain. Blockchain & Web 3 Navigator Learn fast, adapt intentionally & achieve entirely new possibilities. SEND US AN EMAIL Blockchain & Web 3 Navigator Place 1 Collaboration Over Competition Place 3 Compliance Drives Growth place 2",
+   "email_candidates": [
+    {
+     "email": "hello@chainrisk.io",
+     "where": "https://www.chainrisk.io/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 1,
+   "priority_note": "",
+   "referral": false
+  }
+ ]
+}
