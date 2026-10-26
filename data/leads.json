@@ -2306,6 +2306,7 @@
   "priority": 1,
   "priority_note": "Gurgaon · active GitHub org, no posting",
   "recontacted": "2026-10-14",
+  "replied_at": "2026-10-26T06:58:30Z",
   "research": {
    "angle": "canopy",
    "angle_reason": "Gamezop runs a Node/Next/Go backend serving a plug-and-play SDK to thousands of integrating products, close to the backend/platform work Canopy's call-graph analysis targets.",
@@ -2336,7 +2337,7 @@
   },
   "score": 11.5,
   "source": "github_orgs",
-  "status": "followup_2",
+  "status": "replied",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/gamezop",
   "website": "https://business.gamezop.com/about-us",

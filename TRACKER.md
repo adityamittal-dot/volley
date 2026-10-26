@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-26T06:02:29Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-26T07:04:22Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 295 · **Sent:** 295 · **Replies:** 36 (12%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 295 · **Sent:** 295 · **Replies:** 37 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -13,8 +13,8 @@ _Updated 2026-10-26T06:02:29Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | researching | 180 |
 | sent | 26 |
 | followup_1 | 31 |
-| followup_2 | 55 |
-| replied | 36 |
+| followup_2 | 54 |
+| replied | 37 |
 | bounced | 18 |
 | closed | 129 |
 
@@ -23,19 +23,20 @@ _Updated 2026-10-26T06:02:29Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | Angle | Sent | Replies |
 |---|---|---|
 | medvault | 162 | 20 |
-| canopy | 94 | 12 |
+| canopy | 94 | 13 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 254 | 28 |
+| role | 254 | 29 |
 | short | 41 | 8 |
 
 ## Replies
 
 - **Uncountable** — Jason <jason@uncountable.com> replied 2026-10-05
+- **Gamezop** — Ansh Gujral <anshgujral1997@gmail.com> replied 2026-10-26
 - **InfoHawk** — James <james@infohawk.com> replied 2026-09-29
 - **Spring Edge** — Bishnoi Balwant <bishnoi.balwant@springedge.com> replied 2026-10-20
 - **NFN Labs** — Ravi Kumar <ravi@nfnlabs.in> replied 2026-10-19
