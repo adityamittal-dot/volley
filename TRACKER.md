@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-26T09:59:46Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-26T15:24:24Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 309 · **Sent:** 309 · **Replies:** 37 (12%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 313 · **Sent:** 313 · **Replies:** 38 (12%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,19 +10,18 @@ _Updated 2026-10-26T09:59:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 23 |
 | no_contact | 1066 |
 | low_fit | 893 |
-| queued | 4 |
-| sent | 40 |
+| sent | 42 |
 | followup_1 | 31 |
 | followup_2 | 54 |
-| replied | 37 |
-| bounced | 18 |
+| replied | 38 |
+| bounced | 19 |
 | closed | 129 |
 
 ## Reply rate by angle
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 174 | 20 |
+| medvault | 178 | 21 |
 | canopy | 96 | 13 |
 | basepair | 39 | 4 |
 
@@ -30,7 +29,7 @@ _Updated 2026-10-26T09:59:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 268 | 29 |
+| role | 272 | 30 |
 | short | 41 | 8 |
 
 ## Replies
@@ -56,6 +55,7 @@ _Updated 2026-10-26T09:59:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **AgileHead** — Jeswin Kumar <jeswinpk@agilehead.com> replied 2026-10-13
 - **Gotchacode** — Vinit Kumar <vinitkme@icloud.com> replied 2026-10-07
 - **Frostrek AI** —  <contact@frostrek.com> replied 2026-10-01
+- **Hexo** — gurusha01 <gurushajuneja@gmail.com> replied 2026-10-26
 - **Xero** —  <careers@xero.com> replied 2026-09-30
 - **ColoredCow** — Vaibhav Rathore <vaibhav@coloredcow.com> replied 2026-10-01
 - **Hackerrank** —  <internship-queries@hackerrank.com> replied 2026-10-14
@@ -77,10 +77,14 @@ _Updated 2026-10-26T09:59:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-26 | Adentris | founders@adentris.com | medvault | sent |
+| 2026-10-26 | Vesence | careers@vesence.com | medvault | sent |
+| 2026-10-26 | Altur | careers@altur.io | medvault | sent |
+| 2026-10-26 | Regbase | founders@regbase.com | medvault | sent |
 | 2026-10-26 | unbundl | hr@unbundl.com | medvault | sent |
 | 2026-10-26 | Revenuehero | careers@revenuehero.io | medvault | sent |
 | 2026-10-26 | codedamn | mehulmpt@gmail.com | medvault | sent |
-| 2026-10-26 | Kello | careers@kello.ai | medvault | sent |
+| 2026-10-26 | Kello | careers@kello.ai | medvault | bounced |
 | 2026-10-26 | Aignosis | jobs@aignosis.in | medvault | sent |
 | 2026-10-26 | GTM Buddy | careers@gtmbuddy.ai | medvault | sent |
 | 2026-10-26 | Project Mirage | careers@aina.com | medvault | sent |
@@ -88,7 +92,7 @@ _Updated 2026-10-26T09:59:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-26 | KeyValueSoftwareSystems | careers@keyvalue.systems | medvault | sent |
 | 2026-10-26 | CodeGraphContext | codegraphcontext@gmail.com | canopy | sent |
 | 2026-10-26 | Dodo Payments | ambuj@dodopayments.com | medvault | sent |
-| 2026-10-26 | Hexo | gurushajuneja@gmail.com | medvault | sent |
+| 2026-10-26 | Hexo | gurushajuneja@gmail.com | medvault | replied |
 | 2026-10-26 | OnArrival | pawan@onarrival.travel | medvault | sent |
 | 2026-10-26 | October | hey@october.dev | canopy | sent |
 | 2026-10-23 | PoloTab | founders@polotab.com | medvault | sent |
@@ -98,7 +102,3 @@ _Updated 2026-10-26T09:59:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-23 | Dart | zack@dartai.com | medvault | sent |
 | 2026-10-23 | Simbie AI | founders@simbie.ai | medvault | sent |
 | 2026-10-23 | Tint | matheus@tint.ai | medvault | sent |
-| 2026-10-23 | IronLedger.ai | nick@ironledger.ai | medvault | sent |
-| 2026-10-23 | Circuithub | andrew@circuithub.com | canopy | sent |
-| 2026-10-23 | Greptile | tobias@greptile.com | canopy | sent |
-| 2026-10-23 | Greptile | daksh@greptile.com | canopy | sent |
