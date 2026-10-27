@@ -29,6 +29,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:aleph": {
+  "company": "Aleph",
+  "found": "2026-10-27",
+  "website": "https://getaleph.com/"
+ },
  "ashby:anrok": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -53,6 +58,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:arq": {
+  "company": "ARQ",
+  "found": "2026-10-27",
+  "website": "https://www.arqfinance.com/"
  },
  "ashby:artemis": {
   "company": "Cargo",
@@ -104,10 +114,20 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:belvo": {
+  "company": "Belvo",
+  "found": "2026-10-27",
+  "website": "https://belvo.com"
+ },
  "ashby:ben": {
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:bettermile": {
+  "company": "Bettermile",
+  "found": "2026-10-27",
+  "website": "https://bettermile.com"
  },
  "ashby:birdie": {
   "company": "Cargo",
@@ -118,6 +138,11 @@
   "company": "Blee",
   "found": "2026-10-14",
   "website": "https://www.blee.com"
+ },
+ "ashby:blissway": {
+  "company": "Blissway",
+  "found": "2026-10-27",
+  "website": "https://www.blissway.com/"
  },
  "ashby:bobyard": {
   "company": "Cargo",
@@ -153,6 +178,16 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:capimoney": {
+  "company": "Capi Money",
+  "found": "2026-10-27",
+  "website": "https://www.capimoney.com"
+ },
+ "ashby:caribou": {
+  "company": "Caribou",
+  "found": "2026-10-27",
+  "website": "https://usecaribou.com"
  },
  "ashby:cartesia": {
   "company": "Cargo",
@@ -294,10 +329,20 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:dedalus-labs": {
+  "company": "Dedalus Labs",
+  "found": "2026-10-27",
+  "website": "https://www.dedaluslabs.ai/"
+ },
  "ashby:deepl": {
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:double": {
+  "company": "Double",
+  "found": "2026-10-27",
+  "website": "https://www.doublehq.com"
  },
  "ashby:dualentry": {
   "company": "Cargo",
@@ -339,6 +384,11 @@
   "found": "2026-10-23",
   "website": "http://www.enode.com"
  },
+ "ashby:f2-ai": {
+  "company": "F2",
+  "found": "2026-10-27",
+  "website": "http://f2.ai"
+ },
  "ashby:fal-ai": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -378,6 +428,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:garage": {
+  "company": "Garage",
+  "found": "2026-10-27",
+  "website": "https://www.shopgarage.com/"
  },
  "ashby:genomics": {
   "company": "Cargo",
@@ -424,6 +479,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:halluminate": {
+  "company": "Halluminate",
+  "found": "2026-10-27",
+  "website": "https://halluminate.ai/"
+ },
  "ashby:hamming": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -438,6 +498,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:harperinsure": {
+  "company": "Harper",
+  "found": "2026-10-27",
+  "website": "https://www.harperinsure.com/"
  },
  "ashby:healthtech-1": {
   "company": "Healthtech 1",
@@ -559,6 +624,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:litellm": {
+  "company": "LiteLLM",
+  "found": "2026-10-27",
+  "website": "https://www.litellm.ai/"
+ },
  "ashby:litmus": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -633,6 +703,11 @@
   "company": "Cargo",
   "found": "2026-10-20",
   "website": "https://getcargo.io"
+ },
+ "ashby:momentic": {
+  "company": "Momentic",
+  "found": "2026-10-27",
+  "website": "https://momentic.ai"
  },
  "ashby:monk": {
   "company": "Cargo",
@@ -768,6 +843,11 @@
   "company": "Paddle",
   "found": "2026-10-14",
   "website": "https://paddle.com"
+ },
+ "ashby:paragon": {
+  "company": "Paragon",
+  "found": "2026-10-27",
+  "website": "http://useparagon.com"
  },
  "ashby:parameter": {
   "company": "Cargo",
@@ -909,6 +989,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:sauna": {
+  "company": "Wordware",
+  "found": "2026-10-27",
+  "website": "https://wordware.ai/"
+ },
  "ashby:scribe": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -918,6 +1003,11 @@
   "company": "Cargo",
   "found": "2026-10-20",
   "website": "https://getcargo.io"
+ },
+ "ashby:sereact": {
+  "company": "Sereact GmbH",
+  "found": "2026-10-27",
+  "website": "https://sereact.ai"
  },
  "ashby:shepherd": {
   "company": "Cargo",
@@ -939,6 +1029,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:sim": {
+  "company": "Sim",
+  "found": "2026-10-27",
+  "website": "https://sim.ai"
+ },
  "ashby:singular": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -958,6 +1053,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:solva": {
+  "company": "Solva",
+  "found": "2026-10-27",
+  "website": "https://solvatechnology.com"
  },
  "ashby:sosafe": {
   "company": "Cargo",
@@ -1024,6 +1124,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:tamarindbio": {
+  "company": "Tamarind Bio",
+  "found": "2026-10-27",
+  "website": "https://www.tamarind.bio"
+ },
  "ashby:tapcheck": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -1038,6 +1143,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:the-exploration-company": {
+  "company": "The Exploration Company",
+  "found": "2026-10-27",
+  "website": "https://exploration.space"
  },
  "ashby:the-global-talent-co": {
   "company": "Cargo",
@@ -1063,6 +1173,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:truss": {
+  "company": "Truss",
+  "found": "2026-10-27",
+  "website": "https://trusspayments.com"
  },
  "ashby:unify": {
   "company": "Cargo",
@@ -1173,6 +1288,11 @@
   "company": "Zensors",
   "found": "2026-10-20",
   "website": "https://www.zensors.com"
+ },
+ "ashby:ziina": {
+  "company": "Ziina",
+  "found": "2026-10-27",
+  "website": "https://www.ziina.com"
  },
  "ashby:zip": {
   "company": "Cargo",
@@ -1689,6 +1809,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "lever:mytos": {
+  "company": "Mytos",
+  "found": "2026-10-27",
+  "website": "https://www.mytos.bio"
+ },
  "lever:pigment": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -1698,6 +1823,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "lever:tryriot": {
+  "company": "Riot",
+  "found": "2026-10-27",
+  "website": "https://tryriot.com/"
  },
  "lever:wingtra-2": {
   "company": "Cargo",
@@ -1709,6 +1839,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "workable:hokali": {
+  "company": "HOKALI",
+  "found": "2026-10-27",
+  "website": "https://www.hokali.com/"
+ },
  "workable:j": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -1718,6 +1853,11 @@
   "company": "Malama Health",
   "found": "2026-10-14",
   "website": "https://www.heymalama.co"
+ },
+ "workable:riot": {
+  "company": "Riot",
+  "found": "2026-10-27",
+  "website": "https://tryriot.com/"
  },
  "workable:testrigor": {
   "company": "testRigor",
