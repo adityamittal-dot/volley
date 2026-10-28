@@ -1,6 +1,6 @@
 # Tracker
 
-_Updated 2026-10-28T15:19:12Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-28T19:46:41Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
 **Emailed:** 313 · **Sent:** 313 · **Replies:** 41 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
