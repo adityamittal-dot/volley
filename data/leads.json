@@ -2002,6 +2002,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:03:55Z",
+    "message_id": "<179316743360.2106.17286280120017089287@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-21T05:16:38Z",
   "github_orgs": [],
   "id": "0501b375b9",
@@ -2038,7 +2046,7 @@
   },
   "score": 8.0,
   "source": "linkedin",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Full-Stack Software Engineer I SDE-1",
   "url": "https://in.linkedin.com/jobs/view/full-stack-software-engineer-i-sde-1-at-babaclick-4479954977",
   "website": "https://babaclick.com",
@@ -2165,6 +2173,14 @@
    "india@babaclick.com"
   ],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:04:03Z",
+    "message_id": "<179316744178.2106.7269708320610907021@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-23T05:22:32Z",
   "github_orgs": [],
   "id": "05376dbf02",
@@ -2204,7 +2220,7 @@
   },
   "score": 14.0,
   "source": "linkedin",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Full-Stack Software Engineer I SDE-1",
   "url": "https://in.linkedin.com/jobs/view/full-stack-software-engineer-i-sde-1-at-babaclick-4479954977",
   "website": "https://babaclick.com",
@@ -2271,6 +2287,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:04:10Z",
+    "message_id": "<179316744915.2106.10272998511923588644@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-08T06:25:44Z",
   "github_orgs": [],
   "id": "0546a18f4a",
@@ -2291,7 +2315,7 @@
   },
   "score": 3.5,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2023)",
   "url": "https://www.ycombinator.com/companies/polotab",
   "website": "https://polotab.com",
@@ -12939,6 +12963,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:04:19Z",
+    "message_id": "<179316745734.2106.4428945266028828434@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-20T17:18:26Z",
   "github_orgs": [],
   "id": "1cdb89a6b0",
@@ -12971,7 +13003,7 @@
   },
   "score": 5.0,
   "source": "arbeitnow",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineer, Front End & Design",
   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-front-end-design-8654",
   "website": "https://circuithub.com",
@@ -22830,6 +22862,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:04:31Z",
+    "message_id": "<179316746959.2106.16813685381655923026@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-23T05:22:32Z",
   "github_orgs": [
    "oscova"
@@ -22860,7 +22900,7 @@
   },
   "score": 8.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/oscova",
   "website": "https://oscova.ai",
@@ -23120,6 +23160,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:04:39Z",
+    "message_id": "<179316747858.2106.1170820347204527682@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-06T06:45:48Z",
   "github_orgs": [
    "cuttle-ai"
@@ -23151,7 +23199,7 @@
   },
   "score": 7.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/cuttle-ai",
   "website": "https://play.octopus.cuttle.ai",
@@ -32968,6 +33016,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:04:52Z",
+    "message_id": "<179316749103.2106.9505073958349845846@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-09-29T05:53:55Z",
   "github_orgs": [],
   "id": "4d8374de35",
@@ -32998,7 +33054,7 @@
   },
   "score": 4.9,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/authologic",
   "website": "https://authologic.com",
@@ -33198,6 +33254,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:05:03Z",
+    "message_id": "<179316750215.2106.8450725347367528779@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-07T06:21:45Z",
   "github_orgs": [],
   "id": "4e019e6147",
@@ -33223,7 +33287,7 @@
   },
   "score": 3.8,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/enode",
   "website": "http://www.enode.com",
@@ -38846,6 +38910,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:05:13Z",
+    "message_id": "<179316751179.2106.6943305270526031631@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-07T06:21:45Z",
   "github_orgs": [],
   "id": "5b2f2f5c28",
@@ -38893,7 +38965,7 @@
   },
   "score": 4.4,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/tint",
   "website": "http://www.tint.ai",
@@ -43837,6 +43909,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:05:26Z",
+    "message_id": "<179316752535.2106.13219540386820521274@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-20T17:18:26Z",
   "github_orgs": [],
   "id": "65e2a14241",
@@ -43892,7 +43972,7 @@
   },
   "score": 5.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Fall 2024)",
   "url": "https://www.ycombinator.com/companies/dexter",
   "website": "https://www.getdexter.co/",
@@ -49115,6 +49195,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:05:40Z",
+    "message_id": "<179316753875.2106.2172413909641881869@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-07T06:21:45Z",
   "github_orgs": [],
   "id": "76e669461f",
@@ -49150,7 +49238,7 @@
   },
   "score": 3.9,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/soraban",
   "website": "https://www.soraban.com",
@@ -50977,6 +51065,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:05:54Z",
+    "message_id": "<179316755306.2106.10689770090522825858@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-23T05:22:32Z",
   "github_orgs": [],
   "id": "7bbb138653",
@@ -50999,7 +51095,7 @@
   },
   "score": 14.5,
   "source": "linkedin",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Full Stack Intern",
   "url": "https://in.linkedin.com/jobs/view/full-stack-intern-at-web3task-pvt-ltd-4481640087",
   "website": "https://web3task.com",
@@ -53385,6 +53481,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:06:01Z",
+    "message_id": "<179316756021.2106.5914728794367211619@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-07T06:21:45Z",
   "github_orgs": [
    "iomete"
@@ -53419,7 +53523,7 @@
   },
   "score": 3.9,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/iomete",
   "website": "https://www.iomete.com/",
@@ -59031,6 +59135,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:06:17Z",
+    "message_id": "<179316757614.2106.5156620215179116630@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-08T06:25:44Z",
   "github_orgs": [],
   "id": "8caa5a29c9",
@@ -59053,7 +59165,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2023)",
   "url": "https://www.ycombinator.com/companies/simbie-ai",
   "website": "http://www.simbie.ai",
@@ -63635,6 +63747,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:06:31Z",
+    "message_id": "<179316759043.2106.12679065267654989126@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-09-30T05:51:27Z",
   "github_orgs": [],
   "id": "9bd280cd76",
@@ -63681,7 +63801,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2022)",
   "url": "https://www.ycombinator.com/companies/dart",
   "website": "https://www.dartai.com",
@@ -74240,6 +74360,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:06:42Z",
+    "message_id": "<179316760069.2106.18061817482866646962@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-09-29T05:53:55Z",
   "github_orgs": [],
   "id": "b06b5ab97c",
@@ -74276,7 +74404,7 @@
   },
   "score": 5.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/waydev",
   "website": "https://waydev.co/",
@@ -91949,6 +92077,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:06:56Z",
+    "message_id": "<179316761533.2106.13648724199579813961@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-20T17:18:26Z",
   "github_orgs": [],
   "id": "da5090e2d9",
@@ -91969,7 +92105,7 @@
   },
   "score": 7.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Spring 2026)",
   "url": "https://www.ycombinator.com/companies/lab0",
   "website": "https://lab0.ai",
@@ -93647,6 +93783,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:07:10Z",
+    "message_id": "<179316762875.2106.11955409001036647813@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-07T06:21:45Z",
   "github_orgs": [],
   "id": "dfc8dda9c2",
@@ -93692,7 +93836,7 @@
   },
   "score": 3.8,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2024)",
   "url": "https://www.ycombinator.com/companies/conveo",
   "website": "https://conveo.ai/",
@@ -98654,6 +98798,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:07:23Z",
+    "message_id": "<179316764164.2106.7974731358827171924@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-23T05:22:32Z",
   "github_orgs": [
    "Envora-Innovation",
@@ -98688,7 +98840,7 @@
   },
   "score": 10.5,
   "source": "github_orgs",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (no public opening)",
   "url": "https://github.com/Envora-Innovation",
   "website": "https://z1iinnovation.com/",
@@ -99058,6 +99210,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:07:36Z",
+    "message_id": "<179316765467.2106.11442805889678832901@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-21T05:16:38Z",
   "github_orgs": [
    "greptileai"
@@ -99083,7 +99243,7 @@
   },
   "score": 6.9,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/greptile",
   "website": "https://www.greptile.com",
@@ -99151,6 +99311,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:07:48Z",
+    "message_id": "<179316766663.2106.12552001245823181034@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-21T05:16:38Z",
   "github_orgs": [
    "greptileai"
@@ -99198,7 +99366,7 @@
   },
   "score": 6.9,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2024)",
   "url": "https://www.ycombinator.com/companies/greptile",
   "website": "https://www.greptile.com",
@@ -99657,6 +99825,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:08:03Z",
+    "message_id": "<179316768213.2106.14252091368218035339@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-09-29T05:53:55Z",
   "github_orgs": [],
   "id": "ef539bb926",
@@ -99695,7 +99871,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Winter 2021)",
   "url": "https://www.ycombinator.com/companies/compose-ai",
   "website": "https://compose.ai",
@@ -99959,6 +100135,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:08:18Z",
+    "message_id": "<179316769651.2106.10163645369072883918@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-06T06:45:47Z",
   "github_orgs": [],
   "id": "f0399b35ce",
@@ -100004,7 +100188,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2021)",
   "url": "https://www.ycombinator.com/companies/coloop",
   "website": "https://coloop.ai/",
@@ -101613,6 +101797,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:08:25Z",
+    "message_id": "<179316770362.2106.887406504886125864@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-07T06:21:45Z",
   "github_orgs": [],
   "id": "f32c3e00e9",
@@ -101633,7 +101825,7 @@
   },
   "score": 4.0,
   "source": "yc_hiring",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Engineering (YC Summer 2025)",
   "url": "https://www.ycombinator.com/companies/ironledger-ai",
   "website": "https://ironledger.ai",
@@ -103896,6 +104088,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:08:35Z",
+    "message_id": "<179316771328.2106.18184769893577446528@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-20T17:18:26Z",
   "github_orgs": [],
   "id": "f77f13746f",
@@ -103921,7 +104121,7 @@
   },
   "score": 8.0,
   "source": "funding_news",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (recently funded)",
   "url": "https://entrackr.com/news/rapidcanvas-raises-29-mn-in-series-b-round-led-by-vertex-ventures-12681874",
   "website": "https://rapidcanvas.ai",
@@ -105462,6 +105662,14 @@
   },
   "emails": [],
   "finder": 2,
+  "followups": [
+   {
+    "at": "2026-10-28T06:08:49Z",
+    "message_id": "<179316772825.2106.1642575540323645203@gmail.com>",
+    "mode": "send",
+    "n": 1
+   }
+  ],
   "found_at": "2026-10-20T17:18:26Z",
   "github_orgs": [],
   "id": "fb738e2cbc",
@@ -105491,7 +105699,7 @@
   },
   "score": 6.5,
   "source": "funding_news",
-  "status": "sent",
+  "status": "followup_1",
   "title": "Software Engineering (recently funded)",
   "url": "https://entrackr.com/news/z47-leads-125-mn-series-a-round-in-confido-health-12677262",
   "website": "https://confido.health",

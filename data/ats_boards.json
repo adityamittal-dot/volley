@@ -239,6 +239,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:codesphere": {
+  "company": "Codesphere",
+  "found": "2026-10-28",
+  "website": "https://codesphere.com"
+ },
  "ashby:codex": {
   "company": "Cargo",
   "found": "2026-10-14",
@@ -829,6 +834,11 @@
   "found": "2026-10-14",
   "website": "https://getcargo.io"
  },
+ "ashby:orbem": {
+  "company": "Orbem",
+  "found": "2026-10-28",
+  "website": "https://orbem.ai"
+ },
  "ashby:ostrom": {
   "company": "Ostrom",
   "found": "2026-10-23",
@@ -1153,6 +1163,11 @@
   "company": "Cargo",
   "found": "2026-10-14",
   "website": "https://getcargo.io"
+ },
+ "ashby:thorit": {
+  "company": "Thorit",
+  "found": "2026-10-28",
+  "website": "https://thorit.de"
  },
  "ashby:tldr": {
   "company": "Cargo",
