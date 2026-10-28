@@ -1,8 +1,8 @@
 # Tracker
 
-_Updated 2026-10-27T19:33:46Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-28T15:19:12Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 313 · **Sent:** 313 · **Replies:** 40 (13%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 313 · **Sent:** 313 · **Replies:** 41 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
@@ -10,10 +10,10 @@ _Updated 2026-10-27T19:33:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | skipped | 23 |
 | no_contact | 1066 |
 | low_fit | 893 |
-| sent | 42 |
-| followup_1 | 29 |
-| followup_2 | 48 |
-| replied | 40 |
+| sent | 16 |
+| followup_1 | 55 |
+| followup_2 | 47 |
+| replied | 41 |
 | bounced | 19 |
 | closed | 135 |
 
@@ -21,7 +21,7 @@ _Updated 2026-10-27T19:33:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 178 | 23 |
+| medvault | 178 | 24 |
 | canopy | 96 | 13 |
 | basepair | 39 | 4 |
 
@@ -29,7 +29,7 @@ _Updated 2026-10-27T19:33:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 272 | 32 |
+| role | 272 | 33 |
 | short | 41 | 8 |
 
 ## Replies
@@ -70,6 +70,7 @@ _Updated 2026-10-27T19:33:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 - **xPay** —  <hello@xpaycheckout.com> replied 2026-10-08
 - **Syook** —  <careers@syook.com> replied 2026-10-20
 - **nilenso** —  <careers@nilenso.com> replied 2026-10-19
+- **Heads Up For Tails** —  <hireme@headsupfortails.com> replied 2026-10-28
 - **Greenzie** — Charles Brian Quinn <cbq@greenzie.com> replied 2026-10-06
 - **Srapsware** — Shiv Singh <shiv@srapsware.com> replied 2026-10-12
 - **chainframe** — Nitin Shukla <nitin@chainframe.com> replied 2026-10-19
@@ -97,10 +98,10 @@ _Updated 2026-10-27T19:33:46Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-26 | Hexo | gurushajuneja@gmail.com | medvault | replied |
 | 2026-10-26 | OnArrival | pawan@onarrival.travel | medvault | sent |
 | 2026-10-26 | October | hey@october.dev | canopy | sent |
-| 2026-10-23 | PoloTab | founders@polotab.com | medvault | sent |
-| 2026-10-23 | IOMETE | theabhishekpathania@gmail.com | medvault | sent |
-| 2026-10-23 | Soraban | enoch232@gmail.com | medvault | sent |
-| 2026-10-23 | Compose.ai | wilsonmitchell92@gmail.com | medvault | sent |
-| 2026-10-23 | Dart | zack@dartai.com | medvault | sent |
-| 2026-10-23 | Simbie AI | founders@simbie.ai | medvault | sent |
-| 2026-10-23 | Tint | matheus@tint.ai | medvault | sent |
+| 2026-10-23 | PoloTab | founders@polotab.com | medvault | followup_1 |
+| 2026-10-23 | IOMETE | theabhishekpathania@gmail.com | medvault | followup_1 |
+| 2026-10-23 | Soraban | enoch232@gmail.com | medvault | followup_1 |
+| 2026-10-23 | Compose.ai | wilsonmitchell92@gmail.com | medvault | followup_1 |
+| 2026-10-23 | Dart | zack@dartai.com | medvault | followup_1 |
+| 2026-10-23 | Simbie AI | founders@simbie.ai | medvault | followup_1 |
+| 2026-10-23 | Tint | matheus@tint.ai | medvault | followup_1 |

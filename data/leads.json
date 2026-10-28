@@ -96622,6 +96622,7 @@
   "posted_at": "2026-10-10T00:00:00Z",
   "priority": 0,
   "priority_note": "Gurugram",
+  "replied_at": "2026-10-28T15:18:18Z",
   "research": {
    "angle": "medvault",
    "angle_reason": "The intern work is REST APIs and user-facing backend services, and MedVault's DRF API with JWT refresh and per-user isolation is the closest backend match, though their stack is Node rather than Django.",
@@ -96639,7 +96640,7 @@
   },
   "score": 15.0,
   "source": "linkedin",
-  "status": "followup_2",
+  "status": "replied",
   "title": "Software Engineering Intern",
   "url": "https://in.linkedin.com/jobs/view/software-engineering-intern-at-heads-up-for-tails-4477207173",
   "website": "https://headsupfortails.com",
