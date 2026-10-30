@@ -1,17 +1,17 @@
 # Tracker
 
-_Updated 2026-10-30T08:19:25Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-30T10:01:38Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
-**Emailed:** 313 · **Sent:** 313 · **Replies:** 41 (13%) · **Interviews:** 0 · **API spend:** $0.00
+**Emailed:** 323 · **Sent:** 323 · **Replies:** 41 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
 | new | 162 |
 | skipped | 24 |
-| no_contact | 1134 |
-| low_fit | 893 |
-| researching | 180 |
-| sent | 16 |
+| no_contact | 1174 |
+| low_fit | 973 |
+| queued | 50 |
+| sent | 26 |
 | followup_1 | 55 |
 | followup_2 | 36 |
 | replied | 41 |
@@ -22,15 +22,15 @@ _Updated 2026-10-30T08:19:25Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Angle | Sent | Replies |
 |---|---|---|
-| medvault | 178 | 24 |
-| canopy | 96 | 13 |
+| medvault | 187 | 24 |
+| canopy | 97 | 13 |
 | basepair | 39 | 4 |
 
 ## Reply rate by subject style
 
 | Style | Sent | Replies |
 |---|---|---|
-| role | 272 | 33 |
+| role | 282 | 33 |
 | short | 41 | 8 |
 
 ## Replies
@@ -81,6 +81,16 @@ _Updated 2026-10-30T08:19:25Z UTC. Full table: [data/tracker.csv](data/tracker.c
 
 | Date | Company | Contact | Angle | Status |
 |---|---|---|---|---|
+| 2026-10-30 | Dataleap | janhendrik@dataleap.ai | medvault | sent |
+| 2026-10-30 | kapa.ai | joaquin@kapa.ai | medvault | sent |
+| 2026-10-30 | kapa.ai | emil@kapa.ai | medvault | sent |
+| 2026-10-30 | Mesmer | sergio@mesmer.co | canopy | sent |
+| 2026-10-30 | Docterz | atish@docterz.in | medvault | sent |
+| 2026-10-30 | Fyle Technologies Pvt Ltd | aniruddhashriwant@gmail.com | medvault | sent |
+| 2026-10-30 | AlgoBulls | hemendra.sakpal@algobulls.com | medvault | sent |
+| 2026-10-30 | hoichoi opensource | aloke.13@gmail.com | medvault | sent |
+| 2026-10-30 | Widle | limanibhavik@gmail.com | medvault | sent |
+| 2026-10-30 | Widle | career@widle.studio | medvault | sent |
 | 2026-10-26 | Adentris | founders@adentris.com | medvault | sent |
 | 2026-10-26 | Vesence | careers@vesence.com | medvault | sent |
 | 2026-10-26 | Altur | careers@altur.io | medvault | sent |
@@ -96,13 +106,3 @@ _Updated 2026-10-30T08:19:25Z UTC. Full table: [data/tracker.csv](data/tracker.c
 | 2026-10-26 | KeyValueSoftwareSystems | careers@keyvalue.systems | medvault | sent |
 | 2026-10-26 | CodeGraphContext | codegraphcontext@gmail.com | canopy | sent |
 | 2026-10-26 | Dodo Payments | ambuj@dodopayments.com | medvault | sent |
-| 2026-10-26 | Hexo | gurushajuneja@gmail.com | medvault | replied |
-| 2026-10-26 | OnArrival | pawan@onarrival.travel | medvault | sent |
-| 2026-10-26 | October | hey@october.dev | canopy | sent |
-| 2026-10-23 | PoloTab | founders@polotab.com | medvault | followup_1 |
-| 2026-10-23 | IOMETE | theabhishekpathania@gmail.com | medvault | followup_1 |
-| 2026-10-23 | Soraban | enoch232@gmail.com | medvault | followup_1 |
-| 2026-10-23 | Compose.ai | wilsonmitchell92@gmail.com | medvault | followup_1 |
-| 2026-10-23 | Dart | zack@dartai.com | medvault | followup_1 |
-| 2026-10-23 | Simbie AI | founders@simbie.ai | medvault | followup_1 |
-| 2026-10-23 | Tint | matheus@tint.ai | medvault | followup_1 |
