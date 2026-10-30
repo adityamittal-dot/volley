@@ -1,0 +1,179 @@
+{
+ "leads": [
+  {
+   "id": "b0ca658e21",
+   "relevant": true,
+   "summary": "Builds full-stack infrastructure for running AI-native businesses, covering how AI agents execute work and how actions and outcomes are captured and learned from, sold B2B.",
+   "stack": [],
+   "hook": "Careers page says 'Send one artifact. Pick one role. Skip the cover letter' and 'Prefer shipped evidence over process theater', and lists an Evals & Task Engineering role.",
+   "angle": "medvault",
+   "angle_reason": "Their roles are about making AI execution verified and reliable, and MedVault's LLM pipeline with a fixed output schema and one mockable LLM client with a 47-test suite is that kind of work.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "adam@heytenor.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "b37865eba1",
+   "relevant": true,
+   "summary": "Builds Sauna, an AI workspace that holds a user's context and generates software for repeated tasks, for individuals and teams.",
+   "stack": [],
+   "hook": "Sauna's Calendly example: an ordinary Calendly shows a stranger free slots, while theirs writes the invite email from how the two people know each other.",
+   "angle": "medvault",
+   "angle_reason": "Sauna is applied LLM product work built on shared context, and MedVault's LLM pipeline with a fixed JSON output schema and mockable client is the same kind of applied LLM engineering.",
+   "fit": 4,
+   "region": "us",
+   "people": [
+    {"name": "Filip Kozera", "role": "Founder/CEO"},
+    {"name": "Robert Chandler", "role": "Founder/CTO"}
+   ],
+   "contact_email": "robert@wordware.ai",
+   "contact_name": "Robert Chandler",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "b422f971b6",
+   "relevant": true,
+   "summary": "Automates consumer lending compliance for banks and fintechs with AI, covering complaint management, call monitoring, issue tracking and regulatory testing for TILA, SCRA, FCRA, Reg E and UDAAP.",
+   "stack": ["AWS Bedrock", "LLMs"],
+   "hook": "Reg Compliance Testing takes uploaded test scripts and automates transaction-level testing for TILA, SCRA, FCRA, REG E and UDAAP.",
+   "angle": "medvault",
+   "angle_reason": "MedVault runs an LLM over sensitive regulated records with a fixed output schema, per-user data isolation and safety rules, which is close to drafting compliance reports from bank data.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Esty Scheiner", "role": "Founder/CEO"},
+    {"name": "Bivu Dhungana", "role": "Founder/CTO"}
+   ],
+   "contact_email": "bivu@shiboleth.ai",
+   "contact_name": "Bivu Dhungana",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "b739d00589",
+   "relevant": true,
+   "summary": "Cloud platform where engineering teams deploy fleets of coding agents triggered from GitHub, Linear, Slack or a REST API, with isolated sandboxes, scoped permissions, budget caps and downloadable session logs.",
+   "stack": ["GitHub", "YAML", "Claude Code", "Codex", "REST API"],
+   "hook": "Agents are defined as a YAML file committed to the repo, with per-session, daily and monthly budget caps and a session that stopped at its cap.",
+   "angle": "canopy",
+   "angle_reason": "Ellipsis runs coding agents against GitHub repos and needs to know what they touch, and Canopy maps a repo's architecture down to every function with a commit-keyed cache.",
+   "fit": 8,
+   "region": "us",
+   "people": [],
+   "contact_email": "seanhunterbrooks@gmail.com",
+   "contact_name": "hbrooks",
+   "contact_role": "GitHub committer (engineer)",
+   "red_flags": []
+  },
+  {
+   "id": "b90e35730b",
+   "relevant": true,
+   "summary": "AI agent that does business tasks across a company's SaaS tools through integrations, HTTP APIs, MCP servers and a browser, running 24/7 with triggers and multi-model support.",
+   "stack": ["MCP", "multi-model LLMs", "cloud sandboxes"],
+   "hook": "Site leads with the 'Introducing Tasklet MCP' banner and says it connects to tools via thousands of built-in integrations, any HTTP API, or MCP servers.",
+   "angle": "medvault",
+   "angle_reason": "Tasklet needs LLM calls that work across multiple models and can be tested, and MedVault puts every LLM call behind one mockable client and runs its 47 tests with no API key.",
+   "fit": 7,
+   "region": "us",
+   "people": [],
+   "contact_email": "andrew@tasklet.ai",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "b9ca9b4877",
+   "relevant": true,
+   "summary": "AI platform that builds and publishes mobile apps (React Native) from chat to the App Store and Google Play, with payments and analytics included.",
+   "stack": ["React Native", "Convex", "Supabase"],
+   "hook": "Homepage demo shows the coding agent searching the codebase for existing dark-mode code before it edits, then publishing to the App Store and Google Play.",
+   "angle": "canopy",
+   "angle_reason": "a0's agent edits generated React Native codebases and has to navigate them, and Canopy maps a codebase's call graph down to functions, which is the same navigation problem.",
+   "fit": 7,
+   "region": "us",
+   "people": [],
+   "contact_email": "founders@a0.dev",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "c14676fb01",
+   "relevant": true,
+   "summary": "AI tool that integrates with a clinic's EHR, screens patients against clinical trial eligibility criteria, and delivers ranked, evidence-backed patient matches to research teams.",
+   "stack": [],
+   "hook": "Blog says the system scans 80,000 patients to surface the 42 who are eligible, ranked by how likely they are to enroll.",
+   "angle": "medvault",
+   "angle_reason": "HealthKey runs an AI pipeline over patient records against eligibility criteria, which is the same health-data LLM pipeline MedVault built, including its fixed output schema and safety rules.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Josh Sabol", "role": "Founder/CEO"}
+   ],
+   "contact_email": "josh@gethealthkey.com",
+   "contact_name": "Josh Sabol",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  },
+  {
+   "id": "c527c340cf",
+   "relevant": true,
+   "summary": "Builds AI agents for actuaries at P&C carriers and reinsurers, covering data ingestion, rater rebuilds, pricing and reserving, with every output cited to its source cell or page.",
+   "stack": ["Excel", "SharePoint", "Databricks", "Snowflake", "Microsoft 365"],
+   "hook": "Site says every value Tesora populates cites the cell or page it came from, and any figure that cannot be traced to its source page is never shown.",
+   "angle": "medvault",
+   "angle_reason": "Tesora keeps confidential insurance data isolated and every output traceable, and MedVault has the same privacy-first pattern with per-user isolation at the queryset level and an LLM output schema.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Vivek Rao", "role": "Founder/CEO"},
+    {"name": "Federico Reyes Gomez", "role": "Founder/CTO"}
+   ],
+   "contact_email": "frg100@gmail.com",
+   "contact_name": "Federico Reyes Gomez",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "c5aa4b489c",
+   "relevant": true,
+   "summary": "AI platform for private credit and PE investors that turns deal documents into IC memos, diligence analysis and portfolio monitoring, using multiple LLMs.",
+   "stack": ["LLMs"],
+   "hook": "Adam demo builds an IC memo for the Acme deal, and a quarterly figure on the page carries the line 'Source: Mgmt Deck p14'.",
+   "angle": "medvault",
+   "angle_reason": "F2 turns unstructured deal documents into structured analysis with an LLM, the same extract-into-fixed-schema problem as MedVault's lab report explainer.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Don Muir", "role": "Founder/CEO"}
+   ],
+   "contact_email": "don@f2.ai",
+   "contact_name": "Don Muir",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  },
+  {
+   "id": "c79b41e4b3",
+   "relevant": true,
+   "summary": "Automates admin work for biologic infusion clinics, starting with prior authorizations, form filling, insurer follow-up and copay assistance enrollment (the site brands the product as Janeen).",
+   "stack": [],
+   "hook": "Janeen homepage walks a referral from EHR or fax intake through benefits check, chart-filled authorization forms, insurer calls and denial appeals.",
+   "angle": "medvault",
+   "angle_reason": "Ruma fills insurance forms from clinical records with models, and MedVault turns lab report PDFs into structured output with an LLM pipeline and health-data safety rules.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Meng Fei Shen", "role": "Founder/CEO"}
+   ],
+   "contact_email": "meng@rumacare.com",
+   "contact_name": "Meng Fei Shen",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  }
+ ]
+}

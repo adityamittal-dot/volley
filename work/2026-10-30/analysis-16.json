@@ -1,0 +1,189 @@
+{
+  "leads": [
+    {
+      "id": "2caed77d19",
+      "relevant": true,
+      "summary": "Aleph sells an AI-native FP&A platform that syncs finance teams' spreadsheet models with data from 150+ integrations, plus no-code dashboards for budgeting and forecasting.",
+      "stack": [],
+      "hook": "Your homepage promises 'fully-observable AI' with 'no black box or risk of hallucinations', and says the agent works on the spreadsheet models people already use.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's LLM pipeline with a fixed JSON output schema and safety rules is the closest match to an AI-native finance product that has to be trustworthy.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Santiago Perez De Rosso", "role": "Founder"},
+        {"name": "Albert Gozzi", "role": "Founder"}
+      ],
+      "contact_email": "spderosso@gmail.com",
+      "contact_name": "Santiago Perez De Rosso",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "4059cae464",
+      "relevant": true,
+      "summary": "Infisical is an all-in-one security platform for secrets, certificates, and privileged access, used by developers, CI/CD pipelines, and AI agents.",
+      "stack": ["Kubernetes", "AWS", "Azure", "GitHub", "GitLab", "Datadog"],
+      "hook": "Your Agent Vault section says agents only ever see placeholders, with real secrets attached at the proxy and never reaching the agent.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's static analysis and security tooling for developers matches Infisical's secrets and security platform.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "vlad@infisical.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "55b33c8174",
+      "relevant": true,
+      "summary": "Mytos builds automated robotic systems that manufacture stem-cell-derived cells for therapies, and offers automated contract manufacturing.",
+      "stack": [],
+      "hook": "Your careers page lists a 'Junior/Mid Software Engineer' role in London, and your site says the iDEM system cuts FTE hours 10x.",
+      "angle": "medvault",
+      "angle_reason": "MedVault is a health-tech backend with JWT auth and per-user data isolation, the nearest match to software work at a regulated regenerative-medicine manufacturer.",
+      "fit": 5,
+      "region": "europe",
+      "people": [
+        {"name": "Ali Afshar", "role": "Founder/CEO"},
+        {"name": "Ignacio Willats", "role": "Founder"}
+      ],
+      "contact_email": "ali@mytos.bio",
+      "contact_name": "Ali Afshar",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "67b3b3f766",
+      "relevant": true,
+      "summary": "Firstbase is a US startup back-office platform covering company incorporation, registered agent filings, accounting, and tax filing for founders, including non-US founders.",
+      "stack": ["Webflow"],
+      "hook": "Your site says 'Why manage eight different tools when you can have everything in one place' and lists Mailroom, Agent, Accounting, and Tax modules in one product.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Django REST backend with JWT auth and per-user isolation fits a B2B platform that stores company financials and filings.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Mark Milastsivy", "role": "Founder"}
+      ],
+      "contact_email": "mark@firstbase.io",
+      "contact_name": "Mark Milastsivy",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "680feabbee",
+      "relevant": true,
+      "summary": "D-ID makes AI video and digital-human products, including a video studio, real-time visual AI agents, and a streaming API, for marketing, training, and sales teams.",
+      "stack": [],
+      "hook": "Your site lists a real-time streaming animation API and Visual AI Agents that run conversations in real time, which is the kind of latency-sensitive backend work you build.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Gemini pipeline with a fixed output schema and safety rules is the closest AI-product match to D-ID's API-driven generative video and agents.",
+      "fit": 5,
+      "region": "middle_east",
+      "people": [
+        {"name": "Sella Blondheim", "role": "Founder"},
+        {"name": "Eliran Kuta", "role": "Founder/CTO"},
+        {"name": "Gil Perry", "role": "Founder"}
+      ],
+      "contact_email": "eliran@d-id.com",
+      "contact_name": "Eliran Kuta",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "695909ec9d",
+      "relevant": true,
+      "summary": "SyntheticFi offers low-rate, tax-deductible securities-backed loans to independent financial advisors, who offer them to their clients.",
+      "stack": [],
+      "hook": "Your comparison table puts the floating rate at 4.20% with onboarding under one week, against about a month at Schwab and the other custodians.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Django backend with JWT auth and per-user queryset isolation matches the account and data handling of a lending platform.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Tony Yang", "role": "Founder"}
+      ],
+      "contact_email": "tony@syntheticfi.com",
+      "contact_name": "Tony Yang",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "6fc79ce8cc",
+      "relevant": true,
+      "summary": "Reframe is a consumer app that helps people cut back on drinking, using a neuroscience-based program, a drink tracker, courses, and a private community.",
+      "stack": [],
+      "hook": "Your homepage lists a Personalized Drink Tracker and a 24/7 private community, and claims 91% of users cut back within 3 months.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's health-data handling, with per-user isolation and safety-bounded AI output, fits a consumer health app built around personal drinking data.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Vedant Pradeep", "role": "Founder"},
+        {"name": "Ziyi Gao", "role": "Founder"}
+      ],
+      "contact_email": "vedant@joinreframeapp.com",
+      "contact_name": "Vedant Pradeep",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "8c904ef5e3",
+      "relevant": true,
+      "summary": "Garage runs an online marketplace where fire departments and other public buyers purchase used specialized vehicles and equipment, with AI-driven appraisal, payments, and financing steps.",
+      "stack": [],
+      "hook": "Your growth engineer posting says 'experience: Any (new grads ok)', and the site lets fire departments buy directly from the marketplace.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's AI pipeline and Django REST API fit an AI-powered marketplace that automates transaction steps end to end.",
+      "fit": 4,
+      "region": "us",
+      "people": [
+        {"name": "Martin Hunt", "role": "Founder/CEO"},
+        {"name": "Alaz Sengul", "role": "Founder/CTO"}
+      ],
+      "contact_email": "alaz@shopgarage.com",
+      "contact_name": "Alaz Sengul",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "97b1cb5050",
+      "relevant": true,
+      "summary": "Ziina is a Central-Bank-licensed UAE digital wallet for sending and receiving money, with business payments, payment links, and tap-to-pay on phones.",
+      "stack": ["iOS", "Android", "Open Finance (Lean)"],
+      "hook": "Your press page covers the Lean one-tap Pay by Bank launch under Open Finance from June 2026, the first of its kind in the UAE.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's JWT auth with refresh-token rotation and per-user isolation match the account security a licensed payments wallet needs.",
+      "fit": 5,
+      "region": "middle_east",
+      "people": [
+        {"name": "Faisal Toukan", "role": "Co-Founder"},
+        {"name": "Sarah Toukan", "role": "Co-Founder"},
+        {"name": "Talal Toukan", "role": "Co-Founder"},
+        {"name": "Andrew Gold", "role": "Founder"}
+      ],
+      "contact_email": "faisal@ziina.com",
+      "contact_name": "Faisal Toukan",
+      "contact_role": "Co-Founder",
+      "red_flags": []
+    },
+    {
+      "id": "a352bdb10b",
+      "relevant": false,
+      "summary": "Flint is a recruiting company that places licensed healthcare workers such as nurses into US facilities with green-card sponsorship.",
+      "stack": [],
+      "hook": "Flint lists nursing, aide, and housekeeping roles only, with no software engineering openings.",
+      "angle": "medvault",
+      "angle_reason": "No candidate project fits: this is a staffing business, not a software employer.",
+      "fit": 1,
+      "region": "americas",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": ["staffing/placement agency, not an engineering employer"]
+    }
+  ]
+}

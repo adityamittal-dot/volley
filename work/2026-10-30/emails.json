@@ -1,0 +1,604 @@
+{
+  "emails": [
+    {
+      "id": "442ac30b50",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Widle team,\n\nYour lead-to-onboarding demo has a Claude agent calling MCP tools and logging every write to an audit trail in Supabase.\n\nI built MedVault, which runs lab report PDFs through a Gemini pipeline with a fixed JSON schema and safety rules that block diagnosis or prescription: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "442ac30b50-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Bhavik,\n\nYour team's lead-to-onboarding demo has a Claude agent calling MCP tools and logging every write to an audit trail in Supabase.\n\nI built MedVault, a Gemini pipeline over health records with a fixed JSON schema and safety rules against diagnosis or prescription: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Widle, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "fb06963f0f",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Aloke,\n\nYour GitHub org has a subtitle generator built on Gemini and Vertex AI, sitting next to a sharp/webp image optimizer.\n\nI built MedVault, which runs lab report PDFs through a Gemini pipeline with a fixed JSON schema and a fallback parser for malformed model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does hoichoi take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "cb2a185cfa",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Aniruddha,\n\nYour text-to-expense flow has a cardholder text a receipt photo, and your OCR pulls out merchant, date, amount and category.\n\nI built MedVault, which turns lab report PDFs into structured JSON through a Gemini pipeline with a fixed schema and a fallback parser for bad model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does Fyle take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "b6ab098ef6",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Atish,\n\nSaw the funding news says the round goes toward AI tools for doctor documentation and patient follow-ups across your 5,000+ doctor platform.\n\nI built MedVault, a Gemini pipeline that turns lab reports into structured explanations under a fixed output schema with rules that block diagnosis or prescription: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does Docterz take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "04711dc64c-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Hemendra,\n\nPhoenix Copilot turning a plain-English strategy into no-code or full-code logic is a neat way to handle two very different trader skill levels.\n\nI built MedVault, a Django REST backend with JWT refresh-token rotation and per-user isolation at the queryset level: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at AlgoBulls, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "9f9b1bca50",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Cotool team,\n\nYour detection page shows personal_cloud_exfil.py as plain Python with LOOKBACK and SPIKE parameters an agent can tune, which is a rare amount of transparency for a detection engine.\n\nI built Canopy, which parses a repo in 10 languages into a call graph and marks unresolved calls as external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "b739d00589",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Sean,\n\nDefining agents as a YAML file in the repo, with per-session, daily and monthly budget caps that actually stop a session, is a detail most agent platforms skip.\n\nI built Canopy, which maps a GitHub repo's architecture down to every function and resolves cross-file calls deterministically: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Does Ellipsis take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "d5399aa9eb",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Bobby,\n\nYour site says the AI agents catch billing errors and adjudication mistakes, with a 7% average savings on claims cost, which is a concrete number most claims tools don't publish.\n\nI built MedVault, a Django REST health app with a Gemini pipeline, fixed JSON output schema and per-user data isolation: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does TrueClaim take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "dbb485f4eb",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Replicas team,\n\nRunning Claude Code, Codex, Cursor, OpenCode and Pi, each in its own Linux VM, is a specific isolation choice most agent platforms don't bother making explicit.\n\nI built Canopy, which turns a GitHub repo into a resolved cross-file call graph across 10 languages: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "fe6c4db717",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Salus team,\n\nWrapping an existing issue_refund tool with salus.protect(side_effect=True, risk='high') and holding a booking before it reaches the airline is a clean way to gate agent actions.\n\nI built MedVault, where every model output runs under a fixed JSON schema and safety rules that block diagnosis or prescription before anything reaches the user: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "07e23cb82c",
+      "subject": "Engineering Internship – Aditya Mittal",
+      "body": "Hi Adi,\n\nYour demo takes a Slack report of a double-boost bug all the way to merged PR #212 with a new regression test attached.\n\nI built Canopy, which maps a GitHub repo's call graph across 10 languages so an agent knows what a function actually touches before it changes it: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Engineering Internship still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "cd7a682a51",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Ishaan,\n\nRouting agents and MCP servers through the same gateway as the models themselves is a step past what most LLM proxies handle.\n\nI built MedVault, which puts every LLM call behind one mockable client, so its 47-test suite runs with no API key: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does LiteLLM take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "4742282667",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Sergio,\n\nMapping a customer's work every month, finding the biggest bottleneck, and shipping the fix straight into their codebase is a service model I haven't seen elsewhere.\n\nI built Canopy, which maps a repo's architecture and call graph from code, the same kind of reading you'd need before touching a customer's codebase: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Does Mesmer take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "a6b9d7f430",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Ray,\n\nPOST /api/v1/briefs returning 202 Accepted with a brandSessionId and a task is a cleaner async pattern than most brand tools expose.\n\nI built MedVault, a Django REST API with per-user isolation and every LLM call behind one client with a fixed JSON output schema: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does Rainbrand take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "ae846213b5",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi George,\n\nClara drafting prescription refills and lab orders for a clinician to review before anything is signed off is the clinician-in-the-loop pattern health AI tools often skip.\n\nI built MedVault, a Gemini pipeline over lab reports with a fixed output schema and safety rules that forbid diagnosis or prescription in the model's own output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does Clara take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "ea6e04c41f",
+      "subject": "Founding Engineer – Aditya Mittal",
+      "body": "Hi Alex,\n\nRecording a portal workflow once by hand and deploying its underlying requests as a stable endpoint is a sharp way to skip building against an API that doesn't exist.\n\nI built MedVault, with JWT auth and refresh-token rotation handling session and token logic behind a Django REST API: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Founding Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "0867ca19bd",
+      "subject": "Founding Design Engineer – Aditya Mittal",
+      "body": "Hi Waleed,\n\nBeing open source and self-hostable on Docker or Kubernetes, with a CLI that runs workflows straight from Claude Code, is a rare combination for an agent governance tool.\n\nI built MedVault, which routes every LLM call through one mockable client with per-user isolation and a fixed JSON output schema: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Founding Design Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "7655582508",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Sohil,\n\n600k pages of medical and financial records processed, live with two of the largest plaintiff firms in the U.S., is a lot of structured extraction to get right.\n\nI built MedVault, which runs lab report PDFs through a Gemini pipeline with a fixed JSON schema and a fallback parser for bad model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does Kalinda take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "7a529debfd",
+      "subject": "Founding Engineer – Aditya Mittal",
+      "body": "Hi Adam,\n\nPulling from 30+ state portals, CMS rate filings and DMHC Flash into one model that analysts still review is a lot of source variety to normalize.\n\nI built MedVault, a Gemini pipeline that turns health documents into structured output under a fixed schema with a fallback parser for bad model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Founding Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "7c74c3ffab",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Nikos,\n\nOne npx @tryglen/cli@latest install line pulling Claude Code, Codex and Cursor sessions into shared memory is a low-friction way to get teams to adopt it.\n\nI built Canopy, which indexes a GitHub repo into a call graph down to every function, the code side of the context agents need: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Does Glen take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "7db0929742",
+      "subject": "Founding Engineer – Aditya Mittal",
+      "body": "Hi Saurav,\n\nCombining optimization with LLMs so a dispatch plan adapts to each fleet's own rules and driver-specific data is a harder problem than a static planner.\n\nI built MedVault, which turns messy PDF input into structured output under a fixed JSON schema with a tolerant parser for malformed model responses: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Founding Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "6351916730-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi AgentMail team,\n\nOne client.inboxes.create() call setting up an agent inbox, with Pods keeping each customer's inboxes and domains in a separate workspace, is clean isolation for a multi-tenant API.\n\nI built MedVault, which enforces per-user isolation at the queryset level behind a Django REST API with JWT refresh-token rotation: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at AgentMail, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "b90e35730b",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Tasklet team,\n\nLeading with an 'Introducing Tasklet MCP' banner and connecting through thousands of built-in integrations, any HTTP API or MCP servers, covers a lot of ground for one agent.\n\nI built MedVault, which puts every LLM call behind one mockable client so its full test suite runs with no API key: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "f58b605800",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Browser Use team,\n\nYour Browser Use Bench v2.1 table comparing 15 model runs by score against per-task cost across 180 shared tasks is a more honest benchmark than most agent leaderboards.\n\nI built MedVault, where a tolerant parser recovers structured JSON from malformed model output behind one mockable LLM client: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "2401729718",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi kapa.ai team,\n\nYour Company Knowledge Bench numbers, 5.1 seconds and 5.1k tokens against 16.8 seconds and 40.8k for GPT-6.1 plus grep, make a strong case for a purpose-built retrieval layer.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and a fallback parser for malformed model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "8337b829fa",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Circleback team,\n\nExposing an MCP server and a CLI so ChatGPT, Claude and Cursor can pull meeting context is an unusual API surface for a notetaking tool to ship.\n\nI built MedVault, which turns health records into structured output through a Gemini pipeline with a fixed JSON schema and per-user data isolation: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "b9ca9b4877",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi a0.dev team,\n\nYour demo has the coding agent search the codebase for existing dark-mode code before it edits anything, then ship straight to the App Store and Google Play.\n\nI built Canopy, which maps a codebase's call graph down to every function so an agent knows what already exists before it changes something: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "e233c64e3c",
+      "subject": "Founding Open Source Growth Engineer – Aditya Mittal",
+      "body": "Hi Kritin,\n\nCatching 'close old cards' as bad credit advice and turning it straight into a G-Eval metric that runs on every release is a tight feedback loop.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and safety rules that block diagnosis or prescription in the model's own output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Founding Open Source Growth Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "faee3a3a1d",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Orthogonal team,\n\nOne curl to api.orthogonal.com/v1/run calling Apollo's company enrich endpoint through a single key and balance is a clean way to hide a dozen vendor contracts behind one bill.\n\nI built MedVault, a Django REST API with JWT auth and per-user isolation behind one key per account: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "4e5bafc6f6",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Paradev team,\n\nRunning 100+ agents in parallel, each in its own ~/.superset/worktrees checkout, plus the $11.5M seed you just raised, means a lot of repo state to track at once.\n\nI built Canopy, which maps a repo's architecture down to every function from a GitHub link, the same structure many parallel agent sessions need to stay straight: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "511d03f9be",
+      "subject": "Founding Engineer – Aditya Mittal",
+      "body": "Hi Michael,\n\nYour launch post claims a part that takes 20 minutes in SolidWorks takes seconds in Aurorin, and names cascading downstream repairs from one edit as the real problem.\n\nCanopy, which I built, resolves cross-file call graphs so one code change doesn't silently break something elsewhere, the same dependency problem a parametric CAD edit runs into: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Founding Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "9bb7179748",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Openbenchmarks team,\n\nMarking your own Company News benchmark as 'bias found, fix in progress' and warning rankings might not hold until every vendor reruns in the same window is unusually honest for a benchmark site.\n\nI built Canopy, deterministic static analysis across 10 languages with 143 automated tests: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "acca5bad6c",
+      "subject": "Founding Engineer – Aditya Mittal",
+      "body": "Hi Will,\n\nAgentDesk answering a buyer agent's question about SAML SSO and an audit log by citing your own /security page is grounded in a way most sales bots aren't.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and safety rules that keep model output inside strict bounds: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Founding Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "aede415b7e",
+      "subject": "Founding Engineer – Aditya Mittal",
+      "body": "Hi Joseph,\n\nTurning an Ohio foundry's job post for 3 maintenance techs into a sales signal and a full outbound sequence is a specific kind of public-data mining.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and a tolerant parser for malformed model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Founding Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "c14676fb01",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Josh,\n\nScanning 80,000 patients to surface the 42 who are eligible, ranked by how likely they are to enroll, is a sharp narrowing of a huge search space.\n\nI built MedVault, which runs patient records through a Gemini pipeline under a fixed output schema with safety rules against diagnosis or prescription: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does HealthKey take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "c79b41e4b3",
+      "subject": "Product Engineer – Aditya Mittal",
+      "body": "Hi Meng,\n\nJaneen walking a referral from EHR or fax intake through benefits checks, chart-filled authorization forms, insurer calls and denial appeals covers a lot of a clinic's admin load.\n\nI built MedVault, which turns lab report PDFs into structured explanations through a Gemini pipeline with safety rules against diagnosis or prescription: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Product Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "ce25cd7ba0",
+      "subject": "Founding Engineer – Aditya Mittal",
+      "body": "Hi Sepand,\n\nYour LVBench chart putting Perception-0 at 81.2% against Gemini 3.1 Pro at 78.5% is a direct number I haven't seen a vision-language startup publish before.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and a tolerant parser for malformed model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Founding Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "ce86dd48a8",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Mamal,\n\nA partner raising RFP capacity by 60% after working with you in H2 2025 is a specific, checkable number for a fund-facing AI tool.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and per-user data isolation on a Django REST backend: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does GovernGPT take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "d259a2d920",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Lewis,\n\nMission Control logging every agent action account by account as it happens is the kind of audit trail order-to-cash work actually needs.\n\nI built MedVault, a Gemini pipeline with safety rules and a fixed JSON output schema that keeps model output inside strict bounds: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does Rex take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "e772123422",
+      "subject": "Founding Engineer – Aditya Mittal",
+      "body": "Hi Andy,\n\nFinta being 'available for agents' means you've built an integration layer other software can call directly, not just a dashboard for a human to read.\n\nI built MedVault, a Django REST API with JWT refresh-token rotation and per-user isolation at the queryset level: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Founding Engineer role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "dd9f018aea",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Tushar,\n\nYour posting's line about the AI system learning from your brokers' expertise and accumulating their specific workflows is a harder problem than a generic quoting bot.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema that turns unstructured input into decisions a backend can act on: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does Harper take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "0880947aa7",
+      "subject": "Software Engineer – Aditya Mittal",
+      "body": "Hi Gabriel,\n\nLetting brokers leave custom voicemails in their own cloned voice for contacts who didn't pick up is a personal touch most power dialers skip.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and per-user data isolation on a Django REST backend: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Software Engineer, New Grad role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "5a5dc376cc",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Chidi,\n\nYour demo chases a KYB exception, like a name mismatch or missing UBO document, through follow-ups and returns it decision-ready, with a QA layer that cuts manual review by 99%.\n\nI built MedVault, a Gemini pipeline with a fixed output schema and safety rules built for a regulated domain: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does Rulebase take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "6a29e6e7b8",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Daniel,\n\nYour AI writing, testing and monitoring a workflow from a plain-English description, then falling back to writing code against an app's API when there's no prebuilt step, covers the gap most no-code tools hit.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and a tolerant parser for bad model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does RetroFix take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "82ae1b463b",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi David,\n\nRunning Seedance, Veo, ElevenLabs and Kling behind one product means the hard part is routing between providers, not calling any single model.\n\nI built MedVault, which puts every LLM call behind one mockable client, so its test suite runs with no API key at all: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does VideoGen take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "8f5cc295ca",
+      "subject": "Working Student Intern – Aditya Mittal",
+      "body": "Hi Jan-Hendrik,\n\nPositioning Dataleap directly against n8n's visual builder and setup burden, so business teams can automate work without engineering help, is a specific target to build toward.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and a mockable LLM client behind a Django REST API: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Is the Working Student/Intern role still open?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "50eb7f82a2",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Speko team,\n\nFour different models winning across 17 languages means the best pick actually changes with the language a caller speaks, not just a marketing claim.\n\nI built MedVault, which puts every LLM call behind one mockable client with a fixed JSON output schema: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "55da1d3ceb",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Aviator team,\n\nFlagging an httpx.post call in webhooks/retry.py with no timeout, and fixing it in the same review, is exactly the kind of cross-file issue a human reviewer misses.\n\nI built Canopy, which resolves cross-file calls deterministically across a repo and marks unresolved ones external instead of guessing: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "f58b605800-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Shawn,\n\nYour Browser Use Bench v2.1 table, comparing 15 model runs by score against per-task cost across 180 shared tasks, is one of the more honest agent benchmarks I've seen.\n\nI built MedVault, a Gemini pipeline with a fallback parser that recovers structured JSON from malformed model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Browser Use, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "2401729718-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Joaquin,\n\nYour Company Knowledge Bench numbers, 5.1 seconds and 5.1k tokens against 16.8 seconds and 40.8k for GPT-6.1 plus grep, say a lot about why a dedicated retrieval layer earns its keep.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and a fallback parser for malformed model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at kapa.ai, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "55da1d3ceb-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Ofer,\n\nThat httpx.post call in webhooks/retry.py with no timeout, flagged and fixed in the same review, is the kind of cross-file catch I'd want from a review tool.\n\nI built Canopy, which resolves cross-file calls deterministically across a repo instead of guessing at what a function touches: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Aviator, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "9bb7179748-ref",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Swarnab,\n\nMarking your own Company News benchmark as 'bias found, fix in progress' and warning rankings might not hold until every vendor reruns in the same window is a level of honesty most benchmark sites skip.\n\nI built Canopy, deterministic static analysis across 10 languages with 143 automated tests: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Would you be open to passing my name to whoever hires interns at Openbenchmarks, or telling me who that is?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "9bcf313c1d",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Gauge team,\n\nYour 'Get implemented' demo has an agent write a Supabase save/load function and run npm test to a pass, which is the same loop your Agent Experience product scores.\n\nI built MedVault, which routes every LLM call through one mockable client and ships a 47-test suite that runs with no API key: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "b0ca658e21",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Tenor team,\n\n'Send one artifact, pick one role, skip the cover letter' and 'prefer shipped evidence over process theater' is a hiring process I can actually follow, so here's mine.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and a 47-test suite that runs with no API key: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "d306c4fcf3",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Fabian,\n\nThe Results UI for tracking down slow targets and failing tests straight from a build's invocation details is the kind of debugging surface Bazel builds usually lack.\n\nI built Canopy, which caches cross-file analysis results in Postgres keyed by commit hash, checked against git ls-remote before it even clones: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Does BuildBuddy take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "4059cae464",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Infisical team,\n\nAgent Vault only ever showing agents a placeholder, with real secrets attached at the proxy and never reaching the agent itself, is a cleaner boundary than most secrets managers draw.\n\nI built Canopy, with zero-scope GitHub OAuth so it never holds more repo access than it needs: https://canopy-v7hb.onrender.com\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "473a5af14f",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Leaping AI team,\n\nLetting customers pick their own AI providers while Leaping orchestrates them into one agent means the hard part is the glue code, not any single model call.\n\nI built MedVault, which puts every LLM call behind one mockable client with a tolerant parser for malformed model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "9c02cb5ea4",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Shishir,\n\nSending users to the web to subscribe, then redirecting back to regain access in the app, for a first customer with 20M MAU, is a workaround with real scale behind it.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema for turning messy input into structured, usable output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does Helium take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    },
+    {
+      "id": "ca0f7dd2ef",
+      "subject": "Software Engineering Internship – Aditya Mittal",
+      "body": "Hi Waddle Labs team,\n\nAsking how one agent's learning transfers to another, after noting your agents get markedly more reliable over time in context, is a harder question than most robotics startups bother asking.\n\nI built MedVault, a Gemini pipeline with a fixed JSON output schema and a tolerant parser for malformed model output: https://medvault-xor.vercel.app\n\nI just finished an SDET internship at Basepair and can join immediately. Does the team take on an engineering intern?",
+      "tailor": {
+        "decision": false,
+        "reason": "",
+        "gap_terms": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "leads": [
+    {
+      "id": "2401729718",
+      "relevant": true,
+      "summary": "kapa.ai builds AI support and onboarding assistants that answer developers' questions from a company's docs, tickets, wikis and GitHub issues, delivered as website widgets, Slack/Discord bots and Zendesk agents.",
+      "stack": ["Python", "MCP", "REST API"],
+      "hook": "Your Company Knowledge Bench comparison: kapa at 5.1s and 5.1k tokens returned vs 16.8s and 40.8k for GPT-6.1 + grep.",
+      "angle": "medvault",
+      "angle_reason": "kapa turns customer knowledge into grounded LLM answers, and MedVault's LLM pipeline (fixed output schema, tolerant parsing, one mockable client) covers the same answer-generation problem.",
+      "fit": 7,
+      "region": "europe",
+      "people": [],
+      "contact_email": "emil@kapa.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "2401729718-ref",
+      "relevant": true,
+      "summary": "kapa.ai builds AI support and onboarding assistants that answer developers' questions from a company's docs, tickets, wikis and GitHub issues, delivered as website widgets, Slack/Discord bots and Zendesk agents.",
+      "stack": ["Python", "MCP", "REST API"],
+      "hook": "Your Company Knowledge Bench comparison: kapa at 5.1s and 5.1k tokens returned vs 16.8s and 40.8k for GPT-6.1 + grep.",
+      "angle": "medvault",
+      "angle_reason": "kapa turns customer knowledge into grounded LLM answers, and MedVault's LLM pipeline (fixed output schema, tolerant parsing, one mockable client) covers the same answer-generation problem.",
+      "fit": 7,
+      "region": "europe",
+      "people": [
+        {"name": "jhoyoskapa", "role": "GitHub commit author (8 commits)"},
+        {"name": "Finn Bauer", "role": "GitHub commit author (5 commits)"},
+        {"name": "Kapassem", "role": "GitHub commit author (3 commits)"},
+        {"name": "esbenjb", "role": "GitHub commit author (3 commits)"}
+      ],
+      "contact_email": "joaquin@kapa.ai",
+      "contact_name": "jhoyoskapa",
+      "contact_role": "GitHub commit author (8 commits, most active engineer)",
+      "red_flags": []
+    },
+    {
+      "id": "9a00eaa015",
+      "relevant": true,
+      "summary": "RentHop is an apartment rental marketplace that ranks listings by freshness, accuracy and manager responsiveness, with map and list search for renters and posting and viewing tools for brokers and property managers.",
+      "stack": [],
+      "hook": "Your listing-ranking algorithm, which scores freshness, accuracy and completeness plus how quickly the listing manager responds.",
+      "angle": "medvault",
+      "angle_reason": "RentHop's core is a backend that scores and ranks records for a marketplace; MedVault's Django REST API with per-user queryset isolation is the closest substance match, though the posting names no stack.",
+      "fit": 3,
+      "region": "us",
+      "people": [
+        {"name": "Lee C. Lin", "role": "Founder"},
+        {"name": "Lawrence Zhou", "role": "Founder"}
+      ],
+      "contact_email": "lee@renthop.com",
+      "contact_name": "Lee C. Lin",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "8438a6e94e",
+      "relevant": true,
+      "summary": "New Story develops land and housing in Latin America: it secures and builds infrastructure on underused land, helps families get legal land titles and then home credit, and runs a housing-focused venture fund.",
+      "stack": [],
+      "hook": "Your site says families get a legal land title within 24 months, 5x faster than traditional methods (2 years instead of 10+).",
+      "angle": "medvault",
+      "angle_reason": "They run a family-facing land and credit program that holds sensitive personal and payment records; MedVault's Django REST backend with JWT auth and per-user isolation fits that kind of data.",
+      "fit": 4,
+      "region": "us",
+      "people": [
+        {"name": "Catherine Colyer", "role": "President & CEO"},
+        {"name": "Matthew Marshall", "role": "Chief Business Officer, Co-Founder"},
+        {"name": "Andrea Argüelles", "role": "Tech Ops Manager"}
+      ],
+      "contact_email": "matthew@newstoryhomes.org",
+      "contact_name": "Matthew Marshall",
+      "contact_role": "Chief Business Officer, Co-Founder",
+      "red_flags": []
+    },
+    {
+      "id": "a5272584e1",
+      "relevant": true,
+      "summary": "Infinity is a banking and payments platform for cross-border businesses in India, offering international receipts into local-currency accounts, a flat-fee FX product, and invoice and payment tracking.",
+      "stack": [],
+      "hook": "Your flat 0.5% all-inclusive fee on the Solutions page, with custom pricing above USD 50,000.",
+      "angle": "medvault",
+      "angle_reason": "Infinity holds business account and transaction data for its customers, and MedVault's JWT refresh-token rotation and queryset-level per-user isolation are the account-security work that matters most there.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {"name": "Sourav Choraria", "role": "Founder/CEO"},
+        {"name": "Sidharth Choraria", "role": "Founder/CTO"}
+      ],
+      "contact_email": "sidharth@infinityapp.in",
+      "contact_name": "Sidharth Choraria",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "af800398ad",
+      "relevant": true,
+      "summary": "Capi Money is a business account for importers in emerging markets, paying suppliers abroad in 30+ currencies via SWIFT, SEPA, stablecoins or Alipay, with multi-currency balances and corporate cards.",
+      "stack": [],
+      "hook": "The WhatsApp alert your payment tracking sends at each stage of a payment.",
+      "angle": "medvault",
+      "angle_reason": "Capi moves money across borders with per-payment status and role-based team access; MedVault's per-user isolation and JWT auth are the closest backend work to that.",
+      "fit": 4,
+      "region": "europe",
+      "people": [
+        {"name": "Mitch Riley", "role": "Founder/CEO"},
+        {"name": "Scott Liddle", "role": "Founder"}
+      ],
+      "contact_email": "mitch@capimoney.com",
+      "contact_name": "Mitch Riley",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "cd7a682a51",
+      "relevant": true,
+      "summary": "LiteLLM is an open-source LLM gateway and Python SDK that exposes 100+ model provider APIs (OpenAI, Anthropic, Bedrock, Azure, Vertex AI and others) behind one OpenAI-compatible interface, with key management, routing, spend limits and observability.",
+      "stack": ["Python", "FastAPI", "MCP", "OpenAI-compatible API"],
+      "hook": "Your site says agents and MCP servers go through the same gateway as LLMs, not just models.",
+      "angle": "medvault",
+      "angle_reason": "LiteLLM normalizes many provider APIs behind one interface; MedVault routes every LLM call through one mockable client with a fixed output schema, the same problem at application level.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {"name": "Ishaan Jaff", "role": "GitHub commit author (3 commits)"}
+      ],
+      "contact_email": "ishaanjaffer0324@gmail.com",
+      "contact_name": "Ishaan Jaff",
+      "contact_role": "GitHub commit author (3 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "dabb6c9bd8",
+      "relevant": true,
+      "summary": "Aside is an AI browser that runs agents across the websites a user is already logged into, with local-only memory, an autofill password vault that keeps credentials from the model, and approval gates for payments and messages.",
+      "stack": ["Secure Enclave (Apple)", "LLM APIs (ChatGPT, Claude, or bring-your-own key)"],
+      "hook": "Your Online-Mind2Web result of 99.0% against Browser Use's 97.7%.",
+      "angle": "medvault",
+      "angle_reason": "Aside's pitch is that agents act on user accounts without seeing secrets; MedVault's per-user isolation and fixed-schema LLM pipeline are the closest work to that scoped-access problem.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Jun Kim", "role": "Founder/CEO"},
+        {"name": "Chanhee Lee", "role": "Founder/CPO"},
+        {"name": "Sanghun Lee", "role": "Founder/CTO"}
+      ],
+      "contact_email": "sanghun@aside.com",
+      "contact_name": "Sanghun Lee",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "b8cbf848af",
+      "relevant": false,
+      "summary": "Conduent runs business process and technology services for Fortune 100 companies and government agencies, including government payments, customer contact, tolling and healthcare claims.",
+      "stack": [".NET / C#", "SQL Server", "Dapper", "Entity Framework", "gRPC", "Playwright", "Azure DevOps"],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "The posting wants REST API and JWT/OAuth2 backend work, which overlaps MedVault's Django REST area, but the .NET/C# stack has no overlap with the candidate's.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "381d2ab910",
+      "relevant": true,
+      "summary": "Pragyaa sells enterprise AI products (VoiceAgent, VoiceLens, PredictML) and is building an AI-native case and document platform on the Anthropic API, MCP, Django/DRF and Next.js.",
+      "stack": ["Django", "DRF", "PostgreSQL", "React", "Next.js", "Azure", "Anthropic API", "MCP", "Celery", "Redis"],
+      "hook": "Your sample ticket 'Move document summarisation to a Celery task with retry'.",
+      "angle": "medvault",
+      "angle_reason": "The role is DRF endpoints plus LLM prompt and tool workflows on PostgreSQL, which is what MedVault is: a Django REST backend with JWT auth and a fixed-schema Gemini pipeline.",
+      "fit": 9,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

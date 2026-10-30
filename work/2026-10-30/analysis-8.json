@@ -1,0 +1,194 @@
+{
+ "leads": [
+  {
+   "id": "6d1e39a10f",
+   "relevant": true,
+   "summary": "Bree is a Canadian challenger bank offering interest-free cash advances (up to a $750 line of credit) for people living paycheck to paycheck, funded by optional tips and an express fee. The company has a mobile app.",
+   "stack": [],
+   "hook": "Your posting says you're building a challenger bank for the 11 million Canadians living paycheck to paycheck, starting with interest-free cash advances.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's JWT auth, per-user isolation and privacy rules are the closest fit to a consumer finance app that handles personal financial data, though the role is mobile and the candidate has no mobile work.",
+   "fit": 3,
+   "region": "americas",
+   "people": [
+    {"name": "Alexander Li", "role": "Founder"},
+    {"name": "Adam Kang", "role": "Founder"}
+   ],
+   "contact_email": "alexander@trybree.com",
+   "contact_name": "Alexander Li",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "714fbff410",
+   "relevant": true,
+   "summary": "Aravolta sells single-pane-of-glass monitoring and control software for data centers, onboarding building, power and compute devices through an on-site node with a REST API and alerts.",
+   "stack": ["Modbus", "BACnet", "SNMP", "Redfish", "MQTT", "REST API"],
+   "hook": "Your site says devices not yet in your library are mapped within 48 hours at no cost to the customer.",
+   "angle": "medvault",
+   "angle_reason": "MedVault is a Django REST API with JWT auth and per-user isolation at the queryset level, the same kind of customer-facing backend a B2B monitoring product exposes.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Margarita Groisman", "role": "Founder/CEO"},
+    {"name": "Jack Sutton", "role": "Founder/CTO"}
+   ],
+   "contact_email": "m.groisman00@gmail.com",
+   "contact_name": "Margarita Groisman",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  },
+  {
+   "id": "7275c41f50",
+   "relevant": false,
+   "summary": "Pesto launched an asset-backed secured credit card and now lets brands launch and run their own revolving secured credit programs on its card, underwriting, servicing and ledgering platform.",
+   "stack": [],
+   "hook": "Your About page says Pesto launched the first asset-backed credit card, then built the underwriting, servicing and ledgering platform behind it.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Django REST backend with JWT auth and per-user isolation is the closest match to a card-issuing and ledgering backend, though the only open role on the careers page is senior.",
+   "fit": 2,
+   "region": "us",
+   "people": [
+    {"name": "James Savoldelli", "role": "Founder"}
+   ],
+   "contact_email": "james@getpesto.com",
+   "contact_name": "James Savoldelli",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "7655582508",
+   "relevant": true,
+   "summary": "Kalinda uses AI to qualify class action and personal-injury cases for plaintiff law firms, answering intake calls, following up on leads and extracting and summarizing data from thousands of pages of medical, financial and employment records.",
+   "stack": ["AI voice agents"],
+   "hook": "Your posting says you've processed 600k pages of records and are live with 2 of the largest plaintiff law firms in the U.S.",
+   "angle": "medvault",
+   "angle_reason": "MedVault runs medical PDFs through a Gemini pipeline with a fixed JSON output schema, which is close to Kalinda pulling structured facts out of thousands of medical and financial records.",
+   "fit": 8,
+   "region": "us",
+   "people": [
+    {"name": "Sayan Bhatia", "role": "Founder/CEO"},
+    {"name": "Sohil Bhatia", "role": "Founder/CTO"}
+   ],
+   "contact_email": "sohil@kalinda.ai",
+   "contact_name": "Sohil Bhatia",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "7857f56087",
+   "relevant": false,
+   "summary": "Per the posting, Minimum helps corporates and investment funds calculate, report on and reduce their carbon emissions. The site text found for the lead is for a different company, Novisto, a sustainability management software vendor.",
+   "stack": [],
+   "hook": "Your posting says Minimum lets corporates and investment funds calculate, report on, and reduce their carbon emissions.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Django backend and API with per-user data isolation is the nearest match to a carbon reporting product, but the match is weak and the lead is not relevant.",
+   "fit": 2,
+   "region": "europe",
+   "people": [
+    {"name": "Freddie Evans", "role": "Founder"},
+    {"name": "Chris Winchurch", "role": "Founder"}
+   ],
+   "contact_email": "freddie@minimum.com",
+   "contact_name": "Freddie Evans",
+   "contact_role": "Founder",
+   "red_flags": ["no real product: website is for a different company (novisto.com)"]
+  },
+  {
+   "id": "7a529debfd",
+   "relevant": true,
+   "summary": "Soria is an AI financial research terminal for healthcare investors. Its agents turn public and private sources into an always-on financial model, reviewed by analysts and delivered to hedge funds, banks and asset managers.",
+   "stack": ["MCP", "REST API", "warehouse sync", "AI agents"],
+   "hook": "Your site lists 30+ state portals, CMS rate filings and DMHC Flash among its sources, all feeding one model that analysts review.",
+   "angle": "medvault",
+   "angle_reason": "MedVault is an LLM pipeline that turns health documents into structured output under a fixed schema, the same kind of agent-driven extraction Soria runs across healthcare sources.",
+   "fit": 8,
+   "region": "us",
+   "people": [
+    {"name": "Adam Ron", "role": "CEO"},
+    {"name": "Cameron Spiller", "role": "CTO"}
+   ],
+   "contact_email": "adam@soriaanalytics.com",
+   "contact_name": "Adam Ron",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  },
+  {
+   "id": "7a5573eac3",
+   "relevant": true,
+   "summary": "Topkey is a financial operating platform for vacation and short-term rental property managers, using AI to auto-categorize bills and receipts by property, with cards, bill pay and banking, and syncing to accounting and PMS tools.",
+   "stack": ["QuickBooks Online", "Xero", "Sage Intacct", "NetSuite", "Guesty", "Hostaway", "Breezeway"],
+   "hook": "Your site says Topkey auto-categorizes every bill and receipt by property and syncs clean data to QuickBooks, Xero and Guesty.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's AI pipeline returns structured output from uploaded documents, similar to Topkey categorizing receipts, and its Django REST API and JWT auth match a finance product's backend.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Jonathan Sukhia", "role": "Founder"},
+    {"name": "Bryan Beshore", "role": "Founder"}
+   ],
+   "contact_email": "bryan.beshore@gmail.com",
+   "contact_name": "Bryan Beshore",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "7bfa86206b",
+   "relevant": false,
+   "summary": "Visibl Semiconductors is a custom-silicon design partner for hardware companies, starting with power electronics, covering architecture, design, verification, fabrication and packaging of custom chips.",
+   "stack": ["RTL design", "analog and mixed-signal design", "ASIC design"],
+   "hook": "Your careers page says the first technical step is a CTO discussion about a chip the candidate helped take to silicon.",
+   "angle": "canopy",
+   "angle_reason": "Canopy's multi-language parser and analyzer interface is the nearest match, though Visibl's work is RTL and silicon design rather than software, so the match is weak.",
+   "fit": 2,
+   "region": "us",
+   "people": [
+    {"name": "Bryce Neil", "role": "Co-founder and CEO"},
+    {"name": "Jordon Kashanchi", "role": "Co-founder and CTO"},
+    {"name": "Nipun Kaushik", "role": "Lead Analog & Mixed-Signal IC Designer"}
+   ],
+   "contact_email": "founders@visiblsemi.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "7c74c3ffab",
+   "relevant": true,
+   "summary": "Glen is a shared memory layer for AI coding agents. It pulls sessions from Claude Code, Codex and Cursor, plus Slack, GitHub, tickets and docs, and injects prior team context into new agent runs.",
+   "stack": ["Claude Code", "Codex", "Cursor", "Slack", "GitHub", "npm CLI"],
+   "hook": "Your install line is npx @tryglen/cli@latest install, and the page says Glen pulls Claude Code, Codex and Cursor sessions into one shared memory.",
+   "angle": "canopy",
+   "angle_reason": "Canopy is a developer tool that indexes GitHub repos and grounds an AI chat in computed code results, which is the code-intelligence side of Glen's agent context over PRs and code.",
+   "fit": 8,
+   "region": "us",
+   "people": [
+    {"name": "Nikos Dritsakos", "role": "Founder/CEO"},
+    {"name": "Frank", "role": "Co-Founder & CTO"}
+   ],
+   "contact_email": "nikos@tryglen.com",
+   "contact_name": "Nikos Dritsakos",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  },
+  {
+   "id": "7db0929742",
+   "relevant": true,
+   "summary": "Fleetline is building an algorithmic load planner for mid-to-large trucking fleets. It combines optimization with LLMs so dispatch plans adapt to each fleet's rules, live data and driver-specific needs.",
+   "stack": ["LLMs", "optimization algorithms"],
+   "hook": "Your posting says you combine optimization with LLMs so algorithms adapt to each fleet's rules and to driver-specific information.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Gemini pipeline turns messy input into structured output under a fixed schema with a tolerant parser, which is the LLM-plus-structured-logic pattern Fleetline needs for per-fleet planning.",
+   "fit": 8,
+   "region": "us",
+   "people": [
+    {"name": "Saurav Kumar", "role": "Founder/CEO"},
+    {"name": "Veer Juneja", "role": "Founder/COO"}
+   ],
+   "contact_email": "saurav@fleetline.ai",
+   "contact_name": "Saurav Kumar",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  }
+ ]
+}

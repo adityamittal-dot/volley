@@ -1,0 +1,189 @@
+{
+ "leads": [
+  {
+   "id": "9bcf313c1d",
+   "relevant": true,
+   "summary": "Gauge is an agent-led growth platform that measures how AI agents recommend and implement a company's product. It offers AI visibility tracking, agent preference benchmarks, and agent experience evals run against coding agents.",
+   "stack": ["MCP servers", "Google Analytics 4", "PostHog"],
+   "hook": "Their 'Get implemented' demo shows an agent writing a Supabase save/load function and running npm test to a PASS, which is the same kind of test loop their Agent Experience product measures.",
+   "angle": "medvault",
+   "angle_reason": "Gauge runs repeated agent sessions and scores the outcomes, which is close to MedVault's LLM client and 47-test suite that runs with no API key.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "company@withgauge.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "9c02cb5ea4",
+   "relevant": true,
+   "summary": "Helium sells an SDK and paywall builder that lets mobile apps run in-app paywall experiments and app-to-web subscriptions without an App Store update. Its first customer is a social app with 20M MAU.",
+   "stack": ["Mobile SDK (iOS/Android)", "web (app-to-web flow)", "AI (paywall and translation)"],
+   "hook": "Their site says the paywall sends users to the web to subscribe and then redirects back to unlock access in the app, and the posting says the first customer is a 20M MAU social app.",
+   "angle": "medvault",
+   "angle_reason": "Helium's AI-built paywalls and translation features need the same kind of LLM prompting pipeline with a fixed output schema that MedVault uses.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Zach Witzel", "role": "Founder/CEO"},
+    {"name": "Shishir Jakati", "role": "Founder/CTO"},
+    {"name": "Anish", "role": ""}
+   ],
+   "contact_email": "shishir.jakati98@gmail.com",
+   "contact_name": "Shishir Jakati",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "9f9b1bca50",
+   "relevant": true,
+   "summary": "Cotool sells an agent-driven security operations platform. It provides log storage and search for security teams, Python detections that agents tune, and agents that automate investigation, threat hunting, and response.",
+   "stack": ["Python", "log storage and search", "AI agents"],
+   "hook": "Their detection page shows personal_cloud_exfil.py as plain Python with LOOKBACK and SPIKE parameters that agents tune, and says every detection is code the team can read and edit.",
+   "angle": "canopy",
+   "angle_reason": "Cotool's detections are Python logic that teams read and edit, which is the same kind of Python ast and tree-sitter analysis work Canopy does across 10 languages.",
+   "fit": 8,
+   "region": "us",
+   "people": [],
+   "contact_email": "jobs@cotool.ai",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "a5754b186f",
+   "relevant": true,
+   "summary": "PerfectBit is an early robotics startup in San Francisco that trains learned manipulation and control policies for robots doing real tasks in unstructured environments. It is hiring its first research scientists and research engineers.",
+   "stack": [],
+   "hook": "The posting says the policies have to hold up outside the lab, in the unstructured environments where real tasks actually happen.",
+   "angle": "medvault",
+   "angle_reason": "Only the LLM pipeline work touches their foundation-model background; robot policy learning is outside anything the candidate has built.",
+   "fit": 3,
+   "region": "us",
+   "people": [
+    {"name": "Péter Vajda", "role": "Founder"},
+    {"name": "Seiji Yamamoto", "role": "Founder"}
+   ],
+   "contact_email": "seiji@perfectbit.ai",
+   "contact_name": "Seiji Yamamoto",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "a6b9d7f430",
+   "relevant": true,
+   "summary": "Rainbrand (formerly Bloom) maintains versioned brand context from websites, files, and assets. Agents and products retrieve and update that context through MCP or a REST API to produce on-brand images, slides, copy, and video.",
+   "stack": ["MCP", "REST API", "Claude Code plugin", "Cursor"],
+   "hook": "Their API docs show POST /api/v1/briefs returning 202 Accepted with a brandSessionId and a task, and the Claude Code setup is a plugin marketplace add followed by /mcp sign-in.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Django REST API with per-user isolation and LLM calls behind one client maps to a versioned brand-context API that agents read and write.",
+   "fit": 8,
+   "region": "us",
+   "people": [
+    {"name": "Ray Fitzgerald", "role": "Founder/CEO"}
+   ],
+   "contact_email": "ray@rainbrand.com",
+   "contact_name": "Ray Fitzgerald",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  },
+  {
+   "id": "acca5bad6c",
+   "relevant": true,
+   "summary": "Unusual finds out why AI agents such as ChatGPT and Claude form opinions about a brand, then changes the brand's content and product to win them. It also sells AgentDesk, which answers buyer agents with grounded answers, and Agent Analytics for tracking AI agent visits.",
+   "stack": [],
+   "hook": "Their AgentDesk demo answers a buyer agent's question about SAML SSO and an audit log and cites the /security page, and their Agent Analytics page shows which AI crawlers hit which pages.",
+   "angle": "medvault",
+   "angle_reason": "AgentDesk gives grounded answers from a company's own content, which is the same grounded-LLM-with-strict-rules problem MedVault's Gemini pipeline solves.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Will Jack", "role": "Founder/CEO"},
+    {"name": "Keller Maloney", "role": "Founder"}
+   ],
+   "contact_email": "will@unusual.ai",
+   "contact_name": "Will Jack",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  },
+  {
+   "id": "add8451b07",
+   "relevant": true,
+   "summary": "Tamarind Bio runs computational biology tools such as AlphaFold, RFdiffusion, and Boltz-2 as a web app and API, so scientists can design and simulate molecules without HPC setup. Its users are mainly pharma, biotech, and academic researchers.",
+   "stack": ["REST API", "GPU orchestration"],
+   "hook": "Their feature page wraps AlphaFold, RFdiffusion, Boltz-2, and ProteinMPNN behind one interface with no setup required.",
+   "angle": "canopy",
+   "angle_reason": "Canopy puts Python ast and tree-sitter behind one analyzer interface, and Tamarind puts dozens of research tools behind one interface, so the same adapter design applies.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Deniz Kavi", "role": "Founder/CEO"},
+    {"name": "Sherry Liu", "role": "Founder"}
+   ],
+   "contact_email": "deniz@tamarind.bio",
+   "contact_name": "Deniz Kavi",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  },
+  {
+   "id": "ae846213b5",
+   "relevant": true,
+   "summary": "Clara is an AI-powered primary care and longevity service. Its AI drafts prescription refills, lab orders, and care plans, and a licensed clinician reviews them before they go out, with HIPAA-compliant import of medical records.",
+   "stack": [],
+   "hook": "Their launch post says Clara drafts prescription refills and lab orders for a clinician in the patient's state to review and sign off on.",
+   "angle": "medvault",
+   "angle_reason": "MedVault is the same product shape: AI explanations of health data with safety rules that forbid diagnosis, and a clinician-in-the-loop draft-then-review flow.",
+   "fit": 8,
+   "region": "us",
+   "people": [
+    {"name": "George Favvas", "role": "Founder/CEO"},
+    {"name": "Caitlin Swift", "role": "Cofounder (former VP Clinical Operations, Circle Medical)"},
+    {"name": "Zeeshan Ahmed", "role": "Cofounder"}
+   ],
+   "contact_email": "george@askclara.com",
+   "contact_name": "George Favvas",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  },
+  {
+   "id": "aede415b7e",
+   "relevant": true,
+   "summary": "Meticulate is an AI sales platform that turns a customer's outbound rules and deep research into custom sequences for each lead. It also watches public signals such as job posts, permit changes, and expansions to trigger outreach, mostly for industrial B2B sales teams.",
+   "stack": ["AI research pipelines", "web and public-records data sources"],
+   "hook": "Their site turns an Ohio foundry's job post for 3 maintenance techs into a sales signal and an outbound sequence.",
+   "angle": "medvault",
+   "angle_reason": "Meticulate's rule-driven LLM messages need a fixed output schema and tolerant parsing, the same problems MedVault's Gemini pipeline handles.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Wilbur Li", "role": "Founder/CEO"},
+    {"name": "Joseph Palakapilly", "role": "Founder/CTO"}
+   ],
+   "contact_email": "joseph@meticulate.ai",
+   "contact_name": "Joseph Palakapilly",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "af1b7e00d0",
+   "relevant": true,
+   "summary": "Model ML builds a finance AI agent that works inside Excel, PowerPoint, and Outlook and connects to a firm's internal and external data. It is delivered to banks, consultancies, and asset managers with forward-deployed teams.",
+   "stack": ["Excel, PowerPoint, and Outlook add-ins"],
+   "hook": "Their site says each firm gets bespoke workflows built and forward-deployed by industry experts, under the 'Woven for Wall Street' heading.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's per-user data isolation and safety-constrained LLM output is the closest match to a bank-facing AI product that handles confidential data.",
+   "fit": 4,
+   "region": "europe",
+   "people": [
+    {"name": "Chaz Englander", "role": "Founder (business and sales)"},
+    {"name": "Arnie Englander", "role": "Founder (tech and product)"}
+   ],
+   "contact_email": "arnie@modelml.com",
+   "contact_name": "Arnie Englander",
+   "contact_role": "Founder",
+   "red_flags": []
+  }
+ ]
+}

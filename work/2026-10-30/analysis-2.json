@@ -1,0 +1,209 @@
+{
+  "leads": [
+    {
+      "id": "16cb72ba28-ref",
+      "relevant": true,
+      "summary": "Jupiter is an Indian personal-finance app that combines UPI payments, bank account aggregation, spend categorisation, personal loans, credit score checks and investing, with a rewards programme called Jewels.",
+      "stack": [
+        "Go",
+        "Shell"
+      ],
+      "hook": "Their GitHub org jupitermoney ships Go and Shell, and the app's Pots feature sets money aside for daily spends.",
+      "angle": "medvault",
+      "angle_reason": "Jupiter handles personal financial data for millions of users, and MedVault's JWT auth, per-user isolation at the queryset level and privacy rules match that backend work.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "abhi.maggon@jupiter.money",
+      "contact_name": "Abhi",
+      "contact_role": "Engineer (GitHub committer, jupitermoney org)",
+      "red_flags": []
+    },
+    {
+      "id": "2f0289ddb5",
+      "relevant": true,
+      "summary": "ChurchCMS builds free, open-source, self-hosted church management software covering a church website, a companion Android app, member directory, online giving and live broadcasting.",
+      "stack": [
+        "PHP",
+        "MDX"
+      ],
+      "hook": "The site offers a free, self-hosted church suite with a companion Android app and a live demo, and its GitHub org church-cms ships PHP and MDX.",
+      "angle": "medvault",
+      "angle_reason": "A church CMS stores members' personal data and login accounts, which is the auth and data-privacy backend work MedVault demonstrates.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "a8b7bb7de5",
+      "relevant": true,
+      "summary": "Ace Blend sells clinically developed nutritional supplements such as omega-3, magnesium, multivitamins and plant protein in India, and per its funding story raised $9.91M in a Series A2 round.",
+      "stack": [],
+      "hook": "The funding story says the first products from their patented nutrition formats reach market in Q4 FY27, and their DSM and TCI supplier deals give them exclusive Indian rights to certain technologies.",
+      "angle": "medvault",
+      "angle_reason": "Ace Blend makes clinically validated health products, so MedVault's health-data handling and no-diagnosis safety rules are the closest domain work.",
+      "fit": 4,
+      "region": "india",
+      "people": [
+        {
+          "name": "Shivam Hingorani",
+          "role": "founder"
+        },
+        {
+          "name": "Saif Mehkri",
+          "role": "co-founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "b6ab098ef6",
+      "relevant": true,
+      "summary": "Docterz makes clinic management software for doctors, covering electronic medical records, appointments, billing, vaccine management and reception workflows, used by more than 5,000 doctors in India.",
+      "stack": [],
+      "hook": "The funding story says the round will fund AI tools that help doctors with documentation, admin workflows and patient follow-ups on a platform used by 5,000+ doctors.",
+      "angle": "medvault",
+      "angle_reason": "Docterz is building AI documentation and follow-up tools over patient records, the same kind of LLM pipeline with a fixed output schema and safety rules that MedVault uses.",
+      "fit": 6,
+      "region": "india",
+      "people": [
+        {
+          "name": "Atish Laddad",
+          "role": "founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "9d6e658ca3",
+      "relevant": false,
+      "summary": "Per the funding headline, Braid is a mobile connectivity startup that raised $38 million from Octopus Ventures. The scraped website is for Pool (poolmoney.com), a shared-money fintech, so nothing here describes Braid.",
+      "stack": [],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "No match for Braid itself; the scraped Pool site is a fintech with cards and member access, where MedVault's auth and per-user isolation would apply, but the lead is not a valid company.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "website is poolmoney.com (Pool), not Braid"
+      ]
+    },
+    {
+      "id": "9df2c63ef6",
+      "relevant": true,
+      "summary": "Being Zero runs coding training, career counselling and interview prep (Maang Interview) for students, working professionals and colleges, and its GitHub org publishes DSA practice material.",
+      "stack": [
+        "JavaScript"
+      ],
+      "hook": "Their GitHub org publishes DSA practice repos in JavaScript, tagged competitive-programming-contests and coding-interviews.",
+      "angle": "canopy",
+      "angle_reason": "Their work is coding practice content, and Canopy's parsing and cross-file call-graph resolution is the closest engineering work the candidate has.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "243d6d8928",
+      "relevant": true,
+      "summary": "ReplyAll is a Bengaluru direct-to-consumer apparel brand launched in 2025, selling performance and everyday wear with its own Temperform and Flexknit fabrics, per its funding story. The scraped site is a parked GoDaddy page.",
+      "stack": [],
+      "hook": "The funding story names the Temperform fabric in the Coolest Tee and Flexknit in the trousers, and says repeat customers are 40% of revenue.",
+      "angle": "medvault",
+      "angle_reason": "No project matches an apparel brand; MedVault's Django REST backend with JWT auth is the closest fit for an e-commerce backend.",
+      "fit": 2,
+      "region": "india",
+      "people": [
+        {
+          "name": "Rushabh Sanghavi",
+          "role": "founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "website is a parked GoDaddy page, no real product found"
+      ]
+    },
+    {
+      "id": "37ec60c088",
+      "relevant": true,
+      "summary": "BioStack sells NAD+ and longevity supplements online (NAD Regen, GlyNAC+, Cell Shield) with a 90-day guarantee, and per its funding story is a YC-backed healthtech that raised $9.5M from Peak XV, DCVC and others.",
+      "stack": [],
+      "hook": "The NAD Regen page offers a subscription at $65.45 every 30 days versus $77 one-off, and the funding story says BioStack raised $9.5M from Peak XV and DCVC.",
+      "angle": "medvault",
+      "angle_reason": "BioStack sells health products online, and MedVault's health-data handling and safety-constrained AI explanations are the nearest domain work.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Kris Gethin",
+          "role": "co-founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "724792ea49",
+      "relevant": true,
+      "summary": "GIVA sells silver, gold and lab-grown diamond jewellery online with a 15-day return policy and a Smart Purchase Plan, and is listed as backed by Titan Capital.",
+      "stack": [],
+      "hook": "The account menu lists My MTO Orders next to a GIVA Smart Purchase Plan, so the site runs made-to-order flows alongside standard orders.",
+      "angle": "medvault",
+      "angle_reason": "A jewellery e-commerce account and order system is closest to MedVault's Django backend with JWT auth and per-user data isolation.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "9695c8d755",
+      "relevant": true,
+      "summary": "Double sells month-end close software to bookkeepers and accounting firms, including Autoclose, where AI agents pull clients' bank and card statements, code transactions and reconcile accounts for human review.",
+      "stack": [],
+      "hook": "The site launched Autoclose, where AI agents pull each client's bank and card statements, code bank feeds and reconcile accounts before a human reviews them.",
+      "angle": "medvault",
+      "angle_reason": "Double runs AI agents over clients' financial records, which matches MedVault's LLM pipeline with a fixed output schema and per-user data isolation.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {
+          "name": "Ben Stein",
+          "role": "founder"
+        },
+        {
+          "name": "Kenny Song",
+          "role": "founder"
+        }
+      ],
+      "contact_email": "ben@doublehq.com",
+      "contact_name": "Ben Stein",
+      "contact_role": "Founder",
+      "red_flags": []
+    }
+  ]
+}

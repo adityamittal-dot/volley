@@ -1,0 +1,186 @@
+{
+ "leads": [
+  {
+   "id": "ca0f7dd2ef",
+   "relevant": true,
+   "summary": "An applied AI lab building LLM agents that control robots, aiming to make robot adaptation reproducible for individuals rather than concentrated in a few large companies.",
+   "stack": [],
+   "hook": "your site says Waddle's agents get markedly more reliable over time in context, and asks how one agent's learning transfers to another",
+   "angle": "medvault",
+   "angle_reason": "MedVault's LLM pipeline (fixed output schema, one mockable client, tolerant parsing of malformed model output) is the closest real experience to Waddle's LLM agents acting on structured signals.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "founders@waddlelabs.ai",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "ca67a4b6ae",
+   "relevant": true,
+   "summary": "A Chrome extension that records a user's clicks and keystrokes and replays them as no-code automations on similar web pages, aimed at B2B productivity.",
+   "stack": ["Chrome extension"],
+   "hook": "your homepage says the extension watches clicks and typing and turns them into automations you can replay on similar pages",
+   "angle": "canopy",
+   "angle_reason": "Canopy's deterministic cross-file analysis of recorded call structure is the closest of the candidate's work to replaying a recorded sequence of actions across pages, though the overlap is weak.",
+   "fit": 5,
+   "region": "us",
+   "people": [{"name": "Brian Noguchi", "role": "Founder"}],
+   "contact_email": "brian@trysmartcuts.com",
+   "contact_name": "Brian Noguchi",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "ce25cd7ba0",
+   "relevant": true,
+   "summary": "Vision-language-model infrastructure that lets enterprises find any object, behavior or event in footage without training a model; customers named include defence, robotics and port monitoring.",
+   "stack": ["vision-language models"],
+   "hook": "your site's LVBench chart puts Perception-0 at 81.2% against Gemini 3.1 Pro at 78.5%",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Gemini pipeline with a fixed JSON output schema and tolerant parser is the same problem as turning OnDeck's model output into the machine-readable reports its site advertises.",
+   "fit": 7,
+   "region": "americas",
+   "people": [
+    {"name": "Alexander Dungate", "role": "Founder/CEO"},
+    {"name": "Sepand Dyanatkar", "role": "Founder/CTO"}
+   ],
+   "contact_email": "sepand@ondeckai.com",
+   "contact_name": "Sepand Dyanatkar",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "ce86dd48a8",
+   "relevant": true,
+   "summary": "An AI platform that drafts RFP and due-diligence questionnaire responses for institutional asset managers and fundraisers.",
+   "stack": [],
+   "hook": "your site says a partner raised RFP capacity by 60% after partnering with you in H2 2025",
+   "angle": "medvault",
+   "angle_reason": "MedVault's LLM pipeline with per-user isolation and a clear audit-friendly output schema matches GovernGPT's grounded answers for many fund clients in a regulated fintech setting.",
+   "fit": 7,
+   "region": "americas",
+   "people": [
+    {"name": "Mamal Amini", "role": "Founder"},
+    {"name": "Oliver Walerys", "role": "Founder"}
+   ],
+   "contact_email": "mamal@governgpt.com",
+   "contact_name": "Mamal Amini",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "d088bf853a",
+   "relevant": true,
+   "summary": "AI-native risk infrastructure for insurance, letting businesses offer coverage to their own customers and partners.",
+   "stack": [],
+   "hook": "your News page has a post on using AI for real-time claims quality assurance",
+   "angle": "medvault",
+   "angle_reason": "MedVault is health and fintech data work with auth, data privacy and safety rules, the same compliance-heavy data handling Solva describes (HIPAA, GDPR, SOC 2).",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Linus Malmén", "role": "CTO & Co-Founder"},
+    {"name": "Herman Båverud Olsson", "role": "CEO & Co-Founder"},
+    {"name": "Sorena Amini", "role": "COO & Co-Founder"}
+   ],
+   "contact_email": "linus@solvatechnology.com",
+   "contact_name": "Linus Malmén",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "d259a2d920",
+   "relevant": true,
+   "summary": "AI agents that run enterprise order-to-cash work (collections, disputes, cash application) with expert finance operators overseeing delivery.",
+   "stack": [],
+   "hook": "your site's Mission Control view logs every agent action account by account as it happens",
+   "angle": "medvault",
+   "angle_reason": "Rex's agents act across email, ERP and CRM under oversight, which matches MedVault's schema-constrained LLM output and safety rules, and MedVault is tagged for fintech.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Merlin Kafka", "role": "Founder/CEO"},
+    {"name": "Lewis Blackwood", "role": "Founder/CTO"}
+   ],
+   "contact_email": "lewis@rex.inc",
+   "contact_name": "Lewis Blackwood",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "d2acbe68ad",
+   "relevant": true,
+   "summary": "A hardware startup building custom AI chips (MPUs) that hardcode LLM weights into silicon, with a one-bit 27B model and FPGA demos so far.",
+   "stack": ["FPGA (Kria KV260)", "Qwen"],
+   "hook": "your site says Little Lamb generates every token on a $250 Kria KV260 with no DRAM reads in the token loop",
+   "angle": "medvault",
+   "angle_reason": "The only overlap with the candidate's work is the LLM side, since MedVault is an LLM pipeline and Lamb Labs compiles LLMs into hardware.",
+   "fit": 3,
+   "region": "us",
+   "people": [
+    {"name": "Niki Kotecha", "role": "Founder/CEO"},
+    {"name": "Thomas Lanning", "role": "Founder/CTO"}
+   ],
+   "contact_email": "thomas@lamb-labs.com",
+   "contact_name": "Thomas Lanning",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "d306c4fcf3",
+   "relevant": true,
+   "summary": "Enterprise features, managed remote build execution and caching, and build-log visibility for Bazel.",
+   "stack": ["Bazel", "Docker", "GitHub"],
+   "hook": "your homepage pitches the Results UI for tracking down slow targets and failing tests from each build's invocation details",
+   "angle": "canopy",
+   "angle_reason": "Canopy's commit-hash-keyed cache and deterministic cross-file dependency analysis is the same kind of build-graph reasoning BuildBuddy's remote cache and target tracking depend on.",
+   "fit": 6,
+   "region": "us",
+   "people": [{"name": "Fabian", "role": "BazelCon speaker (bb explain talk)"}],
+   "contact_email": "fabian@buildbuddy.io",
+   "contact_name": "Fabian",
+   "contact_role": "BazelCon speaker (bb explain talk)",
+   "red_flags": []
+  },
+  {
+   "id": "d4748cd1d2",
+   "relevant": true,
+   "summary": "AI for litigation: live transcript drafts for court reporters, a legal-specific transcription model for transcribers, and deposition and trial-prep analysis for attorneys.",
+   "stack": [],
+   "hook": "your posting says transcribers use your legal-specific AI transcription model to cut transcription time by 3x",
+   "angle": "medvault",
+   "angle_reason": "Both products send sensitive recordings and documents through an LLM, where MedVault's privacy rules and structured output matter as much as the output quality.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Adnan Sherif", "role": "Founder"},
+    {"name": "Yash Ramchandani", "role": "Founder"}
+   ],
+   "contact_email": "adnan@drafttherecord.com",
+   "contact_name": "Adnan Sherif",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "d5399aa9eb",
+   "relevant": true,
+   "summary": "An AI-powered, API-first claims and administration platform for health plans and third-party administrators, claiming AI review that catches billing errors and care gaps.",
+   "stack": [],
+   "hook": "your site says the AI agents catch billing errors, adjudication mistakes and care gaps, with a 7% average savings on claims cost",
+   "angle": "medvault",
+   "angle_reason": "MedVault is a Django REST health-data app with JWT auth and per-user isolation, the same domain and backend shape as TrueClaim's API-first health-plan platform.",
+   "fit": 8,
+   "region": "us",
+   "people": [
+    {"name": "Bobby Bayer", "role": "Founder/CTO"},
+    {"name": "Barbora Howell", "role": "Founder/CEO"}
+   ],
+   "contact_email": "robertwbayer@gmail.com",
+   "contact_name": "Bobby Bayer",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  }
+ ]
+}

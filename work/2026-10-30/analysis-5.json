@@ -1,0 +1,180 @@
+{
+ "leads": [
+  {
+   "id": "446b81ac09",
+   "relevant": true,
+   "summary": "Lucebox sells private workstations for local AI inference. Each ships with its open-source inference engine and tuned open models, so developers can point Claude Code or Codex at their own hardware.",
+   "stack": ["AMD GPUs", "Hugging Face", "open-source inference engine", "custom GPU kernels"],
+   "hook": "Your open-source engine has 2.9K GitHub stars and 95K+ Hugging Face downloads, and the Lucebox Zero 495 ships with models tuned on your own kernels and speculative decoding.",
+   "angle": "medvault",
+   "angle_reason": "Their product is running large models locally and tuning them, and MedVault is the LLM pipeline he has built end to end (fixed JSON output schema, tolerant parsing of malformed output, one mockable client for all model calls).",
+   "fit": 4,
+   "region": "europe",
+   "people": [
+    {"name": "Alessandro Puppo", "role": "Founder/CEO"},
+    {"name": "Davide Cifarelli", "role": "Founder"}
+   ],
+   "contact_email": "alessandro@lucebox.com",
+   "contact_name": "Alessandro Puppo",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  },
+  {
+   "id": "f76de9cf21",
+   "relevant": true,
+   "summary": "Akiflow is an AI-powered productivity app that combines tasks, calendars and an inbox in one planner, with an AI executive assistant. It is aimed at founders, operators and busy professionals.",
+   "stack": ["Zapier"],
+   "hook": "Your Universal Inbox turns an email into a task in one click and saves Slack messages to reply to later.",
+   "angle": "medvault",
+   "angle_reason": "Their AI assistant acts on a user's tasks and calendar, which is the same kind of LLM feature on personal data that MedVault delivers with a structured-output pipeline and per-user data isolation.",
+   "fit": 5,
+   "region": "europe",
+   "people": [
+    {"name": "Nunzio Martinello", "role": "Founder/CEO"},
+    {"name": "Sebastiano Favaro", "role": "Founder"}
+   ],
+   "contact_email": "nunzio@akiflow.com",
+   "contact_name": "Nunzio Martinello",
+   "contact_role": "Founder/CEO",
+   "red_flags": []
+  },
+  {
+   "id": "d9a54716cd",
+   "relevant": true,
+   "summary": "HillStar is a procurement platform for utilities and energy companies. It uses AI to build, run and evaluate RFPs and keeps every score linked to the source passage behind it.",
+   "stack": ["Google Cloud", "LLM-based agents"],
+   "hook": "Your case study says a 12-month RFP review covering 22 vendors and ~19,800 pages took 9 minutes, with every result traced to its source passage.",
+   "angle": "medvault",
+   "angle_reason": "HillStar needs LLM output that is structured and traceable to source documents, which is what MedVault's fixed JSON schema and safety-bounded prompting handle, and its per-user queryset isolation matches their role-based access requirement.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Nooshin Behroyan", "role": "Founder/CEO"},
+    {"name": "Kenny Stone", "role": "Founder/CTO"}
+   ],
+   "contact_email": "info@hillstar.ai",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "30f1e539fe",
+   "relevant": true,
+   "summary": "Cercli is an AI-native HR platform covering recruiting (ATS), HR records (HRIS) and payroll. AI agents source, screen and schedule candidates for businesses hiring in the UAE and the wider Middle East and North Africa region.",
+   "stack": [],
+   "hook": "Your site says Cera scores every CV and that the ATS and HRIS read the same record live, so an applicant becomes an employee with no handoff.",
+   "angle": "medvault",
+   "angle_reason": "Cera scores candidate CVs with an LLM, which needs the same structured-output pipeline with guardrails that MedVault uses for model-generated JSON.",
+   "fit": 5,
+   "region": "middle_east",
+   "people": [
+    {"name": "Akeed Azmi", "role": "Founder"},
+    {"name": "David Reche", "role": "Founder"}
+   ],
+   "contact_email": "david@cercli.com",
+   "contact_name": "David Reche",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "4e5bafc6f6",
+   "relevant": true,
+   "summary": "Paradev (formerly Superset) is an open-source desktop IDE for running many coding agents in parallel. It adds automations, remote access and cloud workspaces for engineering teams.",
+   "stack": ["Claude Code", "Codex", "git worktrees", "MCP", "macOS", "SSH"],
+   "hook": "Your desktop app runs 100+ agents in parallel, each in its own ~/.superset/worktrees checkout, and the site says you just raised an $11.5M seed.",
+   "angle": "canopy",
+   "angle_reason": "Paradev is developer tooling that needs to understand a repo's structure across many agent sessions, and Canopy maps a repo's architecture down to every function from a GitHub link.",
+   "fit": 7,
+   "region": "us",
+   "people": [],
+   "contact_email": "founders@paradev.com",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "50eb7f82a2",
+   "relevant": true,
+   "summary": "Speko is a hosted router for voice AI. One API picks the speech-to-text, LLM and text-to-speech models that benchmark best for each language and re-routes when results change.",
+   "stack": ["LiveKit", "Pipecat", "OpenAI API", "Groq"],
+   "hook": "Your benchmarks show four different models winning across 17 languages, so the best pick changes with the language your users speak.",
+   "angle": "medvault",
+   "angle_reason": "Speko routes calls across many providers behind one API, and MedVault's design of putting every LLM call behind one mockable client is the same provider-neutral idea.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Beknazar Abdikamalov", "role": "Founder/CEO"}
+   ],
+   "contact_email": "team@speko.ai",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "36a54450bf",
+   "relevant": false,
+   "summary": "Deutsche Technoplast makes precision injection-moulded high-performance plastic parts and moulds for automotive and industrial customers.",
+   "stack": [],
+   "hook": "",
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "region": "europe",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "55c66b96ad",
+   "relevant": false,
+   "summary": "DOMUS Consult is an advisory firm for the housing and property industry. The posting is for an internal audit quality-review role at a Saxon housing-cooperative auditing association, not a software role.",
+   "stack": [],
+   "hook": "",
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "region": "europe",
+   "people": [],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "f9ab819d02",
+   "relevant": false,
+   "summary": "The website is a volunteer-run US nonprofit selling fair-trade artisan goods, while the posting is for Earthbound GmbH in Berlin, a circular building-materials company. The role is a non-engineering Werkstudent founder's associate position.",
+   "stack": [],
+   "hook": "",
+   "angle": "",
+   "angle_reason": "",
+   "fit": 1,
+   "region": "europe",
+   "people": [
+    {"name": "Laurie Wilkins", "role": "Founder (conceived Earth Bound)"}
+   ],
+   "contact_email": "",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "42081b8975",
+   "relevant": true,
+   "summary": "Oway builds IOI, a common protocol that connects enterprise systems and physical hardware into one schema an AI can act on. Its first product, Juno, sells unused truck capacity to shippers at a discount.",
+   "stack": ["MCP", "APIs"],
+   "hook": "Your IOI protocol turns messy legacy data and live telemetry into one standardized schema, reachable through a shared API and MCP.",
+   "angle": "medvault",
+   "angle_reason": "IOI turns messy inputs into one fixed schema an AI can act on, the same problem MedVault solves with a fixed JSON output schema and tolerant parsing of malformed model output.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "jobs@oway.io",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "leads": [
+  {
+   "id": "d5453a3e6e",
+   "relevant": true,
+   "summary": "Builds practical, general-purpose industrial robots (OP1) that take over repetitive warehouse work such as packing, sorting and kitting, and deploys them at US customer sites.",
+   "stack": [],
+   "hook": "Your posting says the robots are already in the field generating revenue and data, with deployments scaling this year.",
+   "angle": "medvault",
+   "angle_reason": "Ultra's robots run AI models in customer warehouses, and MedVault is an AI product with a backend, auth and a tested LLM client layer.",
+   "fit": 4,
+   "region": "us",
+   "people": [
+    {"name": "Jon Miller Schwartz", "role": "Founder/CEO"},
+    {"name": "Max Friefeld", "role": "Founder"},
+    {"name": "Oliver Ortlieb", "role": "Founder/CTO"},
+    {"name": "Chetan Parthiban", "role": "Founder"}
+   ],
+   "contact_email": "cparthiban08@gmail.com",
+   "contact_name": "Chetan Parthiban",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "dbb485f4eb",
+   "relevant": true,
+   "summary": "Cloud coding-agent platform for engineering teams. Developers delegate tasks to Claude Code or Codex from Slack, Linear or GitHub, each task runs in its own sandboxed Linux VM, and the result comes back as a pull request.",
+   "stack": ["Claude Code", "Codex", "Linux VMs", "GitHub", "Linear", "Slack"],
+   "hook": "Your site says each harness (Claude Code, Codex, Cursor, OpenCode, Pi) runs in its own Linux VM, which is a specific isolation choice.",
+   "angle": "canopy",
+   "angle_reason": "Replicas agents have to understand a customer's repository before changing it, and Canopy turns a GitHub repo into a resolved cross-file call graph.",
+   "fit": 8,
+   "region": "us",
+   "people": [],
+   "contact_email": "founders@replicas.dev",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  },
+  {
+   "id": "dc1ca8a073",
+   "relevant": true,
+   "summary": "Read-later reading app for iPhone, iPad and web. It saves articles, newsletters and PDFs, reads them aloud, and transcribes YouTube and podcast episodes into time-synced text.",
+   "stack": ["iOS", "web", "browser extension"],
+   "hook": "Your site says Matter transcribes YouTube and podcast episodes into time-synced text you can read along with.",
+   "angle": "canopy",
+   "angle_reason": "Matter says it is building its own parsing layer for saved articles, and Canopy's tree-sitter parsing behind a single analyzer interface is the closest parsing work I have shipped.",
+   "fit": 4,
+   "region": "us",
+   "people": [
+    {"name": "Ben Springwater", "role": "Founder"},
+    {"name": "Robert Mackenzie", "role": "Founder"}
+   ],
+   "contact_email": "ben@getmatter.app",
+   "contact_name": "Ben Springwater",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "e233c64e3c",
+   "relevant": true,
+   "summary": "LLM evaluation and observability platform for AI teams. It traces production traffic, groups failures, turns bad responses into evals, and lets PMs and domain experts annotate. It is built on the open-source DeepEval library.",
+   "stack": ["DeepEval", "LLM tracing", "LLM evals"],
+   "hook": "Your product demo catches 'close old cards' as bad credit advice and turns it into a G-Eval metric that runs on every release.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Gemini pipeline has a fixed JSON output schema and a mockable LLM client, which is the kind of AI output Confident AI evaluates for quality.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Jeffrey Ip", "role": "Founder/CEO"},
+    {"name": "Kritin Vongthongsri", "role": "Founder/CTO"}
+   ],
+   "contact_email": "kvongthongsri@gmail.com",
+   "contact_name": "Kritin Vongthongsri",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "e5dcba81a2",
+   "relevant": true,
+   "summary": "Content system for product copy. It keeps terminology, voice and strings consistent across Figma, code and pull requests, and infers a product's language by scanning the codebase.",
+   "stack": ["Figma", "Claude Code", "MCP", "pull requests"],
+   "hook": "Your site says Ditto infers a product's terminology by scanning the codebase, then proposes standard updates from what teams accept or reject.",
+   "angle": "canopy",
+   "angle_reason": "Ditto builds its model of a product by scanning code, and Canopy does deterministic cross-file analysis of a repository for the same purpose.",
+   "fit": 6,
+   "region": "us",
+   "people": [
+    {"name": "Jo Ma", "role": "Founder"},
+    {"name": "Jessica Ouyang", "role": "Founder"}
+   ],
+   "contact_email": "jo@dittowords.com",
+   "contact_name": "Jo Ma",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "e772123422",
+   "relevant": true,
+   "summary": "Accounting and tax software for US-based startups. It provides automated bookkeeping, tax filing, runway tracking, and personal onboarding from the founder.",
+   "stack": [],
+   "hook": "Your homepage says Finta is now available for agents, so the product has an integration layer that other software can call.",
+   "angle": "medvault",
+   "angle_reason": "Financial records need the same per-user isolation and JWT auth that MedVault built for sensitive health data, and MedVault's data-privacy work covers that.",
+   "fit": 7,
+   "region": "us",
+   "people": [
+    {"name": "Andy Wang", "role": "Founder"}
+   ],
+   "contact_email": "andy@finta.com",
+   "contact_name": "Andy Wang",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "e878abe0fd",
+   "relevant": true,
+   "summary": "Autonomous tax and transfer-pricing software for multi-entity companies. It graphs each company's entities, processes and employees, drafts intercompany agreements and documentation, and posts the accounting entries.",
+   "stack": [],
+   "hook": "Your site says the Atlas graphs every entity, process and employee from your finance and HR systems before checking transfer pricing.",
+   "angle": "canopy",
+   "angle_reason": "Caribou builds a graph of a company's entities and processes, and Canopy's cross-file call-graph resolution is the same kind of graph modelling.",
+   "fit": 5,
+   "region": "europe",
+   "people": [
+    {"name": "Juan Andrade", "role": "Founder"}
+   ],
+   "contact_email": "juan@usecaribou.com",
+   "contact_name": "Juan Andrade",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "e9bb0f39ec",
+   "relevant": true,
+   "summary": "Open-source tools for running and fine-tuning LLMs faster and with less memory, using custom kernels. Ships Unsloth Desktop for running and training models locally on Mac, Windows and Linux.",
+   "stack": ["custom GPU kernels", "OpenAI-compatible API", "Colab", "Cloudflare tunnel"],
+   "hook": "Your site says 'unsloth start claude' connects Claude Code to a local model, and that tool-call repair retries failures automatically.",
+   "angle": "medvault",
+   "angle_reason": "MedVault's Gemini pipeline and single mockable LLM client are application-layer LLM work, which is the layer that sits on top of a local model server like Unsloth's.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Daniel Han", "role": "Founder"},
+    {"name": "Michael Han", "role": "Founder"}
+   ],
+   "contact_email": "danielhanchen@gmail.com",
+   "contact_name": "Daniel Han",
+   "contact_role": "Founder",
+   "red_flags": []
+  },
+  {
+   "id": "eb1956c0f6",
+   "relevant": true,
+   "summary": "Marketplace where schools, districts and parents book after-school and summer enrichment programs from vetted vendors, with booking and program management in one platform.",
+   "stack": [],
+   "hook": "Your platform page promises schools can find, book and manage whole-child programs from one place.",
+   "angle": "medvault",
+   "angle_reason": "Parents, schools and vendors each see only their own bookings, which is the per-user isolation and auth MedVault implements at the queryset level.",
+   "fit": 5,
+   "region": "us",
+   "people": [
+    {"name": "Ignacio Viau", "role": "Founder/CEO"},
+    {"name": "Tomas Bisi", "role": "Founder/CTO"}
+   ],
+   "contact_email": "tommybisi@gmail.com",
+   "contact_name": "Tomas Bisi",
+   "contact_role": "Founder/CTO",
+   "red_flags": []
+  },
+  {
+   "id": "eb4b2f3c1b",
+   "relevant": true,
+   "summary": "Industrial data platform. The IOI protocol connects factories, fleets and enterprise systems into one schema, and the Juno product sells unused truck capacity to shippers going the same direction.",
+   "stack": ["API", "MCP"],
+   "hook": "Your post says Juno sells unused truck space at a 50% discount to businesses shipping in the same direction.",
+   "angle": "canopy",
+   "angle_reason": "IOI normalizes messy legacy and telemetry data into one schema, and Canopy normalizes 10 languages behind one analyzer interface and resolves cross-file references from it.",
+   "fit": 6,
+   "region": "us",
+   "people": [],
+   "contact_email": "jobs@oway.io",
+   "contact_name": "",
+   "contact_role": "",
+   "red_flags": []
+  }
+ ]
+}

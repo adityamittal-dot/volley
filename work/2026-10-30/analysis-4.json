@@ -1,0 +1,228 @@
+{
+  "leads": [
+    {
+      "id": "ed31fddf69",
+      "relevant": true,
+      "summary": "Edoofa is an education consultancy offering study-in-India counselling, scholarships, visa help and an Earn While You Learn program, mainly for African students. The posting is for a remote junior Java backend engineer, and nothing on the site describes a software product.",
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "Spring MVC",
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "Git",
+        "JUnit"
+      ],
+      "hook": "Your remote posting asks a junior Java engineer to write features for your core backend applications.",
+      "angle": "medvault",
+      "angle_reason": "Django REST API and auth work is the nearest backend overlap to a Java backend role, though the stack differs.",
+      "fit": 3,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "site is an education consultancy with no visible software product"
+      ]
+    },
+    {
+      "id": "b80693e153",
+      "relevant": false,
+      "summary": "Wipro is a large IT services and consulting company (240K+ employees per its site) that sells digital transformation and AI services to enterprise clients. The posting is a Gurugram graduate trainee role that is mostly manual system testing on a proprietary benefits-administration system.",
+      "stack": [
+        "SQL",
+        "DB2",
+        "Test automation"
+      ],
+      "hook": "The posting is a manual testing track on Wipro's proprietary Total Benefit Administration system, so there is no engineering hook.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's static analysis and automated test suite are the closest to the testing and quality work in this role.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "6b2575b537",
+      "relevant": true,
+      "summary": "Trinity Mobile App Lab is a Noida software company, founded in 2013, that builds Android and iOS apps for MSMEs and SMEs. Its listed products include Sales Pro (field-team visits, leave, travel reimbursement), Audit Pro and Infield.",
+      "stack": [
+        "Android",
+        "iOS"
+      ],
+      "hook": "Your Sales Pro app tracks field-team visits, leave, travel reimbursement approvals, attendance and KPIs.",
+      "angle": "medvault",
+      "angle_reason": "Field-team apps need a backend with auth and per-user data, which is what the MedVault Django REST work covers.",
+      "fit": 5,
+      "region": "india",
+      "people": [
+        {
+          "name": "Ayush Agarwal",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "aiyush.agarawaal@trinityapplab.com",
+      "contact_name": "Ayush Agarwal",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "c9f3eaa13a",
+      "relevant": false,
+      "summary": "No text for eTeam itself. The site text was scraped from helpware.com, a custom software and AI development agency (Helpware Tech) with 18 offices, serving healthcare, pharma and fintech clients. There is no posting text.",
+      "stack": [],
+      "hook": "No usable hook: the site text is Helpware's, not eteam.io's, and there is no posting text.",
+      "angle": "medvault",
+      "angle_reason": "Only relevant if this were a healthcare AI shop, which the Helpware text does not establish for eTeam.",
+      "fit": 2,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "site belongs to a different company (Helpware Tech), no eTeam product visible"
+      ]
+    },
+    {
+      "id": "5ef8e11799",
+      "relevant": true,
+      "summary": "Binaryworks Inc. is a Seoul software development and UI/UX design firm, established 2012, that builds custom software and web and mobile applications. Its portfolio includes the Samsung Display Research showroom, where it built the media-wall player and an integrated CMS controlling five media, lighting and volume units.",
+      "stack": [],
+      "hook": "Your Samsung Display Research project built an integrated CMS that controls five media, lighting and volume units from one place.",
+      "angle": "medvault",
+      "angle_reason": "A CMS that drives several hardware outputs from one control layer is backend API and access-control work like the MedVault Django REST backend.",
+      "fit": 5,
+      "region": "asia",
+      "people": [],
+      "contact_email": "choi@01w.kr",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "c82dd3522b",
+      "relevant": false,
+      "summary": "Park Place LTD is a Bellevue, WA luxury and exotic car dealership, founded in 1987, with a Boise branch, a service center and an auto salon. Nothing on the site relates to software.",
+      "stack": [],
+      "hook": "No usable hook: the site belongs to a car dealership, and the posting text is empty.",
+      "angle": "canopy",
+      "angle_reason": "No company work is visible to connect to; Canopy is the general software pick and this lead is not worth an email.",
+      "fit": 1,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "site is an unrelated car dealership, no software product"
+      ]
+    },
+    {
+      "id": "fecf171497",
+      "relevant": false,
+      "summary": "Danfoss is a family-owned engineering company that makes hydraulics, heating and cooling, power electronics and drive products that cut energy use and emissions, according to its site.",
+      "stack": [
+        "SQL",
+        "Databricks",
+        "PySpark",
+        "Power BI",
+        "Python",
+        "Excel"
+      ],
+      "hook": "Your intern posting asks for forecasting and capacity-planning datasets built in Databricks and PySpark.",
+      "angle": "canopy",
+      "angle_reason": "Canopy's parsing and PostgreSQL caching is the nearest data-pipeline work, though the role is mostly analytics and Power BI.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "3cf33b9c60",
+      "relevant": false,
+      "summary": "Cognizant is a large IT services and consulting firm that calls itself an AI builder, offering agentic AI, cloud modernization and industry-cloud work to enterprise clients.",
+      "stack": [
+        "Python",
+        "Azure AI Agent Service",
+        "Azure OpenAI",
+        "Azure ML",
+        "Kubernetes",
+        "RAG"
+      ],
+      "hook": "Your posting asks for multi-agent systems built end to end on Azure AI Agent Service, from design through deployment.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Gemini prompting pipeline with a fixed JSON schema and tolerant output parsing matches their LLM and tool-using agent work.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "6edd26d9d5",
+      "relevant": false,
+      "summary": "Celonis sells process mining and enterprise AI software, with 1,400+ customers according to its site. The posting is a graduate deployment engineer role based in Munich.",
+      "stack": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "LLM integrations",
+        "Celonis Platform"
+      ],
+      "hook": "Your graduate posting asks for ML and LLM integrations built for your most strategic customers.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's LLM prompting pipeline with schema-constrained output maps to the LLM integrations this role builds for customers.",
+      "fit": 5,
+      "region": "europe",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "4742282667",
+      "relevant": true,
+      "summary": "Mesmer is a 7-person Berlin startup (YC Spring 2025) that sells a monthly engineering-productivity service: it maps a team's work, finds the biggest bottleneck, and implements the fix directly in the customer's codebase.",
+      "stack": [
+        "GitHub",
+        "Slack",
+        "Linear"
+      ],
+      "hook": "Your site says you map a customer's work every month, find the largest bottleneck, and implement the fix directly in their codebase.",
+      "angle": "canopy",
+      "angle_reason": "Canopy maps a repo's architecture and call graph from code, the same kind of reading of customer code Mesmer does before fixing a bottleneck.",
+      "fit": 8,
+      "region": "europe",
+      "people": [
+        {
+          "name": "Sergio Oliveira Bergmann",
+          "role": "Founder"
+        },
+        {
+          "name": "João de Paula",
+          "role": "Founder/CEO"
+        },
+        {
+          "name": "Lucas Silva",
+          "role": "Founder/CTO"
+        }
+      ],
+      "contact_email": "sergio@mesmer.co",
+      "contact_name": "Sergio Oliveira Bergmann",
+      "contact_role": "Founder",
+      "red_flags": []
+    }
+  ]
+}

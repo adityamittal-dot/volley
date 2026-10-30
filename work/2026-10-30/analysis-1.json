@@ -1,0 +1,263 @@
+{
+  "leads": [
+    {
+      "id": "fb06963f0f",
+      "relevant": true,
+      "summary": "hoichoi's open-source arm, publishing media and entertainment tooling: ffmpeg and image-processing utilities, subtitle generation, and a Python/TypeScript codebase.",
+      "stack": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "MERN",
+        "AWS S3",
+        "ffmpeg",
+        "Vertex AI",
+        "Gemini"
+      ],
+      "hook": "their GitHub org has an ai-subtitle / subtitles-generator repo on Gemini and Vertex AI, next to a sharp/webp image optimizer",
+      "angle": "medvault",
+      "angle_reason": "Their Gemini and Vertex AI subtitle work is the same LLM-output pipeline MedVault runs on a Python/Django backend.",
+      "fit": 7,
+      "region": "india",
+      "people": [],
+      "contact_email": "aloke.13@gmail.com",
+      "contact_name": "aloke majumder",
+      "contact_role": "engineer (top committer, 63 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "9448d2c04c",
+      "relevant": false,
+      "summary": "Per the funding article, Matiks is a Bengaluru social gaming startup (brain games, started as a mental-maths game) that raised a $10M pre-Series A. The linked website (matiks.es) is a Barcelona tutoring academy, so the two are probably not the same company.",
+      "stack": [],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "Their planned AI game-creation engine would need an LLM pipeline like MedVault's, but the lead is not usable as the site is a different company.",
+      "fit": 2,
+      "region": "india",
+      "people": [
+        {
+          "name": "Sudhanshu Bhatia",
+          "role": "founder"
+        },
+        {
+          "name": "Sushant",
+          "role": "founder"
+        },
+        {
+          "name": "Mohan",
+          "role": "founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "website is an unrelated Barcelona tutoring academy, not the funded startup"
+      ]
+    },
+    {
+      "id": "442ac30b50",
+      "relevant": true,
+      "summary": "Widle is an AI automation and product studio that builds workflows, AI agents, internal tools and client portals for businesses, using Claude, OpenAI, n8n, Retool and Next.js.",
+      "stack": [
+        "Claude",
+        "OpenAI",
+        "Gemini",
+        "Vertex AI",
+        "MCP",
+        "n8n",
+        "Retool",
+        "Next.js",
+        "React",
+        "Supabase",
+        "PostgreSQL",
+        "Python",
+        "Node.js",
+        "Dart",
+        "Go",
+        "Rust",
+        "JavaScript"
+      ],
+      "hook": "your lead-to-onboarding demo has a Claude agent calling MCP tools to score intent and draft replies, with each write logged to an audit log in Supabase",
+      "angle": "medvault",
+      "angle_reason": "Their AI agents and LLM apps on Claude, Gemini and OpenAI match MedVault's schema-constrained Gemini pipeline behind a Django REST API.",
+      "fit": 8,
+      "region": "india",
+      "people": [],
+      "contact_email": "career@widle.studio",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "442ac30b50-ref",
+      "relevant": true,
+      "summary": "Widle is an AI automation and product studio that builds workflows, AI agents, internal tools and client portals for businesses, using Claude, OpenAI, n8n, Retool and Next.js.",
+      "stack": [
+        "Claude",
+        "OpenAI",
+        "Gemini",
+        "Vertex AI",
+        "MCP",
+        "n8n",
+        "Retool",
+        "Next.js",
+        "React",
+        "Supabase",
+        "PostgreSQL",
+        "Python",
+        "Node.js",
+        "Dart",
+        "Go",
+        "Rust",
+        "JavaScript"
+      ],
+      "hook": "your lead-to-onboarding demo has a Claude agent calling MCP tools to score intent and draft replies, with each write logged to an audit log in Supabase",
+      "angle": "medvault",
+      "angle_reason": "Their AI agents and LLM apps on Claude, Gemini and OpenAI match MedVault's schema-constrained Gemini pipeline behind a Django REST API.",
+      "fit": 8,
+      "region": "india",
+      "people": [],
+      "contact_email": "limanibhavik@gmail.com",
+      "contact_name": "Bhavik",
+      "contact_role": "engineer (top committer, 49 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "cb2a185cfa",
+      "relevant": true,
+      "summary": "Expense management software, now sold as Sage Expense Management (formerly Fyle). It matches receipts texted in by cardholders to corporate card transactions with OCR and AI, and syncs approved expenses to accounting systems.",
+      "stack": [
+        "JavaScript",
+        "Python"
+      ],
+      "hook": "your text-to-expense flow, where a cardholder texts a receipt photo and your OCR pulls merchant, date, amount and category",
+      "angle": "medvault",
+      "angle_reason": "Their OCR receipt extraction and AI matching of receipts to transactions is the same document-to-structured-JSON problem MedVault solves with Gemini on a Django backend.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "aniruddhashriwant@gmail.com",
+      "contact_name": "Aniruddha Shriwant",
+      "contact_role": "engineer (top committer, 15 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "04711dc64c",
+      "relevant": true,
+      "summary": "SEBI-aligned algorithmic trading platform for brokers, fintechs, advisors and retail traders, offering backtesting, paper trading and live execution through its Phoenix strategy builder and Odyssey deployable algos.",
+      "stack": [
+        "Python",
+        "Jupyter Notebook",
+        "HTML",
+        "scikit-learn",
+        "TensorFlow"
+      ],
+      "hook": "your Phoenix Copilot turns a plain-English strategy description into no-code or full-code strategy logic",
+      "angle": "medvault",
+      "angle_reason": "Their white-label platform serving many brokers and clients needs the per-user isolation and JWT auth that MedVault's Django REST backend implements.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "04711dc64c-ref",
+      "relevant": true,
+      "summary": "SEBI-aligned algorithmic trading platform for brokers, fintechs, advisors and retail traders, offering backtesting, paper trading and live execution through its Phoenix strategy builder and Odyssey deployable algos.",
+      "stack": [
+        "Python",
+        "Jupyter Notebook",
+        "HTML",
+        "scikit-learn",
+        "TensorFlow"
+      ],
+      "hook": "your Phoenix Copilot turns a plain-English strategy description into no-code or full-code strategy logic",
+      "angle": "medvault",
+      "angle_reason": "Their white-label platform serving many brokers and clients needs the per-user isolation and JWT auth that MedVault's Django REST backend implements.",
+      "fit": 6,
+      "region": "india",
+      "people": [],
+      "contact_email": "hemendra.sakpal@algobulls.com",
+      "contact_name": "hemendra.sakpal",
+      "contact_role": "engineer (top committer, 17 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "285483a2c0",
+      "relevant": true,
+      "summary": "Gurugram luxury watch brand selling invitation-only numbered watches through its Registry, assembled at its Atelier. It raised Rs 70 crore in a Series A led by Blume Ventures. The linked site is an empty directory index, so nothing on it confirms the business.",
+      "stack": [],
+      "hook": "",
+      "angle": "medvault",
+      "angle_reason": "No product on the site to connect to; the only overlap is generic customer-data backend work.",
+      "fit": 2,
+      "region": "india",
+      "people": [
+        {
+          "name": "Prerna Gupta",
+          "role": "founder, leads Rotoris"
+        },
+        {
+          "name": "Aakash Anand",
+          "role": "founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": [
+        "website is a parked directory listing (2021 index page), no real product site"
+      ]
+    },
+    {
+      "id": "f7882b2c92",
+      "relevant": true,
+      "summary": "Gurugram kids' food and snacks brand (chips, sauces, millet pasta) that raised Rs 100 crore in a Series B and sells direct-to-consumer, quick-commerce and offline.",
+      "stack": [],
+      "hook": "the Series B money is meant to scale R&D and manufacturing, and the press release names a 'Build Together' model",
+      "angle": "medvault",
+      "angle_reason": "No engineering overlap is visible; only generic backend fit applies.",
+      "fit": 3,
+      "region": "india",
+      "people": [
+        {
+          "name": "Aditya Mukherjee",
+          "role": "co-founder"
+        },
+        {
+          "name": "Mansi Baranwal",
+          "role": "co-founder"
+        }
+      ],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "16cb72ba28",
+      "relevant": true,
+      "summary": "Indian personal-finance app and digital account offering UPI payments, spend categorization, rewards (Jewels), personal loans, credit score checks, investing and insurance to individual users.",
+      "stack": [
+        "Go",
+        "Shell"
+      ],
+      "hook": "your app tags every payment instantly by category and gives a wellness score built from spending habits",
+      "angle": "medvault",
+      "angle_reason": "Their banking and loan flows need the auth and per-user data isolation MedVault's Django backend implements.",
+      "fit": 4,
+      "region": "india",
+      "people": [],
+      "contact_email": "",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    }
+  ]
+}

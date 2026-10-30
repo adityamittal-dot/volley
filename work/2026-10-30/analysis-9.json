@@ -1,0 +1,192 @@
+{
+  "leads": [
+    {
+      "id": "7ee8ead85d",
+      "relevant": true,
+      "summary": "Dedalus Labs builds persistent Linux machines for AI agents: VM-level isolation, filesystem and memory that persist across sessions, and billing only for active compute. Aimed at developers whose agents run real software over time.",
+      "stack": ["Linux", "hardware virtualization (VMs)"],
+      "hook": "Their site says a full Linux machine starts in under 50ms with filesystem and memory kept across sessions, and sets that against a 2.5s pull-image/install/ready traditional sandbox.",
+      "angle": "canopy",
+      "angle_reason": "Dedalus is a platform/backend infrastructure company, and Canopy is the candidate's platform project (commit-hash-keyed PostgreSQL cache, OAuth, 143 tests).",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Windsor Nguyễn", "role": "engineer (42 GitHub commits)"},
+        {"name": "Shengming Liang", "role": "engineer (4 GitHub commits)"},
+        {"name": "Cathy Di", "role": "blog author (role not stated)"},
+        {"name": "Vitus Larrieu", "role": "blog author (role not stated)"}
+      ],
+      "contact_email": "win@dedaluslabs.ai",
+      "contact_name": "Windsor Nguyễn",
+      "contact_role": "engineer (GitHub committer, 42 commits)",
+      "red_flags": []
+    },
+    {
+      "id": "82ae1b463b",
+      "relevant": true,
+      "summary": "VideoGen is an AI video creation platform that turns a prompt, script or article into a finished video with voiceover and subtitles, sold to individuals and teams, with an API for building video generation into other products.",
+      "stack": ["REST API", "Zapier integration", "third-party models: Seedance, Veo, ElevenLabs, Kling"],
+      "hook": "Their posting says VideoGen runs on Seedance, Veo, ElevenLabs and Kling behind one product, so the hard problem is routing and orchestrating several model providers rather than making one model call.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Gemini prompting pipeline, fixed output schema and mockable LLM client match an AI product that orchestrates third-party models behind an API.",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {"name": "Anton Koenig", "role": "CEO (site blog byline)"},
+        {"name": "David Grossman", "role": "CTO (site blog byline)"}
+      ],
+      "contact_email": "david@videogen.io",
+      "contact_name": "David Grossman",
+      "contact_role": "CTO",
+      "red_flags": []
+    },
+    {
+      "id": "8337b829fa",
+      "relevant": true,
+      "summary": "Circleback records and summarizes meetings, extracting action items and running automations that push notes and tasks into tools such as Linear, Notion, HubSpot and Salesforce, with API, webhook, CLI and MCP access for customers and agents.",
+      "stack": ["MCP server", "CLI", "webhooks", "Google Calendar", "Gmail", "Slack", "Notion", "Linear"],
+      "hook": "Their site exposes an MCP server and a CLI so tools like ChatGPT, Claude and Cursor can pull meeting context, which is an unusual API surface for a meeting notetaker.",
+      "angle": "medvault",
+      "angle_reason": "Circleback's LLM summaries, action-item extraction and privacy-first integrations map to MedVault's structured-output LLM pipeline and per-user data isolation.",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {"name": "Ali", "role": "team member; led first LLM integration into the Stripe support product before Circleback (per posting bio, title not stated)"},
+        {"name": "Kevin", "role": "team member; predictive analytics at Tableau before Circleback (per posting bio, title not stated)"}
+      ],
+      "contact_email": "startups@circleback.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "84cb991751",
+      "relevant": true,
+      "summary": "Carma sells AI-driven operations software for equipment-heavy businesses (fleets and construction contractors). Its AI operator coordinates work orders, repairs and crew time for enterprise clients.",
+      "stack": [],
+      "hook": "Its demo weighs a $1,000 mobile repair against $7,200 of idle crew time, so the product is making dispatch trade-offs in dollars on live work orders.",
+      "angle": "medvault",
+      "angle_reason": "Carma's AI operator makes recommendations over business records; MedVault's pipeline does the same kind of governed model output with a fixed schema and explicit rules on what the model may say.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Muhammad Alasgarli", "role": "Founder/CEO (pattern-guessed address only)"},
+        {"name": "Suleyman Alasgarli", "role": "Founder/CRO (pattern-guessed address only)"}
+      ],
+      "contact_email": "muhammad@joincarma.com",
+      "contact_name": "Muhammad Alasgarli",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "89168885e1",
+      "relevant": true,
+      "summary": "Capitol AI sells a self-hosted AI platform for regulated institutions (professional services, financial services, government) that turns proprietary data into auditable reports and work products inside the customer's own infrastructure with no data egress.",
+      "stack": ["model-agnostic LLM integration", "on-premise enterprise deployment"],
+      "hook": "Their site says every output ships with its sources, steps, approvals and human review built in, and the platform runs with no data egress.",
+      "angle": "medvault",
+      "angle_reason": "MedVault's safety rules, fixed output schema and per-user isolation address the same governed-output problem Capitol sells to regulated buyers.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Shaun Modi", "role": "Founder/CEO (pattern-guessed address only)"},
+        {"name": "Thomas Hallaran", "role": "Founder/CTO (pattern-guessed address only)"}
+      ],
+      "contact_email": "thomas@capitol.ai",
+      "contact_name": "Thomas Hallaran",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "8bec014630",
+      "relevant": true,
+      "summary": "Rinse is a San Francisco dental practice positioning itself as the One Medical of dental care, offering same-day online booking through its website and iOS app and prevention-focused care in modern studios.",
+      "stack": ["iOS app", "online booking"],
+      "hook": "Its site says patients book every visit instantly online or in the Rinse iOS app, so the booking and scheduling flow is the software the engineers would be building.",
+      "angle": "medvault",
+      "angle_reason": "Patient booking and dental records are health data; MedVault's privacy-first Django backend with per-user isolation and health-tech scope is the closest project the candidate has.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Dr. Lena Al-Farra", "role": "Managing Dentist, Care Lead"},
+        {"name": "Casey Harlin", "role": "Founder (pattern-guessed address only)"}
+      ],
+      "contact_email": "casey@rinse.dental",
+      "contact_name": "Casey Harlin",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "8f5cc295ca",
+      "relevant": true,
+      "summary": "Dataleap builds an agent platform that lets business teams (sales, ops, HR) build and run AI agents without engineering help, with prebuilt agents for tasks like candidate sourcing and service-desk triage, sold to enterprises.",
+      "stack": ["agent-first platform", "Salesforce", "Slack", "Gong", "ServiceNow", "Okta", "Confluence"],
+      "hook": "Their posting says business teams should automate work 'without any help from engineering' and contrasts the product directly with the visual workflow builder and setup burden of n8n.",
+      "angle": "medvault",
+      "angle_reason": "Dataleap's agents act on enterprise tools through LLM calls, the same pipeline problem MedVault solves with a fixed output schema, safety rules and a mockable LLM client.",
+      "fit": 7,
+      "region": "europe",
+      "people": [
+        {"name": "Jan Damm", "role": "Founder/CEO (pattern-guessed address only)"},
+        {"name": "Jan-Hendrik Ruettinger", "role": "Founder/CTO (pattern-guessed address only)"}
+      ],
+      "contact_email": "janhendrik@dataleap.ai",
+      "contact_name": "Jan-Hendrik Ruettinger",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "94ebe8a953",
+      "relevant": true,
+      "summary": "Truss is a banking and payments platform for construction contractors, covering bill pay, receivables, corporate cards and ACH payouts, with banking provided through a partner bank.",
+      "stack": [],
+      "hook": "The homepage advertises unlimited crew cards with spend limits set per card, so the product is effectively card-spend controls for subcontractor crews.",
+      "angle": "medvault",
+      "angle_reason": "Truss moves money and controls access for contractors; MedVault's JWT auth with refresh rotation, per-user queryset isolation and data-privacy rules are the closest match for a Django-style fintech backend.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Matthew Smith", "role": "Founder/CEO (pattern-guessed address only)"}
+      ],
+      "contact_email": "matthew@trusspayments.com",
+      "contact_name": "Matthew Smith",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "9bb7179748",
+      "relevant": true,
+      "summary": "Openbenchmarks runs open, independent benchmarks of APIs and tools (web search, document parsing, company enrichment) so teams can compare vendors, and sells private benchmarking and analytics for measuring a product against competitors.",
+      "stack": ["Hugging Face datasets", "GitHub open runners and judges"],
+      "hook": "Their Company News benchmark is marked 'Issue · bias found · fix in progress', with a note that rankings may not reflect true performance until every vendor is re-run in the same window.",
+      "angle": "canopy",
+      "angle_reason": "Openbenchmarks is a developer-tools evaluation company, and Canopy is the candidate's dev-tools project with deterministic, testable analysis of code.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "founders@openbenchmarks.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "9bb7179748-ref",
+      "relevant": true,
+      "summary": "Openbenchmarks runs open, independent benchmarks of APIs and tools (web search, document parsing, company enrichment) so teams can compare vendors, and sells private benchmarking and analytics for measuring a product against competitors.",
+      "stack": ["Hugging Face datasets", "GitHub open runners and judges"],
+      "hook": "Their Company News benchmark is marked 'Issue · bias found · fix in progress', with a note that rankings may not reflect true performance until every vendor is re-run in the same window.",
+      "angle": "canopy",
+      "angle_reason": "Openbenchmarks is a developer-tools evaluation company, and Canopy is the candidate's dev-tools project with deterministic, testable analysis of code.",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {"name": "swarnabgarang", "role": "engineer (7 GitHub commits)"},
+        {"name": "Aditya Lahiri", "role": "engineer (4 GitHub commits across two addresses)"}
+      ],
+      "contact_email": "swarnabgarang@gmail.com",
+      "contact_name": "swarnabgarang",
+      "contact_role": "engineer (most active GitHub committer, 7 commits)",
+      "red_flags": []
+    }
+  ]
+}

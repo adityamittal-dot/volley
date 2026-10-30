@@ -1,0 +1,247 @@
+{
+  "leads": [
+    {
+      "id": "466a6cfca4",
+      "relevant": true,
+      "summary": "Builds voice models for regional languages such as Urdu, Bengali and Greek, offered through APIs and SDKs for developers building voice-first products. Sells Text to Speech Studio, a developer API and AI calling agents.",
+      "stack": [],
+      "hook": "Their site headline reads 'Finally, AI Voices that sound like Pakistan', and the pricing page lists a Developer API next to Text to Speech Studio and AI Calling, with a free 10-minute tier.",
+      "angle": "medvault",
+      "angle_reason": "Uplift sells model-backed voice features to developers through an API, and MedVault's LLM pipeline behind one mockable client with a fixed output schema is the closest match for shipping model features behind an API.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "founders@upliftai.org",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "473a5af14f",
+      "relevant": true,
+      "summary": "Sells AI voice and text agents that answer calls, qualify leads and book appointments for mid-market and enterprise contact centers in industries such as home remodeling, roofing, health insurance and real estate.",
+      "stack": [
+        "LLM APIs",
+        "Salesforce",
+        "HubSpot"
+      ],
+      "hook": "Their site says they 'build on the world's best AI providers' and let customers choose which ones, with Leaping orchestrating them into a single agent.",
+      "angle": "medvault",
+      "angle_reason": "Leaping's agents must turn LLM output into reliable appointment and CRM actions, the same constrained-output problem MedVault solves with a fixed JSON schema and a tolerant parser.",
+      "fit": 6,
+      "region": "us",
+      "people": [],
+      "contact_email": "jane@leapingai.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "484990f357",
+      "relevant": true,
+      "summary": "Builds AI employees that take over defined roles such as ML engineer, financial analyst, paralegal and account executive inside a company's own tools, plus managed ML engineering for other teams.",
+      "stack": [],
+      "hook": "Their 'Agentic systems' section promises production agents that Jarmin 'runs, maintains, and improves over time', and the Evals line measures model quality against benchmarks.",
+      "angle": "medvault",
+      "angle_reason": "Jarmin's AI employees run tasks on customer data and return reviewable output, which matches MedVault's fixed-schema LLM output and per-user data isolation.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {
+          "name": "Chalmers Brown",
+          "role": "Co-Founder & CEO"
+        },
+        {
+          "name": "Zack Leman",
+          "role": "Co-Founder & CTO"
+        },
+        {
+          "name": "Shirsendu Halder",
+          "role": "Co-Founder & Head of ML"
+        }
+      ],
+      "contact_email": "careers@jarmin.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "4b2cb9a814",
+      "relevant": true,
+      "summary": "Open-source, code-based BI tool where teams write dashboards and reports in Markdown and SQL, version them in Git, and ship them with CI and branch previews, plus an analytics agent.",
+      "stack": [
+        "SQL",
+        "Markdown",
+        "YAML",
+        "Git"
+      ],
+      "hook": "Their homepage says 'BI as code so your team and their agents can build and ship analytics together', with dashboards defined as Markdown files with SQL in a repo, branch previews and CI on every pull request.",
+      "angle": "canopy",
+      "angle_reason": "Evidence treats analytics as a code repo with CI and previews, the same developer-tool problem as Canopy's analysis of a codebase's structure.",
+      "fit": 6,
+      "region": "americas",
+      "people": [
+        {
+          "name": "Adam McAskill",
+          "role": "Founder"
+        },
+        {
+          "name": "Sean Hughes",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "adam@evidence.dev",
+      "contact_name": "Adam McAskill",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "4c49f87e0e",
+      "relevant": true,
+      "summary": "Post-training research and product lab that trains specialized models for long-horizon tasks for pharma, biotech, logistics and banking enterprises.",
+      "stack": [
+        "GRPO",
+        "LoRA"
+      ],
+      "hook": "Their blog post 'Can We Train a Model in One Step?' says GRPO is 'often the first tool we reach for' when training a model for a customer via reinforcement learning.",
+      "angle": "medvault",
+      "angle_reason": "TrainLoop fine-tunes LLMs on sensitive domain data for pharma and biotech clients, close to MedVault's health-data LLM pipeline and its privacy-focused design.",
+      "fit": 5,
+      "region": "us",
+      "people": [],
+      "contact_email": "founders@trainloop.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "4c49f87e0e-ref",
+      "relevant": true,
+      "summary": "Post-training research and product lab that trains specialized models for long-horizon tasks for pharma, biotech, logistics and banking enterprises.",
+      "stack": [
+        "GRPO",
+        "LoRA"
+      ],
+      "hook": "Their blog post 'Can We Train a Model in One Step?' says GRPO is 'often the first tool we reach for' when training a model for a customer via reinforcement learning.",
+      "angle": "medvault",
+      "angle_reason": "TrainLoop fine-tunes LLMs on sensitive domain data for pharma and biotech clients, close to MedVault's health-data LLM pipeline and its privacy-focused design.",
+      "fit": 5,
+      "region": "us",
+      "people": [],
+      "contact_email": "sathvik@trainloop.ai",
+      "contact_name": "sathvik",
+      "contact_role": "engineer",
+      "red_flags": []
+    },
+    {
+      "id": "4f90bf7e40",
+      "relevant": true,
+      "summary": "Platform for investment clubs that pool member capital to buy investment properties, with the back office handled for them, including LLC compliance, bookkeeping, distributions and K-1s.",
+      "stack": [],
+      "hook": "Their 'How it works' section says members 'vote with your members on the fundamentals' and that most clubs 'finalize important votes within a day'.",
+      "angle": "medvault",
+      "angle_reason": "Fractional runs member accounts, votes and distributions for pooled real-estate investing, which maps to MedVault's Django REST backend with JWT auth and per-user isolation.",
+      "fit": 4,
+      "region": "us",
+      "people": [
+        {
+          "name": "Stella Han",
+          "role": "Founder"
+        },
+        {
+          "name": "Carlos Treviño",
+          "role": "Founder"
+        }
+      ],
+      "contact_email": "stella@fractional.app",
+      "contact_name": "Stella Han",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "511d03f9be",
+      "relevant": true,
+      "summary": "Building a new CAD system with a custom parametric, B-Rep CAD kernel tuned for modern CPUs and GPUs and a chat interface for designing parts, aimed at mechanical engineers.",
+      "stack": [],
+      "hook": "Their February 2026 launch post claims a part that takes 20 minutes in SolidWorks takes seconds in Aurorin, and their 'Every edit shouldn't break something' section names cascading downstream repairs as the core problem.",
+      "angle": "canopy",
+      "angle_reason": "A parametric CAD model is a dependency graph where one edit cascades into rebuilds, the same cross-reference resolution Canopy does on code call graphs.",
+      "fit": 7,
+      "region": "us",
+      "people": [
+        {
+          "name": "Michael Baron",
+          "role": "Founder/CEO"
+        }
+      ],
+      "contact_email": "mike.init246@gmail.com",
+      "contact_name": "Michael Baron",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "51613f676c",
+      "relevant": true,
+      "summary": "AEO/GEO platform for ecommerce and retail brands that tracks how their products appear in AI shopping answers, drafts the content work to improve them, and attributes revenue to those surfaces.",
+      "stack": [
+        "Shopify",
+        "BigCommerce",
+        "Salesforce",
+        "WooCommerce"
+      ],
+      "hook": "Their roadmap view shows agents drafting product-data enrichment and collection pages for the brand to approve, under the line 'Nothing publishes without you'.",
+      "angle": "medvault",
+      "angle_reason": "Wildcard's core is LLM-generated content tracked against AI platform answers, the same LLM pipeline with strict output handling that MedVault uses.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {
+          "name": "Kaushik Mahorker",
+          "role": "Founder/CEO"
+        }
+      ],
+      "contact_email": "kaushik@wild-card.ai",
+      "contact_name": "Kaushik Mahorker",
+      "contact_role": "Founder/CEO",
+      "red_flags": []
+    },
+    {
+      "id": "53a58c3067",
+      "relevant": true,
+      "summary": "Clinical software for health systems to launch genomic testing programs, covering patient triage, consent, lab ordering and EMR-integrated clinical decision support.",
+      "stack": [
+        "SMART on FHIR",
+        "FHIR APIs",
+        "HL7",
+        "SSO"
+      ],
+      "hook": "Their EHR integration section lists SMART on FHIR and FHIR APIs with HL7 and flat-file options, and says the platform is HIPAA-compliant and SOC 2 Type II.",
+      "angle": "medvault",
+      "angle_reason": "Nest handles patient data, consent and role-based access across EMR integrations, the same privacy and auth shape as MedVault's per-user isolation and JWT auth in a health-data product.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {
+          "name": "Moran Snir",
+          "role": "CEO & co-founder"
+        },
+        {
+          "name": "Guy Snir",
+          "role": "COO & co-founder"
+        },
+        {
+          "name": "Alkis Sellis",
+          "role": "Engineer"
+        },
+        {
+          "name": "Chris Gatzonis",
+          "role": "Engineer"
+        }
+      ],
+      "contact_email": "moran@nestgenomics.com",
+      "contact_name": "Moran Snir",
+      "contact_role": "CEO & co-founder",
+      "red_flags": []
+    }
+  ]
+}

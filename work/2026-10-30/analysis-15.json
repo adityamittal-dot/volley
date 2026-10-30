@@ -1,0 +1,191 @@
+{
+  "leads": [
+    {
+      "id": "faee3a3a1d",
+      "relevant": true,
+      "summary": "Orthogonal lets AI agents find, call and pay for third-party APIs such as web search, scraping and enrichment through one API, MCP server or CLI, billed from one balance. API providers list once and get paid per call.",
+      "stack": ["REST API", "MCP", "CLI", "x402"],
+      "hook": "your quickstart is one curl to api.orthogonal.com/v1/run that calls Apollo's company enrich endpoint through a single key and balance",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Django REST API with JWT auth and per-user isolation is the same kind of layer Orthogonal sells: one key and one balance in front of many providers.",
+      "fit": 7,
+      "region": "us",
+      "people": [],
+      "contact_email": "founders@orthogonal.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "fc18d42697",
+      "relevant": true,
+      "summary": "Guardian RF builds passive radiofrequency sensors that detect drones and geolocate their pilots, sold to US defense, law enforcement, utilities and campuses.",
+      "stack": [],
+      "hook": "your Scout page says a passive RF sensor can be up and detecting drones in 60 seconds, with LTE or LEO backhaul",
+      "angle": "medvault",
+      "angle_reason": "MedVault's backend and data-privacy handling is the closest match to a platform that streams sensitive detection data, though the overlap is weak.",
+      "fit": 3,
+      "region": "us",
+      "people": [
+        {"name": "Lucas Raskin", "role": "Founder/CEO"},
+        {"name": "John Andrzejewski", "role": "Founder/COO"},
+        {"name": "Eli Kerstein", "role": "Founder/CTO"}
+      ],
+      "contact_email": "contact@guardianrf.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "fe6c4db717",
+      "relevant": true,
+      "summary": "Salus is a runtime authorization layer for AI agents: a Python API wraps an agent's tool calls, checks policy and live evidence before the action runs, and returns exact fixes when it blocks one.",
+      "stack": ["Python", "OpenAI", "Anthropic", "LangChain", "LangGraph", "CrewAI", "AutoGen", "MCP"],
+      "hook": "your quickstart wraps an existing issue_refund tool with salus.protect(..., side_effect=True, risk='high'), and your demo holds a booking before it reaches the airline",
+      "angle": "medvault",
+      "angle_reason": "MedVault's safety rules that block diagnosis and prescription in model output are the same idea as Salus blocking unsupported agent writes before they execute.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {"name": "Vedant Singh", "role": "Founder & CEO"}
+      ],
+      "contact_email": "founders@usesalus.ai",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "c3c5d0d138",
+      "relevant": true,
+      "summary": "Zaymo makes interactive emails that let shoppers buy, swap or manage subscriptions inside the inbox for ecommerce brands, and is building AI agents that plan and run those brands' email marketing.",
+      "stack": ["MCP", "Claude", "AMP for email", "HTML/CSS", "Klaviyo"],
+      "hook": "your Ruff Greens case study says a subscription portal inside a Klaviyo billing reminder cut cancellations 15.8% in a 31,065-subscriber A/B test",
+      "angle": "medvault",
+      "angle_reason": "MedVault's LLM pipeline with a fixed output schema and a mockable client matches agents that write and QA on-brand campaigns from structured rules.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Brice Douglas", "role": "Founder/CEO"},
+        {"name": "Daniel Jones", "role": "Founder/CTO"}
+      ],
+      "contact_email": "daniel@zaymo.com",
+      "contact_name": "Daniel Jones",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "a7a426ba4e",
+      "relevant": true,
+      "summary": "Corvera is an AI sales agent for US CPG brands that ranks the accounts, stores and distributor gaps a sales team should work each day from distributor, retailer and ERP data, and drafts the outreach.",
+      "stack": [],
+      "hook": "your 'Ask in plain English' box returns a list, a dashboard or a Monday email, all read from one governed context layer",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Gemini pipeline that turns free text into a fixed JSON schema is close to turning a plain-English sales question into a ranked, structured answer over messy distributor data.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Christopher Kong", "role": "Founder/CEO"},
+        {"name": "Dirk Breeuwer", "role": "Founder/CTO"},
+        {"name": "Matthew Collins", "role": "Founder"}
+      ],
+      "contact_email": "dirk@corvera.ai",
+      "contact_name": "Dirk Breeuwer",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "ea6e04c41f",
+      "relevant": true,
+      "summary": "Zatanna reverse-engineers the network traffic behind web portals that have no public API and exposes each workflow as a stable, callable API that handles auth, MFA, sessions and retries.",
+      "stack": ["REST API"],
+      "hook": "your homepage says a human records a portal workflow once and you deploy its underlying requests as an endpoint",
+      "angle": "medvault",
+      "angle_reason": "MedVault's JWT auth with refresh-token rotation is the same session and token handling Zatanna has to get right behind every portal it wraps.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {"name": "Tarun Vedula", "role": "Founder/CEO"},
+        {"name": "Alex Blackwell", "role": "Founder/CTO"}
+      ],
+      "contact_email": "alex@zatanna.ai",
+      "contact_name": "Alex Blackwell",
+      "contact_role": "Founder/CTO",
+      "red_flags": []
+    },
+    {
+      "id": "07e23cb82c",
+      "relevant": true,
+      "summary": "Reason builds an AI coding agent that takes a task from issue to finished pull request, runs on schedules or from Slack alerts, and is offered as a Mac app, web app, CLI and REST API with about 100 integrations.",
+      "stack": ["REST API", "CLI", "Slack"],
+      "hook": "your demo takes a Slack report of a double-boost bug through to merged PR #212 with a new regression test",
+      "angle": "canopy",
+      "angle_reason": "Canopy's repo-to-call-graph analysis is the code-understanding layer a coding agent needs before it can change a function and open a PR.",
+      "fit": 8,
+      "region": "us",
+      "people": [
+        {"name": "Adi Singh", "role": "Cofounder"},
+        {"name": "Sven Myhre", "role": "Co-founder"}
+      ],
+      "contact_email": "mail2adi@icloud.com",
+      "contact_name": "Adi Singh",
+      "contact_role": "Cofounder",
+      "red_flags": []
+    },
+    {
+      "id": "07d4b99114",
+      "relevant": true,
+      "summary": "Resquared is a sales platform for reaching local businesses, with a database of 14M+ businesses, AI-written outreach and managed sending domains.",
+      "stack": [],
+      "hook": "your Database page says 14M+ local businesses with verified emails and phone numbers, and that 12.6M of them could not be reached with other tools",
+      "angle": "medvault",
+      "angle_reason": "MedVault's Django backend with per-user isolation and LLM-generated text is close to a multi-tenant sales product that drafts personalized outreach with AI.",
+      "fit": 5,
+      "region": "us",
+      "people": [
+        {"name": "Griffin Morris", "role": "Founder"},
+        {"name": "Tyler Carlson", "role": "Founder"}
+      ],
+      "contact_email": "griffin@re2.ai",
+      "contact_name": "Griffin Morris",
+      "contact_role": "Founder",
+      "red_flags": []
+    },
+    {
+      "id": "0850a71575",
+      "relevant": true,
+      "summary": "Blissway makes roadside tolling hardware, the WAL-E wireless lane enforcer, and cloud analytics for toll agencies, as a replacement for gantries and windshield transponders.",
+      "stack": [],
+      "hook": "your homepage says the WAL-E tolling system is guaranteed to perform at or better than existing roadside toll collection",
+      "angle": "medvault",
+      "angle_reason": "Weak match: MedVault's Django backend and per-user data isolation are the closest fit to a cloud analytics platform for toll agencies.",
+      "fit": 3,
+      "region": "us",
+      "people": [
+        {"name": "Francisco Torrealba", "role": "Founder"},
+        {"name": "Felipe Kettlun", "role": "Founder"}
+      ],
+      "contact_email": "hello@blissway.com",
+      "contact_name": "",
+      "contact_role": "",
+      "red_flags": []
+    },
+    {
+      "id": "0ec20fc84d",
+      "relevant": true,
+      "summary": "GrowthBook is an open-source platform for feature flags, A/B experiments and product analytics that runs on a company's own data warehouse, offered as cloud or self-hosted.",
+      "stack": ["SQL", "MCP", "REST API"],
+      "hook": "your 5.1 release added an MCP server, a Slack app and contextual bandits in one go",
+      "angle": "canopy",
+      "angle_reason": "GrowthBook is open-source developer tooling that reads customer data, the same kind of parsing, caching and platform work Canopy does.",
+      "fit": 6,
+      "region": "us",
+      "people": [
+        {"name": "Jeremy Dorn", "role": "engineer"}
+      ],
+      "contact_email": "jeremy@growthbook.io",
+      "contact_name": "Jeremy Dorn",
+      "contact_role": "engineer",
+      "red_flags": []
+    }
+  ]
+}
