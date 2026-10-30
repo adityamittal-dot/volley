@@ -1,0 +1,311 @@
+{
+ "leads": [
+  {
+   "id": "7ee8ead85d",
+   "company": "Dedalus Labs",
+   "website": "https://www.dedaluslabs.ai/",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Persistent computers for AI agents Dedalus Labs builds persistent compute for AI agents. Our flagship product, Dedalus Machines, gives agents isolated computers where they can run software, keep files and state, and do useful work over time. We build across virtualization, distributed storage, networking, scheduling, and orchestration. Our goal is to make persistent compute dependable and straightforward to use through APIs and developer tools, so developers can build agents that work with real software and maintain a working environment across sessions. Developer Tools, DevOps, Cloud Computing, Infrastructure, AI, B2B, Infrastructure, United States of America, America / Canada",
+   "site_text": "[https://www.dedaluslabs.ai/]\nFastest Persistent Computer for Agents | Dedalus Labs Backed by Y Combinator New Why we are building virtual machines for AI agents Why VMs for AI agents Command Palette Search for a command to run... Backed by Y Combinator New Why we are building virtual machines for AI agents Why VMs for AI agents Command Palette Search for a command to run... Backed by Y Combinator The Fastest Persistent Computer for Agents Join waitlist Docs $ curl -fsSL https://www.dedaluslabs.ai/install/dedalus | bash Full Linux machines in <50ms Machines that start in <50ms Full filesystem + memory preserved across sessions 0 cold starts Traditional sandbox 2.5s Pull image Start runtime Install deps Ready Dedalus Machines 50ms ~ 50 x faster Filesystem and runtime persist across sessions Only pay for active compute | No idle charges VM-level isolation. Safe for untrusted code. Full kernel, memory, and filesystem isolation Root access inside every sandbox Stronger boundaries than Docker or V8 isolates Isolation model Hardware Kernel VM Agent Comparison Dedalus VM Docker V8 Kernel isolation Memory boundary Filesystem isolation Root access Untrusted code safe Full Partial None Full Linux. Maximum flexibility. No cold-start tax | Billing based on active compute time Ready to ship? Your first machine is <50ms away Join the waitlist Read the Docs Backed by Y Combinator The Fastest Persistent Computer for Agents Join waitlist Docs $ curl -fsSL https://www.dedaluslabs.ai/install/dedalus | bash Full Linux machines in <50ms Machines that start in <50ms Full filesystem + memory preserved across sessions 0 cold starts Traditional sandbox 2.5s Pull image Start runtime Install deps Ready Dedalus Machines 50ms ~ 50 x faster Filesystem and runtime persist across sessions Only pay for active compute | No idle charges VM-level isolation. Safe for untrusted code. Full kernel, memory, and filesystem isolation Root access inside every sandbox Stronger boundaries than Docker or V8 isolates Isolation model Hardware Kernel VM Agent Comparison Dedalus VM Docker V8 Kernel isolation Memory boundary Filesystem isolation Root access Untrusted code safe Full Partial None Full Linux. Maximum flexibility. No cold-start tax | Billing based on active compute time Ready to ship? Your first machine is <50ms away Join the waitlist Read the Docs\n\n[https://www.dedaluslabs.ai/blog]\nBlog | Dedalus Labs Command Palette Search for a command to run... Command Palette Search for a command to run... Ideas, experiments, and playbooks, midflight All MCP Engineering Interviews Research Company Use Cases Editor's Picks Research From Today to A2A: Crossing the Imagination Chasm 99% of the most useful agents have not been built yet. Not because the tech isn't ready, but because the world still can't imagine what an agent-native future looks like. Here are six things we still need. Cathy Di Mar 25, 2026 Engineering Everyone is building agents. But what does that actually mean? It seems like everyone is building AI agents right now, yet no one really knows what an agent is. Here's what that actually means and how to build one. Cathy Di Mar 11, 2026 Company Introducing Dedalus Auth A multi-tenant auth layer that ensures MCP agents never handle raw secrets. Cathy Di, Windsor Nguyen Jan 19, 2026 All Posts Research From Today to A2A: Crossing the Imagination Chasm 99% of the most useful agents have not been built yet. Not because the tech isn't ready, but because the world still can't imagine what an agent-native future looks like. Here are six things we still need. Cathy Di Mar 25, 2026 Company Why we are building virtual machines for AI agents Cathy Di, Vitus Larrieu Jun 29, 2026 Engineering Everyone is building agents. But what does that actually mean? Cathy Di Mar 11, 2026 Company Introducing Dedalus Auth A multi-tenant auth layer that ensures MCP agents never handle raw secrets. Cathy Di, Windsor Nguyen Jan 19, 2026 Company We raised $11M to redefine how developers build AI ag",
+   "email_candidates": [
+    {
+     "email": "win@dedaluslabs.ai",
+     "where": "GitHub commits (dedalus-labs)",
+     "kind": "personal",
+     "name": "Windsor Nguyễn",
+     "commits": 42
+    },
+    {
+     "email": "shengming@dedaluslabs.ai",
+     "where": "GitHub commits (dedalus-labs)",
+     "kind": "personal",
+     "name": "Shengming Liang",
+     "commits": 4
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "82ae1b463b",
+   "company": "VideoGen",
+   "website": "https://videogen.io",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. Create professional videos in minutes with AI, online or via API VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Our AI video generator turns a prompt, script, or article into a finished video, complete with AI voiceover, subtitles, and b-roll, powered by the latest models like Seedance, Veo, ElevenLabs, and Kling. Today, over 5 million users trust VideoGen, from individuals and small businesses to teams at Google and ByteDance. Making videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks! Try it at https://videogen.io/, or build video into your own product with our API: https://videogen.io/videogen-api eLearning, Video, API, Marketing, AI Assistant, B2B, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://videogen.io/]\nVideoGen: AI Video Creation Platform Product ads Explainer videos AI UGC ads Content automation Learning & development Social media Localization Tutorial videos Video SEO & AEO Product demos New Introducing VideoGen Model 1 Generate videos at scale. Stay in control. One integrated platform for AI video creation. AI agents work with you at every step. Get started Trusted by over 5 million creators and teams “ VideoGen is awesome for scaling video production and improving turnaround time... The complex process of video editing, which could take days or months, now takes minutes! ” Ary Aranguiz Learning Manager, Google “ VideoGen solves the biggest pain points of video production—complexity, cost, and time. In just a few clicks, anyone can create professional, copyright-free videos. ” Garry Tan CEO of Y Combinator “ VideoGen is the most underrated tool for content creators who want to put out the highest quality content in the shortest amount of time. ” Andrew Yu 6M+ Followers Find your ideal workflow Storyboard to video Build it shot by shot ChatGPT Make a video in the chat Video to video Restyle a video you already have Premiere Finish the edit in Premiere Script to video Start from a written script Video editor Start with a blank editor API Create custom integrations Voiceover to video Start from a voiceover Automations Run it from Zapier Slides to video Turn a deck into a video Storyboard to video Build it shot by shot ChatGPT Make a video in the chat Video to video Restyle a video you already have Premiere Finish the edit in Premiere Script to video Start from a written script Video editor Start with a blank editor API Create custom integrations Voiceover to video Start from a voiceover Automations Run it from Zapier Slides to video Turn a deck into a video Storyboard to video Build it shot by shot ChatGPT Make a video in the chat Video to video Restyle a video you already have Premiere Finish the edit in Premiere Script to video Start from a written script Video editor Start with a blank editor API Create custom integrations Voiceover to video Start from a voiceover Automations Run it from Zapier Slides to video Turn a deck into a video Create your first video for free Get started\n\n[https://videogen.io/blog]\nAI Video Creation Blog | Guides, Tools & Trends | VideoGen AI video creation blog Explore practical guides to AI video tools, editing workflows, content strategy, and video marketing. Authors Anton Koenig David Grossman Jason Yang Merhannah A. Richard D. SL Savannah Luy Oct 23, 2026 Made with Model 1: how to get your AI film seen, and how VideoGen will help Join the VideoGen Model 1 Creator Program. Credit Model 1, send us your film, and we co-promote the best ones. Plus every festival, curator, platform, and press outlet worth sending your AI film to. Anton Koenig CEO @ VideoGen Oct 9, 2026 Does Higgsfield AI have an app: Complete User Guide Does Higgsfield AI have an app? Higgsfield is a web app, its official phone app is Diffuse, and its tools also run inside a VideoGen project. Merhannah A. Author Oct 9, 2026 Higgsfield Moodboard: How to Use in VideoGen Learn how to use Higgsfield AI Moodboards in Soul 2.0, which reference images work, and how to get the same consistent look in a VideoGen project. David Grossman CTO @ VideoGen Oct 9, 2026 How AI Removes Filler Words in Video Editing How video editing AI removes filler words: word timestamps, context-aware detection, editable cuts, and the VideoGen settings that control it. Richard D. Author Oct 9, 2026 How to Access Seedance 2.0: AI Video Generation Four ways to access Seedance 2.0 AI video generation: Dreamina, CapCut, developer APIs, and VideoGen. Steps to use Seedance AI with no ByteDance account. Anton Koenig CEO @ VideoGen Oct 9, 2026 How to Create AI Avatar Video with HeyGen Make a HeyGen AI avatar video two ways: directly in HeyGen, or inside a VideoGen project where the avatar sits beside product shots, captions, and music. Merhannah A",
+   "email_candidates": [
+    {
+     "email": "info@videogen.io",
+     "where": "https://videogen.io/contact",
+     "kind": "generic"
+    },
+    {
+     "email": "anton@videogen.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Anton Koenig",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "david@videogen.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "David Grossman",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "8337b829fa",
+   "company": "Circleback",
+   "website": "https://circleback.ai",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. AI-powered meeting notes and automations Circleback helps teams get the most out of every conversation with best-in-class AI-powered meeting notes, action items, automations, and search. For example, Circleback can automatically identify feature requests that come up in product demo calls and create Linear tasks for each of them, or update your CRM with customer details after a sales call. Before Circleback, Ali led the first integration of LLMs into the Stripe support product and Kevin worked on predictive analytics at Tableau as a senior software engineer. B2B, Productivity, United States of America, America / Canada",
+   "site_text": "[https://circleback.ai/]\nCircleback - AI Notetaker, Automations, and Company Brain Log in Sign up Unbelievably good meeting notes AI-powered notes, action items, automations, and search. 500+ testimonials Backed by Y Combinator TechCrunch Get Circleback free Loved by people at Get the most out of every meeting Circleback captures and organizes context from your conversations, so you can focus on what matters most. Meticulous, organized notes Notes a perfectionist would be proud of. Written for you automatically. Try Turn meetings into action Action items are automatically captured, assigned, and organized after every meeting. Try Automate your meeting work Stay perfectly connected across your apps. Catch the insights you need and automate your workflow. Try Search across all your meetings Ask questions and get answers drawn from every conversation you’ve had. Try State-of-the-art transcription accuracy Technical-term and accent accuracy, with each speaker automatically identified by name. Over 100 languages supported. Try Security Private and secure Built with best-in-class security practices to keep your data private and secure. Visit security.circleback.ai Circleback feels unusually magical . It gives me a sense of safety that I won’t drop things I owe people. I just trust it, absolutely. That speaks to the quality of the experience. Siqi Chen Founder & CEO, Runway Connect your favorite apps Google Calendar Connect your Google Calendar to record meetings. Gmail Connect your Gmail to see context from emails. Outlook Connect your calendar and email to record meetings and see emails. API Access everything Circleback captures from your meetings. MCP Connect other AI apps like ChatGPT, Claude, Cursor, and more to Circleback. CLI Access Circleback data from the command line and give AI agents conversation context. Webhook Access all meeting data and build custom integrations. Slack Send notes with automations and ask Circleback questions in Slack. Notion Automatically update pages and databases after meetings, or ask Circleback to search Notion, create pages, update databases, and more. Linear Automatically create issues from meetings, or ask Circleback to search Linear, update issues, manage projects, and more. HubSpot Automatically update contacts and deals after meetings, or ask Circleback to search HubSpot, create or update records, and more. Salesforce Automatically update contacts and opportunities after meetings. Attio Automatically update people, companies, and deals after meetings, or ask Circleback to search Attio, create records, update anything, and more. Asana Ask Circleback to search Asana, create and edit tasks, add comments, manage projects, and more. PostHog Ask Circleback to search product events, dashboards, feature flags, and more. Ashby Ask Circleback to search Ashby, create candidates, add notes, and update applications. Intercom Ask Circleback to search contacts, companies, and conversations, and update articles. Plain Ask Circleback to search threads, customers, and tenants, reply to and triage threads, and update articles. Zoho Automatically update contacts after meetings. Monday Automatically update boards with action items after meetings. Zapier Automatically update any app via Zapier after meetings. Make Automatically update any app via Make.com after meetings. What customers say Garry Tan @ garrytan · Follow Circleback is the best AI note taker in my book. It’s action and todos tracking is the best in class. If you haven’t tried it yet it’s now on desktop and mobile Peter Kazanjy @ Kazanjy · Follow Circleback does, in fact, produce uncommonly good meeting summaries. Alex Blaxx @ AlexBlaxx · Follow Blown away with @circlebackai after two meetings. Better notes than I've ever taken myself in over 500+ sales meetings. @attio integration a bonus. Lola 🧱 - Lunch Pail Labs @ ojabowalola · Follow I used to avoid consulting calls and preferred async everything. But with @circlebackai : -> Every call gets a sha",
+   "email_candidates": [
+    {
+     "email": "startups@circleback.ai",
+     "where": "https://circleback.ai/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "84cb991751",
+   "company": "Carma",
+   "website": "https://www.joincarma.com/",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. The AI Operating System For Modern Fleets. Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows. We’re the fastest-growing company in fleet management software. Carma already powers some of the largest fleets in the U.S., including Fortune 500 clients, saving operations teams thousands of hours by eliminating busywork and keeping vehicles on the road. Backed by Soma Capital, Y Combinator, founders of Superhuman, and Tier-1 investors, we raised our $5.5M seed and are sprinting toward a Series A in 2026. We’re hiring the top 0.1% of engineers who want real ownership and impact—starting Day 1, you’ll build and ship fast to production for enterprise clients. Fleet operations run in real time, so your work is immediately used in the field and gets real customer feedback in hours, not months. B2B, Workflow Automation, Compliance, AI, Automotive, B2B, Operations, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.joincarma.com/]\nCarma | The AI workspace that runs construction operations Meet Adam, your AI operator. Find your profit leaks in 24 hours â How Carma works Results Private equity Sign in Find your profit leaks How Carma works Results Private equity Sign in Find your profit leaks Meet Adam, your AI operator. Find your profit leaks in 24 hours â Finish projects faster. Win more work. Carma is the AI workspace where your team and Adam, your AI operator, run every machine and job for profit. Find your profit leaks See Adam run a breakdown In service / WO-904612 Work Order 904612 In Service 214 Â· 2021 Caterpillar 336 6-person crew waiting ADAM RECOMMENDS Send the mobile technician today. The repair costs $1,000 more but saves $7,200 in idle crew time. Mobile repair Â· today Crew back by 4:00 PM $6,480 total cost Shop repair Â· tomorrow $5,480 repair + $7,200 idle crew $12,680 total cost Needs your approval Not now Approve 0% more operating profit 0% less time coordinating each repair 0% less equipment downtime Trusted by the contractors building Americaâs data centers. In service / WO-904612 Work Order 904612 In Service 214 Â· 2021 Caterpillar 336 6-person crew waiting ADAM RECOMMENDS Send the mobile technician today. The repair costs $1,000 more but saves $7,200 in idle crew time. Mobile repair Â· today Crew back by 4:00 PM $6,480 total cost Shop repair Â· tomorrow $5,480 repair + $7,200 idle crew $12,680 total cost Needs your approval Not now Approve 0% more operating profit 0% less time coordinating each repair 0% less equipment downtime Trusted by the contractors building Americaâs data centers. In service / WO-904612 Work Order 904612 In Service 214 Â· 2021 Caterpillar 336 6-person crew waiting ADAM RECOMMENDS Send the mobile technician today. The repair costs $1,000 more but saves $7,200 in idle crew time. Mobile repair Â· today Crew back by 4:00 PM $6,480 total cost Shop repair Â· tomorrow $5,480 repair + $7,200 idle crew $12,680 total cost Needs your approval Not now Approve 0% more operating profit 0% less time coordinating each repair 0% less equipment downtime Trusted by the contractors building Americaâs data centers. One broken machine stops every crew behind it. Then your team spends 3 hours on calls, quotes, and approvals while the crew waits. Adam, your AI operator, takes on the coordination. Adam, your AI operator, takes on the coordination. Carma replaces legacy ops software and disparate point solutions. Adam plans, checks, and tracks the work behind every machine. Carma replaces legacy ops software and disparate point solutions. Adam plans, checks, and tracks the work behind every machine. Create Work Order Home Action Center 60 Service 230 Assets Parts Payroll Analytics Utilities Admin View Team Status Clock In Service Ask Adam Work Orders Invoicing Service Catalog Service Providers Search work orders, asset ID, VIN, make Active History Board List Awaiting Drop-off 60 WO-904633 4417 Â· 2017 Altec DM47-TR Boom lost lifting power mid-set. Mobile technician 10/27/26 13:30 WO-904652 2208 Â· 2019 John Deere 750K Track tension low. Ridgeline Truck & Equipment 10/27/26 08:00 WO-904649 5512 Â· 2018 Peterbilt 567 Air leak at rear axle. Northgate Diesel 10/28/26 10:30 WO-904661 3391 Â· 2021 Vermeer D24x40 S3 Drill rod wrench leaking. North Yard shop 10/28/26 13:00 Arrived / Not in Service 30 WO-904640 Arrived Parts ready 80217 Â· 2022 Ford F350 Brake pads worn past spec. North Yard shop JR WO-904637 Arrived 6620 Â· 2016 Kenworth T880 Coolant leak at radiator. Northgate Diesel 10/27/26 09:15 WO-904645 Arrived Needs parts 7731 Â· 2020 Freightliner M2 106 Liftgate wonât raise. North Yard shop KT WO-904643 Arrived 1290 Â· 2022 Bobcat T770 Quick coupler sticking. Ridgeline Truck & Equipment 10/27/26 11:00 Diagnostics / In Service 140 WO-904598 In Service Needs parts 31 Â· 2020 Caterpillar 950M Stopping an 8-person crew on Job 1187 North Yard shop Timer MR WO-904612 In Service 214 Â· 2021 Caterpillar",
+   "email_candidates": [
+    {
+     "email": "muhammad@joincarma.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Muhammad Alasgarli",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "suleyman@joincarma.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Suleyman Alasgarli",
+     "role": "Founder/CRO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "89168885e1",
+   "company": "Capitol AI",
+   "website": "https://www.capitol.ai/",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "Washington, DC, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 11. Capitol: the sovereign operating system for intelligence. Capitol AI is building a sovereign operating system for intelligence, designed for regulated, high-stakes institutions such as professional services firms, financial services, and government agencies. These organizations are overwhelmed by data and experimenting with generic AI tools that lack auditability, repeatability, and secure deployment. As a result, critical decisions are increasingly shaped by systems they do not fully control. Capitol runs entirely inside enterprise infrastructure and transforms proprietary data into structured, decision-grade artifacts such as due diligence reports, regulatory documentation, and executive intelligence. The platform is model-agnostic, fully auditable, and operates with no data egress, giving institutions durable control over their data, workflows, and standards. AI-Enhanced Learning, Workflow Automation, Analytics, Media, AI, B2B, Productivity, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.capitol.ai/]\nCapitol AI â Clarity on Command Clarity on Command Clarity on Command A control plane for decision-grade consulting. Your institutionâs data, expertise, and workflows, encoded in one place for repeatable, defensible work. A control plane for decision-grade consulting. Your institutionâs data, expertise, and workflows, encoded in one place for repeatable, defensible work. Request a Demo Request a Demo Explore Features Capitol AI's platform codifies an institutionâs proprietary data, expertise, and processes into governed workflows that produce finished work products within the customerâs environment. Rather than simply generating content, Capitol helps teams consistently execute complex, knowledge-intensive work. Each deployment improves and reinforces those workflows, creating a compounding product advantage as usage grows. Capitol AI's platform codifies an institutionâs proprietary data, expertise, and processes into governed workflows that produce finished work products within the customerâs environment. Rather than simply generating content, Capitol helps teams consistently execute complex, knowledge-intensive work. Each deployment improves and reinforces those workflows, creating a compounding product advantage as usage grows. PARTNERS: PARTNERS: PARTNERS: PARTNERS: Governed data. Securely use approved data where it already lives instead of moving files into one-off chats. Institutional workflows. Turn individual methods into canonical workflows the whole organization can run, review, and improve. Model independence. Connect data, models, and tools without tying your operating model to a single closed ecosystem. Defensible artifacts. Produce finished work with sources, steps, approvals, evaluations, and human review built in. Make your data usable without losing control. Use your data on your terms. Capitol connects the sources your teams already use, then prepares the data, governs access, and preserves lineage before it enters a workflow. Proprietary context stays secure, controlled, traceable, and auditable. Connect every source Bring together internal systems, repositories, data rooms, documents, databases, spreadsheets, archives, public sources, and live research. Work with structured & unstructured data Use files, filings, transcripts, records, tables, archives, and systems that were never designed to work together. Prepare data for reliable AI work Normalize formats, reconcile fragmented inputs, and turn messy information into workflow-ready context. Control access by source and workflow Build visibility and security by setting who and what can use each source by role, team, workflow, or agent. Keep lineage intact Trace outputs back to the sources, data, steps, and decisions that produced them. Govern usage, access, and cost See which workflows use which data, who can run them, and what each workflow costs. Govern how AI works inside your walls. Control how AI works inside your walls. Govern how AI works inside your walls. Capitol gives teams clear control over data, workflow logic, models, tools, reviews, approvals, costs, and outputs. Your organization owns the process, not the model provider. Capitol gives teams control over every layer: data, workflow logic, models, tools, reviews, approvals, costs, and outputs. The process belongs to your organization, not to the model provider. Capitol gives teams clear control over data, workflow logic, models, tools, reviews, approvals, costs, and outputs. Your organization owns the process, not the model provider. Data control Run secure workflows on approved sources, inside your environment, with access controls and lineage already built in. Workflow control Define the steps, rules, tools, model calls, review points, approvals, and final outputs. Model control Route each step to the best model, optimize cost, speed, and quality, and switch anytime with no lock-in. Infrastructure for institutional intelligence. More Ways To Work Capit",
+   "email_candidates": [
+    {
+     "email": "contact@capitol.ai",
+     "where": "https://www.capitol.ai/blog/why-capitol-ai-built-the-prop-40-tracker",
+     "kind": "generic"
+    },
+    {
+     "email": "shaun@capitol.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Shaun Modi",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "thomas@capitol.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "thomas hallaran",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "8bec014630",
+   "company": "Rinse",
+   "website": "http://www.rinse.dental",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. We're building the One Medical for dental Rinse is building the One Medical for dental. Beautiful studios, easy to book same day appointments, and anxiety-free care focused on prevention, not the upsell. Consumer Health Services, Digital Health, Telemedicine, Primary Care, Healthcare, Consumer Health and Wellness, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.rinse.dental/]\nRinse Dental | Hi-Tech, Prevention Focused Dentist | Serving San Francisco's Marina, Cow Hollow, Nob Hill, Pacific Heights, Russian Hill, and Presidio Neighborhoods BOOK TO EARN YOUR FREE WHITENING! Thanks to a friend, when you book and complete your first Dental Checkup, you and your friend will earn an account credit good for one free professional whitening treatment . BOOK NOW GET A FREE WHITENING WITH YOUR CLEANING! BOOK Book MODERN MOUTH CARE Easy to book dental care focused on prevention, not the upsale. Book a Visit Next: Tuesday, 10/24 · 10:00 am The small print A new, modern studio experience An anxiety free, state-of-the-art dental experience you'll actually enjoy. Book every visit, instantly. Routine, urgent, and everything in-between. All online or in the Rinse iOS app. Personalized, preventive care Modern diagnostics to help you understand, prevent, even reverse issues before they need a dentist and the drill. Love from our patients \"Rinse might be the most state of the art and friendliest dental office on the planet.\" - George H. \"I just had my first cleaning at Rinse after an embarrassingly long time since my last appointment (I'm blaming the pandemic for messing up my schedule) -- and I can't say enough great things about the staff at Rinse!\" - Teresa R. \"From the music to the vibes to the staff - hands down best dentist experience I’ve had (and let me tell you, I’ve had many)\" - Hope S. \"I had a great experience at Rinse (honestly the best dental experience I’ve had). Everyone was very friendly and welcoming. The office was super clean and modern, and I loved getting to watch TV on Netflix while getting my teeth cleaned.\" - Jenna K. \"10/10 recommend (coming from someone with dental anxiety)!! I had a great experience here. Everyone was super friendly and it was easy to schedule an appointment (they also text for rescheduling too).\" - Julia B. \"I LOVE Rinse dental! They are so professional, such a premium/luxury feel, affordable, fast, friendly, high quality work… I could go on! I highly recommend.\" - Greta M. \"Hands down the best dentist experience I've ever had! From the easy online booking the friendly, informative staff to the fun gift bag at checkout, Rinse is unlike any dentist I've ever been to!\" - Annie S. \"The office is amazing!\" - Max K Backed by Career Terms Privacy Policy ⓒ Rinse 2026\n\n[https://www.rinse.dental/about]\nAbout Us | A fresh take on dental GET A FREE WHITENING WITH YOUR CLEANING! BOOK Book About us tldr; We combine science, tech and hospitality to make your routine mouth care easy, awesome, and way more effective. We get it... going to the dentist kinda sucks, and if you dig a little deeper you’ll start to understand why. It's a fragmented industry full of antiquated tech, outdated science, and financial incentives that bias dentists towards that expensive (and painful) treatment we’d all rather avoid. At Rinse, we’re not interested in an incrementally better approach to dentistry... we're on a mission to remake it. From a state of the art, judgement free studio experience to the highest standards of care, we're committed to helping you prevent otherwise preventable issues. We call this -- modern mouth care. What can you expect as a Rinse patient? Online booking for every visit (not just your first) Modern science and tech, like 3D x-rays and digital imaging An amazing in-studio experience with noise cancelling headphones and most major streaming services Personalized, preventive care...because crowns and root canals suck tbh Free 30-min professional whitening with every cleaning The Team Dr. Lena Al-Farra Managing Dentist | Care Lead Dr. Lena Al-Farra (aka Dr. Lena) leads the clinical team at Rinse. A dental nerd at heart, Dr. Lena is incredibly passionate about prevention and using leading edge tech and techniques to help improve her patients oral health. ‍ Dr. Lena trained at UT Health San Antonio — one of the top-ranked dental schools in the country — and ",
+   "email_candidates": [
+    {
+     "email": "hello@rinse.dental",
+     "where": "https://www.rinse.dental/",
+     "kind": "generic"
+    },
+    {
+     "email": "casey@rinse.dental",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Casey Harlin",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "8f5cc295ca",
+   "company": "Dataleap",
+   "website": "https://dataleap.ai/",
+   "title": "Working Student/Intern",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Working Student/Intern (San Francisco, CA, US / Munich, BY, DE / Munich, Bavaria, DE / Remote; experience: Any (new grads ok); US citizenship/visa not required). Team size: 6. AI Employees for the Enterprise At Dataleap we have one single focus - make knowledge work at your computer fun! Give all the other roles in sales, ops, hr the same super powers that engineers get with Cursor and Claude Code. Dataleap is the agentic operating system for the Enterprise. We enable business teams to automate they work without any help from engineering. No visual workflow builder, no hour long setup or steep learning curve in n8n. Build your AI coworkers in minutes with a fully agent first interface. Generative AI, Enterprise Software, AI, B2B, United States of America, America / Canada",
+   "site_text": "[https://www.dataleap.ai/]\nTitle: Dataleap | The Agentic Operating System for Enterprises\n\nURL Source: https://www.dataleap.ai/\n\nMarkdown Content:\n[![Image 5: Dataleap](https://www.dataleap.ai/asset/dataleap-text.svg)](https://www.dataleap.ai/)\n\n[Contact Us](https://www.dataleap.ai/contact-us)\n\n[Login](https://app.dataleap.ai/login)[Sign up](https://app.dataleap.ai/signup)\n\n# The Agentic Operating   \n System for Enterprises\n\n## We build AI employees, and the system to orchestrate them.\n\n[Create your first agent](https://app.dataleap.ai/signup)[Talk to us](https://calendly.com/jandamm/meeting-30-min-all)\n\n[![Image 6: Caronsale](https://www.dataleap.ai/customer-icons/caronsale.svg)](https://www.dataleap.ai/customer/caronsale)[![Image 7: Egym](https://www.dataleap.ai/customer-icons/egym.svg)](https://www.dataleap.ai/customer/egym)![Image 8: Finn](https://www.dataleap.ai/customer-icons/finn.svg)![Image 9: Limehome](https://www.dataleap.ai/customer-icons/limehome.svg)[![Image 10: Sennder](https://www.dataleap.ai/customer-icons/sennder.svg)](https://www.dataleap.ai/customer/sennder)\n\nBusiness users build powerful agents,\n\nEvery Monday at 1pm\n\n### Candidate Sourcing Specialist\n\n![Image 11: LinkedIn](https://www.dataleap.ai/icons/linkedin.svg)\n\n![Image 12: Heyreach](https://www.dataleap.ai/icons/heyreach.svg)\n\n![Image 13: Gong](https://www.dataleap.ai/icons/gong.svg)After call ends\n\n### Revenue Operations Assistant\n\n![Image 14: Gong](https://www.dataleap.ai/icons/gong.svg)\n\n![Image 15: Salesforce](https://www.dataleap.ai/icons/salesforce.svg)\n\n![Image 16](https://www.dataleap.ai/icons/slack.svg)New request in #support\n\n### Service Desk Operator\n\n![Image 17: Slack](https://www.dataleap.ai/icons/slack.svg)\n\n![Image 18: ServiceNow](https://www.dataleap.ai/icons/servicenow-pd.svg)\n\n![Image 19: Okta](https://www.dataleap.ai/icons/okta-pd.svg)\n\n![Image 20: Confluence](https://www.dataleap.ai/icons/confluence.svg)\n\nEvery weekday at 9am\n\n### Customer Insights Analyst\n\n![Image 21: Snowflake](https://www.dataleap.ai/icons/snowflake.svg)\n\n![Image 22: LinkedIn](https://www.dataleap.ai/icons/linkedin.svg)\n\n![Image 23: Slack](https://www.dataleap.ai/icons/slack.svg)\n\n![Image 24](https://www.dataleap.ai/icons/slack.svg)New messages in #bugs\n\n### Bug Triage Specialist\n\n![Image 25: Jira](https://www.dataleap.ai/icons/jira.svg)\n\n![Image 26: Slack](https://www.dataleap.ai/icons/slack.svg)\n\n![Image 27: GitHub](https://www.dataleap.ai/icons/github.svg)\n\nGovernance Layer checking permission budget available« requesting logging »\n\nGranular Permission 4\n\n![Image 28: Slack](https://www.dataleap.ai/icons/slack.svg)Search Messages\n\n![Image 29: Confluence](https://www.dataleap.ai/icons/confluence.svg)Search Content\n\n![Image 30: ServiceNow](https://www.dataleap.ai/icons/servicenow-pd.svg)Read Tickets\n\n![Image 31: Okta](https://www.dataleap.ai/icons/okta-pd.svg)Update User\n\nBudget\n\n$37.50/ $50.00\n\nResets in 3 days 75% Used\n\nTool Request Pending\n\nService Desk Operator wants to use![Image 32: Okta](https://www.dataleap.ai/icons/okta-pd.svg)Update User\n\nDeny Approve\n\n19:37:02\n\n![Image 33: Slack](https://www.dataleap.ai/icons/slack.svg)\n\nSlack\n\nSearch Messages\n\nsuccess\n\n19:37:02\n\n![Image 34: ServiceNow](https://www.dataleap.ai/icons/servicenow-pd.svg)\n\nServiceNow\n\nRead Tickets\n\nsuccess\n\n19:37:02\n\n![Image 35: Confluence](https://www.dataleap.ai/icons/confluence.svg)\n\nConfluence\n\nSearch Content\n\nsuccess\n\n19:37:02\n\n![Image 36: Okta](https://www.dataleap.ai/icons/okta-pd.svg)\n\nOkta\n\nUpdate User\n\naccess denied\n\nBudget\n\n$37.50/ $50.00\n\nResets in 3 days 75% Used\n\nGranular Permission 4\n\n![Image 37: Slack](https://www.dataleap.ai/icons/slack.svg)Search Messages\n\n![Image 38: Confluence](https://www.dataleap.ai/icons/confluence.svg)Search Content\n\n![Image 39: ServiceNow](https://www.dataleap.ai/icons/servicenow-pd.svg)Read Tickets\n\n![Image 40: Okta](https://www.dataleap.ai/icons/okta-pd.svg)Update User\n\n19:37:02\n\n![Image 41: Slack](https://www.dataleap.ai/icons/slack.svg)\n\nSlack",
+   "email_candidates": [
+    {
+     "email": "jan@dataleap.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jan Damm",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "janhendrik@dataleap.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jan-Hendrik Ruettinger",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "94ebe8a953",
+   "company": "Truss",
+   "website": "https://trusspayments.com",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 12. Truss is a banking and payments network for blue-collar trades. Truss is an all-in-one banking and payment automation platform for construction businesses. With Truss, construction companies can manage bill payments, receivables, and corporate cards in one place. They can save time on manual data entry by integrating Truss with their existing tools and automating the full billing cycle, from invoicing and reconciliation. Fintech, Payments, Construction, Fintech, Banking and Exchange, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://trusspayments.com/]\nTruss | Banking built for construction Homepage EN LOGIN Get Started Construction banking built right Construction banking Truss is a financial technology company and is not an FDIC-insured bank. Banking services provided by Thread Bank, Member FDIC. * built right. Truss is a financial technology company and is not an FDIC-insured bank. Banking services provided by Thread Bank, Member FDIC.* Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Money in, fast. GET PAID Invoices out. Simple as that. Pay Subs & Vendors Bills, handled. Simple as that. Pay Subs & Vendors No monthly fees Free check service Free ACH payouts No BS, straight up. WHY TRUSS Backed by builders. Matt Risinger Risinger Build Matt Risinger Matt Risinger Jake Bruton Owner of Aarow Building Jake Bruton Jake Bruton René Ayala Daylight Concepts René Ayala René Ayala Craig Mauer Silver Peak Design Build Craig Mauer Set the limits. Unlimited crew cards. Truss is a financial technology company and is not an FDIC-insured bank. Banking services provided by Thread Bank, Member FDIC.* CHARGE CARDS Your books, synced. For bookkeepers Payment delays no more. BANKING The right tool for the job The right tool for the job. Get Started FREE Book a Demo Get started free Book a demo\n\n[https://trusspayments.com/blog]\nTruss | Blog Homepage EN LOGIN Get Started The Jobsite Journal. Straight talk on construction finance for the modern contractor. Thank you for subscribing! Our team will get back to you soon. Oops! Something went wrong while submitting the form. Industry Insights How to Implement Progress Payments for Your Construction Business Read story Popular reads. Company Announcements Truss Partners with Thread Bank to Enhance Banking Solutions for Construction Companies Read story Truss Partners with Thread Bank to Enhance Banking Solutions for Construction Companies Company Announcements New look, new style, new name – same great product. Read story New look, new style, new name – same great product. Company Announcements Introducing Truss Card Rewards: Transforming the Way Contractors Spend and Earn Read story Introducing Truss Card Rewards: Transforming the Way Contractors Spend and Earn Explore by topic. Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Industry Insights Scaling Your Trades Business: Picking Project Management Software Read story Scaling Your Trades Business: Picking Project Management Software Industry Insights Product Updates Introducing Multi-Account: Separate Money, One Truss Login Read story Introducing Multi-Account: Separate Money, One Truss Login Product Updates Product Updates Pay Multiple Bills at Once: Introducing Multi-Bill Payments Read story Pay Multiple Bills at Once: Introducing Multi-Bill Payments Product Updates Industry Insights Beyond the Blueprint: Agile Finance for Your Construction Business in 2026 Read story Beyond the Blueprint: Agile Finance for Your Construction Business in 2026 Industry Insights Industry Insights Year-End Financial Checklist for Contractors 2025 Read story Year-End Financial Checklist for Contractors 2025 Industry Insights Industry Insights How Construction Contractors Can Eliminate Payment Delays and Get Paid 10+ Days Faster Read story How Construction Contractors Can Eliminate Payment Delays and Get Paid 10+ Days Faster Industry Insights Industry Insights The Contractor's Guide to Surviving Thanksgiving Week (Without Losing Money or Your Mind) Read story The Contractor's Guide to Surviving Thanksgiving Week (Without Losing Money or Your Mind) Industry Insights Industry Insights The 10-Day Check Problem: How Mail Delays Are Costing Contractors Thousands Read story The 10-Day Check Problem: How Mail Delays Are Costing Contractors Thousands Industry Insights Industry Insights 5 Cash Flow Killers Every Contractor Faces (And How to Fix Them) Read story 5 Cash Flow Killers Every Contractor",
+   "email_candidates": [
+    {
+     "email": "matthew@trusspayments.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "matthew smith",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "9bb7179748",
+   "company": "Openbenchmarks",
+   "website": "https://openbenchmarks.com",
+   "title": "Engineering (YC Fall 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 4. We help humans & agents pick tools via Independent Benchmarks Openbenchmarks runs open, independent benchmarks across APIs, vendors and tools. Helping teams fairly evaluate vendors. We offer private benchmarking & analytics tools to help you measure your product against competitors, see exactly where you fall short, and fix it. Artificial Intelligence, SaaS, B2B, SEO, B2B, Marketing, United States of America, America / Canada",
+   "site_text": "[https://openbenchmarks.com/]\nOpenbenchmarks /companies/enrich /v5/company/enrich /api/v3/extended_companies/{domain} /api/v1/mixed_companies/search /v1/businesses/match /v1/responses /v2/enrich/company /bulk_enrich Backed by Y Combinator Open benchmarks Independent benchmarks for build-vs-buy decisions. Last run on 25 Oct 2026 Benchmarks Web Search for AI Web Search APIs benchmarked across three tasks: factual lookup, hard retrieval, and multi-hop search. factual lookup Most accurate Exa fast 99.3% Fastest Parallel turbo 348 ms Lowest cost TinyFish Free hard retrieval · search only Most tasks Perplexity 77.3% Fastest Perplexity 18.3 s Lowest cost TinyFish $0.035 hard retrieval · search + fetch Most tasks Exa deep 83.0% Fastest Perplexity 21.5 s Lowest cost TinyFish $0.050 multi-hop · search only Leads F1 Parallel basic 46.5 Fastest Brave Search 43.5 s Lowest cost TinyFish $0.212 multi-hop · search + fetch Leads F1 Exa deep 48.2 Fastest Brave Search 45.1 s Lowest cost TinyFish $0.219 open benchmark → Multi Turn Company Search Search APIs tested as tools for a research agent finding complete company sets across three- and four-part constraints. Ranked on precision, recall, F1, exact-set accuracy, latency, and cost. search only Leads F1 Parallel basic 46.5 Fastest Brave Search 43.5 s Lowest cost TinyFish $0.212 search + fetch Leads F1 Exa deep 48.2 Fastest Brave Search 45.1 s Lowest cost TinyFish $0.219 open benchmark → public dataset · Hugging Face open runner + judge · github.com/openbenchmarks-labs/multi-turn-company-search Company News Issue · bias found · fix in progress Rankings may not reflect true performance until every vendor is re-run in the same window. Which API answers questions about recent company events. Web search APIs against dedicated news indexes, same questions. Most accurate Exa (type=fast) 99.3% Fastest Parallel (mode=turbo) 348 ms Lowest cost TinyFish Free open benchmark → public dataset · Hugging Face open code · github.com/ openbenchmarks-labs/company-news Web Search for Coding Agents Which search API helps a coding agent find an opaque detail in official Enterprise SaaS docs and ground the patch in a URL it actually retrieved. search only Most tasks Perplexity 77.3% Fastest Perplexity 18.3 s Lowest cost TinyFish $0.035 search + fetch Most tasks Exa deep 83.0% Fastest Perplexity 21.5 s Lowest cost TinyFish $0.050 open benchmark → public dataset · Hugging Face open code · github.com/openbenchmarks-labs/web-search-for-coding-agents Document Processing Benchmark Specialised document parsers benchmarked on heavily redlined contracts, delivered as text-layer PDFs and as scanned images. text-layer PDF Most accurate Extend 93.1% Fastest Reducto 5s Parser $ / 1k correct Mistral OCR $16.54 scanned PDF · image only Most accurate Extend 86.7% Fastest Reducto 7s Parser $ / 1k correct Reducto $18.17 open benchmark → public dataset · Hugging Face open code · github.com/ openbenchmarks-labs/document-processing Company Lookalikes Tests how well company-search and lookalike APIs turn a seed company domain or description into a ranked list of genuinely similar businesses. Use it to compare tools for account discovery, prospecting, market mapping, and TAM expansion. Most precise CompanyEnrich 73.5% Fastest Discolike 1.2 s Relevant / $1 Seltz 12,683 open benchmark → open data + code · github.com/openbenchmarks-labs/lookalikes Company Firmographic Enrichment 282 company domains × 11 APIs, normalized into the same seven-field active scoring contract. Compare enrichment success rate, field accuracy, coverage, company match rate, latency, and cost by workflow. Correct field yield People Data Labs 89.0% Fastest CompanyEnrich 250 ms Lowest cost Nimble lite $0.31 open benchmark → open data + code · github.com/openbenchmarks-labs/company-enrichment Company Funding Data Enrichment 17 funding vendors, judged on latest funding stage against human labelled ground truth. enrichment · older rounds Correct stage yield Firecrawl 92.3% Fa",
+   "email_candidates": [
+    {
+     "email": "founders@openbenchmarks.com",
+     "where": "https://openbenchmarks.com/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "9bb7179748-ref",
+   "company": "Openbenchmarks",
+   "website": "https://openbenchmarks.com",
+   "title": "Engineering (YC Fall 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 4. We help humans & agents pick tools via Independent Benchmarks Openbenchmarks runs open, independent benchmarks across APIs, vendors and tools. Helping teams fairly evaluate vendors. We offer private benchmarking & analytics tools to help you measure your product against competitors, see exactly where you fall short, and fix it. Artificial Intelligence, SaaS, B2B, SEO, B2B, Marketing, United States of America, America / Canada",
+   "site_text": "[https://openbenchmarks.com/]\nOpenbenchmarks /companies/enrich /v5/company/enrich /api/v3/extended_companies/{domain} /api/v1/mixed_companies/search /v1/businesses/match /v1/responses /v2/enrich/company /bulk_enrich Backed by Y Combinator Open benchmarks Independent benchmarks for build-vs-buy decisions. Last run on 25 Oct 2026 Benchmarks Web Search for AI Web Search APIs benchmarked across three tasks: factual lookup, hard retrieval, and multi-hop search. factual lookup Most accurate Exa fast 99.3% Fastest Parallel turbo 348 ms Lowest cost TinyFish Free hard retrieval · search only Most tasks Perplexity 77.3% Fastest Perplexity 18.3 s Lowest cost TinyFish $0.035 hard retrieval · search + fetch Most tasks Exa deep 83.0% Fastest Perplexity 21.5 s Lowest cost TinyFish $0.050 multi-hop · search only Leads F1 Parallel basic 46.5 Fastest Brave Search 43.5 s Lowest cost TinyFish $0.212 multi-hop · search + fetch Leads F1 Exa deep 48.2 Fastest Brave Search 45.1 s Lowest cost TinyFish $0.219 open benchmark → Multi Turn Company Search Search APIs tested as tools for a research agent finding complete company sets across three- and four-part constraints. Ranked on precision, recall, F1, exact-set accuracy, latency, and cost. search only Leads F1 Parallel basic 46.5 Fastest Brave Search 43.5 s Lowest cost TinyFish $0.212 search + fetch Leads F1 Exa deep 48.2 Fastest Brave Search 45.1 s Lowest cost TinyFish $0.219 open benchmark → public dataset · Hugging Face open runner + judge · github.com/openbenchmarks-labs/multi-turn-company-search Company News Issue · bias found · fix in progress Rankings may not reflect true performance until every vendor is re-run in the same window. Which API answers questions about recent company events. Web search APIs against dedicated news indexes, same questions. Most accurate Exa (type=fast) 99.3% Fastest Parallel (mode=turbo) 348 ms Lowest cost TinyFish Free open benchmark → public dataset · Hugging Face open code · github.com/ openbenchmarks-labs/company-news Web Search for Coding Agents Which search API helps a coding agent find an opaque detail in official Enterprise SaaS docs and ground the patch in a URL it actually retrieved. search only Most tasks Perplexity 77.3% Fastest Perplexity 18.3 s Lowest cost TinyFish $0.035 search + fetch Most tasks Exa deep 83.0% Fastest Perplexity 21.5 s Lowest cost TinyFish $0.050 open benchmark → public dataset · Hugging Face open code · github.com/openbenchmarks-labs/web-search-for-coding-agents Document Processing Benchmark Specialised document parsers benchmarked on heavily redlined contracts, delivered as text-layer PDFs and as scanned images. text-layer PDF Most accurate Extend 93.1% Fastest Reducto 5s Parser $ / 1k correct Mistral OCR $16.54 scanned PDF · image only Most accurate Extend 86.7% Fastest Reducto 7s Parser $ / 1k correct Reducto $18.17 open benchmark → public dataset · Hugging Face open code · github.com/ openbenchmarks-labs/document-processing Company Lookalikes Tests how well company-search and lookalike APIs turn a seed company domain or description into a ranked list of genuinely similar businesses. Use it to compare tools for account discovery, prospecting, market mapping, and TAM expansion. Most precise CompanyEnrich 73.5% Fastest Discolike 1.2 s Relevant / $1 Seltz 12,683 open benchmark → open data + code · github.com/openbenchmarks-labs/lookalikes Company Firmographic Enrichment 282 company domains × 11 APIs, normalized into the same seven-field active scoring contract. Compare enrichment success rate, field accuracy, coverage, company match rate, latency, and cost by workflow. Correct field yield People Data Labs 89.0% Fastest CompanyEnrich 250 ms Lowest cost Nimble lite $0.31 open benchmark → open data + code · github.com/openbenchmarks-labs/company-enrichment Company Funding Data Enrichment 17 funding vendors, judged on latest funding stage against human labelled ground truth. enrichment · older rounds Correct stage yield Firecrawl 92.3% Fa",
+   "email_candidates": [
+    {
+     "email": "fenil@openbenchmarks.com",
+     "where": "GitHub commits (openbenchmarks-labs)",
+     "kind": "personal",
+     "name": "foundersatopenbenchmarks",
+     "commits": 1
+    },
+    {
+     "email": "swarnabgarang@gmail.com",
+     "where": "GitHub commits (openbenchmarks-labs)",
+     "kind": "personal",
+     "name": "swarnabgarang",
+     "commits": 7
+    },
+    {
+     "email": "adityalahiri13@gmail.com",
+     "where": "GitHub commits (openbenchmarks-labs)",
+     "kind": "personal",
+     "name": "Aditya Lahiri",
+     "commits": 3
+    },
+    {
+     "email": "aditya@openbenchmarks.com",
+     "where": "GitHub commits (openbenchmarks-labs)",
+     "kind": "personal",
+     "name": "Aditya Lahiri",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  }
+ ]
+}

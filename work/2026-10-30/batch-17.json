@@ -1,0 +1,283 @@
+{
+ "leads": [
+  {
+   "id": "c4bc7c9114",
+   "company": "Duffel",
+   "website": "https://duffel.com/",
+   "title": "Engineering (YC Summer 2018)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 55. The complete toolkit to sell travel. Any business - from travel startups to financial enterprises - can build with Duffel. Shop flights and accommodation, purchase extras, manage bookings and more. Airplanes, B2B, Travel, API, Transportation, Consumer, Travel, Leisure and Tourism, United Kingdom, Europe, Remote, Partly Remote",
+   "site_text": "[https://duffel.com/]\nDuffel - The best API to sell travel. Log in Sign up Sell travel, without the complexity. Any business - from startups to large enterprises - can sell travel with Duffel. Shop, book, and manage flights, stays, and travel extras Start now → Contact us Trusted by teams at Use cases Start selling travel today Duffel for Challenger Banks → Leverage thousands of hours of expertise in travel and product design. Your customers can search for their preferred flight instantly using autocomplete functionality, search filters and more. Duffel for Spend Management → Capture and control employee spend from within your platform by selling flights inside your spend management solution. Product suite Create the best travel experience for your customers Flights Build an intuitive flight search, offer loyalty programme perks, add seats and bags, manage your orders, and more. Learn more → Search Book Ancillaries Order management Managed content Access content from global airlines using our accreditation and ticketing authority → Stays Earn commission on over 1 million properties globally. Build an intuitive hotel shopping experience, giving your customer the information they need and access to their loyalty benefits. Learn more → Earn commission Global inventory Loyalty Rich content easy-to-use api Build with zero limitations Comprehensive docs, user guides, client libraries in Node.js, Python and Ruby, and prebuilt components like seat selection and payments. We designed a great user experience to make it easier for you to do the same. Explore documentation → Node.js CLI import { Duffel } from '@duffel/api' const duffel = new Duffel ( { token : YOUR_ACCESS_TOKEN } ) duffel . offerRequests . create ( { slices : [ { origin : \"SFO\" , destination : \"LON\" , departure_date : \"2023-06-26\" } ] , passengers : [ { type : \"adult\" } ] , cabin_class : \"business JavaScript Client Library → NEW Offer baggage and seat selection (and more) in a flash with our new ancillaries component Customer spotlight Become a success story Pelikin is one example of how a non-traditional travel seller can easily enter the market and set up a new revenue stream within their business model, with the ability to integrate quickly, access multiple airlines, and leverage industry accreditation. See how they do it → Ulysse sees technology as a vital part of the customer experience as well as a resource that sets them apart from their competition. Using Duffel’s APIs, Ulysse is able to invest in the strong points of their business that have sparked their rapid growth. See how they do it → BizAway prioritises providing a better end-to-end experience for its customers, and Duffel’s suite of APIs cover the full flight experience: search, book, changes and cancellations, paid seats and bags, pay later options, and much more. See how they do it → Try out Duffel for free, today. Sign up and start selling travel in less than 1 minute. Start now → Contact us\n\n[https://duffel.com/contact-us]\nDuffel - Contact Us Log in Sign up Let's talk See what Duffel can do for you Get in touch to: Get help building & growing a travel business Get enterprise pricing Get access to Duffel Stays Looking for resources or support? Help centre Get help with common questions including getting started with Duffel, integrating, and more. → Changelog Stay up-to-date with our latest developments and improvements by checking out our product Changelog regularly. → Guides Access our developer documentation and learn how to use Duffel by exploring our in-depth Guides. → API reference View our up-to-date API Reference to use our API to its fullest potential and making the most of our product suite. → Speak to us today to learn more. Connect to over 300 airlines and over 1 million accommodation globally. Contact us → Sign up\n\n[https://duffel.com/blog/pelikin-partners-with-duffel]\nPelikin partners with Duffel to launch in-app flight bookings | Duffel Log in Sign up Customer Stories Pelikin partners with",
+   "email_candidates": [
+    {
+     "email": "steve@duffel.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Steve Domin",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d193726289",
+   "company": "Paragon",
+   "website": "http://useparagon.com",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "Los Angeles, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 48. The embedded integration platform for SaaS apps. Paragon enables companies to build products that integrate with the SaaS ecosystem. With Paragon, software companies can integrate with hundreds of different SaaS apps in minutes while providing their customers with a seamless, unified integration experience Developer Tools, SaaS, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.useparagon.com/]\nParagon â Integration platform for AI agents and products Platform Use Cases Resources Pricing Docs Security Sign in Start for free Book a demo Platform Use Cases Resources Pricing Docs Security Sign in Start for free Book a demo Sign in Connect your agent to customer data and tools. Keep the upkeep off your roadmap. Paragon handles the work behind your integrations, from sync and permission data to auth and provider changes. Your team keeps the product logic and user experience. Book a demo Read docs Trusted by leading AI SaaS engineering teams The agent is the easy part. The integrations are the hard part. From RAG ingestion to agent actions, Paragon is the layer behind every integration your product ships â production-ready, not a side project. Give your agent customer data without flattening permissions. Sync customer data and permission information from supported file-storage systems. Your application checks access before returning content. Sync customer files into your retrieval pipeline Query inherited, group-based, org-wide, and link-sharing access Learn more Let your agent act in customer tools without owning every API. Let your agents query and act in your usersâ third-party apps. Pass customer-specific parameters from your product Use the model framework you already have Keep authorization and product behavior in your application Learn more React to customer events without maintaining every webhook. Forward supported events into your product with normalized subscriptions, retries, and rate-limit handling. Subscribe to supported customer events Route events into your existing product logic Handle retries and provider rate limits Learn more Learn more Support the systems your customers already use. Pick from the catalog of pre-built connectors, or build your own custom connectors with any 3rd-party API. Popular Go To Market Tasks & Tickets Documents See all 130+ connectors or build your own Pick from the catalog of pre-built connectors, or build your own custom connectors with any 3rd-party API. Popular See all What our customers say Ship integrations faster with an all-in-one platform that gives you the building blocks for every use case. âWe have a use case with Jira that we were able to enable in our product within less than an hour, I would even say minutes.â Nuno Borges VP of Engineering at Appsmith âWe have a use case with Jira that we were able to enable in our product within less than an hour, I would even say minutes.â Nuno Borges VP of Engineering at Appsmith We've engaged with tons of tech companies. Paragon has the best onboarding of any company we've seen. Rob Bailey COO at CrewAI We've engaged with tons of tech companies. Paragon has the best onboarding of any company we've seen. Rob Bailey COO at CrewAI We've engaged with tons of tech companies. Paragon has the best onboarding of any company we've seen. Rob Bailey COO at CrewAI It was seamless and easy to replace our legacy Salesforce and HubSpot integrations using Paragon. We were able to get rid of two codebases and have integrations that just work. Paul Jones VP of Engineering, Crystal Knows It was seamless and easy to replace our legacy Salesforce and HubSpot integrations using Paragon. We were able to get rid of two codebases and have integrations that just work. Paul Jones VP of Engineering, Crystal Knows âIntegrations are a critical part of our journey and commitment towards producing enterprise-grade AI with usersâ external context, and partnering with Paragon has enabled us to launch integrations like Google Drive and Sharepoint much faster.â Saahil Sr. Software Engineer at You.com âIntegrations are a critical part of our journey and commitment towards producing enterprise-grade AI with usersâ external context, and partnering with Paragon has enabled us to launch integrations like Google Drive and Sharepoint much faster.â Saahil Sr. Software Engineer at You.com Super developer friendly. Wi",
+   "email_candidates": [
+    {
+     "email": "team@useparagon.com",
+     "where": "https://www.useparagon.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "nullsupport@useparagon.com",
+     "where": "https://www.useparagon.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d97e537aba",
+   "company": "Living Carbon",
+   "website": "https://www.livingcarbon.com",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 40. maximizing biomass on low quality land transforming degraded land into high quality environmental assets using end to end operational expertise and precision breeding. Synthetic Biology, Biotech, Climate, Agriculture, Industrials, Climate, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.livingcarbon.com/]\nLiving Carbon Now enrolling landowners for reforestation - Apply Now Restore Land with Innovative Reforestation Landowners Companies Restoring Degraded Land Our forestry team specializes in restoring abandoned mineland and degraded agricultural land, generating income for landowners and bringing back biodiversity. Learn about our program From Degraded Land to Thriving Forest We conduct extensive site preparation and plant native species. This diverse forest generates annual income for landowners while improving long-term property value. Carbon Removal for Corporations We're generating high-quality carbon removal projects in the U.S. with true additionality, limited leakage, and unique co-benefits. Custom ‍ Carbon Projects Emissions Mitigation Procuring Carbon Credits Buy Carbon Credits Custom-Grown Biomass Feedstock We are developing fast-growing poplar trees that accumulate more biomass than other lines. Partner with us on custom biomass feedstocks sited near your processing facility or supply chain. Learn More Updates blog March 29, 2026 How Climate Solutions Actually Scale: Recent lessons from building Living Carbon blog May 9, 2024 What Biodiversity Can Measure blog January 18, 2024 The Applications of Agroforestry Press April 30, 2026 Octopus Energy Is Getting Into the Carbon Credit Business Press September 22, 2024 Living Carbon: Photosynthesis-Enhanced Trees Press October 15, 2023 Could superpowered plants be the heroes of the climate crisis? Press Release April 30, 2026 Living Carbon secures $500m deal with Octopus Energy Generation to restore degraded land and remove CO₂ Press Release March 30, 2026 Living Carbon Announces New Carbon Offtake Agreements with Symbiosis Press Release April 21, 2025 Living Carbon Announces Agreement with Microsoft for 1.4 Million Tonnes of Carbon Removal from Reforestation of Former Mine Lands in Appalachia See all updates Solutions Land Carbon Biomass COMPANY About Updates Careers © 2025, All rights reserved SITE MAP | PRIVACY POLICY\n\n[https://www.livingcarbon.com/about]\nAbout | Rebalancing the Carbon Cycle with Nature Rebalancing the carbon cycle using the power of plants Our Mission Living Carbon transforms marginal land into high-value environmental assets by combining precision tree breeding with innovative reforestation. Driven by Dedication Informed by generations of scientific research, to restore ecosystems, improve biodiversity, and enhance the ability of photosynthetic organisms to draw down and store carbon from the atmosphere. Our Partners Meet Our Team Senior Research Associate Alex Crites Forestry Operations Manager Andy Norris Associate Research Scientist Athena Creer Senior Greenhouse Manager Christian Richey Senior Research Associate Dominick Tucker Lead Research Scientist Jacob Hoyle Director of Finance Jake Weyerhaeuser Land Partnership Lead Jonathan Shears Senior Research Associate Karli Rasmussen VP of Carbon Solutions Kevin Kelly Chief of Staff Laurel Mills Lead Research Scientist Li-Wei Chiu CEO, Co-founder Maddie Hall Research Scientist Michelle Tjahjadi VP of Carbon Product Rahul Misra Associate Research Scientist Ravi Shah Finance and Accounting Manager Sara Bierschbach Supply Chain Senior Manager Sydney Garland Lead Carbon Scientist Timothy Perez Lead Research Scientist Yongxian Lu Chief Science Officer Yumin Tao Work with Us If you believe that climate change is the defining global emergency of the century and want to join an ambitious project that’s working on a biological solution, we encourage you to apply. Open Positions Loading jobs... Solutions Land Carbon Biomass COMPANY About Updates Careers © 2025, All rights reserved SITE MAP | PRIVACY POLICY\n\n[https://www.livingcarbon.com/about#careers]\nAbout | Rebalancing the Carbon Cycle with Nature Rebalancing the carbon cycle using the power of plants Our Mission Living Carbon transforms marginal land into high-value environmental assets by combining precision tree breeding with i",
+   "email_candidates": [
+    {
+     "email": "maddie@livingcarbon.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Maddie Hall",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "dd9f018aea",
+   "company": "Harper",
+   "website": "https://www.harperinsure.com/",
+   "title": "Future AI Founder",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Future AI Founder (San Francisco; experience: Any (new grads ok); US citizen/visa only). Team size: 25. AI-native commercial insurance brokerage At Harper, we are building a fully autonomous commercial insurance brokerage powered by AI. Our initial focus is on mid-sized businesses with complex insurance needs, but our vision is to eventually serve every business in the country. By leveraging AI to automate key workflows in the insurance process, we efficiently secure optimal coverage for each client's unique requirements at competitive prices and with rapid turnaround. Our AI system learns from the expertise of our brokers, accumulating not just knowledge but also the specific workflows, data, and capabilities that pave the way to full autonomy. Fintech, Insurance, AI, Fintech, Insurance, United States of America, America / Canada",
+   "site_text": "[https://www.harperinsure.com/]\nHarper | Business insurance that works for you Skip to main content How we cut call time by 63% How we infinitely scaled our onboarding capacity and cut call time by 63% Read more close call (470) 589-5486 Get a Quote arrow_outward Home Business insurance that works for you . You make one call, we make the rest. We take the time to learn about your business, work every market that can write it, and bring back the right coverage at the right price. Fast, because we know exactly where to go. Get a quote now arrow_outward Talk to a specialist You make one call A specialist takes the time to learn your business. Not a form, a person. We make the rest of the calls. We call the insurance companies, including the specialists most agents cannot reach. You never chase anyone. You choose. We handle the rest. Every option that comes back, explained in plain terms. Pick one and we take care of it end-to-end. Coverage What we cover One person handles all of it. Our tech tells us which policy fits whatever you build, serve, store, or drive, and we explain it in words you would actually use. General liability insurance The foundation: covers slips-and-falls, property damage, and the certificate your landlord asks for. Professional Liability insurance If a client says your work or advice cost them money, this defends you. Garage liability insurance For anyone who services, stores, sells, or moves customer vehicles. Commercial auto insurance One work truck or a full fleet, with coverage limits your contracts accept. Commercial property insurance Buildings, equipment, and inventory, covered at what it costs to replace them. Cyber insurance If your systems or card payments get hacked, this covers the cleanup. Umbrella insurance Extra protection when a claim is bigger than your main policy. Bonds The guarantee your license or your customer demands before you can start work. General liability insurance The foundation: covers slips-and-falls, property damage, and the certificate your landlord asks for. Professional Liability insurance If a client says your work or advice cost them money, this defends you. Garage liability insurance For anyone who services, stores, sells, or moves customer vehicles. Commercial auto insurance One work truck or a full fleet, with coverage limits your contracts accept. Commercial property insurance Buildings, equipment, and inventory, covered at what it costs to replace them. Cyber insurance If your systems or card payments get hacked, this covers the cleanup. Umbrella insurance Extra protection when a claim is bigger than your main policy. Bonds The guarantee your license or your customer demands before you can start work. Get covered arrow_outward Industries We Serve Deep industry expertise From construction crews to restaurants, dealer lots to daycares we know small business insurance inside and out. We understand what your contracts require, what your license demands, and we match coverages with speed and precision. Construction Restaurants Auto Sales Garage Childcare Adult Care Manufacturing Hospitality Security Transportation View all industries arrow_outward Construction & Contractors From GCs to specialty trades: jobsite liability, builders risk, and the certificates your projects cannot start without. Restaurants & Food Service Kitchens, bars, food trucks, and catering. Liquor liability included, priced for how you actually serve. Auto Sales & Dealers Dealer lots, test drives, and inventory. Garage liability and dealer bonds handled in one pass. Garage & Auto Services Repair shops, detailers, and towing. Coverage for servicing, storing, and moving customer vehicles. Childcare & Daycare Coverage that satisfies your state license, including protection against abuse claims that centers are required to carry. Adult & Senior Care Group homes, assisted living, and home care, including the coverage state inspectors ask for. Manufacturing Product liability, property, and equipment break",
+   "email_candidates": [
+    {
+     "email": "dakotah@harperinsure.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Dakotah Rice",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "tushar@harperinsure.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Tushar Nair",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "2a1e16daf3",
+   "company": "Atomic Industries",
+   "website": "http://atomic.industries",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "Cleveland, OH, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 60. Software orchestrated mass production of plastics Atomic is a vertically integrated plastics supplier. To offer parts better, cheaper, and faster than anyone on Earth, we became the best mold makers using AI. Our software helps us design and build the best possible mold for each unique geometry, with the goal of moving into production more rapidly than existing supply chains. Artificial Intelligence, Hard Tech, Manufacturing, Industrials, Manufacturing and Robotics, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://atomic.industries/]\nTitle: Atomic Industries — The 21st Century Mass Production Company\n\nURL Source: https://atomic.industries/\n\nMarkdown Content:\n## The 21st Century Mass Production Company\n\nThe goal of Atomic is to move customers from design to production faster than anyone on earth. Our superpower is mold making, and our entire operation is AI-native.\n\n01 Why Atomic\n\n## The OS for Production\n\nTraditional manufacturing is fragmented, slow, and opaque. Atomic unifies the entire stack into a single, software-defined process.\n\nCategory Today Atomic\n\nSupply Chain Tier 1, 2, 3, and SMBs Vertically Integrated\n\nLead Time 8–16+ weeks 40–60% Faster\n\nTooling$50K+$0 Tooling Cost\n\nLocation Overseas / Foreign Detroit, Made in USA\n\n02 Atomic's Engine\n\n## Generative Physics Meets Manufacturing\n\nTraditional manufacturing relies on expert intuition and iterative trial and error. Atomic replaces this with physics first engineering, using simulation and automation to compress design cycles and reduce downstream risk.\n\nOur software stack models molten plastic flow, thermal behavior, and structural response to inform tooling and process decisions before metal is cut, and continues to improve as production data comes online.\n\n#### Design for Manufacturability Insights\n\nEarly manufacturability signals derived from simulation and domain constraints. Highlights potential risk areas and informs tooling and process decisions, with human review where required.\n\n#### Multi-Physics Simulation\n\nThermal, flow, and structural behavior evaluated together to guide tooling design, cooling strategy, and cycle optimization.\n\n#### Closed-Loop Improvement\n\nProduction outcomes are captured and fed back into our models to refine future designs, processes, and assumptions over time.\n\n03 Capabilities\n\n## Production Capabilities\n\nAtomic combines vertical integration with advanced volume production. Our facility features a fleet of heavy-tonnage presses and precision tooling capabilities to scale from concept to mass market.\n\n[View Equipment Specs](https://capabilities.atomic.industries/)\n\n55→\n\nTons\n\nClamping Force\n\noz (7.7kg)\n\nMax Shot Size\n\nIndustrial Presses\n\nMachine Capacity\n\n+\n\nEngineering Grades\n\nMaterials\n\n### High-Volume & Large Scale\n\nEquipped with 1000T, 1400T, and 2000T presses for mass production of large-format automotive body panels and defense components.\n\n### Metal 3D Printing\n\nVelo3D Sapphire printers enable conformal cooling channels in molds, drastically reducing cycle times and improving part density.\n\n### Intelligent Quality\n\nReal-time adaptive control and intelligent molding trials ensure consistent part quality across millions of cycles.\n\n### Markets and customer types\n\nMarkets\n\n*   Automotive\n*   Consumer\n*   Industrial\n*   Aerospace\n*   Defense\n\nCustomer types\n\n*   OEMs\n*   Tier 1 suppliers\n\n04 Our Mission\n\n## Rebuilding the Industrial Base\n\nThe 20th century was defined by mass production. The 21st century will be defined by AI-driven production.\n\nAt Atomic, we believe that the stagnation in hardware innovation is a direct result of a fragmented, archaic supply chain. We're building the operating system for the physical world—starting with the mold.\n\nOur team combines computational physicists, veteran toolmakers, and engineers from SpaceX, Google, and Detroit's manufacturing floor, united by a single mission: make hard things easy to make.\n\nRaised from strategic investors\n\nGlobal OEM programs\n\nDetroit\n\nVertically integrated\n\n01\n\n### Injection Molded Parts\n\nToday our focus is plastics, across automotive, consumer, aerospace, and defense.\n\n02\n\n### AI-Driven Mold Making\n\nAtomic's AI drives design, simulation, and executes the production process.\n\n03\n\n### Software Defined Production\n\nFrom quoting all the way to final quality checks, Atomic has a software backbone that improves with every part we make.\n\n05 Careers\n\n## Join the Atomic Age\n\nWe're looking for obsessively curious individuals to help us build the future of manufacturing.\n\n[View a",
+   "email_candidates": [
+    {
+     "email": "aaron@atomic.industries",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Aaron Slodov",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "2dc74195b7",
+   "company": "Vitable Health",
+   "website": "https://vitablehealth.com",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "Philadelphia, PA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 60. Affordable care via ICHRA and primary care with visits, meds, labs… If you're a YC company: Book Here! https://calendly.com/danielle-wimberly-vitablehealth/30min We are a team of engineers, clinicians, and operators rethinking healthcare for startups and and SMB's. We make it simple for startups to offer ICHRA with built in direct primary care, including free virtual visits, over 1,000 prescriptions, and 40+ lab tests. Contributions are made with tax-free dollars, and we handle everything from onboarding to ongoing care so founders can stay focused on building. We are backed by world class investors like First Round Capital, Cherryrock, Y Combinator, and SoftBank, along with incredible founders and operators including Michael Seibel (YC, Twitch), Immad Akhund (Mercury), Allison Pickens (Gainsight), Jack Altman (Lattice), Dan Folkman (GoPuff), and others. Digital Health, Healthcare, Health Insurance, Health & Wellness, Healthcare, Healthcare Services, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.vitablehealth.com/]\nVitable Health | Affordable Healthcare for Hourly Workers Solutions Products Why Vitable? Resources Member Sign In Talk to an expert Employee health benefits that actually work. Vitable is a leading health benefits platform, offering a smarter suite of health care solutions with easy access to primary care at the center. We’re built to work better for real businesses and the people who power them. No stress. No nonsense. Just better care, made simple. Talk to an expert Better healthcare starts with more accessible primary care That’s why all our health benefit solutions include primary care. Direct Primary Care CHOICE (ICHRA) MEC Plans QSEHRA (Qualified Small Employer HRA) Because health benefits should be better. Too many Americans still lack access to real care. And too many employers are stuck with options that don’t work. Vitable was built to fix that—with better health benefits, made for today’s workforce. When healthcare works, employees stay and businesses thrive. Our story For employers who want better... Home Care Agencies Restaurants Transportation Non-Profits Manufacturing Hospitals Startups Childcares Government Home Cares and workers who deserve it. I’ve worked with benefits groups for years, and this was the smoothest rollout I’ve ever been a part of. I didn’t have to think about it for a second. I always avoided going to see a doctor because I didn't have the money or time. But getting Vitable has really helped me to put my health first. Thank you! I love how well the providers listen! They never judge and always help support me in my health journey! I appreciate them, and if they see this thank you a ton! My mental health visit was amazing. She was so easy to talk to and made me feel great about myself once it was over. I can't wait to meet with her again next week! My provider was very friendly, kind, and super thorough. You can tell she really cares about what she does and supports her patients to the best of her abilities. I always avoided going to see a doctor because I didn't have the money or time. But getting Vitable has really helped me to put my health first. Thank you! The Vitable team is incredibly friendly, communicative, and supportive. The entire staff is very reliable. I've never had a situation where there was an issue I couldn't resolve. I’ve worked with benefits groups for years, and this was the smoothest rollout I’ve ever been a part of. I didn’t have to think about it for a second. I always avoided going to see a doctor because I didn't have the money or time. But getting Vitable has really helped me to put my health first. Thank you! I love how well the providers listen! They never judge and always help support me in my health journey! I appreciate them, and if they see this thank you a ton! My mental health visit was amazing. She was so easy to talk to and made me feel great about myself once it was over. I can't wait to meet with her again next week! My provider was very friendly, kind, and super thorough. You can tell she really cares about what she does and supports her patients to the best of her abilities. I always avoided going to see a doctor because I didn't have the money or time. But getting Vitable has really helped me to put my health first. Thank you! The Vitable team is incredibly friendly, communicative, and supportive. The entire staff is very reliable. I've never had a situation where there was an issue I couldn't resolve. With Vitable's Primary Care, we’ve been able to provide our employees and 1099 contractors with access to high-quality, affordable care. The flexibility of the plan, including the ability to add dependents at no additional cost, made it a competitive advantage as we work to attract and retain top talent. We looked at a few ICHRA providers, and the pricing was pretty comparable. But what really made Vitable stand out was Vitable’s Primary Care product. Many of our caregivers wouldn’t use traditional insurance even if we o",
+   "email_candidates": [
+    {
+     "email": "info@vitablehealth.com",
+     "where": "https://www.vitablehealth.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "joseph@vitablehealth.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Joseph Kitonga",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "87b223dffc",
+   "company": "Prospa",
+   "website": "https://getprospa.com",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 70. Banking for businesses Fintech, B2B, Fintech, Banking and Exchange, United Kingdom, Europe, Remote, Partly Remote",
+   "site_text": "[https://getprospa.com/]\nProspa - Business Banking, Loans and Expense Cards for Nigeria Skip to content Open an account Banking for businesses shaping tomorrow We help the next generation of bold businesses, turn ambition into action with current accounts, credit and relationship-driven support. Infrastructure for real-world growth Smart, structured financial products - not just features. Designed for businesses that move money, manage teams, and scale. Get started Credit At Prospa, credit is personal. Access flexible funding designed to grow with your business — built on real relationships, not just algorithms. Business account & Payments Open a business account in your company’s name and get paid faster with secure transfers, cash deposits, and seamless digital banking. Expense cards Issue Prospa cards to team members and track company spend in real time – online and offline – with complete visibility and controls. Spend Management Total control over business spending Take full control of spending with, limits, approvals, sub-accounts, team collaboration vendor and employee management. Discover more Curious about how it all works? Step into the dashboard demo Get a hands on preview of how the platform works. No sign up required. Explore now Frequently Asked Questions Find answers to our most frequently asked questions. Can’t find the answer you're looking for? Email our support team help@getprospa.com What do I really get with Prospa? With Prospa, you're not just opening a business account — you're gaining a financial partner and infrastructure built to help you scale. You build your business credit automatically, simply by using your account or integrating our APIs. Every transaction — whether through your dashboard or embedded flows — adds to your credibility and strengthens your access to tailored financing. When it’s time to grow, we don’t hand you a cold application form. We look at your business activity, understand your structure, and have a real conversation about what you need. Because we believe banking should work with you, not against you. You’ll save on transfer fees, keep your finances organized, and project credibility with a business account in your company’s name — building trust with partners, clients, and suppliers. Beyond the basics, Prospa gives you tools and APIs to manage and scale your operations: from payroll and payments to expense cards, collections, and multi-business dashboards. With Prospa, your account — and your API — do more than hold money. Who is Prospa for? Prospa is built for structured, high-performing African businesses. If you're running payroll, managing multiple accounts or moving significant volumes, Prospa is made for you. Is Prospa licensed and secure? Yes. Prospa is a licensed and regulated financial institution in each jurisdiction where we operate. Your funds are securely held and protected under applicable deposit insurance and financial regulations . How fast can I open an account? You can start your application online in just a few minutes. We review each business individually before sending an invitation to onboard — ensuring the right fit and a seamless experience. What makes Prospa different from other banks or apps? Prospa combines fast, digital banking with real relationship support. You get the tools to run your business, plus access to a team that understands how you work. Can I use Prospa as my main business account? Yes. Most of our clients use Prospa as their primary account. You can send and receive payments, run payroll, manage expenses and apply for credit all in one place. What kind of credit can I access? Prospa offers tailored credit solutions based on your unique business needs, transaction history, and turnover. Our approach is relationship-led — we look at your structure, activity, and growth goals to support you properly. Can I manage more than one business or account? Yes. You can run multiple registered businesses, accounts and teams all from one dashbo",
+   "email_candidates": [
+    {
+     "email": "frederik@getprospa.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Frederik Obasi",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "5c511be069",
+   "company": "Belvo",
+   "website": "https://belvo.com",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "São Paulo, SP, Brazil",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 100. Open Finance API platform for Latam. We are Belvo, a financial API platform for Latam that enables any company or developer to access and interpret their end-users' financial information, through one easy-to-use API. Think Plaid for Latam. Our vision is to power the next generation of financial services in Latam by enabling more inclusive, efficient and empowering offerings through tech and data. Latam is a very exciting and dynamic place to be right now and a great place to build infrastructure for the next generation of financial products for a huge market. Fintech, SaaS, Fintech, Banking and Exchange, Brazil, Latin America, Remote, Partly Remote",
+   "site_text": "[https://belvo.com/]\nBelvo | The leading open finance data and payments platform in Latin America Belvo MCPs Connect your AI agents to open finance and build faster Open a world of financial opportunities Reach more users, reduce friction, and increase revenue with smarter financial data connections, AI-powered insights and frictionless payments. Talk to sales Start now Trusted by the leading financial innovators Clean financial data and powerful insights Access the broadest range of data and AI-powered insights to gain a full picture of your customers’ financial activity and offer tailored products. Banking Connect to your customers’ banking data Employment Verify income and employment history in seconds Fiscal Assess financial health through invoice history and financial statements Frictionless account-to-account payments Increase revenue with seamless bank payments designed to deliver higher conversion rates for checkouts, subscriptions and more. Direct Debit Accept recurring bank payments seamlessly Biometric Payments Instant conversion with one-tap native bank authentication Smart Transfers Automate recurring payments with Pix Powering success stories across all industries extend credit with confidence Identify real income and analyze a customer's complete financial history via open finance to make precise lending decisions and safely expand your reach. Learn more optimize online checkout flows Boost conversion rates by implementing one-tap bank payments with biometric approval for a secure and frictionless checkout experience. Learn more accelerate onboarding Validate account ownership and financial details instantly to remove sign-up friction and speed up user activation. Learn more Automate recurring revenue Collect recurring payments directly from bank accounts to eliminate card-related churn and reduce payment defaults. Learn more PROVEN IMPACT AT SCALE ACROSS LATAM We support the biggest names in Latin America fintech with infrastructure that is secure, stable, and ready to grow with you. Read our customer stories +80 million Accounts connected via Belvo-powered apps +3 billion Processed and analyzed transactions USD 1 billion In annualized Total Payment Volume Learn more 2x More loan approvals with confidence See how What our clients say \"When you show users the benefits of sharing their financial data through open finance, you achieve a successful business model\" Miguel Londoño COO Read the full story \"The best thing about the product is the immediacy and simplicity with which they share information. It provides a lot of security by being within a clear regulatory framework and being fully digital\" Alex Wieland COO Read the full story Let's build the future of finance together Contact sales GDPR Cookie Banner This website stores cookies on your computer. These cookies are used to improve your website experience and provide more personalized services to you, both on this website and through other media. To find out more about the cookies we use, see our Cookie Policy . Accept Reject Settings Close GDPR Cookie Settings Privacy Overview Strictly Necessary Cookies 3rd Party Cookies Privacy Overview This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful. Strictly Necessary Cookies Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings. Enabled Disabled 3rd Party Cookies This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages. Keeping this cookie enabled helps us to improve our website. Enabled Disabled Enable All Save Changes Powered by GDPR Cookie Compliance (opens in a new tab)\n\n[https://belvo.com/blog/belvo-mcps-the-ne",
+   "email_candidates": [
+    {
+     "email": "oriol@belvo.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Oriol Tintore",
+     "role": "Founder"
+    },
+    {
+     "email": "pablo@belvo.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Pablo Viguera",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "8b44e1323a",
+   "company": "voize",
+   "website": "https://voize.de/",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "Berlin, Berlin, Germany",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 140. We build the AI companion for nurses, to create time for care. At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to admin work that pulls nurses away from what matters most: people. We’re changing that by building the AI companion that frees nurses from admin, giving them back up to 30% of time. We don’t replace humans - we support and amplify their impact. Today, 1,500+ care facilities trust voize, and over 100,000 nurses rely on our AI companion** to ease their daily workload. Our mission is backed with a $50M Series A funding led by Balderton Capital, with support from HV Capital, Y Combinator and other leading VCs. Machine Learning, Speech Recognition, Healthcare, NLP, B2B, Productivity, Germany, Europe, Remote, Partly Remote",
+   "site_text": "[https://www.voize.ai/us]\nvoize – AI Companion for Nurses Skip to main content Webinar on November 17 at 1:00 pm ET: How skilled nursing can use voice AI at the point of care to stay survey-ready Safe your spot now AI for Caregivers Would your documentation hold up in a survey? voize helps nursing teams create timely, complete, and defensible documentation during the shift, so your facility is better prepared when surveyors ask for proof. Nurses and caregivers speak naturally in the moment of care, and voize creates comprehensive, timely documentation that syncs to your existing EHR in real time. Book a demo Testimonials Up-to-date, complete, and defensible documentation with voize Works with existing EHRs Build the audit trail before surveyors ask for it OUR Partners 2,000+ facilities using voize 27 % less time spent on documentation 180,000+ nurses and caregivers supported REal Impact \"Quality of documentation is better than it's ever been.\" Jason Dugenio, Chief Information Officer at Bridgeway Senior Healthcare explains why it is so valuable that nurses can document right at the bedside. Book a demo Care, unburdened Seamless charting creates better care. Shifts run smoother, care feels easier, and nurses can get back to doing what they love. More care time, less overtime voize integrates charting directly into nurses' workflows, giving back 5+ hours per week. This means less after-hours admin and more time with patients. Happier nurses, higher retention Burnout is the leading cause of turnover for caregivers. With voize, there’s no end-of-shift charting stress, no struggling to keep mental notes. ‍ Caregivers are more present with their patients, increasing workplace satisfaction for valued team members. Accurate charting, better reimbursement Charting done hours after care can miss details that matter. When charting happens in the moment, entries are comprehensive, accurate, and compliant. ‍ That means fewer rejected claims, more accurate reimbursement rates that reflect the care delivered and built-in CMS survey-readiness. Proven results Care with a positive ROI. Easing the documentation burden on nurses not only gives them back their time, it reduces overtime and boosts employee satisfaction. That translates into higher retention rates, lower turnover costs, and lower workforce costs. 27 % Reduction in time spent on documentation 15 % Reduction in staff turnover 82 % Reduction in overtime HOW IT WORKS Meet the newest member of your nursing team. Seamless integration into day-to-day workflows means voize becomes the companion nurses can’t live without. Step 1 All your patients, at a glance. Log into voize on your mobile device. Residents’ profiles, care plans, medications, and tasks are all quickly accessible in an intuitive interface. Step 2 Speak naturally, voize documents as you work. Patient names are recognized, care notes and data points are structured, and documentation is comprehensive. Step 3 Review and approve. Nurses stay in control. Easily edit and approve charting entries directly on your mobile device. Step 4 Sign off. You’re done. Updated documentation instantly appears across shifts, profiles, and devices. Why voize? voize is the companion for caregivers. Purpose-built for skilled nursing and long-term care facilities, voize is trained on clinical terminology, nursing workflows, and the documentation demands of long-term care. voize was created to reduce the burden of documentation and improve care delivery so shifts run seamlessly, allowing caregivers to spend more time where it matters. Speech documentation Offline capabilities Name recognition EHR synchronization Real-time sync Grammar correction Natural speech becomes structured documentation. voize is more than just a scribe. Caregivers speech becomes structured, compliant documentation categorized into relevant forms, such as vital signs, fluid intake, and care reports. Online or Offline. Care doesn’t wait for a network connection and neither does vo",
+   "email_candidates": [
+    {
+     "email": "info@voize.de",
+     "where": "https://www.voize.ai/us/contact",
+     "kind": "generic"
+    },
+    {
+     "email": "fabio@voize.de",
+     "where": "YC profile · GitHub commits",
+     "kind": "personal",
+     "name": "Fabio Schmidberger",
+     "role": "Founder"
+    },
+    {
+     "email": "marcel@voize.de",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Marcel Schmidberger",
+     "role": "Founder"
+    },
+    {
+     "email": "erik@voize.de",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Erik Ziegler",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a89df554b8",
+   "company": "ARQ",
+   "website": "https://www.arqfinance.com/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 100. The global financial platform for affluent consumers in the Americas. ARQ opens the world’s strongest assets and markets to travelers, investors and professionals across the Americas—so they can spend, receive, send and grow their money wherever they are. Formerly known as DolarApp. Fintech, Crypto / Web3, Fintech, United Kingdom, Europe, Remote, Partly Remote",
+   "site_text": "[https://www.arqfinance.com/en-MX]\nARQ | Modern finance for the global era DolarApp is now ARQ. As global as always. More ambitious than ever. Read more. Modern finance for the global era. ARQ opens the world's strongest assets and markets to travelers, investors, and professionals â so they can grow their money wherever they are. Download ARQ Sign up Your bank would hate if you saw our rates. Get digital dollars and digital euros in seconds, at real market rates. Without hidden fees. Convert now Here's what they say about us The card for borderless wealth. At home or abroad, always pay at leading conversion rates with unparalleled cashback. Get the ARQ Card We don't do remittances. We do better. Receive and send payments from the US and Europe with your own account details, at the real conversion rate and without surprises. Open global account Grow your wealth at a global scale. Access earnings accounts and leading stocks and ETFs to invest your capital across global markets. Start today Don't just take our word for it. See for yourself. MXN USDs Convert now USDs and EURc are virtual assets and not fiat currency. For more information read article with explanation on what is stablecoins . Our investors Backed by the best. 2 million people around the world already manage their finances with ARQ. 4.7 /5 4.6 /5 Download the app “I use ARQ to manage my digital dollars and when I travel to the United States, and it works seamlessly. Being able to move money from Mexico and have it available in digital dollars without worrying about conversion rates makes a huge difference. It's helped me avoid unnecessary costs and manage my finances with a lot more peace of mind.” Joaquin M. San Pedro Cholula • 12 Dec 2025 “I used the app to buy my iPhone in the United States and it ended up being much cheaper than buying it in Mexico. I simply bought digital dollars in exchange for Mexican pesos and everything worked perfectly, with no extra charges or fees. Excellent app.” Juan JosÃ© C. Texcoco • 1 Sep 2025 “Sending money from Mexico to the United States and back is very easy with this app. It works really well for me and saves me time and lines at exchange houses. It's fast, convenient, and highly recommended. 10 out of 10.” Hector G. San Pedro Garza GarcÃ­a • 17 Nov 2025 Download ARQ. Join today. Scan the code and join ARQ. 2 million people around the world already manage their finances with ARQ. 4.7 /5 4.6 /5 Sign up on web â Email registered successfully. Scan the code to download the app. 4.7 /5 4.6 /5 Sign up on web â Enter your email to get the app. Weâll send your reward details and a link to download ARQ.\n\n[https://www.arqfinance.com/en-MX/blog]\nARQ | Blog Meet our new brand: ARQ Product Releases Meet our new brand: ARQ ARQ opens the worldâs strongest assets and markets to travelers, investors, and professionals â so they can grow their money wherever they are. ARQ Team March 2, 2026 Read more Latest articles View all â Shopping online Black Friday 2026 Mexico: When It Is and How to Find the Best Deals? Black Friday 2026 in Mexico, know the dates and brands that will offer discounts this year and get ready to take advantage of the best deals. Sofia Santos October 1, 2026 Work and Travel U.S. Visa for the First Time 2026: Procedures, Requirements, and Cost Applying for a U.S. visa for the first time in Mexico involves more than just filling out a form, whether for tourism or business. All the details are here. Sofia Santos October 1, 2026 Shopping online How to Access Walmart USA from Mexico: Quick Guide 2026 Donât know how to access Walmart USA from Mexico? Here we explain a few useful methods to browse the U.S. version without restrictions. Sofia Santos October 1, 2026 Your Money View all â Your Money How to Collect Remittances in Mexico 2026: Options and Tips Learn how to collect remittances in Mexico in 4 simple steps. Weâll also tell you the necessary requirements and the places where you can withdraw your money.",
+   "email_candidates": [
+    {
+     "email": "ouvidoria.br@arqfinance.com",
+     "where": "https://www.arqfinance.com/en-MX",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

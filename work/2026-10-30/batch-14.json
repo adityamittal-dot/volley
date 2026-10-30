@@ -1,0 +1,352 @@
+{
+ "leads": [
+  {
+   "id": "eb4b2f3c1b-ref",
+   "company": "Oway",
+   "website": "https://www.oway.io",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 16. Building the open operating system for the automated physical economy. The physical economy still operates without a common language. Enterprise systems, factories, trucks, and robots generate enormous amounts of data, but most remains fragmented across legacy software and incompatible formats. Without a shared understanding of what is happening, even the most advanced AI cannot reliably coordinate how goods are made, moved, and delivered. Oway is building that common language. Our protocol, IOI, connects enterprise systems and physical hardware, cleaning messy legacy data and live telemetry into a standardized schema that AI can understand and act on. Through a shared API, businesses can query their operations, identify inefficiencies, and automate actions across systems without replacing their existing software. Our first model, Juno, applies this intelligence to unused truck capacity. It tracks empty space on trucks and sells it at a 50% discount to businesses shipping in the same direction. By moving freight directly on trucks already making the trip, Oway reduces shipping costs, damage, and transit times while generating additional revenue for carriers. Every connected system and shipment expands our understanding of capacity, pricing, routes, facilities, and industrial operations. As this network grows, Oway is building toward a future where enterprise software, automated factories, self-driving vehicles, and robots can communicate and coordinate through one shared layer, making the physical economy programmable. B2B, API, Infrastructure, AI, Industrial, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.oway.io/]\nOway | Industrial Automation, Distribution and Research Skip to content Oway Request a Demo Log In Platform Oway OS Making inefficient distribution into a competitive advantage. Juno Industrial AI that reasons over your operation and acts. IOI The common protocol for industrial systems, machines and partners. Developers Docs, APIs and MCP for building on Oway. Overview How Oway Works IOI connects your operation, Juno acts on it, and Oway OS optimizes shipments using our network of audited vehicles. Industries Manufacturing Connect lines, plants and suppliers so production runs on one live plan. Logistics and Supply Chain Run warehouses, fleets and partners as one network. Robotics and Autonomy Give robots and autonomous vehicles the context they need to take on real work. Mining and Materials Coordinate equipment, stockpiles and outbound haulage from pit to port. Energy and Utilities Keep field assets, parts and crews moving to where they are needed. Defense and Aerospace Trace every part and supplier behind readiness. Retail, CPG and Food Keep shelves stocked and distribution centers flowing at the lowest cost to serve. Healthcare and Life Sciences Get critical supplies where they need to be, on time. Overview Oway for every operation Use cases and teams across every operation that makes and moves things. Research All Research Case studies, models, benchmarks and notes. Juno AI What Juno reads, decides and how we evaluate it. Introducing IOI One open schema for the physical economy. Case Studies Shippers and carriers on Oway. Essay The Physical Economy Has No Index Why industry still runs without a common index, and what it takes to build one. Oway About Our mission, team and the story behind Oway. Careers Build the systems that run the physical world. More Research Our work on industrial AI. Security How we protect your operation. Contact Talk to our team. Careers We’re hiring Engineering, research and enterprise sales. Platform Oway OS Making inefficient distribution into a competitive advantage. Juno Industrial AI that reasons over your operation and acts. IOI The common protocol for industrial systems, machines and partners. Developers Docs, APIs and MCP for building on Oway. Overview How Oway Works. Solutions Overview Use cases and teams across every operation that makes and moves things. Manufacturing Connect lines, plants and suppliers so production runs on one live plan. Logistics and Supply Chain Run warehouses, fleets and partners as one network. Robotics and Autonomy Give robots and autonomous vehicles the context they need to take on real work. Mining and Materials Coordinate equipment, stockpiles and outbound haulage from pit to port. Energy and Utilities Keep field assets, parts and crews moving to where they are needed. Defense and Aerospace Trace every part and supplier behind readiness. Retail, CPG and Food Keep shelves stocked and distribution centers flowing at the lowest cost to serve. Healthcare and Life Sciences Get critical supplies where they need to be, on time. Research All Research Case studies, models, benchmarks and notes. Juno AI What Juno reads, decides and how we evaluate it. The Physical Economy Has No Index Our thesis. Introducing IOI One open schema for the physical economy. Security Company About Our mission, team and the story behind Oway. Careers Build the systems that run the physical world. Contact Talk to our team. Request a Demo Log In Request a Demo See how Oway works for you. Request received. Our team will reach out shortly to set up your demo. Your privacy We use strictly necessary cookies to run this site. With your permission, we also use analytics to understand how it’s used. You can change this anytime in Cookie Settings. Privacy Policy Reject non-essential Customize Accept all Cookie settings Choose which cookies Oway can use. Strictly necessary cookies are always on because the site needs them to work. Strictly necessary Security, load balancing and re",
+   "email_candidates": [
+    {
+     "email": "frank@oway.io",
+     "where": "GitHub commits (Oway-Inc)",
+     "kind": "personal",
+     "name": "frankoway",
+     "commits": 1
+    },
+    {
+     "email": "john@oway.io",
+     "where": "GitHub commits (Oway-Inc)",
+     "kind": "personal",
+     "name": "John Daily Jr",
+     "commits": 10
+    },
+    {
+     "email": "henry@oway.io",
+     "where": "GitHub commits (Oway-Inc)",
+     "kind": "personal",
+     "name": "Henry",
+     "commits": 2
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  },
+  {
+   "id": "ebf829dba6",
+   "company": "Luca IQ",
+   "website": "https://lucaiq.com/",
+   "title": "Engineering (YC Summer 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. API-first tax engine for CPA firms and developers Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax. B2B, API, Infrastructure, AI, B2B, Finance and Accounting, United States of America, America / Canada",
+   "site_text": "[https://lucaiq.com/]\nLuca IQ — First modern professional tax software made exclusively for firms Skip to content Luca IQ Login Luca IQ × Login Y Backed by Y Combinator First Modern Professional Tax Software Made Exclusively for Firms From client intake and tax preparation through e-filing, review, and delivery, Luca IQ helps your firm complete accurate returns without disconnected tools or manual busywork. Join the waitlist Why Luca IQ exists Tax software wasn't built for how firms work today. It was built for a desktop era of disconnected systems and manual data entry. That's why accountants still spend hours retyping information and moving data between tools. We're rebuilding tax software from the ground up. Made by CPAs. How it works From Client Upload To Review, Step By Step. Try the interactive demo 01 Client Portal 02 Workpaper Preparation 03 Tax engine 04 Delivery & Filing with the IRS Everything your clients need. One secure link. Send clients a document request list and smart questionnaire, then let them securely upload everything online. In-office workflows are supported too. Automated organized workpapers, ready for review. Review structured source documents, resolve missing information instantly, and apply judgment where it matters. Review the return, not the data entry. Review the prepared return, make adjustments, and trace every number through a complete audit trail. From signature to filed return. Collect Form 8879 e-signatures, deliver the completed return, and e-file with the IRS from one workflow. Build tax products without legacy tax software. The modern tax engine, behind a single API. API for developers The claim Review-Ready in Minutes We eliminate hours of document organization and data entry so your team can focus on review and professional judgment. Every number traces back to its source, every calculation is auditable, and every position is clearly explained. Auditable, Not a Black Box Every field traces back to a source document. Nothing is a guess. Human in the Loop, Always Firms review every return before delivery. Automation removes the busywork, not the judgment. US Based Customer Service Luca IQ has US based customer service with a team of CPAs to help guide you through busy season. Built for Busy Season Handles volume the same way in March as it does in June. No slowdown when it matters most. Other vendors sell you a tool. We built the platform underneath it. E-Signatures. Delivery. Client Portal. Document Collection. Workpapers. Review. Tax Engine. E-Signatures. Delivery. Client Portal. Document Collection. Workpapers. Our story Built by a CPA Who Lived the Problem Angelo is a CPA, so he knows firsthand what tax professionals deal with every day. He has worked the long hours, used the clunky systems, and watched talented teams waste countless hours retyping numbers into outdated software — often older than the people using it. After years at local tax firms and the Big 4, Angelo teamed up with Akash to build the solution they believed tax professionals deserved. They founded Luca IQ to replace repetitive manual work and aging legacy software with modern technology designed around how firms actually operate. Read our story Join the waitlist Thank you for joining the waitlist. JOIN THE WAITLIST Tell us about your firm. You're all set. Thank you for joining the waitlist. Close Cookie notice We use privacy-friendly analytics if you accept, to understand how this site is used. Decline and nothing extra is loaded. See our Cookie Policy . Decline Accept\n\n[https://lucaiq.com/blog/]\nBlog — Luca IQ Skip to content Luca IQ Login Luca IQ × Login Blog 3 posts July 30, 2026 Debits on the Left Since 1494: A Brief History of the Accounting Industry The profession runs on a method first printed in Venice five centuries ago. Nearly every company that dominates it today was once a startup timed to a new information technology. View on LinkedIn July 14, 2026 What Does an Accountant Actually Do All Day? Everyone",
+   "email_candidates": [
+    {
+     "email": "hello@lucaiq.com",
+     "where": "https://lucaiq.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "angelo@lucaiq.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Angelo Policicchio",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "akash@lucaiq.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Akash Sadashivapeth",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ee89b85b71",
+   "company": "GloGlo",
+   "website": "https://gloglo.com",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Curing and preventing type 1 diabetes Our mission: eradicate type 1 diabetes. GloGlo is building an AI-native therapeutics company focused on accelerating the discovery of treatments that can prevent, stop, and ultimately cure type 1 diabetes. We are developing AI research agents that continuously analyze scientific literature and biological datasets, generate and challenge hypotheses, design experiments, and run them in a wet lab to learn from experimental results. We are building a tight \"in silico <> in vitro/vivo\" feedback loop that helps us identify better targets, run experiments more efficiently, and move faster toward therapies for type 1 diabetes. AI-powered Drug Discovery, Artificial Intelligence, Consumer Health Services, Biotech, E-commerce, Consumer, United States of America, America / Canada",
+   "site_text": "[https://gloglo.com/]\nCuring Type 1 Diabetes with AI. gloglo 287 2 8 7 agents running gloglo Curing autoimmune diseases with AI, starting with type 1 diabetes We’re building a future free from autoimmune disease. By uniting AI research agents with experimental biology, we’re creating a continuous cycle of discovery to understand disease more deeply and accelerate the path to cures. Type 1 diabetes is our first mission. Backed by Research We study how to restore insulin production and stop the immune attack on beta cells. Our work spans growing functional beta cells from stem cells, identifying the molecules that T cells recognize, and understanding how pancreatic tissue sustains autoimmunity. We use computational models and experimental data to investigate cell replacement, immune tolerance, and treatments that act selectively on beta cells. Computational reassessment of chromogranin A leader variants for engineered insulin Guide-specific variance and shared controls obscure gene-level reliability in human beta-cell CRISPR screens Spectral-gap bounds for higher-alphabet and weighted Hamming graphs Spectral compression, obstructions, and low-defect stability in q-ary Hamming graphs About GloGlo was founded by Marie Schneegans and Michael Fester in San Francisco and is backed by Y Combinator. Michael was diagnosed with Type 1 diabetes while working on his Ph.D. in number theory at the University of Cambridge. He later co-founded an AI voice and machine learning company that was acquired by Sonos. GloGlo is deeply personal to us. We build products to help people living with diabetes today, while working toward a much bigger goal: a future without Type 1 diabetes. We intend to work on this until we solve it. Products Our mission is to cure diabetes and help everyone living with it stay healthy until we get there. Our consumer products support people with diabetes today, with proceeds helping fund our research. GloGlo Gummies are delicious dextrose gummies designed to raise low blood sugar quickly. Find them on Amazon and TikTok Shop , and at retailers including Fresh Thyme . GloGlo AI, available for iPhone and Android , helps you track food, estimate carbs from a photo, and get personalized AI coaching to support more time in your target glucose range. Explore gummies Explore the app Careers Passionate about using AI to advance biology? We’re bringing together researchers and engineers in machine learning, computational biology, immunology, and stem cell therapies to work toward a cure for type 1 diabetes. We’d love to hear from you. Founding Research Scientist Founding Machine Learning Engineer Founding Consumer Growth Lead Contact For research collaborations and other questions, get in touch with the GloGlo team. Contact us\n\n[https://gloglo.com/careers/ml-engineer]\nFounding Machine Learning Engineer | GloGlo gloglo 287 2 8 7 agents running gloglo Founding Machine Learning Engineer Engineering · San Francisco About GloGlo Our mission is to cure diabetes and help everyone living with it stay healthy until we get there. We are building GloGlo as both a consumer health company and an AI-native research company focused on diabetes. Our consumer products help people today, while generating the resources and distribution to fund our long-term research toward a cure. Today, our consumer products include: GloGlo Gummies: delicious dextrose gummies designed to raise low blood sugar quickly. They are available through Amazon, TikTok Shop, and retailers. GloGlo AI food tracker: our iPhone and Android app that helps people track food, estimate carbs from a photo, and receive personalized AI coaching to support more time in their target glucose range. And we are just getting started. We expect to launch many more consumer products across food, health, wellness, and software. The role Our mission is to cure type 1 diabetes. GloGlo is building an AI-native therapeutics company in San Francisco, connecting computational research with experimenta",
+   "email_candidates": [
+    {
+     "email": "team@gloglo.com",
+     "where": "https://gloglo.com/careers/ml-engineer",
+     "kind": "generic"
+    },
+    {
+     "email": "marie@gloglo.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Marie Schneegans",
+     "role": "Founder"
+    },
+    {
+     "email": "michael.fester@gmail.com",
+     "where": "YC profile · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Michael Fester",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ef5658dbb3",
+   "company": "Runway",
+   "website": "https://runway.team",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "New York City, NY, USA; New York, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. Easier and more reliable mobile app releases for teams. SaaS, B2B, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.runway.team/]\nRunway | The mobile release management platform 🎙️ Live Nov 12: How mobile teams ship AI-written code > Save your seat 🎙️ Live Nov 12: Shipping AI-written code > Register Contact Sales Explore Sandbox Use cases Unify your mobile team A single source of truth Release trains Keep releases on time End-to-end automation Release hands-free Rollout management Safeguard and monitor rollouts Safeguard AI code Ship more with less risk Mobile developer experience Reduce developer burden Cross-platform efficiency One unified control center White-label apps Release in one click, not dozens Internal build distribution Hassle-free sharing for teams Product features Release dashboard Track release status Collaboration tools Centralize release comms Automations Automate manual tasks App store management Manage submissions and access AI tools for mobile releases Automate, analyze, safeguard Security Enterprise-grade data protection Mobile Release Management features Triage All issues in one view, sorted Rollout monitoring Track rollout status Flightpaths Custom release workflows Mobile rollbacks Reverse releases fast Feature readiness See exactly what's happening Fixes Track late additions Build Distro Share builds easily What's new July 29, 2026 Official Claude connector and expanded MCP, AI usage insights, iOS dependency tracking, incident.io integration, and much more May 18, 2026 Build size alerting, Org overview revamp, Claude support, just-in-time re-signing, and much more January 28, 2026 Release chatbot, lifecycle freezes, smarter regression testing, configurable rollout alerts, and much more Integrations Version control system GitHub, GitLab, Bitbucket, etc. CI / CD CircleCI, Bitrise, GitHub Actions, etc. Project management Jira, Linear, Asana, monday.com, etc. App health Datadog, Sentry, Crashlytics, etc. View more Resources Resources State of mobile releases report White papers & reports Webinars The Flight Deck newsletter Blog Docs Live sandbox Case studies ClassPass Fleetio monday.com Faire View more Pricing Log In EXPLORE SANDBOX CONTACT SALES Mobile release management at AI scale Runway bridges the gaps between all your tools, agents, and teammates, so you can release more — safely. Explore Sandbox Trusted by Mobile engineering teams using Runway... release 29% more often than top apps are 14% quicker to deliver changes to users are 32% quicker to recover from bad releases spend 19% less time in releases See the full report here The only mobile release management platform. With Runway there are no more custom scripts to maintain, checklists to write, Slack commotion to monitor, or existential dread to manage when it’s your turn to run a release. Join thousands of mobile engineers who rely on Runway to handle release coordination and busywork so they can focus on building great apps. Explore Sandbox Manage your entire mobile release cycle from one place . Runway’s unified mobile release dashboard provides a single source of truth for your whole team. TRY OUR SANDBOX » They build it. We ship it. Great teams trust Runway. Runway is built by mobile engineers for mobile engineers (and their teams). A true single source of truth. Runway provides visibility into and across your entire release cycle. Release on autopilot Tasks that used to require hours of tedious tasks now take minutes as your releases just… happen Ship with confidence . If anything goes wrong, Runway can catch it and take action before you even know it happened. Keep everyone informed. You’ll never again have to answer the question “What’s the status of the release?” Build features instead of fastlane scripts. Friends don’t let friends write Ruby. With Runway’s customizable, comprehensive toolset, you can build great apps instead of tinkering with scripting. EXPLORE SANDBOX CONTACT SALES First-class integrations. Runway sits across all the tools in your stack, acting as a control center to run the entire release cycle. Once you connect your ",
+   "email_candidates": [
+    {
+     "email": "hello@runway.team",
+     "where": "https://www.runway.team/contact-us",
+     "kind": "generic"
+    },
+    {
+     "email": "gabriel@runway.team",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Gabriel Savit",
+     "role": "Founder"
+    },
+    {
+     "email": "matt@runway.team",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Matt Varghese",
+     "role": "Founder"
+    },
+    {
+     "email": "david@runway.team",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "David Filion",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f3bb3bbac5",
+   "company": "Vena Vitals",
+   "website": "http://venavitals.com",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "Irvine, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 9. A small sticker that monitors blood pressure continuously Vena Vitals makes a small sticker that monitors blood pressure continuously. We've shown that it works in the operating room and is as accurate as the best tools doctors have today, at a fraction of the cost. We're a team of health tech scientists with multiple past startups and exits, and we've built products that have scaled to over 2M users. Hard Tech, Nanosensors, Health Tech, Medical Devices, Digital Health, Healthcare, Medical Devices, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://venavitals.com/]\nVēna Vitals | Continuous, noninvasive blood pressure [ Navigate ] vēna vitals © 2026 continuous · noninvasive · beat-to-beat Advancing Continuous Blood Pressure Monitoring Wearable non-invasive patient monitoring with beat-to-beat resolution. See the data → Contact us → Problem & Solution Blood pressure insights every second, not intermittently. Standard blood pressure cuffs provide intermittent snapshots, leaving gaps between readings. VeriTrack is designed to fill those gaps with continuous blood pressure trend information, giving clinicians greater visibility into changes between cuff measurements. Cuff VeriTrack 3-5 min between readings Continuous, beat-to-beat Hypotensive events can go undetected between cycles Every pressure change captured in real time *VeriTrack is an investigational device The Solution VeriTrack advances continuous beat-to-beat blood pressure monitoring. VeriTrack is a soft, wireless wearable that wraps around the foot. Its sensor seats over the dorsalis pedis artery and measures blood pressure with every heartbeat, delivering the continuous hemodynamic visibility of an arterial line without the procedural risk, placement delay, or invasive cannulation. Beat-to-beat resolution Every heartbeat, not every few minutes. Continuous trends instead of waiting between intermittent cuff readings, so pressure drops are visible as they happen, not after the next cycle. Non-invasive placement No cannulation, no infection risk. Wrapped on in seconds and removed cleanly after the case. No arterial access, no line-care burden, no procedural delay. Wireless A soft wrap on the foot, with the sensor streaming over Bluetooth to the bedside iPad. Nothing tethering the patient to the monitor, no occupied arm, no catheter, and entirely out of the surgical field. Explore the technology → Clinical Testing Evaluated where it matters: the operating room. The investigational device tracked rapid blood pressure changes beat for beat in side-by-side operating room comparisons against the arterial line. See the full data → 59 year old subject undergoing abdominal mass removal. Arterial line Vena Vitals 0 + subjects tested 0 + study sites 18- 18 ages 30- 30 mmHg BP range 17- 17 BMI range Areas of Investigation From the OR to the bedside. For Clinicians Anesthesiology & Critical Care Continuous, non-invasive BP monitoring for the OR and ICU. See the clinical data, waveform accuracy, and use cases. View Clinical Data → For Researchers Sleep Medicine Studying autonomic response, sleep-disordered breathing, or nocturnal hypertension? VeriTrack enables beat-to-beat BP monitoring outside the hospital. Explore Sleep Research → Collaborate With Us Interested in evaluating continuous blood pressure at your facility? Partner With Us →\n\n[https://venavitals.com/about/]\nAbout | Vēna Vitals [ Navigate ] vēna vitals © 2026 continuous · noninvasive · beat-to-beat About us Data-driven insights for better health monitoring. Vena Vitals is a data-driven digital health company focused on advancing continuous health monitoring. Our technologies are grounded in science and supported by clinical research. We believe better access to continuous monitoring can help create a more complete understanding of health and support better care for more people. Our mission is to transform physiological data into actionable, personalized insights that enable early detection, proactive care, and more effective management of health conditions. Core team The team behind VeriTrack. Ray Liu CEO & Co-founder Michelle Khine Co-founder Josh Kim Co-founder & CTO Sophia Lin, PhD Head of Clinical Affairs Eugene Lee, PhD Head of Data Science Jared Olivo Head of Mechanical Engineering Inside the company Life at Vēna Vitals. In the operating room Pitch. Launch. Grow. 2023 Scrubbed in on a study day Team footgolf, off the clock In the operating room Pitch. Launch. Grow. 2023 Scrubbed in on a study day Team footgolf, off the clock Careers Work with us. We a",
+   "email_candidates": [
+    {
+     "email": "info@venavitals.com",
+     "where": "https://venavitals.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "ray@venavitals.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ray Liu",
+     "role": "Founder"
+    },
+    {
+     "email": "michelle@venavitals.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Michelle Khine",
+     "role": "Founder"
+    },
+    {
+     "email": "josh@venavitals.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Josh Kim",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f54646f637",
+   "company": "Halluminate",
+   "website": "https://halluminate.ai/",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Data and RL environments to automate knowledge work AI today is capable of solving the world’s most complex math problems, writing the majority of our software, and soon automating research itself. The world of verifiable domains is being mastered at a stunning rate. However, these same systems still struggle to build realistic financial models, deliver client ready powerpoint presentations, or grasp the nuance of well-balanced strategic analyses. Generally intelligent AI coworkers across finance, consulting, insurance, operations, and other forms of knowledge work will transform our economy. But they haven’t arrived yet. The good news is that we have the recipe to build them. Halluminate is a data research lab building the benchmarks and RL environments needed to push the frontier of AI in knowledge work. Our first area of focus is financial services, but we are rapidly expanding to adjacent verticals. In the last 10 months we have: - Grown from $0 to a mid-eight-figure revenue run rate while remaining strongly profitable - Built and scaled RL environments with four of the five leading closed-source U.S. AI labs - Released Westworld Due Diligence, a leading frontier benchmark for realistic financial work - Built an interdisciplinary team of former founders, researchers, particle physicists, experts, and engineers from Meta, Scale AI, Capital One Labs, McKinsey, Goldman Sachs and more If that excites you, join us! B2B, United States of America, America / Canada",
+   "site_text": "[https://www.halluminate.ai/]\nHome | Halluminate Halluminate is a data research lab building benchmarks and RL environments to push the frontier of AI in knowledge work. Our first area of focus is economically valuable workflows in financial services and consulting, but we are rapidly expanding into adjacent verticals. Announcing our Series A → Our latest benchmark → Contact Us → Westworld Finance Diligence Bench Evaluating AI Agents on a Complete company acquisition due-diligence process August 11, 2026 We present Westworld Finance Diligence Bench, a benchmark of 88 problems that evaluates AI agents on a complete company acquisition due-diligence process. It draws on anonymized data from real private transactions, runs inside dynamic desktop environments, and spans trajectories that reach hundreds of steps. Every problem is written and reviewed by practicing finance deal professionals and verified by a mixed pipeline of agentic, discrete, and binary verifiers. We evaluate a range of frontier models, each across its native CLI harness and our internal Halluminate CU + TU harness, and present every model-harness pair three ways. Read the full benchmark →\n\n[https://www.halluminate.ai/blog/series-a]\nSeries A | Halluminate Series A Superintelligence is here. It’s just not evenly distributed. Jerry Wu October 1, 2026 AI today is capable of solving the world’s most complex math problems, writing the majority of our software, and soon automating research itself. The world of verifiable domains is being mastered at a stunning rate. However, these same systems still struggle to build realistic financial models, deliver client ready powerpoint presentations, or grasp the nuance of well-balanced strategic analyses. Generally intelligent AI coworkers across finance, consulting, insurance, operations, and other forms of knowledge work will transform our economy. But they haven’t arrived yet. The good news is that we have the recipe to build them. Halluminate is a data research lab building the benchmarks and RL environments needed to push the frontier of AI in knowledge work. Our first area of focus is financial services, but we are rapidly expanding to adjacent verticals. In the last 10 months we have: Grown from $0 to a mid-eight-figure revenue run rate while remaining strongly profitable Built and scaled RL environments with four of the five leading closed-source U.S. AI labs Released Westworld Due Diligence , a leading frontier benchmark for realistic financial work Built an interdisciplinary team of former founders, researchers, particle physicists, experts, and engineers from Meta, Scale AI, Capital One Labs, McKinsey, Goldman Sachs and more Finally, I’m excited to share that we've raised $30 million in Series A funding led by Oak HC/FT with participation from YCombinator, Orange Collective, FT Partners, and Heavybit. This brings our total capital raised up to $38.5 million. The intelligence explosion is created by great teams solving hard problems at the frontier. If that excites you, join us .\n\n[https://www.halluminate.ai/blog/due-diligence-bench]\nWestworld Finance Diligence Bench | Halluminate Westworld Finance Diligence Bench Evaluating AI Agents on a Complete company acquisition due-diligence process August 11, 2026 We present Westworld Finance Diligence Bench, a benchmark of 88 problems that evaluates AI agents on a complete company acquisition due-diligence process. It draws on anonymized data from real private transactions, runs inside dynamic desktop environments, and spans trajectories that reach hundreds of steps. Every problem is written and reviewed by practicing finance deal professionals and verified by a mixed pipeline of agentic, discrete, and binary verifiers. We evaluate a range of frontier models, each across its native CLI harness and our internal Halluminate CU + TU harness, and present every model-harness pair three ways. The histogram shows each configuration's mean score with average cost per run inside the b",
+   "email_candidates": [
+    {
+     "email": "contact@halluminate.ai",
+     "where": "https://www.halluminate.ai/",
+     "kind": "generic"
+    },
+    {
+     "email": "jerry@halluminate.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jerry Wu",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "wyatt@halluminate.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Wyatt Marshall",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f58b605800",
+   "company": "Browser Use",
+   "website": "https://browser-use.com",
+   "title": "Engineering (YC Winter 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. Agents that use the browser. We enable AI to control the browser. Browser-use is the biggest open-source web agent project with 110k+ Github stars. Open Source, API, Automation, AI, B2B, United States of America, America / Canada",
+   "site_text": "[https://browser-use.com/]\nBrowser Use Agents & Browser Infrastructure | Browser Use Browser Use 119k Log in Start for free Talk to sales Talk to sales Log in Start for free Talk to sales SUPERFAST mode Typical task: 14 s, $ 0.003 in model cost. Join the waitlist Agents that use the browser. Browser Use Agents finish the task. Browser Infrastructure is the simple cloud browser for your own agents. Run an agent Connect your agent $1 free credit for eligible signups. No card. Captchas Shopping Extraction Logins Forms Travel Captchas Shopping Extraction Logins Forms Travel Browser Use Agents Most accurate on our hardest tasks. Cheapest on the frontier. 82% against 62 % for Opus 5 on Internal Bench Hard . Hermes made Browser Use its default browser tool. 48–66% fewer task tokens Browser Use Bench v2.1, 180 shared tasks, score out of 100 against model cost per task: GPT-6.1 Sol 79.6 at $1.30, GPT-6 Astra 77.9 at $10.77, GPT-6 Sol 74.4 at $1.02, GPT-5.6 Luna 69.6 at $0.28, GPT-6 Luna 69 at $0.16, Opus 5.5 75 at $2.35, Opus 5 66.8 at $4.72, Sonnet 5.5 72.7 at $1.53, Fable 5.1 72 at $5.19, Haiku 5.5 69.5 at $0.46, Grok 4.7 73.3 at $3.46, DeepSeek V4.1 Flash 70.9 at $0.18, DeepSeek V4.1 Flash 1017 75 at $0.22, GLM 5.3 FlashX 59.7 at $0.55, bu-fast 72.9 at $0.11. Full benchmark Browser Infrastructure The cloud browser that gets past bot walls. $0.02 an hour. Connect your agent, Playwright or Puppeteer over CDP. Benchmark and how sites were picked The same agent visits the same bot-protected pages in two browsers, in an illustrative replay. Headless Chrome is refused at the bot check; Browser Use clears it and reaches the page. Across 200 visits to 100 bot-protected sites, Headless Chrome got through on 3.0% and Browser Use on 90.5% . SFO to JFK Access denied. SFO to JFK I'm not a robot I'm not a robot 3.0% 90.5% Headless Chrome Browser Use Pricing Start free. Pay as you go. Cloud browsers $0.02 / hour Plus proxy traffic. Web agents +20% on model Plus browser time and traffic. Start for free Full pricing Enterprise pricing → Model prices → Concurrency tiers → Concurrency tiers → Billing details → Custom model API → SOC 2 Type II, HIPAA, zero data retention. Enterprise Blog Notes from building browser agents. All posts Odysseys2: a long-horizon web agent benchmark Browser Use vs Browserless: Pricing, Stealth & Features 11 Best Browser Automation Tools: Agents, Scripts, and Cloud Browsers Open source The open-source browser agent. MIT licensed. Also open source: Browser Harness , which gives Claude Code, Codex or Cursor your real Chrome. Start for free Read the source 119k GitHub stars, MIT licence. 119,000 GitHub stars Add yours $ uv add browser-use\n\n[https://browser-use.com/careers]\nCareers | Browser Use Browser Use 119k Log in Start for free Talk to sales Talk to sales Log in Start for free Talk to sales Browser Use careers We are here to win. Browser Use is six people at an eight-figure annualized run rate. Our open-source project has 110K+ GitHub stars . Customer demand is growing faster than we can keep up. We are not trying to build a nice little company. We want to build one of the biggest companies in the world. 110K+ GitHub stars 6 people 8 figures annualized run rate $17M raised From Gregor's notes How we think Read more on X How hard can it be? Insanely hard. But somebody does it. We are not trying to build a nice little company. We want to build one of the biggest companies in the world. A championship team A company is not a family. We care deeply about each other, tell each other the truth, and hold extremely high standards. The mission comes first. Lock the fuck in Find the most important fire. Get completely locked in. Stay there until it is solved. The best work should feel impossible to stop thinking about. Open positions Pick your problem. Forward-Deployed Engineer Talk to customers. Fix their problems. Ship the product. $200K-$300K + 0.5%-1.2% equity Infrastructure Engineer Make one browser boring. Make millions possib",
+   "email_candidates": [
+    {
+     "email": "contact@browser-use.com",
+     "where": "https://browser-use.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "apply@browser-use.com",
+     "where": "https://browser-use.com/careers",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f58b605800-ref",
+   "company": "Browser Use",
+   "website": "https://browser-use.com",
+   "title": "Engineering (YC Winter 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. Agents that use the browser. We enable AI to control the browser. Browser-use is the biggest open-source web agent project with 110k+ Github stars. Open Source, API, Automation, AI, B2B, United States of America, America / Canada",
+   "site_text": "[https://browser-use.com/]\nBrowser Use Agents & Browser Infrastructure | Browser Use Browser Use 119k Log in Start for free Talk to sales Talk to sales Log in Start for free Talk to sales SUPERFAST mode Typical task: 14 s, $ 0.003 in model cost. Join the waitlist Agents that use the browser. Browser Use Agents finish the task. Browser Infrastructure is the simple cloud browser for your own agents. Run an agent Connect your agent $1 free credit for eligible signups. No card. Captchas Shopping Extraction Logins Forms Travel Captchas Shopping Extraction Logins Forms Travel Browser Use Agents Most accurate on our hardest tasks. Cheapest on the frontier. 82% against 62 % for Opus 5 on Internal Bench Hard . Hermes made Browser Use its default browser tool. 48–66% fewer task tokens Browser Use Bench v2.1, 180 shared tasks, score out of 100 against model cost per task: GPT-6.1 Sol 79.6 at $1.30, GPT-6 Astra 77.9 at $10.77, GPT-6 Sol 74.4 at $1.02, GPT-5.6 Luna 69.6 at $0.28, GPT-6 Luna 69 at $0.16, Opus 5.5 75 at $2.35, Opus 5 66.8 at $4.72, Sonnet 5.5 72.7 at $1.53, Fable 5.1 72 at $5.19, Haiku 5.5 69.5 at $0.46, Grok 4.7 73.3 at $3.46, DeepSeek V4.1 Flash 70.9 at $0.18, DeepSeek V4.1 Flash 1017 75 at $0.22, GLM 5.3 FlashX 59.7 at $0.55, bu-fast 72.9 at $0.11. Full benchmark Browser Infrastructure The cloud browser that gets past bot walls. $0.02 an hour. Connect your agent, Playwright or Puppeteer over CDP. Benchmark and how sites were picked The same agent visits the same bot-protected pages in two browsers, in an illustrative replay. Headless Chrome is refused at the bot check; Browser Use clears it and reaches the page. Across 200 visits to 100 bot-protected sites, Headless Chrome got through on 3.0% and Browser Use on 90.5% . SFO to JFK Access denied. SFO to JFK I'm not a robot I'm not a robot 3.0% 90.5% Headless Chrome Browser Use Pricing Start free. Pay as you go. Cloud browsers $0.02 / hour Plus proxy traffic. Web agents +20% on model Plus browser time and traffic. Start for free Full pricing Enterprise pricing → Model prices → Concurrency tiers → Concurrency tiers → Billing details → Custom model API → SOC 2 Type II, HIPAA, zero data retention. Enterprise Blog Notes from building browser agents. All posts Odysseys2: a long-horizon web agent benchmark Browser Use vs Browserless: Pricing, Stealth & Features 11 Best Browser Automation Tools: Agents, Scripts, and Cloud Browsers Open source The open-source browser agent. MIT licensed. Also open source: Browser Harness , which gives Claude Code, Codex or Cursor your real Chrome. Start for free Read the source 119k GitHub stars, MIT licence. 119,000 GitHub stars Add yours $ uv add browser-use\n\n[https://browser-use.com/careers]\nCareers | Browser Use Browser Use 119k Log in Start for free Talk to sales Talk to sales Log in Start for free Talk to sales Browser Use careers We are here to win. Browser Use is six people at an eight-figure annualized run rate. Our open-source project has 110K+ GitHub stars . Customer demand is growing faster than we can keep up. We are not trying to build a nice little company. We want to build one of the biggest companies in the world. 110K+ GitHub stars 6 people 8 figures annualized run rate $17M raised From Gregor's notes How we think Read more on X How hard can it be? Insanely hard. But somebody does it. We are not trying to build a nice little company. We want to build one of the biggest companies in the world. A championship team A company is not a family. We care deeply about each other, tell each other the truth, and hold extremely high standards. The mission comes first. Lock the fuck in Find the most important fire. Get completely locked in. Stay there until it is solved. The best work should feel impossible to stop thinking about. Open positions Pick your problem. Forward-Deployed Engineer Talk to customers. Fix their problems. Ship the product. $200K-$300K + 0.5%-1.2% equity Infrastructure Engineer Make one browser boring. Make millions possib",
+   "email_candidates": [
+    {
+     "email": "gregor@browser-use.com",
+     "where": "GitHub commits (browser-use)",
+     "kind": "personal",
+     "name": "Gregor Zunic",
+     "commits": 4
+    },
+    {
+     "email": "panashawnu@gmail.com",
+     "where": "GitHub commits (browser-use)",
+     "kind": "personal",
+     "name": "Shawn Pana",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  },
+  {
+   "id": "f5cb999e9d",
+   "company": "Socratix AI",
+   "website": "https://getsocratix.ai",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. AI coworkers for fraud and compliance teams. Socratix builds AI coworkers for fraud and compliance teams so that humans don't have to spend their days drowning in alerts and spreadsheets. Today, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. Socratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount. We've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and compliance. We're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution. B2B, Operations, United States of America, America / Canada",
+   "site_text": "[https://getsocratix.ai/]\nSocratix AI — AI coworkers for fraud, financial crimes & compliance News Winner, Money20/20 Money Awards 2026 Socratix AI won the Money20/20 Money Awards 2026 — Startup Early Stage Read Read the news → Built for the Main Street AI coworkers for fraud, financial crimes and compliance teams. Accelerate investigations with intelligent AI agents that gather evidence, identify threats, and recommend action. or bring us in Schedule an on-site AI workshop For your institution, with your team in the room app.getsocratix.ai live Built by AI and fraud experts from Featured stories Selected stories Explore the blog 2026 Startup Early Stage winner News Socratix AI Wins the 2026 Money20/20 Money Awards Read news 100% Checks evaluated Case study First Community Bank and Trust Reviews 100% of Its Checks for Fraud Read case study $4.1M Seed funding announced Press release Socratix AI Raises $4.1M to Empower Fraud Fighters with AI Read press release 20× Account review scale Case study How Super.com Reduced Manual Account Reviews at Scale with Socratix AI Read case study 100+ Monthly hours automated Case study How AtoB Delivered Instant Credit Decisions with Socratix AI Read case study Product One command center for every investigation Every signal your institution generates — core banking activity, device intelligence, check images, screening hits, an analyst's note — converges into one workspace. So each investigation opens with the full picture, not a dozen tabs. Core banking activity Transaction patterns Deposit velocity ATM withdrawals ACH & wire flows Card authorizations Chargebacks & disputes User behavior Behavioral biometrics Login & session signals Device intelligence Geolocation & IP Check images (OCR) Document analysis Identity verification (KYC) Sanctions & watchlists PEP & adverse media External & consortium signals Fraud-ring graph Money-mule networks Analyst notes & memory Use cases Fewer losses. Cleaner exams. Book a demo Fraud Worked before funds leave the institution. Operational scope Check fraud Mobile deposits ACH fraud Wire fraud Account takeover Card disputes Financial crime From first alert to filing-ready SAR. Operational scope SAR filings Transaction monitoring OFAC screening Elder financial abuse Money mules Compliance Exam-ready by default, findings documented. Operational scope HMDA data integrity CRA reviews Loan document analysis Account reviews Why Socratix AI that understands, executes and learns. Just like people. Fraud is dynamic. Socratix agents adapt in real time — gathering evidence, weighing risk and recommending the next step. Your notes become account memory the agent reasons with. Benefits Benefits that redefine your operations Operate more efficiently Full coverage, around the clock — every alert investigated and actioned. Improve customer experience ACH, checks and onboarding move again — false positives stop blocking good customers. Scale without engineering Stack transaction, account and compliance agents on the platform — no code. Understand your members and customers Notes, alerts, transactions and past decisions sit scattered across your systems. Integrations Works with what you already use Request a demo jack henry™ ENSENTA and more… SOC 2 Type II View Trust Center → Get started Ready to see what Socratix can do ? Fraud is dynamic. You need systems that adapt, learn, and act in real time — our agents do more than automate workflows, they make intelligent decisions. Virtual demo · Online See the agents work real cases. A live walkthrough with our team, from wherever you are. On-site AI workshop · At your institution Bring AI to your whole team. We come to you and shape the session around your goals for 2026, 2027 and beyond. Plan your workshop\n\n[https://getsocratix.ai/blog]\nBlog — Socratix AI Socratix editorial Stories from the front lines . Featured Selected stories Scroll to explore 2026 Startup Early Stage winner News Oct 2026 Socratix AI Wins the 2026 Money20/20 Mon",
+   "email_candidates": [
+    {
+     "email": "hello@getsocratix.ai",
+     "where": "https://getsocratix.ai/blog/press-release/1",
+     "kind": "generic"
+    },
+    {
+     "email": "riya@getsocratix.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Riya Jagetia",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "satya@getsocratix.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Satya Vasanth Tumati",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f98be885c9",
+   "company": "Text Blaze",
+   "website": "https://blaze.today",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 9. Slash commands anywhere Text Blaze saves time and increases comms quality by automating repeated tasks. Users save smart templates and insert them anywhere on the web using keyboard shortcuts. Templates can include placeholders, logic, dynamic fields, integrations with other apps, and more. Robotic Process Automation, SaaS, B2B, B2B, Productivity, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://blaze.today/]\nText Blaze: Snippets and Templates for Chrome Text Blaze Add to Chrome â It's Free! Add Text Blaze to Chrome â It's Free! Eliminate repetitive typing and mistakes. Easy-to-use templates with endless customizability and powerful automation. All with full control at your fingertips. Download Extension â It's Free! Go to Dashboard Schedule a demo â­â­â­â­â­ 1,900+ Chrome Web Store reviews 800,000+ people use Text Blaze to end repetitive typing â­â­â­â­â­ This saves me so much time! I love how easy it is to use. Donna W Chrome Web Store â­â­â­â­â­ Such a great app! Time saver and best of all works across devices. Jay K. Chrome Web Store â­â­â­â­â­ A freaking mazing !! Can't live without it, best thing ever. Mae S. Chrome Web Store Text Blaze saves top users over 28 hours per month Thatâs over $10,000 a year in savings because of productivity improvements 7 Billion Characters are typed per month using Text Blaze 11X Avg. productivity increase when a snippet is used â­â­â­â­â­ Rating on the Chrome Webstore Based on actual user results. Assumes a 200 characters per minute typing speed and a $30 value per hour saved. Top users are users who are in the top 10% of Text Blaze usage. How it works 1 Add to Desktop Text Blaze works as a Chrome Extension , macOS app , or Windows app . It only takes a few clicks to get started! 2 Save any text as a snippet and give it a shortcut. Do you have a response you repeat often? Create a snippet for it! For example /ty for a thank you sentence. 3 Type the shortcut to insert your snippet wherever you are. Text Blaze works on Gmail, Google Docs, LinkedIn, Salesforce and in all your favorite apps. The most versatile way to speed up typing on Chrome 1 Save any \"snippet\" of text in Text Blaze as a template and give it a shortcut. Use whatever feels natural for your shortcuts. You could try /ty for a thank you sentence. 2 Type the shortcut and the snippet text will be substituted for it wherever you are in Chrome. Text Blaze works on Gmail, Google Docs, LinkedIn, Salesforce and wherever else you may be. 3 Take advantage of sharing and collaboration features and the most versatile dynamic templates in any app. Dynamic Templates Take advantage of Text Blaze's forms, dynamic formulas, and integrations with other sites to simplify your day with Text Blaze. Reduce the number of tools you juggle and blaze through your work. Sharing and Collaboration Once you've created your snippets, share them with your colleagues . They'll immediately update with any improvements you make and you can even edit them together. Great for individuals... Insert Snippets and Templates Speed up your work and maximize your productivity by using templates and snippets. \"Auto text\", \"text expander\", \"snippets\", \"macros\", \"canned responses\" â whatever you call it, the Text Blaze Chrome Extension is the best way to do it. Your Personal Assistant Create forms with blank fields to easily fill in a name or other data each time you use a snippet. Use dynamic formulas to calculate values like taxes on the fly. Simulate clicks or key presses to automate parts of your workflow. Create Consistent Processes Anywhere Use forms , dynamic formulas and integrations with other websites to define your team's repeatable processes using Text Blaze. You can even save form data and trigger follow up actions every time a snippet is used. ...and it completely crushes it in teams Collect and Share Your Most Effective Messages If you work with a team, Text Blaze can be a central database of your most effective emails, chats and other messages. Just create a shared folder and you can continually improve it together. Works Everywhere You Work Gmail, Google Docs, Office 365, Salesforce, Blackboard, Epic or any other site. Wherever you are in Chrome, the Text Blaze Chrome Extension is there to help you. If you ever find a site where Text Blaze doesn't work, let us know and we'll get it fixed ASAP. A Better Wa",
+   "email_candidates": [
+    {
+     "email": "hiring@blaze.today",
+     "where": "https://blaze.today/hiring/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

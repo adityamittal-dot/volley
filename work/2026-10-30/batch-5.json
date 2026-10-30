@@ -1,0 +1,287 @@
+{
+ "leads": [
+  {
+   "id": "446b81ac09",
+   "company": "Lucebox",
+   "website": "https://www.lucebox.com/",
+   "title": "Founding AI Researcher",
+   "location": "Milan, Lombardy, Italy",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Founding AI Researcher (Milan, Lombardy, IT; experience: Any (new grads ok); US citizen/visa only). Team size: 2. Self-improving inference workstation Lucebox makes workstations for local AI inference. They're private, always-on machines that arrive with Lucebox's inference engine installed and tuned, so developers point Claude Code, Codex or OpenCode on their own hardware. Lucebox is building toward a new category of self-improving personal AI computers that learn from the work you do every day, training small models on your own context until they're faster and better than the cloud at your tasks. The engine is open source, with 2.9K stars on GitHub and 95K+ downloads on Hugging Face. Hardware, Open Source, Consumer, Consumer Electronics, Italy, Europe",
+   "site_text": "[https://www.lucebox.com/]\nLucebox: your local AI workstation for private inference GitHub 2.9K Hugging Face 143.5K Order now Cookies We would like to use analytics cookies, our own and Google Analytics, to see how the site is used and make it better. The site works the same either way. Can we use analytics cookies? Ours and Google Analytics. Privacy policy Reject Accept =+= = · · -= +==X·= · .·+==++==+==XX+==== == =+ · :====+=.+X= · -=======++:+ · ==X= +===-· ·· · ·+===+= .-=+= - ==-========++==== =+ . = - : == · : = . X = X== - :== - ·.=+=== . ===. ====+=== -.. ====X===.== - + +-= ==+=== + ====+=·=+X==+ - ·++ ==X++++ : +·===X===+===+==+===:=X ====== : :=.=-===·===+ =·==-=+=++=+==:==-+=+.=====X . -XX==·=+-=X==:==+==: =.=+=+=+=+-= · ==:=--+- = - =+ +:===.· :. ==X=:==== -- == ==X=X ·==+== · ====+ : XX+ ++= ===+= . · .= · -=· - ===== == == X=== -X =. -. .--+==:+-.+. . =+ . X · : · -·=:=+=XX===X=+====+= .X++== + .- : . . += - ==+ : =+= ·:. :-== . . . +===+===+==+=:=====++.+ =·=:=:=·= +·==+=--+ . -X==X :=:. - =·:==+=·==+ ++.=++-=.+ · == .+=:+== . +=====X== -==:+-+=+==XX== - .=X= : += : · : =+= = · · -= +==X·= · .·+==++==+==XX+==== == =+ · :====+=.+X= · -=======++:+ · ==X= +===-· ·· · ·+===+= .-=+= - ==-========++==== =+ . = - : == · : = . X = X== - :== - ·.=+=== . ===. ====+=== -.. ====X===.== - + +-= ==+=== + ====+=·=+X==+ - ·++ ==X++++ : +·===X===+===+==+===:=X ====== : :=.=-===·===+ =·==-=+=++=+==:==-+=+.=====X . -XX==·=+-=X==:==+==: =.=+=+=+=+-= · ==:=--+- = - =+ +:===.· :. ==X=:==== -- == ==X=X ·==+== · ====+ : XX+ ++= ===+= . · .= · -=· - ===== == == X=== -X =. -. .--+==:+-.+. . =+ . X · : · -·=:=+=XX===X=+====+= .X++== + .- : . . += - ==+ : =+= ·:. :-== . . . +===+===+==+=:=====++.+ =·=:=:=·= +·==+=--+ . -X==X :=:. - =·:==+=·==+ ++.=++-=.+ · == .+=:+== . +=====X== -==:+-+=+==XX== - .=X= : += : · : Backed by Y Combinator Your local AI workstation. Hardware and software designed together to run large open models fast. Order now → Starting at $5,999 $6,899 €6,749 £5,999 . Ships January 2027. Partners ← → Intelligence you own. The Lucebox Zero 495 is a workstation for running large open models locally. Its GPU and up to 192 GB of unified memory work on every token together, so big models answer fast. You never pay per token. The models come installed and tuned for this hardware, with our own kernels and speculative decoding. Set it up from lucebox.com/setup and point your coding agents at it. See price and options → What's inside. Drag to rotate, click a part Swipe to rotate, pinch to zoom, tap a part Explode Loading the 3D model Unified memory 192 GB Memory 128 GB or 192 GB LPDDR5X-8533, shared by CPU and integrated GPU Bandwidth 273 GB/s Processor AMD Ryzen AI MAX+ PRO 495, 16 cores / 32 threads The CPU and the integrated GPU read one shared pool, so models that do not fit in the R9700's 32 GB GDDR6 still run, with long context, or as a second model kept loaded. Dedicated GPU 32 GB Card AMD Radeon AI PRO R9700 Bandwidth 640 GB/s Compute 64 compute units, up to 191 TFLOPS at FP16 The hot path runs here: the weights and KV cache of a 27B-class model stay on the card, where the custom kernels and speculative decoding run. Storage 4 TB Capacity 2 TB, or 4 TB as an option Interface NVMe 1.4, M.2 It holds the system, the engine and the tuned model profiles, with room for your own weights, and fast reads mean big model files load quickly. Network 10 GbE Ports 2× USB4, 2× USB-A 3.2 Gen 2, 2× USB-A 2.0, HDMI 2.1, DisplayPort 1.4, 10 GbE Ethernet, plus 4 display outputs on the GPU Wireless Wi-Fi 7 and Bluetooth 5.4, built in Clustering Optional cluster kit per machine: Mellanox ConnectX-5 Ex, 2× 100 GbE, on a PCIe 4.0 x4 link, installed, cable included Most people keep it out of earshot and reach it over the network; the rear ports also drive screens when you want them. Power supply 1,000 W Output 1,000 W, SFX form factor Draw ~500 W under full inference load, ~40 W idle One unit feeds the board and the GPU with headroom to spare, and ",
+   "email_candidates": [
+    {
+     "email": "alessandro@lucebox.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Alessandro Puppo",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "davide@lucebox.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Davide Cifarelli",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "f76de9cf21",
+   "company": "Akiflow",
+   "website": "https://akiflow.com",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "CT, Spain; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 18. All your tasks and calendars into an AI-powered productivity app Akiflow is an AI-powered productivity app, integrating tasks + calendars and an AI executive assistant Productivity, B2B, Productivity, Spain, Europe, Remote, Fully Remote",
+   "site_text": "[https://akiflow.com/]\nAkiflow | Time-Blocking Digital Planner & Calendar Log in Try for free Try for free One app for tasks & calendars powered by AI Save hours every week with your calendars, tasks, and assistant. All in one place. Built for founders, operators, and obsessed doers . Try Akiflow for free You have 1h slot at 8 AM. Shall I block it? Do I have time to review the roadmap tomorrow? Aki Ask me anything Designed in Italy Backed by Y Combinator Designed in Italy Backed by Y Combinator Trusted by ambitious professionals and teams worldwide Try Akiflow for free 7 days free. Cancel anytime. Try Akiflow for free 7 days free. Cancel anytime. The All-in-One Productivity Suite Calendar, tasks, inbox, and AI into one seamless flow. With you in control. Calendar, tasks, inbox, and AI into one seamless flow. With you in control. One calendar that syncs One calendar that syncs Work & Life Work & Life Mon 6 Tue 7 Work event 08:00 - 09:00 Personal event 08:30 - 09:30 08:00 08:30 09:00 09:30 10:00 10:30 One calendar that syncs Work & Life Mon 6 Tue 7 Work event 08:00 - 09:00 Personal event 08:30 - 10:00 08:00 08:30 09:00 09:30 10:00 10:30 Task Manager for Task Manager for Mindful Planning Mindful Planning Someday This month This week Review all contents Personal Task Manager for Mindful Planning Someday This month This week Review all contents Personal Universal Inbox & Integrations Universal Inbox & Integrations Inbox Improve website impact Personal Review all contents Personal Deploy new release Personal Universal Inbox & Integrations Inbox Improve website impact Personal Review all contents Personal Deploy new release Personal On-Demand On-Demand Executive AI Assistant Executive AI Assistant Moving check-in to Tomorrow Today's Agenda Apple Watch iCloud Calendar Try Akiflow for free 7 days free. Cancel anytime. Try Akiflow for free 7 days free. Cancel anytime. The calendar that works as hard as you do Every meeting, every task all in one place. The calendar that works as hard as you do Every meeting, every task all in one place. Time-block your day automatically Work & Personal in perfect sync Schedules for you. In one click. Team scheduling on autopilot Review documents 30m âï¸ Breakfast 08:00 - 08:30 Time-block your day automatically Work & Personal in perfect sync Schedules for you. In one click. Team scheduling on autopilot Review documents 30m âï¸ Breakfast 08:00 - 08:30 Time-block your day automatically Work & Personal in perfect sync Schedules for you. In one click. Team scheduling on autopilot Review documents 30m âï¸ Breakfast 08:00 - 08:30 Try Akiflow for free 7 days free. Cancel anytime. Try Akiflow for free 7 days free. Cancel anytime. Plans that actually get done Turn your tasks into a clear Plan Plans that actually get done Turn your tasks into a clear Plan Block time for what matters most Smart Time Slots that work around you Plan your day, week, automatically Stay goalâaligned with AI nudges Block time for what matters most Smart Time Slots that work around you Plan your day, week, automatically Stay goalâaligned with AI nudges Block time for what matters most Smart Time Slots that work around you Plan your day, week, automatically Stay goalâaligned with AI nudges Try Akiflow for free 7 days free. Cancel anytime. Try Akiflow for free 7 days free. Cancel anytime. The Universal Inbox All your work, captured and organized The Universal Inbox All your work, captured and organized 2-way sync your favorite tools Emails into tasks in one click Save Slack messages. Reply later. Automate & Integrate with Zapier 2 4 1 3 2 1 4 6 3 2 4 2 1 3 2-way sync your favorite tools Emails into tasks in one click Save Slack messages. Reply later. Automate & Integrate with Zapier 2 4 1 3 2 1 4 6 3 2 4 2 1 3 2-way sync your favorite tools Emails into tasks in one click Save Slack messages. Reply later. Automate & Integrate with Zapier 2 4 1 3 2 1 4 6 3 2 4 2 1 3 Try Akiflow for free 7 days free. Cancel anytime. Try Akiflow",
+   "email_candidates": [
+    {
+     "email": "nunzio@akiflow.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Nunzio Martinello",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "sebastiano@akiflow.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sebastiano Favaro",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d9a54716cd",
+   "company": "HillStar",
+   "website": "https://hillstar.ai",
+   "title": "Engineering (YC Fall 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. Agents to help utilities make better buying decisions. GovTech, Big Data, AI, B2B, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://hillstar.ai/]\nHillStar â Procurement intelligence for energy & infrastructure Skip to main content Book a Demo Login Vendor evaluation, without limits Accelerate your energy & infrastructure procurement from months to days Hillstar helps utilities and energy companies significantly reduce the time needed to procure billions from a multi year process down to less than 30 days. Book a Demo Watch our showreel (1:33) RFP, reimagined Create RFPs without the manual work. From Requirements to Award. HillStar provides experienced procurement professionals paired with the HillStar platform to develop, launch and evaluate complex RFx eventsâacross technical requirements, commercial terms, pricing, risk and supplier capability. 01 Sourcing Strategy & Requirements Translate engineering scopes, specifications, category requirements and business objectives into a structured sourcing strategy, bidder requirements and evaluation framework. 02 Build & Launch the RFx Develop the complete solicitation packageâincluding technical specifications, bidder instructions, pricing schedules, commercial terms, questionnaires, compliance requirements and weighted evaluation criteria. 03 Technical, Commercial & Pricing Evaluation Evaluate vendor responses across compliance, pricing, bid completeness, delivery, supply risk, and contract terms. Normalize bids and SKU pricing for apples-to-apples comparison. 04 Award Scenario Optimization Model award scenarios across total cost, supply continuity, supplier concentration, compliance, and procurement risk. Compare single-, dual-, and multi-source options with evidence-backed recommendations. 1 / 2 1 / 3 Your capital spending keeps growing: give your team 10x the speed and capacity to award contracts with confidence Book a Demo The learning loop Procurement Intelligence That Compounds. HillStar captures evaluator judgment, exceptions, award rationale and supplier outcomes. It remembers what your team expected, what it awarded, and what actually happened, so each sourcing event starts smarter than the last. Institutional memory Today, Procurement Intelligence Lives in Peopleâs Heads. The know-how behind every award sits with a few experienced people, and it isnât written down anywhere. 01 A Category Manager Knows which suppliers tend to take exceptions. 02 An Engineer Remembers why a specification was changed. 03 A Contracts Manager Remembers what happened the last time you awarded a particular contractor. TODAY The system records the outcome but never the thinking. UNTIL NOW With HillStar, your team creates faster, sharper RFPs â powered by institutional expertise. Trust Full visibility for every reviewer. From independent reviewers to auditors to the full review committee â everyone sees every source. 01 Every evaluation is cited Each score links to the exact page and passage it came from, so your team can verify any result in seconds. 02 Full traceability Follow any ranking back to the source document, criterion and requirement that produced it. 03 Human review built in Your team reviews and adjusts evaluation before anything is final â HillStar supports the decision, it doesn't make it alone. Case Studies Real Outcomes See More Compliance gap caught HillStar surfaced the compliance gap and verified the requirement across all 14 vendors in minutes. 9 min 12-month RFP review in 9 minutes 22 vendors and ~19,800 pages evaluated with full evidence traceability for a utilityâs 11âperson expert team. 7 days 6-month sourcing cycle in 7 days ~250 grid-equipment SKUs per vendor, re-bid every quarter, with 100% of certifications verified. Security & Compliance Enterprise-Grade Security and Controls HillStar is SOC 2 Type I compliant, with role-based access controls ensuring users can only access materials theyâre authorized for. All data is protected with AES-256 encryption at rest and TLS 1.2+ in transit, and hosted in U.S.-based data centers on Google Cloud. Learn More Security overview ",
+   "email_candidates": [
+    {
+     "email": "info@hillstar.ai",
+     "where": "https://hillstar.ai/",
+     "kind": "generic"
+    },
+    {
+     "email": "nooshin@hillstar.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Nooshin Behroyan",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "kenny@hillstar.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Kenny Stone",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "30f1e539fe",
+   "company": "Cercli",
+   "website": "https://www.cercli.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "Dubai, Dubai, United Arab Emirates",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 28. AI powered HR and Recruitment for people teams Cercli is the AI native platform for businesses to hire and manage their workforce. SaaS, HR Tech, B2B, United Arab Emirates, Middle East and North Africa, Remote, Partly Remote",
+   "site_text": "[https://www.cercli.com/]\nCercli | The AI-native Platform for HR and Recruitment Recruitment Back AI agents Orin AI Sourcing agent Cera AI Screening agent Recruitment features Pipeline Management One pipeline, from application to offer Feedback management Collect and compare your team’s feedback Offer Management Generate, send, and track offers Scheduling Book interviews without the back-and-forth Explore Recruitment People Back AI agents HR AI agent Answers your team’s questions about leave, policies and documents. Coming soon People features People Management Keep every person’s records in one place Compensation Management Manage multi-currency compensation and contracts Onboarding Support every arrival Offboarding Support every departure Leave management Manage requests, balances and policies Explore People (HRIS) Payroll Back People features Local payroll Run payroll for your local team Remote contractors Manage payments for remote contractors Expense management Review and reimburse team expenses Employer of Record Hire where you have no entity Explore Payroll Pricing Resources Back Learn Blog Notes for TA and HR teams Case studies Numbers first, humans included Company Trust center Security, data and compliance answers Careers Start work with us Explore all resources About Log in Book a demo Log in Book a demo Menu Close The AI People Platform that handles hiring sourcing screening scheduling onboarding managing offboarding Book a demo 4.9/5 The platform HR and recruiting leaders rely on to run their teams Meet the agents AI agents that clock in and get it done HR and Recruitment agents that source, screen, and handle the stuff nobody wants to do twice. Orin Cera Sila Find your best candidates before you finish your coffee Orin, our AI sourcing agent, finds the strongest matches for the role, so your pipeline is healthy before even posting the job. Searches 900M+ profiles for the role Shortlist the best matches Sends outreach via LinkedIn and email Get to know Orin Screens every CV, so you read only the ones that matter Cera, our AI hiring agent, scores every candidate, flags what stands out, and builds the shortlist. Role descriptions and scorecards in minutes, not hours Job offers in minutes, not days Interview scheduling that fits everyone's calendar Get to know Cera Coming Soon Answers \"how many leave days do I have left?\" so you don't have to Our AI HR agent handles leave, policy, and document questions, the stuff eating 30 to 40% of HR's time. Answers instantly, no ticket needed Trained on your company's actual policies Escalates only what needs a real person Coming Soon The platform One platform built for both sides of the team An ATS and an HRIS, built to talk to each other. A candidate becomes an employee in just a few clicks. Recruitment (ATS) Never lose a strong candidate in an inbox. Every hire as one connected flow, from first contact to signed offer. No stalled pipelines between stages No back-and-forth to find an interview time Feedback and offers in one place, nothing stalls Explore Recruitment People (HRIS) Every employee's record, request, and routine in one place, built around your team's needs. New hires ready on day one, no spreadsheet checklist Leave approved without the chase Every document found in seconds, not folders Explore People Cercli Experience From applicant to employee without leaving the platform Recruiting hands a person to HR. HR hands a person their first day. On Cercli, that's not a handoff, it's the same record, continuing. One record, from applicant to employee. ATS and HRIS read the same data, live. One system instead of a stack of tools stitched together. See it on your own team Recruiting hands a person to HR. HR hands a person their first day. On Cercli, that's not a handoff, it's the same record, continuing. See it on your own team Cercli Connect All the tools you already use, connected Cercli Connect makes sure your people data shows up where the work already happens, in the r",
+   "email_candidates": [
+    {
+     "email": "akeed@cercli.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Akeed Azmi",
+     "role": "Founder"
+    },
+    {
+     "email": "david@cercli.com",
+     "where": "YC profile · GitHub commits",
+     "kind": "personal",
+     "name": "David Reche",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "4e5bafc6f6",
+   "company": "Paradev (formerly Superset)",
+   "website": "https://paradev.com/",
+   "title": "Engineering (YC Spring 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 4. Building self-improving software Paradev (formerly Superset) is an open-source IDE that helps engineers run 100s of coding agents in parallel. Our desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere. Developer Tools, Consumer, B2B, Enterprise Software, AI, B2B, Engineering, Product and Design, United States of America, America / Canada",
+   "site_text": "[https://paradev.com/]\nParadev (formerly Superset) - Run an army of coding agents 15.7k Superset is now Paradev. Also, we raised an $11.5M seed → Bring Any Agent Orchestrate Them All The IDE for Parallel Agents Run an Army of Coding Agents One workspace for Claude Code, Codex, and any coding agent. Download for macOS Download Orchestrate Parallel Agents Automate Tasks Remote Access See Changes Orchestrate Parallel Agents Automate Tasks Remote Access See Changes Workspaces Automations New Workspace desktop 5 ⠋ new workspace creating ⠋ fix onboarding crash + 46 − 1 billing webhooks + 193 refactor auth flow + 394 − 23 speed up cold start + 33 bump dependencies + 127 − 8 cloud 3 ⠋ nightly evals + 812 − 64 api hotfix + 12 − 3 docs refresh + 58 gpu-box 14 mobile 1 cli 4 claude codex cursor opencode Claude Code v2.1.278 Fable 5.1 with high effort · Claude Max ~/.superset/worktrees/superset/cloud-ws ❯ /mcp MCP Servers 1 connected ❯ 1. superset-mcp ✓ connected config: .mcp.json claude finished · worked for 7s Pushed and opened a draft PR. 2 files +46 −1 Preview ❯ Type a task for Claude… ❯ superset automations Name Schedule Last run daily-triage daily 9:00 ⠋ running changelog-draft sun 11:00 ✓ 2h ago dep-upgrades weekly ✓ 1d ago pr-review on review request ✓ 12m ago ❯ superset connect gpu-box ✓ connected · us-east · 64 cores · 128 GB Run PR #827 Files Changes Review +393 −42 · 5 files · main packages/db/src/schema cloud-workspace.ts + 119 enums.ts + 21 apps/desktop/src/renderer CloudTerminal.tsx + 169 useCloudWorkspaces.ts + 84 LegacyTerminalPane.tsx − 42 cloud-workspace.ts enums.ts +4 @@ -1,4 +1,6 @@ 1 import { db } from \"../db\" + import { CloudWorkspace } from \"./types\" + import { createSSHConnection } from \"./ssh\" 2 − export const getWorkspaces = () => { + export const getWorkspaces = async () => { 4 return db.query.workspaces Approve Comment gpu-box (ssh) ❯ ssh gpu-box Welcome to gpu-box · us-east · 64 cores · 128 GB ❯ superset status 3 workspaces running ⠋ nightly evals · claude · 42m ✓ api hotfix · ready for review ✓ docs refresh · PR opened Start work from anywhere Run your agents from your phone. 9:41 A Acme acme-devbox Last updated acme 4 Fix input overflow handling fix-input-overflow · +26 −2 main Tidy up empty states tidy-empty-states · +10 −0 Update icon size update-icon-size · +1 −0 acme-ios 2 Add transcription demo add-transcription-demo · +14 −0 Add haptics to buttons add-button-haptics · +19 −0 Plan, ask, build… 9:41 Fix input overflow handling › Cap long queries in the command bar and add tests. ● Reading normalizeQuery.ts ● Two changes. Cap the query at MAX_QUERY_LENGTH and return didOverflow so callers can show a hint. ● Run npm test ✔ 14 passed ✻ Worked for 55s · done 4:57 AM › open a PR for this esc ↵ tab ↑ ↓ ^C Type a message… 9:41 Open +26 −2 · 2 files Fix input overflow handling in the command bar #1 Waiting for review All checks passed src/normalizeQuery.ts export function normalizeQuery(q) { - return q.trim(); + const next = q.trim(); + return next.slice(0, MAX); } 2 files changed Trusted by builders from Agent Independence Switch agents. Keep your workflow Use Claude Code, Codex, OpenCode, or any coding agent for each task. Your workspaces, branches, and review flow stay the same. new terminal New Terminal Claude OpenCode Codex Gemini Cursor Agent Mistral Vibe Kimi Code Grok CLI Hermes Muse Code Devin fx Antigravity Kiro Terminals (3) Parallel Execution Scale to 100+ agents Launch agents across features, bug fixes, and refactors, all in parallel. Status at a glance shows which agents are working, which are blocked, and which are waiting on you. superset In Progress 3 Analyze Tab vs Agent Usag... Generating PyTorch MNIST Experiments Generating Fix PR Comments Fetching I... Generating Ready for Review 3 Enterprise Order Mana... now + 93 − 18 Set up Cursor Rules fo... 30m + 37 Bioinformatics Tools 45m + 135 − 21 ❯ Type a task for Claude… Automations Start agents on events or a schedule Turn chores into agents tha",
+   "email_candidates": [
+    {
+     "email": "founders@paradev.com",
+     "where": "https://paradev.com/blog/superset-is-now-paradev",
+     "kind": "hiring"
+    },
+    {
+     "email": "team@paradev.com",
+     "where": "https://paradev.com/contact",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "50eb7f82a2",
+   "company": "Speko",
+   "website": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
+   "title": "Engineering (YC Summer 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 4. OpenRouter for Voice AI: one API, every call on the best speech model Speko is a router for voice models: one API key, and your voice agent runs on the speech-to-text, LLM, and text-to-speech models we measured as best for your language and use case. The measurements are public at benchmarks.speko.ai: we test new models the day they ship and re-route when the numbers change, so you rewrite nothing. We ran this bake-off by hand for four years at previous company, shipping production voice for Fortune 500s. Developer Tools, AI, Conversational AI, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://speko.ai/?utm_source=ycombinator&utm_medium=profile]\nThe router for voice models | Speko Speko Sign in Get API key Backed by Y Combinator Backed by Y Combinator Backed by Y Combinator → The Router for Voice AI Every speech model, benchmarked language by language, wired into one API. Get API key Onboard your agent Router A hosted, provider-neutral STT, LLM and TTS data plane at router.speko.dev, with typed contracts and managed routing. Benchmark coverage by language Speech-to-text Speech-to-text Text-to-speech Text-to-speech Model EN ES DE FR AR FIL NB HI TA TE KO ZH JA TH LT ID SW deepgram:nova-3 soniox:stt-rt-v5 OpenAI:GPT-4o Transcribe bench openai:gpt-4o-mini-transcribe cartesia:ink-whisper google:chirp_3 Alibaba:Qwen3-ASR bench openai:gpt-transcribe xai:grok-stt assemblyai:universal-3-5-pro ElevenLabs:Scribe v2 bench Gladia:Solaria-1 bench Smallest AI:Pulse Pro bench ElevenLabs:Scribe v1 bench Alibaba:Qwen-ASR bench Deepgram:Nova-2 bench modulate:velma-2-stt-streaming azure:MAI-Transcribe-2 gradium:default AssemblyAI:Universal-2 bench Azure:Fast Transcription bench fish:transcribe-1 fish:transcribe-1-pro gemini:gemini-3.5-transcribe OpenAI:Whisper-1 bench alibaba:qwen3-asr-flash-realtime elevenlabs:scribe_v2_realtime meta:muse-voice-transcribe-1.0 AssemblyAI:Universal (batch tier) bench cartesia:ink-2 Groq:Whisper Large v3 bench hamsa:s3 hopper:nemotron-asr modulate:velma-2-stt-streaming-english-v2 munsit:munsit munsit:munsit-en-ar nari:qwen3-asr nari:qwen3-asr-fast smallest:pulse Show all 39 models ↓ Hover a cell for its number. worse better 12 of 55 are only measured in English Their rank in any other language is unknown — including the model that sits at the top of the English table. 4 different models win across 17 languages No single model is best everywhere, so the right pick changes with the language your users speak. Score against cost, per stage Speech-to-text Speech-to-text LLM LLM Text-to-speech Text-to-speech Speech-to-speech Speech-to-speech Accuracy (WER · conversational) 25ms 1.75s 12.0% 24.2% Qwen3-ASR Fast 12.0% · 33ms Finalize (ms, p50) Model WER ▲ conversational Finalize ▼ p50 Qwen3-ASR Fast nari:qwen3-asr-fast 12.0% 33ms Qwen3-ASR nari:qwen3-asr 12.0% 25ms Qwen3-ASR Realtime alibaba:qwen3-asr-flash-realtime 12.2% 889ms Scribe v2 Realtime elevenlabs:scribe_v2_realtime 12.5% 1.75s Gemini 3.5 Transcribe Live gemini:gemini-3.5-transcribe-live 13.1% 1.28s GPT Live Transcribe openai:gpt-live-transcribe 13.5% 620ms Grok Voice Transcribe 1.0 xai:grok-stt 13.7% 1.13s Universal-3.6 Pro assemblyai:universal-3-6-pro 13.7% 505ms Muse Voice Transcribe meta:muse-voice-transcribe-1.0 14.2% — Velma 2 modulate:velma-2-stt-streaming-english-v2 14.4% 1.21s Pulse smallest:pulse 14.5% 839ms Universal-3.5 Pro assemblyai:universal-3-5-pro 14.5% 408ms stt-rt-v5 soniox:stt-rt-v5 16.6% 340ms Ink-2 cartesia:ink-2 16.7% 587ms GPT Realtime Whisper openai:gpt-realtime-whisper 16.8% 1.14s GPT Transcribe openai:gpt-transcribe 16.8% 817ms Nova-3 deepgram:nova-3 17.0% 189ms Chirp 3 google:chirp_3 18.4% — Flux deepgram:flux-general-en 19.7% 712ms GPT-4o-mini Transcribe openai:gpt-4o-mini-transcribe 20.6% 822ms flux-general-multi deepgram:flux-general-multi 21.4% 854ms nemotron-asr hopper:nemotron-asr 23.1% 656ms Gradium ASR gradium:default 24.2% 1.13s transcribe-1-pro fish:transcribe-1-pro — — transcribe-1 fish:transcribe-1 — — MAI-Transcribe-2 azure:MAI-Transcribe-2 — — MAI-Transcribe-2-Streaming azure:MAI-Transcribe-2-Streaming — — ink-whisper cartesia:ink-whisper — — gemini-3.5-transcribe gemini:gemini-3.5-transcribe — — s3 hamsa:s3 — — velma-2-stt-streaming modulate:velma-2-stt-streaming — — munsit munsit:munsit — — munsit-en-ar munsit:munsit-en-ar — — default palabra:default — — Show all 34 models ↓ Gateway The open customer-side runtime for LiveKit and Pipecat: provider-direct streaming, local BYOK credentials and optional Speko-managed routes. Run and observe your voice workers Use the native Gateway integrations in your ",
+   "email_candidates": [
+    {
+     "email": "team@speko.ai",
+     "where": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
+     "kind": "generic"
+    },
+    {
+     "email": "beknazar@speko.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Beknazar Abdikamalov",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "36a54450bf",
+   "company": "Deutsche Technoplast GmbH",
+   "website": "https://deutsche-technoplast.com",
+   "title": "Projektleiter Automotive (m/w/d)",
+   "location": "Wörth an der Donau",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-30T06:31:10Z",
+   "posting": "Aufgaben Sie übernehmen die technische und kaufmännische Leitung anspruchsvoller Projekte von technischen Kunststoffbauteilen für ausgewählte Kunden im nationalen und internationalen Automotive Umfeld Ihr Verantwortungsbereich erstreckt sich dabei von der Projektvergabe bis zur Übergabe in die Serienproduktion Sie koordinieren interne und externe Projektschnittstellen und arbeiten eng mit den Abteilungen Vertrieb, Konstruktion, Werkzeugbau und Anwendungstechnik zusammen Die Erstellung und Pflege von APQP-Projektplänen und die Verfolgung aller Aktionen zur Erreichung der Meilensteine gehört zu Ihren Hauptaufgaben Sie bauen neue Kundenbeziehungen auf und präsentieren souverän und mit Empathie unsere technologischen Möglichkeiten im Bereich unserer Kernkompetenzen Qualifikation Sie verfügen über ein erfolgreich abgeschlossenes Studium im Bereich Kunststofftechnik, Wirtschaftsingenieurwesen oder einen Abschluss einer vergleichbaren technischen Ausbildung mit Weiterbildung, idealerweise in der kunststoffverarbeitenden Industrie Sie besitzen fundierte Berufserfahrung im Projektmanagement der Automobilindustrie Sie verfügen über Durchsetzungsvermögen, Verhandlungsgeschick, Flexibilität, Belastbarkeit und Organisationsgeschick Sie sind kommunikativ, motivierend und legen Wert auf Teamwork Verhandlungssichere Deutsch- und Englischkenntnisse in Wort und Schrift sind für Sie kein Thema Benefits Spannende und verantwortungsvolle Aufgaben in einem expandierenden, mittelständischen Unternehmen in einer zukunftsorientierten Branche Sicherheit in einem traditionsreichen und wirtschaftlich soliden Familienunternehmen Flache Hierarchien und schnelle Entscheidungswege Individuelle Weiterbildungs- und Entwicklungsmöglichkeiten Familiäres Betriebsklima Find Jobs in Germany on Arbeitnow Project Management, Unbefristeter arbeitsvertrag, berufserfahren",
+   "site_text": "[https://deutsche-technoplast.com/de/]\nStartseite - Deutsche Technoplast Zum Inhalt springen Startseite werbeluchs 2025-08-19T10:52:45+02:00 verbinden. Die Kunst Stoffe zu Wir sind Experten für die Verarbeitung thermoplastischer Hochleistungskunststoffe als auch für den begleitenden Präzisions-Werkzeug und -Formenbau sowie Spezialist für Automatisierungs- und Prüfsysteme. Im engen Austausch mit Kunden und Lieferanten entstehen bei uns hochpräzise Kunststoffteile – zuverlässig, passgenau und innovativ. Wir sind Experten für die Verarbeitung thermoplastischer Hochleistungskunststoffe als auch für den begleitenden Präzisions-Werkzeug und -Formenbau sowie Spezialist für Automatisierungs- und Prüfsysteme. Im engen Austausch mit Kunden und Lieferanten entstehen bei uns hochpräzise Kunststoffteile – zuverlässig, passgenau und innovativ. Spritzguss Auf über 90 Spritzgussmaschinen, mit einer Größe von 40 bis 400 Tonnen Zuhaltekraft, verarbeiten wir auch Hochleistungskunststoffe wie PEEK und PPS. Durch unsere interne Prozessentwicklung gewährleisten wir höchste Qualitätsstandards. Dabei berücksichtigen wir ein hohes Maß an Wirtschaftlichkeit durch automatisierte Fertigungsprozesse. mehr erfahren Produktveredelung Zur Veredelung unserer Kunststoffteile nutzen wir Fertigungsverfahren wie Ultraschallschweißen, Verchromen, O-Ring-Montage, vollautomatisierte Pin-Bestückung und viele weitere. Zusätzlich entwickeln und implementieren wir neue Prozesse je nach Kundenbedarf. mehr erfahren Formenbau Unser hauseigener Formenbau mit Konstruktion gewährleistet aufgrund langjähriger Erfahrung die Herstellung von Präzisionswerkzeugen mit höchsten Anforderungen von bis zu 640 Kavitäten. Durch kurze interne Wege bieten wir höchste Schnelligkeit und Flexibilität. So setzen wir Projekte effizient und termingerecht um. mehr erfahren location_on DEUTSCHE TECHNOPLAST 93086 Wörth a.d. Donau DEUTSCHLAND Local Source – Global Partner Mit unseren beiden Standorten in Deutschland und Malaysia beliefern wir unsere Kunden als Global Player auf 5 Kontinenten in über 25 Ländern: Südkorea DEUTSCHE TECHNOPLAST 75350 Melaka MALAYSIA Philippinen location_on Deutschland Malaysia China Thailand Indien Japan VAE USA Mexiko Brasilien Südafrika Schweiz Österreich Ungarn Spanien Italien Rumänien Dänemark Frankreich Malta Polen Großbritannien Tschechien Kenia Nigeria Unser Erfolg – in Zahlen 0 + Mrd. Spritzgussteile / Jahr 0 + Spritzgussmaschinen 40- 0 t Zuhaltekraft 0 + Mitarbeiter weltweit 0 + qm Produktionsfläche 0 + t Materialverbrauch / Jahr Entwickelt für verschiedenste Anforderungen. Optoelektronik / Elektrik & Elektronik / Haus & Gerätetechnik / Automobil / Maschinen & Anlagenbau / Signaltechnik Entwickelt für verschiedenste Anforderungen. Optoelektronik / Elektrik & Elektronik / Haus & Gerätetechnik Automobil / Maschinen & Anlagenbau / Signaltechnik Entwickelt für verschiedenste Anforderungen. Optoelektronik / Elektrik & Elektronik / Haus & Gerätetechnik Automobil / Maschinen & Anlagenbau / Signaltechnik Deutsche Technoplast GmbH Reitfeld 2 • 93086 Wörth a.d. Donau T +49 9482 9081-0 • F +49 9482 9081-22 info@deutsche-technoplast.com Unternehmen Team Historie Qualität & Nachhaltigkeit Kompetenzen Spritzguss Produktveredelung Formenbau Referenzen Karriere Ausbildung Kontakt Infos Downloads Impressum Datenschutz Hinweisgeberportal Deutsche Technoplast GmbH • Reitfeld 2 • 93086 Wörth a.d. Donau T +49 9482 9081-0 • F +49 9482 9081-22 • info@deutsche-technoplast.com Unternehmen Team Historie Qualität & Nachhaltigkeit Kompetenzen Spritzguss Produktveredelung Formenbau Referenzen Karriere Ausbildung Kontakt Infos Downloads Impressum Datenschutz Hinweisgeberportal Deutsche Technoplast GmbH Reitfeld 2 • 93086 Wörth a.d. Donau T +49 9482 9081-0 • F +49 9482 9081-22 info@deutsche-technoplast.com Unternehmen Team | Historie | Qualität & Nachhaltigkeit Kompetenzen Spritzguss | Produktveredelung Formenbau | Referenzen Karriere Ausbildung Kontakt Infos Downloads | Impressum Datenschut",
+   "email_candidates": [
+    {
+     "email": "info@deutsche-technoplast.com",
+     "where": "https://deutsche-technoplast.com/de/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "55c66b96ad",
+   "company": "DOMUS Consult Wirtschaftsberatungsgesellschaft mbH",
+   "website": "https://domusconsult.de",
+   "title": "Mitarbeiter / Leiter (w|m|d) interne Qualitätssicherung Wirtschaftsprüfung – Vollzeit oder Teilzeit",
+   "location": "Dresden, Sachsen, Deutschland",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-30T03:31:22Z",
+   "posting": "Der Verband Sächsischer Wohnungsgenossenschaften e. V. (VSWG) ist gesetzlicher Prüfungsverband sowie Fach- und Interessenverband der sächsischen Wohnungsgenossenschaften. In den Bereichen Prüfung, Beratung, Weiterbildung und Interessenvertretung begleitet der VSWG seine Mitgliedsgenossenschaften. Mit Genauigkeit für geprüfte Qualität Als Mitarbeiter / Leiter (w/m/d) übernehmen Sie eine wichtige Rolle in der internen auftragsbezogenen Qualitätssicherung der Wirtschaftsprüfung. Genauigkeit, Struktur und fachliche Tiefe prägen dabei Ihren Arbeitsalltag. Ihre Tätigkeit umfasst insbesondere die formelle und materielle Berichtskritik: Sie prüfen Prüfungsberichte auf Zahlenkonsistenz, inhaltliche Plausibilität und sprachliche Korrektheit und berücksichtigen dabei interne Qualitätsstandards und Fristen. Sie stellen die formelle und fachliche Richtigkeit sowie die Vollständigkeit der Berichte sicher. Tabellen und Texte kontrollieren Sie auf rechnerische und orthografische Korrektheit. Hinweise auf mögliche Bilanzierungsfehler identifizieren Sie und geben diese entsprechend weiter. Sie pflegen Berichtsdateien, bereiten diese vor und übernehmen die finale Aufbereitung. Zudem wirken Sie an der Fortentwicklung, Durchsetzung und Überwachung des gemäß § 55b WPO bestehenden internen Qualitätssicherungssystems mit. Fachliches Know-how trifft auf sorgfältiges Arbeiten Für die Berichtsprüfung und Berichtskritik bringen Sie ein gutes Verständnis für Zahlen und Zusammenhänge mit. Eine strukturierte und präzise Arbeitsweise bildet die Grundlage für Ihre Tätigkeit. Erfahrungen in der Durchführung von Abschlussprüfungen Fundierte Kenntnisse in der Bilanzierung Idealerweise Branchenkenntnisse in der Immobilienwirtschaft Gutes Verständnis für finanzbuchhalterische und steuerliche Zusammenhänge Strukturierte, sorgfältige und zuverlässige Arbeitsweise Hohes Maß an Diskretion und Vertrauenswürdigkeit Sicherer Umgang mit MS Office, insbesondere Word, Excel und Outlook, sowie mit gängigen Videoko",
+   "site_text": "[https://www.domusconsult.de/]\nHerzlich Willkommen - DOMUS Consult Zum Inhalt springen Beraten. Begleiten. Bewegen. Durchdachte Analysen, tragfähige Strategien und praxisnahe Maßnahmen für die Wohnungs- und Immobilienwirtschaft. News 18. Mai 2026 „Wir sind superglücklich“ – Ein Jahr „caretaker“ bei der Ronneburger Wohnungsgesellschaft mbH Hauswartleistungen gehören zu den zentralen Aufgaben im Gebäudemanagement: Kontrollgänge, Grünpflege, Winterdienst, kleinere Reparaturen, Störungsmeldungen oder die Dokumentation von Schäden und Vandalismus. Das alles muss nicht nur erledigt, sondern auch nachvollziehbar dokumentiert und Kostengruppen zugeordnet werden. Hier setzt die App „caretaker“ an. Die digitale Lösung wurde von DOMUS Consult gemeinsam mit der CONSOS GmbH und der Ronneburger Wohnungsgesellschaft mbH speziell für die Wohnungswirtschaft entwickelt. Mit dem „caretaker“ können Hauswartleistungen geplant, mobil erfasst, dokumentiert und den jeweiligen Objekten sowie Kostengruppen zugeordnet werden. Die Ronneburger Wohnungsgesellschaft mbH verwaltet einen Bestand von rund 1.500 Wohnungen und nutzt den „caretaker“ seit April 2025. Im Interview berichtet Geschäftsführer Michael Heidrich-Kühn, was sich dadurch im Arbeitsalltag verändert hat. Was war der Ausgangspunkt für die Einführung des „caretakers“? Michael Heidrich-Kühn: Wir hatten bereits seit 2008 eine digitale Lösung für unsere Hauswartleistungen im Einsatz. Diese war damals ein wichtiger Schritt, ist aber mit der Zeit an Grenzen gestoßen. Sie wurde nicht weiterentwickelt, entsprach technisch nicht mehr dem heutigen Stand und war zunehmend schwer handhabbar. Unser Ziel war deshalb nicht, alles neu zu erfinden. Wir wollten das Gute aus dem alten System erhalten, es aber auf eine moderne, offene und zukunftsfähige Plattform heben. Wichtig war uns, dass die Lösung nachvollziehbar, anpassbar und erweiterbar ist. Was läuft heute besser als früher? Michael Heidrich-Kühn: Sehr viel. Wir hatten schon vor dem „caretaker“ eine Software-Lösung. Aber diese war irgendwann veraltet und mit neuer Hardware nicht mehr kompatibel. Außerdem war sie auf einem festen Client installiert. Das heißt: Die Hauswarte mussten ihre Tätigkeiten dort nachträglich eintragen. Das war zeitaufwendig und fehleranfällig. Heute haben die Mitarbeitenden die App auf dem Handy jederzeit griffbereit. Sie können Leistungen direkt vor Ort erfassen, Fotos hinterlegen und ihre Tätigkeiten mit Zeitstempel dokumentieren. Dadurch haben wir eine deutlich bessere Dokumentationstiefe und sehen den aktuellen Stand fast live. Hinzu kommt: Wir können Aufgaben planen und direkt an die Mitarbeitenden geben. Das können einmalige Aufträge sein, zum Beispiel bei einem gemeldeten Defekt, aber auch wiederkehrende Aufgaben in bestimmten Rhythmen. So können die Hauswarte ihre Arbeit einfacher strukturieren. Spielt die App auch bei der Berechnung der Betriebskosten eine Rolle? Michael Heidrich-Kühn: Ja. Um die Abrechnung zu erleichtern, arbeiten wir mit Kostengruppen und hinterlegten Leistungskatalogen. So ist klar definiert, ob es sich zum Beispiel um Betriebskosten, Instandhaltungen oder andere Leistungen handelt. Die Leistungsbeschreibungen sind vorformuliert und müssen nur angeklickt werden. Das erleichtert die Arbeit und vereinheitlicht die Dokumentation. Wie haben Ihre Mitarbeitenden auf die Einführung reagiert? Michael Heidrich-Kühn: Bei der Umstellung auf unsere erste Hauswartsoftware im Jahr 2008 gab es durchaus Vorbehalte. Einige Mitarbeitende waren damals noch auf Kriegsfuß mit dem PC. Außerdem kam die Frage auf, ob man als Mitarbeiter dadurch stärker kontrolliert wird. Das war aber nie unser Ziel. Bei der Einführung des „caretakers“ gab es gar keine Probleme. Für die Hauswarte ist es eine große Verbesserung, dass sie ihre Tätigkeiten nicht mehr nachträglich in das System einpflegen müssen, sondern dies jederzeit mit dem Handy machen können. Waren dafür Schulungen notwendig? Michael Heidrich-Kühn: Nein. Die Struktur und die ",
+   "email_candidates": [
+    {
+     "email": "specht@domusconsult.de",
+     "where": "https://www.domusconsult.de/",
+     "kind": "personal"
+    },
+    {
+     "email": "datenschutz@domusconsult.de",
+     "where": "https://www.domusconsult.de/",
+     "kind": "personal"
+    },
+    {
+     "email": "team@domusconsult.de",
+     "where": "https://www.domusconsult.de/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "f9ab819d02",
+   "company": "Earthbound GmbH",
+   "website": "https://earthboundinc.org",
+   "title": "Founder's Associate (Werkstudent*in, m/w/d)",
+   "location": "Berlin",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-29T20:30:40Z",
+   "posting": "Über uns Wir bei earthbound denken Baustoffe neu. Aus dem, was die Bauindustrie bisher als Abfall betrachtet, schaffen wir hochwertige, zirkuläre Baustoffe für die Gebäude von morgen. Damit zeigen wir, dass ressourcenschonendes Bauen nicht nur möglich, sondern auch wirtschaftlich und im großen Maßstab umsetzbar ist. Unsere Technologie hat sich in der Praxis bewährt. Jetzt bringen wir sie in die Breite. Deine Rolle Du möchtest nicht nur verstehen, wie ein Unternehmen aufgebaut wird, sondern selbst daran mitwirken? Du interessierst dich für Unternehmertum, strategische Fragestellungen und die Herausforderung, aus einer innovativen Technologie ein erfolgreiches Unternehmen zu machen? Dann bist du bei uns richtig. Als Founder's Associate arbeitest du eng mit unserem Gründerteam zusammen und unterstützt die strategische und operative Weiterentwicklung von earthbound. Du erhältst unmittelbare Einblicke in unternehmerische Entscheidungen, bringst eigene Ideen ein und übernimmst Verantwortung für eigene Projekte. Deine Aufgaben Strategie und Unternehmensentwicklung Marktpotenziale analysieren, Geschäftsmöglichkeiten recherchieren, Entscheidungsgrundlagen entwickeln Strategische Vorhaben mit umsetzen Geschäftsentwicklung und Partnerschaften Kunden und Partner identifizieren, Geschäftsbeziehungen aufbauen Vertrieb weiterentwickeln, neue Marktchancen erschließen Finanzen und Organisation Finanzplanung, Investorenkommunikation und Finanzierung Interne Abläufe verbessern, kleinere Projekte übernehmen Dein Profil Fortgeschrittenes Bachelor oder Masterstudium, idealerweise wirtschaftsnah Interesse an Unternehmertum und nachhaltigen Technologien Analytisch, strukturiert, mit Eigeninitiative Sicheres Deutsch und Englisch Start up oder Beratungserfahrung ist ein Plus, kein Muss Was dich erwartet Unternehmertum hautnah mit dem Gründerteam Eigenverantwortung und steile Lernkurve Arbeitsplatz direkt an unserer Produktion in Tegel Ein Team, mit dem du wachsen kannst Rahmen Startdatum: Mi",
+   "site_text": "[https://www.earthboundinc.org/]\nHandmade Fair Trade Gifts | Earth Bound top of page Log In ABOUT US \"Strengthening our committment to the earth and her indigenous people\" We serve as a platform for indigenous artisans – to help preserve, exhibit, and market their traditional and innovative folk art, with interest in the sustainability of the natural fibers used to create these objects. We do this through community-based workshops, shared resource management activities, and our market linkages. Earth Bound, Inc. is a volunteer-run not-for-profit 501(c)3 social enterprise and adheres to Fair Trade Principals. It is funded primarily through donations and the sale of Fairly Traded products. hand woven basket hand woven basket 1/7 OUR STORY Earth Bound was conceived nearly 30 years ago by Laurie Wilkins, a biologist working at the Florida Museum of Natural History, while studying Conservation Biology and Latin American Studies at the University of Florida. She was inspired by new ideas (at the time) such as adding value locally to the extraction of non-timber forest products, thereby empowering and benefitting local inhabitants. She opened Alternatives fair trade store in Gainesville in 1991, hoping to find a means of financial support for Earth Bound. The Earth Bound concept was fueled by the beauty, ingenuity, and cosmology expressed by cultural items made by indigenous people she met while traveling around the world. Earth Bound could not have existed over these years of dramatic change without the help and dedication of board members, students, and volunteers who have worked with Earth Bound. Alternatives Global Marketplace continues today online in the capable hands of the new owner Alisa Woofter, who purchased the store in 2012. WE ARE EARTH BOUND bottom of page\n\n[https://www.earthboundinc.org/about-us]\nWHAT WE DO | EARTHBOUND top of page Log In WHAT WE DO Develop projects that promote traditional skills and generate income for artisans Sell and promote folk art by marketing, product development, and event sponsorship Encourage business growth, skill development, and resource management through interactive workshops with our partners Design gallery exhibits with visiting artisans to encourage cultural exchange, community participation, and an understanding of traditional methods Basket weaving demonstration by Aurora Rodriguez of Kanwasumi Basket Cooperative at the Santa Fe Folk Art Market, July 2016. bottom of page\n\n[https://www.earthboundinc.org/about1]\nACKNOWLEDGEMENTS | EARTHBOUND top of page Log In ACKNOWLEDGEMENTS ​ Ye’kwana populations of The Caura River, and their two cooperatives, Kanwasumi and Medewa who generously shared their customs and forest homes with us, especially Aurora Rodriguez, a Ye’kwana woman of stature who first reached out to us, and from whom all other activities followed. Our Board Members Wendy Townsend , whose extraordinaray knowledge of indigenous culture and their resource use allowed us to effectively work with the Ye’kwana of Venezuela for the past 18 years—especially through on-site workshops. Brenda Nims, whose business acumen assisted in every aspect of planning and led us to the best markets in the U.S. Phil Smith, One World Projects, who graciously gave us space in his New York Gift Show booth on many occasions. Ines Hinojosa, Bolivian Ethnobotanist the organizer of the Ayoreo project in Bolivia, and advisor in many topics. Consultants, Friends, and Volunteers Ken McMurry, Consultant and designer of Trading Traditions Exhibit Susan Milbrath, Co-curator of Living Maya and Trading Traditions Exhibits Amy Penfield, Carlton Pomeroy, and Byron Real, volunteered in Venezuela while working on their own Ph.d. projects. Their activities helped maintain critical connections to Earth Bound objectives. Also, their insights and research related to their specific study areas (Anthropological, Ecological and Legal) provided valuable information about the Ye’kwana. Erica Carlsson, volunteer and student",
+   "email_candidates": [
+    {
+     "email": "laurie@earthboundinc.org",
+     "where": "https://www.earthboundinc.org/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "42081b8975",
+   "company": "Oway",
+   "website": "https://www.shipoway.com",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 16. Building the open operating system for the automated physical economy. The physical economy still operates without a common language. Enterprise systems, factories, trucks, and robots generate enormous amounts of data, but most remains fragmented across legacy software and incompatible formats. Without a shared understanding of what is happening, even the most advanced AI cannot reliably coordinate how goods are made, moved, and delivered. Oway is building that common language. Our protocol, IOI, connects enterprise systems and physical hardware, cleaning messy legacy data and live telemetry into a standardized schema that AI can understand and act on. Through a shared API, businesses can query their operations, identify inefficiencies, and automate actions across systems without replacing their existing software. Our first model, Juno, applies this intelligence to unused truck capacity. It tracks empty space on trucks and sells it at a 50% discount to businesses shipping in the same direction. By moving freight directly on trucks already making the trip, Oway reduces shipping costs, damage, and transit times while generating additional revenue for carriers. Every connected system and shipment expands our understanding of capacity, pricing, routes, facilities, and industrial operations. As this network grows, Oway is building toward a future where enterprise software, automated factories, self-driving vehicles, and robots can communicate and coordinate through one shared layer, making the physical economy programmable. B2B, API, Infrastructure, AI, Industrial, B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.oway.io/]\nOway | Industrial Automation, Distribution and Research Skip to content Oway Request a Demo Log In Platform Oway OS Making inefficient distribution into a competitive advantage. Juno Industrial AI that reasons over your operation and acts. IOI The common protocol for industrial systems, machines and partners. Developers Docs, APIs and MCP for building on Oway. Overview How Oway Works IOI connects your operation, Juno acts on it, and Oway OS optimizes shipments using our network of audited vehicles. Industries Manufacturing Connect lines, plants and suppliers so production runs on one live plan. Logistics and Supply Chain Run warehouses, fleets and partners as one network. Robotics and Autonomy Give robots and autonomous vehicles the context they need to take on real work. Mining and Materials Coordinate equipment, stockpiles and outbound haulage from pit to port. Energy and Utilities Keep field assets, parts and crews moving to where they are needed. Defense and Aerospace Trace every part and supplier behind readiness. Retail, CPG and Food Keep shelves stocked and distribution centers flowing at the lowest cost to serve. Healthcare and Life Sciences Get critical supplies where they need to be, on time. Overview Oway for every operation Use cases and teams across every operation that makes and moves things. Research All Research Case studies, models, benchmarks and notes. Juno AI What Juno reads, decides and how we evaluate it. Introducing IOI One open schema for the physical economy. Case Studies Shippers and carriers on Oway. Essay The Physical Economy Has No Index Why industry still runs without a common index, and what it takes to build one. Oway About Our mission, team and the story behind Oway. Careers Build the systems that run the physical world. More Research Our work on industrial AI. Security How we protect your operation. Contact Talk to our team. Careers We’re hiring Engineering, research and enterprise sales. Platform Oway OS Making inefficient distribution into a competitive advantage. Juno Industrial AI that reasons over your operation and acts. IOI The common protocol for industrial systems, machines and partners. Developers Docs, APIs and MCP for building on Oway. Overview How Oway Works. Solutions Overview Use cases and teams across every operation that makes and moves things. Manufacturing Connect lines, plants and suppliers so production runs on one live plan. Logistics and Supply Chain Run warehouses, fleets and partners as one network. Robotics and Autonomy Give robots and autonomous vehicles the context they need to take on real work. Mining and Materials Coordinate equipment, stockpiles and outbound haulage from pit to port. Energy and Utilities Keep field assets, parts and crews moving to where they are needed. Defense and Aerospace Trace every part and supplier behind readiness. Retail, CPG and Food Keep shelves stocked and distribution centers flowing at the lowest cost to serve. Healthcare and Life Sciences Get critical supplies where they need to be, on time. Research All Research Case studies, models, benchmarks and notes. Juno AI What Juno reads, decides and how we evaluate it. The Physical Economy Has No Index Our thesis. Introducing IOI One open schema for the physical economy. Security Company About Our mission, team and the story behind Oway. Careers Build the systems that run the physical world. Contact Talk to our team. Request a Demo Log In Request a Demo See how Oway works for you. Request received. Our team will reach out shortly to set up your demo. Your privacy We use strictly necessary cookies to run this site. With your permission, we also use analytics to understand how it’s used. You can change this anytime in Cookie Settings. Privacy Policy Reject non-essential Customize Accept all Cookie settings Choose which cookies Oway can use. Strictly necessary cookies are always on because the site needs them to work. Strictly necessary Security, load balancing and re",
+   "email_candidates": [
+    {
+     "email": "jobs@oway.io",
+     "where": "https://www.oway.io/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

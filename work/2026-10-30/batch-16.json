@@ -1,0 +1,310 @@
+{
+ "leads": [
+  {
+   "id": "2caed77d19",
+   "company": "Aleph",
+   "website": "https://getaleph.com/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 30. One source of truth for financial data. Aleph helps top finance teams work with their data in real time. Businesses can automate financial models and streamline budgeting and forecasting with the fastest-to-implement FP&A platform. Aleph eliminates the need to export data from multiple sources by syncing spreadsheet models with data from 150+ integrations, and allows teams to interact with their data in no-code dashboards. From annual budgeting to ad hoc reporting, scale your financial processes faster with better data without expanding your team. See why over 90% of people who start a trial with Aleph become customers! Finance, B2B, Finance and Accounting, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.getaleph.com/]\nAleph | AI-native FP&A software & data management for finance Meet the Aleph Agent AI-native FP&A that connects your data, strategy, and spreadsheets Automate the busywork with end-to-end intelligence — a web platform, your spreadsheets, and AI in one system. Book a demo Start a free trial 4.9 rating | The #1 Momentum Leader for Financial Analysis software Case Study Testimonials Aleph has been a game changer for us. If I were ever to leave Zapier, I'd have to take Aleph with me. Miranda Conley Senior Director of Accounting Case Study Testimonials Case Study Testimonials Aleph changed our finance team’s processes from really messy, tedious, and error prone to smooth and streamlined. We save hours, annoyance, and our whole reporting process is better because we can get answers immediately. Ani Kochiashvili Finance Technology Lead Case Study Testimonials Case Study Testimonials The Aleph team has gone above and beyond—always there when we need them. It's been an incredible partnership. Bryce Heinz CFO Case Study Testimonials Case Study Testimonials Aleph has been a game changer for us. It's extremely flexible to build and adjust your forecast. You can do it in Excel. You can do it in Google Sheets. We have gone from tracking 10 to 15 drivers of our forecast model to now something like 50. Chuck Fisher CFO Case Study Testimonials Case Study Testimonials We moved all our financial reporting to Aleph. Since we implemented it, I have encouraged all the members of the FP&A team to automate their reports with Aleph. There is a before and after in the way we work. ‍ Sergio Prada Director of FP&A Case Study Testimonials Case Study Testimonials Our ability to access, analyze, and model our financial data has dramatically improved since implementing Aleph. Aleph has significantly accelerated our workflows—tasks that once took days now only require a few hours. Yazmi Miah Strategic Finance & Business Operations Case Study Testimonials Case Study Testimonials Working with Aleph on AI-driven analysis has been a game changer. We can instantly spot what changed month to month—and why—with minimal digging. Greg Capitolo Co-Founder & Partner Case Study Testimonials Case Study Testimonials What was our process before Aleph? I don’t even like to think about that anymore. It gives me the shakes. Johnnie Walker Director Case Study Testimonials Case Study Testimonials The first two years, finance was seen as a gatekeeper. Now, with Aleph, we’re viewed as trusted partners who bring insights in real time. That’s priceless. Omar Asghar Director of FP&A Case Study Testimonials You weren't kidding when you said it's plug-and-play and you immediately play. We were up and running in the same week. Connie Ho Senior Finance Manager Financial Reporting Demo Start quickly, scale infinitely Future-proof your finance team by meeting you where you are today—while providing the infrastructure to thrive in an AI-accelerated tomorrow. Discover your “aha moment” on day one Skip the multi-month onboarding timelines that plague our industry. With Aleph, you’ll see the value on day one. No other solution can compete with what we deliver. Automate your busywork with fully-observable AI Say goodbye to working through lunch breaks and pulling all-nighters with AI that never sleeps. Get all the power with none of the black box or risk of hallucinations. Multiply your output with the same headcount Leverage cleaner data, automated reporting, and deeper insights to multiply your output and impact almost overnight without multiplying your headcount. “Implementing Aleph was insanely fast. We did all of our quarter-end reporting with Aleph less than 3 weeks after signing.” Chris Brubaker, SVP of Finance Replace busywork with high-value strategic work Deploy an army of AI agents, analysts, and assistants to handle all the busywork that stands between you and the high-value strategic work you were hired to do. Book a demo Start a free trial Connect & Syn",
+   "email_candidates": [
+    {
+     "email": "albert@getaleph.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Albert Gozzi",
+     "role": "Founder"
+    },
+    {
+     "email": "spderosso@gmail.com",
+     "where": "YC profile · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Santiago Perez De Rosso",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "4059cae464",
+   "company": "Infisical",
+   "website": "https://infisical.com",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 50. Unified platform for secrets, certs, and privileged access management Infisical is the all-in-one security infrastructure platform for secrets, certificates, and privileged access management. Infisical stores your secrets and injects them back into your development workflow, CI/CD pipelines, and cloud infrastructure. It comes with secrets versioning, point-in-time recovery, audit logging, automatic secret rotation capabilities, and more. Developer Tools, SaaS, B2B, Security, Open Source, B2B, Security, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://infisical.com/]\nInfisical | The modern security platform for developers and agents 27k stars Talk to an expert Get started for free We’ve raised a $40M Series B: Building security infrastructure for developers and AI agents > Security Infrastructure for Developers and Agents All-in-one platform to securely manage application secrets, certificates, and privileged access across cloud, on-prem, and AI infrastructure. Get started for free Talk to an expert PAM All Active Expired Session recording Time Activity Duration 14:32:08 SSH login to prod-db-01 1h 14:32:44 psql prod_accounts 30m 14:34:03 sudo systemctl restart api 15m 14:35:58 Read-only window closed Expired 14:37:26 Session terminated Expired 14:39:10 RDP login to win-bastion 45m 14:41:02 kubectl exec payments-7f4 20m 14:44:37 Approval window lapsed Expired PKI All Active Expiring Expired Auto-renew Common name Status Expires api.infisical.com Active Apr 01 2027 vault.internal Expiring Jun 08 2026 infisical.com Expired May 23 2026 db.internal Active Feb 18 2027 gateway.infisical.com Active Jan 05 2027 staging.infisical.com Expired Apr 30 2026 mesh.internal Expiring Jul 14 2026 edge.infisical.com Active Nov 22 2027 Agent Vault All Active Expired Auto-revoke Identity Bundle Expires Status checkout-agent payments-ro in 6d Active etl-runner warehouse-rw in 4h Active support-bot tickets-ro in 12d Active deploy-agent infra-admin Expired Expired analytics-agent warehouse-ro in 2d Active billing-agent stripe-ro Expired Expired crawler-agent web-scrape in 9d Active onboarding-bot users-rw Expired Expired Secrets All Secrets Folders Imports Name Development Dev Staging Stg Prod–Core Core Prod–US US Prod–EU EU API_KEY stripe_api_key — datadog_api_key — — postgres_connection_url — — redis_password — — API_TOKEN_REFRESH — — Services gitlab_cicd_variables — — aws_credentials — — — — third_party_integrations — — — — dynamic-db — — — — azure-infisical-test — — — — aws-canary-prod-key — — — — Staging /k8s-operator-secrets — — — — Development /ai-agents — — — — Development Staging Prod–Core Prod–US Prod–EU Products Meet the all-in-one identity security stack for developers and AI agents. Secrets, certificates, and privileged access — one platform, one identity model, one place to audit every credential your applications and agents use. Explore product features Secrets Management Sync, rotate, and audit application credentials across every environment and workload — without the sprawl of vault forks, env files, and ad-hoc scripts. Explore Secrets Management Granular Access Controls Scope access to secrets by environment, path, and identity with fine-grained RBAC. See Access Controls Secret Rotation + Dynamic Secrets Rotate credentials on a schedule and issue short-lived, on-demand secrets scoped to each request. See Secret Rotation Approval Workflows Require reviews for sensitive changes and access requests before they reach production. See Approval Workflows Name Development Staging Prod – Core Staging /k8-operator-secrets aws_credentials gitlab_cicd_variables stripe_api_key datadog_api_key k8-operator-secrets third_party_integrations postgres_connection_url redis_password Agents shouldn't see your secrets. Give agents access without handing them credentials. See Agent Vault # on-call on-call Jadden 10:42 AM @Agent our checkout p99 is spiking, can you investigate? Agent App 10:42 AM Thinking... Root cause: an N+1 query from the 10:30 deploy. Opened #412 to fix it, CI is green. Sandboxed Agent Proxy Agent Vault Anthropic Datadog Datadog GitHub GitHub Scoped access You decide which tools and APIs each agent can reach. Everything else is blocked at the proxy. No leaked secrets The agent only ever sees placeholders. Real secrets are attached at the proxy and never reach the agent. Full audit trail Every request an agent makes is routed through Infisical and logged, so you can see exactly what your agents are doing. Certificate Management Stand up private CAs and automate the full certi",
+   "email_candidates": [
+    {
+     "email": "team@infisical.com",
+     "where": "https://infisical.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "vlad@infisical.com",
+     "where": "https://infisical.com/blog/series-b",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "55b33c8174",
+   "company": "Mytos",
+   "website": "https://www.mytos.bio",
+   "title": "Engineering (YC Summer 2018)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 26. Robotic human cell manufacturing Mytos builds robots for manufacturing human cells. Operators input stem cells, and our platform turns them into specific cells such as neurons and heart cells over multiple weeks. Last year, patients were cured of Parkinson’s, vision loss, and Type 1 diabetes using stem-cell derived cells. We need 1000x the global capacity to produce these cells, and treat millions of patients. But today these Regenerative Medicines are produced by hand, meaning they’re too expensive and don’t scale. Mytos has fully automated production of these cells, making it scalable. We have our first manufacturing deal - neurons for treating Parkinson’s - and we’re in conversations with majority of the other top players. Hardware, IoT, Biotech, Automation, Biotechnology, Healthcare, Industrial Bio, United Kingdom, Europe, Remote, Partly Remote",
+   "site_text": "[https://www.mytos.bio/]\nHome | Mytos Tissue manufacturing unlocked. Commercially viable scale with automated manufacturing. Latest News Mytos Launches Automated CDMO for Scalable, Low-Cost Manufacturing of Stem-Cell Derived Therapies Oct 6, 2025 Mytos Advances Automated iPSC Manufacturing through Strategic Partnerships Sep 29, 2025 Mytos Announces Manufacturing Collaboration with Aspen Neuroscience in Parkinson's Disease Jan 8, 2025 Therapies work in the clinic, but are failing to scale. The bottleneck is manual production. Mytos’ automation enables scaling in months not years, at lower costs than manual. 4× Faster Scaling 10× Batches Per Cleanroom 40% Lower Cost Per batch 10× Fewer FTE hours Automated CDMO Mytos Manufacturing Sites iDEM Technology Automates cell production Leading teams scale with Mytos. Aspen Neuroscience Reversing Parkinson's Novadip Bone Repair Rinri Therapeutics Restoring Hearing StemSight Restoring Vision “The Mytos iDEM system, together with our bioinformatics and other enabling technologies, allows us to scale out for Phase 3 and ultimately commercialization, making more product at lower cost.” Kim Raineri CTO · Aspen Neuroscience Scale to patients faster with Mytos Request Info Explore CDMO Request Info. Tell us about your program and we'll get the right team back to you. Proof of Value. Prove fit before you scale. Rapidly validate technical fit and ROI on the iDEM platform. Discovery We understand your manufacturing goals and challenges to solve. Scoping We design a tailored study to prove your process can be automated and demonstrate the ROI of manufacturing with Mytos. Proof of Value Pilot We translate your process and run the study in our labs to generate proof points. Analytics Yes No Necessary Always Privacy Policy Allow cookies? Yes No\n\n[https://www.mytos.bio/careers]\nCareers | Mytos Build the factories that cure disease . Mytos Speed We move exceptionally fast to save lives sooner Grit We don’t give up until the job is done Low Ego We win as a team, not individually First Principles Thinking We reason based on fundamental truths, not by analogy Customer Obsession We're driven by customer joy, not technical intricacy Continuous Improvement Never stop improving yourself and the product 13 Open Roles All teams Biology CDMO Hardware Operations Product Sales Software All locations London London and Stevenage United States Associate Scientist Biology · London Business Development Manager Sales · United States Chief of Staff Operations · London Engineering Technician Hardware · London General Opportunity Any · London Junior Mechanical Engineer (Summer 2026) Hardware · London Junior/Mid Software Engineer Software · London Manufacturing Lead (Hardware) Hardware · London Principal Scientist (PD/MSAT) Biology · London Quality (QA) Lead - CDMO CDMO · London and Stevenage Senior Mechanical Engineer Hardware · London Senior Product Designer Product · London Supply Chain Manager Hardware · London No roles match these filters No open roles right now Request Info. Tell us about your program and we'll get the right team back to you. Proof of Value. Prove fit before you scale. Rapidly validate technical fit and ROI on the iDEM platform. Discovery We understand your manufacturing goals and challenges to solve. Scoping We design a tailored study to prove your process can be automated and demonstrate the ROI of manufacturing with Mytos. Proof of Value Pilot We translate your process and run the study in our labs to generate proof points. Analytics Yes No Necessary Always Privacy Policy Allow cookies? Yes No\n\n[https://www.mytos.bio/about]\nAbout | Mytos Our Story We are scientists, engineers, and clinical manufacturing experts working relentlessly to scale Regenerative Medicines to billions of patients. Tissue replacement therapies are showing they can cure Parkinson's, blindness, even spinal cord injury - and yet most patients would never be able to afford or get access to them, because they're produced manually. S",
+   "email_candidates": [
+    {
+     "email": "ali@mytos.bio",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ali Afshar",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "ignacio@mytos.bio",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ignacio Willats",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "67b3b3f766",
+   "company": "Firstbase.io",
+   "website": "https://firstbase.io/",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "New York City, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 50. The all-in-one startup operating system Incorporation, compliance, bookkeeping, and taxes – all in one place. SaaS, B2B, LegalTech, B2B, Operations, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.firstbase.io/]\nFirstbase | Incorporation, compliance, bookkeeping, and taxes – all in one place. Your Webflow Page OFFER · Formation is on us. Pay only your state fee. Get started The all-in-one startup operating system Incorporation, compliance, bookkeeping, and taxes - all in one place. Start my company Onboard my existing company 30,000+ companies started with Firstbase Start and Grow Everything you need to start and run your business. Explore Start Explore Firstbase One New Form your LLC or C-Corp. We handle the paperwork and filings on your behalf. Our platform automates the entire company formation process with compliance and 24/7 global customer support. Get started Learn more Firstbase One is a suite of tools that provides founders with everything they need to run their business, including accounting, registered agent services, a premium physical US address, and tax filing services. Learn more Explore One platform to launch, operate, and grow a startup. Start Run your US business on Firstbase - software for incorporation, banking, tax and compliance. We handle the paperwork and filings on your behalf. Our product supports the entire company formation process with expert review and compliance built in. Mailroom Get a premium, physical US address. All your business mail in one place. Maintain privacy, without missing an important notice. Agent Stay compliant in every state. Registered agent, franchise tax, annual reports. Automated peace of mind everywhere you operate. Accounting Get tax and investor ready financials. Powerful accounting platform. Full-service accrual bookkeeping. Books closed on time, every time. Tax filing File your taxes with ease. C-Corp or LLC . US-based or international founders. Corporate and personal returns – we’ve got you covered. Firstbase One All the power of Firstbase, one package. Your business's entire back office, including accounting, compliance, virtual address, and tax - sorted. New All the power of Firstbase, one package. Save $1,950 Learn more Start add-on Mailroom Premium Secure a premium physical address and virtual mailbox Registered Agent Get compliance reminders and annual report filings Accounting Manage all your transactions in a unified dashboard Tax Filing Easily file state and federal taxes for your LLC or C-Corp Faster with Firstbase Starting a company should be a celebration, not a nightmare. All-in-one platform. Why manage eight different tools when you can have everything in one place. Save time & money with automation. Faster and more accurate than traditional services. Global support from real humans. Trusted by founders in 188 countries. Rewards and Perks Get access to $350,000 in perks from our world-class partners and integrations. Banking Quickly get approved for a US bank account through our banking marketplace. Payments No Stripe processing fee for your first $20,000 in transactions. Equity Create a captable in Carta in one click after assigning equity using Firstbase’s post-formation toolkit. File 83(B) for free and on time. Legal Get up to $6,000 worth of credits from world-class law firms. \"I'm excited to be a part of Firstbase’s journey as they democratize access to starting companies by making it accessible to everyone.\" Henry Ward CEO \"Deciding to launch your own startup is hard enough. Firstbase takes what is often a big headache of incorporation for founders and simplifies the process into an efficient, personalized one stop shop.\" Danny Olinsky Co-founder \"We’re thrilled to support Firstbase’s mission and believe they will have a massive impact on new businesses being started around the world.” Jared Friedman Partner \" Firstbase has built the operations layer founders need to run a US business from anywhere. \" Tyler Tringas Founder Accelerating startups around the world Companies incorporated 30,000+ Representing 191 countries Total raised by customers $3B in funding Run your US business with Firstbase Start, grow, and manage your business ",
+   "email_candidates": [
+    {
+     "email": "mark@firstbase.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mark Milastsivy",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "680feabbee",
+   "company": "D-ID",
+   "website": "http://www.d-id.com",
+   "title": "Engineering (YC Summer 2017)",
+   "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 27. Enable creators and developers to generate realistic AI personas D-ID enables creators and developers to generate realistic high-quality AI personas easily and ethically through the use of our platform and APIs, based on deep-learning and AI-powered technology - Enabling Creative Reality™. D-ID is a Tel Aviv-based Creative Reality™ startup specializing in patented video reenactment technology using AI and deep learning. Established in 2017, D-ID created the first facial image de-identification solution to protect images and videos from facial recognition software. D-ID's products range from animating still photos to facilitating high-quality video productions and creating viral user experiences. Artificial Intelligence, Deep Learning, Generative AI, Entertainment, B2B, Security, Israel, Middle East and North Africa, Remote, Partly Remote",
+   "site_text": "[https://www.d-id.com/]\nD-ID | The #1 Choice for AI Generated Video Creation Platform Skip to main content Contact Sales Start Free Trial Log in English English Deutsch AI videos and interactive avatars for humanlike communication The leading digital human platform that helps organizations explain clearly, engage personally, and scale messaging across every audience and channel. get started TRUSTED BY Agentic Videos: Transform passive content into interactive AI experiences. Click here to learn more Real-time, emotionally intelligent conversations. Built for product-grade scale. NEW: Introducing V4 Expressive Visual Agents Learn more about V4 Expressive Visual Agents Core capabilities you can rely on Speed & simplicity Open tab list Speed & simplicity Brand-adaptable Multilingual at scale Cost-effective Seamless API integration Scale & security Create high-quality content in minutes, not days. D-ID is built for speed—perfect for keeping up with real-time training, marketing, sales, or support needs. Every detail is in your control. From avatar style and voice to backgrounds, layouts, and media, D-ID makes it easy to customize both videos and interactive agents to fit your brand’s identity and tone. Speak your audience’s language—literally. D-ID supports video creation and real-time interactions in 120+ languages, helping you connect authentically with global audiences. Skip the production costs. D-ID replaces expensive video shooting with AI efficiency, giving you professional-grade results at a fraction of the price. Plug it right into your workflow through our API . D-ID works smoothly with your favorite tools and platforms so you can create and deploy videos or visual agents without disruption. Create once, scale infinitely. Whether you’re making one video or one thousand, D-ID handles volume without sacrificing quality or creativity. Reliable performance, permission controls, and compliant infrastructure for large organizations. Video Studio Generate polished, multilingual avatar videos from scripts. briefs, decks, or documents. Fast, consistent, and on brand, built for organizations that need to communicate complex information at scale. LEARN MORE aLearn more about generating multilingual avatar videos from scripts, briefs, decks, or documents Create a video Visual AI Agents Deploy real-time, conversational avatars that engage users face to face, respond naturally, and operate in multiple languages. These interactive agents can carry out tasks, trigger workflows, and deliver personalized experiences. Fully embeddable and built on a secure, enterprise-grade foundation, they bring humanlike interaction to every digital touchpoint. LEARN MORE Build an Agent AI Avatars Build realistic digital humans from images or video for both offline videos and real-time experiences. With voice cloning and multilingual output, AI avatars deliver consistent, on-brand presence at scale. LEARN MORE Try it for free API Real-time streaming animation Integrate D-ID’s advanced AI features into your app or platform with ease Read our documentation Engaging AI Avatars for any team Marketing Content creators Learning & development Sales Customer Experience Developers Marketing Boost performance across the marketing funnel by using AI Avatars for personalized video content at scale in any language or employ interactive Agents to nurture engagement Learn more Content Creators Scale up your video production with a digital twin who can say whatever you want in any language you choose. Train an agent on your content and enable 24/7 personal engagement with your community Learn more Learning and Development Create video lessons at scale using lifelike, perfectly lip-synced Avatars, localized for global learners. For real-time engagement, deploy custom-trained AI Agents that serve as personal tutors, tailored to your knowledge base for seamless, on-demand learning Learn more Sales Enablement Use lifelike AI Avatars to create engaging product demos, present",
+   "email_candidates": [
+    {
+     "email": "sella@d-id.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sella Blondheim",
+     "role": "Founder"
+    },
+    {
+     "email": "eliran@d-id.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Eliran Kuta",
+     "role": "Founder/CTO"
+    },
+    {
+     "email": "gil@d-id.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Gil Perry",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "695909ec9d",
+   "company": "SyntheticFi",
+   "website": "https://www.syntheticfi.com/",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 25. The cheapest way to borrow money SyntheticFi is the cheapest way to borrow money. We partner with independent financial advisors (RIAs) to meet the liquidity needs of their clients. Fintech, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.syntheticfi.com/]\nSyntheticFi - cheapest way to borrow money Check out our latest Cboe feature on home purchase. Check out our latest Cboe feature on home purchase. Rates How It Works About Us Learn FAQ Log in Talk to a professional Rates How it works About Us FAQs FAQs FAQs FAQs FAQs FAQs Blog FAQs About Us About Us Log in Talk to a professional Lowest interest Easiest entry Fully deductible Lowest interest Easiest entry Fully deductible Lowest interest Easiest entry Fully deductible Lowest interest Easiest entry Fully deductible securities backed loan Lowest interest Easiest entry Fully deductible Lowest interest Easiest entry Fully deductible Lowest interest Easiest entry Fully deductible Lowest interest Easiest entry Fully deductible Deepen relationships. Grow wallet share. Help your clients save thousands with the most cost-effective borrowing solution available. Get a demo Learn more about SyntheticFi Featured on Featured on Floating Interest Rate* 4.20% Trusted by Industry-Leading RIAs Trusted by Industry-Leading RIAs \"With SyntheticFi, everything just clicks - weâre saving clients money, simplifying our process, and building a stronger firm because of it. Itâs become a core part of how we deliver value and stand out. \" Guillaume Decalf Founder & CEO, Oui Financial Guillaume Decalf is not a direct client of SyntheticFi LLC, but collaborates with SyntheticFi LLC on behalf of their firmâs clients. No compensation has been provided for sharing their opinion and experience with our firm. The institutional-level lending solution that sets you apart The institutional-level lending solution that sets you apart Banks and custodians have long dominated lending. SyntheticFi is here to change that. We bring a solution once reserved for institutions to independent advisors. Your clients get better outcomes; you deliver more value without the endless paperwork. Banks and custodians have long dominated lending. SyntheticFi is here to change that. We bring a solution once reserved for institutions to independent advisors. Your clients get better outcomes; you deliver more value without the endless paperwork. Compare SyntheticFi with traditional lenders Lower Interest Rates Better Tax Deductability Easier Operations Why SyntheticFi? SyntheticFi Schwab Pledged Asset Line (PAL) Bank-offered SBLOCs (GS Select, Bancorp) Custodian Margin Loans (Schwab, Fidelity, E*Trade) Interest Rate 4.20% 6-8% 5.5-8% 8-13% Tax Deduction Conditions All purposes Investment only Investment only Investment only After-Tax Effective Rate 2.98% 6-8% 5.5-8% 8-13% Minimum Loan Size $10,000 $100,000 Varies, $75,000+ Tiered, $1M+ for best rate Fixed Rate Options Yes (5 years) Unavailable Limited Unavailable Onboarding Time Under 1 week ~1 month ~1 month ~1 week Discuss how to move to SyntheticFi Discuss how to move to SyntheticFi Weâre cheaper Interest Rates Lower interest, higher savings. Lower interest, higher savings. Lower interest, higher savings. SyntheticFi offers interest rates starting at just 4.83%, with an effective after-tax rate of 3.3%âfar below the 7â8% range from traditional options. Tax deductible Tax Deductability Flexible deductions for all purposes Flexible deductions for all purposes Flexible deductions for all purposes Unlike other solutions, which only allows deductions for investment use, SyntheticFi loans are tax-deductible no matter how your clients choose to use the funds. Easy to Use Operations Faster setup, flexible terms. Faster setup, flexible terms. Clients can onboard in under a week, borrow as little as $50K, and lock in a fixed rate for 5 yearsâstreamlining the lending experience from start to finish. Clients come for liquidity. You deliver a plan. Whether itâs funding a real estate purchase, covering a tax bill, or paying for a well-earned vacation, Advisors use SyntheticFi to meet clientsâ liquidity needs, while keeping portfolios intact and planning on track. Get a proposal with our team Get a prop",
+   "email_candidates": [
+    {
+     "email": "tony@syntheticfi.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Tony Yang",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "6fc79ce8cc",
+   "company": "Reframe",
+   "website": "https://www.joinreframeapp.com/",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "Atlanta, GA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 35. App to help people quit or cut back on alcohol use Reframe is the leading app to help people cut back on drinking. Reframe uses neuroscience & psychology to help people shift the way they think about drinking & help build great habits. We don't believe in stigma or restrictions. In the past 12 months, Reframe has had over 2M+ users and has helped more people cut back on alcohol use than any other org worldwide. Mental Health Tech, Consumer Health Services, Consumer, Healthcare, Consumer Health and Wellness, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.joinreframeapp.com/]\nReframe App | Neuroscience-Based #1 Alcohol Reduction App X Introducing Liquid Luck from Reframe. The first non-alcoholic drink designed to ease alcohol cravings. Learn More Drink Less, Live More Reframe the way you think and drink through neuroscience We do science, not stigma. Developed with hundreds of medical and mental health experts, Reframe is a revolutionary alcohol-related habit change app. All-In-One The only platform that utilizes neuroscience, bringing together an evidence-based behavior change program, tools, and a supportive community. Evidence-Based Alcohol Reduction Program Our world-renowned program is developed by leading experts in the fields of psychology and neuroscience. Reframe Works. Period. The proof is in the data! Even when compared to other apps, Reframe users reported a significantly lower amount of alcohol consumption. With Reframe’s neuroscience-based program, habit changes stick. ‍ So far, Reframe has already helped millions around the world make lasting changes to their drinking habits. 91% of Reframe users noted a substantial decrease in alcohol use within 3 months. Neuroscience-Based Alcohol Reduction Program The heart of Reframe is our exclusive program, developed by leading experts in the fields of mental health and medicine. Visit your Daily Tasks to learn something new every day. Personalized Drink Tracker Stay accountable day-by-day and keep track of your progress over time. In-Depth Courses Covering Every Area Learn something new with Reframe Courses — recorded and live videos about everything you need to build a meaningful life while drinking less. 24/7 Private Community Level up your alcohol-free or mindful drinking life with friends! Celebrate milestones or give and receive support. The journey is always better together! Comprehensive Toolkit for All Your Needs Everything you need to beat cravings is at the touch of a button! Tune into a meditation, keep your hands busy with a game, or watch an inspiring video. Ready To Meet the Best Version of Yourself? 2M download 13K ⭐⭐⭐⭐⭐ reviews 20M drinks eliminated / year 3,120,987 + M downloads (as of August 2025) 23,559 K ⭐⭐⭐⭐⭐ 5 star reviews 102,332,239 + M drinks eliminated (as of August 2025) START YOUR CUSTOM PLAN Scan the QR code to get started! Reframe supports you in reducing alcohol consumption and enhancing your well-being. New From Reframe The first non-alcoholic drink designed to ease alcohol cravings. Infused with ingredients like L-glutamine, our beverages support brain health, stabilize mood, balance blood sugar, and reduce cravings—helping you build a healthier relationship with alcohol while boosting your well-being. Learn More close\n\n[https://www.joinreframeapp.com/blog-reframe]\nBlog | Reframe All Posts The Reframe Blog Your source for healthier, happier living Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. This is some text inside of a div block. Latest Articles 2025-05-07 11:41 Rethinking Your Relationship With Alcohol: A Practical Guide Learn practical steps to reassess your relationship with alcohol, understand emotional triggers, and explore healthier coping strategies for a balanced life. 20 min read Read more -> Rethinking Your Relationship With Alcohol: A Practical Guide This is some text inside of a div block. Learn practical steps to reassess your relationship with alcohol, understand emotional triggers, and explore healthier coping strategies for a balanced life. 20 min read Read Full Article → Quit Drinking Tips & Support 2025-05-07 11:39 Managing Stress Without Alcohol: Practical Strategies Learn practical strategies for managing stress without alcohol, including healthy coping mechanisms and lifestyle changes to improve your well-being. 17 min read Read more -> Managing Stress Without Alcohol: Practical Strategies This is some text inside of a div block. Learn practical strategies for managing stress without alcohol, includin",
+   "email_candidates": [
+    {
+     "email": "vedant@joinreframeapp.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Vedant Pradeep",
+     "role": "Founder"
+    },
+    {
+     "email": "ziyi@joinreframeapp.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ziyi Gao",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "8c904ef5e3",
+   "company": "Garage",
+   "website": "https://www.shopgarage.com/",
+   "title": "Software Engineer, Growth",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Software Engineer, Growth (New York City; experience: Any (new grads ok); US citizen/visa only). Team size: 35. Marketplace for America's most essential assets Garage is modernizing how America buys and sells the vehicles and equipment that keep communities safe. Our AI-powered marketplace automates every part of the transaction—appraisals, payments, paperwork, freight, warranty, and financing—reducing what once took months down to minutes. By replacing broken, manual processes with modern software, Garage helps critical equipment reach communities faster—saving taxpayer dollars and supporting the industries that keep America running. We've raised $18M to date, and are backed by Y Combinator, Initialized Capital, Infinity Ventures, FJ Labs, and other leading investors. Artificial Intelligence, Marketplace, Industrial, B2B, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.shopgarage.com/]\nGarage – Buy and sell specialized vehicles and equipment Buy directly from fire departments America's marketplace for specialized vehicles and equipment. Fire Heavy Duty EMS Fire Heavy Duty EMS Featured categories View all Engines and Pumpers Ambulances Tankers and Tenders Garbage Trucks Ladders, Aerials, and Quints Combination Sewer Trucks Dump Trucks Hydrovac Trucks Septic Trucks Brush Trucks and Mini Pumpers Jetter Trucks Command Units Rescue Trucks and Squads Fire Equipment Rescue Boats Roll Offs and Hooklifts Wildland Vehicles Stretchers Engines and Pumpers Ambulances Tankers and Tenders Garbage Trucks Ladders, Aerials, and Quints Combination Sewer Trucks Engines and Pumpers View all Free warranty 2007 Pierce Dash Pumper 25,379 miles · 750 gallon tank · 1,000 GPM pump $140,000 $150,000 Free warranty 2018 Freightliner 4x4 Pumper 9,260 miles · 1,150 gallon tank · 1,500 GPM pump $350,000 $380,000 Price drop 2007 American LaFrance Pumper 93,933 miles · 750 gallon tank · 1,506 GPM pump $32,500 $37,500 Free warranty 2009 Ferrara Inferno Pumper 20,000 miles · 500 gallon tank · 1,500 GPM pump $170,000 $180,000 Free warranty 2020 Rosenbauer MO-3 Pumper 3,452 miles · 500 gallon tank · 1,500 GPM pump $600,000 Free warranty 2017 Spartan Metro Star Pumper 40,689 miles · 650 gallon tank · 1,500 GPM pump $295,000 $350,000 Free warranty 2014 Pierce Quantum Pumper 109,250 miles · 700 gallon tank · 1,500 GPM pump $160,000 Free warranty 2007 Rosenbauer Freightliner Pumper 14,223 miles · 1,000 gallon tank · 1,250 GPM pump $100,000 $150,000 2004 Metalfab International Pumper 12,329 miles · 1,000 gallon tank · 1,250 GPM pump $80,000 2007 Ferrara Pumper 34,400 miles · 1,000 gallon tank · 1,500 GPM pump $90,000 Free warranty 2024 Freightliner US Fire Pumper 6,163 miles · 500 gallon tank · 1,000 GPM pump $575,000 $650,000 Free warranty 2025 Toyne Freightliner 4x4 Pumper 6,682 miles · 750 gallon tank · 1,500 GPM pump $690,000 Free warranty 2021 Rosenbauer Commander Pumper 42,388 miles · 750 gallon tank · 1,500 GPM pump $415,000 2018 Pierce Dash CF Pumper 71,021 miles · 500 gallon tank · 1,500 GPM pump $200,000 Free warranty 2006 Pierce Contender Pumper 18,363 miles · 1,000 gallon tank · 1,250 GPM pump $115,000 $120,000 Free warranty 2011 Pierce Contender Pumper 70,000 miles · 1,000 gallon tank · 1,500 GPM pump $150,000 $200,000 Free warranty 2009 Pierce Velocity Pumper 59,045 miles · 750 gallon tank · 1,500 GPM pump $150,000 $175,000 Free warranty 2020 Alexis Spartan Pumper 50,225 miles · 750 gallon tank · 1,500 GPM pump $450,000 2019 Pierce ENFORCER Pumper 56,012 miles · 750 gallon tank · 1,500 GPM pump $598,800 Free warranty 2015 Rosenbauer Commander Pumper 55,357 miles · 750 gallon tank · 1,500 GPM pump $295,000 Free warranty 2013 Smeal Spartan Pumper 85,850 miles · 500 gallon tank · 1,250 GPM pump $159,000 Free warranty 2017 Rosenbauer Commander Pumper 78,731 miles · 750 gallon tank · 1,500 GPM pump $305,000 Free warranty 2010 Ferrara Intruder 2 Pumper 33,233 miles · 1,000 gallon tank · 1,250 GPM pump $229,000 Free warranty 2015 Pierce Impel Pumper 43,863 miles · 1,000 gallon tank · 1,250 GPM pump $425,000 Price drop 2004 HME 1871-SFO Pumper 13,017 miles · 800 gallon tank · 1,250 GPM pump $60,000 $70,000 Free warranty 2007 Toyne Chevrolet Pumper 8,381 miles · 1,000 gallon tank · 1,000 GPM pump $109,000 Free warranty 2008 Smeal Spartan Pumper 13,000 miles · 500 gallon tank · 2,000 GPM pump $160,000 $175,000 Free warranty 2013 Rosenbauer Spartan Pumper 81,430 miles · 1,000 gallon tank · 1,500 GPM pump $235,000 Free warranty 2010 Pierce Freightliner Pumper 27,600 miles · 1,000 gallon tank · 1,250 GPM pump $215,000 Free warranty 2007 Pierce Quantum Pumper 21,945 miles · 500 gallon tank · 1,500 GPM pump $140,000 $275,000 Free warranty 2006 Sutphen Pumper 25,042 miles · 750 gallon tank · 1,500 GPM pump $150,000 Price drop 2001 Pierce Saber Pumper 17,714 miles · 1,000 gallon tank · 1,250 GPM pump $55,000 $65,000 Free war",
+   "email_candidates": [
+    {
+     "email": "martin@shopgarage.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Martin Hunt",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "alaz@shopgarage.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Alaz Sengul",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "97b1cb5050",
+   "company": "Ziina",
+   "website": "https://www.ziina.com",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "Dubai, United Arab Emirates",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 57. A digital wallet for the Middle East & North Africa Ziina is bringing the next generation of financial services to the Middle East. Fintech, Payments, Neobank, Fintech, Consumer Finance, United Arab Emirates, Middle East and North Africa, Remote, Partly Remote",
+   "site_text": "[https://ziina.com/]\nZiina - Send & Accept Payments instantly in the UAE Personal Business Support Company Get the app Move your money forward For businesses and individuals – the fast and secure way to send and receive money in the UAE Get started for free Licensed by the Central Bank of the UAE Violet Everyday benefits from brands you love. Plus zero currency fees , everywhere you spend. Explore Violet Whether you’re building your business or splitting the bill with friends, Ziina helps move your money forward. We’re on a mission to bring financial freedom to every person in the Middle East. Because access isn’t a privilege — it’s a right. Tap to Pay on iOS & Android Accept contactless payments right on your mobile. Learn more Available on supported iOS/Android devices Business Ziina Business Get paid instantly Ziina Business Personal Pay your friends Ziina Personal The best payment solution for UAE businesses How Eat&Slim improved cash flow with Ziina Ziina Payment Links ⬩ ZiiBoard How Voya Bakehouse built a seamless e-commerce checkout with Ziina Payment gateway ⬩ Ziina Payment Links ⬩ ZiiBoard How The Property streamlined real estate operations with Ziina Ziina Payment Links ⬩ ZiiBoard ⬩ Teams on Ziina In the press Start taking payments in minutes Create account in a minute—all you need is your Emirates ID Get started now The Finance Frontier 2026: Faisal Toukan, Sarah Toukan, and Talal Toukan, Co-Founders, Ziina Jul 29, 2026 How Ziina Turned One Tap Into the Future of Payments in the UAE Jul 24, 2026 Lean and Ziina launch UAE's first one-tap Pay by Bank experience under Open Finance Jun 25, 2026 Sharjah Media City Taps Fintech Ziina to Accelerate Digital Payments for SMEs May 8, 2026 UAE Fintech Platform Ziina Partners With Business Setup Firm Virtuzone to Simplify Payments for Startups Mar 12, 2026 Ziina becomes first in the UAE to execute live Open Finance payments with Lean Jan 15, 2025 Ziina Launches 'Violet' Lifestyle Membership to Cut Currency Fees and Boost Loyalty Jan 7, 2026 UAE-Based Ziina Partners with Visa to Debut Its First Digital Card for Instant Payments Oct 29, 2025 Dubai CommerCity Partners with Ziina to Provide innovative financial solutions Jul 2, 2025 Ziina Secures Stored Value Facility Licence From UAE Central Bank and Expands Range of Services Aug 09, 2024 UAE’s Ziina Raises $22M In Series A Funding To Shift From Payments To Full Financial Services Sep 03, 2024 Ziina launches Tap to Pay in UAE, letting businesses accept in-person payments on iPhone Apr 29, 2025 Ziina banks $22M as growth explodes for the UAE-based fintech for small businesses Sep 02, 2024 Business Extra: How FinTech is evolving in the Middle East Aug 14, 2024 Charting New Paths: Embracing The Entrepreneurial Boom In The UAE Apr 02, 2024 Ziina becomes first venture-backed start-up to secure UAE Central Bank SVF license Aug 07, 2024\n\n[https://ziina.com/contact]\nContact Us | Ziina – Instant Money Transfers in the UAE Personal Business Support Company Get the app Contact us Need a hand? Whether it’s getting started, solving an issue, or exploring something new, we’re here to help. Reach us on the channel that works best for you, and we’ll get back to you fast. Email Get help Chat Get help\n\n[https://ziina.com/about]\nAbout Us | Ziina – Financial Freedom for the Middle East Personal Business Support Company Get the app Financial freedom for the Arab World Money is how we build the lives we imagine. Yet, moving it remains unnecessarily difficult. We're on a mission to bring financial freedom to every person in the Arab World Try Ziina today The story behind Ziina In 2020, siblings Faisal, Sarah and Talal Toukan kept running into the same problem. Splitting dinner meant exchanging 23-digit IBANs. Paying a freelancer took days. Sending money to family required multiple apps and a maze of fees. They saw the gap between the Arab World's ambition and its outdated financial tools. So they left Silicon Valley, joined Y Combinator and moved back t",
+   "email_candidates": [
+    {
+     "email": "sarah@ziina.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sarah Toukan",
+     "role": "Founder"
+    },
+    {
+     "email": "andrew@ziina.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Andrew Gold",
+     "role": "Founder"
+    },
+    {
+     "email": "faisal@ziina.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Faisal Toukan",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a352bdb10b",
+   "company": "Flint",
+   "website": "https://withflint.com",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "Vancouver, BC, Canada; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 50. Securing Nurses for Your Future We help hospitals 🏥 hire nurses 🧑🏻‍⚕️ from all around the world 🌏 and with technology make the complexity of immigration and licensing simple. Healthcare, Healthcare, Canada, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://withflint.com/]\nFlint — Your green card pathway starts here Skip to content Apply now Apply now Find Healthcare Jobs with Green Card Sponsorship Flint is a recruiting company that helps you find a sponsored job so you can gain permanent stability in the US. Apply now Swins Sophia Maria Nerline Andrew Chrismene Catherine Sisinio Evangeline Firsnel Renaldo Deed-Meet Mirian Fadeline Samuel Titilope Miriangeli Swins Sophia Maria Nerline Andrew Chrismene Catherine Sisinio Evangeline Firsnel Partnering with the top facilities Flint helps healthcare facilities hire. A fresh pathway to stability for healthcare professionals. A new way to hire for facilities. For Healthcare Professionals Find your path to permanent stability. Discover healthcare roles with facilities ready to sponsor your green card from day one. See if you qualify For Healthcare Facilities Build a permanent team. Put an end to expensive agency staff. Flint connects your facility with licensed professionals already in the US. Apply as facility Why is Flint free? Here's how Flint is able to connect you to sponsored roles and help relocate — all at no cost to you. You pay nothing. The facility pay us. Facilities spend a lot of money hiring short-term and agency staff. They would rather hire you long-term to save time and money. No costs to apply No placement fees No paycheck deductions You're a healthcare professional with work authorization. Healthcare Facilities Need to Hire They need people like you to work at their facility They pay Flint to find candidates like you to work for them Flint We connect you to facilities ready to sponsor your green card Because the facility pay us, we can pay immigration, licensing, and other fees for you You Work Directly for the Facility They hire you as a full-time employee as you work towards your green card Our partners are in Michigan Pennsylvania Oregon Arizona Colorado Georgia Ohio New York Florida Texas Illinois Washington Nevada Massachusetts Michigan Pennsylvania Oregon Arizona Colorado Georgia Ohio New York Florida Texas Illinois Washington Nevada Massachusetts Michigan How Flint works Flint helps healthcare professionals connect with hospitals sponsoring ready to sponsor you and hire you full-time. From step one to day one on the job, Flint is with you every step of the way. Apply in 30 Seconds It's easy and there's no obligation or commitment after you apply. Meet with Flint We'll meet with you to understand your unique situation and how we can help. Interview Directly with Facilities We'll present you with facilities . You choose who to interview with. Relocate We'll help organize and pay for relocation to your new sponsored role. You Start Work After the probation period, immigration filing begins You Work Towards Stability While your green card processes you continue to work and get paid. Got questions about Flint? Join one of our free weekly webinars with Neil to get the answers you need. Reserve seat Healthcare roles with sponsorship Don't see your role listed? Apply and we will work with you to find a solution. Apply now Registered Nurse Licensed nursing role at U.S. hospitals and nursing homes, with room to specialize. Certified Nursing Assistant Entry-level role on facility nursing teams. Full-time shifts, state certification required. Licensed Practical Nurse Licensed nursing role working alongside RNs in nursing homes and hospitals. Housekeeper Facility operations role keeping rooms, common areas, and equipment clean and ready. Medical Assistant Office role covering exam room prep, scheduling, and front-desk work. Phlebotomist Lab-support role collecting and processing samples for testing. Allied Health Technical roles in lab and imaging departments. Certified Medication Aide Certified role on nursing teams in nursing homes. State certification required. Dietary Aide Kitchen role preparing and serving meals in facility food service. Home Health Aide Dynamic role with scheduled visits and flexible hours. C",
+   "email_candidates": [
+    {
+     "email": "kenton@withflint.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Kenton Jarvie",
+     "role": "Founder"
+    },
+    {
+     "email": "anson@withflint.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Anson Kung",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

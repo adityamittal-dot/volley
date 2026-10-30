@@ -1,0 +1,271 @@
+{
+ "leads": [
+  {
+   "id": "b0ca658e21",
+   "company": "Tenor",
+   "website": "https://heytenor.com/",
+   "title": "Engineering (YC Summer 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Infrastructure for building and scaling AI-native businesses. Tenor is a full-stack infrastructure for building and running AI-native businesses. We’re not just an agent framework, we manage the entire loop from how AI executes work to how every action, decision, and business outcome is captured and learned from. Owning the full stack lets companies deploy governed AI workflows, understand what actually drives results, and continuously improve how their business operates without building the infrastructure themselves. B2B, Automation, AI, B2B, United States of America, America / Canada",
+   "site_text": "[https://heytenor.com/]\nTenor Skip to content The scale of a company can now be engineered. Our AI infrastructure makes expertise scale like software, allowing what makes a company exceptional to make it enormous. We work with people who know their industries too well to leave them as they are. Our teamâs backgrounds International Mathematical Olympiad\n\n[https://www.heytenor.com/careers/]\nCareers at Tenor â Back Apply to Tenor Build what comes next. Send one artifact. Pick one role. Skip the cover letter. Apply by email â Open roles Engineering Member of Technical Staff: Systems Engineering Runtime, tools, and verification. San Francisco first; remote for exceptional candidates Full-time Competitive compensation Â· equity Â· bonus View role Member of Technical Staff: Context & Memory Context, retrieval, and memory. San Francisco first; remote for exceptional candidates Full-time Competitive compensation Â· equity Â· bonus View role Member of Technical Staff: Evals & Task Engineering Tasks, evaluation, and quality. San Francisco first; remote for exceptional candidates Full-time Competitive compensation Â· equity Â· bonus View role Exceptional Build Your Own Role Propose a role we should have posted. San Francisco first; remote for exceptional candidates Full-time or internship Exceptional only Apply Ã How we work This is not a normal coding job. Own difficult systems. Make clear decisions. Prove what changed. What matters Own the system end to end. Move fast, then verify with logs, state, tests, traces, and user behavior. Use the best tools without outsourcing judgment. Prefer shipped evidence over process theater. Not for you if You want narrow tickets and clean boundaries. You like demos more than reliability. You avoid understanding the system. You would rather look productive than prove what changed. To the role â Back",
+   "email_candidates": [
+    {
+     "email": "adam@heytenor.com",
+     "where": "https://www.heytenor.com/careers/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "b37865eba1",
+   "company": "Wordware",
+   "website": "https://wordware.ai/",
+   "title": "Senior Applied AI Engineer",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Senior Applied AI Engineer (San Francisco; experience: Any (new grads ok); US citizen/visa only). Team size: 15. AI agents you can rely on Every tool you use was built as an island, so you became the glue between them. You carry a name from Gmail into the CRM, a time from the CRM into Calendly, a note from Calendly into a doc. AI showed up and mostly became an eleventh window to paste into. Sauna is a hybrid of AI and software standing on one shared brain. It holds your context and hands you real software built on top of it. You talk to it like a chatbot and use what it builds like an app: software for the path you repeat, AI for the edge that never repeats. Keep it to yourself, or share the brain with your team. The clearest way to see it is a tool doing what its whole category cannot. An ordinary Calendly shows a stranger your free slots. Your Calendly writes the invite email itself, because it knows how the two of you know each other, and it offers a board member the slot over your gym block, because it knows which of your busy hours bend and for whom. Wordware is the team behind it, 15 people backed by Spark Capital, Felicis, and Y Combinator with a $30M seed, the largest in YC's history. We build from an office in the Presidio, fifty metres from Crissy Field beach, and we work absurdly hard because we can see and feel the outcome every day. AIOps, Artificial Intelligence, Developer Tools, Infrastructure, Consumer, United States of America, America / Canada",
+   "site_text": "[https://www.wordware.ai/]\nWordware Story Careers wordware v1 Sauna OS CAREERS STORY WORDWARE V1 SAUNA OS Building the future of work, with Building the future of work, with Vision Wordware is an AI context lab in San Francisco. We started in 2023 with a simple conviction: words are the next programming language. Not software. Wordware. We joined Y Combinator, raised the largest seed round in YC history ($30M), and became the #1 Product Hunt launch of all time. Our main product is Sauna, an AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively. Reclaim and augment your deep work. Get rid of the shallow. Get Sauna Sauna is an intelligent workspace that collaborates with you, eliminates the busywork, and anticipates what’s next, turning to-do into done. Get Sauna Build With Us We're a small team of designers, engineers, and visionaries building something extraordinary. Join us in our beachside office in San Francisco. All positions Backed by Paul Graham Vlad Magdalin Mathilde Collin Jason Boehmig Siqi Chen Kulveer Taggar Terrence Rohan Ben Tossell Azeem Azhar Swyx Theo t3.gg Walter Kortschak Soleio Paul Daugherty Dan Westgarth Thijn Lamers Read More",
+   "email_candidates": [
+    {
+     "email": "filip@wordware.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Filip Kozera",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "robert@wordware.ai",
+     "where": "YC profile · GitHub commits",
+     "kind": "personal",
+     "name": "Robert Chandler",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "b422f971b6",
+   "company": "Shiboleth",
+   "website": "https://www.shiboleth.ai/",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Shiboleth automates lending compliance for financial institutions… Shiboleth automates consumer lending compliance for financial institutions using AI. Banks and fintechs use us to save months of manual work by automating audits and drafting reports for the governments. LLMs allow whole categories of manual compliance processes to be automated in ways that weren’t possible until recently. We are excited to automate back-office operations and enhance consumer protection in one of the most litigious industries. B2B, Security, United States of America, America / Canada",
+   "site_text": "[https://shiboleth.ai/]\nShiboleth Shiboleth Features Security Blog Privacy Policy Terms of Use Login Shiboleth Features Security Blog Privacy Policy Terms of Use Login Shiboleth ð Welcome to Shiboleth Automate your Compliance Quality Assurance Playbooks Augment all of your compliance operations monitoring and testing workflows on one integrated, secure platform. Augment all of your compliance operations monitoring and testing workflows on one integrated, secure platform. Get Started Book a Demo Book a Demo Trusted by Trusted by Discover our products ð¥ Premier features Complaint Management Complaint Management Screen 100% of your complaints, escalate serious ones. Learn More Call Monitoring Call Monitoring Live transcription, summarization, to catch customer escalations. Learn More Issue Management Issue Management Track and mitigate issues with multiple stakeholders. Track and mitigate critical issues with multiple stakeholders. Learn More Marketing Review Marketing Review Create custom scorecards to flag problematic marketing material. Custom scorecards to flag problematic marketing material. Learn More Reg Compliance Testing Reg Compliance Testing Upload your test scripts and automate transaction level testing. We currently support TILA, SCRA, FCRA, REG E, UDAAP. Learn More OFAC Geofencing OFAC Geofencing Test whether sanctioned regions have access to your app and website. Learn More ð¤© And more... Explore an array of features that elevate your Productivity to new heights Discover the tools that will revolutionize the way you manage and optimize your operations Workflow tools Eliminate the hassle of static spreadsheets, documents, and emails. Our product is designed specifically for you, with all the workflow tools and audit logs that you need. Workflow tools Eliminate the hassle of static spreadsheets, documents, and emails. Our product is designed specifically for you, with all the workflow tools and audit logs that you need. Workflow tools Eliminate the hassle of static spreadsheets, documents, and emails. Our product is designed specifically for you, with all the workflow tools and audit logs that you need. Shared Communication Portal Communication portal to collaborate with internal teams and fintechs, and streamline communication. Shared Communication Portal Communication portal to collaborate with internal teams and fintechs, and streamline communication. Advanced Analytics Seamlessly manage your stakeholders, with automated management information and one-click reporting. Advanced Analytics Seamlessly manage your stakeholders, with automated management information and one-click reporting. Advanced Analytics Seamlessly manage your stakeholders, with automated management information and one-click reporting. Shared Communication Portal Communication portal to collaborate with internal teams and fintechs, and streamline communication. Advanced Analytics Seamlessly manage your stakeholders, with automated management information and one-click reporting. FAQ How do I know that AI won't hallucinate? What if the output of AI is wrong? How do you handle PII? What security certifications does Shiboleth have? Who is Shiboleth for? What types of compliance workflows can Shiboleth automate? How long does it take to implement Shiboleth? Security Security Security Deployed on AWS Bedrock, Shiboleth is deployed with the highest security standards, so your bank's data is always safe. Learn More",
+   "email_candidates": [
+    {
+     "email": "esty@shiboleth.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Esty Scheiner",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "bivu@shiboleth.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Bivu Dhungana",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "b739d00589",
+   "company": "Ellipsis",
+   "website": "https://ellipsis.dev",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. Cloud platform for coding agents Ellipsis is a cloud platform that allows engineering teams to deploy fleets of coding agents. Each agent gets an isolated sandbox, scoped permissions, and hard budget caps. Full observability included. Get started with a $100 credit at www.ellipsis.dev. You can deploy agents for feature development, code review, and workflow automation. Creating an agent is simple: simply commit a YAML file to Github. Spawn agents from Github/Linear/Slack/etc., or via a REST API or our CLI. Organizations get full observability and governance of their cloud coding agents. Agent session logs are downloadable so companies own their own data. Full documentation: https://www.ellipsis.dev/docs Artificial Intelligence, Developer Tools, Machine Learning, AI, B2B, Engineering, Product and Design, United States of America, America / Canada",
+   "site_text": "[https://www.ellipsis.dev/]\nEllipsis | Managed Cloud Agents Backed by Y Combinator Model Agnostic Managed Agent Platform for Developers, Software Factories, Code Review, and Background Agents, for Any Model and Any Harness for Developers Run agents on managed infrastructure. You choose the harness , model , and tools . We'll handle the VM's , permissions , budgets , and logs . Install on GitHub Documentation Schedule a Demo app.ellipsis.dev/sessions Supported agents Your agent. Our infrastructure. Build your own workflows using our cloud platform. 1 ellipsis : 2 kind : agent 3 name : check-api-changes 4 trigger : 5 type : react 6 pull_request : 7 on : [ pushed ] 8 repositories : [ api-repo ] 9 session : 10 claude_code : 11 model : claude-opus-5-5 12 prompt : | 13 Check the changed API routes for 14 missing test coverage. 15 environment : 16 repositories : 17 - name : api-repo 18 hooks : 19 after_checkout : | 20 cd api-repo 21 pnpm install --frozen-lockfile 22 compute : 23 cpu : 4 24 memory : 8GB 25 budget : 26 session : 5 27 day : 50 Agents in YAML Define the prompt, environment, permissions, and budget in YAML. 1 ellipsis : 2 kind : agent 3 name : triage-issues 4 session : − claude_code : − model : claude-opus-5-5 5 codex : 6 model : gpt-6.1-sol 7 prompt : Label new issues and find duplicates. 8 environment : 9 repositories : 10 - name : web-repo 1 ellipsis : ellipsis : 2 kind : agent kind : agent 3 name : triage-issues name : triage-issues 4 session : session : 5 claude_code : codex : 6 model : claude-opus-5-5 model : gpt-6.1-sol 7 prompt : Label new issues and find duplicates. prompt : Label new issues and find duplicates. 8 environment : environment : 9 repositories : repositories : 10 - name : web-repo - name : web-repo Claude Code and Codex Switch between Claude Code and Codex by changing one block of YAML. session : budget : session : 1.50 day : 5.00 week : 20.00 month : 60.00 session_9Kt4vR7m, stopped at its session cap budget_hit Spending limits Limits per session, day, week, and month. 1 { 2 \"kind\" : \"claude_code\" , 3 \"source\" : \"claude_code\" , 4 \"record_format\" : \"claude_jsonl@1\" , 5 \"record_type\" : \"assistant\" , 6 \"session_id\" : \"session_2f8c1d\" , 7 \"turn_id\" : \"turn_9a41\" , 8 \"feed_seq\" : 42 , 9 \"payload\" : { 10 \"type\" : \"assistant\" , 11 \"message\" : { 12 \"role\" : \"assistant\" , 13 \"model\" : \"claude-fable-5-1\" , 14 \"content\" : [ 15 { \"type\" : \"text\" , \"text\" : \"Running the pool test suite.\" }, 16 { 17 \"type\" : \"tool_use\" , 18 \"name\" : \"Bash\" , 19 \"input\" : { \"command\" : \"pytest -k pool\" } 20 } 21 ], 22 \"stop_reason\" : \"tool_use\" 23 }, 24 \"uuid\" : \"22222222-2222-4222-8222-222222222222\" 25 }, 26 \"tools\" : [ \"Bash\" ], 27 \"cost\" : 0.0142 , 28 \"created_at\" : \"2026-09-10T14:00:00Z\" 29 } Session records Follow sessions live and keep every command, tool call, and code change. Three ways teams use Ellipsis. Coding agents, code review, and background agents. Software factories Every coding agent in YAML, run in the cloud. Code review Reviewers you define review every push. Background agents Start an agent with one API call. Secure, Managed Infrastructure that is very easy to use Ellipsis is built with governance at scale in mind. Permissions are defined before a session starts. Every agent action is logged. You have full control over your data longevity. More about security SOC 2 Type I Certified SOC 2 Type II In progress Scoped credentials Minted per session, scoped to the repos you allowed, revoked with the sandbox. Zero source retention Your code lives only in the session sandbox and is deleted with it. Full audit trail Every command, file change, and tool call an agent made, kept after the sandbox is gone. Frequently asked questions Browse the docs How is this different from running Claude Code on my laptop? Where does the agent's work happen? Do you retain my source code? Can I set a spending limit? Install the GitHub app to run your first session Install on GitHub Documentation Schedule a Demo\n\n[https://www.ellipsis.dev",
+   "email_candidates": [
+    {
+     "email": "eng@ellipsis.dev",
+     "where": "GitHub commits (ellipsis-dev)",
+     "kind": "personal",
+     "name": "ellipsis-dev",
+     "commits": 9
+    },
+    {
+     "email": "seanhunterbrooks@gmail.com",
+     "where": "GitHub commits (ellipsis-dev)",
+     "kind": "personal",
+     "name": "hbrooks",
+     "commits": 8
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "b90e35730b",
+   "company": "Tasklet",
+   "website": "https://tasklet.ai",
+   "title": "Engineering (YC Spring 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Agents that own the work AI chatbots can answer questions, but they can't do your work — they aren't connected to your tools, can't take actions, and stop running when you close the tab. Meanwhile, knowledge workers are still spending most of their day switching between dozens of SaaS apps, manually stitching together workflows that should be automated. Tasklet is the AI agent that actually does the work. It connects to every tool you use — via thousands of built-in integrations, any HTTP API, or MCP servers — and takes real actions on your behalf: pulling reports, updating CRMs, triaging emails, processing data, and more. When it needs a UI, it generates one on the fly. When it needs to crunch numbers or do bulk operations, it writes and runs code in a cloud sandbox. When it needs to interact with a website that doesn't have an API, it uses a real browser. And because it runs in the cloud 24/7, you can set up triggers to have it take ongoing responsibility for workflows — not just do something once, but handle it going forward. The product is deliberately simple: a chat interface where you talk to an extremely capable agent. But underneath that simplicity is a cloud-native agent runtime, best-in-class context engineering, a universal connections layer, and multi-model support that keeps us on the frontier as AI improves. We think legacy SaaS is being unbundled by agents, and Tasklet is the operating system that ties it all together. B2B, Productivity, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://tasklet.ai/]\nTasklet - Run your business on agents Tasklet Log in Sign up Go to app New · Introducing Tasklet MCP Run your business on agents Automate any business task with AI agents that run 24x7. Connect your company's tools and share agents & context across your team. Create your agent Book a demo Try for free · SOC 2 Type II compliant 🎧 📊 🧾 AK 🎧 Support JL MC Share agent Pinned No pins yet Threads Draft support email replies Refund escalation — Acme Weekly metrics recap Onboarding email copy 🎧 Earn credits 41,597 👋 Hi, I’m 🎧 Support . What can I do for you this morning? Hi, what can I do for you this morning? Threads are private to you Ask anything or describe a task — hold space to dictate 6.1 Sol Medium Summarize the emails I haven’t read yet Catch me up on what I missed in Slack Help me organize my notes and docs Walk me through my schedule for today 🎧 / Draft support email replies Draft replies to the unread emails in my Gmail support inbox 🎧 Checking Gmail access Worked for 1s I’ll review the unread messages in the support inbox and save a draft reply for each in Gmail — nothing will be sent. Create a new connection to Gmail Create Connected 🎧 Searching unread support emails Reading 6 threads Drafting 6 replies Flagging urgent tickets Worked for 46s Done — 6 drafts are ready in Gmail. I flagged 2 urgent tickets for your review. Do this automatically every weekday at 7am 🎧 Creating the automation Scheduling weekdays at 7:00 AM Worked for 8s Created automation Draft support email replies At 07:00 AM, Monday through Friday Scheduled — I’ll draft replies every weekday at 7:00 AM. 1 automation Reply to Support — hold space to dictate 6.1 Sol Medium 🎧 Share “Support” Allow your team to use this agent. Add people JL Jordan Lee jordan@acme.com MC Maya Chen maya@acme.com Enter an email to invite someone to your Org People with access AK You you@acme.com Can manage JL Jordan Lee jordan@acme.com Can use MC Maya Chen maya@acme.com Can use Copy link Done Connect Gmail Developed by Tasklet Tool permissions You control which Gmail tools this Agent can use. You can change tool permissions in Connections. Continue with Google 1 Describe your goal Describe , press again to pause , press again to play 2 Connect your tools Connect , press again to pause , press again to play 3 Automate work 24x7 Automate , press again to pause , press again to play 4 Share with your team Share , press again to pause , press again to play Trusted by thousands of companies big and small Accenture Airtable Sequoia Capital Runway Todoist Zscaler Airwallex Apollo.io Union Square Ventures Khosla Ventures Chargebee Trilogy Accenture Airtable Sequoia Capital Runway Todoist Zscaler Airwallex Apollo.io Union Square Ventures Khosla Ventures Chargebee Trilogy Accenture Airtable Sequoia Capital Runway Todoist Zscaler Airwallex Apollo.io Union Square Ventures Khosla Ventures Chargebee Trilogy Get your whole team using AI. Today. Tasklet can handle every job function. Getting started is as easy as a conversation. Sales Enrich new leads, update the CRM, and draft the reply. Marketing Turn Monday’s industry news into LinkedIn posts. Operations Every Zendesk ticket gets a matching Linear issue. Finance Match Stripe payouts to QuickBooks, flag mismatches. Executive & Admin A prep brief in Slack before every meeting. Animated demo: the selected team's example prompt runs in a Tasklet thread. 📈 Earn credits 41,597 👋 Hi, I’m 📈 Sales . What can I do for you today? Hi, what can I do for you today? Threads are private to you Ask anything or describe a task — hold space to dictate 6.1 Sol Medium Summarize the emails I haven’t read yet Catch me up on what I missed in Slack Help me organize my notes and docs Walk me through my schedule for today 📈 / Enrich leads and draft replies Whenever a new sales inquiry arrives in Gmail, enrich the contact and company with Apollo, update HubSpot, and draft a personalized reply. 📈 Checking Gmail, Apollo, and HubSpot Creating the autom",
+   "email_candidates": [
+    {
+     "email": "andrew@tasklet.ai",
+     "where": "https://tasklet.ai/careers",
+     "kind": "personal"
+    },
+    {
+     "email": "jonny@tasklet.ai",
+     "where": "https://tasklet.ai/blog/2026-10-28-tasklet-mcp",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "b9ca9b4877",
+   "company": "a0.dev",
+   "website": "https://a0.dev",
+   "title": "Engineering (YC Winter 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. We make mobile apps using AI. a0.dev is a platform that helps mobile developers build high quality apps in days instead of weeks by generating custom react native projects. We've launched top ranking apps that have been used by hundreds of thousands, and now we're creating the tools we wish we had to build faster. Artificial Intelligence, Developer Tools, Generative AI, Design, B2B, Engineering, Product and Design, United States of America, America / Canada",
+   "site_text": "[https://a0.dev/]\na0.dev - Ship Mobile Apps to App Store & Google Play with AI Sign Up Build mobile apps. Make money. AI-powered coding, one-click app publishing, integrated payments, and growth analytics — all in one platform. Auto Build it Backed by Combinator Do it all, step by step. Build Deploy Monetize Build apps just by chatting. 200k+ Users building apps Empowering a growing community of builders to launch, share, and scale their ideas. 300k+ Apps created on a0 Thousands of apps created on a0 and deployed to the App Store, Google Play Store, and web. Real apps, real numbers. All made with a0. Flappy Bird Seth PaperPicks ayo BlockTrader Online ayo Practice Lock ayo Red Flags Spotter ayo Tap Beat Live ayo P Panda Run ayo Flappy Bird Seth PaperPicks ayo BlockTrader Online ayo Practice Lock ayo Red Flags Spotter ayo Tap Beat Live ayo P Panda Run ayo Flappy Bird Seth PaperPicks ayo BlockTrader Online ayo Practice Lock ayo Red Flags Spotter ayo Tap Beat Live ayo P Panda Run ayo View Showcase Features that help you build, ship, and grow. AI Coding Agent Build faster with an AI agent that writes and edits your app in real time. Create a dark mode. Thought for 3 seconds You want a dark mode for your app. I'll... 1 Search the codebase for existing... Database Support Develop with reliable backend support powered by Convex or Supabase. Built-in API's Craft smarter apps with built-in APIs for AI inference and image generation. Generated 4 background images incorporating app color palette. AI Coding Agent Build faster with an AI agent that writes and edits your app in real time. Create a dark mode. Thought for 3 seconds You want a dark mode for your app. I'll... 1 Search the codebase for existing... Database Support Develop with reliable backend support powered by Convex or Supabase. Built-in API's Craft smarter apps with built-in APIs for AI inference and image generation. Generated 4 background images incorporating app color palette. AI Coding Agent Build faster with an AI agent that writes and edits your app in real time. Create a dark mode. Thought for 3 seconds You want a dark mode for your app. I'll... 1 Search the codebase for existing... Database Support Develop with reliable backend support powered by Convex or Supabase. Built-in API's Craft smarter apps with built-in APIs for AI inference and image generation. Generated 4 background images incorporating app color palette. AI Coding Agent Build faster with an AI agent that writes and edits your app in real time. Create a dark mode. Thought for 3 seconds You want a dark mode for your app. I'll... 1 Search the codebase for existing... Database Support Develop with reliable backend support powered by Convex or Supabase. Built-in API's Craft smarter apps with built-in APIs for AI inference and image generation. Generated 4 background images incorporating app color palette. One-click app publishing We'll handle the build, create your App Store Connect listing, and upload it for you. Built-in Monetization a0 helps you set up payments and subscriptions for your apps effortlessly. Analytics, simplified Monitor users, subscriptions, and performance with a clear, interactive dashboard. a0.dev mobile app Test, edit, and deploy your apps from anywhere. Available on Android and iOS. Available on the App Store. Available on Google Play. Trusted by creators. shoutout to @a0_dev for helping me get another app charting in the app store! Kyle Ferland @kylecodesalot Vibe coding is getting even simpler for mobile app deployments, definitely trying @a0_dev tonight xaitoshi @xaitoshi_ shoutout to @a0_dev for helping me get another app charting in the app store! Kyle Ferland @kylecodesalot Vibe coding is getting even simpler for mobile app deployments, definitely trying @a0_dev tonight xaitoshi @xaitoshi_ wow my game is blowing up The Don Ayo @TheDonAyo it's crazy @a0_dev lets you build apps and deploy to App Store, Play Store, APK, Web from one codebase. never need to open Xcode or Android Stud",
+   "email_candidates": [
+    {
+     "email": "founders@a0.dev",
+     "where": "https://a0.dev/contact",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "c14676fb01",
+   "company": "HealthKey",
+   "website": "https://gethealthkey.com/",
+   "title": "Engineering (YC Winter 2025)",
+   "location": "Austin, TX, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. AI-powered Patient Identification for Clinical Trials HealthKey helps doctors offices generate more revenue by finding eligible patients for their clinical trials. We match at-risk patients with cutting-edge treatments, ultimately getting patients access to potentially life-changing treatments faster. Big Pharma pays a lot of money to clinics for each patient they enroll, but finding patients who qualify is an entirely manual process today. We use AI to prescreen doctors’ existing patients against Clinical Trials’ eligibility criteria, making enrollment fast and easy. Healthcare, Healthcare IT, United States of America, America / Canada",
+   "site_text": "[https://gethealthkey.com/]\nBoost Clinical Trial Enrollment - HealthKey How It Works Case Studies Pricing Schedule Demo Login Menu AI-Powered Patient Identification for Clinical Trial Teams Integrate with your EHR and get emailed eligible patients for your clinical trials every day â Boost Enrollment â Slash Screen Failures â Maximize Revenue Find out how Finding Eligible Patients is the worst Where's Waldo? game ever... There's a new cheat code: Let HealthKey Prescreen Patients 1. Connect We connect to your EHR to analyze patientsâ data in a HIPAA compliant way. 2. Prescreen We encode your trials' eligibility criteria and scan your EHR for candidates with AI. 3. Review We present you matches with evidence from patients' records so your research team can qualify them. See for yourself Qualify More Patients, Faster Double Your Patient Matches in Half the Time HealthKeyâs AI replaces manual chart reviewsâprocessing thousands of records in minutes. Simply upload your inclusion & exclusion criteria, and our platform delivers a ready-to-enroll list straight to your team. Schedule a Demo Get Started in 1-week Works with your system: Security-first. HIPAA Compliant. Get started Offer Valid Thru Nov 30, 2026 $0 upfront costs (risk free) We charge Success Fees per patient. It's simple, and scales with your sites, studies, and subjects. It's a no-brainer: we only get paid if you're successful! + FREE Implementation ($15,000 value) + FREE Protocol Setup for 5 Trials ($5,000 value) + FREE Premium Support ($2,500 value) Get started (Limited to 20 New Sites This Quarter) See Qualified Patients in Your Dashboard Within Days Let HealthKey Work for You Want to join us on this mission? See our Careers page here . Cancel How It Works Case Studies Pricing Schedule Demo Login How It Works Case Studies Pricing Schedule Demo Login Menu See Qualified Patients in Your Dashboard Within Days Let HealthKey Work for You Want to join us on this mission? See our Careers page here . How It Works Case Studies Pricing Schedule Demo Login Menu Subscribed Thank you We'll be in touch soon. Continue\n\n[https://gethealthkey.com/blog]\nHelping find more patients for clinical trials ð Blog Home Product Contact Search Open main menu Blog Home Product Contact Helping find more patients for clinical trials ð HealthKey uses AI to prescreen your entire EHR to surface patients who actually qualify for your clinical trials. Instead of CRCs spending hours manually scrubbing charts, we scan 80,000 patients and find the exact 42 who are eligible, ranked by how likely they are to enroll. The result is accelerated enrollment, reduced screen failures, and fewer delayed trials -- ultimately getting patients access to potentially life-changing treatments faster. Case Study Oncology â¢ Apr 22, 2026 How Oregon Urology Institute Found 6 PSMA-DC Patients in 1 Week (After Enrolling Zero for Two Years) Oregon Urology Institute searched for eligible clinical trial patients for the Novartis PSMA-DC study for two years with zero enrollments. HealthKey processed 5.2 million medical records, identified 6 eligible patients, 3 consented, and 1 enrolled. Case Study â¢ May 26, 2026 How Access CCT Went from Two Enrolled Patients to a Pipeline of 39 on a Trial a Year Behind Schedule Access CCT was running a tough Phase 2/3 epilepsy trial that was over a year behind enrollment targets. They added HealthKey alongside an existing recruitment platform. HealthKey processed 996,044 medical records, identified 39 eligible patients from 5,608 screened, and found an additional patient who qualified â one their other platform missed completely. Case Study â¢ May 26, 2026 How Flourish Research screened 11,041 patients across 4 clinics and enrolled for a novel obesity biologic in 25 days. Flourish Research needed to find patients for a first-in-class obesity biologic across 4 partner clinics running on different EHRs. HealthKey processed 4.2 million medical records, identified 323 eligible",
+   "email_candidates": [
+    {
+     "email": "josh@gethealthkey.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Josh Sabol",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "c527c340cf",
+   "company": "Tesora",
+   "website": "https://tesora.ai",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Frontier AI for Actuaries Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change. The part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors. API, Insurance, AI, Fintech, Insurance, United States of America, America / Canada",
+   "site_text": "[https://tesora.ai/]\nTesora: Frontier AI for Actuaries Tesora: Frontier AI for Actuaries Complete complex actuarial work in half the time. Precise actuarial work, finally trusted to AI Get actuarial work done fast, reproducibly, and at a fraction of the cost. Foundation Capital Y Combinator What we ship We built the infrastructure around real actuarial workflows. Built-in checks AI that canât hallucinate Checks run between the AI model and your desk. If a number cannot be traced to its source page, you never see it. Every agent must pass these checks before its answer counts as finished. In actuarial work, a confidently wrong number ends up in a rate filing, a reserve opinion, or testimony. Built for enterprise security Isolated in an environment of its own, so no one else sees your data We follow state-of-the-art security protocols and are SOC 2 Type II audited. Your data stays on a virtual machine of its own, and never joins a shared index or passes through anyone elseâs context window. FAQ Common questions. From chief actuaries, pricing teams, and the IT and risk officers who review us. Bring us your hardest problem A tangled spreadsheet, an outdated memo, or a rater your team can't get off Excel. Customers Start with one team. Keep building. Single-tenant A virtual machine of your own, with its own service account and data disk. Agents and workflows run in hardened sandboxes with web search and fetch switched off. No training on your data We do not train any model on your data, ours or anyone elseâs. Not your rate plans, filings, books or submissions, not under any contract, and not at any tier. SOC 2 Type II, SOX aligned Continuously monitored by Rippling, with three separate environments, separated roles, and a full audit trail on every promotion. ASOP-aligned Built to the CAS syllabus and ASOPs 23, 41, and 56. Tesora Workbench Specialist AI agents do the work, read-only audit agents check it, and every figure cites its source. Ingestion & analytics Loss runs, policy data, filings and ledgers, read where they already live: Excel and SharePoint, Databricks, Snowflake, or your cloud storage. Anomalies are flagged on the way in, and every value keeps the cell or page it came from. Comparative raters Rebuild any rater, yours or a competitorâs, from Excel or SERFF filing PDFs in hours, with every factor cited to its source. Then run your book through them and see whether you will grow or bleed policies at each rate action. Pricing & rater deployment Build a rater by describing it in plain English, then test and refine it until the numbers are right. Every change is versioned and auditable, and you deploy without waiting on IT, actuarial, or underwriting. Your existing Excel raters import directly. Reserving & Close Most of the quarterly close, done. Anomalies flagged upon ingestion. IBNR recommendations with every value traced back to the source. a month, saved Per actuary, measured on our own workflows. the output per actuary Same headcount and standards, twice the completed work. traceable to source Every value Tesora populates cites the cell or page it came from. How is this different from Claude, GPT or Copilot? Those are models, and we route to them. The difference is everything built around them: your data wired in and vaulted for later recall, every figure citing where it came from, and a platform finally conducive to defensible, reproducible actuarial work. Tesoraâs audit agents automatically flag issues like censored data and mismatched aggregations. Can we import our existing rating models? Yes, and it is usually the first thing we do. Send us your Excel rater and we rebuild it as a versioned model that runs your existing logic exactly as it does today. It must pass a test suite before anyone can deploy it, so you can check it against your own numbers first. What integrations do you support? Microsoft 365 (including Excel and SharePoint), Databricks, Snowflake, and the major cloud storage providers connect",
+   "email_candidates": [
+    {
+     "email": "vivek@tesora.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Vivek Rao",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "frg100@gmail.com",
+     "where": "YC profile · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Federico Reyes Gomez",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "c5aa4b489c",
+   "company": "F2",
+   "website": "http://f2.ai",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. The AI platform for private markets investors F2 is the AI platform for private markets investors. Purpose-built for private credit, private equity, and commercial banking, F2 accelerates diligence, underwriting, and portfolio monitoring, helping teams evaluate deals over 60% faster. F2 turns unstructured deal data into investment-grade analysis and polished memos in minutes. Unlike general-purpose AI, F2 is built with the domain expertise and depth to handle the most complex financial analysis. Already trusted across thousands of deals, F2 makes collaboration easy and retains historical context, so past work compounds into future wins. Headquartered in New York City, F2 is backed by leading investors including NFX, Left Lane Capital, and Y Combinator. AI, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://f2.ai/]\nF2 — The AI Platform for Global Credit Product Solutions Resources Sign in Book a Demo Menu The agentic operating system for global credit. Evaluate every deal with full context, instantly. Schedule Demo The New Standard F2 is building the AI rails powering the $100T Audit mode global credit markets. Compare F2 Case Studies “We partnered with F2 because it recognizes that our proprietary knowledge is our most durable competitive advantage and should remain under our control, even as the underlying models evolve.” “We partnered with F2 because it recognizes that our proprietary knowledge is our most durable competitive advantage and should remain under our control, even as the underlying models evolve.” David Golub Co-CEO of Golub Capital $90B Capital Global Credit includes only corporate loans and excludes household, financial services, and government debt. Source: IIF Global Debt Monitor, May 2026. The Agentic Operating System for Global Credit Meet Adam Supercharge Your Institutional Knowledge IC Memos, models, credit agreements, Surveillance Reports Deal Execution Compare companies, benchmark performance, and surface patterns across the portfolio and every precedent. Dynamic Portfolio Monitoring When actuals miss budget, portfolio comp shifts, or macro conditions weaken, F2 flags key risks proactively so you can act faster with complete context. Quarterly Reporting $ 12.4 M Source: Mgmt Deck p14 1Q26 Adj. EBITDA Verified Adam: F2’s Deal Agent for Global Credit An autonomous expert for your entire deal workflow, with context on your entire portfolio. Adam Create an IC memo for the Acme deal that I can review Searched for precedent deals across Institutional Knowledge Building the databook behind Acme deal Building IC memo... Speed & Efficiency F2 is not only built for speed and efficiency but for deal-specific outcomes. Compare F2 F2 vs Standard Model F2 vs single-model, token-based tools. Unlimited Audit mode Unlimited usage versus token-based single-model tools. Multi-Model Audit mode Multi-model, LLM-agnostic versus single-model chat-based solutions. 5x Faster Audit mode Up to 5x faster than doing things the traditional way. The F2 Difference Every new deal still starts from scratch. Until F2. Unlock Trapped Knowledge Your existing knowledge becomes less scattered and more legible with every future deal. Built by Former Bankers, Investors, and AI Experts Customized for your workflows and structured for industry data. Model Agnostic Plug and play ready for the next and best model you want to use. Built For You F2 is the secure, trusted platform for your data. F2 Trust Center SOC 2 Type II and GDPR Compliant Data security and privacy standards fit for F2's most compliance-minded global banking and fund customers. Deploy with a dedicated F2 team Our forward-deployed team designs customized on-platform workflows from day one, converting your firm's offline knowledge into a useable asset. Your data in your control Zero data retention. Zero model training. Full ownership over your F2 workspace. Built by operators from both sides. F2 is built by an experienced team from institutional lending. We built F2 on a simple conviction: a lender's deal history should make every future deal faster and more defensible. About F2 F2 Newsroom Try F2 in your existing workspace. Enterprise Rollout From day one, F2 is here to support you with a dedicated implementation team. F2 is secured in your existing environment. Schedule Demo Rapid Rollout A lightweight version of F2 your team can start using right away. No integrations required to begin. Talk to our team Connect with us today to see the F2 advantage.\n\n[https://f2.ai/blog?category=comparisons]\nF2 | Private Markets AI Blog: Underwriting & Deal Insights Product Solutions Resources Sign in Book a Demo Menu F2 Blog Deep dives on AI for private markets: underwriting automation, LBO modeling, IC memos, and platform comparisons — written for credit and PE deal teams. Compounding ",
+   "email_candidates": [
+    {
+     "email": "don@f2.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Don Muir",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "c79b41e4b3",
+   "company": "Ruma Care",
+   "website": "https://rumacare.com",
+   "title": "Product Engineer",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Product Engineer (San Francisco, CA, US; experience: Any (new grads ok); Will sponsor). Team size: 5. The operations stack for biologic infusion clinics Ruma Care automates all admin work for infusion clinics - starting with prior authorizations & copay assistance enrollment. Biologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance. Current medical workflows aren't built for infusion clinics. Inventory, storage, transport, and billing is still managed through paper and excel spreadsheets. And because they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, when workflows fail, or patients are infused before paperwork is cleared, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting forms. We do this in three ways: 1. For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. 2. We pull out the correct forms, then automate the form-filling for prior authorizations. 3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. We turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved. Healthcare, United States of America, America / Canada",
+   "site_text": "[https://www.janeen.care/]\nJaneen | Prior authorizations, handled Janeen Contact Book a demo Book a demo Contact For infusion clinics Prior authorizations, handled. She handles every prior authorization, from benefit investigation to insurer calls. Book a demo MR Maria R. Infliximab · referred Monday Referral in Referral received Waiting Benefits verified Waiting Prior authorization approved Waiting First infusion Waiting Every clinic needs a Janeen She knows everything. Every great clinic has someone who knows every payer, every form and every next step. Janeen is that person, automated. How it works Janeen handles every case, start to finish. 01 Referral intake Pulled from your EHR or fax the day it arrives. 02 Benefits investigation Coverage, requirements and costs confirmed. 03 Authorization submitted Forms completed from the chart and checked. 04 Insurer calls Followed up until there is a decision. 05 Denials and appeals Appeals written, deadlines tracked. What it’s like to have a Janeen. “ Ruma Care helps us get our prior authorizations done so fast, we have time to play. Janeen Practice Manager San Mateo Rheumatology “ I haven’t found anything that compares to Ruma Care. It’s become an extension of our workflow, and it’s made a meaningful difference in how we manage patient access to treatment. Ryan Prior Authorization Specialist Arthritis Consultants of Tidewater “ Ruma helps us scale prior auths across locations without the process becoming a bottleneck. I loved that I wasn’t having to go in and type everything out again and again and again. Annie Prior Authorization Manager Haven Headache & Migraine Center Give your team their afternoons back Book a demo\n\n[https://www.janeen.care/contact]\nContact | Janeen Janeen Contact Book a demo Book a demo Contact Get in touch with us Learn how you can spend less time on paperwork and more time on care for your infusion practice. Message sent. Thanks for reaching out. Our team will get back to you soon.",
+   "email_candidates": [
+    {
+     "email": "meng@rumacare.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Meng Fei Shen",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

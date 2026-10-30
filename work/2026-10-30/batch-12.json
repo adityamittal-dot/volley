@@ -1,0 +1,411 @@
+{
+ "leads": [
+  {
+   "id": "ca0f7dd2ef",
+   "company": "Waddle Labs",
+   "website": "https://www.waddlelabs.ai/",
+   "title": "Engineering (YC Summer 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. LLMs that control robots Developer Tools, Generative AI, Robotics, Automation, Industrials, Manufacturing and Robotics, United States of America, America / Canada",
+   "site_text": "[https://www.waddlelabs.ai/]\nWaddle Labs — LLM agents for robotics control Skip to content Waddle Labs We are an applied AI lab building LLMs that control robots. AI has advanced quickly, but robots still struggle outside carefully prepared settings. Making a robot useful often takes work specific to one machine, task, or lab. That makes progress difficult to reproduce and extend, and risks concentrating robot intelligence in a few large companies. We believe individuals should be able to adapt robots to their own needs. Our research aims to make that possible. Model Capability. Language models are not perfect at robotics control, but they can learn in context. We have seen Waddle's agents become markedly more reliable over time. How do we preserve what one agent learns and transfer it to another? How do we build a shared memory across agents? Our work draws on and extends research in continual learning. Inference Efficiency. We have shown that language models can solve robotics tasks in real time, on real robots, but latency remains a bottleneck. How can agents become faster with practice? How can we improve their efficiency while preserving the flexibility to adapt to new tasks and environments? Human-robot interaction. Robot intelligence must be built for people. We study how people can give robots tasks, see what they are doing, and correct mistakes. We design interfaces that make it easy and safe for individuals to collaborate with robots. If you are interested in working with us, please email founders@waddlelabs.ai . For early access or other inquiries, please reach us via wave@waddlelabs.ai .",
+   "email_candidates": [
+    {
+     "email": "founders@waddlelabs.ai",
+     "where": "https://www.waddlelabs.ai/",
+     "kind": "hiring"
+    },
+    {
+     "email": "wave@waddlelabs.ai",
+     "where": "https://www.waddlelabs.ai/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ca67a4b6ae",
+   "company": "Smartcuts",
+   "website": "https://trysmartcuts.com/",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "New York City, NY, USA; New York, NY, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Chrome extension to turn clicks & keystrokes into no-code automations Smartcuts is a Chrome extension that lets you automate anything in your browser, without code. Record your clicks and keystrokes, and replay them later on similar web pages to automate repetitive work. It's like Excel macros for any website. No-code, Automation, B2B, Productivity, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://trysmartcuts.com/]\nTitle: Smartcuts\n\nURL Source: https://trysmartcuts.com/\n\nMarkdown Content:\n## Automate repetitive work  \non any website  \nin minutes. Without code.\n\nAs you click and type, our Chrome extension watches your actions and turns them into automations that you can replay later.\n\n![Image 1](https://trysmartcuts.com/img/promo-thumbnail-frame.png)\n\n*   ![Image 2: Google Sheets](https://trysmartcuts.com/img/3plogos/sheets.png)\n*   ![Image 3: Gmail](https://trysmartcuts.com/img/3plogos/gmail.png)\n*   ![Image 4: Slack](https://trysmartcuts.com/img/3plogos/slack.png)\n*   ![Image 5: Google Calendar](https://trysmartcuts.com/img/3plogos/gcal.png)\n*   ![Image 6: Trello](https://trysmartcuts.com/img/3plogos/trello.png)\n*   ![Image 7: Facebook](https://trysmartcuts.com/img/3plogos/facebook.png)\n*   ![Image 8: LinkedIn](https://trysmartcuts.com/img/3plogos/linkedin.png)\n*   ![Image 9: Asana](https://trysmartcuts.com/img/3plogos/asana.png)\n*   ![Image 10: Facebook Messenger](https://trysmartcuts.com/img/3plogos/messenger.png)\n*   ![Image 11: Amazon](https://trysmartcuts.com/img/3plogos/amazon.png)\n*   ![Image 12: Salesforce](https://trysmartcuts.com/img/3plogos/salesforce.jpg)\n*   ![Image 13: LinkedIn](https://trysmartcuts.com/img/3plogos/linkedin.png)\n*   ![Image 14: Shopify](https://trysmartcuts.com/img/3plogos/shopify.png)\n*   ![Image 15: Twitter](https://trysmartcuts.com/img/3plogos/twitter.png)\n*   ![Image 16: Customer.io](https://trysmartcuts.com/img/3plogos/customer.png)\n*   ![Image 17: PayPal](https://trysmartcuts.com/img/3plogos/paypal.png)\n*   ![Image 18: ZenDesk](https://trysmartcuts.com/img/3plogos/zendesk.png)\n\n*   and more ...\n",
+   "email_candidates": [
+    {
+     "email": "brian@trysmartcuts.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Brian Noguchi",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ce25cd7ba0",
+   "company": "OnDeck AI",
+   "website": "https://www.ondeckai.com",
+   "title": "Founding Engineer",
+   "location": "Vancouver, BC, Canada",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Founding Engineer (Vancouver, BC, CA / Vancouver, British Columbia, CA; experience: Any (new grads ok); US citizenship/visa not required). Team size: 7. Analyze any footage, without training a model OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. Our model, Perception-0, let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data. The Pain: Creating vision models usually takes months: collecting training data, training, then deployment. Worse yet: + it’s often impossible to get enough data for a specific task, and + even the best cv models struggle to generalize across diverse camera setups, workflows and environments. To overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks. Now, our model Perception-0 beats the best VLMs including Gemini at long video understanding. Our current customers include: - National Defense Organizations - Robotics Research - Security cameras - Behaviour analysis for port monitoring - Off-shore oil & gas monitoring Machine Learning, SaaS, Computer Vision, B2B, Video, B2B, Analytics, Canada, America / Canada",
+   "site_text": "[https://www.ondeckai.com/]\nOnDeck AI - The world's most powerful vision model Introducing Vision Index: Independent vision model evaluations Talk to our team Intelligence that solves complex visual analysis tasks for you. Flagging safety violations Backed by AI that sees and adapts as well as a human Search Find anything across petabytes of unstructured footage. Understand Understand complex events and why they happened. Report Generate human or machine-readable reports for any task. Customize OnDeck self-adapts to fit each customer's unique workflow. OnDeck outperforms all other models. OnDeck's Perception-0 is the world's most powerful vision model, guaranteed to maintain SOTA over time. Model Score Perception-0 Gemini 3.1 Pro Deep Video Discovery Seed1.5 AdaReTaKe GPT-4o 81.2% 78.5% 74.2% 64.6% 53.3% 48.9% 0% 20% 40% 60% 80% 100% Benchmark: LVBench - Overall Score (%) We've published with NeurIPS. Off the shelf VLMs struggle with unseen data. OnDeck started from our early research enhancing reliability by grounding in real data, not model guesses. View our NeurIPS Paper Proven. Flexible. Built for enterprise. Proven OnDeck is deployed with defence agencies, universities, robotics companies, public safety and more. Deployable In the cloud or on-prem with air-gapped capabilities and SOC 2 certified compliance. Customizable OnDeck's agentic systems recursively self-improve and adapt so each partner gets a tailored fit for their real workflow. The most advanced teams use OnDeck. Our customers unlock frontier capabilities and drive down costs with OnDeck. Defence Singapore's Ministry of Defence improved threat detection and situational awareness across autonomous assets using OnDeck. Robotics Parametric leveraged OnDeck's fine-grained behaviour understanding to accelerate the training of safe robotics models.\n\n[https://www.ondeckai.com/careers]\nCareers Introducing Vision Index: Independent vision model evaluations Talk to our team We're hiring We are on a mission to solve vision and get it into the hands that need it. Join our team of researchers, engineers, and innovators. We work hybrid / in-person in Vancouver, BC. View all Open Positions Software Engineer Vancouver, BC $110k – $200k + equity Machine Learning Researcher Reach out directly Vancouver, BC $180k – $400k + equity",
+   "email_candidates": [
+    {
+     "email": "hello@ondeck-ai.com",
+     "where": "https://www.ondeckai.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "alexander@ondeckai.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Alexander Dungate",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "sepand@ondeckai.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sepand Dyanatkar",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ce86dd48a8",
+   "company": "GovernGPT",
+   "website": "https://www.governgpt.com/",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "Montreal, QC, Canada",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 7. The RFP Platform Asset Managers Adopt For money managers to raise their next billion, they dedicate entire teams to spend days filling diligence questionnaires with recycled content. We do it in minutes using AI. Clients include Pantheon, Tishman Speyer, Coatue, ICONIQ, DigitalBridge, PAG, Stonepeak, Onex, Urban Partners, Yarra Capital, Bridgewater,Axonic, NIAM, Raith Capital, Intl Farming, Hillsdale, White Oak, Oakley, PollenStreet, Kartesia, L1, Tribeca, etc. Fintech, Canada, America / Canada",
+   "site_text": "[https://www.governgpt.com/]\nInstitutional-Grade RFP Author Skip to main content GovernGPT Book a Demo Institutional-Fundraising Brain Book a Demo We’d love to show you. Please book a demo here. Product Scale institutional fundraising by: Doubling RFP throughput Ensuring consistent communication with LPs Ensuring high-quality responses to LPs Ensuring accurate reporting to LPs See how we compare to our competitors LLMs vs. GovernGPT Data Security Market Adoption We are loved by blue chip funds. You could be next. By partnering with GovernGPT in H2 2025, we increased RFP capacity by 60%. Turnaround times improved significantly, enabling earlier, more confident submissions. The platform helped us shift time from manual content upkeep to strategic, client-specific work. With this foundation in place, as we scaled our output, we maintained quality and control, enhancing consistency and efficiency while strengthening compliance oversight and maintaining a clear audit trail. The partnership approach that Mamal and team take makes GovernGPT’s platform stand out above the rest. Ashish Chauhan Senior RFP Associate Client GPs include It allows us to focus on the nuanced questions rather than spending time on manual data entry, maintaining a library, or digging for the latest version of an answer. David Solovej Senior Associate ... The platform’s user-friendly interface allows us to easily upload and organize documents, as well as quickly generate and manage responses. Emma D'Amico Compliance Associate ... Incorporating GovernGPT into our processes has resulted in significant time-savings, created even greater consistency in responses, and allowed for easy review by the full team. Olav Osland Vik-Mo Partner & COO ... This allows us to spend more time on the nuanced, judgement-driven questions where human input adds the greatest value. Harry Gobourn Investor Relations Associate ... GovernGPT is what AI done right looks like — version control challenges gone, DDQ and RFP completion time cut dramatically. Adam Smolyar Chief Innovation and Technology Officer This tool is life-changing for teams struggling with limited resources and time. João Chagas Chief Compliance Officer ... The platform is intuitive and easy to use, which made adoption smooth and painless. Stephanie Naratil Head of Investor Relations, Managing Director ... It’s been a major time-saver and a real boost to both my personal productivity and my team’s overall efficiency. Alex Daves VP Investor Relations ... The tool’s intuitive interface, customizable templates, and ability to tailor responses to specific criteria has saved us hours of work. Jordan Dawson Director of Investor Relations ... It allows us to focus on the nuanced questions rather than spending time on manual data entry, maintaining a library, or digging for the latest version of an answer. David Solovej Senior Associate ... The platform’s user-friendly interface allows us to easily upload and organize documents, as well as quickly generate and manage responses. Emma D'Amico Compliance Associate ... Incorporating GovernGPT into our processes has resulted in significant time-savings, created even greater consistency in responses, and allowed for easy review by the full team. Olav Osland Vik-Mo Partner & COO ... This allows us to spend more time on the nuanced, judgement-driven questions where human input adds the greatest value. Harry Gobourn Investor Relations Associate ... GovernGPT is what AI done right looks like — version control challenges gone, DDQ and RFP completion time cut dramatically. Adam Smolyar Chief Innovation and Technology Officer This tool is life-changing for teams struggling with limited resources and time. João Chagas Chief Compliance Officer ... The platform is intuitive and easy to use, which made adoption smooth and painless. Stephanie Naratil Head of Investor Relations, Managing Director ... It’s been a major time-saver and a real boost to both my personal productivity and my team’s overa",
+   "email_candidates": [
+    {
+     "email": "mamal@governgpt.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mamal Amini",
+     "role": "Founder"
+    },
+    {
+     "email": "oliver@governgpt.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Oliver Walerys",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d088bf853a",
+   "company": "Solva",
+   "website": "https://solvatechnology.com",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. Building the new superintelligence for insurance Insurance is 7% of worldwide GDP and we’re building the infrastructure for how the world handles risk Fintech, Insurance, United States of America, America / Canada",
+   "site_text": "[https://solvatechnology.com/]\nSolva | The new risk infrastructure for insurance Talk to our team Talk to our team Talk to our team For Better Insurance Outcomes Talk to our team Talk to our team Talk to our team Rebuilding insurance is within reach. For centuries, insurance has been the promise that lets businesses build bigger than they could afford to lose. Solva is building AI-native risk infrastructure for insurance, so any business can offer coverage to its customers and partners and share in the economics. Today, most of that value is lost to paperwork, legacy carriers and middlemen. We believe it belongs to the businesses closest to the customer. We’ve done this before. We built one of the world’s fastest-growing insurers to $150M in premiums, insured more than 300,000 risks and raised over $160M. We are backed by investors behind OpenAI, Anthropic, Google, xAI and Meta. We’re going after the $1T+ insurance industry, and we intend to rebuild all of it. Insurance has always powered progress. We’re building what will power the next century. — The Solva team Talk to our team Talk to our team Talk to our team Certified & Compliant Compliance with the most rigorous safety and security standards HIPAA Solva meets all requirements for a Business Associate under HIPAA. We offer a comprehensive BAA, support PHI processing with end-to-end encryption, and maintain strict access controls to protect sensitive healthcare data. ISO 27001 Solva is fully certified with ISO 27001, the internationally recognized standard for information security management. GDPR Designed for European compliance. We offer EU-native data hosting with strict data residency controls. Our legal framework includes comprehensive DPAs and Transfer Impact Assessments (TIA) to ensure full GDPR alignment. SOC 2 Type 2 Solva has successfully completed a SOC 2 Type II examination, an independent assessment of the design and operating effectiveness of our security controls over time. News & Insight Read the latest product updates, company news and industry insight. Insight From Rearview Mirror to Real Time: How AI Is Transforming Claims Quality Assurance Google Cloud Summit TECHARENA 2026 2025: a Breakout Year for Solva Rebuild insurance with us. Talk to our team Talk to our team Talk to our team Proud part of OUR BACKERS\n\n[https://solvatechnology.com/about-us]\nAbout Solva | The Future Of Insurance Talk to our team Talk to our team Talk to our team Built by insurance veterans We've built insurance and financial businesses before: one of Europe's fastest-growing insurers and a bank processing payments for Porsche and Volkswagen. $160M+ raised, 300,000+ policies insured, $1B+ in payments processed. Now we're building the new risk infrastructure for insurance, so any business can offer coverage and keep more of the profit. Our backers represent $220B+ in premiums globally. The founders behind our company Linus Malmén CTO & Co-Founder Co-founded Zaver, processing €1B+ annually under EBA-CRD licensing, serving clients like Porsche, Volkswagen, and Loewe, raised $40M+, and featured in TechCrunch, Bloomberg, and Forbes Herman Båverud Olsson CEO & Co-Founder Built Lassie to $100M ARR, named one of the world's fastest-growing InsurTechs, backed by $125M from Balderton, Felix, Passion, and Inventure. Worked at BCG X and Morgan Stanley Sorena Amini COO & Co-Founder At Fidelio Capital, scaled KeyTo from $60M to $250M. Advised insurance and InsurTech companies at Citi and worked at Talentech / ReachMee Deep insurance roots & Silicon Valley backing Proud part of OUR BACKERS\n\n[https://solvatechnology.com/careers]\nCareers at Solva | Reinvent Insurance Talk to our team Talk to our team Talk to our team Join Solva to reinvent insurance Insurance is one of the world’s largest industries, but it still runs on paperwork, legacy carriers and middlemen who keep most of the profit. At Solva, we know that’s about to change. We’ve done this before. Our team was previously part of building Euro",
+   "email_candidates": [
+    {
+     "email": "contact@solvatechnology.com",
+     "where": "https://solvatechnology.com/careers",
+     "kind": "generic"
+    },
+    {
+     "email": "herman@solvatechnology.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Herman Båverud Olsson",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "sorena@solvatechnology.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sorena Amini",
+     "role": "Founder/COO"
+    },
+    {
+     "email": "linus@solvatechnology.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Linus Malmén",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d259a2d920",
+   "company": "Rex",
+   "website": "https://www.rex.inc",
+   "title": "Engineering (YC Summer 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. AI-native BPO for enterprise order-to-cash Rex is an AI-native service for order to cash. Rex replaces manual operations with AI agents that continuously manage invoices, customers and exceptions. Order to cash is a $60B outsourced function because the work is too messy for traditional automation. Every customer has different context, exceptions do not follow clean rules, and the next step is often buried in emails, portals, handoffs, or someone’s memory. Rex agents run continuously in the background and resolve work to SLA standards so cash keeps moving. We're live with pre-IPO tech companies, managing >$500m in receivables from F100 companies, cutting manual follow-up cycles from weeks to hours. We founded Rex after spending four years building Sequence, an a16z-backed finance ops platform, from zero to Series A — where we saw firsthand that at-scale, O2C still runs on manual labour. Rex is the #1 winner of the Vercel AI Accelerator out of 2,500 teams, selected by Guillermo Rauch and leaders from OpenAI, Anthropic, Browserbase and more. B2B, Enterprise, Enterprise Software, AI, B2B, Finance and Accounting, United States of America, America / Canada",
+   "site_text": "[https://www.rex.inc/]\nRex | The AI operations partner for order-to-cash Skip to content Learn more AI-native order-to-cash with Rex How Synthesia transformed order-to-cash into an AI-native operation AI operations partner for order to cash Rex is a new operating model for order to cash in the enterprise. Collect cash faster, improve KPIs and deliver a better customer experience, without the headcount. Faster DSO 12d Touchless communications 90%+ Average response time 30m Agents now run order to cash Invoices collected 84,260 Portal submissions 21,480 Disputes triaged 6,380 Payments applied 32,140 Emails drafted 118,620 Promises captured 8,940 Actions completed 184,120 Invoices collected 84,260 Portal submissions 21,480 Disputes triaged 6,380 Payments applied 32,140 Emails drafted 118,620 Promises captured 8,940 Actions completed 184,120 How Synthesia transformed order-to-cash with Rex With Rex, Synthesia brought AI into every part of its order-to-cash operation, giving its lean finance team the capacity to support continued growth. Read story Backed by Y Combinator Out of 2500 teams AI Accelerator winner Seen in Forbes 2026 NVIDIA Adopt 100 Partner Finance operations now run on agents Watch the launch film 1:17 Turn your order-to-cash process into an agentic operation Rex Agents take action across email, ERP, CRM, voice and chat, with oversight from expert finance operators. They drive collections, resolve disputes and keep systems updated, steadily improving your order to cash KPIs. Collections Agent . . . Disputes Agent Cash App Agent Portal Agent Agents Specialized agents work every account across collections, disputes, cash application and portals. Live 3 active Walmart Now Collections · chasing 3 Costco 1m Portal · uploading invoice Pfizer 4m Disputes · needs review Mission Control See what every agent is working on, account by account, with each action logged as it happens. DSO On track 41d Potential 38d Apr Sep Self-driving KPIs Track DSO, response times and resolution rates against the targets you agreed with Rex. Credit memo approved Experts in the loop Rex provides expert finance operators to support each deployment and oversee the work agents do. Procedure Bank verification by phone 1 Call back the number on file 2 Confirm last four digits 3 Log the call in Net Operating Procedures Your policies become procedures agents follow, and each approved exception refines them. Assistant Ask about any customer, invoice or dispute and get an answer drawn from your own data. Walmart ERP CRM Inbox Portals Bank Finance Context Layer One view of each account, built from years of history in your ERP, CRM, inbox, portals and bank feeds. First response 22m SLA: 30 min SLAs Response and resolution times are agreed with you up front, and Rex reports against them. Solution Your order-to-cash operation, run by Rex. Delegate collections, cash application and customer portal work to AI agents, with dedicated finance experts managing delivery. Review every open PO on Ariba … Delegate the work Rex handles customer follow-ups, portal submissions and cash matching across your existing systems. What did we agree with Target? Who broke a payment promise this month? Top 10 accounts by outstanding balance Which customers have gone quiet for 14+ days? What did we agree with Target? Who broke a payment promise this month? Top 10 accounts by outstanding balance Which customers have gone quiet for 14+ days? Draft a follow-up to Volvo on INV-2847 Summarize this week in AR Why is Samsung's payment stuck? When did Walmart last pay on time? Draft a follow-up to Volvo on INV-2847 Summarize this week in AR Why is Samsung's payment stuck? When did Walmart last pay on time? Show me open disputes over $25K What's our DSO trending to next month? Flag accounts at risk of slipping past 60 days Which customers changed payment terms recently? Show me open disputes over $25K What's our DSO trending to next month? Flag accounts at risk of slipping past 60 days Whic",
+   "email_candidates": [
+    {
+     "email": "hello@rex.inc",
+     "where": "https://www.rex.inc/",
+     "kind": "generic"
+    },
+    {
+     "email": "merlin@rex.inc",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Merlin Kafka",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "lewis@rex.inc",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Lewis Blackwood",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d2acbe68ad",
+   "company": "Lamb Labs",
+   "website": "http://lamb-labs.com",
+   "title": "Founding AI Accelerator Architect (Research & Hardware Co-Design)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Founding AI Accelerator Architect (Research & Hardware Co-Design) (London, England, GB; experience: Any (new grads ok); US citizenship/visa not required). Team size: 0. Lightning fast chips with hardcoded AI models Lamb Labs is building Model Processing Units (MPUs), custom AI chips that hardcode LLM weights directly into silicon. Rather than adapting general-purpose processors to run AI models, we're rethinking how LLMs are implemented in hardware to make inference dramatically faster and more energy-efficient. Hardware, B2B, Semiconductors, AI, B2B, United States of America, America / Canada",
+   "site_text": "[https://lamb-labs.com/]\nTitle: Lamb Labs, the World's First MPU\n\nURL Source: https://lamb-labs.com/\n\nMarkdown Content:\nLamb Labs is building MPUs (Model Processing Units). We hardcode the entire model, including its weights, into silicon. The model is the chip. This solves the memory-bandwidth bottleneck GPUs face, targeting 20,000+ tokens per second.\n\n[Scroll](https://lamb-labs.com/#what-we-do)\nWhat We Do\n\n## T he S oftware A nd T he C hip\n\nFast inference is a full-stack problem. We get more useful tokens out of today's GPUs, then carry the same obsession with speed and efficiency down into FPGA fabric and custom silicon.\n\n### The software\n\nLarry is our one-bit version of Qwen3.8 27B, **14.6× smaller** than the original, so the whole model can fit on-chip. It's the model our first MPU will carry, and you can chat with it live today.\n\n[Larry demo live now ↗](https://larry.trylittlelamb.com/)\n\n### The chip\n\nWe turn models into dedicated compute and memory layouts instead of moving every weight through a general-purpose stack. Little Lamb is our smallest end-to-end proof: a model generating text **entirely inside FPGA fabric**.\n\nLittle Lamb demo temporarily offline\n\nThe road to silicon\n\n## F our S tages\n\n1.   Stage 01 · software shipped\n\n### Larry, a 27B model in one bit\n\nWe quantised Qwen3.8 27B to one bit per weight, shaping the model around one hardware constraint: fitting entirely on-chip. Larry is **3.8 GB, 14.6× smaller** than the original weights, and keeps 92% of Qwen's IFEval strict-prompt score. It's the model our first MPU carries. The live demo runs it on a single GPU today.\n\n[Larry demo live now ↗](https://larry.trylittlelamb.com/) \n2.   Stage 02 · shipped\n\n### FPGA accelerator\n\nWe compile the model into custom accelerator logic. Our first prototype runs today on an off-the-shelf Kria KV260 board: **an 8B-parameter model under 10 W**, less power than a lightbulb. This board is the proof that the architecture maps to hardware.\n\n[Watch the demo on a Kria KV260 ↗](https://www.linkedin.com/posts/thomas-lanning_getting-the-board-warmed-up-only-6w-to-ugcPost-7484439356724731904-NmGn/) \n3.   Stage 03 · shipped\n\n### Little Lamb, entirely on-chip\n\nWe trained a tiny language model from scratch, then burned its weights into FPGA fabric. It generates every token on a **$250 Kria KV260** with all weights resident in on-chip memory and **no DRAM in the token loop**. It is deliberately tiny; the point is a live, end-to-end proof that a self-trained model can run entirely on-chip.\n\n![Image 1: Little Lamb generating text live from a model running entirely inside FPGA fabric](https://lamb-labs.com/little-lamb-live.gif)\n\n**12,000** FPGA token steps/sec**$250** Kria KV260**0** DRAM reads per token\n\nA real prompt, a real reply, and every model weight resident on-chip. The animation above is a screen recording; the live demo is temporarily offline. \n4.   Stage 04 · the endgame\n\n### Custom ASICs\n\nCustom silicon for each model, its architecture hard-coded on-chip. Our target: tape out a chip that runs a 27B-parameter model at **20,000+ tokens per second**. Our RL environment searches chip designs for the best speed and energy per token.\n",
+   "email_candidates": [
+    {
+     "email": "contact@lamb-labs.com",
+     "where": "https://lamb-labs.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "niki@lamb-labs.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Niki Kotecha",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "thomas@lamb-labs.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Thomas Lanning",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d306c4fcf3",
+   "company": "BuildBuddy",
+   "website": "https://buildbuddy.io",
+   "title": "Engineering (YC Winter 2020)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. BuildBuddy provides enterprise features for Bazel — the open source… Developer Tools, SaaS, B2B, Infrastructure, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.buildbuddy.io/]\nBazel at Enterprise Scale | BuildBuddy Skip to main content The engineering acceleration platform built for Bazel Build and test your software 10x faster while reducing compute costs with remote caching, remote execution, analytics, and more. Get Started for Free Request a Demo TRUSTED BY THE BEST ENGINEERING TEAMS RBE Remote Build Execution Massively parallel builds with just a few lines of configuration and no maintenance burden. BuildBuddy provides remote build execution and caching as a fully-managed cloud service. Supports custom Docker images, and automatically scales to thousands of worker nodes. 33,052,276,534 Compute Minutes Saved By organizations using BuildBuddy Cloud remote caching — that's 62,885 years not spent waiting for builds to finish. Unlock your Bazel build logs BuildBuddy captures build logs, test logs, invocation details, target information, and artifacts — so you can dive deep into and easily share the details of each and every build. BuildBuddy is Enterprise Bazel BuildBuddy brings the power of Bazel to your organization, along with mission-critical features, enterprise-grade stability, and 24/7 expert support. Visibility The BuildBuddy Results Store and Results UI gives you full visibility into your builds so you can debug failing tests, view invocation details, and track down slow targets. Performance With a built-in Remote Build Cache and Remote Build Execution, BuildBuddy gives you the tools to make your whole engineering organization more productive. Collaboration Share BuildBuddy links with co-workers to get your problems solved quickly — so you can get back to building. From the community What developers are saying Narendra Patwardhan @overlordayn BuildBuddy is literally magic. If I ran the stuff it gets done in minutes on my laptop, it would explode. Glenn Sonna @GlennSonna We migrated our native CI to @bazelbuild + remote execution on @buildbuddy . Median Android native build: 31.5m \u0000→ 1.8m (-94%) Full end-to-end gate: 43.8m → 12.1m (-72%) Corentin Kérisit @corentinanjuna This process is so heavy that it would be simply impracticable to do in normal circumstances. This is made possible thanks to Remote Builds distributed on thousands of cores using @buildbuddy . It's done as part of the same graph as the final target. This is madness... Bazel @bazelbuild Thank you again to @buildbuddy , the Platinum sponsor of #BazelCon 2025! The expertise you share with the Bazel community is invaluable. Listen to Fabian's talk, Rootcausing Rebuilds with “bb explain,” on Tuesday, Nov 11th! Steeve Morin @steeve My friends who are actually working *on* LLVM are the ones complaining. Btw, thanks to @corentinanjuna and @buildbuddy a *cold* LLVM build is now 20s, fully cross compiled from *anything* to *anything* (yes even macOS). AJ Taylor @0xAnthon It's worth the investment to dial in your remote build execution setup We use buildbuddy , bazel, and nix @etherfuse and the devex difference is night and day 0xפנתן‎ @p_nathan If it was me, I'd use Bazel for that with @buildbuddy - which integrates well with GitHub. Otherwise the Gitlab runners burn minutes waiting for the buildbuddy run to complete. Spotify Engineering @SpotifyEng See how @BalestraPatrick and his team migrated the @Spotify iOS app with @Bazelbuild & @buildbuddy , cutting our build times by up to 4X. 🤯 mfreeman451 @mfreeman451 We just moved from GitHub actions to bazel and buildbuddy , our build times went from 2.5hrs down to 6 minutes. 本味纳凉地（original-cooling-space） @originalcspace I followed the official guide to set up BuildBuddy —which you recommended yesterday—this afternoon. The build speed is dozens of times faster, and I haven't encountered any issues like processes abruptly terminating in my wsl2 environment. Thanks for your help! iqbal syamil @iqbalsyaa So I'm trying remote cache for Bazel using buildbuddy & integrating it with github ci Not so optimized (only for POC purposes) but 13m -> 9s this thing was blazin",
+   "email_candidates": [
+    {
+     "email": "siggi@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "dan@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "maggie@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "tfrench@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "son@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "jim@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "brandon@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "fabian@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "lulu@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "iain@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "zoey@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "grace@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "george@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "vanja@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "vadim@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "keith@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "tyler@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "hello@buildbuddy.io",
+     "where": "https://www.buildbuddy.io/contact/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d4748cd1d2",
+   "company": "Draft The Record",
+   "website": "https://www.drafttherecord.com/",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. AI For Litigation We are on a mission to provide faster and affordable access to the justice system - starting with depositions and trials. 1000s of depositions and trials run through DraftTheRecord every week including Senate and House meetings, Confidential federal hearings, criminal proceedings like murder trials, and civil lawsuits involving family disputes, personal injury and much more. During legal proceedings, • DraftTheRecord provides real time assistance to attorneys, previously requiring a legal team. The platform then helps analyze depositions and other evidence cutting down trial prep time from weeks to days. • Court reporters use DraftTheRecord to capture audio and generate live transcript drafts for attorneys and judges. • Transcribers use our legal-specific AI transcription model to cut transcription time by 3x. Artificial Intelligence, Legal, LegalTech, AI Assistant, B2B, Legal, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.drafttherecord.com/]\nTitle: The best AI for court reporting\n\nURL Source: https://www.drafttherecord.com/\n\nFinal URL: https://www.drafttherecord.com/transcribers\n\nMarkdown Content:\nTHE COURT:I'd be seated, ladies and gentlemen. We're ready to proceed with the defense case. Sorry for the slight delay. We did have to address some legal issues, which have been taken care of. We'll now move on to the defense case. Mr. Belinkus Bilinkas, call your first witness, please.\n\nMR. BILINKAS: Joseph Blaettler.\n\nTHE COURT: Joseph Blaettler, to the stand, please. Please remain standing. Place your left hand on the Bible.\n\n(The Witness Is Sworn)\n\nTHE CLERK: Please state your name and spell your last name for the record.\n\nTHE WITNESS: Joseph J. Blaettler. B L A E T T L E R.\n\nTHE CLERK: Thank you.\n\nTHE COURT: All right, you may have a seat, sir. Please keep your voice up nice and loud. That microphone does not. It only records. It doesn't project your voice in a courtroom at all, so you have to keep your voice up. If you don't understand a question, please indicate that, and I'll have counsel rephrase the question.\n\nTHE WITNESS: Yes, sir.\n\nTHE COURT: All right? And if you hear an objection, stop answering until the Court rules on the objection.\n\nTHE WITNESS: Understood.\n\nTHE COURT: All right,. Very good, sir. Mr. Belinkus, go ahead.\n\nJ O S E P H B L A E T T L E R, having been first duly sworn, testified as follows:\n\nDIRECT EXAMINATION\n\nBY MR. BILINKAS:\n\nQ. Thank you, Judge. Mr. Blaettler, where do you live?\n\nA. I live in Morristown.\n\nQ. And what do you do for an occupation?\n\nA. I'm a private investigator.\n\nQ. Do you have a -- a company name?\n\nA. Yes. East Coast Private Investigations of New Jersey.\n\nQ. And can you give us a little bit of your background, please?\n\nA. My background: I'm a retired deputy chief of police from the City of Union City. I was there for 23 years. After retiring, I became a private investigator/police consultant.\n\nQ. And who have you consulted for?\n\nA. Numerous law firms, County of Suffolk, Georgetown Law Center.\n\nQ. And -- and the name of your company is what, sir?\n\nA. East Coast Private Investigations of New Jersey.\n\nQ. Do you know my client, Michael Barisone?\n\nA. Just by name.\n\nQ. And were you contacted at any point in a professional capacity by Michael Barisone?\n\nA. Yes.\n\nQ. And -- and when was that?\n\nA. On or about July 31st of 2019.\n\nQ. And did he hire you to do something?\n\nA. Yes.\n\nQ. What did he hire you to do?\n\nA. He asked me to conduct two background checks for him.\n\nQ. And -- and can you tell me the names of the two people he had you do background checks on?\n\nA. I believe one was Goodwin and the other one was -- I don't know how to pronounce the name -- begins with a K A.\n\nQ. Kanarek?\n\nA. Kanar a e k.\n\nQ. All right. And -- and -- and did you -- did you do a background check on both of those individuals?\n\nA. Yes, I did.\n\nQ. And did you provide your background check to Mr. Barisone after you completed it?\n\nA. Yes, I did.\n\nQ. I'm going to show you what's been marked Defense exhibit 700A1 and ask you if you recognize this document.\n\nA. These are the background checks I conducted. However, this one document, I don't recognize.\n\nQ. We will then just take that out of there for you. If you would --\n\nA. Oop, sorry.\n\nQ. And after you conducted your business, did you provide Michael Barisone with a copy of 700A1?\n\nA. Yes, I did.\n\nQ. Did you have any other discussions with Michael Barisone?\n\nA. I did have other discussions with him, but I really don't recall what they were.\n\nMR. BILINKAS: All right. Judge, I move in -- 700A1 into evidence.\n\n(Defense's Exhibit 700A1 is offered into evidence.)\n\nMR. SHELLHORN: I object.\n\nTHE COURT: The objection is sustained. Go ahead, Mr. Belinkus.\n\nBY MR. BILINKAS:\n\nQ. With regards to the background check, and -- and I do not want you to say anything specific, what does that background check look at?\n\nA. Looks at people's previous residence, relatives, phone numbers, liens, jud",
+   "email_candidates": [
+    {
+     "email": "adnan@drafttherecord.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Adnan Sherif",
+     "role": "Founder"
+    },
+    {
+     "email": "yash@drafttherecord.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Yash Ramchandani",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "d5399aa9eb",
+   "company": "TrueClaim",
+   "website": "https://www.trytrueclaim.com",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. Transparent, AI-powered healthcare TPA. TrueClaim is rebuilding health plan administration software from the ground-up, with modern technology and AI. Most health plans and third-party administrators (TPAs) still operate on outdated legacy technology that’s slow, error-prone and costly. We’re the modern alternative: AI-powered claims review, API-first architecture, and a platform that makes operating great health plans radically simpler. Think Shopify, but for health plans. We're on a mission to modernize how health plans operate to make the healthcare system more transparent, efficient and affordable for everyone. Healthcare, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.trytrueclaim.com/]\nTrueClaim Powering modern health plans Experience AI-native health plan administration that saves you time, money, and headaches. About Us Book a Call Cost savings, built into every claim. Our AI agents run 24/7 - catching billing errors, adjudication mistakes, and care gaps automatically. $50M Claims processed through our custom built platform. 7% Average savings on cost of claims delivered. How it works We bring the infrastructure so you don't have to TrueClaim combines innovative technology and services to power your modern health plan. Flexible plan design Design the plan you want - our AI tools make it fast, easy, and fully customizable. Real-time administration Track every member, claim, and dollar in a easy-to-use, real-time admin dashboard. Concierge-level support Delight members with multi-channel support, or leverage TrueClaim's tools directly. Book a Call Solutions Get started today Discover how TrueClaim can start powering your health plan today. Existing Health Plans New Health Plans Employers Upgrade but don't disrupt Replace your legacy TPA without disrupting the member experience. Access data in real time Access every transaction, claim, and dollar flow in real time. Keep your vendor stack TrueClaim flexes to fit your plan, not the other way around. Launch your plan fast Leverage TrueClaim’s tools to build and launch a plan fast. Select your vendor stack TrueClaim flexes to fit your plan, not the other way around. Focus on growth, not ops Grow while staying in the know via the TrueClaim platform. Know what you spend Understand exactly what you're spending and why. Delight your employees Let TrueClaim be the first “insurance” your employees love. Enjoy real-time insights Rely on smart dashboards and alerts to make informed decisions. Book a Call Testimonials The TrueClaim team has really been a pleasure to work with, and I'm very impressed with the focus and dedication. A real health plan It has been a revitalization for me to find TrueClaim and bring next generation claims processing and TPA services. A real broker How phenomenal that cards are going out already! This is the fastest turnaround I have seen in well over 15 years. A real employer We answered his questions and he stated we are doing a great job for them and they appreciate that! A real member She told the member she had the most pleasant experience she has ever had when contacting an insurance. A real member Secure Security you can count on Your data security is our top priority. Secure SOC II Type II certified TrueClaim is SOC II Type II certified, undergoes regular audits, and adheres to the highest data protection and encryption standards. Get in touch Employers own the data TrueClaim won't resell your clients' data. HIPAA compliant TrueClaim undergoes a yearly HIPAA audit. Book a Call Let's build a better health plan Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. About Us Resources Providers Contact Us Contact: +1 (415) 612-8388 hello@trytrueclaim.com © 2025 TrueClaim. All rights reserved. Backed by Privacy Policy Terms of Service\n\n[https://www.trytrueclaim.com/about-us]\nTrueClaim - About Us About Us Why we started When Barbora’s newborn son needed surgery, her insurer wrongly claimed the plan was inactive, putting her family at risk of a huge, avoidable bill. These kinds of administrative failures are far too common and a leading cause of bankruptcy in the USA. At TrueClaim, we set out to build a modern insurance platform to eliminate errors like this...and the rest is history. View Careers Our approach TrueClaim is a technology-first platform designed to solve the real operational challenges in healthcare. By embedding modern technology into every layer of health insurance administration, we deliver smoother experiences for members, reduce costs for employers, and help drive better health outcomes. We partner with forward-thinking health plans and employers. ",
+   "email_candidates": [
+    {
+     "email": "hello@trytrueclaim.com",
+     "where": "https://www.trytrueclaim.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "barbora@trytrueclaim.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Barbora Howell",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "robertwbayer@gmail.com",
+     "where": "YC profile · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Bobby Bayer",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

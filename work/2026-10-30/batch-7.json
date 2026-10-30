@@ -1,0 +1,288 @@
+{
+ "leads": [
+  {
+   "id": "54a50e317c",
+   "company": "Inito",
+   "website": "https://www.inito.com/",
+   "title": "Engineering (YC Winter 2019)",
+   "location": "Bengaluru, KA, India",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Enabling better self care with at-home hormone tracking. Fertility Tech, Health Tech, Digital Health, Women's Health, Healthcare, Consumer Health and Wellness",
+   "site_text": "[https://www.inito.com/]\nInito Fertility Monitor | Track and Confirm Ovulation | At Home Ovulation Tracker Try Inito Try Inito Launch offer $ 119 $ 169 Launch offer $ 119 $ 169 TRUSTED BY 200K+ COUPLES Trusted by 200,000+ couples Track your fertility hormones at home with the most precise readings¹ Measure Estrogen, LH, PdG (urine metabolite of progesterone) & FSH in just 10 minutes with Inito, the all-in-one fertility monitor. How does it work? Not all ovulation tests are created equal Most ovulation tests predict your fertile days by tracking Luteinizing Hormone (LH), but fail to measure the hormone that actually confirms your ovulation: PdG (urine metabolite of progesterone) . What makes Inito different? Measures LH, Estrogen, PdG, and FSH, not just LH Confirms ovulation by measuring PdG Identifies your right six days to try Delivers personalized insights from your actual hormone values, not population averages Get the Inito Fertility Monitor The most precise hormone readings at home 1 Powered by Inito Spectral Mapping™ Technology, Inito delivers the most precise fertility hormone readings, outperforming other at-home tests in head-to-head lab testing. 4 hormones. Measured separately Most monitors test multiple hormones on one track, where one hormone can interfere with another and make results less accurate. Inito measures hormones in four independent tracks, so every reading stays precise. Every hormone shift, precisely measured. The only at-home monitor that double-checks every test with two sensing methods: fluorescence and visual colorimetric imaging. Designed to detect subtle hormone shifts that other tests can miss. Captures 100x richer data Inito captures a full 2D image of your entire test surface over time, collecting over 100× richer data from every test. That richer data helps our AI correct for real world variables — delivering lab-grade reliability at home. The most precise hormone readings at home 1 Powered by Inito Spectral Mapping™ Technology, Inito delivers the most precise fertility hormone readings, outperforming other at-home tests in head-to-head lab testing. 4 hormones. Measured separately Most monitors test multiple hormones on one track, where one hormone can interfere with another and make results less accurate. Inito measures hormones in four independent tracks, so every reading stays precise. Every hormone shift, precisely measured. The only at-home monitor that double-checks every test with two sensing methods: fluorescence and visual colorimetric imaging. Designed to detect subtle hormone shifts that other tests can miss. Captures 100x richer data Inito captures a full 2D image of your entire test surface over time, collecting over 100× richer data from every test. That richer data helps our AI correct for real world variables — delivering lab-grade reliability at home. 200K+ Couples trust Inito 10MN+ Tests taken 40MN+ Hormone data points tracked Confirm ovulation with real data Inito measures PdG , the urine metabolite of progesterone, which rises only after ovulation. That means you don't rely on prediction alone. You see whether ovulation actually happened – or didn't – in your cycle. Get the Inito Fertility Monitor Get the Inito Fertility Monitor Why measure PdG? PdG - urine metabolite of progesterone 1 in 3 women have anovulatory cycles* If ovulation occurs, the levels of Progesterone and its urine metabolite PdG rise after a few days and stay elevated. Sustained, elevated PdG levels after peak fertility indicate a successful ovulation. * Source: National Institutes of Health See your six right days to try OPKs often miss your fertile window due to confusing faint lines and constant false positives because they rely on average thresholds. Inito tracks your six right days by adapting to your unique hormone levels and measuring all 4 hormones Estrogen, rises 3-4 days before ovulation LH, surges 24-36 hours before ovulation FSH, tracks follicle growth PdG, which rises after ovulation Get the ",
+   "email_candidates": [
+    {
+     "email": "varun@inito.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Varun AV",
+     "role": "Founder"
+    },
+    {
+     "email": "aayush@inito.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Aayush Rai",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "55da1d3ceb",
+   "company": "Aviator",
+   "website": "https://aviator.co",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. Google-level engineering productivity suite Aviator is a developer tool that automates merge workflows and keeps builds healthy. Engineers save up to 5 hours a week and avoid frustration of broken builds. Our users include Slack, Square, Benchling, Figma, Doordash and many others. Our goal is to become the leading brand for developer experience. Developer Tools, SaaS, B2B, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.aviator.co:443/]\nAviator — Ship AI-generated code at velocity you trust Replace code reviews with verified intent Aviator Verify Login Book a demo Get started AI made code easier to write, not easier to ship. Aviator gets each PR to the right reviewer, runs deterministic verification against what was actually asked for, and merges and deploys it without breaking main, at the volume your agents produce. Get started Read the docs Inbox Requested review 6 m Rate-limit the /webhook endpoint acme/billing # 4823 12m r Share session state across billing middleware acme/billing # 4821 New changes 2h t Migrate billing service to the v3 Stripe SDK acme/billing # 4815 5h k Fix race in retry handler when token refresh fails acme/platform # 4798 Conflict 1d d Bump stripe-go to v76.3 acme/platform # 4781 2d j Tighten generics in useForm hooks acme/web # 4760 4d acme/billing #4823 · mbauer Rate-limit the /webhook endpoint to prevent retry storms Intent Stop retry storms from taking down webhook delivery. Cap each subscriber at 100 requests a minute, tell clients when to retry, and keep limits adjustable per plan. Verify Results 6 / 7 Acceptance Criteria 1 Requests above 100/min per subscriber return 429 2 2 429 responses include a Retry-After header 1 3 Queued retries back off exponentially, up to 5 attempts Invariants 1 Network calls set a timeout 1 Why it failed: httpx.post in webhooks/retry.py:88 is called without a timeout. View invariant 2 No hardcoded secrets 3 Structured logs on exceptions 4 Migrations are backward-compatible From startups to Fortune 500s, the world's most effective engineering teams ship with Aviator. Review Review the decisions, not every line. Aviator verifies each PR deterministically against its acceptance criteria and your team's invariants, so reviewers spend their time on intent and trade-offs. Inbox Every PR waiting on you, across repos, sorted by what to do next: quick fixes, PRs that block others, and re-reviews after new commits. How Inbox works Your turn Requested review 4 Returned 2 Approved 1 Other changes Waiting for others 6 Queued 3 Requested review 4 Title Changes Updated r Share session state across billing middleware acme/billing # 4821 New changes + 212 − 48 2h t Migrate billing service to the v3 Stripe SDK acme/billing # 4815 + 1204 − 690 5h k Fix race in retry handler when token refresh fails acme/platform # 4798 Conflict + 30 − 12 1d j Tighten generics in useForm hooks acme/web # 4760 + 12 − 9 4d Team Reviews Assigns reviewers by code ownership, expertise, and current load, and tracks time to first review against your team's SLO. How Team Reviews works Open Refactor billing session middleware + 247 − 98 Suggested reviewers, ranked by expertise in the changed files and current review load r rsoto Recommended Code owner of billing/session 92 % 2 /6 Request t tnakamura Reviewed 14 PRs in billing/ this quarter 78 % 5 /6 Request k kfinch Platform on call this week 64 % 1 /6 Request Team SLO first review in 4h Last 30 days 94% inside SLO Verify Checks every PR deterministically against defined acceptance criteria and team rules, with auditable evidence. Captures user decisions and reviewer arguments to build team knowledge. How Verify works Rate-limit the /webhook endpoint #4823 Approve Decisions 1 One rate limit applies to every plan Open question Aviator agent : Make it per-plan now. m mbauer's agent : Follow-up. No plan sends 20 a second today. Acceptance criteria 3 3 / 3 Invariants 3 2 / 3 I1 Network calls set a timeout webhooks/retry.py:88 httpx.post has no timeout I2 No hardcoded secrets I3 Structured logs on exceptions Evidence 3 Ship Keep main green at any merge volume, and always know which environment each change has reached. MergeQueue Parallel queues by affected target, batching, and automatic handling of flaky tests. Built for monorepos merging 1,000+ PRs a day. How MergeQueue works Queue acme/monorepo · main Queue Pending Open Closed Merged Verifying with Draft PRs (2 batc",
+   "email_candidates": [
+    {
+     "email": "info@aviator.co",
+     "where": "https://www.aviator.co/blog/rebuilding-googles-engineering-productivity-engprod/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "55da1d3ceb-ref",
+   "company": "Aviator",
+   "website": "https://aviator.co",
+   "title": "Engineering (YC Summer 2021)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 6. Google-level engineering productivity suite Aviator is a developer tool that automates merge workflows and keeps builds healthy. Engineers save up to 5 hours a week and avoid frustration of broken builds. Our users include Slack, Square, Benchling, Figma, Doordash and many others. Our goal is to become the leading brand for developer experience. Developer Tools, SaaS, B2B, B2B, Engineering, Product and Design, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.aviator.co:443/]\nAviator — Ship AI-generated code at velocity you trust Replace code reviews with verified intent Aviator Verify Login Book a demo Get started AI made code easier to write, not easier to ship. Aviator gets each PR to the right reviewer, runs deterministic verification against what was actually asked for, and merges and deploys it without breaking main, at the volume your agents produce. Get started Read the docs Inbox Requested review 6 m Rate-limit the /webhook endpoint acme/billing # 4823 12m r Share session state across billing middleware acme/billing # 4821 New changes 2h t Migrate billing service to the v3 Stripe SDK acme/billing # 4815 5h k Fix race in retry handler when token refresh fails acme/platform # 4798 Conflict 1d d Bump stripe-go to v76.3 acme/platform # 4781 2d j Tighten generics in useForm hooks acme/web # 4760 4d acme/billing #4823 · mbauer Rate-limit the /webhook endpoint to prevent retry storms Intent Stop retry storms from taking down webhook delivery. Cap each subscriber at 100 requests a minute, tell clients when to retry, and keep limits adjustable per plan. Verify Results 6 / 7 Acceptance Criteria 1 Requests above 100/min per subscriber return 429 2 2 429 responses include a Retry-After header 1 3 Queued retries back off exponentially, up to 5 attempts Invariants 1 Network calls set a timeout 1 Why it failed: httpx.post in webhooks/retry.py:88 is called without a timeout. View invariant 2 No hardcoded secrets 3 Structured logs on exceptions 4 Migrations are backward-compatible From startups to Fortune 500s, the world's most effective engineering teams ship with Aviator. Review Review the decisions, not every line. Aviator verifies each PR deterministically against its acceptance criteria and your team's invariants, so reviewers spend their time on intent and trade-offs. Inbox Every PR waiting on you, across repos, sorted by what to do next: quick fixes, PRs that block others, and re-reviews after new commits. How Inbox works Your turn Requested review 4 Returned 2 Approved 1 Other changes Waiting for others 6 Queued 3 Requested review 4 Title Changes Updated r Share session state across billing middleware acme/billing # 4821 New changes + 212 − 48 2h t Migrate billing service to the v3 Stripe SDK acme/billing # 4815 + 1204 − 690 5h k Fix race in retry handler when token refresh fails acme/platform # 4798 Conflict + 30 − 12 1d j Tighten generics in useForm hooks acme/web # 4760 + 12 − 9 4d Team Reviews Assigns reviewers by code ownership, expertise, and current load, and tracks time to first review against your team's SLO. How Team Reviews works Open Refactor billing session middleware + 247 − 98 Suggested reviewers, ranked by expertise in the changed files and current review load r rsoto Recommended Code owner of billing/session 92 % 2 /6 Request t tnakamura Reviewed 14 PRs in billing/ this quarter 78 % 5 /6 Request k kfinch Platform on call this week 64 % 1 /6 Request Team SLO first review in 4h Last 30 days 94% inside SLO Verify Checks every PR deterministically against defined acceptance criteria and team rules, with auditable evidence. Captures user decisions and reviewer arguments to build team knowledge. How Verify works Rate-limit the /webhook endpoint #4823 Approve Decisions 1 One rate limit applies to every plan Open question Aviator agent : Make it per-plan now. m mbauer's agent : Follow-up. No plan sends 20 a second today. Acceptance criteria 3 3 / 3 Invariants 3 2 / 3 I1 Network calls set a timeout webhooks/retry.py:88 httpx.post has no timeout I2 No hardcoded secrets I3 Structured logs on exceptions Evidence 3 Ship Keep main green at any merge volume, and always know which environment each change has reached. MergeQueue Parallel queues by affected target, batching, and automatic handling of flaky tests. Built for monorepos merging 1,000+ PRs a day. How MergeQueue works Queue acme/monorepo · main Queue Pending Open Closed Merged Verifying with Draft PRs (2 batc",
+   "email_candidates": [
+    {
+     "email": "tulioz+github@gmail.com",
+     "where": "GitHub commits (aviator-co)",
+     "kind": "personal",
+     "name": "Ofer",
+     "commits": 20
+    },
+    {
+     "email": "simsinght@gmail.com",
+     "where": "GitHub commits (aviator-co)",
+     "kind": "personal",
+     "name": "Sim Singh",
+     "commits": 8
+    },
+    {
+     "email": "ankit@aviator.co",
+     "where": "GitHub commits (aviator-co)",
+     "kind": "personal",
+     "name": "Ankit Jain",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  },
+  {
+   "id": "5a5dc376cc",
+   "company": "Rulebase",
+   "website": "https://rulebase.co",
+   "title": "Engineering (YC Fall 2024)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 4. AI customer operations for regulated industries. We run customer operations for regulated industries with AI. Our QA layer reviews every interaction, human and AI, cutting manual QA by 99%. On top of it sit specialist agents for onboarding, remediation, reactivation, and retention that own accounts from approved to transacting, chasing customers over WhatsApp, email, and SMS Customer Success, Customer Service, Customer Support, B2B, Operations, United States of America, America / Canada",
+   "site_text": "[https://rulebase.co/]\nAI Agent Monitoring & Customer Support QA | Rulebase Ashlynn CX AI Agent I paid £240 and it left my account, but the order still says unpaid. Live chat in progress Watch how Rho transformed their CX team to generate revenue and scale faster. Watch video AI agent monitoring for customer support. Rulebase monitors every AI and human customer interaction, finds where outcomes break, and shows the prompt, knowledge, coaching, or process fix that improves resolution. Schedule a Demo Trusted by the fastest growing and publicly traded regulated services. Nasdaq: LSAK Case study Case study AI Agents Human agents Monitor Review every AI and human interaction across chat, voice, and workflows. Detect Find silent failures, quality gaps, policy breaches, and emerging risk. Diagnose Compare failed AI journeys with human resolutions to find root causes. Improve Prioritize fixes, automate recovery, and measure the impact on outcomes. AI agent workspace Every conversation. Better outcomes. Monitoring See where AI and human agents fail, why customers return, and which issues need action. Self improvement Turn recurring failures into better guidance, workflows, and agent performance, then verify the impact. Customer intelligence Turn every conversation into structured insight on friction, risk, demand, and customer outcomes. Application stalled KYC step 3 12 Jun Follow-up sent (Whatsapp) 13 Jun Bank statement received 14 Jun $5,000 Account funded 15 Jun Improve onboarding journeys Use failure patterns to tighten guidance, follow-up, and handoffs until more customers complete onboarding. Close knowledge gaps Turn repeated KYC, KYB, and UBO friction into clearer requests and fewer repeat contacts. Remediation sweep Day 3 2,940 / 3,412 accounts Daily report sent 22 Jun Remediate at scale Convert recurring exceptions into governed fixes, then track progress across every affected account. Dormant accounts Recoverable 1 Finflier $42,000 2 Northwind Ltd $28,500 3 Vertex Pay $15,200 Outreach running per merchant Learn what drives reactivation Identify the messages and moments that bring dormant customers back, then reuse what works. KYB exception Flagged Finflier Ltd Name mismatch · 1 document missing Name mismatch resolved 16 Jun Missing UBO document chased 19 Jun Returned decision-ready 22 June Resolve recurring exceptions Feed outcome evidence back into guidance and workflows so the same failure is less likely to repeat. Low scores 20 Charlie Lubin 3d ago 35 Sarah Kalzoni 3d ago High scores 80 Chance Korsgaard 1d ago 90 Talan Westervelt 2d ago See beyond the quality score Review every AI and human interaction to find false resolutions, repeat contact, and policy gaps. James Smith Billing Error Correction 20 mins A customer was charged the wrong amount on their last invoice. They want a corrected bill and a credit applied. Begin Learn from human resolutions Compare failed AI journeys with human resolutions to find prompt, knowledge, and tool gaps. Complaints Customer threatening to leave Just now Wrong product info given 1m ago Complaint forming not escalated 3m ago There are 4 new complaints here. I've reported these you can check them in the Complaints page. Just now Catch failures before they escalate Detect wrong answers, missed complaints, and risky handoffs, with the conversation evidence. Transfer failed, funds not returned. Received & classified Payment dispute auto-tagged Routed to compliance Assigned and documented Resolution in progress Deadline tracked automatically Customer notified Keep complaints moving Connect complaint history, route each case, and track deadlines through to resolution. Complaint detect Categorized Route to team lead Document to case log Fix the cause, not the symptom Prioritize agent fixes and human coaching. Test changes and measure their impact on customer outcomes. Chat Why did onboarding drop last week? Customers Ask every conversation Ask questions in plain language across every interacti",
+   "email_candidates": [
+    {
+     "email": "hello@rulebase.co",
+     "where": "https://rulebase.co/contact",
+     "kind": "generic"
+    },
+    {
+     "email": "gideon@rulebase.co",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Gideon Ebose",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "chidi@rulebase.co",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Chidi Williams",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "6351916730",
+   "company": "AgentMail",
+   "website": "https://agentmail.to",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. Email Inboxes for AI Agents AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans. Developer Tools, API, Email, B2B, Infrastructure, United States of America, America / Canada",
+   "site_text": "[https://www.agentmail.to/]\nAgentMail | Email Inbox API for AI Agents Skip to content Docs Start for free Email Inboxes for AI agents We're not AI for your email, we're email for your AI Learn how it works const inbox = await client.inboxes.create () inboxes.create () Prompt for your agent Give yourself access to AgentMail by following the guide at: https://agentmail.to/docs/get-started/agent-signup and refer to: https://agentmail.to/llms.txt for the documentation index. AI Companies building on AgentMail product An agent with an inbox can communicate with 4 billion humans 01 Two-way conversations 02 Send email at scale 03 Process incoming email 04 Coordinate schedules 05 Use services independently 06 Work with other agents Read incoming messages, reply in the same thread, and loop in a human when needed. See how it works Features Create inboxes via API. Send and receive messages, retrieve threads, and trigger workflows. Programmatic Inboxes 01 01 Programmatic Inboxes Events and context 02 02 Events and context Control and scale 03 03 Control and scale Programmatic Inboxes Inbox creation Provision a dedicated inbox for any agent with one API call. Threads Keep every reply, forward, and follow-up grouped under one conversation. Messages Send and receive email programmatically, formatted the way recipients expect. Attachments Send and receive files and documents directly in the message. Already carrying the conversations agents depend on. 1B+ requests past 30 days, peaking at 100K requests/minute 1B+ emails processed 10M+ inboxes Alex GTM Engineering “ I haven't been this excited about an integration in a long time. This is going to open up a ton of really cool use cases for Clay. ” Read Story Yan Lhert Discipline Lead, Engineering at Opendoor “ AgentMail is the modern AI-native email solution we were looking for. They are far and away the best email provider in the space today! ” Read Story featured customer story Read Story AgentCard by Alchemy gives every agent an inbox—and saw ~70% more agentic transactions after integrating AgentMail. Your first agent inbox is one API call away. Start for free Follow the quickstart Python TypeScript cURL CLI MCP Skills $ pip install agentmail pip install agentmail import os from agentmail import AgentMail client = AgentMail( api_key=os.environ[\"AGENTMAIL_API_KEY\"] ) inbox = client.inboxes.create() print(inbox.inbox_id) Security and control Independence needs boundaries. Security SOC 2 Type II compliant. Security reports available on request. Give your agents room to work. Keep control as you scale. Explore security Building at scale? Permissions Choose which inboxes an agent can access and what it can read, send, or change. Pods Keep each customer’s inboxes and domains in a separate workspace. Build email into your product without mixing customer data. Prompt Give yourself access to AgentMail by following the guide at: https://agentmail.to/docs/get-started/agent-signup and refer to: https://agentmail.to/llms.txt for the documentation index. Get started in seconds Install the SDK and start building with AgentMail Start for free Sign in\n\n[https://www.agentmail.to/about]\nAbout | AgentMail Skip to content Docs Start for free AgentMail The future of the internet The next users of the internet will need inboxes too. The internet was designed assuming every user is human. We believe the internet is entering another computing transition. AI agents are beginning to take on work that once required people. They'll need a way to communicate, establish identity, and participate in the internet alongside us. We're building that future. Chapter 01 AgentMail Manifesto The internet assumed a person For thirty years, there was a person on the other side. Someone opened the browser. checked the inbox. created the account. verified the code. replied. Every major internet primitive quietly assumed there would always be a human between the software and the world. Payments Phone Browser Email Identity The primiti",
+   "email_candidates": [
+    {
+     "email": "agent@agentmail.to",
+     "where": "https://www.agentmail.to/about",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "6351916730-ref",
+   "company": "AgentMail",
+   "website": "https://agentmail.to",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 10. Email Inboxes for AI Agents AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans. Developer Tools, API, Email, B2B, Infrastructure, United States of America, America / Canada",
+   "site_text": "[https://www.agentmail.to/]\nAgentMail | Email Inbox API for AI Agents Skip to content Docs Start for free Email Inboxes for AI agents We're not AI for your email, we're email for your AI Learn how it works const inbox = await client.inboxes.create () inboxes.create () Prompt for your agent Give yourself access to AgentMail by following the guide at: https://agentmail.to/docs/get-started/agent-signup and refer to: https://agentmail.to/llms.txt for the documentation index. AI Companies building on AgentMail product An agent with an inbox can communicate with 4 billion humans 01 Two-way conversations 02 Send email at scale 03 Process incoming email 04 Coordinate schedules 05 Use services independently 06 Work with other agents Read incoming messages, reply in the same thread, and loop in a human when needed. See how it works Features Create inboxes via API. Send and receive messages, retrieve threads, and trigger workflows. Programmatic Inboxes 01 01 Programmatic Inboxes Events and context 02 02 Events and context Control and scale 03 03 Control and scale Programmatic Inboxes Inbox creation Provision a dedicated inbox for any agent with one API call. Threads Keep every reply, forward, and follow-up grouped under one conversation. Messages Send and receive email programmatically, formatted the way recipients expect. Attachments Send and receive files and documents directly in the message. Already carrying the conversations agents depend on. 1B+ requests past 30 days, peaking at 100K requests/minute 1B+ emails processed 10M+ inboxes Alex GTM Engineering “ I haven't been this excited about an integration in a long time. This is going to open up a ton of really cool use cases for Clay. ” Read Story Yan Lhert Discipline Lead, Engineering at Opendoor “ AgentMail is the modern AI-native email solution we were looking for. They are far and away the best email provider in the space today! ” Read Story featured customer story Read Story AgentCard by Alchemy gives every agent an inbox—and saw ~70% more agentic transactions after integrating AgentMail. Your first agent inbox is one API call away. Start for free Follow the quickstart Python TypeScript cURL CLI MCP Skills $ pip install agentmail pip install agentmail import os from agentmail import AgentMail client = AgentMail( api_key=os.environ[\"AGENTMAIL_API_KEY\"] ) inbox = client.inboxes.create() print(inbox.inbox_id) Security and control Independence needs boundaries. Security SOC 2 Type II compliant. Security reports available on request. Give your agents room to work. Keep control as you scale. Explore security Building at scale? Permissions Choose which inboxes an agent can access and what it can read, send, or change. Pods Keep each customer’s inboxes and domains in a separate workspace. Build email into your product without mixing customer data. Prompt Give yourself access to AgentMail by following the guide at: https://agentmail.to/docs/get-started/agent-signup and refer to: https://agentmail.to/llms.txt for the documentation index. Get started in seconds Install the SDK and start building with AgentMail Start for free Sign in\n\n[https://www.agentmail.to/about]\nAbout | AgentMail Skip to content Docs Start for free AgentMail The future of the internet The next users of the internet will need inboxes too. The internet was designed assuming every user is human. We believe the internet is entering another computing transition. AI agents are beginning to take on work that once required people. They'll need a way to communicate, establish identity, and participate in the internet alongside us. We're building that future. Chapter 01 AgentMail Manifesto The internet assumed a person For thirty years, there was a person on the other side. Someone opened the browser. checked the inbox. created the account. verified the code. replied. Every major internet primitive quietly assumed there would always be a human between the software and the world. Payments Phone Browser Email Identity The primiti",
+   "email_candidates": [
+    {
+     "email": "shangrandu@gmail.com",
+     "where": "GitHub commits (agentmail-to)",
+     "kind": "personal",
+     "name": "duharry0915",
+     "commits": 20
+    },
+    {
+     "email": "shabanhalim@gmail.com",
+     "where": "GitHub commits (agentmail-to)",
+     "kind": "personal",
+     "name": "shalim786",
+     "commits": 12
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  },
+  {
+   "id": "6a29e6e7b8",
+   "company": "RetroFix",
+   "website": "https://www.retrofix.ai/",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. Automate any workflow using plain english RetroFix is an automation platform designed to be extremely intuitive to use, making it much easier and faster to automate manual work. To create or modify workflows you can describe them in natural language and our agent will create them end-to-end for you. We allow you to connect with 2000+ applications and use our pre-built actions for your workflows. In the case we don't have a pre-built step, our agent can instead write code to access the full APIs of all the apps we integrate with. B2B, United States of America, America / Canada",
+   "site_text": "[https://www.retrofix.ai/]\nAI Workflow Automation Platform - No-Code Browser Automation | RetroFix Retro Fix Toggle menu Schedule a Call Log In Now in Early Access AI Workflow Automation Platform - Build Automations Using Plain English Tell RetroFix what you want done, and our AI writes, tests, and monitors the workflow for you. Connect 2800+ apps in minutes. Backed by Combinator Built by engineers from Request Access Book a Demo The best are already here Build with RetroFix Explore AI tools, workflows, and agents built for real automation tasks. Workflow Builder Browser Agents Knowledge Bases & AI Chatbots Coding Agents Agent Tools Human Awaiter Tool Workflow Builder Describe what you want, RetroFix builds the workflow for you. Your Everyday Tasks, Automated Real workflows written exactly as you would describe them on RetroFix Productivity Productivity Marketing Marketing Product Product Sales Sales Browser Agent Browser Agent No templates here yet We're curating the best examples. Check back soon or tell us what you want to automate. Request a template Who is RetroFix Built For? Different builders, same goal. Build automations that actually work. Freelancers Prototype faster. Deliver more. Build client-ready automations in plain English, connecting to 2,800+ tools instantly. No configuration headaches, no trial-and-error just describe the task and our AI builds it. AI Agencies Scale your automation services, not your headcount. Replace offshore dev costs with RetroFix’s AI builder and self-healing workflows. Deliver faster, manage more clients, and keep dev margins high with scalable pricing. Growing Teams Collaborate, adapt and scale easily. Share automations across teammates, edit them using natural language, and keep every workflow up to date as your processes evolve. Change processes by telling the agent what's new. No rebuilding from scratch. IT & Ops Control the chaos without blocking innovation. Set guardrails through Knowledge Bases while empowering non-technical teams to build safely. Focus on governance and security while we handle the automation sprawl. RetroFix adapts to how you work. Because no matter your role, you deserve automations that actually work, scale, and self-heal — without you becoming an automation engineer. Integrates with your favorite tools Connect with 2800+ popular applications including your most-used tools Google Sheets Google Sheets Use Google Sheets to create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device. Productivity Gmail Gmail Gmail offers private and secure email by Google at no cost, for business and consumer accounts. Communication Google Calendar Google Calendar With Google Calendar, you can quickly schedule meetings and events and get reminders about upcoming activities, so you always know what's next. Productivity GitHub GitHub Where the world builds software. Millions of developers and companies build, ship, and maintain their software on GitHub—the largest and most advanced development platform in the world. Developer Tools Notion Notion Notion is a new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team. Productivity Slack Slack Slack is a channel-based messaging platform. With Slack, people can work together more effectively, connect all their software tools and services, and find the information they need to do their best work — all within a secure, enterprise-grade environment. Communication Salesforce Salesforce Cloud-based customer relationship management (CRM) platform that helps businesses manage sales, marketing, customer support, and other business activities, ultimately aiming to improve customer relationships and streamline operations. CRM HubSpot HubSpot HubSpot's CRM platform contains the marketing, sales, service, operations, and website-building software you need to grow your business. CRM Zoho CRM Zoho CRM Zoho CRM is an online Sales CRM software that ma",
+   "email_candidates": [
+    {
+     "email": "isaac@retrofix.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Isaac Toscano",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "daniel@retrofix.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Daniel Portela",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "6cc28dbf5c",
+   "company": "Assembly HOA",
+   "website": "https://assemblyhoa.com",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 12. AI-native HOA Management Company Assembly is an AI-native HOA management company on a mission to fix homeowner associations. Traditional HOA management is often reactive, confusing, and inefficient. Assembly takes a different approach by combining professional expertise with intelligent software to make communities run smoothly and decisions easier. We exist to build trust, create transparency, and ensure well-run communities that protect and enhance property values. Assembly simplifies day-to-day operations, automates routine tasks, and delivers the right knowledge at the right time. Our platform gives boards and homeowners clarity to make smarter, more confident decisions. We manage HOAs in San Francisco Bay Area and Greater Los Angeles. Artificial Intelligence, Fintech, Real Estate, Housing, Proptech, Real Estate and Construction, Housing and Real Estate, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.assemblyhoa.com/]\nAssembly HOA Management Login 4.5 on Google Expert-led HOA management , backed by modern tech We combine the best managers with modern transparent software to make your HOA experience seamless and stress-free. Request a proposal Contact us Or call (213) 282-8809 Your community, made turnkey At Assembly, we protect and enhance your property’s value by making your community truly turnkey. Through smart maintenance, financial insight, and proactive alignment, we help every neighborhood thrive. Transparent, Strategic Financial Stewardship Your association's financial health depends on more than collecting dues. We make decisions with your community’s long-term stability in mind — and keep the process fully transparent. We handle: Budgeting that reflects actual needs — not just historical guesses Reserve planning that aligns with upcoming work and timelines Assessment collection and delinquency enforcement Real-time reporting with board-ready insights Proactive Maintenance & Reliable Upkeep Too many communities fall into disrepair because maintenance slips through the cracks. We put systems in place that make timely action the default — not the exception. We handle: Tracking service requests from submission to completion Matching vendors to the right scope and budget — without the back-and-forth Set and enforce a recurring maintenance schedule — so routine services happen on time, every time. Fast response to emergencies, backed by clear protocols Better Meetings. Better Decisions. We help boards stay in sync, compliant, and empowered to make decisions that serve their communities. We handle: Board meeting prep and facilitation (agendas, documentation, follow-through) Transparent, consistent enforcement and compliance Contractor vetting and insurance documentation Guidance on legal, insurance, and regulatory complexity Smarter Software for Seamless HOA Management We combine our purpose-built HOA management software with expert community managers to deliver efficient, user-friendly, and high-quality service for both boards and homeowners. Transparent Ticket Tracking Homeowners can view real-time updates, status changes, and communications for every maintenance request. Frictionless Invoice Handling No more paperwork, delays, or follow-ups. Invoices are automatically processed and sent for one-click board approval, ensuring vendors are paid instantly and accurately. Total Visibility Track status, history, and payments at a glance. One-Click Approvals Review and approve expenses in seconds. Instant Payments Vendors are paid automatically once approved. Your HOA's financials, all in one place Real-Time Reports Monitor your HOA's financials anytime with real time, interactive reports in Assembly. Integrated Financial Accounts Operating and Reserve financial accounts in Assembly enable you to easily monitor your HOA balances. Collect HOA Dues With Autopay Set up Autopay directly in Assembly to automatically collect HOA dues each month online. Automated Accounts Payable Assembly automatically sends payments to vendors and contractors digitally once they are approved. Make your community turnkey today Have questions or interested in a proposal? Just give us a few details and we’ll be in touch. Contact us Southern California: (213) 282-8809 Northern California: (415) 523-1778 For existing customer support, please call or email us: (213) 282-8008 hello@assemblyhoa.com Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Hear from the ‍ communities we serve \" We switched from another management company to Assembly approximately two years ago and it’s been a sea change to say the least. I would and do heartily recommend them. Christopher F. HOA Secretary, 119 Condos in Marina del Rey \" Assembly stepped in during a challenging period and worked closely with the Board to ensure continuity and stability throughout the process. One of the things we value most is the tran",
+   "email_candidates": [
+    {
+     "email": "hello@assemblyhoa.com",
+     "where": "https://www.assemblyhoa.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "complaints@assemblyhoa.com",
+     "where": "https://www.assemblyhoa.com/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "6d009ce034",
+   "company": "Cumulus Labs",
+   "website": "https://cumuluslabs.io",
+   "title": "Engineering (YC Winter 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. The Fastest Multimodal Inference OS Cumulus Labs lets engineering teams ship AI in production without needing a dedicated ML platform team. Right now, companies building AI products are forced to stitch together separate vendors for routing, observability, evaluation, fine-tuning, and inference. This fragmented approach is brittle, expensive, and is a common reason enterprises fail with AI. We replace that entire stack with a single unified platform. Developers can keep their existing code while instantly upgrading to a unified platform that handles routing, semantic caching, continuous shadow evaluation, simulated data, and one-click fine-tuning. Behind the platform is Ion, our proprietary inference engine running on a custom NVIDIA Grace GPU fleet. Ion uses in-house custom GPU kernels to deliver 30 to 50 percent more throughput than standard vLLM or SGLang, giving our customers SOTA inference economics. B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://cumuluslabs.io/]\nCumulus Labs — One Platform for GPUs, Models, and Agents Skip to main content Beat the frontier. Own your AI. The full AI stack. Built to outperform. Explore the platform Book a demo Why we built the whole stack W26 The Cumulus platform. Optimized orchestration, inference, fine-tuning, evaluation, and more. Your customers Talos Agents & fine-tuning Ion Inference & GPU kernels Paladin GPU capacity & orchestration Paladin More work. Same GPUs. Paladin predicts resource needs, packs jobs into spare GPU capacity, and moves running work as demand changes. Explore Paladin Loading product visual Ion Inference for text, vision, and audio. Run models through an API or on dedicated GPUs. Explore Ion Get model API access Loading product visual Talos Agents for cloud, phone, and edge. Fine-tune models for specific agent actions. Control where data runs and measure quality and cost. Explore Talos Loading product visual Choose your deployment. Hosted model APIs Access hosted models through the IonRouter API. Get model API access Dedicated deployments Run models and agents on Cumulus GPUs or your hardware. Book a demo Founded by alumni from Bring us your workload. Book a demo Predicted GPU memory Voice 50 → 100% Predict Pack Rebalance Cluster A Cluster B Cluster C GPU memory Paladin Train API Embed 50% 100% 100% Voice Voice Vision Batch Chat Chat Ion accepts text, images and audio. Pictures of mountains, a city, and a forest cycle through the request “Describe this image.” The GPU runs model-specific inference kernels while the GPU and Grace CPU exchange data over NVLink-C2C. Ion quickly returns a description of each picture. Text Describe this image. Audio Ion GPU Inference Model-specific kernels Grace CPU Vision cache NVLink C2C Mountains reflected in water. Talos integrations Phone Email Chat Edge “ Move my visit to next Friday’s first afternoon opening. ” Listening Listening Rescheduled to next Friday at 3 PM. Customer Appointment Checking 30 min Calendar Open slots Checking 2 busy · 3 free 2 PM Next Friday Next Friday Busy Booking Move visit Rescheduling 3 PM booked Talos Booking agent Task-tuned Ion Find a slot Choose a slot Confirm booking Paladin GPUs Cumulus managed Execution trace Request Model Check Model Book Model Reply\n\n[https://cumuluslabs.io/blog]\nCumulus Labs Blog — Inference Platform Engineering Skip to content Cumulus Blog All Product Engineering Research Company Search articles All posts Highlights 18 articles · Newest first Sep 2026 SEP 17, 2026 / Company Every layer above the GPU Why Cumulus builds Paladin, Ion, and Talos together, from GPU capacity and custom execution to models a business can train and own. Aug 2026 AUG 27, 2026 / Company Testing voice agents before migration How Talos's voice-evaluation prototypes test corrected intent, tool calls, committed state, and response latency before migration. AUG 06, 2026 / Engineering Human review in AI model optimization How Talos uses held-out cases, action-level results, and operator approval to evaluate model changes before release. Jul 2026 JUL 16, 2026 / Engineering Fine-tuning agents for the work they actually do The training data, evaluation cases, routing, and serving economics behind specializing a model for an agent's repeated decisions. Jun 2026 JUN 25, 2026 / Research Inference latency in vision-language-action models Research on real-time action chunking and our simulation harness examines latency from camera observation to robot actuation. JUN 04, 2026 / Engineering Testing inference optimizations for correctness The numerical, task, and request-state checks we use to evaluate kernel changes, quantization, and adapter transitions in Ion. May 2026 MAY 14, 2026 / Research Measuring inference throughput under latency constraints Our approach to arrival rates, latency targets, and correct responses when measuring how much inference traffic a GPU can serve. Apr 2026 APR 23, 2026 / Company The cost of keeping models ready How Paladin bal",
+   "email_candidates": [
+    {
+     "email": "founders@cumuluslabs.io",
+     "where": "https://cumuluslabs.io/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "6d009ce034-ref",
+   "company": "Cumulus Labs",
+   "website": "https://cumuluslabs.io",
+   "title": "Engineering (YC Winter 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. The Fastest Multimodal Inference OS Cumulus Labs lets engineering teams ship AI in production without needing a dedicated ML platform team. Right now, companies building AI products are forced to stitch together separate vendors for routing, observability, evaluation, fine-tuning, and inference. This fragmented approach is brittle, expensive, and is a common reason enterprises fail with AI. We replace that entire stack with a single unified platform. Developers can keep their existing code while instantly upgrading to a unified platform that handles routing, semantic caching, continuous shadow evaluation, simulated data, and one-click fine-tuning. Behind the platform is Ion, our proprietary inference engine running on a custom NVIDIA Grace GPU fleet. Ion uses in-house custom GPU kernels to deliver 30 to 50 percent more throughput than standard vLLM or SGLang, giving our customers SOTA inference economics. B2B, Infrastructure, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://cumuluslabs.io/]\nCumulus Labs — One Platform for GPUs, Models, and Agents Skip to main content Beat the frontier. Own your AI. The full AI stack. Built to outperform. Explore the platform Book a demo Why we built the whole stack W26 The Cumulus platform. Optimized orchestration, inference, fine-tuning, evaluation, and more. Your customers Talos Agents & fine-tuning Ion Inference & GPU kernels Paladin GPU capacity & orchestration Paladin More work. Same GPUs. Paladin predicts resource needs, packs jobs into spare GPU capacity, and moves running work as demand changes. Explore Paladin Loading product visual Ion Inference for text, vision, and audio. Run models through an API or on dedicated GPUs. Explore Ion Get model API access Loading product visual Talos Agents for cloud, phone, and edge. Fine-tune models for specific agent actions. Control where data runs and measure quality and cost. Explore Talos Loading product visual Choose your deployment. Hosted model APIs Access hosted models through the IonRouter API. Get model API access Dedicated deployments Run models and agents on Cumulus GPUs or your hardware. Book a demo Founded by alumni from Bring us your workload. Book a demo Predicted GPU memory Voice 50 → 100% Predict Pack Rebalance Cluster A Cluster B Cluster C GPU memory Paladin Train API Embed 50% 100% 100% Voice Voice Vision Batch Chat Chat Ion accepts text, images and audio. Pictures of mountains, a city, and a forest cycle through the request “Describe this image.” The GPU runs model-specific inference kernels while the GPU and Grace CPU exchange data over NVLink-C2C. Ion quickly returns a description of each picture. Text Describe this image. Audio Ion GPU Inference Model-specific kernels Grace CPU Vision cache NVLink C2C Mountains reflected in water. Talos integrations Phone Email Chat Edge “ Move my visit to next Friday’s first afternoon opening. ” Listening Listening Rescheduled to next Friday at 3 PM. Customer Appointment Checking 30 min Calendar Open slots Checking 2 busy · 3 free 2 PM Next Friday Next Friday Busy Booking Move visit Rescheduling 3 PM booked Talos Booking agent Task-tuned Ion Find a slot Choose a slot Confirm booking Paladin GPUs Cumulus managed Execution trace Request Model Check Model Book Model Reply\n\n[https://cumuluslabs.io/blog]\nCumulus Labs Blog — Inference Platform Engineering Skip to content Cumulus Blog All Product Engineering Research Company Search articles All posts Highlights 18 articles · Newest first Sep 2026 SEP 17, 2026 / Company Every layer above the GPU Why Cumulus builds Paladin, Ion, and Talos together, from GPU capacity and custom execution to models a business can train and own. Aug 2026 AUG 27, 2026 / Company Testing voice agents before migration How Talos's voice-evaluation prototypes test corrected intent, tool calls, committed state, and response latency before migration. AUG 06, 2026 / Engineering Human review in AI model optimization How Talos uses held-out cases, action-level results, and operator approval to evaluate model changes before release. Jul 2026 JUL 16, 2026 / Engineering Fine-tuning agents for the work they actually do The training data, evaluation cases, routing, and serving economics behind specializing a model for an agent's repeated decisions. Jun 2026 JUN 25, 2026 / Research Inference latency in vision-language-action models Research on real-time action chunking and our simulation harness examines latency from camera observation to robot actuation. JUN 04, 2026 / Engineering Testing inference optimizations for correctness The numerical, task, and request-state checks we use to evaluate kernel changes, quantization, and adapter transitions in Ion. May 2026 MAY 14, 2026 / Research Measuring inference throughput under latency constraints Our approach to arrival rates, latency targets, and correct responses when measuring how much inference traffic a GPU can serve. Apr 2026 APR 23, 2026 / Company The cost of keeping models ready How Paladin bal",
+   "email_candidates": [
+    {
+     "email": "veer.shah1016@gmail.com",
+     "where": "GitHub commits (cumulus-compute-labs)",
+     "kind": "personal",
+     "name": "Veer Shah",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  }
+ ]
+}

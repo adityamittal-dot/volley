@@ -1,21 +1,22 @@
 # Tracker
 
-_Updated 2026-10-29T19:47:58Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
+_Updated 2026-10-30T08:19:25Z UTC. Full table: [data/tracker.csv](data/tracker.csv)._
 
 **Emailed:** 313 · **Sent:** 313 · **Replies:** 41 (13%) · **Interviews:** 0 · **API spend:** $0.00
 
 | Status | Count |
 |---|---|
-| new | 161 |
-| skipped | 23 |
-| no_contact | 1066 |
+| new | 162 |
+| skipped | 24 |
+| no_contact | 1134 |
 | low_fit | 893 |
+| researching | 180 |
 | sent | 16 |
 | followup_1 | 55 |
-| followup_2 | 47 |
+| followup_2 | 36 |
 | replied | 41 |
 | bounced | 19 |
-| closed | 135 |
+| closed | 146 |
 
 ## Reply rate by angle
 

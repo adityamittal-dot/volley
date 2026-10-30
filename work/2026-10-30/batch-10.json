@@ -1,0 +1,336 @@
+{
+ "leads": [
+  {
+   "id": "9bcf313c1d",
+   "company": "Gauge",
+   "website": "https://withgauge.com",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 5. Gauge helps you get recommended and implemented by AI. Agents are leading the next wave of growth for companies like Supabase, Openrouter, Resend, PostHog, Braintrust, and more. Unlike chat experiences, Claude Code, Codex, and Cursor are now implementing products autonomously. They are doing so without ever talking to a sales rep or taking a demo. Gauge runs real chats and coding sessions to help your product get recommended and implemented by AI. SaaS, B2B, Analytics, Marketing, AI, B2B, Marketing, United States of America, America / Canada",
+   "site_text": "[https://www.withgauge.com/]\nGauge | Agent-Led Growth Gauge Menu The Agent-Led Growth Platform Get recommended and implemented by AI agents. Check your AX ↗ Book a demo LendingTree Supabase Airtable PostHog Case Study ↗ Product Hunt DigitalOcean Strava Neo4j Case Study ↗ Timex Braintrust Case Study ↗ Houlihan Lokey Resend Perplexity OpenRouter Mintlify Clerk Case Study ↗ Mux Railway LendingTree Supabase Airtable PostHog Case Study ↗ Product Hunt DigitalOcean Strava Neo4j Case Study ↗ Timex Braintrust Case Study ↗ Houlihan Lokey Resend Perplexity OpenRouter Mintlify Clerk Case Study ↗ Mux Railway The complete platform for agent-led growth. Agent-led growth (ALG) turns AI recommendations into product adoption. Gauge connects AI search visibility, agent preference, and agent experience. What is agent-led growth? ↗ Get visibility What’s the best database for my app? Supabase I’d recommend Supabase . It gives you a Postgres database, authentication, and storage—with an SDK that makes it easy to get started. ↗ supabase.com/docs Ask anything + ↑ Answer engine optimization See how your brand shows up in AI answers. Find the sources and content opportunities that help you earn the next recommendation. AI visibility and competitor tracking Citation and source analysis Content creation and optimization Explore AEO ↗ Get recommended ✳ Claude Code ~/my-app ❯ Add a database to this app. I’ll use Supabase for Postgres and connect it to your app. ● Bash (npm install @supabase/supabase-js) └ Package installed ● Write (src/lib/supabase.ts) import { createClient } from '@supabase/supabase-js' const db = createClient(url, key) ✓ Connected. First query successful. Agent preference Measure which tools coding agents select for real tasks. Understand when they choose you, who wins instead, and the sources behind those decisions. Product selection benchmarks Competitive comparisons Sources behind agent decisions Explore agent preference ↗ Get implemented ✳ Claude Code ~/my-app ❯ Use Supabase to save and load projects. ● Read (Supabase quickstart) └ Client setup and database policies ● Write (src/lib/projects.ts) + await db.from('projects').insert(project) + await db.from('projects').select('*') ● Bash (npm test) └ PASS saves and loads a project ✓ Projects persist. Integration verified. Agent experience Run agents against your product. Find the docs, setup steps, and integrations that get them stuck, then test what helps them succeed. Evaluations across coding agents Task traces and failure analysis Docs and onboarding experiments Explore agent experience ↗ Grow your user base. Turn AI agents into customers. Get started now ↗ Book a demo Customer stories PostHog 41 41 × LLM-referred traffic most-cited domain in its space Read → Neo4j Test before you ship Agent evals that shaped onboarding decisions Agent experience Read → Braintrust 18 18 × AI visibility 6 months Read → Clerk 3x CLI adoption From an SDK change to smoother agent onboarding Agent experience Read → Connect Measurement to Execution Connect your marketing data, see how agents choose and use your product, and test the changes that improve both. Agent Preference See which tools agents choose across tasks, models, and personas, and trace the sources behind each decision. Product selection Competitive benchmarks Sources Agent Experience Run real coding tasks against your product. Inspect sessions, find failures, and measure success over time. Task evals Session traces Scheduled runs Optimizations Test documentation and skill changes against a baseline to see what improves agent results before you ship. Docs trials Skill variants Baseline comparisons Environment Resources Give agents the repositories, tools, and context they need. Reuse the same environment across evaluations. Repositories Skills MCP servers Packages Files Search and Performance Analyze traffic, search performance, and product usage alongside your AI visibility data. Google Analytics 4 Google Search Console DataForSEO PostHog Co",
+   "email_candidates": [
+    {
+     "email": "company@withgauge.com",
+     "where": "https://www.withgauge.com/",
+     "kind": "personal"
+    },
+    {
+     "email": "caelean@withgauge.com",
+     "where": "https://www.withgauge.com/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "evan@withgauge.com",
+     "where": "https://www.withgauge.com/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "ethan@withgauge.com",
+     "where": "https://www.withgauge.com/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "grant@withgauge.com",
+     "where": "https://www.withgauge.com/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "farbod@withgauge.com",
+     "where": "https://www.withgauge.com/team/",
+     "kind": "personal"
+    },
+    {
+     "email": "peter@withgauge.com",
+     "where": "https://www.withgauge.com/team/",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "9c02cb5ea4",
+   "company": "Helium",
+   "website": "https://tryhelium.com",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 9. Self Improving Software Helium is building self-improving software — AI that continuously experiments on key moments in the user funnel to boost revenue. Our first customer, a social app with 20M MAU, uses Helium to test new in-app paywalls to get more users to subscribe. Zach previously made $100M+ in growth experiments at Uber, Shishir led the first LLM features for Alexa, and Anish worked at Meta building ML to automatically experiment on ads, increasing Instagram ads conversion by 10%. B2B, Engineering, Product and Design, United States of America, America / Canada",
+   "site_text": "[https://tryhelium.com/]\nHelium: App Monetization for the AI Era App-to-Web Now Live. Learn More Learn More About Blogs Pricing Start for Free About Blogs Pricing Start for Free App Monetization for the AI Era App Monetization for the AI Era App Monetization for the AI Era Launch experiments in minutes to boost in-app revenue. Start for Free Trusted by the best in mobile * = Investment by Leaders from Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store Link to App Store The Worldâs most powerful paywall builder The Worldâs most powerful paywall builder Stop building boilerplate experiences, start making unique paywalls that can lift conversion. Serving Millions of Users per Day Serving Millions of Users per Day For Top-Tier Apps. Our customersâ paywalls reach millions of users a month. 1 day of engineering work to go live for Wispr Watch case study 1 day of engineering work to go live for Wispr Watch case study 1 day of engineering work to go live for Wispr Watch case study App-to-web: Now Live App-to-web: Now Live App-to-web: Now Live H e l i u m â s i n - a p p p a y w a l l d i r e c t s u s e r s t o w e b t o s u b s c r i b e , t h e n r e d i r e c t s b a c k t o u n l o c k i n s t a n t a c c e s s . H e l i u m â s i n - a p p p a y w a l l d i r e c t s u s e r s t o w e b t o s u b s c r i b e , t h e n r e d i r e c t s b a c k t o u n l o c k i n s t a n t a c c e s s . H e l i u m â s i n - a p p p a y w a l l d i r e c t s u s e r s t o w e b t o s u b s c r i b e , t h e n r e d i r e c t s b a c k t o u n l o c k i n s t a n t a c c e s s . Learn More 9:41 Unlock Premium Full feature access Faster, priority responses 3x longer Coin validity Try 7 days for free. Cancel anytime. Try for Free Or pay in app Restore Purchases Terms & Privacy Drive subscriptions in minutes Without an App Store Update. Get Started 1 Implement SDK in minutes 2 Build paywalls with Heliumâs AI 3 Run tests, grow revenue Case Study âSubscriptions have grown 77% since working with Heliumâ Matt Moss CEO, Locket View Case Study Measure, Test, and Target Measure, Test, and Target All the essentials you need to lift conversion. Subscription Analytics Drill down into all your most important metrics â all out of the box. Powerful Experimentation Run simple A/B test, or coordinated multi-variate tests, based on the experimentation platform at Meta. Segmentation Made Simple Target paywalls based on dozens of built in traits, or pass in your custom traits to use for segmentation. Powerful Experimentation Run simple A/B test, or coordinated multi-variate tests, based on the experimentation platform at Meta. Segmentation Made Simple Target paywalls based on dozens of built in traits, or pass in your custom traits to use for segmentation. Subscription Analytics Drill down into all your most important metrics â all out of the box. Create from Figma or Screenshots Just upload a Figma file or image and the editor will do the rest Templates Create from industry-proven templates used by some of the best apps in the world Custom Analytics Target users with attributes or track custom paywall engagement events. Automated Localization Use Heliumâs AI translation, or directly edit localization. Video & Animations Upload video or animation, and make changes over the air. Manage Pricing See and manage your App Store and Play store products from the dashboard. Create from Figma or Screenshotics Just upload a Figma file or image and the editor will do the rest Templates Create from industry-proven templates used b",
+   "email_candidates": [
+    {
+     "email": "zach@tryhelium.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Zach Witzel",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "shishir.jakati98@gmail.com",
+     "where": "YC profile · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Shishir Jakati",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "9f9b1bca50",
+   "company": "Cotool",
+   "website": "https://cotool.ai",
+   "title": "Engineering (YC Spring 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Security operations optimized for agents. Cotool builds AI agents and the infrastructure around them to help security teams detect threats, investigate alerts, hunt for attacks, and respond. Our agents work across a team's security tools and data. They investigate alerts, write and tune Python detections, and turn threat intelligence into hunts and new coverage. Teams can customize agents around their workflows, inspect the evidence, edit detection logic, and bring humans in when judgment or approval matters. Underneath the agents, Cotool provides log storage and search built for their workloads, with access to data where it already lives. The goal is to give security teams more capacity to defend their companies as their environments and workloads grow. Teams at Ramp, EliseAI, ClickHouse, Legora, and many more use Cotool. SaaS, Compliance, Security, Cybersecurity, B2B, Security, United States of America, America / Canada",
+   "site_text": "[https://www.cotool.ai/]\nCotool — AI SOC and Agent-Native SIEM for the Blue Team Skip to main content Platform Solutions Research Resources Company Book a demo The Applied Security Lab Defense that compounds. Security Operations optimized for Agents. Book a demo Loved by teams at: 2,000 Employee Crypto Exchange 1,500+ Employee Security Company AI is driving the cost of cyberattacks to zero . Bolting agents onto your SIEM isn't enough. Security teams need to move faster than attackers . Turn your security data into a defense that never stops learning. Cotool's customizable agents continuously uncover threats and act to stop them. Book a demo Watch video overview Observe Detect Respond Hunt “ It's enabled us to comfortably onboard new log sources and write rules around them without worrying that we're going to cause alert fatigue for the human detection engineers and analysts on the team. ” Antoinette Stevens Principal Security Engineer Log storage optimized for agents Logs you store in Cotool are optimized for agents, with ultra-fast search at a fraction of traditional SIEM cost. Agents query the rest where it already lives. Explore Observe Observe Search Last 30 days Ask anything about your logs W h a t h a s r . p a t e l d o n e i n O k t a o v e r t h e l a s t 3 0 d a y s ? Okta logs Planned by agent Stored in Cotool 0.00 s 0.0B rows scanned 18 TB · last 30 days Results 09:42:18 user.mfa.okta_verify.deny_push 09:42:11 user.mfa.okta_verify.deny_push 09:41:57 device.enrollment.create 09:12:40 user.authentication.sso 08:57:03 user.session.start Detections are code, triaged and tuned by agents Every detection is Python code your team can read and edit and they run against both centralized and federated data sources. Threat hunts, intel, and a generated threat model produce detections continuously. Start with a library of detections that agents tune to your environment before go-live. Explore Detect Detect Detection / personal_cloud_exfil.py Python notebook Visual Code Exfiltration to personal cloud storage T1567.002 LOOKBACK = 30 # days of history per user SPIKE = 20 # flag days this many times their normal CATEGORY = \"personal-storage\" Parameters Config Query proxy logs Source Model each user's normal Transform Find spikes Decision Flag leavers Enrich Ask Rippling Last day for each user Exclude company Box v2 Return alerts 1 alert · m.chen Automate response from any alert source Don't settle for “Tier 1 Analyst Agent”. Cotool provides the primitives to create any agent with natural language. Tailor it to your team’s workflows and use built-in controls to introduce humans in the loop at any step. Address alert fatigue at the source with automatic detection tuning for every false positive. Explore Respond Respond OAuth Grant Responder Written in plain English When Google Workspace flags a risky OAuth grant: 1 In Google Workspace , list its scopes and grants 2 Check the publisher's domain in VirusTotal 3 Trace what the token read and changed 4 Ask #security before revoking it everywhere Alerts From Google Workspace Waiting for a risky OAuth grant Revoke app pdf-convert-pro for all 4 users? Approve pdf-convert-pro revoked for 4 users · 412 emails exposed Done Agent 52 s By hand ~2 h Hunt for what hasn't alerted yet Cotool makes threat intelligence actionable. We curate our own feeds, combine them with your sources, and filter for relevancy and exposure. Real exposure or compromise produces tuned detections and immediate next steps. Explore Hunt Hunt Intel → exposure · last 7 days CISA, vendor research, your feeds 214 Ingested 38 Huntable 9 Relevant 1 Exposed Exposure alerts 9 relevant threats Matching new intel to your systems Detection created + argocd_rce.py Watching for the exploit Deploying Observe Log storage optimized for agents Logs you store in Cotool are optimized for agents, with ultra-fast search at a fraction of traditional SIEM cost. Agents query the rest where it already lives. Explore Observe Observe Search Last 30",
+   "email_candidates": [
+    {
+     "email": "eddie@cotool.ai",
+     "where": "https://www.cotool.ai/blog",
+     "kind": "personal"
+    },
+    {
+     "email": "jobs@cotool.ai",
+     "where": "https://www.cotool.ai/about",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a5754b186f",
+   "company": "PerfectBit, Inc.",
+   "website": "https://perfectbit.ai",
+   "title": "Hiring Research Scientists and Research Engineers at PerfectBit",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Hiring Research Scientists and Research Engineers at PerfectBit (San Francisco, CA, US; experience: Any (new grads ok); US citizen/visa only). Team size: 3. Robotics PerfectBit builds learned policies for robots that do real work. We train manipulation and control policies that hold up outside the lab, in the unstructured environments where real tasks actually happen. Founded by two alumni of Meta's Superintelligence org: Péter Vajda led Media GenAI foundation-model R&D (Emu, Movie Gen, image and video editing), and Seiji Yamamoto led teams in the Core Llama group across LLM pre-training and post-training, inference optimization, and computer vision. We're early, deliberately quiet about the details, and hiring the first researchers who will shape what this becomes. San Francisco, on-site. Artificial Intelligence, Machine Learning, Robotics, Industrials, Manufacturing and Robotics, United States of America, America / Canada",
+   "site_text": "[https://perfectbit.ai/]\nperfectbit.ai — robotics, San Francisco hold to reveal perfectbit .ai San Francisco · robotics We're building policies for robots that do real work. We're early, deliberately quiet about the details, and hiring the first researchers who'll shape what this becomes. Research scientists Research engineers",
+   "email_candidates": [
+    {
+     "email": "seiji@perfectbit.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Seiji Yamamoto",
+     "role": "Founder"
+    },
+    {
+     "email": "peter@perfectbit.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Peter Vajda",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a6b9d7f430",
+   "company": "Rainbrand",
+   "website": "https://rainbrand.com",
+   "title": "Engineering (YC Spring 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. The brand layer for agents. Rainbrand is the brand layer for agents. It turns a brand’s identity, guidance, and assets into shared context that agents and products can use. That context evolves with the brand, alongside the tools where it is created and managed. Starting with websites, social media, and files, Rainbrand develops and maintains versioned brand context. Through MCP or the API, connected agents and products can retrieve and update that context, then apply it to images, websites, slides, video, copy, and other brand work. We’re an ai infra company making brand as operable as software. B2B, United States of America, America / Canada",
+   "site_text": "[https://www.rainbrand.com/]\nRainbrand | The brand layer for agents [NOTICE] // Bloom is now Rainbrand Bloom is now Rainbrand. What’s changing Sign in Rainbrand builds and maintains shared brand context for your agents and products . Get started Connect your agent CANVAS: 01 Manifesto Agents do more of your work every day, but none of them have your brand. Rainbrand is brand infrastructure for your agents: one maintained system, plugged into the tools you already use. How it works Your brands, ready for agents. Rainbrand turns brand identity, guidance and assets into shared context your agents and products can use and update. In // Files Brand guide, logos, fonts [Reading files] In // Website Import your website In // Figma & more All assets, all files, one place Shared brand context Rainbrand Out // MCP Use it with your agents (opens in a new tab) Out // REST API Embed it into your product (opens in a new tab) 202 Accepted curl -X POST \\ \"$RAINBRAND_URL/api/v1/briefs\" \\ -H \"x-api-key: $API_KEY\" \\ -H \"content-type:application/json\" \\ -d '{\"brandSessionId\":\"…\", \"task\":\"Launch poster\"}' Keep your models, tools and workflow. Rainbrand supplies the brand context. Features Create with brand guidance and assets chosen for the task, then review and refine as needed. Read the docs (opens in a new tab) Request a Brief to get the guidance and assets each task needs. Brief guide (opens in a new tab) Generate with your own tools, or through the AI Gateway. Your own tools guide (opens in a new tab) AI Gateway guide (opens in a new tab) Request a Review to check images before they ship. Review guide (opens in a new tab) Connect Rainbrand. Use Rainbrand with your agents, or embed it into your product. Use it with your agents (opens in a new tab) Embed it into your product (opens in a new tab) ChatGPT + Codex Claude Claude Code Cursor API 1 Open the Rainbrand plugin and add it. Open Rainbrand plugin (opens in a new tab) 2 Connect your Rainbrand account when asked. It works in ChatGPT and in Codex. 1 Open the Rainbrand connector in Claude and add it. Open Rainbrand connector (opens in a new tab) 2 Select Connect, then sign in to Rainbrand. You can also install the Rainbrand Skill ( opens in a new tab ) or the plugin ( downloads in a new tab ) . 1 Add Rainbrand's plugin marketplace in your terminal. claude plugin marketplace add rainbrandai/rainbrand-skills 2 Install the Rainbrand plugin, including its Skill and MCP connection. claude plugin install rainbrand@rainbrand 3 Start a new Claude Code session, then use /mcp to sign in to Rainbrand. You can also connect with MCP ( opens in a new tab ) or install the Rainbrand Skill ( opens in a new tab ) . 1 Add Rainbrand to ~/.cursor/mcp.json. { \"mcpServers\": { \"rainbrand\": { \"url\": \"https://mcp.rainbrand.com/mcp\" } } } 2 Sign in from the Cursor CLI. agent mcp login rainbrand You can also install the Rainbrand Skill ( opens in a new tab ) or the plugin ( downloads in a new tab ) . 1 Create an API key in your account settings, then list your brands. curl https://www.rainbrand.com/api/v1/brands -H \"x-api-key: $RAINBRAND_API_KEY\" Integrating Rainbrand into your app? Read the API docs ( opens in a new tab ) . Rainbrand builds and maintains shared brand context for your agents and products . Get started Read the docs (opens in a new tab) View pricing\n\n[https://www.rainbrand.com/blog/]\nBlog | Rainbrand [NOTICE] // Bloom is now Rainbrand Bloom is now Rainbrand. What’s changing (Blog) // 25 articles Brand, for agents Practical guides to giving AI agents your brand, choosing tools, and checking their work. For teams, agencies and developers. Featured AI tools · 6 min read · 4 sources How to keep AI-generated content on brand Keep agents working from current brand guidance, give each task the right rules and files, and use checks of the finished work to improve the next task. Images and design How to apply your brand guidelines to AI-generated images Give the image model the rules and references that matter for",
+   "email_candidates": [
+    {
+     "email": "ray@rainbrand.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Ray Fitzgerald",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "acca5bad6c",
+   "company": "Unusual",
+   "website": "https://unusual.ai",
+   "title": "Founding Engineer - Full Stack",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Founding Engineer - Full Stack (San Francisco, CA, US; experience: Any (new grads ok); US citizen/visa only). Team size: 4. Market to AI agents AI agents are the newest audience brands need to speak to, but go-to-market teams don't have the tools to understand how they form opinions or make decisions. Unusual helps brands in the Fortune 100 and scale-ups like Change.org and Astronomer drive more sales and win more market share by shifting how AI models perceive their offerings. We work closely with every brand to (1) identify the root cause of AI misperception, (2) align on marketing, sales, and product strategies that appeal to agents, and (3) build infrastructure and content that makes their strongest proof more legible to agents. Our methodology centers on applying black-box interpretability techniques to AI agents like ChatGPT and Claude to understand how they form opinions about a brand and its competitors. Seeing the *why* behind each opinion gives us the ability to create targeted interventions that change them. Sales, Marketing, AI, B2B, Marketing, United States of America, America / Canada",
+   "site_text": "[https://www.unusual.ai/]\nUnderstand and Win the AI Audience | Unusual Book a Consultation Understand and Win the AI Audience The first market research firm focused on your AI (rather than your human) audience Your customers are asking AI agents what to buy. Soon, those agents will make purchase decisions themselves. You know how to convince the people, we help you win the agents. Talk to us Check out our research Agent Marketing is Powerful Correcting misconceptions Growing pipeline Clarifying product fit Correcting an outdated transfer limit. Agents were ruling out a money transfer provider for large transfers. We traced the error to an outdated article and helped get it corrected. 88% of evaluated answers stated the current transfer limit, up from 2.5% Making independent benchmarks easy for agents to find. Agents discounted the company’s own benchmarks. We added independent test results to the product and comparison pages they used to evaluate it. 67% win rate against its closest competitor in AI evaluations, up from 59% Explaining that buyers can keep their existing tools. Agents tied the product’s fit to adopting the full platform. We added a FAQ explaining that buyers could use it alongside their existing security tools. 50% of answers that found the FAQ explained that existing tools could stay, compared with 0% without it Know what matters to your AI audience. We study how agents see your market and make decisions. Then we work with your team to test what changes those decisions, put it into practice, and build the experiences that help agents become customers. Market intelligence Measure how agents describe your business and when they choose it over the alternatives your customers consider. Positioning guide Agents The best choice for enterprise teams Partly Meets strict security and compliance needs Aligned Fits the stack customers already run Aligned Clear, predictable pricing Missing “A lightweight tool for startups” Off-message Your positioning How each agent describes you Gap to close Audience research Investigate why agents rule you in or out, and identify the facts or assumptions your team needs to address. Ruled in Ruled out Condition behind it Strategy and interventions Use the findings to guide changes to your positioning and offering. Test the changes, help implement them, and study the response. Route to the agent Sources it consults Answer chooses you Agent experience and infrastructure See which pages agents read and cite with page attribution. Give them answers grounded in your content through AgentDesk. Read Cited Grounded answer Our technology The tools we build and deploy to understand your AI audience and help agents engage with your business. Agent Analytics See which AI agents visit your site, the pages they read, and how that activity changes over time. Try Agent Analytics free Agent visits 9,683 today Google-Extended Google /blog/agent-marketing now OAI-SearchBot OpenAI /security 2s PerplexityBot Perplexity / 4s ClaudeBot Anthropic /docs/getting-started 6s GPTBot OpenAI /pricing 8s AgentDesk Give visiting buyer agents direct, grounded answers about your business from an agent on your side. Talk to us about AgentDesk Buyer agent My client needs SSO and an audit log. Does this product support both? AgentDesk Yes. SAML SSO and a full audit log are included on the Business plan. /security Research and blog Changing an AI model's mind starts with understanding how it thinks. Our team comes from AI interpretability, the field that studies why models behave the way they do. In Practice Will Jack How to market to AI agents How to understand agent perception, research what changes their judgment, and build experiences that serve this new audience. Read article Published papers Research library Explore our studies on how AI agents understand and recommend brands. See published papers From the blog View all posts Sep 28, 2026 Keller Maloney AI is a new audience for brands Buyers increasingly entrust decisio",
+   "email_candidates": [
+    {
+     "email": "will@unusual.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Will Jack",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "keller@unusual.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Keller Maloney",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "add8451b07",
+   "company": "Tamarind Bio",
+   "website": "https://www.tamarind.bio",
+   "title": "Software Engineer",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Software Engineer (San Francisco, CA, US; experience: Any (new grads ok); US citizen/visa only). Team size: 20. AI Inference Platform for Drug Discovery Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps. Tamarind is used by tens of thousands researchers in large pharma companies, top biotechs, and academic institutions. AI-powered Drug Discovery, Artificial Intelligence, SaaS, B2B, Biotech, B2B, United States of America, America / Canada",
+   "site_text": "[https://www.tamarind.bio/]\nTamarind Bio: AI Infrastructure for Biotech R&D Computational Tools for Computational Tools for Computational Tools for Design improved variants, de novo binders, and novel molecules. Use state of the art AI and physics based methods, no setup required. Design improved variants, de novo binders, and novel molecules. Use state of the art AI and physics based methods, no setup required. Book a Call Book a demo Get started Features Learn what Tamarind can do for you Features Learn what Tamarind can do for you Features Learn what Tamarind can do for you Antibody Peptide Enzyme Small Molecule Design and optimize nanobodies, antibodies, and mini proteins Predict the structures of immune proteins at massive scale and speed Redesign and optimize CDRs for an antigen Predict binding poses of antibody-antigen complexes Optimize and predict sequences for thermostability , solubility , and other developability properties Design de novo nanobody binders for an antigen Learn More Antibody Peptide Enzyme Small Molecule Design and optimize nanobodies, antibodies, and mini proteins Predict the structures of immune proteins at massive scale and speed Redesign and optimize CDRs for an antigen Predict binding poses of antibody-antigen complexes Optimize and predict sequences for thermostability , solubility , and other developability properties Design de novo nanobody binders for an antigen Learn More User-Friendly A Central Interface Connecting Users to the Cutting Edge of Published Tools User-Friendly A Central Interface Connecting Users to the Cutting Edge of Published Tools Use the best protein engineering tools including AlphaFold, RFdiffusion, MPNN, and GROMACS. No literature review or deployment needed Use the best protein engineering tools including AlphaFold, RFdiffusion, MPNN, and GROMACS. No literature review or deployment needed ABB4-STEROIDS ABodyBuilder3 ADMET AF2Dock AfCycDesign Aggrescan3D AllMetal3D AlphaBind Model Finetuning AlphaCutter AlphaFlow AlphaFold AnewOmni Antibody Evolution (Affinity Maturation) AntiFold Autodock Vina BindCraft BindCraft2 Binding ddG BioPhi Boltz Mol-1 Boltz Prot-1 Boltz-2 BoltzGen Caliby CatPred Chai-1 CheMeleon Embeddings Chemprop ColabDock CombFold COMPSS Protein Metrics CryoLigATE CyclicMPNN Dayhoff Atlas DeCaf DeepImmuno DeepSP DELPHI DERNA DiffAb DiffDock DISCO DLKcat dyMEAN Dyna-1 DynamicMPNN DynamicsPLM Finetuning EnzyGen2 EquiDock ESM-C ESMFold ESMFold2 ESPsim EvoNB EvoPro EvoProtGrad Fine-Tune Protein Language Model FLOWR FoldBench Evaluator fPocketR Genie 3 GeoDock Germinal GNINA GROMACS HELM-GPT HighFold Humatch IgDesign IgGM ImmuneBuilder ImmunoSeq INTERCAAT IntFold Intrinsically Disordered Region (IDR) Binder Design ITsFlexible Lacuna LEGOLAS LibInvent LigandMPNN LocScale MAGE MATCHA mBER MoFlow MolSnapper Mosaic Hallucination mRNABERT NA-MPNN Nanobody Polyreactivity NDPredict Nesso-1 NOS ODesign Antibody OligoAI OligoWalk OpenBind OpenConf OpenDDE OpenGerminal P2PXML PALM PDBFixer PDBsum1 PEP-Patch PepMimic PepMLM PLM Crystallization Prediction Pocket Crafter PocketFlow PRODIGY (PROtein binDIng enerGY) ProFam Profluent E1 Promera Protein Hunter ProteinMPNN ProteinMPNN-ddG Proto PSI-BLAST Search pyRMSD RetroChimera RFAntibody RFD4-Proteina RFdiffusion RFdiffusion All Atom RFdiffusion2 RFdiffusion3 RFpeptides RNA-FM RosettaFold All-Atom SaProt SF-Cluster ShEPhERD-2 Smina SPACE2 SPURS StaB-ddG Structural Evolution SuperMetal SURFMAP SwiftMHC SwitchCraft TAP2 (Therapeutic Antibody Profiling) TemStaPro ThermoMPNN TLimmuno2 TNP (Therapeutic Nanobody Profiler) VaxPress ViennaRNA Waypoint ZymCTRL Seamless Massive Scale We handle the high performance compute, parallelization, and GPU orchestration for you, saving time and money. All of our tools can be used for hundreds of thousands of inputs Seamless Massive Scale We handle the high performance compute, parallelization, and GPU orchestration for you, saving time and money. All of our tools can be used for hundreds of t",
+   "email_candidates": [
+    {
+     "email": "info@tamarind.bio",
+     "where": "https://www.tamarind.bio/contact",
+     "kind": "generic"
+    },
+    {
+     "email": "deniz@tamarind.bio",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Deniz Kavi",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "sherry@tamarind.bio",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sherry Liu",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ae846213b5",
+   "company": "Clara",
+   "website": "http://askclara.com",
+   "title": "Engineering (YC Spring 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 9. AI primary care doctor Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue. Our mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed. Unlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them. Healthcare, Consumer Health and Wellness, United States of America, America / Canada",
+   "site_text": "[https://askclara.com/]\nClara — Your AI-Powered Doctor for a Longer, Healthier Life Clara raises $12M pre-seed, joins Y Combinator Read more Read more AI-powered primary care doctor Medicine that sees further. Clara is an AI-powered primary care doctor that never closes, never rushes you, and never forgets the details. Board-certified clinicians review everything. Get started HIPAA Compliant HIPAA compliant Your health data stays yours, encrypted end to end. Get prescriptions and labs Reviewed by board-certified clinicians. Insights that matter AI that connects all your health history. Plans that adapt Your care plan evolves as your biology does. Supported by real doctors Board-certified care. Human oversight always. HIPAA Compliant Securely import your medical history in minutes From labs and prescriptions to wearables, Clara pulls your records together so your care is complete, accurate, and always in your hands. Get started Unlock insights hidden in your health data Your health history tells a story. Clara reads it, spots what matters, and helps your care team act on it. See your insights Prescriptions without the waiting room No more calling the office for a refill. Clara handles medications end to end. Your clinician reviews everything, and responds quickly. Get started Results that see the full you, not just the numbers Clara connects every biomarker to your history, your medications, and your goals, then tells you what actually matters. Get started Secure & Private Your information is safe here Clara is a HIPAA-compliant medical practice. Your health records are HIPAA-protected Verify LegitScript-certified for safe, legitimate prescriptions Verify Member of American Telemedicine Association Powered by AI. Verified by clinicians Medical recommendations are confirmed by a licensed clinician in your state. + Our clinical team includes providers trained at Patients trust Clara with their care “ It caught a missed MRI recommendation from four years ago and gave me a clear, prioritized action plan. ” Emma Ludwick Los Altos, CA “ This is awesome. Better than my conversations with a doctor, nutritionist and another concierge doctor on this issue. ” Topher Conway San Francisco, CA “ I highly recommend this. I did a biomarker test with Clara and it identified some supplements and diet changes I've made that have increased my energy. ” Grey Baker Palo Alto, CA FAQs Have questions? Here are the answers What is Clara? What can Clara actually do for me? Why should I use Clara instead of other AI chat apps? Can I trust Clara with real medical decisions and my medical data? How much does Clara cost, and does it work with my insurance? In what states does Clara currently see patients? Your health, finally under your control. Get started\n\n[https://askclara.com/blog/clara-launch]\nClara raises $12M pre-seed, joins Y Combinator Read more Read more All articles Announcements Clara launches with $12M pre-seed round, joins Y Combinator Building AI primary care from the ground up By George Favvas , CEO · May 14, 2026 Today we're launching Clara: an AI-powered primary care doctor. Clara securely pulls your medical history from 150,000+ hospitals, labs, and pharmacies and reads all of it, every time you interact with us. We draft prescription refills, lab orders, and care plans for a clinician in your state to review and sign off on. Members can upgrade to connect their wearables or bundle longevity lab panels. Clara is building a team with the experience to shepherd in the era of AI primary care, grounded in clinical quality, operations, and regulatory rigor. Clara was founded by cofounders who built Circle Medical to $100M in revenue: George Favvas was CEO at Circle Medical for a decade. Caitlin Swift was VP Clinical Operations as the practice scaled to nearly 1 million appointments per year and 425 providers. Zeeshan built the clinical products at Circle and has also held product design stints at Meta and Uber. The core team includes Brendan L",
+   "email_candidates": [
+    {
+     "email": "george@askclara.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "George Favvas",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "zeeshan@askclara.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Zeeshan Ahmed",
+     "role": "Founder"
+    },
+    {
+     "email": "caitlin@askclara.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Caitlin Swift",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "aede415b7e",
+   "company": "Meticulate",
+   "website": "https://meticulate.ai/",
+   "title": "Founding Engineer #2",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Founding Engineer #2 (San Francisco, CA, US; experience: Any (new grads ok); US citizen/visa only). Team size: 5. Making it easy for B2B sales teams to send stellar outbound Meticulate is an AI-native sales platform. We make it easy for sales teams to send stellar outbound messaging at scale. Instead of using boilerplate campaigns, Meticulate codifies your rules and strategies (e.g. “CFOs want to hear an ROI calc upfront”) and combines them with deep research to send custom sequences to every lead. We’re serving leading GTM teams today (incl OpenAI, Noda, ThreeKit), and are backed by leading AI investors: Y Combinator, Link, Cervin Ventures. Artificial Intelligence, Generative AI, SaaS, Sales, B2B, United States of America, America / Canada",
+   "site_text": "[https://meticulate.ai/]\nMeticulate Meticulate How it works Impact Pricing Industrials Login Get a Demo Meticulate How it works Impact Pricing Industrials Login Get a demo Meticulate How it works Impact Pricing Industrials Login Get a Demo Get a Demo Get a Demo Meticulate How it works Impact Pricing Industrials Login Get a Demo Get a Demo BACKED BY BACKED BY BACKED BY Radically improve your sales outreach Login Login Get a Demo Get a demo Get a Demo TRUSTED BY Case Study Case Study Case Study Case Study Case Study Case Study Case Study Case Study Case Study Custom messaging for every prospect Meticulate applies your ruleset to intelligently pull in prospect research and drive stellar messaging to every prospect Engage all your prospects in one click Fully personalized to every prospect, without any templates or boilerplate messaging. Steven Bay SVP of Sales Olivia Smith Ashton Milbur Steven Bay SVP of Sales Olivia Smith Ashton Milbur Steven Bay SVP of Sales Olivia Smith Ashton Milbur Start outbounding based on signals Meticulate monitors every relevant action and instantly surfaces the ideal sequence for the right person at the right moment. Signals detected Job Post Plastics molder is hiring a plant engineer Failed Test Georgia mill failed a boiler stack test Permit Change Texas chemical plant filed for a new air permit Meticulate finds the right people and proposes outbound sequences for them Failed Test Georgia mill failed a boiler stack test React to signals across companies & people Setup signal listeners for the buying indicators and outbound triggers that matter for you. Job listings Ohio foundry is hiring 3 maintenance techs Expansion Steel fabricator is adding a second line Capital project Paper mill approved a $40M boiler upgrade Recent hire Chemical plant named a new EHS manager Website visitors David looked at your dust collector and pricing pages Social engagement A plant manager liked a competitor's LinkedIn post Permit change Air permit modified to add a thermal oxidizer Custom Anything you want to track in public records or on the web Job listings Ohio foundry is hiring 3 maintenance techs Expansion Steel fabricator is adding a second line Capital project Paper mill approved a $40M boiler upgrade Recent hire Chemical plant named a new EHS manager Website visitors David looked at your dust collector and pricing pages Social engagement A plant manager liked a competitor's LinkedIn post Permit change Air permit modified to add a thermal oxidizer Custom Anything you want to track in public records or on the web Job listings Ohio foundry is hiring 3 maintenance techs Ohio foundry is hiring 3 maintenance techs Expansion Steel fabricator is adding a second line Steel fabricator is adding a second line Capital project Paper mill approved a $40M boiler upgrade Paper mill approved a $40M boiler upgrade Recent hire Chemical plant named a new EHS manager Chemical plant named a new EHS manager Website visitors David looked at your dust collector and pricing pages David looked at your dust collector and pricing pages Social engagement A plant manager liked a competitor's LinkedIn post A plant manager liked a competitor's LinkedIn post Permit change Air permit modified to add a thermal oxidizer Air permit modified to add a thermal oxidizer Custom Anything you want to track in public records or on the web Anything you want to track in public records or on the web Screen for your ICP with custom topics Traditional firmographics enhanced with custom research to unlock deeper, more actionable targeting. Num. Employees 149 305 1,050 Plant type Foundry Chemical plant Paper mill Plants operated 15 24 3 Narrow down your ICP to focus on the strongest prospects ICP: foundries with open maintenance roles Plant type: foundry Num roles hiring: >5 Classification question What type of plant do they mainly operate? Data sources to use: Web search Company posts Estimation question How many maintenance roles are they hiring? Data sources to us",
+   "email_candidates": [
+    {
+     "email": "wilbur@meticulate.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Wilbur Li",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "joseph@meticulate.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Joseph Palakapilly",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "af1b7e00d0",
+   "company": "Model ML",
+   "website": "https://www.modelml.com/",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 180. The AI for Financial Services. Team: Chaz: Founder of Fat Llama YC S17 - Acquired by Hygglo. Responsible for Business and Sales Arns: Founder of Fancy S20 - Acquired by Gopuff, Responsible for tech and product. SaaS, Finance, B2B, AI, B2B, United Kingdom, Europe",
+   "site_text": "[https://modelml.com/]\nModel ML Alex Kayyal joins as CFO | Sites | HSBC global rollout Alex Kayyal joins as CFO | Sites | HSBC global rollout Your Finance Agent. Wherever You Are. Your Finance Agent. Think deeper, move faster, close bigger. Book a demo Meet the teammate you've always wanted Lives where you do In Excel, PowerPoint, Outlook, our app, or your firm's own systems. Works like you do Produces client-ready materials, recognizes patterns, and generates ideas exactly as you would. Knows your work Your internal and external data sources. All connected in real time. Woven for Wall Street Built bespoke, and forward deployed by industry experts An arsenal of intelligence Workflows Deliverables, delivered Grids Compound intelligence Document Review Make no mistake Chat Talk it to task Notetaker Capture what matters Sites Living, not static Workflows Deliverables, delivered Grids Compound intelligence Document Review Make no mistake Chat Talk it to task Notetaker Capture what matters Sites Living, not static Every financial service, served Investment Banking Polish your perspective, not your slides Consulting Focus on the thinking that wins repeat work Private Equity & Credit A new altitude of diligence, and intelligence. Asset & Wealth Management Assessment turned into an artform. Every financial service, served Investment Banking Polish your perspective, not your slides Consulting Focus on the thinking that wins repeat work Private Equity & Credit A new altitude of diligence, and intelligence. Asset & Wealth Management Assessment turned into an artform. Maximum security environment Industry-leading, institution-grade security, privacy, confidentiality and control. ISO 27001 Your data stays yours. SOC 2 Type II Secure handling across every system. GDPR Built for the world's strictest data privacy rules. \" M o d e l M L i s c r e a t i n g s o m e t h i n g r e m a r k a b l e w i t h t h e p o t e n t i a l t o t r a n s f o r m f i n a n c i a l s e r v i c e s e n t i r e l y . B y s e a m l e s s l y i n t e g r a t i n g a n i n t u i t i v e , u s e r - f r i e n d l y i n t e r f a c e w i t h c u t t i n g - e d g e A I , M o d e l M L i s e m p o w e r i n g f i n a n c i a l p r o f e s s i o n a l s t o w o r k s m a r t e r , e x t r a c t d e e p e r i n s i g h t s , a n d e n h a n c e e f f i c i e n c y . Sir Noel Quinn Former Group CEO of HSBC \" M o d e l M L i s c r e a t i n g s o m e t h i n g r e m a r k a b l e w i t h t h e p o t e n t i a l t o t r a n s f o r m f i n a n c i a l s e r v i c e s e n t i r e l y . B y s e a m l e s s l y i n t e g r a t i n g a n i n t u i t i v e , u s e r - f r i e n d l y i n t e r f a c e w i t h c u t t i n g - e d g e A I , M o d e l M L i s e m p o w e r i n g f i n a n c i a l p r o f e s s i o n a l s t o w o r k s m a r t e r , e x t r a c t d e e p e r i n s i g h t s , a n d e n h a n c e e f f i c i e n c y . Sir Noel Quinn Former Group CEO of HSBC \" M o d e l M L i s c r e a t i n g s o m e t h i n g r e m a r k a b l e w i t h t h e p o t e n t i a l t o t r a n s f o r m f i n a n c i a l s e r v i c e s e n t i r e l y . B y s e a m l e s s l y i n t e g r a t i n g a n i n t u i t i v e , u s e r - f r i e n d l y i n t e r f a c e w i t h c u t t i n g - e d g e A I , M o d e l M L i s e m p o w e r i n g f i n a n c i a l p r o f e s s i o n a l s t o w o r k s m a r t e r , e x t r a c t d e e p e r i n s i g h t s , a n d e n h a n c e e f f i c i e n c y . Sir Noel Quinn Former Group CEO of HSBC Free your brilliant mind Book a demo Free your brilliant mind Book a demo Free your brilliant mind Book a demo Product Workflows Grids Chat Document Review Notetaker Customers Investment Banking Consulting Private Equity & Credit Asset & Wealth Management Company About Us Careers Blog Legal Privacy Policy Terms of Service Cookie Policy New York West 38th St, New York San Francisco Market St, San Francisco London King's Cross, London Hong Kong Stanley St C",
+   "email_candidates": [
+    {
+     "email": "arnie@modelml.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Arnie Englander",
+     "role": "Founder"
+    },
+    {
+     "email": "chaz@modelml.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Chaz Englander",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

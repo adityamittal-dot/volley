@@ -1,0 +1,367 @@
+{
+ "leads": [
+  {
+   "id": "faee3a3a1d",
+   "company": "Orthogonal",
+   "website": "https://orthogonal.com",
+   "title": "Engineering (YC Winter 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. Agentic Payments for APIs APIs weren't built for agents. Orthogonal fixes that. We enable agentic payments so any agent can instantly discover, access, and pay for hundreds of APIs. No subscriptions, no sales calls, just pay per use. API providers list once and get paid every time an agent calls their API. B2B, Infrastructure, United States of America, America / Canada",
+   "site_text": "[https://www.orthogonal.com/]\nOrthogonal | Tools and live data for AI agents Skip to content 🎉 We raised $4.3M led by Pantera Capital Read more → Backed by Combinator Orthogonal Get started 60+ providers · 1,000+ API endpoints Give your agent tools and live data. Connect through our unified API, MCP server, or CLI. Paste this into your coding agent setup https://orthogonal.com/skill.md Copy Claude Code Codex Cursor OpenClaw Get an API key Agent signup What will your agent do? Available through Orthogonal Web search 12 Scraping 15 Enrichment 27 Agent actions 6 Market & social data 16 Recently added 4 Showing 12 APIs for Web search . Linkup Web search & page content Olostep Web research & scraping Serper Google search results ScrapeGraphAI Web search & scraping Crustdata Company data & web research TinyFish Web search & automation Tavily Search, extract & crawl Seltz Search with page content Andi Search AI web search Massive Web Search & render websites Riveter Web research agents Context.dev Web search, data & branding One account gives you access to all 60+ providers. Browse all Used by Breaknine for investor research 622 company updates from 233 source domains in the first two weeks of their workflow. Read their story How it works Your agent’s gateway for all your tools. Your agent finds the API it needs and calls it through Orthogonal. We handle the provider accounts, authentication, and billing. Your agent API / MCP / CLI Orthogonal One key for your tools 60+ providers Search, data, and actions 01 Find the right API Describe the task. Your agent can search the catalog for matching endpoints. 02 Check the details Read the endpoint’s inputs and price. Get a quote when pricing depends on the request. 03 Make the call Run the request with your Orthogonal key. Usage comes from your shared balance. For developers Add to your product. Use our unified API to add tools and live data to your app. Use the same key and balance across providers. Unified API For your app or agent backend Make your first API call Look up a company by its domain. This request uses Apollo to return its industry, headcount, funding, and other company details. Get an API key API quickstart Copy curl https://api.orthogonal.com/v1/run \\ -H \"Authorization: Bearer $ORTHOGONAL_API_KEY \" \\ -H 'Content-Type: application/json' \\ -d ' { \"api\" : \"apollo\" , \"path\" : \"/api/v1/organizations/enrich\" , \"query\" : { \"domain\" : \"apple.com\" } } ' Pay as you go Pay for what you need. Add credits in dollars with your card and use them across providers. Agents can also pay through x402, MPP, or Nanopayments. See endpoint pricing One account Use the catalog without separate provider signups. One balance Credits work across all providers in the catalog. Prices before you call Check the endpoint price or request a quote. With Coinbase on agent commerce How agents discover APIs, check prices, and pay for calls through x402. Read the article What our customers say “ Orthogonal lets our agents leverage dozens of providers through a single unified API. Orthogonal handles the integrations, routing, and billing out of the box. It's the backbone of how we give our agents high quality context at enterprise scale. ” Michael Alfano Founder & CEO, Nexio “ In a world where everything is about agents and APIs are king, Orthogonal provides unbeatable value for teams who want to remain on the bleeding edge of what's possible. ” Jack Perales GTM Engineer “ Completely see the potential here…just plug Orthogonal in with a Claude bot + one API key and it's off to the races. ” Joseph McAllister Cofounder & CTO, MouseCat (YC W26) “ Orthogonal is one of the highest-leverage tools in our GTM stack. It gives us a clean API for the account and prospect data our team needs, instead of forcing us to stitch together tools, UIs, and Clay tables. It has made our agent-native GTM workflows faster, cleaner, and meaningfully more effective. ” Chirag Kulkarni Cofounder & CEO, Hobbes “ Orthogonal is an AI-native build",
+   "email_candidates": [
+    {
+     "email": "founders@orthogonal.com",
+     "where": "https://www.orthogonal.com/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "fc18d42697",
+   "company": "Guardian RF",
+   "website": "https://guardianrf.com/",
+   "title": "Engineering (YC Summer 2024)",
+   "location": "Washington, DC, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. Drone detection for US defense and national security The rise of low-cost commercial drones has introduced a new class of asymmetric threats to U.S. national security. Off-the-shelf platforms now deliver ISR, contraband, or payloads with precision, while operating below radar coverage and beyond line-of-sight. These systems—often costing under $1,000—are capable of neutralizing multi-million-dollar defense assets. For drone detection to be viable at scale, sensors must achieve cost parity with the threat. In response, the Department of Defense established multiple initiatives to counter the rapid proliferation of uncrewed aerial systems. The Joint Counter-small UAS Office (JCO) coordinates policy and acquisition across services. The Base Defense Cross-Functional Team enables persistent perimeter security for CONUS and OCONUS installations. Falcon Peak, Red Sands, and related exercises are accelerating deployment of counter-UAS technologies in complex environments. This threat is no longer exclusive to military operations overseas. It now directly targets the U.S. homeland. In 2025, an executive order designated the protection of American airspace sovereignty a national priority, recognizing that uncrewed systems present both surveillance and kinetic risks within the United States. That same year, a domestic extremist plotted to destroy a Tennessee power substation using a drone rigged with C-4 explosives—a plan disrupted by undercover federal agents. In July 2025, an unauthorized drone collided with a rescue helicopter during disaster response operations in Kerr County, Texas, forcing an emergency landing and halting flood relief efforts. These are not isolated incidents—they reflect a broader shift in drone-enabled threats against homeland infrastructure and public safety. Guardian RF builds passive, radiofrequency-based drone detection systems for force protection and critical infrastructure defense inside the United States. Our systems are fielded ",
+   "site_text": "[https://www.guardianrf.com/]\nGuardian RF | Persistent Airspace Intelligence Guardian RF Request Demo 40 MHZ / 6 GHZ 360° PASSIVE COVERAGE EMISSIONS: NONE FULL SPECTRUM · FIELD DEPLOYMENT Guardian RF Radiofrequency drone intelligence. Persistent visibility into low-altitude airspace. Passive RF sensors that detect drones and geolocate their pilots, with no emissions and no infrastructure burden. Request a demo See the hardware PASSIVE RF SENSING NO EMISSIONS DRONE PILOT GEOLOCATION 40 MHZ – 6 GHZ PERSISTENT COVERAGE EDGE PROCESSING 60-SECOND DEPLOYMENT LTE / LEO BACKHAUL PASSIVE RF SENSING NO EMISSIONS DRONE PILOT GEOLOCATION 40 MHZ – 6 GHZ PERSISTENT COVERAGE EDGE PROCESSING 60-SECOND DEPLOYMENT LTE / LEO BACKHAUL 01 The problem Low-altitude airspace has become a routine security gap for campuses, utilities, and public safety agencies. Drones give anyone cheap access to surveillance, perimeter testing, and unauthorized overflight of sensitive locations. Most organizations have mature ground security , and limited airspace accountability. Utilities Deployed across electric utility, LNG, and gas infrastructure Distributed Recurring coverage across distributed site portfolios 4–5 km Fixed-site detection range in dense urban terrain Passive No emissions. No infrastructure burden. 02 The platform Intelligence platform Detect suspicious drones and their pilots in real time. 03 Hardware Full lineup Scout Passive RF detection, anywhere in 60 seconds. Portable passive RF sensor for COTS and GOTS drones. Sub-10W power draw, LTE or LEO backhaul, mounts to poles, vehicles, and rooftops. Detects, classifies, and geolocates aircraft and drone pilots in real time. Scout-X Persistent, wide-area detection. Fixed-site sensor for rooftop and mast deployment. Weatherproof, wired, and built to run unattended for months, with integrated mesh networking that extends coverage across distributed sites. Full Spectrum Wideband detection for improvised and home-built threats. Wideband SDR for improvised, analog, and home-built FPV systems. Enables signal fingerprinting and attribution across telemetry, control, and video links. 04 Where we operate 01 Defense & National Security Protect installations and high-value assets with continuous, passive RF sensing that provides attribution without revealing posture. 02 Law Enforcement & Public Safety Enable state and local agencies to observe, document, and understand drone activity across jurisdictions. 03 Education & Campus Safety Give campus safety teams persistent visibility into drone activity over students, events, and facilities. 04 Critical Infrastructure & Energy Provide continuous airspace awareness around the assets that keep society running. 05 Aviation & Emergency Response Support safe operations around airports, heliports, and emergency corridors with persistent drone awareness. 06 Stadiums & Major Events Deliver scalable drone detection for environments where density, visibility, and speed matter. Fielded where it matters. 01 Defense & National Security 02 Critical Infrastructure & Energy 03 Law Enforcement & Public Safety 04 Education & Campus Safety Customer and unit marks are shown for identification of serviced organizations only. Their appearance does not constitute or imply endorsement by any organization, agency, or the United States government. 05 Signals CASE STUDY Baylor locates a drone operator in under five minutes at McLane Stadium USNORTHCOM Winner, DIU Low-Cost Sensing Challenge at Falcon Peak 25.2 AFWERX Phase II SBIR supporting airspace awareness at Vandenberg SFB FORBES Guardian RF founders named to the Forbes 30 Under 30 list POLICY The SAFER SKIES Act, explained Get started Start with one site. Scale across a portfolio. Guardian RF deploys in minutes and stays online for months, building the airspace picture your team can act on. Request a demo\n\n[https://www.guardianrf.com/contact]\nGuardian RF | Persistent Airspace Intelligence Guardian RF Request Demo Contact Get in touch Rea",
+   "email_candidates": [
+    {
+     "email": "contact@guardianrf.com",
+     "where": "https://www.guardianrf.com/contact",
+     "kind": "generic"
+    },
+    {
+     "email": "lucas@guardianrf.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Lucas Raskin",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "john@guardianrf.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "John Andrzejewski",
+     "role": "Founder/COO"
+    },
+    {
+     "email": "eli@guardianrf.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Eli Kerstein",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "fe6c4db717",
+   "company": "Salus",
+   "website": "https://www.usesalus.ai/",
+   "title": "Engineering (YC Winter 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. Guardrails to validate your agent's actions before they execute Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that. We’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. Artificial Intelligence, Developer Tools, B2B, API, Infrastructure, B2B, Infrastructure, United States of America, America / Canada",
+   "site_text": "[https://www.usesalus.ai/]\nSalus — Runtime authorization for AI agents Skip to content San Francisco Salus . Get started ◐ Runtime authorization for AI agents Agents that act, safely. Put agents in production without losing control. Salus checks policy, evidence, and intent at runtime, returns exact fixes to the agent, and stops wrong actions before they become real. Get started → Watch the 59-second demo Product demo · 59 seconds Watch Salus stop the wrong action before it becomes real. A stale booking is held before execution, repaired with live evidence, and completed at the verified price. Recorded in the Salus product 00:59 Your browser cannot play this video. Open the demo directly. CC See it on one of your workflows → See a real action caught, corrected, and completed. 01 · Attempt The agent relies on old information. It proposes a booking using the $299 itinerary saved earlier in the conversation. Proposed action book_reservation $299 02 · Hold Salus stops the action. The booking never reaches the airline. Live availability and the current total were never verified. Stopped at runtime Airline untouched Missing live evidence 03 · Repair The agent fixes the problem. Salus returns the exact missing step. The agent searches live inventory and discovers the new $375 price. Exact correction Search live inventory $299 $375 04 · Execute The corrected action executes. The customer confirms the new price. Salus verifies the evidence, the booking runs, and a receipt is created. Executed after correction Reservation HATHAT Receipt created Agent Booking assistant Saved itinerary Salus Runtime boundary Real system Airline No change yet Reservation created book_reservation $299 $375 Exact correction Search live inventory Proposed from saved context DTW → PHX → SEA Snapshot total $299 Stopped at runtime Live availability missing The airline remains untouched. Agent follows the correction HAT097 · $175 HAT251 · $200 $299 $375 Executed after correction Reservation HATHAT Evidence verified · receipt created The problem Authorized does not mean correct. Agents can have valid credentials, valid permissions, and perfectly formed tool calls and still take the wrong action. Salus controls the final step between intent and execution. 53% of organizations have already had an agent exceed its permissions. What Salus does Prevent. Repair. Prove. 01 · Prevent Stop the wrong action before it reaches the provider. Salus holds unsupported writes before your backend performs them. Execution status Provider not called provider_called: false 02 · Repair Give the agent the exact correction it needs. Fixable actions return with the missing evidence and the next step. Structured recovery Search live inventory missing: live_available_itinerary 03 · Prove Prove every decision. See the policy, evidence, timing, verdict, and execution result. Decision receipt Allowed · HATHAT provider_called: true Integration Works with the stack you already use. Python · Tool executor Copy from salus import Salus salus = Salus() # do_refund is your existing tool implementation. issue_refund = salus.protect( \"issue_refund\", do_refund, side_effect=True, risk=\"high\", ) Protect the tool that performs the write. Keep your model, agent loop, framework, and backend unchanged. Works with OpenAI · Anthropic · LangChain · LangGraph · CrewAI · AutoGen · Vapi · Retell · MCP Read the quickstart → All integrations → Measured results Safer actions. Better outcomes. −70.6% Fewer policy failures τ²-bench +40.4% More compliant completions τ²-bench −20.5% Lower agent-model spend per successful task CarBench Get started Trust your agents with real work. Start with one action that matters. Salus stops wrong actions, tells the agent exactly how to fix them, and sends only real judgment calls to your team. Get started → founders@usesalus.ai ❦\n\n[https://usesalus.ai/team]\nTeam — The people building Salus Skip to content San Francisco Salus . Get started ◐ Team Founder & CEO Vedant Singh. Vedant found",
+   "email_candidates": [
+    {
+     "email": "founders@usesalus.ai",
+     "where": "https://www.usesalus.ai/",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "c3c5d0d138",
+   "company": "Zaymo",
+   "website": "https://zaymo.com",
+   "title": "AI Engineer",
+   "location": "Lehi, UT, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: AI Engineer (Lehi, UT, US; experience: Any (new grads ok); US citizen/visa only). Team size: 19. Tools for AI agents to run marketing for the world's biggest… Zaymo builds the tools AI agents use to do marketing, for the largest ecommerce brands in the world. ~500 brands, including Grüns, Harry's, AG1 and Liquid I.V. (Unilever), run on Zaymo. Our wedge is interactive email. We made emails work like websites: shoppers buy, swap or skip a subscription without leaving the inbox. It closes 75%+ of the brands we pitch and put us inside the email programs of hundreds of the best brands in ecommerce. Now we're building the agents that run those programs. Brands pay agencies ~$70k a year to run email, and the good ones run one or two tests a month. Our agents audit the program, write and design on-brand campaigns, QA them, and run hundreds of experiments optimized for profit, not just revenue, with an expert human owning the outcome. We build for the agent a marketer already uses (Claude, via MCP), not yet another chatbot. $5M ARR, 5x'ing this year, consistently cash-flow positive. E-commerce, Marketing, Email, AI, B2B, Marketing, United States of America, America / Canada",
+   "site_text": "[https://www.zaymo.com/]\nZaymo — Interactive emails that convert One-click conversions in email Let your customers buy, review, and manage subscriptions without leaving the email Get started for free Book a demo Subscriptions Products Forms Reviews Case study Case study Case study Case study There's a block for that Zaymo's interactive blocks are mini-apps that connect your marketing stack to your existing email templates How does it work? You pick from a library of ready-made blocks and add them to your existing email templates with no code. Tweak every pixel, or let AI style to match Join the Zaymo newsletter Brands that switched to interactive emails Nutrition & Supplements Health & Wellness Skincare Coffee & Beverages Apparel & Fashion Sep 16, 2026 Ruff Greens cuts subscriber cancellations 15.8% with Zaymo By embedding Zaymo's subscription portal into its Klaviyo billing reminder, Ruff Greens turned the email it used to fear into its strongest retention moment — cutting cancellations 15.8% in a controlled A/B test across 31,065 subscribers at p=.012. Aug 25, 2026 New Standard Co lifts Ultra's email click rate 22% with Zaymo's Inbox Booster By turning on Zaymo's Inbox Booster across Ultra's Klaviyo program, New Standard Co lifted click rate 22% and open rate 23%, measured against a holdout control and reported the same way Klaviyo counts opens. Aug 12, 2026 Heights collects 1,000+ reviews in a single quarter with in-email review capture By replacing star-rating click-throughs with Zaymo's in-email review form, Heights blew past its quarterly target of growing from 2,000 to 3,000 reviews — collecting more than 1,000 new reviews without sending a single customer to a landing page. See more Frequently asked questions Have more questions? Reach out to sales@zaymo.com How do interactive emails work? Interactive emails let people take action right inside the message, the same things they'd normally do on a website, without ever clicking out: buy a product, swap a subscription, leave a review, update an order. They run on AMP for email or advanced HTML/CSS depending on the inbox. And the actions are real, not just clicks. On average, brands who use Zaymo's interactive emails see: 20% churn reduction, leading to an 8% lift in LTV. 40% reactivation lift. 50% subscriber up-sell lift. 83% lift in subscriber cross-sells. 40% lift in reviews. What is AMP? AMP for email is an open code framework, originally built by Google, that lets an email behave like a webpage inside supported inboxes like Gmail and Yahoo. It's what powers clicking, swapping, and submitting without leaving the message. AMP isn't the only route to interactivity. Zaymo also builds with advanced HTML/CSS, so subscribers in inboxes that don't support AMP, like Apple Mail, still get an interactive experience rather than a flat one. The exact mix of interactive features can vary by inbox, and every subscriber sees a polished version of the email regardless. Does Zaymo work in all inboxes? Every inbox gets a well-designed email. The fully interactive version renders in Gmail, Yahoo, and Apple Mail, which together cover the large majority of consumer email opens. Inboxes that don't allow interactive content, like Outlook, automatically get a graceful fallback: a clean static version of the same email, never a broken one. Subscribers see something polished wherever they open. Does Zaymo replace my email service provider (ESP)? No. Zaymo is a design tool that works alongside the ESP you already use, including Klaviyo. In almost every case you build the email in Zaymo and send it through your existing ESP, so nothing about your current setup has to change. For a few specific flows, like review collection or upcoming-order notifications, Zaymo can handle the send directly if you'd rather it did. How do I manage customer subscriptions through email without sending them to another page? Zaymo brings the subscription portal into the email. Subscribers swap products, delay a shipmen",
+   "email_candidates": [
+    {
+     "email": "brice@zaymo.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Brice Douglas",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "daniel@zaymo.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Daniel Jones",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "a7a426ba4e",
+   "company": "Corvera",
+   "website": "https://corvera.ai/",
+   "title": "Engineering (YC Winter 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 4. The AI sales agent for CPG brands Corvera (YC W26) is the AI sales agent for CPG brands. We turn the data a brand already has into the actions its sales team takes today. A CPG brand sells into tens of thousands of independent US stores through dozens of distributors, and works that base with a handful of people. CLEAN Cause, a $20M yerba mate brand, covers 21,000 stores through 46 distributors with a four-person sales team. The accounts worth a call are not capped by headcount. The team is. CLEAN Cause now runs its daily sales decisions on Corvera: 5,000 queries in 40 days across 12 users, $250K of opportunities surfaced within days, and a 7x return on the analysts they would otherwise hire. With Corvera in place, every sales rep starts the morning with: - The stores to act on today, ranked and priced, with the reason on the row, - The outreach already drafted to the right contact at the right distributor, and - The follow-up booked, logged, and measured against the goal it was set to move. All from the distributor feeds, retailer portals, and ERP data they already have, resolved into one context layer - without a data team, and without handing their sales to a broker. We’re founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS). To date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP is US CPG brands doing $20M+ in retail revenue through UNFI, KeHE and DSD distributors. We sell to VPs of Sales and CEOs. The incumbents prove the scale. Brokers take 5-12% of a $350B US independent grocery market, and Advantage Solutions, a publicly traded company, does $3.5B in annual revenue. Our mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people. Our vision is even bolder: to give every CPG brand the cov",
+   "site_text": "[https://corvera.ai/]\nCorvera | The AI sales agent for CPG brands Login Schedule demo Login Schedule demo Backed by Y Combinator The AI sales agent for CPG brands. All your distributor and retailer data in one place, ranked into what your sales team should do today. Schedule demo Trusted by leading CPG brands Distributor and retailer data in. Ranked sales actions out. Three steps from raw feeds to a ranked list, with one governed source of truth underneath. STEP 1 Connect your sources Distributor depletions, retailer portals, syndicated data and your ERP, plugged in as they are. STEP 2 Corvera ranks what is worth doing Every account scored and ordered by what it is worth, from one governed source of truth. STEP 3 Your team works the list Sales opens a ranked list each morning and calls the accounts that matter most. Any question about your accounts, answered Ask in plain English and get a list, a dashboard or a Monday email back, all read from one governed context layer. Ask about any account Find the accounts that slowed, the SKUs missing from shelves and the orders that shipped short. 3 accounts below their usual reorder Store 1042 · Natural grocer Skipped last order Store 2217 · Co-op market Ordering less Store 0386 · Independent Reorder overdue Reports in the right inbox Set a report up once and Corvera sends it every Monday at 9, so nobody rebuilds it by hand. Scheduled · every Monday, 9:00 Sales report generated Email sent to your inbox Any dashboard, in plain English Describe the cut you want, by channel, retailer or region, and get the dashboard back. Sell-through by channel · last 30 days 100% Grocery chains 42 % Mass retail 26 % Club stores 19 % E-commerce 13 % Accounts to call Distribution gaps Unsold accounts Know which accounts to call today Every account you already sell to, ranked by what it is worth this week, with the ask written. Accounts at risk Slowing, dormant and lost accounts, each priced by what it ordered before it went quiet. Account health · Ridgeline Distribution Active 412 Slowing 119 Dormant 80 Lost 53 23 stores went dormant this week Worth $3.5K if all stores reorder Fill-rate flags Cases shipped against cases ordered, by distributor warehouse, with every short shipment flagged. Fill rate 94% -3 pts Short Short-shipped 1 SKU -18 cases Shipped vs ordered · by warehouse This week W1 W2 W3 W4 W5 W6 Flagged today W3 stopped shipping Barista Oat 1L. Follow-up drafted. The morning brief Each rep gets their own ranked calls, quiet accounts and short shipments by email on a schedule, with the ask written. Morning brief · 7:00 0 of 4 6 calls ranked, ask attached 2 accounts gone quiet 1 short shipment flagged 3 new points of distribution Scheduled. Each rep gets their own accounts, nobody rebuilds a report. Sales intelligence on Corvera Core SKU coverage Which of your core SKUs each store carries, by chain, distributor and rep. Core SKU coverage · Jack's stores By rep Oat Drink Barista Chocolate Market St · 112 Market St · 207 Harborview · 31 Harborview · 44 Fieldstone · 18 Ordering Gap Jack's stores 10 of 15 core placements, 5 gaps ranked by size of prize Gaps ranked by size of prize Each missing SKU carries an estimated value from your depletions, so the biggest gaps get worked first. Size of prize · per year Ranked Harborview · 31 · Chocolate Oat 1L $3.1K Harborview · 44 · Oat Drink 1L $2.9K Market St · 112 · Oat Drink 1L $2.6K Market St · 207 · Barista Oat 1L $2.4K Fieldstone · 18 · Chocolate Oat 1L $1.9K How each gap is valued Estimated from distributor depletions The ask, drafted A note for the rep, the broker or the buyer, with the store list attached and ready to approve. Send the ask to Rep Broker Buyer To: Harborview Markets · buyer Chocolate Oat 1L in 6 of your stores It reorders weekly across your other stores and is missing from these six. Store list and sales evidence attached. 6 stores attached Approve In flight Buyer note · Harborview Markets Awaiting approval Store visits · Jack In progres",
+   "email_candidates": [
+    {
+     "email": "christopher@corvera.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Christopher Kong",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "dirk@corvera.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Dirk Breeuwer",
+     "role": "Founder/CTO"
+    },
+    {
+     "email": "matthew@corvera.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Matthew Collins",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "ea6e04c41f",
+   "company": "Zatanna",
+   "website": "https://www.zatanna.ai/",
+   "title": "Founding Engineer",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Founding Engineer (San Francisco, CA, US; experience: Any (new grads ok); US citizen/visa only). Team size: 2. Building the infrastructure for AI to interact with software Zatanna is building the infrastructure for AI to interact with software. AI agents are increasingly capable of performing work that was previously done by humans, but they're still constrained by software interfaces designed for people. Today, agents rely heavily on clicking buttons, navigating pages, and interacting with UIs to get things done. At Zatanna, we're changing that by reverse engineering applications to turn their underlying workflows and actions into reliable, read-and-write APIs, regardless of whether those applications offer APIs themselves. B2B, Engineering, Product and Design, United States of America, America / Canada",
+   "site_text": "[https://www.zatanna.ai/]\nAPIs for Any Software Portal | Zatanna Skip to content New Learn why APIs are the future Read the article â UIs are for humans, not agents APIs for any EHR Any portal becomes a fast, stable API your agents call in production â even the ones with no public API. No browser bots to babysit. 7,032,776,854 Modeled total requests processed since March 1, 2026, based on an average of 1.22 million requests per hour total requests processed Book a 15-min demo See how it works â Y Backed by Y Combinator Trusted by some of the fastest-growing startups in healthcare, logistics, hospitality, and more What we do The real API was always there. We just expose it. Capture the real API We observe the actual network traffic behind your portal workflows and reconstruct the exact request flow â auth, sessions, sequencing, everything. One stable endpoint Your agents call a single, clean API. We manage auth, retries, anti-bot detection, and session handling underneath. Milliseconds, not seconds Direct API calls instead of browser automation. No UI dependencies, no fragile selectors, no headless Chrome overhead. How we do it From one recorded workflow to a production API 01 Record Walk through the workflow once We capture every underlying network request â login flows, API calls, session tokens, and sequencing â while a human completes the task. 02 Generate Reconstruct the optimal request flow We model the real calls, auth behavior, retry logic, and edge cases. No UI layer involved. 03 Integrate Call one stable endpoint Your agents call a clean, parameterized API. We own the auth, retries, and maintenance below the surface. Reliability layer Self-maintaining by design Sessions expire. Portals update. Auth flows change. Zatanna detects when tools break and repairs them automatically â so you integrate once and treat workflows like stable infrastructure. Stateful auth & session management Request sequencing & replay Automatic retry & re-authentication Anti-bot & TLS fingerprint hardening Portal change detection & auto-repair Use cases Works with any portal that has a login If a human can reach it through a browser login, your agents can reach it through one API call. Back-office & ops portals ERP systems, freight carrier portals, insurance platforms, and internal tools with no public API Document & form workflows Claim submissions, permit applications, record lookups, and structured data entry at scale AI agent actions Agents that need to do real work in third-party software, not just read it Bring one blocked workflow. We'll turn it into a production API. Book a workflow review 30-minute working session FAQ Common questions How is this different from browser automation or computer use? + Browser automation renders full pages and clicks through UIs â it breaks when anything changes, is slow, and fails at scale. Zatanna works at the network layer. We reverse-engineer the underlying API calls behind any portal and deploy them as direct endpoints. That means milliseconds instead of seconds, structured data instead of scraped HTML, and integrations that don't break when a button moves. What does Zatanna do? + Zatanna reverse-engineers the network traffic behind any web portal and turns it into a stable, callable API. Walk through a workflow once â we capture the underlying request behavior and deploy it as an endpoint your agents can call in production. Can Zatanna handle MFA and login flows? + Yes. We handle stateful auth, MFA, cookie management, and session refresh automatically. Your agents call the API endpoint â we manage everything below the authentication layer. What if the portal changes? + We work at the API layer, so frontend changes like UI redesigns or layout updates rarely affect your integrations. When backend behavior does change, our observability layer detects it and we repair the integration automatically. How long does it take to get started? + Book a 30-minute workflow review. We walk the wo",
+   "email_candidates": [
+    {
+     "email": "tarun@zatanna.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Tarun Vedula",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "alex@zatanna.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Alex Blackwell",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "07e23cb82c",
+   "company": "Reason Machines",
+   "website": "https://reasonmachines.com",
+   "title": "Engineering Internship",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Engineering Internship (San Francisco, CA, US; experience: Any (new grads ok); US citizen/visa only). Team size: 2. Reason is the AI teammate for work and code. Reason is an AI teammate for work and code that runs autonomous cloud agents with a frontier harness on cost per task. It delivers the same performance with 22% lower costs than Codex. By operating with a harness outside the sandbox, it acts seamlessly across cloud computers and local devices. Reason runs work from start to finish: from an issue to a finished pull request, on a schedule, or from a Slack alert. It is available as a Mac app, on the web, from the CLI, in Slack, and through a REST API, with about 100 integrations and shareable skills. Bring your own keys and subscriptions, and work rolls over to the next one when limits are hit. Developer Tools, Enterprise Software, Cloud Computing, B2B, Productivity, United States of America, America / Canada",
+   "site_text": "[https://reasonmachines.com/]\nReason Machines: Make All Your AI Agents Work Together All your agents. One team. We built a frontier coding agent. Now it works with all your others. An improved upper bound for the Chvátal–Sankoff constant 10.27.26 Introducing Reason Agent 1.1 10.10.26 Reason Network: let your agents talk to each other 10.16.26 Use Reason on the web 9:41 Add a boost to the space game acme/space-game · Cloud Add a boost to the space game. Miso added the boost Juniper drew its fuel gauge Pixel played a full flight to test it Done. Both boosts fire in the asteroid belt. Here is the playtest. BOOST ▮▮ SOL 1-2 412 km/s Reply to Reason Sessions M Maya Acme Fix the double boost The double boost stopped working in the last build. Find out why and fix it. Miso reproduced it on the Sol 1-2 route Juniper traced the boost charge to the thrust check Pixel edited 2 files, added a double boost test Reason Fixed. The thrust check reset the boost charge every frame, so the second boost never fired. I flew the Sol 1-2 route to check it, and all 8 checks pass. BOOST ▮▮ SOL 1-2 412 km/s 0:24 Merged into main Reply, @ for context Claude Opus 5.5 Review Desktop Terminal Fix the double boost #212 Squash and merge Merged Open Merged fix-double-boost → main BOOST ▮▮ SOL 1-2 412 km/s Spends the boost charge only when a boost fires, so the second boost works again. Adds a test that boosts twice in a row on every route in Sol 1-2. src/ship/boost.rs + 24 − 9 src/physics/thrust.rs + 11 − 3 tests/double_boost.rs + 38 CHANGELOG.md + 2 8 checks passed reasonmachines.com AI spend dashboard Build a dashboard of our AI spend per employee, split by model. Read the billing export Wrote the spend query Built the chart Started the app on its computer Opened the dashboard Checked December against the export Reason The dashboard is live: $130,000 per employee this year, across two models. The recording is on the pull request. Reply, @ for context Claude Opus 5.5 Review Desktop Terminal localhost:3000/spend AI spend per employee Claude Opus 5.5 GPT-5.5 $130,000 per employee this year Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec December $11,900 $4,900 Reason Take control Search Acme Acme Channels # engineering # incidents # releases Direct messages Daniel Priya Sam Apps Reason # engineering 12 members Priya 10:12 AM Payments outage postmortem is up in #incidents. Sam 10:31 AM Nice. The retry fix shipped this morning too. Maya 10:42 AM @Reason can you put together the Q3 reliability review for Thursday? A deck, plus the raw incident data. 👀 1 3 replies Last reply today at 10:49 AM Message #engineering Thread # engineering Maya 10:42 AM @Reason can you put together the Q3 reliability review for Thursday? A deck, plus the raw incident data. 3 replies Reason APP 10:43 AM On it. Pulling July to September from the incident log and the uptime dashboards. Daniel 10:45 AM Can the payments outage get its own slide? Leadership will ask. Reason APP 10:49 AM Done: 12 slides, with the payments outage on its own. Uptime was 99.97%, and the data behind every chart is in the two CSVs. Q3 2026 Reliability review Q3-reliability-review.pptx PowerPoint · 12 slides incidents-q3.csv CSV · 41 rows uptime-by-service.csv CSV · 92 rows 🎉 2 Reply… Reason on mobile Start a task from your phone and check on it anywhere.\n\n[https://reasonmachines.com/blog/chvatal-sankoff-upper-bound]\nAn improved upper bound for the Chvátal–Sankoff constant | Reason Machines An improved upper bound for the Chvátal–Sankoff constant By The Reason Machines team 10.27.26 Take two random binary strings of length n. Their longest common subsequence, the longest string that appears in both in order, has length about γ₂·n. Chvátal and Sankoff proved in 1975 that this constant exists. 1 Its value is still unknown. In August 2026 Reason and Sven Myhre proved γ₂ ≤ 0.824443, improving 0.826280, Lueker’s bound that had stood since 2009. 2 The proof is a finite certificate: 400,253,317 positive integers satisfying",
+   "email_candidates": [
+    {
+     "email": "contact@reasonmachines.com",
+     "where": "https://reasonmachines.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "mail2adi@icloud.com",
+     "where": "YC profile · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Adi Singh",
+     "role": "Cofounder"
+    },
+    {
+     "email": "sven@reasonmachines.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sven Myhre",
+     "role": "Co-founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "07d4b99114",
+   "company": "Resquared",
+   "website": "http://re2.ai",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "Philadelphia, PA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 40. Marketing automation platform for selling to local businesses. Local businesses were the hardest B2B segment to reach, but account for over 60% firms in the U.S. Our SaaS application has data on every local business that are easy to get in touch with using our specialized marketing automation tools and workflows. Resquared has been proven to save sales pro's over 3 hours per day and result in 53% stronger leads (case study on website). SaaS, B2B, Sales, Proptech, Marketing, B2B, Marketing, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://re2.ai/]\nResquared: The AI platform for selling to local businesses Log in Get a demo 💎 The #1 local-business platform The AI platform for selling to local businesses 14M+ verified local businesses, AI-handwritten outreach that learns from every campaign and a built-in email delivery system. All in one tool. Book a demo 30-min personalized walkthrough · ⭐⭐⭐⭐⭐ 4.9 on Product Hunt Trusted by 2,000+ teams selling to local businesses CBRE Brookfield Macerich Regency Centers Atlantic Retail DLC Tricor Rise Local Purciarele Group SVR Commercial Lamar Companies Perlmutter CBRE Brookfield Macerich Regency Centers Atlantic Retail DLC Tricor Rise Local Purciarele Group SVR Commercial Lamar Companies Perlmutter Why choose Resquared? Run outbound for local businesses with data, AI, and infrastructure built to scale, not break. Find the right businesses Filter by location, radius, category, and business attributes to connect with exactly who you want. No manual list building needed. Send at scale, safely Run campaigns on shared domains we've already warmed up and manage for you. No setup, no domain headaches, no deliverability worries. AI that learns from you Your AI gets smarter the more you use it. It studies your audience, sharpens your messaging, and improves results with every campaign. 14M businesses ready to get into your pipeline. Less than 10% of the local businesses you want to reach out to are on LinkedIn. Resquared has data on all of them. ✓ Access verified contact emails and phone numbers ✓ Filter by niche, location, and business size ✓ Hyper-personalized AI messages that get replies ✓ No domain headaches. Fully managed, pre-warmed domains keep your campaigns landing in inboxes. Resquared Database 14M+ verified Coffee shops, salons, boutiques, restaurants, every Main Street business 🔓 12.6M businesses unlocked that you couldn’t reach out to using other tools The platform Everything you need to reach Main Street From the first business found to the deal closed. AI gets campaigns running, learns from it, and gets you leads. 🗄️ Database ✉️ Prospecting 🧠 AI Learning 📈 Analytics 🛡️ Infrastructure 🗄️ Local Business Database Data on over 14 million local businesses: coffee shops, boutiques, salons, restaurants, gyms. Updated daily so you connect directly with the owner. ✓ Verified emails & phone numbers ✓ Filter by niche, ZIP code, business size ✓ Refreshed weekly Learn more about Database Search results 14,237 matches R Ritual Coffee Coffee · SF ✓ Verified H Heath Ceramics Boutique · Sausalito ✓ Verified T Tartine Bakery · SF ✓ Verified E Edo Salon Salon · SF ✓ Verified F Foreign Cinema Restaurant · SF ✓ Verified Who uses Resquared Built for everyone selling to brick-and-mortar If you need to reach out to local businesses, Resquared is the perfect solution for you. Used across every industry that sells into Main Street. See if it fits your team 🏢 Commercial Real Estate 🏬 Retail Leasing 🤝 Business Brokers 📦 Suppliers & Distributors 🏦 Financial Services 🛠️ Service Businesses 📺 Media Outlets 🛡️ Insurance Agencies 💻 Service & Tech Providers 📣 Marketing & Advertising Customer love The teams winning with outbound use Resquared From coast to coast, brokers, agencies, and SaaS teams use Resquared to reach the businesses LinkedIn forgot. Here’s what they say. ★★★★★ “ I just love your platform. I literally set up my whole week in 30 minutes. And I just let it send. It's awesome. ” Joe Knopp Founder · Quiet Box ★★★★★ “ We just had our best sales month ever, and I need to thank Resquared. We've seen 20-30% growth compared to the previous month, all thanks to using their prospecting tool to find great local businesses to work with. ” Mike Stewart Founder · Rise Local Marketing ★★★★★ “ Resquared has blown me away. I've been able to target and contact more prospects this first week than I ever imagined possible. My odds have just increased dramatically and I will easily reach more tenants this year than any of my previous 30 years in this",
+   "email_candidates": [
+    {
+     "email": "griffin@re2.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Griffin Morris",
+     "role": "Founder"
+    },
+    {
+     "email": "tyler@re2.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Tyler Carlson",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "0850a71575",
+   "company": "Blissway",
+   "website": "https://www.blissway.com/",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "Denver, CO, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 22. The tolling industry’s prime tech infrastructure Hardware, Machine Learning, SaaS, IoT, Transportation, Government, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.blissway.com/]\nBlissway The Future of Highways Has Arrived scroll down to learn more Today’s roadside toll collection architecture consists of gantries over highways and windshield transponders in vehicles, a legacy system that is Not Anymore Blissway flips this industry ratio by eschewing gantries and transponders for small brainy devices at the side of the road – Wireless Autonomous Lane Enforcers (WAL-Es) – and large-scale cloud data analytics WAL-E Wireless Autonomous Lane Enforcer 0 The Tolling Revolution in Four Steps 1 2 3 4 STEP 1 PERFORMANCE Guaranteed to perform at or better than existing roadside toll collection systems Tolling & Safety Products Multi-Lane and Vehicle Classification AET Express & HOV Lanes + Occupancy Verification Commercial Back Office Interim Tolling & Disaster Recovery Point-to-point Speed Enforcement If your agency has a pain point, let’s talk hello@blissway.com Denver, CO © 2026 Blissway Inc.",
+   "email_candidates": [
+    {
+     "email": "hello@blissway.com",
+     "where": "https://www.blissway.com/",
+     "kind": "generic"
+    },
+    {
+     "email": "francisco@blissway.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Francisco Torrealba",
+     "role": "Founder"
+    },
+    {
+     "email": "felipe@blissway.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Felipe Kettlun",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "0ec20fc84d",
+   "company": "GrowthBook",
+   "website": "https://www.growthbook.io",
+   "title": "Engineering (YC Winter 2022)",
+   "location": "San Francisco, CA, USA; Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 46. Open source feature flagging and A/B testing GrowthBook is an open source platform to help companies make data-driven product decisions with feature flags and A/B tests. Existing SaaS solutions like LaunchDarkly require a company to send all of their data to them. This results in high costs, data compliance issues, and vendor lock-in. As a result, many companies end up building their own platforms in-house, which can take thousands of hours of work and lots of headaches. To solve this, GrowthBook uses a company's existing data infrastructure and business metrics. We believe feature flags and experimentation are the right way to build products at scale and that they will become a standard part of the development process. GrowthBook is well positioned to be a leader in this growing market. Developer Tools, B2B, Analytics, Open Source, B2B, Analytics, United States of America, America / Canada, Remote, Fully Remote",
+   "site_text": "[https://www.growthbook.io/]\nGrowthBook | Experimentation, Feature Flags & Product Analytics Platform Live Group Demo | Led by a GrowthBook technical expert → Choose Your Date - Sign In Book a Demo Start for Free Build smarter. Ship safely. Grow at the speed of AI. The warehouse-native platform used by modern product teams for experimentation, feature flags, and product analytics. Book a Demo Start for Free Experimentation Feature Flags Product Analytics Trusted by 4,000+ companies worldwide One platform for your team and your agents Experimentation Faster results, bigger impact Trusted by the world's leading data science teams, GrowthBook is built for your teams and agents to run rigorous tests at scale and learn faster. Explore Experimentation Feature Flag Management Ship fast with a safety net AI coding tools let your team (and agents) ship faster than ever. With auto-rollbacks and ramp schedules with guardrails, GrowthBook ensures you can still sleep at night. Explore Feature Flags Product Analytics Turn data into insights for growth GrowthBook connects to all your product data, so your team can understand user behavior, track trends, and identify opportunities. Ask our AI Analyst or explore your data with your agents. Explore Product Analytics Teams shipping today at the speed of AI Read Customer Stories Dropbox uses GrowthBook to safely drive AI product development 3 billion feature evaluations daily Read the Story How the Wikimedia Foundation scaled experimentation for 15B+ monthly page views +30% account creation Read the Story Breeze Airways scales testing, avoids mistakes, and unlocks millions $1MM+ incremental monthly revenue Read the Story The Philadelphia Inquirer scales experimentation across the organization +126% premium subscriptions Read the Story TodayTix Scales Poster Experimentation and Lifts Show Page Views Up to 24% 24% Page view lift Read the Story Khan Academy uses GrowthBook to improve AI tutoring +6.1% correctness Read the Story Oda Built a Faster, Smarter Experimentation Practice 400+ experiments run Read the Story Lingokids advances monetization experimentation 3.5M+ customers benefiting from tests Read the Story How Fyxer used AI-powered experimentation to grow from $1M to $35M ARR 5% to 35% paid conversion Read the Story 1T+ Feature flag lookups per day 5x More experiments 1/2 The cost of other solutions GrowthBook Cloud Instant updates, low maintenance, and warehouse-native. Start for Free Self-Hosted GrowthBook Same features, same product, 100% on your cloud or on prem. Download Now Seamlessly integrates with your stack Built by engineers for engineers to adapt to any workflow or tech stack. View All Integrations Why product teams prefer GrowthBook Why GrowthBook For Engineers For Data Teams For Product Managers Built for AI-native development Warehouse-native architecture Open source and transparent Self-hosted option for total control Powerful & flexible statistical model Easy to integrate with ultra lightweight SDKs Automatically add flags to new features Real-time debugging and more dev tools Developer-friendly and collaborative MCP Server and REST API for any AI agent Adapt GrowthBook for any tool or workflow Define metrics in SQL on your data warehouse Set guardrails for consistency & scale Scale to thousands of experiments per year Powerful and flexible statistical model Enable self-serve data explorations Run thousands of experiments Control feature rollouts without engineering Uncover opportunities with product analytics Share real-time experiment dashboards Use AI Data Analyst to ask questions Speed and scale at half the cost GrowthBook low-latency feature flags, high-velocity experimentation, and warehouse-native analytics scale with every team, every agent, every release. Plans & Pricing The latest uplift Releases GrowthBook 5.1: Learn faster with a new MCP server, Slack app, and contextual bandits MCP server, Slack app, and contextual bandits Guides Why migrate from Statsig to Grow",
+   "email_candidates": [
+    {
+     "email": "chant.kevin@yahoo.com",
+     "where": "GitHub commits (growthbook)",
+     "kind": "personal",
+     "name": "Kevin-Chant",
+     "commits": 40
+    },
+    {
+     "email": "ahdriel@gmail.com",
+     "where": "GitHub commits (growthbook)",
+     "kind": "personal",
+     "name": "Adriel Vieira",
+     "commits": 6
+    },
+    {
+     "email": "jeremy@growthbook.io",
+     "where": "GitHub commits (growthbook)",
+     "kind": "personal",
+     "name": "Jeremy Dorn",
+     "commits": 5
+    },
+    {
+     "email": "bryce@growthbook.io",
+     "where": "GitHub commits (growthbook)",
+     "kind": "personal",
+     "name": "Bryce",
+     "commits": 2
+    },
+    {
+     "email": "nhat@growthbook.io",
+     "where": "GitHub commits (growthbook)",
+     "kind": "personal",
+     "name": "nhat-growthbook",
+     "commits": 1
+    },
+    {
+     "email": "andywhite441@gmail.com",
+     "where": "GitHub commits (growthbook)",
+     "kind": "personal",
+     "name": "Andy White",
+     "commits": 7
+    },
+    {
+     "email": "alli@growthbook.io",
+     "where": "GitHub commits (growthbook)",
+     "kind": "personal",
+     "name": "Allison Leong",
+     "commits": 1
+    },
+    {
+     "email": "michael@growthbook.io",
+     "where": "GitHub commits (growthbook)",
+     "kind": "personal",
+     "name": "Michael Knowlton",
+     "commits": 1
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

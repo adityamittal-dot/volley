@@ -1,0 +1,289 @@
+{
+ "leads": [
+  {
+   "id": "6d1e39a10f",
+   "company": "Bree",
+   "website": "https://www.trybree.com/",
+   "title": "Software Engineer, Mobile",
+   "location": "Vancouver, BC, Canada",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Software Engineer, Mobile (Toronto, ON, CA / Remote (CA); experience: Any (new grads ok); US citizen/visa only). Team size: 2. Chime for Canada, starting with cash advances Bree is building a challenger bank for the 11 million Canadians living paycheck to paycheck, starting with interest-free cash advances. We make money through tips and an optional, same-day express fee. By solving our customers' most urgent problem—illiquidity between paychecks —our cash advance business is a cheap, but profitable and repeatable hook that builds distribution for a broader challenger bank. This represents a $9 billion revenue opportunity in Canada. Fintech, Fintech, Consumer Finance, Canada, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.trybree.com/]\nBree | Instant Cash Advance Canada – Get Up to $750 Join Bree Today Get Started Trustpilot Join Bree Today Get Started Trustpilot Short on cash? We’re here to help. Access up to a $750 line of credit to prevent overdraft. No interest or fees. Join Bree Trustpilot Loved by more than 800,000 Canadians Trustpilot See More Reviews Pay us back on your own schedule Access funds from your line of credit today, and then pay us back when you can. No interest and no fees We're serious - there are no surprises with our line of credit. Just tip us, like a waiter, if we helped. It helps us keep this service going so people don't resort to scummy payday lenders. Our only interest is your best interest Our mission at Bree is to help Canadians like you move towards financial wellness. Through our budgeting tool and a weekly newsletter, we want you to take charge of your finances. Join Bree Benefits of joining the Bree family We’re here to help No Fees Get overdraft protection with no mandatory fees or interest payments. Pay When You Can No fixed terms. Pay us back when when you can, not when you can't. Fast & Easy Sign up and apply for a line of credit within minutes. Get approved today. Bree is Community Supported Choose what you pay With Bree, there are no mandatory fees or interest payments when you apply for a line of credit. You choose what you want to tip. This is a radical change from payday lenders that keep you trapped in debt with higher interest rates. Pay it forward The world is a better place when we help each other out. By tipping a little extra when you can, you help keep Bree running for everyone going through hard times, instead of forcing them to borrow money from expensive financial institutions. Join Bree Join thousands of Canadians who have received financing from us. Our customers are our number one priority. See reviews from real customers below to see what Canadians are saying about their experience with Bree. See All Reviews Avril Sebastien Kailey John Jemmie Dustin Chrys Ashley About Blog FAQ Log In Sign Up Trustpilot * Each draw on your Bree line of credit has a repayment term of up to 90 days from the date it is issued. You can repay early at any time at no additional cost. If you need to adjust your repayment date within that term, you may contact our customer support team. ** Bree charges no interest and no mandatory fees on draws, so the APR is 0%. APR refers to the annual cost of borrowing, including interest and fees. However, we do not mandate any fees or interest charges, making our maximum APR 0%. Optional services, such as instant delivery, are clearly priced and disclosed before you confirm a draw. *** To illustrate an example, if you were to receive a line of credit of $100 for a term of 90 days, under our terms, you would be obligated to repay exactly $100 if standard delivery was selected. There would be no additional fees or interest charged on this amount. In this example, on a $100 draw for 90 days, the interest rate is 0%, the total cost of borrowing is $0, with a total payback of $100, and an APR of 0%. ‍ Optional membership: Bree Technologies offers an optional membership for CA$2.99/month after a 1-month free trial, billed monthly until cancelled. Membership provides access to Bree's financial insights and budgeting tools. It is not required to apply for or receive a line of credit, and it can be cancelled at any time.Bree Technologies is currently not accepting new customers in Quebec, Saskatchewan, Nova Scotia, or New Brunswick. By using this website and the mobile application, you accept our Terms of Use and Privacy Policy. © 2026 Bree Technologies Ltd. All rights reserved. Privacy Policy Terms of Use English (Canada) French (Canada)\n\n[https://www.trybree.com/about]\nAbout | Access up to $750 Cash Advance to Prevent Overdraft - Apply Now! A trustworthy financial partner Access up to $750 to prevent overdraft. No interest or fees. Join Bree Our Mission Many Canadians ",
+   "email_candidates": [
+    {
+     "email": "alexander@trybree.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Alexander Li",
+     "role": "Founder"
+    },
+    {
+     "email": "adam@trybree.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Adam Kang",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "714fbff410",
+   "company": "Aravolta",
+   "website": "https://www.aravolta.com/",
+   "title": "Forward Deployed Engineer",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Forward Deployed Engineer (San Francisco, CA, US / Remote (US); experience: Any (new grads ok); US citizen/visa only). Team size: 4. Software to monitor, control, and optimize data centers. Aravolta provides a single pane of glass software for data centers to increase uptime, reduce costs, and improve performance. A single utility node onboards every asset within an hour and detects hardware failures, hotspots, and other issues. It also generates reports on important metrics like Power Usage Effectiveness (PUE), energy metering, resource utilization, and much more. Enterprise Software, Cloud Computing, Monitoring, B2B, Infrastructure, United States of America, America / Canada",
+   "site_text": "[https://www.aravolta.com/]\nAravolta Book a demo Book a demo Infrastructure, Building, and Power Software for Data Centers Every building, electrical, and compute asset monitored, controlled, and available via API. One platform. Deployed in days. Request Demo Automated onboarding Any device, any vendor, any protocol No per-point pricing Trusted by data center leaders Testimonials From the operators running it \" We went from manual tracking to real-time branch circuit and tenant-level visibility in weeks, not months. \" Bryson Hopkins VP Technology, Centra Case study → \" Aravolta was insanely fast and responsive. The team executed across three of our data center sites and gave us a true single pane of glass. For speed, visibility, and control. I can't recommend them more highly. \" Kelly Robinson CTO, AI Infrastructure & Cloud Case study → \" What used to take an engineer three hours now happens in minutes. That's real time back for our team. \" Scott Brookshire CTO, OpenColo Case study → \" What impressed us most about Aravolta was their urgency and execution... deployed same day... worked around the clock until the job was done. \" Carl Noriega Managing Partner, Freedom Data Centers Case study → \" Quick and efficient to bring online... unified building, electrical, and network management... flexible and customizable. \" Michael McNamara VP of Data Center Operations, 0.lat Case study → \" This was by far the easiest setup and the most impressive monitoring system I've encountered. These guys actually deliver. \" Dr. Martin Rapos EVP, FLEXNODE Case study → \" Aravolta bridged the gap between our risk requirements and the technical reality of the data center, allowing for collateral auditing without creating operational friction for our infrastructure partners. \" Conor Moore Co-Founder & COO, USD.AI Case study → \" Aravolta got us monitoring our entire operation within an hour. It has flawlessly expanded with every MW we add. Truly amazing product this team has put together. \" Braden Stefanuk Founding Engineer, Simply Silicon Case study → Join industry leaders using Aravolta View all case studies Cloud or On-Prem API-First Platform Works Alongside Existing Systems Deploy in Days Virtual PLC One node to control every device in the building. The Aravolta Node acts as a Virtual PLC to set up controls and automations across all building, electrical, and IT devices. Connect to any IT or OT device with no manual mapping or onboarding required. Any IT or OT device BMS, EPMS, DCIM, network gear, legacy serial, and modern APIs all on one node. Zero manual mapping Pre-built make/model templates with register maps, OIDs, scalars, and units already mapped. Unlimited data points We auto-pull every metric the device exposes. No per-point pricing, no metric cap. 48-hour onboarding SLA Devices not yet in the library are mapped within 48 hours at no cost to the customer. Bidirectional asset API Read for monitoring, write for control workflows. All polling is read-only by default; control writes are gated, audited, and only enabled per device with explicit configuration. Every protocol runs out-of-band on the management network, so no traffic touches the production data plane. Supported protocols, out-of-band Modbus Meters, PDUs, RPPs BACnet CRAH, chillers, CDUs SNMP UPS, ATS, sensors Redfish / IPMI Servers & BMCs MQTT IoT sensors Wired I/O Dry contacts, RS-485 Node · in your facility Your dashboards & tools one live feed REST API Alerts & control Modbus Meters, PDUs, RPPs BACnet CRAH, chillers, CDUs SNMP UPS, ATS, sensors Redfish / IPMI Servers & BMCs MQTT IoT sensors Wired I/O Dry contacts, RS-485 ↓ into your Aravolta node Node · in your facility ↓ one live feed Your dashboards & tools REST API Alerts & control Building / Electrical Modbus TCP, BACnet/IP, OPC UA, SNMP, and many more Compute / White Space Redfish, IPMI, iDRAC, iLO, vendor BMC APIs, and many more Network SNMP, vendor CLIs, NetBox sync, and many more Legacy / Serial RS485, RS232, Digital I/O",
+   "email_candidates": [
+    {
+     "email": "m.groisman00@gmail.com",
+     "where": "YC profile · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Margarita Groisman",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "jack@aravolta.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jack Sutton",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "7275c41f50",
+   "company": "Pesto",
+   "website": "https://www.getpesto.com/",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. Fintech, Fintech, Credit and Lending, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://getpesto.com/]\nLaunch a secured credit card with zero hassle | Pesto Powered by Mastercard® Launch a secured credit card with zero hassle Pesto launched the first asset-backed credit card. Now, we empower brands to launch their own revolving, secured credit cards, all with the infrastructure we use ourselves. Get a Demo\n\n[https://getpesto.com/about/]\nAbout Pesto | Pesto Our evolution We built a credit product. Then we built the platform behind it. Pesto began by serving consumers directly. The experience taught us what it really takes to launch, operate, and grow a secured credit program. From product to platform The same infrastructure. A much bigger opportunity. 01 / We launched A better consumer credit experience We introduced the first asset-backed credit card and served cardholders ourselves—learning every part of the journey firsthand. 02 / We learned The hard part was the infrastructure Underwriting, servicing, compliance, ledgering, mobile payments, and card operations became one integrated system. 03 / We expanded Now brands can launch on Pesto Today we empower companies to launch and manage their own revolving, secured credit programs using the infrastructure we built for ourselves. What changed We stopped thinking like one card program—and started building for every great brand. Our consumer business proved the model. Our platform turns that operating experience into a faster path for partners. From card issuance to mobile payments, Pesto handles the complex infrastructure so partners can focus on their customers and their brand. Built in the market. Ready for your market. Launch a revolving, secured credit program without rebuilding the infrastructure from scratch. Build with Pesto\n\n[https://getpesto.com/careers/]\nCareers | Pesto Careers Join our team at Pesto and help make credit more accessible for everyone Join Our Team Senior Software Engineer PingLend, Inc. · McLean, VA · Remote (anywhere in U.S.) Senior Software Engineer. Responsibilities Focus on DevOps and with a secondary focus on building out PingLend's backend infrastructure and interfacing with the front-end team. Responsible for designing and implementing software features in a platform agnostic environment with a primary focus on automation of infrastructure deployment (i.e. “DevOps”), client-server interaction, and data modeling & analysis. Build software tools to enable continuous integration and continuous deployment software lifecycles. Responsible for design and implementation of major product features and functionality (i.e. web development). Build log collection and data analytic tools for monitoring, analysis, and insight. Test and examine code written by others and analyze results. Build and maintain the CI/CD processes using Github. Deploy and manage new development tools and infrastructure. Work with other software developers and software engineers to ensure that development follows established processes and works as intended. Develop software to integrate with internal back-end systems. Design procedures for system troubleshooting and maintenance. Remote Position - ability to work anywhere in the U.S. Requirements Requires a Bachelor’s degree in Computer Science, Computer Engineering or a related field plus 3 years of IT experience, which includes 3 years of experience with each of the following: Developing cryptographically secure transactional ledgers with multi-phase commit protocols for distributed systems; Designing and implementing smart contracts for tokenized assets and collateral management on blockchain platforms; Developing complex software systems with distributed architectures and implementing continuous integration and deployment (CI/CD) pipelines for efficient software delivery; Developing and building scalable backend solutions using Docker, and deploying on Kubernetes; Configuring and managing advanced Cloudflare services, including Workers, Zero Trust policies, and security measures for DeFi applications; and Imp",
+   "email_candidates": [
+    {
+     "email": "james@getpesto.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "James Savoldelli",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "7655582508",
+   "company": "Kalinda",
+   "website": "https://www.kalinda.ai/",
+   "title": "Engineering (YC Summer 2025)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 2. Deep research for class action law firms Kalinda helps class action law firms qualify potential cases in minutes with AI. The nature of class action/mass torts involves thousands of cases for a single lawsuit. For every plaintiff (injured person), law firms involved in these cases compile everything from the products they used to the injuries they have. This data is extensive, granular, and buried deep in thousands of pages of medical, financial, and employment records and others. Kalinda extracts, summarizes, and aggregates data from these records for attorneys with AI. When scaled across an entire litigation, Kalinda works tirelessly and in parallel—turning a process that once took months into just a few hours. Kalinda provides firms with the equivalent manpower of hundreds of paralegals and legal nurses, allowing them to quickly determine which claimants are eligible and helping them file faster and in greater volume. To date, we’ve processed 600k pages of records and are live with 2 of the largest plaintiff law firms in the U.S! B2B, Legal, United States of America, America / Canada",
+   "site_text": "[https://www.kalinda.ai/]\nTitle: AI intake that signs your next case\n\nURL Source: https://www.kalinda.ai/\n\nPublished Time: Tue, 27 Oct 2026 02:09:29 UTC\n\nMarkdown Content:\n[![Image 1: Kalinda](https://www.kalinda.ai/assets/kalinda-logo-white-BbZVCVkp.png)](https://www.kalinda.ai/)[Video 5](https://videos.pexels.com/video-files/5252451/5252451-hd_1920_1080_30fps.mp4)[Video 6](https://videos.pexels.com/video-files/5252437/5252437-hd_1920_1080_30fps.mp4)\n\nBacked by![Image 2: Y Combinator](https://www.kalinda.ai/yc-white.png)\n\nKalinda answers every call and follows up with every lead in seconds. It runs your intake, qualifies the case, and signs the retainer.\n\n### Every channel, both directions\n\nInbound or outbound, however a personal-injury lead reaches you - Kalinda answers hot calls live and proactively reaches back out across voice and text, from web forms and referrals to missed calls, after-hours, and overflow.\n\n### Live\n\nInbound · hot calls\n\nPicked up on ring one\n\n### Form\n\nWeb intake\n\nName\n\nMarcus Tran\n\nMatter\n\nAuto accide\n\n### Referral\n\nPartner / attorney\n\nD Dr. Lee Referral\n\nK Kalinda Intake\n\n### Overflow\n\nPeak + busy lines\n\nIncoming call\n\nIncoming call\n\nIncoming call\n\nIncoming call\n\nIncoming call\n\n128\n\ncaught  \ntoday\n\n### Answer leads after-hours\n\nCall 1-234-432-212\n\nAvailable now\n\nWith Kalinda,there’s no chasing leads,no bro ken handoffs,and no wrong questions at intake - just more qualified cases.\n\nThe leads are already coming in. Kalinda makes sure they turn into clients.\n\n## Put your best intake specialist on every lead\n\nSee Kalinda take a live PI intake call, start to signed retainer.\n",
+   "email_candidates": [
+    {
+     "email": "sayan@kalinda.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sayan Bhatia",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "sohil@kalinda.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sohil Bhatia",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "7857f56087",
+   "company": "Minimum",
+   "website": "https://minimum.com",
+   "title": "Engineering (YC Summer 2020)",
+   "location": "London, England, United Kingdom",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Helping corporates achieve Net Zero through tech solutions. Minimum lets you calculate, report on, and reduce the carbon emissions of your business, whether you're a corporate or an investment fund. Fintech, Climate, Industrials, Climate, United Kingdom, Europe, Remote, Partly Remote",
+   "site_text": "[https://novisto.com/]\nCorporate Sustainability Performance Software | Novisto Skip to Main Content Novisto Watch a demo Book a demo FR DE Menu FR DE Sustainability Management Software Trusted performance. Measurable impact. AI-powered sustainability software designed to build resilience and profitability for enterprise leaders - today and tomorrow. Book a demo Watch a demo Trusted by enterprise sustainability leaders Turn compliance into strategic outcomes Optimize sustainability performance to drive business decisions Stop chasing fragmented data through endless surveys. Automate collection, prove your ROI, and improve your ratings and benchmark position. Lower your business' risk while boosting resilience Climate, supply chain, and biodiversity risks keep multiplying — and the rules keep shifting. Stay ahead of both with a framework-native architecture. Win deals and lower your cost of capital Sustainability performance now moves deals and cost of capital — if the numbers hold up. Win ESG-gated deals, lower your cost of capital, and finance on data you can stand behind. The Novisto difference 01 The Only All-in-One Platform A complete, end-to-end solution for ESG, carbon, risk, and performance. 02 Audit-grade data lineage Every number, decision and calculation is traceable and defensible. 03 Reporting interoperability Map your data once and report across 34 global frameworks. 04 Designed for enterprise Secure, scalable, and designed for global organizations. 05 A true partner Dedicated in-house ESG advisory & customer support THE ALL-IN-ONE SUSTAINABILITY MANAGEMENT PLATFORM Novisto at a glance One digital solution for sustainability planning, data management, reporting, analysis and action - built for enterprise. NOVISTO ESG NOVISTO CARBON NOVISTO RISK NOVISTO PERFORMANCE NOVISTO ESG Centralize ESG data collection, reporting, and disclosure across every framework you need. Explore ESG NOVISTO CARBON Automate carbon accounting across Scopes 1, 2, and 3 for accurate, audit-ready emissions data. Explore Carbon NOVISTO RISK Identify and manage material risks and opportunities across your business and value chain. Explore Risk NOVISTO PERFORMANCE Turn trusted ESG, carbon, and risk data into insights, benchmarks, and board-ready decisions. Explore Performance Every important taxonomy, all in one place Novisto AI AI-Powered Sustainability Performance Software Novisto AI is a suite of embedded artificial intelligence capabilities built around three pillars: Automate (removing manual busywork), Generate (drafting content you can trust), and Insights (surfacing what to act on). It supports sustainability teams with data validation, document analysis, intelligent answers, and decision-ready insights—directly within the Novisto platform. Novisto AI Customer stories See how Novisto clients are driving sustainability performance forward. View all Success Stories Sanofi CSRD \"Our partnership with Novisto has accelerated our path to CSRD-aligned disclosures and has established new standards for data governance and quality.\" Laurent L’hopitallier Head of ESG Douglas Dynamics ESG \"The efficiency gains have allowed me to shift from a reactive mindset of simply gathering data to a strategic one focused on our future direction. Instead of spending all my time looking backward to consolidate historical figures, I can focus on where we want to go next.\" Isabel Tarnowski Director of Financial Reporting & Sustainability Read the Case Study CAE ESG \"With Novisto we've seen a tremendous improvement in the data collection and approval process. It was simple and really helped us to bring all of our sites together.\" Hélène V. Gagnon Chief People and Sustainability Officer Read the Case Study SunLife ESG \"There are expectations from stakeholders that our system of internal controls is at the same level as our finance controls.\" Ramsay Alwani Director of Sustainability Accounting Watch Video Metro ESG \"The easy access to historical data in Novisto allows",
+   "email_candidates": [
+    {
+     "email": "freddie@minimum.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Freddie Evans",
+     "role": "Founder"
+    },
+    {
+     "email": "chris@minimum.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Chris Winchurch",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "7a529debfd",
+   "company": "Soria",
+   "website": "https://www.soriaanalytics.com/",
+   "title": "Founding Engineer",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Founding Engineer (New York, NY, US; experience: Any (new grads ok); US citizen/visa only). Team size: 3. AI Financial Research Terminal built for Healthcare (and beyond) Soria is an AI-native Financial Terminal for investors who specialize in a particular sector, starting with healthcare. Our agents convert hundreds of the most important public and private sources into an always-on financial model, reviewed by domain experts and delivered to hedge funds, banks, and asset managers through a terminal UI, MCP, API, warehouse sync, and research feed. Unlike our competitors, we own the data layer and expand bottom-up, one sector at a time - additionally our agents proactively do research on behalf of our clients without them lifting a finger or sharing any data. Fintech, Asset Management, United States of America, America / Canada",
+   "site_text": "[https://www.soriaanalytics.com/]\nTitle: Soria - AI Native Healthcare Terminal\n\nURL Source: https://www.soriaanalytics.com/\n\nMarkdown Content:\n## AI Financial Terminal  \nBuilt for Healthcare\n\nBacked by Combinator\n\nBuilt by![Image 1](https://www.soriaanalytics.com/images/bofa-flagscape.png)Ex-BofA VP Equity Research\n\nTrusted by 30+Banks, Hedge Funds, Asset Managers\n\n## Healthcare Sector Coverage Made Easy\n\nSoria\n\nBenefit Values\n\nPricing Changes\n\nUtilization Tracking\n\nMLR by Product\n\nGuidance Revisions\n\n### Every Source. Verified.\n\nAgents scrape, structure and backtest hundreds of sources — reviewed by analysts.\n\n### Analyst Ready Dashboards.\n\nStop tracking in excel, everything you (and your agents) need is finally in one place.\n\n### Know It First.\n\nAgents watch our feed so you don’t have to, alert you about only what matters.\n\nDelivered via\n\nEmail\n\n·\n\nUI\n\n·\n\nAPI\n\n·\n\nMCP\n\n·\n\nWarehouse Sync\n\n## One feed. Every source.\n\nIR\n\nIR Materials\n\nSEC\n\n10-K\n\nSEC\n\n10-Q\n\nSEC\n\n8-K\n\nIR\n\nPress Releases\n\nIR\n\nEarnings Decks\n\nIR\n\nInvestor Days\n\nSEC\n\n13F\n\nDOL\n\nForm 5500\n\nVA\n\nVisible Alpha\n\nMAC\n\nMACPAC\n\nMED\n\nMEDPAC\n\nCMS\n\nStar Ratings\n\nIR\n\nCompany Guidance\n\nIR\n\nCurated News\n\nVA\n\nComp Sheet\n\nCMS\n\nMSSP & REACH\n\nCDC\n\nRespiratory\n\nST\n\n30+ State Portals\n\nDMHC\n\nDMHC Flash\n\nSEC\n\nEarnings Transcripts\n\nCMS\n\nCMS Rate Filings\n\nCMS\n\nCost Reports\n\nCMS\n\nACA Exchanges\n\nNAIC\n\nNAIC\n\nCMS\n\nMA Benefit Value\n\nKH\n\nUtilization\n\nCMS\n\nMA Enrollment\n\nCMS\n\nManaged Medicaid\n\nSEC\n\nXBRL\n\nCBO\n\nCBO Baseline\n\nAHRQ\n\nAHRQ Compendium\n\nKH\n\nKaufman Hall\n\nSTR\n\nStrata NPPVT\n\nCBO\n\nGov Projections\n\nCMS\n\ndata.medicare.gov\n\nCMS\n\nPECOS Ownership\n\nCMS\n\nT-MSIS\n\nCMS\n\nMBES Expenditures\n\nCDC\n\nCDC FluView\n\nCMS\n\nMAPD Plans\n\nCMS\n\nPart D\n\nCMS\n\nPlan Crosswalks\n\nCMS\n\nLIS Contracts\n\nCMS\n\nRate Announcements\n\nCMS\n\nStar Cut Points\n\nCMS\n\nIPPS Rates\n\nCMS\n\nOPPS Rates\n\nCMS\n\nPFS Rates\n\nCMS\n\nESRD Rates\n\nSoria\n\n## Founding Team\n\n![Image 2: Adam Ron](https://www.soriaanalytics.com/images/team/adam-ron.jpg)\n\nAdam Ron\n\nCEO\n\n8 Years BofA, VP Equity Research\n\n[](https://www.linkedin.com/in/adammron/)\n\n![Image 3: Cameron Spiller](https://www.soriaanalytics.com/images/team/cofounder.jpg)\n\nCameron Spiller\n\nCTO\n\n10 Years, Ex-Fintech CTO\n\n[](https://www.linkedin.com/in/cameron-spiller-b316b850/)\n\nBattlefin #1 New Data Vendor Y Combinator NYU Catalyst Fintech Sandbox\n",
+   "email_candidates": [
+    {
+     "email": "adam@soriaanalytics.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Adam Ron",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "7a5573eac3",
+   "company": "Topkey",
+   "website": "https://www.topkey.io/",
+   "title": "Engineering (YC Winter 2021)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 17. Topkey is the all-in-one financial operating platform that simplifies expense management for hospitality managers. Fintech, Real Estate, Proptech, B2B, Finance and Accounting, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://topkey.io/]\nTopkey | Financial Automation for Vacation & Short-Term Rental Managers Log in Book a demo Book a demo Oops! Something went wrong while submitting the form. Give your finance team superpowers. Topkey is the AI-powered financial operating system for property managers that auto-categorizes every bill, receipt, and payment by property so you can get back to what matters—hospitality. Oops! Something went wrong while submitting the form. Trusted by 340+ property managers and 50,000+ properties. Transform your accounting with AI. Topkey uses AI to transform real estate and property management financial operations, helping you recover lost profit, tighten expense controls, and speed up financial reporting. Close your books in hours, not days. Topkey auto-categorizes bills and receipts, splits trust vs. operating, enforces approvals, automates revenue recognition, and syncs clean data to your PMS and accounting software. Stay in control of your finances while AI automates the busy work. Recover lost profit. Lost receipts and small errors add up to big losses for property managers. Topkey keeps every transaction tied to the right property and owner, turning overlooked costs into recovered revenue. Built for property managers. Stop using tools that aren’t built for property managers. Topkey brings cards, bill pay, invoicing, revenue recognition, and banking* into one unified system, powered by AI. Sync clean data to your PMS and accounting software for seamless reconciliation and reporting. Property-level insights. Give your leadership team instant clarity without waiting on month-end reports. Topkey gives you real-time insights across properties, trust vs. operating accounts, owners, and vendors. AI spots anomalies and errors so you can make faster decisions, and stay in control. Spend more time investing in your properties. Stop wasting hours on manual receipts, data entry, and back-office busywork. With Topkey, AI handles the grunt work while your team takes charge of the business. Maximize card rewards. Automate the cards you already have, or use Topkey cards* to create and control unlimited physical and virtual cards. Control costs. See every transaction as it happens and take advantage of intel that reveals opportunities to save even more. Stop chasing receipts. Upload receipts and assign expenses to properties on the go, so every purchase is 100% tracked and reimbursed. Bank * with confidence. One unified solution for business checking and owner deposit accounts to gain a clearer financial picture. Integrated to your tools. Topkey seamlessly integrates with the accounting and PMS platforms you use most. Accounting Integrations QuickBooks Online Xero Sage Intacct Oracle NetSuite View all PMS Integrations Track Streamline Guesty Hostaway View all OTHER Integrations Amazon Credit cards Breezeway Banking View all Customer Testimonials Topkey gives us confidence that we can scale without sacrificing quality. Louisa Baldock Owner and VP , Solely Beachfront Vacation Rentals I just can't emphasize the team and the customer service enough. Livia Horvath Finance Manager , Juniper Holiday + Home For a company my size, I’m basically saving a full-time employee’s worth of work. It’s a no-brainer in my eyes. Riley Goldman CEO , Beachside VR People are busy. Being able to have an out-of-the-box solution that just works for the industry is extremely valuable. Chad Wise Founder , HostWise.co Topkey is profitable for us, it's not an expense. Mike Wesling Co-Founder , Anchor Point Premier Vacations The first few months after implementing Topkey, we were recouping $10,000 to $20,000 that we were missing before. Heather Gunther Bookkeeper , Coastal Vibe Vacations Topkey saves us money. Emily Burke Owner , ERB Properties There's no customer service like Topkey. People don't do that. Steven Wood CEO , Host & Home Topkey made expenses frictionless. Jed Stevens Co-Founder , Koloa Kai Vacation Rentals We're making money and it's easy ",
+   "email_candidates": [
+    {
+     "email": "info@topkey.io",
+     "where": "https://topkey.io/",
+     "kind": "generic"
+    },
+    {
+     "email": "jonathan@topkey.io",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jonathan Sukhia",
+     "role": "Founder"
+    },
+    {
+     "email": "bryan.beshore@gmail.com",
+     "where": "YC profile · GitHub (personal address)",
+     "kind": "personal",
+     "name": "Bryan Beshore",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "7bfa86206b",
+   "company": "Visibl Semiconductors",
+   "website": "https://visiblsemi.com",
+   "title": "Engineering (YC Winter 2026)",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 3. Custom silicon for power electronics Visibl Semiconductors makes custom silicon accessible to hardware companies, starting with power electronics. We are an AI-native custom-silicon design partner that cuts ASIC development cost and timeline on mature nodes, helping teams deliver better performance and lower BOM cost. We work with data-center and AI-infrastructure power, motor drives, industrial automation and robotics, industrial power supplies and conversion, battery systems and e-mobility powertrains, EV charging, solar, energy storage, grid power, HVAC, heat pumps, and appliances. V1 boards built from off-the-shelf parts are great for getting to market quickly, but scaling to v2+ volume requires optimizing cost, size, and manufacturability. Visibl folds those parts into custom silicon built around the product: a simpler BOM, reclaimed board space, fewer supply constraints, and automation-ready assembly. We manage the full path from architecture and design through verification, fabrication, packaging, and production-ready silicon, working alongside hardware teams so they do not need an in-house chip team. Hard Tech, Enterprise, Enterprise Software, Semiconductors, AI, B2B, Engineering, Product and Design, United States of America, America / Canada",
+   "site_text": "[https://www.visiblsemi.com/]\nVisibl Semiconductors | A Faster Path to Custom Silicon VISIBL SEMICONDUCTORS TM Backed by Combinator VISIBL SEMICONDUCTORS TM Backed by Combinator San Francisco, CA --:--:-- -- PT Join Our technical team is led by engineers with chip-design experience at Microsoft, Intel, and Arm. We’re making custom silicon accessible to more hardware companies. Explore careers → Loading...\n\n[https://www.visiblsemi.com/careers]\nJobs | Visibl Semiconductors VISIBL SEMICONDUCTORS TM Backed by Combinator VISIBL SEMICONDUCTORS TM Backed by Combinator San Francisco, CA --:--:-- -- PT Join Our technical team is led by engineers with chip-design experience at Microsoft, Intel, and Arm. We’re making custom silicon accessible to more hardware companies. Explore careers → Jobs We build custom silicon for power electronics. Our work connects chip architecture, RTL design and verification, analog and mixed-signal engineering, and software that makes development faster. We believe custom silicon should be accessible to every hardware company. Join us in making better chips a practical option for more products. Open positions ↓ Our values Start with the product Understand the hardware, the constraints, and what a better chip needs to achieve. Build around the customer’s system rather than a catalog part. Reason from the fundamentals Make architecture decisions with a clear understanding of timing, area, power, and verification. Follow the details until the design makes sense. Work as one team Bring design, verification, software, and manufacturing into the same conversation. Share what you learn and make room for better ideas. Build work that holds up Write clear RTL, build rigorous verification, and make engineering decisions that carry through to real silicon. Quality is part of the process. Team Our technical leaders bring chip-design experience from Microsoft, Intel, and Arm. We bring hardware engineering, software, and automation together to help hardware companies move from product requirements to custom silicon. Bryce Neil ↗ Jordon Kashanchi, M.S. ↗ Nipun Kaushik, Ph.D. ↗ Bryce Neil Co-founder and CEO Leads business operations, go-to-market, and company strategy at Visibl. A computer engineer and former member of Deloitte’s OmniaAI team, Bryce brings experience across software and product development. He cofounded Visibl to make custom silicon accessible to hardware companies. Jordon Kashanchi, M.S. Co-founder and CTO Brings chip-design experience from Microsoft, Intel, and Arm, spanning AI accelerators, autonomous vehicle hardware, and graphics. Holds an M.S. in Electrical and Computer Engineering from the University of Texas at Austin. Connects hardware development with the software tools behind Visibl’s approach to building silicon. Nipun Kaushik, Ph.D. Lead Analog & Mixed-Signal IC Designer Holds a Ph.D. from Oklahoma State University, with research focused on power side-channel attack detection and secure analog-to-digital conversion circuits. Brings silicon-design experience from Microsoft’s Advanced Sensor Technology Group, where he evaluated noise in advanced image sensors. Our process Apply through our job page or the YC listing . CTO and technical discussions Begin with our CTO: discuss a chip you helped take to silicon and your specific contribution. A focused discussion on design, verification, and interfaces follows. Use non-confidential examples. Meet our analog lead Discuss technical collaboration, mixed-signal interfaces, and how you work with engineers from other disciplines. Meet our CEO Explore how your strengths and ambitions align with the company’s vision and growth. Agree on the engagement Before an offer, agree on scope, compensation, and availability. Any additional exercise will be explained in advance. Open positions Own digital design and verification for an upcoming mixed-signal ASIC, working directly with our technical team. Select the role below for full details. All Hardware Senior Digit",
+   "email_candidates": [
+    {
+     "email": "founders@visiblsemi.com",
+     "where": "https://www.visiblsemi.com/careers",
+     "kind": "hiring"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "7c74c3ffab",
+   "company": "Glen",
+   "website": "https://www.tryglen.com/",
+   "title": "Founding Member of Technical Staff",
+   "location": "San Francisco, CA, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Founding Member of Technical Staff (San Francisco, CA, US; experience: Any (new grads ok); Will sponsor). Team size: 1. Institutional Learning Layer for Every Agent in Your Company Glen is the layer that unifies every agent your company runs. Glen pulls in agent sessions from Claude Code, Codex and Cursor, plus Slack messages, GitHub prs, tickets, docs and calls. When a new agent picks up a task, Glen finds relevant prior context and injects it in the agents context window to steer it, producing knowledge work that is significantly higher quality, faster and cheaper. Glen does more. You can query the original agent behind any line of code, or search every session your org has ever run. It distills what your team does into skills and surfaces the right one automatically. Agents work multiplayer, picking up the style and context of whoever else is on the file. Transcripts are unified across Claude Code, Codex and Cursor, so you can hand a session from one to another mid-task. And Glen can also double as a company brain, from Slack, in app, or by just installing Glen on any agent. We’re building toward a future where memory is no longer the missing piece of intelligence. A future where every agent maintains a lossless and continuous thread of institutional experience enabling the era of the compounding organization and fully unsupervised digital labour. Generative AI, B2B, AI, B2B, Productivity, United States of America, America / Canada",
+   "site_text": "[https://www.tryglen.com/]\nGlen Sign in Start free Agents that get smarter as your company works. Glen surfaces the right organizational context into every prompt. Agents work better, faster and on fewer tokens. $ npx @tryglen/cli@latest install Copy Connects to + more Used by teams at This is your agent… Eval timeouts why is the nightly eval job timing out? Search the CI config for timeouts Read evals.yml Read run_evals.py Search for timeout-minutes across workflows Read the failed run’s logs Search scripts for shard settings Read shard.py Search git history for shard changes Read the eval runner config Search Slack exports for eval timeouts Read the last 20 workflow runs Search for SHARDS in the repo Read evals/conftest.py Compare runtimes before and after Oct 2 Ask for follow-up changes This is your agent with Glen. Glen finds what your team already worked out and hands it to your agent. Eval timeouts why is the nightly eval job timing out? Ask Glen’s team memory why the nightly eval job times out ⛰️ Glen recalled The Oct 2 #infra thread where evals went from 4 shards to 2, and Maya’s session that opened #1188 without raising the timeout. The Oct 2 shard cut doubled each shard's runtime to about 31 minutes, and the job still times out at 20. Raise timeout-minutes to 40 in ci/evals.yml, or go back to 4 shards. Ask for follow-up changes Memory pays off. 21 % faster to a merged change 21 % faster to a merged change 29 % fewer tokens per task 29 % fewer tokens per task Read more about the benchmark → GitHub now Merged # 1294 Raise retry backoff to 30s GitHub 2m ago Merged # 1293 Move the backfill into its own job GitHub 4m ago Merged # 1292 Add a region column to customers GitHub 6m ago Merged # 1291 Fix the nightly eval timeout Works where you already work. No new agent to switch to. Paste the prompt into the one you use and it sets itself up. Claude Code Copy prompt Copied Codex Copy prompt Copied Cursor Copy prompt Copied Pi Copy prompt Copied Your own agent Copy prompt Copied Or install with the CLI $ npx @tryglen/cli@latest install Copy Every week, a little less to explain. Anyone can work like your best employee. Glen finds the prior work that bears on the task and steers your agent with it. Support Lead Head of Sales Senior Engineer Review PRs with the agent that wrote it. The PR reviewer and code search query a clone of the agent that made the change, so you get the why, not just the what. src/jobs/retry.ts 11 11 import { queue } from \"./queue\" 12 12 13 13 export async function retry(job) { 14 - const RETRY_MS = 5_000 14 + const RETRY_MS = 30_000 15 15 await queue.retry(job, RETRY_MS) 16 16 } 17 17 18 18 export function backoff(attempt) { 19 19 return RETRY_MS * 2 ** attempt 20 20 } why did the retry go to 30s? ⛰️ Glen recalled Sam’s session from Oct 2, when 5s retries overloaded Redis during a 22s failover. 30s rides out a Redis failover. Shorter retries took Redis down on Oct 2. Pick up any teammate’s session. Continue the complete history in a fresh session, in whichever agent you use. Take over Claude Code Codex Cursor Pi Your team’s skills, shared. Skills distill from your team’s work and are shared across the org, so nobody goes looking for what exists. Team skills Staff Engineer code-like-jason .md Solutions Engineer debug-like-shawn .md $ glen use skill code-like-jason Always the latest answer. When the team changed its mind, your agent follows the decision that stuck. Launch is December 14 Oct 3 Launch pushed to December 21 Oct 29 Launch on track for December 18 Latest Anyone can work like your best employee. Glen finds the prior work that bears on the task and steers your agent with it. Review PRs with the agent that wrote it. Pick up any teammate’s session. Your team’s skills, shared. Always the latest answer. Support Lead Head of Sales Senior Engineer Developers love us. Unedited, from the people building on Glen. “ It just works and works well. Love using it. ” Frank Co-Founder & CTO “ The absolute best dev",
+   "email_candidates": [
+    {
+     "email": "nikos@tryglen.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Nikos Dritsakos",
+     "role": "Founder/CEO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "7db0929742",
+   "company": "Fleetline",
+   "website": "https://fleetline.ai",
+   "title": "Founding Engineer",
+   "location": "New York City, NY, USA",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Founding Engineer (New York, NY, US; experience: Any (new grads ok); Will sponsor). Team size: 11. Optimizing fleet planning with data driven algorithms Fleetline is building the first complete-context algorithmic load planner for mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers. Artificial Intelligence, Logistics, Supply Chain, Data Science, B2B, Supply Chain and Logistics, United States of America, America / Canada",
+   "site_text": "[https://www.fleetline.ai/]\nTitle: Fleetline\n\nURL Source: https://www.fleetline.ai/\n\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\n\nMarkdown Content:\n\n",
+   "email_candidates": [
+    {
+     "email": "saurav@fleetline.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Saurav Kumar",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "veer@fleetline.ai",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Veer Juneja",
+     "role": "Founder/COO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  }
+ ]
+}

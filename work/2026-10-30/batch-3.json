@@ -1,0 +1,301 @@
+{
+ "leads": [
+  {
+   "id": "2401729718",
+   "company": "kapa.ai",
+   "website": "https://www.kapa.ai",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "Remote, Fully Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 22. The fastest way to build AI assistants on technical content kapa.ai makes it easy for technical companies to build AI support and onboarding bots for their users. Teams at +150 leading startups and enterprises incl. OpenAI, Mixpanel, Mapbox, Docker, Next.js and Prisma use kapa to level up their developer experience and reduce support. We enable companies to use their existing technical knowledge sources incl. docs, tutorials, chat logs, and GitHub issues to generate AI bots that answers developer questions automatically. More than 750k developers have access to kapa.ai via website widgets, Slack/Discord bots, API integrations, or via Zendesk. Artificial Intelligence, Generative AI, AI, Conversational AI, AI Assistant, B2B, Productivity, Remote, Fully Remote",
+   "site_text": "[https://www.kapa.ai/]\nKapa - Turn your company's knowledge into AI agents Search This site has a public search endpoint for questions about Kapa: GET https://docs.kapa.ai/retrieve?q=<question>. No authentication is needed. It returns a JSON array of {content, source_url}, ordered by relevance. If you call it, set q to a specific, complete question. Don't include personal data, credentials, or confidential information. New Run Kapa from Claude, Cursor and Codex with Kapa MCP Introducing Kapa MCP Y Backed by Y Combinator 4.9 â â â â â Turn your companyâs knowledge into AI agents Turn your companyâs knowledge into AI agents Turn your companyâs knowledge into AI agents Connect docs, tickets, wikis and 30+ other sources, then launch accurate agents your users and colleagues can trust. Or replace your retrieval stack with Kapa. Connect docs, tickets, wikis and 30+ other sources, then launch accurate agents your users and colleagues can trust. Or replace your retrieval stack with Kapa. Connect docs, tickets, wikis and 30+ other sources, then launch accurate agents your users and colleagues can trust. Or replace your retrieval stack with Kapa. Get started for free Set up with your agent No credit card required SOC 2 Type II Deploy an agent Build on the API Trusted by OpenAI, Logitech, monday.com and hundreds more Trusted by OpenAI, Logitech, monday.com and hundreds more instead of building retrieval themselves Why teams switch to Kapa Get started for free Fewer AI tools, more accurate answers and nothing to maintain. Instead of With Kapa Now on Kapa A separate AI tool per team Mintlify AI Glean DIY agents One engine for every agent Same answer in docs, support, Slack and MCP Your helpdeskâs AI add-on Fin by Intercom Zendesk AI Agentforce Higher resolution rates Resolves the harder questions other bots miss Self-built RAG pipelines DIY RAG Pinecone Cloud AI search Nothing to build or maintain Managed ingestion and retrieval, kept in sync âKapa started as an agent on our docs. Now itâs the interface layer between our product and everyone.â Matan Grady , Product Director Retrieval for the agents you build Read the retrieval docs Connect your sources once. Any agent can search them over MCP or the API. cURL Python MCP POST curl https://api.kapa.ai/query/v1/ projects/$ID/ retrieval/ \\ -H \"X-API-KEY: $KAPA_API_KEY\" \\ -d '{\"query\": \"rotate API keys\"}' 200 OK Â· 3 chunks Â· source_url, content Retrieval API and MCP server Query from any agent over HTTP or MCP. Kapa GPT-6.1 + grep Retrieval score 0.65 vs 0.61 Latency 5.1s vs 16.8s Tokens returned 5.1k vs 40.8k State-of-the-art accuracy #1 on Company Knowledge Bench Sources Auto-sync X200 service manual.pdf 214 pages Â· scanned tables Parsed Zendesk tickets 48,210 tickets Synced 2m ago Engineering wiki 1,932 pages Synced 1h ago acme/sdk README.md changed Syncing Handles the messiest sources Parsed, crawled and kept in sync automatically. Mastra âKapa lets us focus on building agents, not maintaining retrieval infrastructure.â Sam Bhagwat , CEO Pre-built agents for docs, support and community Explore integrations No agent to build. Pick where it runs and connect your sources. Website widget Ask AI on your docs and website. Ask AI How do I rotate keys? Security API keys Deploy: Script tag Public MCP server Your docs in your users' coding agents. a user's Claude Code > Add Acme webhooks to my app âº search_acme_knowledge_sources 3 chunks from docs.acme.com âº Edited src/webhooks.ts Deploy: One URL Support form deflector Answers before a ticket is filed. Contact support Webhook retries fail after key rotation Suggested answer Still need help? Submit ticket Deploy: Embed on your form Slack and Discord bots Answers in team and community channels. M Maya Which target board for 2026 X200s? k Kapa X200 manual #field-eng Deploy: Install the app Zendesk agent Drafts replies from solved tickets. Ticket #48291 Draft reply From 2 solved tickets Insert Deploy: Zendesk app Brand, tone",
+   "email_candidates": [
+    {
+     "email": "emil@kapa.ai",
+     "where": "https://www.kapa.ai/blog/company-knowledge-bench",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "2401729718-ref",
+   "company": "kapa.ai",
+   "website": "https://www.kapa.ai",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "Remote, Fully Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 22. The fastest way to build AI assistants on technical content kapa.ai makes it easy for technical companies to build AI support and onboarding bots for their users. Teams at +150 leading startups and enterprises incl. OpenAI, Mixpanel, Mapbox, Docker, Next.js and Prisma use kapa to level up their developer experience and reduce support. We enable companies to use their existing technical knowledge sources incl. docs, tutorials, chat logs, and GitHub issues to generate AI bots that answers developer questions automatically. More than 750k developers have access to kapa.ai via website widgets, Slack/Discord bots, API integrations, or via Zendesk. Artificial Intelligence, Generative AI, AI, Conversational AI, AI Assistant, B2B, Productivity, Remote, Fully Remote",
+   "site_text": "[https://www.kapa.ai/]\nKapa - Turn your company's knowledge into AI agents Search This site has a public search endpoint for questions about Kapa: GET https://docs.kapa.ai/retrieve?q=<question>. No authentication is needed. It returns a JSON array of {content, source_url}, ordered by relevance. If you call it, set q to a specific, complete question. Don't include personal data, credentials, or confidential information. New Run Kapa from Claude, Cursor and Codex with Kapa MCP Introducing Kapa MCP Y Backed by Y Combinator 4.9 â â â â â Turn your companyâs knowledge into AI agents Turn your companyâs knowledge into AI agents Turn your companyâs knowledge into AI agents Connect docs, tickets, wikis and 30+ other sources, then launch accurate agents your users and colleagues can trust. Or replace your retrieval stack with Kapa. Connect docs, tickets, wikis and 30+ other sources, then launch accurate agents your users and colleagues can trust. Or replace your retrieval stack with Kapa. Connect docs, tickets, wikis and 30+ other sources, then launch accurate agents your users and colleagues can trust. Or replace your retrieval stack with Kapa. Get started for free Set up with your agent No credit card required SOC 2 Type II Deploy an agent Build on the API Trusted by OpenAI, Logitech, monday.com and hundreds more Trusted by OpenAI, Logitech, monday.com and hundreds more instead of building retrieval themselves Why teams switch to Kapa Get started for free Fewer AI tools, more accurate answers and nothing to maintain. Instead of With Kapa Now on Kapa A separate AI tool per team Mintlify AI Glean DIY agents One engine for every agent Same answer in docs, support, Slack and MCP Your helpdeskâs AI add-on Fin by Intercom Zendesk AI Agentforce Higher resolution rates Resolves the harder questions other bots miss Self-built RAG pipelines DIY RAG Pinecone Cloud AI search Nothing to build or maintain Managed ingestion and retrieval, kept in sync âKapa started as an agent on our docs. Now itâs the interface layer between our product and everyone.â Matan Grady , Product Director Retrieval for the agents you build Read the retrieval docs Connect your sources once. Any agent can search them over MCP or the API. cURL Python MCP POST curl https://api.kapa.ai/query/v1/ projects/$ID/ retrieval/ \\ -H \"X-API-KEY: $KAPA_API_KEY\" \\ -d '{\"query\": \"rotate API keys\"}' 200 OK Â· 3 chunks Â· source_url, content Retrieval API and MCP server Query from any agent over HTTP or MCP. Kapa GPT-6.1 + grep Retrieval score 0.65 vs 0.61 Latency 5.1s vs 16.8s Tokens returned 5.1k vs 40.8k State-of-the-art accuracy #1 on Company Knowledge Bench Sources Auto-sync X200 service manual.pdf 214 pages Â· scanned tables Parsed Zendesk tickets 48,210 tickets Synced 2m ago Engineering wiki 1,932 pages Synced 1h ago acme/sdk README.md changed Syncing Handles the messiest sources Parsed, crawled and kept in sync automatically. Mastra âKapa lets us focus on building agents, not maintaining retrieval infrastructure.â Sam Bhagwat , CEO Pre-built agents for docs, support and community Explore integrations No agent to build. Pick where it runs and connect your sources. Website widget Ask AI on your docs and website. Ask AI How do I rotate keys? Security API keys Deploy: Script tag Public MCP server Your docs in your users' coding agents. a user's Claude Code > Add Acme webhooks to my app âº search_acme_knowledge_sources 3 chunks from docs.acme.com âº Edited src/webhooks.ts Deploy: One URL Support form deflector Answers before a ticket is filed. Contact support Webhook retries fail after key rotation Suggested answer Still need help? Submit ticket Deploy: Embed on your form Slack and Discord bots Answers in team and community channels. M Maya Which target board for 2026 X200s? k Kapa X200 manual #field-eng Deploy: Install the app Zendesk agent Drafts replies from solved tickets. Ticket #48291 Draft reply From 2 solved tickets Insert Deploy: Zendesk app Brand, tone",
+   "email_candidates": [
+    {
+     "email": "esben@kapa.ai",
+     "where": "GitHub commits (kapa-ai)",
+     "kind": "personal",
+     "name": "esbenjb",
+     "commits": 3
+    },
+    {
+     "email": "joaquin@kapa.ai",
+     "where": "GitHub commits (kapa-ai)",
+     "kind": "personal",
+     "name": "jhoyoskapa",
+     "commits": 8
+    },
+    {
+     "email": "kassem@kapa.ai",
+     "where": "GitHub commits (kapa-ai)",
+     "kind": "personal",
+     "name": "Kapassem",
+     "commits": 3
+    },
+    {
+     "email": "finn@kapa.ai",
+     "where": "GitHub commits (kapa-ai)",
+     "kind": "personal",
+     "name": "Finn Bauer",
+     "commits": 5
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": true
+  },
+  {
+   "id": "9a00eaa015",
+   "company": "RentHop",
+   "website": "http://renthop.com",
+   "title": "Taipei Software Engineer",
+   "location": "United States of America, America / Canada",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "YC job posting: Taipei Software Engineer (Taipei; experience: Any (new grads ok); US citizenship/visa not required). Team size: 9. Apartment rental marketplace RentHop (www.renthop.com) helps renters find great apartments. We use sophisticated data analysis to rank apartment listings based on their \"freshness\"​, their accuracy and completeness and the responsiveness of the manager who listed the apartment on our site. As a renter, you can use list-based or map-based search tools to browse listings and comprehensive search filters to narrow our 100,000+ listings to just the ones you want. It’s easy and fast to reach out to brokers and property managers to schedule viewings and to manage responses. You can also use our innovative \"Appointments on Demand\"​ feature, a map showing the real-time locations of brokers and property managers available to show apartments, to reach out and schedule viewings on the fly! For brokers and property managers, RentHop provides a cost-effective, easy-to-use tool to promote your listings, get qualified leads and schedule viewings. You can also post and repost listings on the go using RentHop Manager, our mobile app for brokers and property managers, currently available in the iOS App Store. (You can download the mobile app at https://itunes.apple.com/us/app/renthop-manager/id695651355.) Your commitment to give good service will make you stand out on RentHop - our algorithm will credit you for your responsiveness and help give your listings the boost they need to get seen - and rented - by qualified renters. Look for our mobile app for consumers, due out soon! And please let us know any questions, thoughts or comments you may have - we'll look forward to hearing from you! You can reach us at feedback@renthop.com. You can also find us on Facebook, Twitter (@RentHop), Google+ and Pinterest. Marketplace, Real Estate, Real Estate and Construction, Housing and Real Estate, United States of America, America / Canada",
+   "site_text": "[http://renthop.com]\nTitle: Just a moment...\n\nURL Source: http://renthop.com/\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:\n![Image 1: Icon for renthop.com](http://renthop.com/favicon.ico)\n\n## renthop.com\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
+   "email_candidates": [
+    {
+     "email": "lee@renthop.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Lee C. Lin",
+     "role": "Founder"
+    },
+    {
+     "email": "lawrence@renthop.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Lawrence Zhou",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "8438a6e94e",
+   "company": "New Story",
+   "website": "http://newstoryhomes.org",
+   "title": "Engineering (YC Summer 2015)",
+   "location": "United States of America, America / Canada, Remote, Partly Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. We pioneer solutions to end the global housing crisis by empowering… Since its inception, NS has raised over $80 million to build thousands of homes across Latin America and impact ~20,000 individuals. In 2021, NS launched a venture capital fund, Hometeam Ventures, focused on early-stage construction and housing innovations. NS graduated from Y Combinator and is a 4x recipient of Fast Company’s Most Innovative Company. Fintech, Nonprofit, Housing, Real Estate and Construction, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://www.newstoryhomes.org/]\nNew Story | We empower families to own land and homes in thriving communities. Learn more about our impact 2025 Annual Report Work With Us From Vacant Land to Thriving Communities. We develop land, unlock ownership, and empower families to build a future. Invest Donate We Use Market Forces to Create Generational Change Step 1 Finance & develop land We secure underused land and build infrastructure (roads, power, sanitation). Step 2 Enable land ownership Families make small monthly payments and receive a legal title within 24 months. Step 3 Unlock credit & home financing With land as collateral, families build credit and qualify for home loans. Supported by Current & past supporters Investment New Story Capital Learn More Philanthropy R&D, education, construction support Learn More Watch video 01:05 “It’s something sacred, and something beautiful—because it’s a home. A place where one has time for rest and family.” David Ahualulco de Mercado After a lifetime of renting and moving between borrowed homes, David found our land program, which offered a better location, fair pricing, and space to breathe. As a skilled tradesman in plumbing, electricity, and masonry, David is excited to build his home “with more care and love” now that he has secure land ownership. David Ahualulco de Mercado 5x faster than traditional methods (2 years instead of 10+) 60% of land titles go to women (2x national average) 100% portfolio repayment 2x increase in land value within 3 years 10,000 lot target by end of 2027 25+ communities impacted Partner With Us Invest Become an impact investor to scale social impact and generate financial returns. Invest With Us Donate Donate to fund financial literacy programs, construction support, and our team. Donate Today Partner Become a corporate or brand partner to make a difference together. Partner With Us Follow our progress Sign up for our newsletter Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. By clicking “Accept All Cookies” , you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our Privacy Policy for more information. Preferences Deny Accept\n\n[https://www.newstoryhomes.org/our-team]\nOur Team | New Story Donate Team A place to belong and build Watch video 01:32 A team driven by impact Our team is a diverse group of people who share the same vision: a world where everyone can access housing. It’s a big vision. But we’re each committed to playing our part in making it a reality. The housing crisis needs ambitious people who want to use their talent to make an impact. It also needs people who care. People who care for their team members, supporters, and, most importantly, the families we serve. Meet the team Meet the board Meet our advisors A thriving culture We're constantly looking to improve through learning and feedback. Here are some recent results based on our latest culture surveys: 100% Feel like they belong at New Story. 96% Said their manager shows empathy. 100% Agree that they’ve had opportunities to learn and grow this year. Meet the team Executive team Brian Ng Fractional Chief Financial Officer Catherine Colyer President & CEO Claudia Acuña Chief Impact Officer Matthew Marshall Chief Business Officer, Co-Founder Santiago Collada Chief Investment Officer All staff Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Adriana Rueda Manager of Impact Operations Staff Impact Andrea Argüelles Tech Ops Manager Staff Impact Ashley Chase Director of Executive Operations Staff Internal Operations Brian Ng Fractional Chief Financial Officer Executive Finance + Legal Staff Internal Operations Investment Catherine Colyer President & CEO Executive Staff Investment Fundraising Board Claudia Acuña Chief Impact Officer Staff Impact Investment Executive Daniel Rodas Asset Manager & Finance Associ",
+   "email_candidates": [
+    {
+     "email": "brett@newstoryhomes.org",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Brett Hagler",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "matthew@newstoryhomes.org",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Matthew Marshall",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "a5272584e1",
+   "company": "Infinity",
+   "website": "https://www.infinityapp.in/",
+   "title": "Engineering (YC Winter 2024)",
+   "location": "India, South Asia",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 15. Business banking for cross-border SMBs & Startups Infinity is a banking and payments platform for cross-border businesses in India. We help our customers make cross-border payments that are 70% cheaper than traditional methods and earn income on idle cash by investing in government securities. Fintech, Payments, B2B, Investing, International, Fintech, Payments, India, South Asia",
+   "site_text": "[https://www.infinityapp.in/]\nInfinity | Receive International Payments for Freelancers & Startups ðMilestone alert: Infinity secures $1.9M funding to reshape cross-border payments in India! Learn more â Home Solutions Tools Case Studies Blogs About us Log in Sign Up Backed by Backed by Save big with every International transaction Save big with every International transaction 0% FX markup | No limit | 1 day settlement 0% FX markup | No limit | 1 day settlement Book a demo Get Started Get Started Book a demo RBI Approved framework RBI Approved framework Client sends USD FX INR 0 Live Fx, Zero markup You receive in INR â¹ 0 Get â¹ 0 more than Bank â¡ 1 day settlement Bank â¹ 0 â¹ 0 â¹ 0 â¹ 0 Save â¹ 0 annually with Infinity compared to banks Receive international payments at Google rates with Infinity Receive international payments at Google rates with Infinity Industry-best FX rates with no hidden fees â designed to maximize your earnings, not eat into them. Industry-best FX rates with no hidden fees â designed to maximize your earnings, not eat into them. 0.5% 0.5% Fee per transaction Fee per transaction (All Inclusive) (All Inclusive) Get Started Custom fee for transactions above USD 50,000. Talk to us â Custom fee for transactions above USD 50,000. Talk to us â Expand globally with hassle free cross-border payments Expand globally with hassle free cross-border payments $20M+ $20M+ Monthly Transactions Monthly Transactions 15K+ 15K+ Customers Onboarded Customers Onboarded 160+ 160+ Supported Countries Supported Countries Global Accounts Global Accounts Get paid like a local. Infinity enables you to receive payments worldwide with local currency accounts. Get paid like a local. Infinity enables you to receive payments worldwide with local currency accounts. Transparent Pricing Infinity = no hidden fees! Real-time FX rates and clear costs â you'll always know what you're getting. Infinity = no hidden fees! Real-time FX rates and clear costs â you'll always know what you're getting. Blazingly Fast Blazingly Fast Funds in your INR account within 1 day â with full transparency and real-time updates, only with Infinity. Funds in your INR account within 1 day â with full transparency and real-time updates, only with Infinity. Scale globally, without the friction. Scale globally, without the friction. Grow your business with Infinity's multi-currency accounts. All in one platform. Grow your business with Infinity's multi-currency accounts. All in one platform. Sell Globally. Collect Locally Sell Globally. Collect Locally Receive International payments from customers in their preferred currency Receive International payments from customers in their preferred currency Global accounts in hours Global accounts in hours 160+ currencies supported 160+ currencies supported Get Started Get Started Transparent Pricing. No Surprises Transparent Pricing. No Surprises Get exactly what you see. Every Time. No more guesswork. Get exactly what you see. Every Time. No more guesswork. Flat 0.5% Transaction Fees (All inclusive) Flat 0.5% Transaction Fees (All inclusive) No Markup. No Hidden Charges. No Markup. No Hidden Charges. Get Started Get Started Be compliant with FIRA certified transactions Be compliant with FIRA certified transactions Simplify compliance and focus on growing your business effortlessly. Simplify compliance and focus on growing your business effortlessly. Free FIRA with every withdrawal. Free FIRA with every withdrawal. Issued by an RBI-authorised banks. Issued by an RBI-authorised banks. Get Started Get Started Track your money with ease Track your money with ease Seamless experience manage invoices, track payments, all from one intuitive dashboard. Seamless experience manage invoices, track payments, all from one intuitive dashboard. Create and manage invoices effortlessly. Create and manage invoices effortlessly. Get real-time updates on deposits. Get real-time updates on deposits. Get Started Ge",
+   "email_candidates": [
+    {
+     "email": "sourav@infinityapp.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sourav Choraria",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "sidharth@infinityapp.in",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sidharth Choraria",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "af800398ad",
+   "company": "Capi Money",
+   "website": "https://www.capimoney.com",
+   "title": "Engineering (YC Summer 2023)",
+   "location": "United Kingdom, Europe, Remote, Partly Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 40. Helping businesses in emerging markets make pay their international… Capi helps businesses in emerging markets make international payments. Importers in emerging markets pay up to 10% to settle invoices and wait weeks for payments to arrive. We’re on a mission to give businesses in emerging markets the same price and speed as we expect in the US and Europe. Fintech, Payments, Fintech, Payments, United Kingdom, Europe, Remote, Partly Remote",
+   "site_text": "[https://capimoney.com/]\nCapi Money â The business account for emerging markets trade The business account for emerging markets trade. Open an account Speak to sales The business account for emerging markets trade. Open an account Speak to sales The business account for emerging markets trade. Open an account Speak to sales Everything you need to pay abroad. Everything you need to pay abroad. Everything you need to pay abroad. International transfers International transfers International transfers Pay suppliers in 30+ currencies to 90+ countries via SWIFT, SEPA, stablecoins or Alipay. Pay suppliers in 30+ currencies to 90+ countries via SWIFT, SEPA, stablecoins or Alipay. Pay suppliers in 30+ currencies to 90+ countries via SWIFT, SEPA, stablecoins or Alipay. Learn more â Multi-currency balances Multi-currency balances Multi-currency balances Convert local currency to USD and EUR when the rate works for you. Hold your funds or pay right away. Convert local currency to USD and EUR when the rate works for you. Hold your funds or pay right away. Convert local currency to USD and EUR when the rate works for you. Hold your funds or pay right away. Learn more â Corporate cards Corporate cards Corporate cards Top up in local currency and pay everywhere Visa is accepted, up to $25k per payment. Top up in local currency and pay everywhere Visa is accepted, up to $25k per payment. Top up in local currency and pay everywhere Visa is accepted, up to $25k per payment. Join the waitlist â Coming soon Tailored to every business. Tailored to every business. Tailored to every business. SMEs & sole traders SMEs & sole traders SMEs & sole traders Your supplier paid in 48h, not 10 days. Your supplier paid in 48h, not 10 days. Your supplier paid in 48h, not 10 days. Open an account â Large importers Large importers Large importers The currency availability your business needs. The currency availability your business needs. The currency availability your business needs. Speak to sales â Global groups Global groups Global groups Group payments and dividends, finally a priority. Group payments and dividends, finally a priority. Group payments and dividends, finally a priority. Speak to sales â One platform for all your payments. One platform for all your payments. One platform for all your payments. Multi-currency balances Multi-currency balances Multi-currency balances Hold dollars or euros and pay suppliers when youâre ready. Hold dollars or euros and pay suppliers when youâre ready. Real-time tracking Real-time tracking Real-time tracking Follow every payment, with a WhatsApp alert at each stage. Follow every payment, with a WhatsApp alert at each stage. Live rates Live rates Live rates A rate in a few clicks, even at weekends. A rate in a few clicks, even at weekends. Users & roles Users & roles Users & roles Invite your team and give each member the right permission level. Invite your team and give each member the right permission level. Check todayâs rate on WhatsApp. Check todayâs rate on WhatsApp. Check todayâs rate on WhatsApp. Choose your currencies: your request opens in WhatsApp and our team sends your quote there. Choose your currencies: your request opens in WhatsApp and our team sends your quote there. Choose your currencies: your request opens in WhatsApp and our team sends your quote there. 1 Pick the currency you pay in 2 Pick your supplierâs currency 3 Tell us who you are 4 Get your quote on WhatsApp 1 Pick the currency you pay in 2 Pick your supplierâs currency 3 Tell us who you are 4 Get your quote on WhatsApp Rates shared on WhatsApp are indicative. Only Capi account holders can get a rate guaranteed for 48 hours, from their dashboard. Rates shared on WhatsApp are indicative. Only Capi account holders can get a rate guaranteed for 48 hours, from their dashboard. Start here â You pay Supplier receives Route Choose your local currency + 2 XOF West African CFA franc XAF Central African CFA franc KES Ke",
+   "email_candidates": [
+    {
+     "email": "mitch@capimoney.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Mitch Riley",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "scott@capimoney.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Scott Liddle",
+     "role": "Founder"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "cd7a682a51",
+   "company": "LiteLLM",
+   "website": "https://www.litellm.ai/",
+   "title": "Engineering (YC Winter 2023)",
+   "location": "United States of America, America / Canada",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 20. Call every LLM API like it's OpenAI [100+ LLMs] LiteLLM is an open-source LLM Gateway with 50K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format We have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund AIOps, Artificial Intelligence, Developer Tools, Generative AI, Open Source, B2B, United States of America, America / Canada",
+   "site_text": "[https://www.litellm.ai/]\nLiteLLM — Open-Source AI Gateway & LLM Proxy See how AT&T cut coding costs by 56% with LiteLLM. Read here Hiring The AI Gateway for platform teams Put your full AI stack behind one key. See who is driving spend, cap it before it runs, and send each request to the model that should handle it. Get started Talk to sales Open source. Self-hosted. Your AI App Humans Agents Machines AI GATEWAY Optimization Observability Routing Governance LLMs MCPs Agents Quick start macOS & Linux Windows Python SDK $ curl -fsSL https://raw.githubusercontent.com/BerriAI/litellm/main/scripts/quickstart.sh | sh Copied Testimonial Testimonial “LiteLLM gives NVIDIA engineers a single, consistent way to access more than 100 AI model endpoints .” Ajay Dogra Product, NVIDIA Testimonial Testimonial “LiteLLM streamlines the complexities of managing multiple LLM models.” Mark Koltnuk Principal Architect, Lemonade Testimonial Testimonial “LiteLLM has let my team provide the latest LLM models to our users, usually within a day of them being released… it has saved us months of work .” David Leen Staff Software Engineer, Netflix Testimonial Testimonial “If we decide to switch the backend model, it’s a simple configuration update in the gateway; no code changes, procurement cycles, or repetitive security reviews required.” Dennis Henry Productivity Architect, Okta Testimonial Testimonial “After the company began using router provider LiteLLM, the costs of some advanced AI tasks such as coding fell by as much as 56% .” Mark Austin VP, AT&T Data Office Why LiteLLM Give your whole org access to every model, agent, and MCP , then see, control, and optimize every request. 01 Access: Give your whole company every model. Put every model, agent, and MCP behind one API and one login. We handle key management and work with the secret manager you already run, so platform teams open access to the whole org without becoming the bottleneck, and developers build in minutes, not a procurement cycle. One OpenAI-compatible API to 140+ providers and 1,800+ models. Swap models without changing app code. One login with SSO , scoped by team, project, or app. Day-zero support for new models , so developers get the latest the day it ships. Reach agents and MCP servers through the same gateway, not just LLMs. Bring your own internal, fine-tuned, and self-hosted models behind the same key. Keys Create Key Endpoints Models Teams Team Members MCP AI Hub Virtual Keys Ask AI Export + Create New Key Showing 1–6 of 6 Filters Key Team Last Active Spend / Budget acme-prod-gateway Active sk-…9f2A platform-eng 2 min ago $4,182.55 / $10,000 wayne-data-science Active sk-…Tt09 data-science 3 min ago $6,740.15 / $12,000 hooli-data-squad Active sk-…Pq77 ai-gateway just now $3,301.42 / $8,000 globex-genai-platform Active sk-…7b01 ml-platform 5 min ago $1,905.20 / $5,000 ci-eval-runner Rate-limited sk-…Hh55 infra 7 min ago $58.44 / $250 umbrella-eng-sandbox Expired sk-…WW21 security 38 min ago $121.87 / $500 Rows per page: 6 Page 1 of 1 Key Ownership Owned By You Service Account Another User Agent New Organization All Organizations Team Search or select a team Key Details * Key Name e.g. prod-gateway-key Models Select models Leave empty to allow access to all models Key Type AI APIs Optional Settings Cancel Create Key Team: All Teams View: All 8 deployments Public Name Provider Mode Input / Output Health gpt-5 openai/gpt-5 OpenAI Chat $1.25 / $10 Healthy gpt-5-mini openai/gpt-5-mini OpenAI Chat $0.25 / $2 Healthy claude-opus-4-8 anthropic/claude-opus-4-8 Anthropic Chat $5 / $25 Healthy claude-sonnet-4-5 anthropic/claude-sonnet-4-5 Anthropic Chat $3 / $15 Healthy gemini-2.5-pro vertex_ai/gemini-2.5-pro Vertex AI Chat $1.25 / $10 Healthy llama-4-maverick bedrock/llama-4-maverick Bedrock Chat $0.35 / $1.40 Healthy text-embedding-3-large openai/text-embedding-3-large OpenAI Embedding $0.13 / — Healthy claude-opus-4-8 (global) anthropic/claude-opus-4-1 Anthropic Chat $5 / $25 Degraded ",
+   "email_candidates": [
+    {
+     "email": "ishaanjaffer0324@gmail.com",
+     "where": "GitHub commits (ishaan-jaff)",
+     "kind": "personal",
+     "name": "Ishaan Jaff",
+     "commits": 3
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "YC",
+   "referral": false
+  },
+  {
+   "id": "dabb6c9bd8",
+   "company": "Aside",
+   "website": "https://aside.com",
+   "title": "Engineering (YC Fall 2025)",
+   "location": "United States of America, America / Canada, Remote, Partly Remote",
+   "source": "yc_hiring",
+   "posted_at": null,
+   "posting": "Team size: 8. The browser built to do real work for you Aside is an AI browser that completes real work across the websites you already use. It can sign in through your browser, work inside email, dashboards, internal tools, docs, and spreadsheets, and keep going when a task takes minutes or hours. Unlike agents that depend on integrations, Aside uses the web the way you do. Browsing history becomes local memory, so it knows which tools and context matter. Its password manager lets agents autofill credentials without exposing secrets to the AI. Sensitive actions like payments, posts, and messages wait for your approval. We achieved state-of-the-art on agentic browsing benchmarks, surpassing OpenAI and Anthropic's result- Aside ranked #1 across Mind2Web, Odyssey, bu-bench-v1. Artificial Intelligence, SaaS, Automation, Consumer, United States of America, America / Canada, Remote, Partly Remote",
+   "site_text": "[https://aside.com/]\nAside | The browser built to do real work for you Backed by Y Combinator The most intelligent AI assistant, but it’s a browser. Download Download Bookmarks Notion Figma GitHub Chats New Chat Finding website design example San Francisco Largest Park Daily briefing Show all Tabs New Tab Agent tabs 3 New Tab Instagram Aside Browser | Notion Y Combinator Discord (6) Search Google or type a URL Ask AI a task, @ for context Tab to switch Search Ask Local Guard GPT-6 Astra High Recent tasks Working for 3m 46s Finding website design example Capturing a screenshot Saving in artifacts folder Check about page an hour ago San Francisco Largest Park The largest park in San Francisco is Golden Gate Park, spanning 1,017 acres of public green space. It is about 20% larger... an hour ago Every 9am Daily briefing Summary: You got 112 followers, 85 comments and 212 likes. Yesterday's trending topics: Charles Leclerc retires fr... Introducing Aside Today’s AI browsers are broken. They never complete a task. They say “I can’t do this” every time. They stop every time the work gets real, and they still lack the basics: speed and usability. Aside is a browser rebuilt for people and agents. It works across your logged-in websites and handles complex work other agents can’t: messages, payments, internal tools, and everything in between. Unlimited capability Anything you do in a browser, Aside can do for you. Unlike other AI agents that rely on integrations, Aside just uses websites and accounts directly, just like you do. That means you can ask any task in your mind anytime you need. The only wall is the imagination. Signing in Aside signs in and works across your email, dashboards, and internal tools. Communications Aside handles comments, replies, and follow-ups for you. Docs and Spreadsheets Aside can work with files directly on your computer. The SOTA browser agent. Aside ranked #1 on three browser agent benchmarks: Online-Mind2Web, BU-Bench-V1, and Odysseys, surpassing OpenAI, Anthropic, and Browser Use. Learn more Online-Mind2Web BU Bench v1 Odyssey Aside 99.0% Browser Use 97.7% GPT-5.4 92.8% Claude Opus 4.8 84.0% ChatGPT Atlas 70.0% Memory that knows what you’re working on. Aside knows which sites to use for which work. It turns your browsing history into memory, so you don’t have to repeat context every time. All memory stays local on your device and is never shared with anyone. Learn more Find the candidate I opened yesterday and prep interview notes Password Manager Password that * * * * * * * * * * * * * . AI agents stop at login screen and ask you to log in every time. Aside lets agents sign in through autofill, without ever exposing your credentials to the AI. Secrets stay invisible to AI Credentials are autofilled into websites, not exposed to the agent. Human approval at the edge Sensitive actions like payments, posts, and messages always wait for your confirmation. A record of every access Every credential use is logged, so you know exactly what the agent touched. Aside Vault The first password manager built for agents. Learn more Hardware-backed E2E encryption Your data is full encrypted in local and protected by Secure Enclave. Scoped access and audit log Give the agent access only to what each task needs. See what it used, when, and why. Privacy and control * * * * * * * enough to use real data. Aside runs on your device, keeps data protected, and gates sensitive actions for your review. Local by default Tasks, memory, and data stay on your device. Nothing is shared with LLM providers. Encrypted by your password Everything is secured in Secure Enclave and post-quantum encryption. Sandbox with guardrails Aside isolates filesystem and network access to help keep your data protected. Bring your own subscription Use your ChatGPT or Claude subscriptions, or bring your own API key. Crafted for both human and agent. Start using today. Download\n\n[https://aside.com/blog/operations]\nAside | Aside for Operations Aside for ",
+   "email_candidates": [
+    {
+     "email": "jun@aside.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Jun Kim",
+     "role": "Founder/CEO"
+    },
+    {
+     "email": "chanhee@aside.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Chanhee Lee",
+     "role": "Founder/CPO"
+    },
+    {
+     "email": "sanghun@aside.com",
+     "where": "pattern guess (YC profile)",
+     "kind": "guessed",
+     "name": "Sanghun Lee",
+     "role": "Founder/CTO"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "",
+   "referral": false
+  },
+  {
+   "id": "b8cbf848af",
+   "company": "Conduent",
+   "website": "https://conduent.com",
+   "title": "App Dev & Support Engineer I",
+   "location": "Noida, Uttar Pradesh, India",
+   "source": "linkedin",
+   "posted_at": "2026-10-24T00:00:00Z",
+   "posting": "Through our dedicated associates, Conduent delivers mission-critical services and solutions on behalf of Fortune 100 companies and over 500 governments - creating exceptional outcomes for our clients and the millions of people who count on them. You have an opportunity to personally thrive, make a difference and be part of a culture where individuality is noticed and valued every day. Job Track Description: Role Overview As a software Developer, you’ll be part of our core product-engineering team, designing and developing high-performance APIs and platform services that power modern digital applications. What You’ll Do Design, develop, and maintain backend services and APIs using .NET Core (.NET 8/9 and C#). Develop and maintain REST APIs and gRPC services used by applications. Work with SQL Server for relational data storage and use Dapper & Entity Framework for data access. Write automated unit and integration tests for end-to-end testing using Playwright. Work with Azure DevOps for source control, CI/CD pipelines, and deployments. Collaborate closely with product and frontend teams to ship high-quality features. Required Skills Experience with .NET Core / .NET 8/9 and C# Experience developing REST APIs and Web APIs Experience working with gRPC services Experience with automated testing tools (like Playwright) Experience with SQL Server skills. Experience with Dapper and Entity Framework. Experience with Azure DevOps and Git-based workflows Understanding of API based architecture and security (JWT, OAuth2) Nice to Have Experience building cloud-native applications (Azure preferred). Integration experience with Keycloak, Azure Communication services (ACS) Familiarity with containerization (Docker / Kubernetes). Experience in product-driven or SaaS environments Experience with Domain-Driven Design (DDD) principles Conduent is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, creed, religion, ancestry, national or",
+   "site_text": "[https://www.conduent.com/]\nConduent - Drive Progress in Every Process Skip to content Skip to main navigation Skip to footer Show Search Input Hide Search Input Home Toggle Main Menu Home Country Selector North America United States (English) Europe France (French) Germany (German) Italy (Italian) Netherlands (Dutch) United Kingdom (English) Asia / Pacific Australia (English) Show Filters Can't find what you're looking for? We’re here to help. Contact Us Drive progress in every process Technology-led solutions to improve experiences, drive efficiency and reduce costs Connect with us Turn complexity into clarity with AI-driven transformation Simplify vendor operations while enhancing experiences and empowering your people Learn more Accelerate your operations with AI and automation Intelligent AI and automation solutions to supercharge efficiency and reduce costs Learn more Elevate customer experiences at every turn CX solutions that lower costs and lead to lasting relationships Learn more Transform the way the world travels Transportation solutions for more efficient, seamless and safer journeys Learn more Navigate the new era of government efficiency Solutions to fight fraud, protect program integrity and serve residents effectively Learn more Turn financial blind spots into big savings Spend analytics and AP recovery services to find hidden costs and cut them Learn more Fight fraud for all who depend on you Payments protection solutions to safeguard residents and program integrity Learn more Ignite healthcare claims efficiency Claims automation to reduce costs and improve outcomes Learn more Delivering for our clients at scale $80B in government payments disbursed annually 2B customer service interactions supported each year $14.3B in tolling transactions processed annually Innovative solutions and services for business and government Adapt, grow and get more done. Whether you’re supporting customers, users, travelers, employees or millions of residents, our AI- and automation-powered solutions turn roadblocks into results — equipping you with the people, processes and technology you need to drive exceptional outcomes across your organization. Commercial Solutions Increase operational efficiencies, improve experiences and reduce costs, at scale, with tech-led solutions and services. Learn more Government Solutions Keep residents healthier and engaged in their communities with optimized delivery of essential services. Learn more Transportation Solutions Reduce congestion and create safe, seamless and convenient journeys that get travelers to their destinations faster. Learn more Agentic AI is transforming the healthcare experience for members and providers Read the blog Move your organization ahead Every day Conduent helps improve processes, interactions and outcomes for our clients and the millions of people who count on them. It’s why we’re trusted by some of the world’s largest brands and government agencies and consistently recognized by leading analyst firms and publications. Featured insights Rebuilding performance and trust in a state Medicaid program Read the case study Modernizing legacy IT in finance: a checklist for compliance and ROI Read the blog Understanding compliance and integrity in healthcare payments Read the blog Interested in joining Conduent? Browse our current openings. Browse careers\n\n[https://www.conduent.com/customer-experience-management/customer-contact-solutions/]\nCustomer Contact Solutions – Conduent Skip to content Skip to main navigation Skip to footer Show Search Input Hide Search Input Home Toggle Main Menu Home Country Selector North America United States (English) Europe France (French) Germany (German) Italy (Italian) Netherlands (Dutch) United Kingdom (English) Asia / Pacific Australia (English) Show Filters Can't find what you're looking for? We’re here to help. Contact Us Customer Experience Management Customer Contact Solutions Deliver superior customer experiences Connect with us De",
+   "email_candidates": [
+    {
+     "email": "ftadaaa@conduent.com",
+     "where": "job posting",
+     "kind": "personal"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "Noida",
+   "referral": false
+  },
+  {
+   "id": "381d2ab910",
+   "company": "Pragyaa",
+   "website": "https://pragyaa.ai",
+   "title": "Junior FDE (AI & Backend)",
+   "location": "Gurugram, Haryana, India",
+   "source": "linkedin",
+   "posted_at": "2026-10-27T00:00:00Z",
+   "posting": "Junior FDE (AI & Backend): 1-3 Years of Experience Context We are building AI-native products on the Anthropic API and MCP, backed by a Django/DRF + PostgreSQL platform and a React/Next.js frontend, deployed on Azure. The team works in an AI-assisted workflow (agentic AI coding tools are a daily tool), so the Junior FDE must be able to review, understand and own every line that ships. This is a build-and-learn role: you work from tickets a senior has scoped, with code review on every change, and grow into owning full features. What the role owns Own scoped tickets end-to-end: build DRF endpoints and models, implement individual LLM workflows (prompts, tool calls, MCP tools), fix bugs from logs and traces, and test what you ship — then take feedback from review and cut repeat mistakes. The actual workload (by share of time); Backend features & APIs (~35%) DRF models, serializers, viewsets, migrations on PostgreSQL • e.g. \"Add a filter + pagination to the cases list API\" • e.g. \"New field with migration and serializer\" LLM workflows, skills & MCP connectors (~25%) Prompts, tool use, agent skills, custom MCP tools/connectors • e.g. \"Add an MCP tool that fetches a matter's documents\" • e.g. \"Write a skill for the intake checklist\" • e.g. \"Tighten the extraction prompt\" Async jobs & integrations (~15%) Celery/Redis tasks, third-party APIs, auth (JWT/OAuth2) • e.g. \"Move document summarisation to a Celery task with retry\" Bugs & debugging (~15%) • e.g. \"Task stuck in pending — find why\" • e.g. \"500 on empty payload\" Tests, review & light frontend (~10%) pytest, PR cycles, small React/Next.js fixes • e.g. \"Add tests for the new endpoint\" • e.g. \"Wire the new API into the Next.js list page\" Priority reality: tickets arrive with mixed urgency. A Junior FDE flags blockers early, asks before guessing, and escalates anything touching auth, data or production to a senior rather than fixing it alone. Tech stack AI/LLM engineering: Anthropic API, MCP (Model Context Protocol), agen",
+   "site_text": "[https://pragyaa.ai/]\npragyaa.ai Voice is the New UI. Gen AI is the New OS. Welcome to the Future of Enterprise AI Explore Products Contact Us Enterprise AI, simplified Our AI Products VoiceAgent Intelligent voice assistant that provides natural, human-like conversations powered by advanced AI Try VoiceAgent VoiceLens Advanced voice analytics platform providing real-time insights from customer interactions Explore VoiceLens PredictML ML-based prediction models for various enterprise use cases with high accuracy Discover PredictML Your Enterprise AI Partner 01 Expertise A dedicated team of AI specialists who bring a wealth of experience 02 Innovation Continuous R&D to stay ahead in AI technology and solutions 03 Customization Tailored solutions designed to meet your specific enterprise needs 04 Global Reach Your reliable AI partner, no matter where you are located Get in Touch Contact Information Email info@pragyaa.ai Global Presence New Delhi Bengaluru Dubai London Singapore Dallas Schedule a Demo Interested in seeing our products in action? Schedule a personalized demo with our team. Book a Demo",
+   "email_candidates": [
+    {
+     "email": "info@pragyaa.ai",
+     "where": "https://pragyaa.ai/",
+     "kind": "generic"
+    }
+   ],
+   "pay": null,
+   "priority": 0,
+   "priority_note": "Gurugram",
+   "referral": false
+  }
+ ]
+}
